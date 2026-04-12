@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "displayName": "开发小二",
+  "description": "全栈开发 agent（开发小二）。前后端都能写，只写代码，不说自测通过。测试由创业助手执行。",
+  "defaultModel": "zai/glm-5",
+  "skills": [
+    "code-quality-guard",
+    "code-review-checklist",
+    "humanize-code",
+    "iterative-contract",
+    "agent-discipline"
+  ],
+  "enabled": true
+}

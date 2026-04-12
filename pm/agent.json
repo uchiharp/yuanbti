@@ -1,0 +1,14 @@
+{
+  "name": "pm",
+  "displayName": "产品经理",
+  "description": "需求分析、PRD编写。验收标准必须可测试。",
+  "defaultModel": "zai/glm-5",
+  "skills": [
+    "prd-review",
+    "reasoning-rag",
+    "requirements-analysis",
+    "iterative-contract",
+    "agent-discipline"
+  ],
+  "enabled": true
+}

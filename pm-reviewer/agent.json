@@ -1,0 +1,15 @@
+{
+  "name": "pm-reviewer",
+  "displayName": "PM·评审官",
+  "description": "PM的对手Agent。专门审查PM的产出，评审、找问题、提改进。保留PM的原始能力，但核心职责是质疑和校正。",
+  "defaultModel": "zai/GLM-5.1",
+  "skills": [
+    "code-quality-guard",
+    "humanize-code",
+    "prd-review",
+    "iterative-contract",
+    "code-review-standard",
+    "agent-discipline"
+  ],
+  "enabled": true
+}

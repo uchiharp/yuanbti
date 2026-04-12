@@ -1,0 +1,19 @@
+{
+  "name": "qa-reviewer",
+  "displayName": "QA·评审官",
+  "description": "QA的对手Agent。专门审查QA的产出，评审、找问题、提改进。Playwright实操+代码审查，确保测试质量。保留QA的原始能力，但核心职责是质疑和校正。",
+  "defaultModel": "zai/GLM-5.1",
+  "skills": [
+    "browser-test",
+    "code-quality-guard",
+    "humanize-code",
+    "qa-review",
+    "qa-workflow",
+    "run-tests",
+    "iterative-contract",
+    "code-review-standard",
+    "agent-discipline",
+    "qa-review-workflow"
+  ],
+  "enabled": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ui-designer",
+  "displayName": "UI设计师",
+  "description": "视觉设计、排版、配色、交互细节",
+  "defaultModel": "zai/glm-5",
+  "skills": [
+    "finder-ui",
+    "ui-review",
+    "iterative-contract",
+    "agent-discipline"
+  ],
+  "enabled": true
+}

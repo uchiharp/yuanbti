@@ -1,0 +1,14 @@
+{
+  "name": "ux-tester",
+  "displayName": "UX测试",
+  "description": "用户体验测试。使用 Peekaboo 像真实用户一样操作 macOS 应用，截图验证体验。",
+  "defaultModel": "zai/glm-5",
+  "skills": [
+    "browser-test",
+    "qa-workflow",
+    "ux-review",
+    "iterative-contract",
+    "agent-discipline"
+  ],
+  "enabled": true
+}

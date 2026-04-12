@@ -1,0 +1,47 @@
+# sessions（运行时数据）
+sessions/
+*/sessions/
+
+# auth/profiles（敏感凭证）
+auth-profiles.json
+*/auth-profiles.json
+agent/auth-profiles.json
+models.json
+*/models.json
+agent/models.json
+
+# 有独立git的workspace
+pm/workspace/
+frontend/workspace/
+ux-tester/workspace/
+qa/workspace/
+backend/workspace/
+architect/workspace/
+ui-designer/workspace/
+
+# 其他workspace
+*/workspace/memory/
+*/workspace/.openclaw/
+*.png
+*.js
+*.sh
+*.mjs
+*.html
+node_modules/
+tmp/
+test-results/
+*.bak
+
+# 非流水线agent
+chendeng/
+zhangmiao/
+fit-buddy/
+learn/
+app-publisher/
+glm-5/
+cron-reporter/
+main/
+shared-*/
+
+# macOS
+.DS_Store

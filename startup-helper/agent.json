@@ -1,0 +1,19 @@
+{
+  "name": "startup-helper",
+  "displayName": "创业助手",
+  "description": "项目协调者和唯一测试执行者。自己跑命令验证代码，不信任其他Agent的自测报告。",
+  "defaultModel": "zai/glm-5-turbo",
+  "skills": [
+    "code-quality-guard",
+    "feishu-doc",
+    "feishu-drive",
+    "feishu-wiki",
+    "task-decomposition",
+    "task-review",
+    "web_search",
+    "finder-qa",
+    "iterative-contract",
+    "agent-discipline"
+  ],
+  "enabled": true
+}
