@@ -9,7 +9,8 @@
     "tech-architecture",
     "tech-spike",
     "iterative-contract",
-    "agent-discipline"
+    "agent-discipline",
+    "humanize-code"
   ],
   "enabled": true
 }

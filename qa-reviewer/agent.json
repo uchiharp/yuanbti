@@ -6,12 +6,10 @@
   "skills": [
     "browser-test",
     "code-quality-guard",
-    "humanize-code",
     "qa-review",
     "qa-workflow",
     "run-tests",
     "iterative-contract",
-    "code-review-standard",
     "agent-discipline",
     "qa-review-workflow"
   ],

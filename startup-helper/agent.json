@@ -13,7 +13,13 @@
     "web_search",
     "finder-qa",
     "iterative-contract",
-    "agent-discipline"
+    "agent-discipline",
+    "skill-architect",
+    "humanize-code",
+    "task-decomposer",
+    "project-scout",
+    "agent-pipeline",
+    "task-verifier"
   ],
   "enabled": true
 }

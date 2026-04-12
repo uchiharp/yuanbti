@@ -5,11 +5,10 @@
   "defaultModel": "zai/GLM-5.1",
   "skills": [
     "code-quality-guard",
-    "humanize-code",
     "ux-review",
     "iterative-contract",
-    "code-review-standard",
-    "agent-discipline"
+    "agent-discipline",
+    "humanize-code"
   ],
   "enabled": true
 }

@@ -6,12 +6,11 @@
   "skills": [
     "code-quality-guard",
     "code-review-checklist",
-    "humanize-code",
     "task-review",
     "qa-workflow",
     "iterative-contract",
-    "code-review-standard",
-    "agent-discipline"
+    "agent-discipline",
+    "humanize-code"
   ],
   "enabled": true
 }

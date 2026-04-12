@@ -7,10 +7,9 @@
     "architecture-review",
     "code-quality-guard",
     "code-review-checklist",
-    "humanize-code",
     "iterative-contract",
-    "code-review-standard",
-    "agent-discipline"
+    "agent-discipline",
+    "humanize-code"
   ],
   "enabled": true
 }

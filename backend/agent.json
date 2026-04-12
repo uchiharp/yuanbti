@@ -7,8 +7,9 @@
     "code-quality-guard",
     "code-review-checklist",
     "humanize-code",
+    "agent-discipline",
     "iterative-contract",
-    "agent-discipline"
+    "task-decomposition"
   ],
   "enabled": true
 }

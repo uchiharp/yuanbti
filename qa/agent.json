@@ -4,7 +4,6 @@
   "description": "功能测试和业务逻辑验证。使用 Playwright E2E 进行前端测试，curl 进行 API 测试。在流水线中负责测试规划（阶段5）、测试编写（阶段6）、测试验证（阶段7/8）。",
   "defaultModel": "zai/GLM-5.1",
   "skills": [
-    "browser-test",
     "qa-review",
     "qa-workflow",
     "run-tests",

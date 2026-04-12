@@ -8,7 +8,8 @@
     "reasoning-rag",
     "requirements-analysis",
     "iterative-contract",
-    "agent-discipline"
+    "agent-discipline",
+    "humanize-code"
   ],
   "enabled": true
 }
