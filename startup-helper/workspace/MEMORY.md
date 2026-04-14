@@ -347,4 +347,32 @@
 
 ---
 
+## 阿里云服务器（Finder App 部署用）
+
+- **创建日期:** 2026-04-13
+- **公网IP:** 8.147.115.189
+- **私网IP:** 192.168.1.30
+- **配置:** 2核 2G，3Mbps 带宽
+- **系统:** Alibaba Cloud Linux 3.2104 LTS 64位
+- **地域:** 华北2（北京）可用区 I
+- **付费:** 包年包月
+- **SSH:** root@8.147.115.189（密码见用户）
+- **实例ID:** i-2ze4e3ag2dlgc2mcnw88
+
+### 已安装服务
+- **Docker 26.1.3** + Docker Compose v2.27.0
+- **PostgreSQL 16 + pgvector 0.8.2**
+  - 端口: 5432
+  - 数据库: finder
+  - 用户: finder
+  - 密码: Finder2026secure!
+- **Redis 7 Alpine**
+  - 端口: 6379
+  - 密码: Finder2026redis!
+
+### OSS（待配置）
+- 已开通，等待 AccessKey 信息
+
+---
+
 此文件会持续更新，记录重要对话和项目进展。

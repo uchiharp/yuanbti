@@ -33,3 +33,29 @@
 ---
 
 *技能配置会根据实际使用逐步完善 🚀*
+
+
+---
+
+## 📥 **feishu-media** - 下载飞书消息中的图片/视频/文件
+**触发场景：**
+- 用户发送图片、视频或文件
+- 需要在本地处理媒体文件（如图片识别、视频分析）
+
+**使用方式：**
+```
+读取：/Users/sunwenyong/.openclaw/workspace/skills/feishu-media/SKILL.md
+```
+
+**下载命令：**
+```bash
+python3 ~/.openclaw/workspace/skills/feishu-media/scripts/download_media.py \
+  --message-id "om_xxxxx" --file-key "file_v3_xxxxx" \
+  --file-name "output.mp4" --type video --account-id <当前bot的account_id>
+```
+
+**用完后清理：**
+```bash
+python3 ~/.openclaw/workspace/skills/feishu-media/scripts/download_media.py --cleanup
+```
+
