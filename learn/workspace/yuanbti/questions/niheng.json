@@ -120,7 +120,7 @@
     "id": "祢衡_funny_03",
     "type": "funny",
     "dimension": [
-      "S3"
+      "S5"
     ],
     "source_character": "祢衡",
     "text": "祢衡看到笼子里的人说「没有准备短刀啊、毒药啊什么的吗？活活烧死很难过的」，语气像在问菜单。",
@@ -129,28 +129,28 @@
         "label": "A",
         "text": "顺着他的思路，说火势还来得及吗",
         "scores": {
-          "S3": 5
+          "S5": 5
         },
         "tendency": "H",
-        "reasoning": "理性评估可行性而非感情用事→S3:5"
+        "reasoning": "理性评估可行性而非感情用事→S5:5"
       },
       {
         "label": "B",
         "text": "说那我们赶紧想办法救",
         "scores": {
-          "S3": 1
+          "S5": 1
         },
         "tendency": "L",
-        "reasoning": "不绕弯子但分值低说明行为简单→S3:1"
+        "reasoning": "不绕弯子但分值低说明行为简单→S5:1"
       },
       {
         "label": "C",
         "text": "说你倒是挺有经验的",
         "scores": {
-          "S3": 3
+          "S5": 3
         },
         "tendency": "M",
-        "reasoning": "用调侃回应但没深入→S3:3"
+        "reasoning": "用调侃回应但没深入→S5:3"
       }
     ],
     "reveal": "祢衡看到笼子里的人说「没有准备短刀啊、毒药啊什么的吗？活活烧..."

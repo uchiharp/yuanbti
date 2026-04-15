@@ -42,7 +42,7 @@
     "id": "史子眇_s3_05",
     "type": "funny",
     "dimension": [
-      "S3"
+      "S5"
     ],
     "source_character": "史子眇",
     "text": "土大概这样厚……」一边说一边比划。",
@@ -51,28 +51,28 @@
         "label": "A",
         "text": "跟着他学种，边种边问细节",
         "scores": {
-          "S3": 5
+          "S5": 5
         },
         "tendency": "H",
-        "reasoning": "认真对待他的教学，务实好学→S3:5"
+        "reasoning": "认真对待他的教学，务实好学→S5:5"
       },
       {
         "label": "B",
         "text": "看着，但不动手",
         "scores": {
-          "S3": 1
+          "S5": 1
         },
         "tendency": "L",
-        "reasoning": "被动学习，不主动实践→S3:1"
+        "reasoning": "被动学习，不主动实践→S5:1"
       },
       {
         "label": "C",
         "text": "帮他一起种，但不问为什么",
         "scores": {
-          "S3": 3
+          "S5": 3
         },
         "tendency": "M",
-        "reasoning": "行动但不深究原理→S3:3"
+        "reasoning": "行动但不深究原理→S5:3"
       }
     ],
     "reveal": "「这是红薯苗……然后这头朝上。土大概这样厚……」——史子眇教辩儿种地"
@@ -81,7 +81,7 @@
     "id": "shizimiao_s10_1",
     "type": "daily",
     "dimension": [
-      "S10"
+      "S8"
     ],
     "source_character": "shizimiao",
     "text": "史子眇仔细地把你弄脏的衣摆擦干净然后叠好放在你手边。",
@@ -90,28 +90,28 @@
         "label": "A",
         "text": "说谢谢你每次都这么细心",
         "scores": {
-          "S10": 5
+          "S8": 5
         },
         "tendency": "H",
-        "reasoning": "肯定他遵守规矩细心照顾人的行为→S10:5"
+        "reasoning": "肯定他遵守规矩细心照顾人的行为→S8:5"
       },
       {
         "label": "B",
         "text": "说不用那么麻烦我自己来",
         "scores": {
-          "S10": 3
+          "S8": 3
         },
         "tendency": "M",
-        "reasoning": "不反对但想自己来→S10:3"
+        "reasoning": "不反对但想自己来→S8:3"
       },
       {
         "label": "C",
         "text": "说你别管我的衣服了",
         "scores": {
-          "S10": 1
+          "S8": 1
         },
         "tendency": "L",
-        "reasoning": "拒绝他人的细心照顾→S10:1"
+        "reasoning": "拒绝他人的细心照顾→S8:1"
       }
     ],
     "reveal": "史子眇是个安静但很细心的人，总是默默把事情做好。"

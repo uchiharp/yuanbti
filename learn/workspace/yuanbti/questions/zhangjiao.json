@@ -159,7 +159,7 @@
     "id": "zhangjiao_s9_1",
     "type": "angst",
     "dimension": [
-      "S9"
+      "S6"
     ],
     "source_character": "zhangjiao",
     "text": "张角叹气说「这个冬天很冷，城中的老弱快要撑不住了……请你多放些粮米能多救一人便是一人吧」。",
@@ -168,28 +168,28 @@
         "label": "A",
         "text": "说我会想办法的能救一个是一个",
         "scores": {
-          "S9": 5
+          "S6": 5
         },
         "tendency": "H",
-        "reasoning": "不认命积极行动救人→S9:5"
+        "reasoning": "不认命积极行动救人→S6:5"
       },
       {
         "label": "B",
         "text": "说我也没办法粮米不够分",
         "scores": {
-          "S9": 1
+          "S6": 1
         },
         "tendency": "L",
-        "reasoning": "接受无法救更多人的命运→S9:1"
+        "reasoning": "接受无法救更多人的命运→S6:1"
       },
       {
         "label": "C",
         "text": "说先看看能挤出多少来",
         "scores": {
-          "S9": 3
+          "S6": 3
         },
         "tendency": "M",
-        "reasoning": "务实但不完全放弃→S9:3"
+        "reasoning": "务实但不完全放弃→S6:3"
       }
     ],
     "reveal": "张角关心的是最底层的百姓，他的权力来自民心。"

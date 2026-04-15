@@ -159,7 +159,7 @@
     "id": "linghumao_s9_1",
     "type": "scheme",
     "dimension": [
-      "S9"
+      "S8"
     ],
     "source_character": "linghumao",
     "text": "令狐茂冷冷地说「回去一次兄长们都老了。再回去就完全不认识了」。",
@@ -168,28 +168,28 @@
         "label": "A",
         "text": "说那就趁还记得回去看看",
         "scores": {
-          "S9": 5
+          "S8": 5
         },
         "tendency": "H",
-        "reasoning": "不认命主动把握时间→S9:5"
+        "reasoning": "不认命主动把握时间→S8:5"
       },
       {
         "label": "B",
         "text": "说人总是会变的接受就好",
         "scores": {
-          "S9": 1
+          "S8": 1
         },
         "tendency": "L",
-        "reasoning": "接受变化和宿命→S9:1"
+        "reasoning": "接受变化和宿命→S8:1"
       },
       {
         "label": "C",
         "text": "说你想回去的话我帮你安排",
         "scores": {
-          "S9": 3
+          "S8": 3
         },
         "tendency": "M",
-        "reasoning": "提供帮助但不强迫→S9:3"
+        "reasoning": "提供帮助但不强迫→S8:3"
       }
     ],
     "reveal": "令狐茂嘴上冷冷的但心里很在意家人。"

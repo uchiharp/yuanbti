@@ -159,7 +159,7 @@
     "id": "zy_funny_03",
     "type": "funny",
     "dimension": [
-      "S3"
+      "S7"
     ],
     "source_character": "周瑜",
     "text": "朝歌之战密探故事中，周瑜被人从睡梦中叫醒，怒目而视：“我在睡觉，你有病吧？”——他的起床气比军略更可怕，但谁也不敢真的怕他。",
@@ -168,28 +168,28 @@
         "label": "A",
         "text": "说正事等不了",
         "scores": {
-          "S3": 3
+          "S7": 3
         },
         "tendency": "M",
-        "reasoning": "折中处理说正事等不了……S3处于中等水平→S3:3"
+        "reasoning": "折中处理说正事等不了……S7处于中等水平→S7:3"
       },
       {
         "label": "B",
         "text": "赶紧道歉",
         "scores": {
-          "S3": 1
+          "S7": 1
         },
         "tendency": "L",
-        "reasoning": "回避了赶紧道歉……S3倾向较低→S3:1"
+        "reasoning": "回避了赶紧道歉……S7倾向较低→S7:1"
       },
       {
         "label": "C",
         "text": "说你的起床气比敌人更难对付",
         "scores": {
-          "S3": 5
+          "S7": 5
         },
         "tendency": "H",
-        "reasoning": "冷幽默地务实评估→S3:5"
+        "reasoning": "冷幽默地务实评估→S7:5"
       }
     ],
     "reveal": "朝歌之战密探故事中周瑜被叫醒。"
@@ -471,7 +471,7 @@
     "id": "zy_scheme_04",
     "type": "scheme",
     "dimension": [
-      "S3"
+      "S1"
     ],
     "source_character": "周瑜",
     "text": "周瑜说「斥候发现林间有火油，应是提前布置的，阳城山走不了。若强行打襄城，难以速战速决。」",
@@ -480,28 +480,28 @@
         "label": "A",
         "text": "说火油是提前布置的，说明对方算到我们会走这条路",
         "scores": {
-          "S3": 5
+          "S1": 5
         },
         "tendency": "H",
-        "reasoning": "反向推导敌方的情报→S3:5"
+        "reasoning": "反向推导敌方的情报→S1:5"
       },
       {
         "label": "B",
         "text": "说那就退回去",
         "scores": {
-          "S3": 1
+          "S1": 1
         },
         "tendency": "L",
-        "reasoning": "遇到困难就退→S3:1"
+        "reasoning": "遇到困难就退→S1:1"
       },
       {
         "label": "C",
         "text": "问还有什么路可走",
         "scores": {
-          "S3": 3
+          "S1": 3
         },
         "tendency": "M",
-        "reasoning": "务实寻找替代→S3:3"
+        "reasoning": "务实寻找替代→S1:3"
       }
     ],
     "reveal": "朝歌之战中周瑜识破火油陷阱。"
