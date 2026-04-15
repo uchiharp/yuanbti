@@ -351,45 +351,6 @@
     "reveal": "七载相逢中秋中陈登在灵骨塔前苦笑。"
   },
   {
-    "id": "cd_scheme_01",
-    "type": "scheme",
-    "dimension": [
-      "S1"
-    ],
-    "source_character": "陈登",
-    "text": "陈登说「晚生支持拥立天子——但不是阙宣，而是广陵王。」",
-    "options": [
-      {
-        "label": "A",
-        "text": "问拥立广陵王和拥立阙宣有什么区别",
-        "scores": {
-          "S1": 3
-        },
-        "tendency": "M",
-        "reasoning": "折中处理问拥立广陵王和拥……S1处于中等水平→S1:3"
-      },
-      {
-        "label": "B",
-        "text": "说你支持我？",
-        "scores": {
-          "S1": 1
-        },
-        "tendency": "L",
-        "reasoning": "没看到权谋层面→S1:1"
-      },
-      {
-        "label": "C",
-        "text": "说你选我是因为我比阙宣好控制对吧",
-        "scores": {
-          "S1": 5
-        },
-        "tendency": "H",
-        "reasoning": "以权谋逻辑反问→S1:5"
-      }
-    ],
-    "reveal": "丹书白马中陈登表态拥立广陵王。"
-  },
-  {
     "id": "cd_scheme_03",
     "type": "scheme",
     "dimension": [
@@ -516,7 +477,7 @@
     "text": "陈登拉住你说「别动……昨天又裂开了。天气暖了，剑伤很容易感染的」。",
     "options": [
       {
-        "label": "C",
+        "label": "A",
         "text": "说让他坐下自己帮他重新包扎",
         "scores": {
           "S8": 5
@@ -525,7 +486,7 @@
         "reasoning": "温柔地照顾他的伤→S8:5"
       },
       {
-        "label": "A",
+        "label": "B",
         "text": "说知道了会注意的",
         "scores": {
           "S8": 3
@@ -534,7 +495,7 @@
         "reasoning": "关心但保持距离→S8:3"
       },
       {
-        "label": "B",
+        "label": "C",
         "text": "说他一个大男人怎么这么娇气",
         "scores": {
           "S8": 1
@@ -555,7 +516,7 @@
     "text": "陈登端着鱼脍说「鱼脍开好了！……哎，客人走了吗？」他的表情有点失落。",
     "options": [
       {
-        "label": "B",
+        "label": "A",
         "text": "说没走呢正准备吃",
         "scores": {
           "S8": 5
@@ -564,7 +525,7 @@
         "reasoning": "照顾他的心意和期待→S8:5"
       },
       {
-        "label": "C",
+        "label": "B",
         "text": "说客人走了但我在",
         "scores": {
           "S8": 3
@@ -573,7 +534,7 @@
         "reasoning": "安慰但有点直→S8:3"
       },
       {
-        "label": "A",
+        "label": "C",
         "text": "说走了下次再约",
         "scores": {
           "S8": 1
@@ -633,7 +594,7 @@
     "text": "陈登指着图纸说「码头的船坞大概在这片，会先打水下的固定木桩」。",
     "options": [
       {
-        "label": "C",
+        "label": "A",
         "text": "说按图纸来一步一步来",
         "scores": {
           "S10": 5
@@ -642,7 +603,7 @@
         "reasoning": "遵守工程规矩→S10:5"
       },
       {
-        "label": "A",
+        "label": "B",
         "text": "说水下木桩会不会被冲走",
         "scores": {
           "S10": 3
@@ -651,7 +612,7 @@
         "reasoning": "关注技术细节→S10:3"
       },
       {
-        "label": "B",
+        "label": "C",
         "text": "说太慢了能不能快点建",
         "scores": {
           "S10": 1
