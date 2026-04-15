@@ -1,0 +1,591 @@
+[
+  {
+    "id": "cd_sweet_03",
+    "type": "sweet",
+    "dimension": ["S2"],
+    "source_character": "陈登",
+    "text": "陈登说「人的一生，可真是短暂啊。」他看着你，「一念相见，无不欢喜。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「别说这种话，大过节的。」赶紧岔开话题。",
+        "scores": { "S2": 1 },
+        "tendency": "L",
+        "reasoning": "打断他的深情→S2:1"
+      },
+      {
+        "label": "B",
+        "text": "凑近他耳边，「那一念就是想见你，其他都不想——满意了？」",
+        "scores": { "S2": 3 },
+        "tendency": "M",
+        "reasoning": "用暧昧回应他的心动，间接但大胆→S2:3"
+      },
+      {
+        "label": "C",
+        "text": "「那这一念，我也很欢喜。」看着他的眼睛说。",
+        "scores": { "S2": 5 },
+        "tendency": "H",
+        "reasoning": "直接接住他的深情→S2:5"
+      }
+    ],
+    "reveal": "七载相逢中秋中陈登感叹人生短暂。"
+  },
+  {
+    "id": "cd_sweet_04",
+    "type": "sweet",
+    "dimension": ["S7"],
+    "source_character": "陈登",
+    "text": "户外阳光下，陈登弯腰为你拨开挡阳光的树叶，轻声说「我把叶子拨开一些吧。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「哟，长公子亲自动手拨叶子，我这面子也太大了吧？」笑着调侃。",
+        "scores": { "S7": 5 },
+        "tendency": "H",
+        "reasoning": "用他的头衔反调侃→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "「你也别光给我遮，来一起晒晒。」拉他过来。",
+        "scores": { "S7": 3 },
+        "tendency": "M",
+        "reasoning": "折中处理说你也来晒晒……S7处于中等水平→S7:3"
+      },
+      {
+        "label": "C",
+        "text": "「谢了。」礼貌但客气。",
+        "scores": { "S7": 1 },
+        "tendency": "L",
+        "reasoning": "回避了说谢谢……S7倾向较低→S7:1"
+      }
+    ],
+    "reveal": "…我把叶子拨开一些吧。」他弯腰为你拨开挡阳光的树叶。..."
+  },
+  {
+    "id": "cd_sweet_05",
+    "type": "sweet",
+    "dimension": ["S7"],
+    "source_character": "陈登",
+    "text": "陈登说「自称晚生显年轻啊。我要再脸皮厚一点，也天天只让人喊我什么长公子。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「那我叫你什么你才显老？陈大爷？陈老爷子？」故意越叫越老。",
+        "scores": { "S7": 5 },
+        "tendency": "H",
+        "reasoning": "以毒舌对毒舌→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "跟着笑，不接话。",
+        "scores": { "S7": 1 },
+        "tendency": "L",
+        "reasoning": "回避了跟着笑……S7倾向较低→S7:1"
+      },
+      {
+        "label": "C",
+        "text": "「行，那以后就叫你长公子，说到做到。」顺杆爬。",
+        "scores": { "S7": 3 },
+        "tendency": "M",
+        "reasoning": "折中处理说那以后就叫你长……S7处于中等水平→S7:3"
+      }
+    ],
+    "reveal": "七载相逢中秋中陈登拿长公子称呼开玩笑。"
+  },
+  {
+    "id": "cd_funny_02",
+    "type": "funny",
+    "dimension": ["S5"],
+    "source_character": "陈登",
+    "text": "陈登说「傅融，快来！阿蝉被烟花的声音震耳鸣了！」他一边喊一边已经往阿蝉那边跑了。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「来了来了！」小跑跟过去看看情况。",
+        "scores": { "S5": 3 },
+        "tendency": "M",
+        "reasoning": "折中处理跟过去看看……S5处于中等水平→S5:3"
+      },
+      {
+        "label": "B",
+        "text": "「你们先处理，我在这儿看着。」原地不动。",
+        "scores": { "S5": 1 },
+        "tendency": "L",
+        "reasoning": "回避了站在原地……S5倾向较低→S5:1"
+      },
+      {
+        "label": "C",
+        "text": "一个箭步超车冲到阿蝉面前，「我比长公子快！耳鸣哪边耳朵？」",
+        "scores": { "S5": 5 },
+        "tendency": "H",
+        "reasoning": "选择比他先跑到阿蝉那……体现了较高的S5倾向→S5:5"
+      }
+    ],
+    "reveal": "半周年团建中陈登大喊着跑向阿蝉。"
+  },
+  {
+    "id": "cd_funny_03",
+    "type": "funny",
+    "dimension": ["S3"],
+    "source_character": "陈登",
+    "text": "广陵成长计划中，陈登精准评估来使身份后说：「不是大门阀也不是名满天下的奇士，照常接待就好。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「照常接待是几斤茶叶几碟点心的规格？说清楚。」务实跟进。",
+        "scores": { "S3": 3 },
+        "tendency": "M",
+        "reasoning": "折中处理问他需要什么规格……S3处于中等水平→S3:3"
+      },
+      {
+        "label": "B",
+        "text": "「你就这么确定他没什么来头？」存疑。",
+        "scores": { "S3": 1 },
+        "tendency": "L",
+        "reasoning": "质疑但不务实→S3:1"
+      },
+      {
+        "label": "C",
+        "text": "「普通来使要是突然掏出一封密函或者要见隐秘人物呢？预案你写了没？」提前布局。",
+        "scores": { "S3": 5 },
+        "tendency": "H",
+        "reasoning": "预判务实风险→S3:5"
+      }
+    ],
+    "reveal": "广陵成长计划中陈登精准评估来使。"
+  },
+  {
+    "id": "cd_funny_04",
+    "type": "funny",
+    "dimension": ["S7"],
+    "source_character": "陈登",
+    "text": "啊……救命——」他摔了一跤，第一反应是鱼还在不在。",
+    "options": [
+      {
+        "label": "A",
+        "text": "默默转身走开——给他留最后一点体面，就当什么都没发生。",
+        "scores": { "S7": 1 },
+        "tendency": "L",
+        "reasoning": "收起锋芒，完全不戳穿→S7:1"
+      },
+      {
+        "label": "B",
+        "text": "笑着扶他起来，顺手把鱼塞回他怀里，「鱼没事就好，你嘛……勉强也还行。」",
+        "scores": { "S7": 3 },
+        "tendency": "M",
+        "reasoning": "用调侃的方式表达锋芒，分寸刚好→S7:3"
+      },
+      {
+        "label": "C",
+        "text": "蹲下来和鱼深情对视，「鱼鱼你没事吧？他摔了关你什么事啊。」完全无视他。",
+        "scores": { "S7": 5 },
+        "tendency": "H",
+        "reasoning": "用反差感拉满锋芒，笑着损人不留情面→S7:5"
+      }
+    ],
+    "reveal": "傅副官休沐日中陈登摔跤先看鱼。"
+  },
+  {
+    "id": "cd_angst_01",
+    "type": "angst",
+    "dimension": ["S6"],
+    "source_character": "陈登",
+    "text": "说是生老病死人之常情，只是……」他没说完。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「不只是人之常情——你明明不想接受，对吧？」替他说出口。",
+        "scores": { "S6": 5 },
+        "tendency": "H",
+        "reasoning": "替他说出他不敢说的→S6:5"
+      },
+      {
+        "label": "B",
+        "text": "「只是什么？」追着问下半句。",
+        "scores": { "S6": 3 },
+        "tendency": "M",
+        "reasoning": "折中处理说只是什么……S6处于中等水平→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "「确实是人之常情。」理性点头。",
+        "scores": { "S6": 1 },
+        "tendency": "L",
+        "reasoning": "用理性回避→S6:1"
+      }
+    ],
+    "reveal": "七载相逢中秋中陈登站在灵骨塔前。"
+  },
+  {
+    "id": "cd_angst_02",
+    "type": "angst",
+    "dimension": ["S2"],
+    "source_character": "陈登",
+    "text": "陈登说「明明好好活下去就好了，陪着家人生火做饭就好了，有麦子的时候割麦子就好了……」他的声音在颤抖。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你说的'好好的'是什么样？画给我看看。」引导他说下去。",
+        "scores": { "S2": 3 },
+        "tendency": "M",
+        "reasoning": "引导他展开→S2:3"
+      },
+      {
+        "label": "B",
+        "text": "「嗯，是啊。」轻声附和。",
+        "scores": { "S2": 1 },
+        "tendency": "L",
+        "reasoning": "附和但没接住情感→S2:1"
+      },
+      {
+        "label": "C",
+        "text": "握住他的手，「那就割麦子、生火做饭——我们过那样的日子。」",
+        "scores": { "S2": 5 },
+        "tendency": "H",
+        "reasoning": "用承诺回应他的渴望→S2:5"
+      }
+    ],
+    "reveal": "七载相逢中秋中陈登渴望最简单的幸福。"
+  },
+  {
+    "id": "cd_angst_03",
+    "type": "angst",
+    "dimension": ["S4"],
+    "source_character": "陈登",
+    "text": "七载相逢中秋中，陈登在灵骨塔前苦笑着说：「斗了一世，最后也只是在好友的身后事上，彼此退了半步。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「人死仇消，放下吧。」理性总结。",
+        "scores": { "S4": 1 },
+        "tendency": "L",
+        "reasoning": "理性化但没触及面具→S4:1"
+      },
+      {
+        "label": "B",
+        "text": "「你笑的时候比哭还难看——别笑了。」直击要害。",
+        "scores": { "S4": 5 },
+        "tendency": "H",
+        "reasoning": "撕开他苦笑的面具→S4:5"
+      },
+      {
+        "label": "C",
+        "text": "「你和谁斗了一世？」追问来龙去脉。",
+        "scores": { "S4": 3 },
+        "tendency": "M",
+        "reasoning": "追问但不深挖→S4:3"
+      }
+    ],
+    "reveal": "七载相逢中秋中陈登在灵骨塔前苦笑。"
+  },
+  {
+    "id": "cd_scheme_03",
+    "type": "scheme",
+    "dimension": ["S6"],
+    "source_character": "陈登",
+    "text": "陈登说「何必试一个注定失败的理想呢？不试就不会失败，就不会在希望边缘走到反目成仇。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你觉得什么是注定失败的？说来听听。」理性追问。",
+        "scores": { "S6": 3 },
+        "tendency": "M",
+        "reasoning": "折中处理问你觉得什么是注……S6处于中等水平→S6:3"
+      },
+      {
+        "label": "B",
+        "text": "「你嘴上说注定失败，心里比谁都想要那个结果——别装了。」一眼看穿。",
+        "scores": { "S6": 5 },
+        "tendency": "H",
+        "reasoning": "看穿他理性面具下的渴望→S6:5"
+      },
+      {
+        "label": "C",
+        "text": "「怕失败就不试？那活着还有什么意思。」直接反驳。",
+        "scores": { "S6": 1 },
+        "tendency": "L",
+        "reasoning": "情感化反驳→S6:1"
+      }
+    ],
+    "reveal": "陈登说「何必试一个注定失败的理想呢？不试就不会失败，就不会在..."
+  },
+  {
+    "id": "cd_scheme_04",
+    "type": "scheme",
+    "dimension": ["S3"],
+    "source_character": "陈登",
+    "text": "陈登说「筮融之乱刚过，徐州需要休养生息，出兵这种劳民伤财的事，陈氏无法支持。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「不出兵也行——陈氏能支持什么？给个具体方案。」逼他亮底牌。",
+        "scores": { "S3": 3 },
+        "tendency": "M",
+        "reasoning": "转向可行方案→S3:3"
+      },
+      {
+        "label": "B",
+        "text": "「不出兵？那你说怎么办，干看着？」质疑但没建设性。",
+        "scores": { "S3": 1 },
+        "tendency": "L",
+        "reasoning": "质疑但没建设性→S3:1"
+      },
+      {
+        "label": "C",
+        "text": "「先把不能做的列完——那能做的是什么？别光说不行，给我个行的方案。」务实推进。",
+        "scores": { "S3": 5 },
+        "tendency": "H",
+        "reasoning": "务实逼他亮牌→S3:5"
+      }
+    ],
+    "reveal": "丹书白马中陈登以休养生息为由拒绝出兵。"
+  },
+  {
+    "id": "cd_scheme_05",
+    "type": "scheme",
+    "dimension": ["S1"],
+    "source_character": "陈登",
+    "text": "陈登说「那是陶谦的亲笔竹书。陈氏和糜氏都觉得他疯了，在考虑换个州牧。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你告诉我这个——是想让我知道陈氏站哪边，对吧？」直接点破。",
+        "scores": { "S1": 5 },
+        "tendency": "H",
+        "reasoning": "看穿他透露情报的意图→S1:5"
+      },
+      {
+        "label": "B",
+        "text": "「换谁？」直球追问。",
+        "scores": { "S1": 1 },
+        "tendency": "L",
+        "reasoning": "回避了说换谁……S1倾向较低→S1:1"
+      },
+      {
+        "label": "C",
+        "text": "「陈氏和糜氏密谋换州牧？你们胆子不小啊。」试探深浅。",
+        "scores": { "S1": 3 },
+        "tendency": "M",
+        "reasoning": "察觉权力博弈→S1:3"
+      }
+    ],
+    "reveal": "丹书白马中陈登透露陈氏要换州牧。"
+  },
+  {
+    "id": "chendeng_补1",
+    "type": "daily",
+    "dimension": ["S8"],
+    "source_character": "chendeng",
+    "text": "陈登拉住你说「别动……昨天又裂开了。天气暖了，剑伤很容易感染的」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「坐下别动，我给你重新包扎——这都第几次了，你是不是故意的？」一边念叨一边上手。",
+        "scores": { "S8": 5 },
+        "tendency": "H",
+        "reasoning": "温柔地照顾他的伤→S8:5"
+      },
+      {
+        "label": "B",
+        "text": "「知道了知道了，我会注意的。」嘴上答应，心里未必。",
+        "scores": { "S8": 3 },
+        "tendency": "M",
+        "reasoning": "关心但保持距离→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "「大男人伤口裂开还矫情，走你的。」嘴硬第一名。",
+        "scores": { "S8": 1 },
+        "tendency": "L",
+        "reasoning": "嘴硬不够温柔→S8:1"
+      }
+    ],
+    "reveal": "陈登嘴上不说疼，但伤口裂开时还是会被发现。"
+  },
+  {
+    "id": "chendeng_补2",
+    "type": "sweet",
+    "dimension": ["S8"],
+    "source_character": "chendeng",
+    "text": "陈登端着鱼脍说「鱼脍开好了！……哎，客人走了吗？」他的表情有点失落。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「没走没走！我正等着你的鱼脍呢，别人走不走无所谓。」赶紧坐下来。",
+        "scores": { "S8": 5 },
+        "tendency": "H",
+        "reasoning": "照顾他的心意和期待→S8:5"
+      },
+      {
+        "label": "B",
+        "text": "「客人走了，但我还在啊——鱼脍端过来吧。」微笑接住。",
+        "scores": { "S8": 3 },
+        "tendency": "M",
+        "reasoning": "安慰但有点直→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "「走了走了，下次再约吧。」轻描淡写。",
+        "scores": { "S8": 1 },
+        "tendency": "L",
+        "reasoning": "不在意他的失落→S8:1"
+      }
+    ],
+    "reveal": "陈登认真准备了鱼脍，却差点没赶上。"
+  },
+  {
+    "id": "chendeng_补3",
+    "type": "scheme",
+    "dimension": ["S9"],
+    "source_character": "chendeng",
+    "text": "陈登说「放心吧。军中的探子回报，辎重今日经过泗南」他看着地图。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「过泗南？那不正是个伏击好位置——截了它！」眼睛亮了。",
+        "scores": { "S9": 5 },
+        "tendency": "H",
+        "reasoning": "主动把握机会获取资源→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "「先确认这辎重是谁家的，别截了友军的。」理性按兵不动。",
+        "scores": { "S9": 3 },
+        "tendency": "M",
+        "reasoning": "理性分析再行动→S9:3"
+      },
+      {
+        "label": "C",
+        "text": "「辎重关我们什么事，别多管闲事。」直接放弃。",
+        "scores": { "S9": 1 },
+        "tendency": "L",
+        "reasoning": "放弃机会→S9:1"
+      }
+    ],
+    "reveal": "陈登对情报网掌握得很清楚，辎重路线都在他的计算中。"
+  },
+  {
+    "id": "chendeng_补4",
+    "type": "classic",
+    "dimension": ["S10"],
+    "source_character": "chendeng",
+    "text": "陈登指着图纸说「码头的船坞大概在这片，会先打水下的固定木桩」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「图纸说什么就按什么来，一步一个脚印。」老老实实遵照执行。",
+        "scores": { "S10": 5 },
+        "tendency": "H",
+        "reasoning": "遵守工程规矩→S10:5"
+      },
+      {
+        "label": "B",
+        "text": "「水下打桩？水流不会把木桩冲歪吗？」关注技术细节。",
+        "scores": { "S10": 3 },
+        "tendency": "M",
+        "reasoning": "关注技术细节→S10:3"
+      },
+      {
+        "label": "C",
+        "text": "「太慢了！能不能三天之内给我建完？」催促赶工。",
+        "scores": { "S10": 1 },
+        "tendency": "L",
+        "reasoning": "想跳过规矩赶工→S10:1"
+      }
+    ],
+    "reveal": "陈登做事很有条理，按步骤来从不偷工减料。"
+  },
+  {
+    "id": "chendeng_补5",
+    "type": "angst",
+    "dimension": ["S1"],
+    "source_character": "陈登",
+    "text": "陈登说「本质上，是手握大权的本地豪强，不愿让初来乍到的世子影响自己的核心利益。今日之后，世子在立场上将与陈氏相合，已没有退出战场的路了。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你这是在提醒我，还是在威胁我？」眯起眼睛。",
+        "scores": { "S1": 3 },
+        "tendency": "M",
+        "reasoning": "识破他的话中有话，但没有做出更深的谋略应对→S1:3"
+      },
+      {
+        "label": "B",
+        "text": "「我知道。我也没打算退。」表面硬气但没接住棋局。",
+        "scores": { "S1": 1 },
+        "tendency": "L",
+        "reasoning": "只做表面表态，没有进一步分析局势或制定对策→S1:1"
+      },
+      {
+        "label": "C",
+        "text": "「陈氏献军粮养兵——你的筹码就是你要的回报。说吧，你到底要什么？」反手将军。",
+        "scores": { "S1": 5 },
+        "tendency": "H",
+        "reasoning": "直接看穿他的筹码并反手谈条件，城府和谋略拉满→S1:5"
+      }
+    ],
+    "reveal": "陈登每一步都在算——代表陈氏登门，既是福也是祸。他把选择权摆在广陵王面前，但广陵王接不接受，代价都已经写好了。"
+  },
+  {
+    "id": "chendeng_补6",
+    "type": "angst",
+    "dimension": ["S6"],
+    "source_character": "陈登",
+    "text": "陈登看着审讯后的场景说「他凌虐弱者、欺凌手足，杀他，晚生没有异议。」语气平静，像在说一件公事。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「好，按律处置。该走什么程序就走什么，不急这一时。」坚持程序正义。",
+        "scores": { "S6": 5 },
+        "tendency": "H",
+        "reasoning": "坚持走程序而非直接处决，底线在程序正义上→S6:5"
+      },
+      {
+        "label": "B",
+        "text": "「你没异议，那他随从和家奴呢？也一并处置？」追问无辜者。",
+        "scores": { "S6": 3 },
+        "tendency": "M",
+        "reasoning": "追问无辜者的处置，有底线但不确定执行到什么程度→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "「动手吧，速战速决省得夜长梦多。」效率至上。",
+        "scores": { "S6": 1 },
+        "tendency": "L",
+        "reasoning": "同意处决且要求速办，底线弹性大，效率优先→S6:1"
+      }
+    ],
+    "reveal": "陈登对善恶有清晰的判断——欺凌手足者该死。但「该死」和「怎样死」之间，是他留给广陵王去选的题。"
+  },
+  {
+    "id": "chendeng_补7",
+    "type": "daily",
+    "dimension": ["S3"],
+    "source_character": "陈登",
+    "text": "陈登兴冲冲地跑来说「虽然没有钓到鱼，但是我们在崖下钓到了好大几箱金银礼器！」然后转头对食官喊「去喊一声食官，将招待使者的菜品扛上来！」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「等等等等，金银礼器先入府库登记！这不能直接拿来请客——你是不是又想混过去？」财务总监上线。",
+        "scores": { "S3": 5 },
+        "tendency": "H",
+        "reasoning": "立刻考虑资产管理，把意外之财纳入制度而非消费→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "「行，借花献佛吃一顿好的！不过这礼器回头得估值入库，别想全吃了。」先爽后管。",
+        "scores": { "S3": 3 },
+        "tendency": "M",
+        "reasoning": "同意请客享受但也提出后续管理要求，兼顾花销和回报→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "「发财了发财了！全摆出来让大家开开眼！今天大宴三天！」花得比赚得快。",
+        "scores": { "S3": 1 },
+        "tendency": "L",
+        "reasoning": "兴奋地大手大脚花钱，完全不考虑保值和后续→S3:1"
+      }
+    ],
+    "reveal": "陈登找到金银礼器第一反应是请客——他骨子里是个喜欢热闹的人，但请完客之后怎么管账，就是另一个故事了。"
+  }
+]

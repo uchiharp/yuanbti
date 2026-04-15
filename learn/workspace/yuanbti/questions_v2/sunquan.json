@@ -1,0 +1,197 @@
+[
+  {
+    "id": "孙权_s2_01",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "孙权",
+    "text": "孙权说「一个人的话，安静看书也可以看一整天」。旁人笑他「不像孙氏」，你却看到他偷偷松了口气。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「我觉得安静挺好的，不用像别人那样」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接肯定他的与众不同，情感共鸣→S2:5"
+      },
+      {
+        "label": "B",
+        "text": "说「孙氏也有很多种嘛」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "温和化解压力，但不深入→S2:3"
+      },
+      {
+        "label": "C",
+        "text": "岔开话题，说「对了，你最近在看什么书」",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避情感层面，转向安全话题→S2:1"
+      }
+    ],
+    "reveal": "「其实不会……一个人的话，安静看书也可以看一整天。真、真的吗？其他人一直说这样\"不像孙氏\"……」——孙权对自我性格的不安"
+  },
+  {
+    "id": "孙权_s4_02",
+    "type": "funny",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "孙权",
+    "text": "孙权被凌统叫「使君」后偷偷对他说「义封，我被叫使君了」。语气里藏不住的小得意。",
+    "options": [
+      {
+        "label": "A",
+        "text": "假装没听见，让他自己偷着乐",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "无视对方的小情绪，不去碰触→S4:1"
+      },
+      {
+        "label": "B",
+        "text": "也叫他一声「孙使君」，看他反应",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "配合对方的表演，读出隐藏的期待→S4:5"
+      },
+      {
+        "label": "C",
+        "text": "笑着说「习惯就好」",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "轻描淡写地带过，未触及真实情绪→S4:3"
+      }
+    ],
+    "reveal": "「义封，我被叫使君了……」——孙权被称呼官职后偷偷开心"
+  },
+  {
+    "id": "孙权_s5_04",
+    "type": "angst",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "孙权",
+    "text": "孙权说做过一个噩梦——「一个人在空荡荡的宅邸中喊人，四周皆是浓雾，空无一人」。他不敢睡觉。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「下次做噩梦就找我，我在」",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "给予情感支持但没有行动介入→S5:3"
+      },
+      {
+        "label": "B",
+        "text": "陪他坐一会儿，等他困了再走",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "用实际陪伴代替口头安慰→S5:5"
+      },
+      {
+        "label": "C",
+        "text": "说「梦而已，别多想」",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "轻视对方的恐惧，缺乏行动→S5:1"
+      }
+    ],
+    "reveal": "「我有次做噩梦惊醒，梦里，我一个人在空荡荡的宅邸中喊人，四周皆是浓雾，空无一人……」——孙权的孤独噩梦"
+  },
+  {
+    "id": "sunquan_s9_1",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "sunquan",
+    "text": "孙权看着你说「使君觉得我该争吗？还是……该让」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说该争的东西不争以后会后悔",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "鼓励他主动争取自己的权力→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "说看你想不想如果不想就让",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "尊重他的选择→S9:3"
+      },
+      {
+        "label": "C",
+        "text": "说命里有时终须有不用强求",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "宿命论让他放弃争取→S9:1"
+      }
+    ],
+    "reveal": "孙权在权力面前总是犹豫，但他的能力并不差。"
+  },
+  {
+    "id": "sunquan_s10_1",
+    "type": "daily",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "sunquan",
+    "text": "孙权认真地说「义封我被叫使君了」他愣了一下然后苦笑。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说使君就使君吧反正你得担起责任",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "推动他接受身份和责任→S10:5"
+      },
+      {
+        "label": "B",
+        "text": "说你管人家叫你什么",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "不在意称呼和身份规矩→S10:1"
+      },
+      {
+        "label": "C",
+        "text": "说什么时候的事谁叫的",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "好奇但不过度关注→S10:3"
+      }
+    ],
+    "reveal": "孙权对身份的转变还有点不适应。"
+  }
+]

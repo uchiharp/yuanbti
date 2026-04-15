@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "sunce_sweet_1",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "孙策",
+    "text": "七夕夜市，孙策连赢二十支投壶，兴奋地跑来要你夸他。他的眼睛亮晶晶的，像只等摸头的大狗。",
+    "options": [
+      {
+        "label": "A",
+        "text": "认真地看着他「超厉害的，给你鼓掌！」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "眼神对视加上真诚的夸赞，直接回应他的期待→S2:5"
+      },
+      {
+        "label": "B",
+        "text": "笑着拍拍他肩膀「厉害厉害」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "用肢体接触回应，但表达方式克制→S2:3"
+      },
+      {
+        "label": "C",
+        "text": "随口说一句「还行吧」就继续往前走",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "冷淡回应对方的示好，不给予情感反馈→S2:1"
+      }
+    ],
+    "reveal": "「夸夸我嘛，这招我练了很久的！」——七夕投壶连赢后跑来求夸，像个考了一百分的小孩"
+  },
+  {
+    "id": "sunce_sweet_3",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "孙策",
+    "text": "孙策用鲁肃教的借口说「想不想掰手腕」，其实你早就看穿了——他就是想牵你的手。",
+    "options": [
+      {
+        "label": "A",
+        "text": "假装不知道，配合他掰手腕但故意放水",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "成全他的小心思但自己也藏着心意→S2:3"
+      },
+      {
+        "label": "B",
+        "text": "把手伸过去「不掰手腕，直接牵手也行」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接接住他的心意并进一步表达→S2:5"
+      },
+      {
+        "label": "C",
+        "text": "直接揭穿「鲁肃教你的是牵手吧」",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "戳穿对方的笨拙方式，让他无地自容→S2:1"
+      }
+    ],
+    "reveal": "「其实是鲁肃说有这么个游戏……就是你跟想牵手的人这么说，对方就会把手给你」——笨拙又可爱的暗恋套路"
+  },
+  {
+    "id": "sunce_sweet_5",
+    "type": "sweet",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "孙策",
+    "text": "七夕夜市上，孙策连吃二十盘娇耳想帮你找藏五铢钱的那盘。吃到撑还在继续，问你信不信他能找到。",
+    "options": [
+      {
+        "label": "A",
+        "text": "假装帮他一起找，偷偷把自己找到的钱放进他碗里",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "配合他的游戏但暗中加入自己的方式→S4:3"
+      },
+      {
+        "label": "B",
+        "text": "拍桌子「再来二十盘」，然后凑过去舔掉他嘴角的面汤「找到了」",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "拍桌子说再来二十盘，然后凑过去舔掉他嘴角的面汤说找到了"
+      },
+      {
+        "label": "C",
+        "text": "拦住他「别吃了，钱我给你」",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "用务实方式打断他的心意，不配合他的热情→S4:1"
+      }
+    ],
+    "reveal": "「老板，一锅都给我！——嘿嘿，整锅的好运我都帮你找出来！」——用最笨的方式给最好的祝福"
+  },
+  {
+    "id": "sunce_sweet_6",
+    "type": "sweet",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "孙策",
+    "text": "七夕放河灯，孙策写了好久终于写完愿望，不让你看。但他写的时候你偷偷瞥到纸上写了你的名字。",
+    "options": [
+      {
+        "label": "A",
+        "text": "坏笑着说「我看到了哦」然后跑开",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "半开玩笑地戳一下，有调侃但不深入→S7:3"
+      },
+      {
+        "label": "B",
+        "text": "假装没看到，自己默默放灯",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避发现，不主动不挑明→S7:1"
+      },
+      {
+        "label": "C",
+        "text": "把自己的灯也写上他的名字，两盏灯一起放",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "用同样大胆的方式回应他的心意→S7:5"
+      }
+    ],
+    "reveal": "「我嘴巴最牢了」——嘴上说保密，写的东西一看就露馅的笨蛋"
+  },
+  {
+    "id": "sunce_scheme_1",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "孙策",
+    "text": "孙策发现有人暗中和刘表通信，问你该怎么处置这个内鬼。",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接当面质问他，让他自己解释",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "摊开牌面不设局，行事简单不绕弯→S1:1"
+      },
+      {
+        "label": "B",
+        "text": "将计就计，让他传递假情报给刘表",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "利用内鬼反间，高段权谋"
+      },
+      {
+        "label": "C",
+        "text": "先暗中盯住他，看他联络谁再说",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "观察后再决定，中等算计"
+      }
+    ],
+    "reveal": "孙策虽直率但不傻，江东基业靠的是果断处置叛乱。"
+  },
+  {
+    "id": "sunce_scheme_2",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "孙策",
+    "text": "寿春之行前，孙策听说有人设局要暗杀你，但不知道具体是谁。",
+    "options": [
+      {
+        "label": "A",
+        "text": "加大护卫随行，正面应对",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了加大护卫随行，正……S1倾向较低→S1:1"
+      },
+      {
+        "label": "B",
+        "text": "反过来调查是谁设的局，从源头瓦解",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "选择反过来调查是谁设……体现了较高的S1倾向→S1:5"
+      },
+      {
+        "label": "C",
+        "text": "先放出风声说行程取消，暗中换路线",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理先放出风声说行程……S1处于中等水平→S1:3"
+      }
+    ],
+    "reveal": "孙策向往和平，但不回避战斗。"
+  },
+  {
+    "id": "sunce_scheme_3",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "孙策",
+    "text": "江东内斗，有人挑拨孙权和孙策的关系，说孙权想独揽大权。",
+    "options": [
+      {
+        "label": "A",
+        "text": "顺水推舟假装中计，借机看清谁是忠臣",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "选择顺水推舟假装中计……体现了较高的S1倾向→S1:5"
+      },
+      {
+        "label": "B",
+        "text": "直接去找孙权问清楚",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了简单去找孙权问清……S1倾向较低→S1:1"
+      },
+      {
+        "label": "C",
+        "text": "暗中留意局势变化，不急着表态",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "站在旁边看不动，给自己留退路→S1:3"
+      }
+    ],
+    "reveal": "孙策清楚权力的本质。"
+  },
+  {
+    "id": "sunce_funny_1",
+    "type": "funny",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "孙策",
+    "text": "七夕夜市零钱花完了还没套到想要的奖品，孙策说用金块换抓鱼的机会。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「随你吧」但帮他还价到三块金子",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "不干涉对方但帮忙控制成本，中等务实→S3:3"
+      },
+      {
+        "label": "B",
+        "text": "拦住他「金块太贵了不值得」",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "在意外花销，务实节省→S3:5"
+      },
+      {
+        "label": "C",
+        "text": "「拿金块换也好玩」在旁边给他加油",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "完全不在意花销，享受当下→S3:1"
+      }
+    ],
+    "reveal": "「老子就不信今天抓不到鱼！老板，这金块给你！我徒手抓！」"
+  },
+  {
+    "id": "sunce_daily_1",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "孙策",
+    "text": "孙策要请你吃饭，问去酒楼还是路边摊。",
+    "options": [
+      {
+        "label": "A",
+        "text": "去最好的酒楼，难得出来吃饭",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了去最好的酒楼，难……S3倾向较低→S3:1"
+      },
+      {
+        "label": "B",
+        "text": "看你心情，开心就去酒楼",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理看你心情，开心就……S3处于中等水平→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "路边摊吧，好吃又实惠",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "选择路边摊吧，好吃又……体现了较高的S3倾向→S3:5"
+      }
+    ],
+    "reveal": "「老板，两杯甜饮子，不用找钱了！」"
+  },
+  {
+    "id": "sunce_daily_2",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "孙策",
+    "text": "孙策想买一把新弓，价格很贵。他说这把弓好想要。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「可以买，但下个月的零用钱就没了」",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "知道控制花销但不纠结，适度务实→S3:3"
+      },
+      {
+        "label": "B",
+        "text": "直接买给他，看到他开心最重要",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了简单买给他，看到……S3倾向较低→S3:1"
+      },
+      {
+        "label": "C",
+        "text": "帮他砍价，或者找找有没有便宜点的",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "选择帮他砍价，或者找……体现了较高的S3倾向→S3:5"
+      }
+    ],
+    "reveal": "孙策打完仗最大的奖励就是大吃一顿。"
+  },
+  {
+    "id": "sunce_angst_1",
+    "type": "angst",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "孙策",
+    "text": "孙策打完仗回来，浑身是伤但笑着说没事，说这点伤算什么小场面。",
+    "options": [
+      {
+        "label": "A",
+        "text": "也笑着说厉害，不提伤的事",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "双方都戴面具不露真情"
+      },
+      {
+        "label": "B",
+        "text": "笑着说辛苦了，私下让军医去给他看",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理笑着说辛苦了，私……S4处于中等水平→S4:3"
+      },
+      {
+        "label": "C",
+        "text": "直接撕开衣领检查伤口，不理他的逞强",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了简单撕开衣领检查……S4倾向较低→S4:1"
+      }
+    ],
+    "reveal": "孙策总是笑着掩饰痛苦。"
+  },
+  {
+    "id": "sunce_scheme_4",
+    "type": "scheme",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "孙策",
+    "text": "宴会上有人当众挑衅孙策，说江东不过是个小地方。",
+    "options": [
+      {
+        "label": "A",
+        "text": "笑着说有道理，转头敬他一杯",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理笑着说有道理，转……S4处于中等水平→S4:3"
+      },
+      {
+        "label": "B",
+        "text": "不动声色，事后找人查他底细",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "完全不露情绪暗中布局"
+      },
+      {
+        "label": "C",
+        "text": "当场怼回去「江东怎么了」",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了当场怼回去，江东……S4倾向较低→S4:1"
+      }
+    ],
+    "reveal": "孙策看得透人心。"
+  },
+  {
+    "id": "sunce_angst_2",
+    "type": "angst",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "孙策",
+    "text": "收到消息说刘表要突袭江东，孙策还没想好对策。",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接点兵出发，先打了再说",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "二话不说直接上，不犹豫→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "先召集谋士开会讨论应对方案",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "先观察局势再出手，不冲动→S5:1"
+      },
+      {
+        "label": "C",
+        "text": "派人先去侦察敌情，同时准备防御",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理派人先去侦察敌情……S5处于中等水平→S5:3"
+      }
+    ],
+    "reveal": "「都太弱了——这样如何随我南征北战！」"
+  },
+  {
+    "id": "sunce_funny_2",
+    "type": "funny",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "孙策",
+    "text": "七夕夜市上孙策投壶输了，非要再来一局，连输了十七把。",
+    "options": [
+      {
+        "label": "A",
+        "text": "跟他一起继续投，今天非赢不可",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "输了也要继续，行动力拉满→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "「再来三把，输了就走」",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "给自己设个界限再继续，有节制的行动→S5:3"
+      },
+      {
+        "label": "C",
+        "text": "「算了，我们去玩别的」",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "看情况不对就收手，审时度势→S5:1"
+      }
+    ],
+    "reveal": "「不行不行，刚刚的不算！老板！再来十个圈儿！」"
+  },
+  {
+    "id": "sunce_angst_3",
+    "type": "angst",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "孙策",
+    "text": "得知你被困在城中，孙策说要去救你，但手下说太危险了。",
+    "options": [
+      {
+        "label": "A",
+        "text": "等夜深带精锐小队潜入",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理等夜深带精锐小队……S5处于中等水平→S5:3"
+      },
+      {
+        "label": "B",
+        "text": "不等了，现在就冲进去",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "选择不等了，现在就冲……体现了较高的S5倾向→S5:5"
+      },
+      {
+        "label": "C",
+        "text": "派人送信让你先想办法脱身",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了派人送信让你先想……S5倾向较低→S5:1"
+      }
+    ],
+    "reveal": "孙策为你可以不顾一切。"
+  },
+  {
+    "id": "sunce_scheme_5",
+    "type": "scheme",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "孙策",
+    "text": "有人献计说可以嫁祸给无辜的百姓来挑起两方仇恨，孙策犹豫了。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「考虑一下，让人先准备着」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "愿意考虑嫁祸百姓换取利益，底线轻易让步→S6:1"
+      },
+      {
+        "label": "B",
+        "text": "坚决拒绝，江东的百姓不能动",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "L",
+        "reasoning": "想找替代方案但没明确拒绝嫁祸，有底线但不够坚定→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "「有没有别的办法能达到同样效果」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "毫不犹豫地拒绝伤害百姓，坚守底线寸步不让→S6:5"
+      }
+    ],
+    "reveal": "孙策有英雄的底线，但战争逼人做选择。"
+  },
+  {
+    "id": "sunce_daily_3",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "孙策",
+    "text": "孙策发现朋友偷偷藏了他的好酒，他问你怎么看。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「先问清楚原因再决定」",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "认真追究朋友的行为，不够包容和温柔→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "「可能忘了放回去，别往坏处想」",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动替朋友找理由，温柔地维护友谊→S8:5"
+      },
+      {
+        "label": "C",
+        "text": "「藏得好，回头我也藏一瓶他的酒，看谁先找到」",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "H",
+        "reasoning": "用玩笑回应，不计较但也没有正面表达关心→S8:3"
+      }
+    ],
+    "reveal": "孙策对人性有期待。"
+  },
+  {
+    "id": "sunce_scheme_6",
+    "type": "scheme",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "孙策",
+    "text": "俘虏了一个敌方将领，他说愿意投降并透露情报，但孙策不确定他是否真心。",
+    "options": [
+      {
+        "label": "A",
+        "text": "先关起来慢慢审，用尽办法套话",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "不择手段审讯，完全无视规矩和程序→S10:1"
+      },
+      {
+        "label": "B",
+        "text": "不接受投降，按照规矩处理",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "严格按军规处理投降者，坚守秩序和程序→S10:5"
+      },
+      {
+        "label": "C",
+        "text": "给他机会，但如果骗人就军法处置",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "在规矩框架内给机会，有原则但也灵活→S10:3"
+      }
+    ],
+    "reveal": "战场上没有绝对的善恶，只有胜负。"
+  },
+  {
+    "id": "sunce_funny_3",
+    "type": "funny",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "孙策",
+    "text": "下棋连输十七把，对面的人得意地说小霸王不过如此。",
+    "options": [
+      {
+        "label": "A",
+        "text": "笑着说「确实下不过，下次再战」",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "承认失败但不争论，低锋芒→S7:1"
+      },
+      {
+        "label": "B",
+        "text": "「五子棋不行，但战场上你敢来吗」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "选择说五子棋不行，但……体现了较高的S7倾向→S7:5"
+      },
+      {
+        "label": "C",
+        "text": "「下棋不算本事，咱们比射箭」",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "转移战场但不是尖锐反击"
+      }
+    ],
+    "reveal": "「不是我吹啊，我可是号称江东五子棋小霸……啊，我输了……」"
+  },
+  {
+    "id": "sunce_angst_4",
+    "type": "angst",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "孙策",
+    "text": "有人当众嘲笑孙策是将门犬子，全靠父亲的基业。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「江东是一刀一枪打下来的，不服来战」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "选择说江东是一刀一枪……体现了较高的S7倾向→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "笑着说「父亲确实厉害，我也不会差」",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理笑着说父亲确实厉……S7处于中等水平→S7:3"
+      },
+      {
+        "label": "C",
+        "text": "不接话，转身走开",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "压住情绪不反应，低调处理→S7:1"
+      }
+    ],
+    "reveal": "孙策的骄傲来自自己的战功。"
+  },
+  {
+    "id": "sunce_补1",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "孙策",
+    "text": "郊外跑了一身汗回来，孙策看到你在廊下看书，二话不说把外袍脱下来搭在你肩上，说「日头毒，别晒着了」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "把袍子扔回去「你自己不也晒着呢，我又不热」",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "拒绝对方的好意，不接受温柔照顾→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "默默把袍子拉紧了一点，没说话但也没还",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "用沉默的动作接受关心，含蓄地回应温柔→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "往他身边挪了挪，把他的袍子裹紧然后靠在他胳膊上",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动靠近并接受照顾，用肢体回应对方的温柔→S8:5"
+      }
+    ],
+    "reveal": "「日头毒，别晒着了」——自己跑得满头大汗还不忘给你挡太阳，孙策式的温柔就是先照顾别人"
+  },
+  {
+    "id": "sunce_补2",
+    "type": "sweet",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "孙策",
+    "text": "你发了一场小烧，孙策端了一碗热粥坐在床边，用勺子搅了半天也不喂，小声说「我吹了但是不知道凉没凉」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "一把抢过来自己喝「我自己来就行了」",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接接手不让对方照顾，拒绝温柔互动→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "拿过勺子尝了一口「温度正好」然后自己慢慢喝",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "肯定对方的付出但自己动手，间接接受温柔→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "张开嘴等他喂，喝完说「吹得刚刚好，下次生病还找你」",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "完全依赖对方照顾并给正面反馈，充分回应温柔→S8:5"
+      }
+    ],
+    "reveal": "「我吹了但是不知道凉没凉」——江东小霸王连喂粥都紧张得不行，笨拙的温柔"
+  },
+  {
+    "id": "sunce_补3",
+    "type": "angst",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "孙策",
+    "text": "夜里你做了噩梦惊醒，孙策明明也困得要命，却翻身坐起来揉着眼睛说「没事没事，我陪你，你接着睡」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「没事，你继续睡吧，我又不是小孩了」",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "推开对方的陪伴，不展露脆弱也不接受安慰→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "没说话，只是侧过身去面朝他的方向躺好",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "用姿势表达需要陪伴但不直说，间接接受温柔→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "攥住他的衣袖闭着眼说「别走，再待一会」",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动表达依赖和需要，完全接受对方的温柔守护→S8:5"
+      }
+    ],
+    "reveal": "「没事没事，我陪你」——自己困得眼皮打架还要守着你，孙策的温柔从来不讲道理"
+  },
+  {
+    "id": "sunce_补4",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "孙策",
+    "text": "有人提议让孙策趁机吞并隔壁小势力，说这块地不拿白不拿。孙策皱了皱眉，看向你。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「拿了吧，不要白不要」",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "积极推动扩张权力，毫不犹豫地追求地盘→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "「先看看对方的态度，能谈就谈」",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "不拒绝扩张但讲策略，对权力持谨慎务实的态度→S9:3"
+      },
+      {
+        "label": "C",
+        "text": "「不打了，别人也有别人的难处」",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "主动放弃扩张机会，对权力和地盘没有执念→S9:1"
+      }
+    ],
+    "reveal": "「权力对我来说太可怕了……比毒药还会腐蚀人心」——孙策对权力有天然的警惕"
+  },
+  {
+    "id": "sunce_补5",
+    "type": "classic",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "孙策",
+    "text": "有人对孙策说「你打下天下之后就是一方诸侯了」。孙策愣了一下，低头摆弄着手里的弓弦没接话。",
+    "options": [
+      {
+        "label": "A",
+        "text": "凑过去「那你想不想当诸侯？」",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动引导对方思考权力前途，对权力持积极追问态度→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "递给他一杯水「打不打天下先喝口水」",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "不催促也不回避，给对方空间自己想，对权力话题保持中立→S9:3"
+      },
+      {
+        "label": "C",
+        "text": "「天下什么的太远了，先想想明天去哪玩」",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "故意转移话题淡化权力讨论，对权力地位不感兴趣→S9:1"
+      }
+    ],
+    "reveal": "「我想打下天下，对权力倒是没什么兴趣」——打天下是为了太平，不是为了权力本身"
+  },
+  {
+    "id": "sunce_补6",
+    "type": "daily",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "孙策",
+    "text": "江东的将领们聚在一起商议下一步的军事计划，孙策被推到上座，他看了看那个位置，又看了看大家。",
+    "options": [
+      {
+        "label": "A",
+        "text": "拍他肩膀「坐上去啊，你本来就是老大」",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "鼓励对方接受权力地位，强化领袖角色→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "什么也没说，安静地坐在他旁边",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "不主动推动也不阻拦，让权力选择自然发生→S9:3"
+      },
+      {
+        "label": "C",
+        "text": "拉着他往后排坐「坐前面干嘛，挤」",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "主动拉对方远离权力核心位置，对权力地位不在意→S9:1"
+      }
+    ],
+    "reveal": "孙策虽然被称为小霸王，但对坐上那个位置始终有种微妙的犹豫"
+  },
+  {
+    "id": "sunce_补7",
+    "type": "funny",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "孙策",
+    "text": "学宫的夫子布置了抄经文的功课，孙策趴在桌上哭丧着脸说「我一个投飞矛的为什么要抄这些」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "帮他抄了一半「剩下的你自己来，我都帮你写完了你学不到东西」",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "帮忙但不全部代劳，要求遵守部分规矩→S10:3"
+      },
+      {
+        "label": "B",
+        "text": "一把抽走他的竹简「别抄了，我们出去玩」",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接带着对方翘掉功课，完全不遵守规则→S10:1"
+      },
+      {
+        "label": "C",
+        "text": "在他旁边铺开竹简「我监督你，抄完再走」",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "严格执行规矩要求完成功课，秩序感很强→S10:5"
+      }
+    ],
+    "reveal": "「我一个投飞矛的为什么要抄这些」——孙策对学宫规矩的态度和对他手里的长矛一样直白"
+  },
+  {
+    "id": "sunce_补8",
+    "type": "angst",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "孙策",
+    "text": "孙策冲动之下打碎了集市上的靶子，老板追出来要赔钱。孙策挠着头看你，等着你拿主意。",
+    "options": [
+      {
+        "label": "A",
+        "text": "掏钱赔了老板，然后拉孙策走，什么也不说",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "按规矩赔钱善后但不教训，事后处理遵守秩序→S10:3"
+      },
+      {
+        "label": "B",
+        "text": "拉着孙策就跑，边跑边喊「快跑快跑」",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接逃跑不承担责任，完全无视规则→S10:1"
+      },
+      {
+        "label": "C",
+        "text": "让孙策自己跟老板道歉并赔偿，站在旁边看他处理完",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "要求对方亲自承担后果、遵守规矩，秩序感最高→S10:5"
+      }
+    ],
+    "reveal": "「靶子裂开了，啊，彻底断了……老板看过来了，我们溜吧？」——闯了祸第一反应是跑"
+  },
+  {
+    "id": "sunce_补9",
+    "type": "daily",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "孙策",
+    "text": "夜市上孙策看到有人插队，气得要上去理论。你拉住了他，他转头问「你不生气吗？这不公平」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「算了，不差这几分钟」拉着他去别的地方",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "不在意规则被破坏，选择回避冲突→S10:1"
+      },
+      {
+        "label": "B",
+        "text": "「去跟摊主说一声，让他管管」",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "通过正当渠道维护规则，但不亲自出头→S10:3"
+      },
+      {
+        "label": "C",
+        "text": "「走，一起过去说理，排队的规矩不能破」",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动维护排队秩序，坚持规则不被破坏→S10:5"
+      }
+    ],
+    "reveal": "孙策虽然自己经常闯祸，但看到别人不守规矩反而会生气"
+  },
+  {
+    "id": "sunce_补10",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "孙策",
+    "text": "分别好些天，孙策一见到你就冲过来，脸红红地说「我、我想你了……就一点点」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "拍了拍他的背「嗯，回来了就好」然后转身继续忙",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "用公事公办的态度回避对方的情感表达，不回应心意→S2:1"
+      },
+      {
+        "label": "B",
+        "text": "笑着打趣「是吗，我也有一点点想你」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "用同样的程度回应，含蓄地表达情感但保持克制→S2:3"
+      },
+      {
+        "label": "C",
+        "text": "一头撞进他怀里「不止一点点，我特别想你」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接且热烈地回应想念，情感表达毫无保留→S2:5"
+      }
+    ],
+    "reveal": "「我、我想你了……就一点点」——江东小霸王说想你都要加个限定词，耳朵红得能滴血"
+  }
+]
