@@ -2,6 +2,9 @@
 sessions/
 */sessions/
 
+# 非流水线agent
+learn/
+
 # auth/profiles（敏感凭证）
 auth-profiles.json
 */auth-profiles.json
@@ -36,7 +39,6 @@ test-results/
 chendeng/
 zhangmiao/
 fit-buddy/
-learn/
 app-publisher/
 glm-5/
 cron-reporter/
