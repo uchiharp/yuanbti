@@ -597,28 +597,28 @@
         "label": "A",
         "text": "说考虑一下，让人先准备着",
         "scores": {
-          "S6": 5
+          "S6": 1
         },
-        "tendency": "H",
-        "reasoning": "选择说考虑一下，让人……体现了较高的S6倾向→S6:5"
+        "tendency": "L",
+        "reasoning": "愿意考虑嫁祸百姓换取利益，底线轻易让步→S6:1"
       },
       {
         "label": "B",
         "text": "坚决拒绝，江东的百姓不能动",
         "scores": {
-          "S6": 1
+          "S6": 3
         },
         "tendency": "L",
-        "reasoning": "清楚自己能接受什么不能接受→S6:1"
+        "reasoning": "想找替代方案但没明确拒绝嫁祸，有底线但不够坚定→S6:3"
       },
       {
         "label": "C",
         "text": "问有没有别的办法能达到同样效果",
         "scores": {
-          "S6": 3
+          "S6": 5
         },
-        "tendency": "M",
-        "reasoning": "折中处理问有没有别的办法……S6处于中等水平→S6:3"
+        "tendency": "H",
+        "reasoning": "毫不犹豫地拒绝伤害百姓，坚守底线寸步不让→S6:5"
       }
     ],
     "reveal": "孙策有英雄的底线，但战争逼人做选择。"
@@ -627,7 +627,7 @@
     "id": "sunce_daily_3",
     "type": "daily",
     "dimension": [
-      "S6"
+      "S8"
     ],
     "source_character": "孙策",
     "text": "孙策发现朋友偷偷藏了他的好酒，他问你怎么看。",
@@ -636,28 +636,28 @@
         "label": "A",
         "text": "说先问清楚原因再决定",
         "scores": {
-          "S6": 3
+          "S8": 1
         },
-        "tendency": "M",
-        "reasoning": "先问清楚再决定，不盲目行动→S6:3"
+        "tendency": "L",
+        "reasoning": "认真追究朋友的行为，不够包容和温柔→S8:1"
       },
       {
         "label": "B",
         "text": "说可能忘了放回去，别往坏处想",
         "scores": {
-          "S6": 1
+          "S8": 5
         },
-        "tendency": "L",
-        "reasoning": "回避了说可能忘了放回去……S6倾向较低→S6:1"
+        "tendency": "H",
+        "reasoning": "主动替朋友找理由，温柔地维护友谊→S8:5"
       },
       {
         "label": "C",
         "text": "说藏得好，回头我也藏一瓶他的酒，看谁先找到",
         "scores": {
-          "S6": 5
+          "S8": 3
         },
         "tendency": "H",
-        "reasoning": "用开玩笑的方式回应，不较真底线→S6:5"
+        "reasoning": "用玩笑回应，不计较但也没有正面表达关心→S8:3"
       }
     ],
     "reveal": "孙策对人性有期待。"
@@ -666,7 +666,7 @@
     "id": "sunce_scheme_6",
     "type": "scheme",
     "dimension": [
-      "S6"
+      "S10"
     ],
     "source_character": "孙策",
     "text": "俘虏了一个敌方将领，他说愿意投降并透露情报，但孙策不确定他是否真心。",
@@ -675,28 +675,28 @@
         "label": "A",
         "text": "先关起来慢慢审，用尽办法套话",
         "scores": {
-          "S6": 5
+          "S10": 1
         },
-        "tendency": "H",
-        "reasoning": "选择先关起来慢慢审，……体现了较高的S6倾向→S6:5"
+        "tendency": "L",
+        "reasoning": "不择手段审讯，完全无视规矩和程序→S10:1"
       },
       {
         "label": "B",
         "text": "不接受投降，按照规矩处理",
         "scores": {
-          "S6": 1
+          "S10": 5
         },
-        "tendency": "L",
-        "reasoning": "回避了不接受投降，按照……S6倾向较低→S6:1"
+        "tendency": "H",
+        "reasoning": "严格按军规处理投降者，坚守秩序和程序→S10:5"
       },
       {
         "label": "C",
         "text": "给他机会，但如果骗人就军法处置",
         "scores": {
-          "S6": 3
+          "S10": 3
         },
         "tendency": "M",
-        "reasoning": "折中处理给他机会，但如果……S6处于中等水平→S6:3"
+        "reasoning": "在规矩框架内给机会，有原则但也灵活→S10:3"
       }
     ],
     "reveal": "战场上没有绝对的善恶，只有胜负。"
