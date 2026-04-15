@@ -198,37 +198,37 @@
     "id": "cd_funny_04",
     "type": "funny",
     "dimension": [
-      "S4"
+      "S7"
     ],
     "source_character": "陈登",
     "text": "啊……救命——」他摔了一跤，第一反应是鱼还在不在。",
     "options": [
       {
         "label": "A",
-        "text": "说你摔了第一反应是看鱼，你面具掉了吧",
+        "text": "假装没看见，默默走开，给他留最后的体面",
         "scores": {
-          "S4": 5
+          "S7": 1
         },
-        "tendency": "H",
-        "reasoning": "点破他把关心藏在食物后面→S4:5"
+        "tendency": "L",
+        "reasoning": "收起锋芒，完全不戳穿→S7:1"
       },
       {
         "label": "B",
-        "text": "问他有没有受伤",
+        "text": "笑着扶他起来，顺手把鱼塞回他怀里说鱼比你重要我懂",
         "scores": {
-          "S4": 1
+          "S7": 3
         },
-        "tendency": "L",
-        "reasoning": "只关注表面→S4:1"
+        "tendency": "M",
+        "reasoning": "用调侃的方式表达锋芒，分寸刚好→S7:3"
       },
       {
         "label": "C",
-        "text": "说你先别管鱼了",
+        "text": "淡定蹲下和鱼对视，问鱼你没事吧，他摔了关你什么事",
         "scores": {
-          "S4": 3
+          "S7": 5
         },
-        "tendency": "M",
-        "reasoning": "注意到优先级不对→S4:3"
+        "tendency": "H",
+        "reasoning": "用反差感拉满锋芒，笑着损人不留情面→S7:5"
       }
     ],
     "reveal": "傅副官休沐日中陈登摔跤先看鱼。"
