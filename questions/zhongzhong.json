@@ -1,0 +1,782 @@
+[
+  {
+    "id": "zhongzhong_s2_1",
+    "type": "funny",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠凑到你耳边吹了口气说「殿下今天的香味不一样，是换了新的熏香吗？还是……身边有人了？」他笑得一脸暧昧。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说少闻我味道变态",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避暧昧话题→S2:1"
+      },
+      {
+        "label": "B",
+        "text": "说换了你要不要凑近点仔细闻闻",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接接招反过来撩他→S2:5"
+      },
+      {
+        "label": "C",
+        "text": "说关你什么事",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "回应了但没深入→S2:3"
+      }
+    ],
+    "reveal": "周忠的情报网连你今天换了什么熏香都知道，说是业务需要其实就是爱八卦。"
+  },
+  {
+    "id": "zhongzhong_s2_2",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠喝了点酒趴在桌上看着你说「殿下……你知不知道，你笑起来的时候，连楼里的姑娘都自叹不如」。",
+    "options": [
+      {
+        "label": "B",
+        "text": "说你喝多了去醒醒酒",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "转移话题回避情感→S2:1"
+      },
+      {
+        "label": "C",
+        "text": "说原来你天天看姑娘啊",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "调侃但不正面回应→S2:3"
+      },
+      {
+        "label": "A",
+        "text": "笑说那你可得多看看我别去看姑娘了",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接接住他的暧昧→S2:5"
+      }
+    ],
+    "reveal": "周忠经营青楼多年，嘴甜是基本功，但喝醉了说的不全是场面话。"
+  },
+  {
+    "id": "zhongzhong_s7_1",
+    "type": "funny",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠被人追债追到广陵王府门口，他理直气壮地说「我跟殿下有要事相商！私事！很私的那种事！」追债的人气得脸都绿了。",
+    "options": [
+      {
+        "label": "C",
+        "text": "说对对对我们正要讨论双修之法",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "当众接住他的胡扯还加码→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "说周忠你进来再说追债的人先回去",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "给面子但不跟着胡说→S7:3"
+      },
+      {
+        "label": "A",
+        "text": "说确实有要事让他进来",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "正襟危坐不接梗→S7:1"
+      }
+    ],
+    "reveal": "周忠被追债时的嘴比他做生意时还利索。"
+  },
+  {
+    "id": "zhongzhong_s7_2",
+    "type": "funny",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠翘着二郎腿嗑瓜子说「这年头谁还讲什么忠义，讲义气的人都死绝了。你看我，活得最好」旁边的人脸色铁青。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说确实活得好就是本事",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "当众附和他的锋芒→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "说你小声点别把人全得罪了",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "觉得他说得有点道理但不赞同→S7:3"
+      },
+      {
+        "label": "C",
+        "text": "说你就继续嘴硬吧",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "不接话收敛锋芒→S7:1"
+      }
+    ],
+    "reveal": "周忠的人生哲学就是活着最重要，其他都是虚的。"
+  },
+  {
+    "id": "zhongzhong_s5_1",
+    "type": "funny",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠一边解衣带一边说「殿下别急嘛～」你还没反应过来他已经跳进了你的浴桶里。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说谁让你进来的给我出去",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "反应很慢被他抢先了→S5:1"
+      },
+      {
+        "label": "B",
+        "text": "说行那你帮我搓背吧反正你也在这儿了",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "顺势而为不慌→S5:3"
+      },
+      {
+        "label": "C",
+        "text": "在他跳进来之前就把他踹出去",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "反应极快先行动→S5:5"
+      }
+    ],
+    "reveal": "周忠最大的特点就是行动力强——尤其是脱衣服的时候。"
+  },
+  {
+    "id": "zhongzhong_s5_2",
+    "type": "scheme",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠说「里八华今晚有个宴会，全是各路大佬的把柄在交换。殿下要是不去，这些情报可就白费了」。",
+    "options": [
+      {
+        "label": "C",
+        "text": "说走换身行头马上出发",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "冲动行动不准备→S5:1"
+      },
+      {
+        "label": "A",
+        "text": "说先把宴会的布局和参会名单搞清楚再去",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "谋定后动→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "说让阿应先去探路我们再跟上",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "有准备但不自己先冲→S5:3"
+      }
+    ],
+    "reveal": "周忠虽然是老江湖，但真到了关键时刻比谁都谨慎。"
+  },
+  {
+    "id": "zhongzhong_s4_1",
+    "type": "funny",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠在宴会上对你毕恭毕敬「殿下驾到有失远迎」，转头就对旁边的人挤眉弄眼「看到了吗殿下今晚穿的那件，是我挑的」。",
+    "options": [
+      {
+        "label": "B",
+        "text": "假装没听到继续应酬",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "配合他维持人前的面具→S4:5"
+      },
+      {
+        "label": "A",
+        "text": "说周忠你话太多了",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接揭穿不配合→S4:1"
+      },
+      {
+        "label": "C",
+        "text": "低声说你下次能不能别在外面说",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "私下提醒但不完全揭穿→S4:3"
+      }
+    ],
+    "reveal": "周忠人前人后两副面孔切换自如，这就是他的生存技能。"
+  },
+  {
+    "id": "zhongzhong_s6_1",
+    "type": "angst",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠说「里八华要我交出楼里那几个孩子的去向，否则就断了我在扬州的生意线」他的笑容消失了。",
+    "options": [
+      {
+        "label": "C",
+        "text": "说生意可以再找孩子不能交",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "保护孩子是底线不退让→S6:5"
+      },
+      {
+        "label": "A",
+        "text": "说先拖拖看能不能两边都保住",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "试图平衡但不保证→S6:3"
+      },
+      {
+        "label": "B",
+        "text": "说那你先把位置让出来保命要紧",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "没有底线退让→S6:1"
+      }
+    ],
+    "reveal": "周忠看起来什么都不在乎，但楼里的孩子是他唯一的软肋。"
+  },
+  {
+    "id": "zhongzhong_s3_1",
+    "type": "funny",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠数着银子说「殿下你看这条街的生意，一个月能赚这个数。要不要入股？分红三七开，你三我七，我出力嘛」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说三七开？你出力我就出钱那得倒过来",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "精打细算不吃亏→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "说五五开就考虑",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "务实但不会太计较→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "说赚钱的事你看着办吧",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "不在意钱→S3:1"
+      }
+    ],
+    "reveal": "周忠对钱的嗅觉比狗还灵敏，但他的账永远算得对自己有利。"
+  },
+  {
+    "id": "zhongzhong_s1_1",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠压低声音说「殿下知道吗，昨晚里八华的宴上有人出价要买你身边阿蝉的情报，出价可不低」。",
+    "options": [
+      {
+        "label": "B",
+        "text": "说谁出价的怎么收到的消息顺便查他底细",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "从情报中提取更多信息→S1:5"
+      },
+      {
+        "label": "A",
+        "text": "说那把假的情报卖给他",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "想到利用但不深究→S1:3"
+      },
+      {
+        "label": "C",
+        "text": "说有人敢打我的人的主意找死",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "只顾生气不分析→S1:1"
+      }
+    ],
+    "reveal": "周忠的情报网遍布青楼酒肆，什么风吹草动都逃不过他的耳朵。"
+  },
+  {
+    "id": "zhongzhong_s1_2",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠轻摇扇子说「里八华最近在招新人，都是名门之后的落魄公子。殿下说巧不巧——有人主动送上门当棋子」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说既然送上门就好好利用一番",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动把棋子纳入布局→S1:5"
+      },
+      {
+        "label": "B",
+        "text": "说先观察看看值不值得用",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "理性评估后再决定→S1:3"
+      },
+      {
+        "label": "C",
+        "text": "说落魄公子有什么好用的",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "不在意情报价值→S1:1"
+      }
+    ],
+    "reveal": "周忠最擅长的事就是在别人的棋盘上做手脚。"
+  },
+  {
+    "id": "zhongzhong_s8_1",
+    "type": "sweet",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "zhongzhong",
+    "text": "深夜周忠敲你的门，手里提着一壶热酒「睡不着？陪周叔喝一杯吧，今晚月亮不错」。",
+    "options": [
+      {
+        "label": "B",
+        "text": "开门让他进来一起喝",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "温柔接纳他的深夜陪伴→S8:5"
+      },
+      {
+        "label": "A",
+        "text": "说太晚了明天再喝",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "推辞但不冷漠→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "说你自己喝吧我睡了",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接拒绝→S8:1"
+      }
+    ],
+    "reveal": "周忠嘴上没正经，但深夜提酒来敲门的时候是最真的。"
+  },
+  {
+    "id": "zhongzhong_s8_2",
+    "type": "funny",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠看到你工作到很晚，把一件披风搭在你肩上说「殿下要是累坏了，楼里可是损失惨重。来，周叔给你按按肩膀」。",
+    "options": [
+      {
+        "label": "C",
+        "text": "靠过去让他按，说那你轻点",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "接受他的温柔照顾→S8:5"
+      },
+      {
+        "label": "A",
+        "text": "说我不用你管忙你的去",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "拒绝关心→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "说谢了但不用按我自己休息就行",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "接受好意但保持距离→S8:3"
+      }
+    ],
+    "reveal": "周忠的温柔总是裹着一层油嘴滑舌的外衣。"
+  },
+  {
+    "id": "zhongzhong_s8_3",
+    "type": "angst",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠难得认真地说「殿下，蝶部就剩我一个人了。可我不走，不是因为绣衣楼，是因为你」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说我知道谢谢你一直都在",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "温柔地回应他的真心→S8:5"
+      },
+      {
+        "label": "B",
+        "text": "说你要是想走我不拦你",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "给他自由但不是完全推开→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "说别煽情了赶紧干活",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避情感时刻→S8:1"
+      }
+    ],
+    "reveal": "周忠很少说真话，但一旦说了就是认真的。"
+  },
+  {
+    "id": "zhongzhong_s8_4",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠把一碗姜汤放在你桌上「别回头说我没照顾你。喝完了赶紧睡，明天还有一堆烂摊子等着呢」。",
+    "options": [
+      {
+        "label": "B",
+        "text": "说知道了周叔你也早点休息",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "反向关心他→S8:5"
+      },
+      {
+        "label": "C",
+        "text": "端起来喝了说还行你也有心",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "接受但不太表露→S8:3"
+      },
+      {
+        "label": "A",
+        "text": "说我不用你管",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "冷硬拒绝→S8:1"
+      }
+    ],
+    "reveal": "周忠的关心方式就是嘴上嫌弃但行动到位。"
+  },
+  {
+    "id": "zhongzhong_s9_1",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠说「里八华那个位置，给我我也不坐。管一帮女人勾心斗角有什么意思，不如在殿下手底下混吃混喝」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说那你甘心一辈子给人当手下？",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "激励他追求更高的位置→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "说混吃混喝也挺好至少自在",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "认同他不想争权→S9:1"
+      },
+      {
+        "label": "C",
+        "text": "说你的能力不止于此",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "肯定他但不逼他→S9:3"
+      }
+    ],
+    "reveal": "周忠不是没能力争，是他太清楚争权的代价。"
+  },
+  {
+    "id": "zhongzhong_s9_2",
+    "type": "funny",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠拍着胸脯说「殿下你放心，整个扬州城的消息都归我管。什么世家大族的小秘密我都知道——只要价格合适」。",
+    "options": [
+      {
+        "label": "C",
+        "text": "说那你把消息网做大做到全国去",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "推动他把影响力扩大→S9:5"
+      },
+      {
+        "label": "A",
+        "text": "说那你给我打个折",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "务实利用但不做大→S9:3"
+      },
+      {
+        "label": "B",
+        "text": "说你别拿消息换钱卖给我",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "不在意情报网的经营→S9:1"
+      }
+    ],
+    "reveal": "周忠手里握着扬州最大的灰色情报网，但他只当生意做。"
+  },
+  {
+    "id": "zhongzhong_s9_3",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠盯着一份名单说「这上面的人都是可以策反的。殿下要不要趁现在把手伸到里八华去？你一句话的事」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说好你来操作把名单上的人先稳住",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动扩大权力版图→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "说先别急慢慢来",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "认可方向但节奏慢→S9:3"
+      },
+      {
+        "label": "C",
+        "text": "说里八华的事跟我没关系",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "放弃渗透机会→S9:1"
+      }
+    ],
+    "reveal": "周忠在里八华的人脉比他自己说的还要深。"
+  },
+  {
+    "id": "zhongzhong_s9_4",
+    "type": "angst",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠说「旧主死了以后，绣衣楼就像一盘散沙。谁都想当老大，可谁也当不了。殿下……你是唯一能让这些人重新聚起来的人」。",
+    "options": [
+      {
+        "label": "B",
+        "text": "说那就让我来试试",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动承担领导责任→S9:5"
+      },
+      {
+        "label": "C",
+        "text": "说我不想当什么老大",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避权力→S9:1"
+      },
+      {
+        "label": "A",
+        "text": "说这话你跟别人也说过吧",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "怀疑但不否认→S9:3"
+      }
+    ],
+    "reveal": "周忠看人很准，他知道谁有当王的命。"
+  },
+  {
+    "id": "zhongzhong_s10_1",
+    "type": "funny",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "zhongzhong",
+    "text": "周忠把账本往你面前一摔「殿下你看看，上个月的账对不上！有人中饱私囊，要是我楼里的人我早把他扒了裤子打」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说查出来了我亲自扒，殿下你在旁边负责递绳子",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "配合他的规矩还加码，按流程来→S10:5"
+      },
+      {
+        "label": "C",
+        "text": "说多大点事嘛，来来来殿下先喝一杯消消气",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "用酒糊弄过去，完全跳过规矩→S10:1"
+      },
+      {
+        "label": "B",
+        "text": "说行那我们今晚就蹲在金库门口，谁来拿钱就逮谁",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "愿意查但方式不太正规，凑合办事→S10:3"
+      }
+    ],
+    "reveal": "周忠对账目比对自己的命还上心，这也是他为什么能活下去。"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "甘宁_batch_1",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁在锦帆寨里问你愿不愿意为了那些一路上招待过你、替你指过路的狗留下，他看你的眼神认真而期待。",
+    "options": [
+      {
+        "label": "A",
+        "text": "犹豫了一下说「我再想想」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "犹豫中透露在乎→S2:3"
+      },
+      {
+        "label": "B",
+        "text": "摇头说「我不属于这里」",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "理性拒绝，不表露情感→S2:1"
+      },
+      {
+        "label": "C",
+        "text": "「有你的地方，我可以考虑」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直球回应情感→S2:5"
+      }
+    ],
+    "reveal": "「这些一路上招待过你、替你指过路的大好狗哦，你真的不愿意为了他们留下吗？」甘宁留人从来不直说想你。"
+  },
+  {
+    "id": "甘宁_batch_2",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁分析锦帆寨能一直存在的原因，指出百姓需要买凶杀人的中介、官员需要伪装劫道的工具、还有便宜的私盐需求。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你想得倒是挺清楚」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "认可但不多深入→S1:3"
+      },
+      {
+        "label": "B",
+        "text": "顺着他的思路，问他的下一步打算",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动深入权谋层面→S1:5"
+      },
+      {
+        "label": "C",
+        "text": "「所以呢？你想说什么」",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "对权谋分析不感兴趣→S1:1"
+      }
+    ],
+    "reveal": "「如果居民想买凶杀犬又不想脏自己的爪爪……只要锦帆寨在，还能以便宜价格买到私盐。」甘宁看社会结构像看棋盘。"
+  },
+  {
+    "id": "甘宁_batch_3",
+    "type": "daily",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁到了新地方第一反应是观察地形和势力分布，迅速找到自己的位置。你觉得这种方式很符合他锦帆贼出身的本能。",
+    "options": [
+      {
+        "label": "A",
+        "text": "跟他一起摸清附近所有路线",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "立刻行动配合→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "说不急，先休息再说",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "压制行动欲→S5:1"
+      },
+      {
+        "label": "C",
+        "text": "让他去探路，自己在安全的地方等消息",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "支持行动但不亲自参与→S5:3"
+      }
+    ],
+    "reveal": "锦帆贼出身的人，到了任何地方都能迅速判断出哪条路能逃、哪个位置能守。本能比脑子快。"
+  },
+  {
+    "id": "甘宁_batch_6",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁夸你身手很好，说你可以成为他的左右爪，甚至封你为并肩寨主也未尝不可。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我不适合当寨主」",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "就事论事拒绝，无情感流露→S2:1"
+      },
+      {
+        "label": "B",
+        "text": "「并肩寨主？那我管你吗」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "亲密回应他的邀约→S2:5"
+      },
+      {
+        "label": "C",
+        "text": "「寨主太累，我当军师还行」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "用拒绝的方式保持连接→S2:3"
+      }
+    ],
+    "reveal": "「真的不留下吗？封你为并肩寨主也未尝不可汪……」甘宁不会说我想你，只会给你一个位置让你留下来。"
+  },
+  {
+    "id": "甘宁_batch_7",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁说锦帆寨能存在是因为官府和百姓都有各自的利益考量，他看透了这种灰色地带的生存逻辑。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「所以你比官府聪明」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "认可他的分析力→S1:3"
+      },
+      {
+        "label": "B",
+        "text": "「听起来挺有道理的」",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "表面认同不深入→S1:1"
+      },
+      {
+        "label": "C",
+        "text": "问他「那你打算一直当贼吗」",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "从权谋角度质问他的立场→S1:5"
+      }
+    ],
+    "reveal": "「明明只要官府发兵，或者百姓们团结成民兵就能剿灭的贼窝，还可以一年一年存在本地……」"
+  },
+  {
+    "id": "甘宁_batch_8",
+    "type": "funny",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁说自己被剪径贼打劫了，腿痛得起不来。一个锦帆贼说自己被打劫，听起来有点讽刺。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「那你怎么不还手」",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "理性质问而非行动→S5:1"
+      },
+      {
+        "label": "B",
+        "text": "「锦帆贼被剪径贼打劫，这谁信啊」",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "调侃代替行动→S5:3"
+      },
+      {
+        "label": "C",
+        "text": "蹲下来看他的腿说「需要我背你吗」",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "立刻行动关心→S5:5"
+      }
+    ],
+    "reveal": "「腿还是很痛……啊……起不来……」锦帆贼出身的甘宁，说被剪径贼打劫时一点不像演的。"
+  },
+  {
+    "id": "甘宁_batch_9",
+    "type": "angst",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁说当不了良民还能落草为寇，弱肉强食也比活活饿死要好，他把残酷的现实说得很轻松。",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你说得对，这世道没什么好选的」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "直面残酷认同锋利→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "「总有不落草的路」",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "温和反驳但不够锋利→S7:3"
+      },
+      {
+        "label": "C",
+        "text": "沉默不接话",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避锋利话题→S7:1"
+      }
+    ],
+    "reveal": "「当不了良民还能落草为寇嘛！弱肉强食也比当流民活活饿死要好，你说呢？」"
+  },
+  {
+    "id": "ganning_补1",
+    "type": "angst",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁说「因为耳朵特别大，出生就被遗弃了……养母家里的兄弟姐妹们也都欺负我」。他的语气像在讲别人的故事。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说都过去了，现在不也挺好的",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "用敷衍的话堵住他的倾诉，回避了他童年被遗弃的伤痛，没有给予温暖→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "问他养母后来怎么样了",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "没有直接安慰，但通过追问表达了对他的在意，用关注代替安慰→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "拍拍他的头，说大耳朵挺好的",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "用最简单直接的方式接纳他最在意的缺陷，给他从未得到过的认可→S8:5"
+      }
+    ],
+    "reveal": "甘宁从小被遗弃，养母是他唯一的温暖。他说起这些时语气平淡，但那些伤口从未愈合。"
+  },
+  {
+    "id": "ganning_补2",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁说「当不了良民还能落草为寇嘛！弱肉强食也比当流民活活饿死要好」。他看着广陵王，像在等一个评判。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说锦帆寨的日子迟早要到头",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "暗示他应该回归正统秩序，站在官方立场上否定他的生存方式，对权力结构有明确认同→S9:1"
+      },
+      {
+        "label": "B",
+        "text": "说有道理，乱世里活下来就是本事",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "完全认同他的逻辑，不在意合法与否，只看生存本身，对权力秩序极为超然→S9:5"
+      },
+      {
+        "label": "C",
+        "text": "说可以理解，但广陵或许能给他更好的出路",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "先理解再引导，不否定他的选择但暗示有更好的路，对权力持实用主义态度→S9:3"
+      }
+    ],
+    "reveal": "甘宁的权力观很务实——在这个乱世，能吃饱饭、能活命，比什么官位体面都重要。"
+  },
+  {
+    "id": "ganning_sup2_01",
+    "type": "angst",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "甘宁",
+    "text": "甘宁坐在高处喝酒，看到你来了：「我就喜欢找高处喝酒，不行吗？！」他语气里带着挑衅，但你看到他空了一截的裤腿在风中晃。你怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说行那你喝吧我先走了",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "不主动靠近不打扰他，回避冲突也不采取行动→S5:1"
+      },
+      {
+        "label": "B",
+        "text": "坐到他旁边不说话，拿过酒瓶也喝一口",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "用陪伴的方式靠近但不强迫交流，中等行动力→S5:3"
+      },
+      {
+        "label": "C",
+        "text": "直接爬上去坐到他旁边说够了吗，下来跟我走",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "不管他的挑衅直接行动带他离开，行动力拉满→S5:5"
+      }
+    ],
+    "reveal": "甘宁说「不行吗」的时候不是在问你，是在问自己还配不配坐在高处。他的腿没了，但脾气还在。"
+  }
+]

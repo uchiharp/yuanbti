@@ -1,0 +1,197 @@
+[
+  {
+    "id": "张角_s2_01",
+    "type": "angst",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "张角",
+    "text": "张角低声说出内心的矛盾：“我从未告诉他们，我想要什么……可是，他们却从未怀疑过我。”作为官员和士族的一员，他怀疑自己是否辜负了追随者的信任。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「他们信任你，不是因为你给了答案，而是因为你一直在找」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "深度共情，把他的迷茫重新定义为力量→S2:5"
+      },
+      {
+        "label": "B",
+        "text": "沉默，陪他坐一会儿",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "用沉默表达理解，但不主动回应→S2:3"
+      },
+      {
+        "label": "C",
+        "text": "说「想不通就先别想了」",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避对方的内心挣扎→S2:1"
+      }
+    ],
+    "reveal": "「我从未告诉他们，我想要什么，我们想做什么……可是，他们却从未怀疑过我。可是，我也是官员和士族啊。他们在怀疑我自己。」——张角的自我怀疑"
+  },
+  {
+    "id": "张角_s6_03",
+    "type": "scheme",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "张角",
+    "text": "张角在追问自己救人行为的真正后果：“我真的行的是道义之事吗……因为我活下来的人，真的比死去的人多吗？”——救世者对自己的道义产生了深刻的怀疑。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「你救的每一个人都是真实的，不必用数字衡量」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "肯定动机但回避了对后果的审视→S6:3"
+      },
+      {
+        "label": "B",
+        "text": "说「重要的是你还在问这个问题，说明你没麻木」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "触及核心：持续追问本身就是底线→S6:5"
+      },
+      {
+        "label": "C",
+        "text": "说「想太多只会让自己痛苦」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "劝他放弃道德追问→S6:1"
+      }
+    ],
+    "reveal": "「我真的行的是道义之事吗……因为我活下来的人，真的比死去的人多吗……」——张角对自己道义的深刻怀疑"
+  },
+  {
+    "id": "张角_s3_04",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "张角",
+    "text": "张角在鬼城看到粮米短缺，说「这个冬天很冷，城中的老弱快要撑不住了……请你多放些粮米，能多救一人便是一人吧」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻调集粮米送去",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "听到需求立即行动，务实高效→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "先评估能调多少再答应",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "谨慎行事，量力而为→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "说「我尽力，但不保证」",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "模糊回应，不做具体承诺→S3:1"
+      }
+    ],
+    "reveal": "「这个冬天很冷，城中的老弱快要撑不住了……请你多放些粮米，能多救一人便是一人吧。」——张角在鬼城请求援助"
+  },
+  {
+    "id": "张角_s5_05",
+    "type": "classic",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "张角",
+    "text": "战争摧毁了一切，他选择行动而非等待。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「我跟你一起去」",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动加入，共同行动→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "说「路上小心」",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "口头关心但不行动→S5:1"
+      },
+      {
+        "label": "C",
+        "text": "问「你需要什么支援」",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "提供支持但不亲自介入→S5:3"
+      }
+    ],
+    "reveal": "战争摧毁了一切，他选择行动而非等待。..."
+  },
+  {
+    "id": "zhangjiao_s9_1",
+    "type": "angst",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "zhangjiao",
+    "text": "张角叹气说「这个冬天很冷，城中的老弱快要撑不住了……请你多放些粮米能多救一人便是一人吧」。",
+    "options": [
+      {
+        "label": "B",
+        "text": "说我会想办法的能救一个是一个",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "不认命积极行动救人→S9:5"
+      },
+      {
+        "label": "C",
+        "text": "说我也没办法粮米不够分",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "接受无法救更多人的命运→S9:1"
+      },
+      {
+        "label": "A",
+        "text": "说先看看能挤出多少来",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "务实但不完全放弃→S9:3"
+      }
+    ],
+    "reveal": "张角关心的是最底层的百姓，他的权力来自民心。"
+  }
+]

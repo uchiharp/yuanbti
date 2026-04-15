@@ -1,0 +1,197 @@
+[
+  {
+    "id": "法正_s1_01",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "法正",
+    "text": "法正对你说「袁氏的秘密，是不是能换更多？」他在试探你的底线，想用一个秘密换取更大利益。",
+    "options": [
+      {
+        "label": "A",
+        "text": "反问「你觉得什么价码配得上这个秘密？」",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "反客为主，让对方先出价，掌握主动→S1:5"
+      },
+      {
+        "label": "B",
+        "text": "说「你先说秘密，我再定价」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "谨慎试探，不上当→S1:3"
+      },
+      {
+        "label": "C",
+        "text": "说「我对秘密没兴趣」",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "简单拒绝博弈→S1:1"
+      }
+    ],
+    "reveal": "法正对你说「袁氏的秘密，是不是能换更多？」他在试探你的底线，..."
+  },
+  {
+    "id": "法正_s7_02",
+    "type": "funny",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "法正",
+    "text": "法正看着地上的蛇蜕，说「都第几次了，没用的蛇」。语气平淡但带着明显的嘲讽。",
+    "options": [
+      {
+        "label": "A",
+        "text": "笑着说「你挺瞧不起它啊」",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "间接点出他的锋芒，但不直面→S7:3"
+      },
+      {
+        "label": "B",
+        "text": "说「好歹是条命」",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "反驳他的锋芒，表达温和→S7:1"
+      },
+      {
+        "label": "C",
+        "text": "说「确实没用，像你一样」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "正面交锋，比他更锋利→S7:5"
+      }
+    ],
+    "reveal": "「都第几次了，没用的蛇。」——法正的冷淡嘲讽"
+  },
+  {
+    "id": "法正_s3_03",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "法正",
+    "text": "法正说「我要找新工作去了。如果新主人喜欢蛇皮包包，你就有用处了」。他把失败者转化为可利用的资源。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「挺会废物利用」",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "认可他的务实策略，正面评价→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "说「这也太现实了」",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "承认务实但带有批评意味→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "沉默不答",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避对务实策略的评价→S3:1"
+      }
+    ],
+    "reveal": "「我要找新工作去了。如果新主人喜欢蛇皮包包，你就有用处了。」——法正的功利思维"
+  },
+  {
+    "id": "法正_s4_04",
+    "type": "angst",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "法正",
+    "text": "法正忽然说「没有啊。活着本来就没有意义」。他说得轻描淡写，但你觉得这不是玩笑。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「那为什么还要活着？」",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接追问，不放过他伪装的轻松→S4:5"
+      },
+      {
+        "label": "B",
+        "text": "说「你今天有点悲观」",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "注意到异常但保持距离→S4:3"
+      },
+      {
+        "label": "C",
+        "text": "装作没听见，继续走",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避他的真实情绪→S4:1"
+      }
+    ],
+    "reveal": "「没有啊。活着本来就没有意义。」——法正对生命意义的虚无看法"
+  },
+  {
+    "id": "fazheng_s8_1",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "fazheng",
+    "text": "法正漫不经心地说「没有啊活着本来就没有意义」他看着天空。",
+    "options": [
+      {
+        "label": "A",
+        "text": "坐在他旁边什么也不说",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "用沉默陪伴表达温柔→S8:5"
+      },
+      {
+        "label": "B",
+        "text": "说那你觉得什么有意义",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "关心但用提问的方式→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "说活着当然有意义别瞎说",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接否定不够温柔→S8:1"
+      }
+    ],
+    "reveal": "法正对什么都提不起兴趣，但他不拒绝别人靠近。"
+  }
+]
