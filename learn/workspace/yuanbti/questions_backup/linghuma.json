@@ -1,0 +1,393 @@
+[
+  {
+    "id": "q_linghuma_01",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "令狐茂",
+    "source_story": "益州赈灾·政治课",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "益州赈灾途中，令狐茂对广陵王上了一堂政治课：「赈灾若成，天子恩德。若不成，天子也展示过仁德了。」他还教广陵王用公签逼地方官出粮。面对「把好事做成政治筹码」的思路，你的态度是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "觉得不太妥当，赈灾就该纯粹地救人",
+        "scores": {
+          "S1": 2,
+          "S10": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "理解其中的道理，但做起来会有些别扭",
+        "scores": {
+          "S1": 3,
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "这就是权力的运作方式，不懂这些就活不下去",
+        "scores": {
+          "S1": 4,
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "令狐茂的选择：教会广陵王利用公签，是他在政治上给殿上的第一课。"
+  },
+  {
+    "id": "q_linghuma_02",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "令狐茂",
+    "source_story": "替人扛责·药杖之身",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我就是那个会替你承受雷霆天威的人，我有武帝赐予的药杖，我承受得住。」令狐茂嘴上说着「少来这一套」「管不了」，却在每次出事后替孩子们挨骂、兜底。这种「嘴硬心软」的守护方式，你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "我会直接说我在乎，不需要绕弯子",
+        "scores": {
+          "S8": 4,
+          "S2": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "理解他——说出来反而显得矫情，做就行了",
+        "scores": {
+          "S8": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "嘴硬不代表心软，也许他真的只是觉得麻烦",
+        "scores": {
+          "S8": 2,
+          "S4": 3.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "令狐茂说「我说了，这两个孩子我都不要了！」——转头替他们挨了一上午的骂。"
+  },
+  {
+    "id": "q_linghuma_03",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "令狐茂",
+    "source_story": "拒绝联姻",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「都已经入仙门了，还需要那么重的权欲？」令狐茂拒绝了与公主的政治联姻，但对广陵王的权力运作却处处指点。他对权力的态度是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "自己不追逐权力，但理解权力是工具",
+        "scores": {
+          "S9": 4,
+          "S1": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "看透权力本质，选择超然物外",
+        "scores": {
+          "S9": 3,
+          "S10": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "嘴上说不在乎，其实暗中一直在操控局面",
+        "scores": {
+          "S9": 3.5,
+          "S4": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "令狐茂对权力的态度：利用但不迷恋。他替后辈扛的不是权力本身，是权力的代价。"
+  },
+  {
+    "id": "q_linghuma_04",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "令狐茂",
+    "source_story": "旧日双镯·蜀山往事",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「戴了给谁看？都是少年时的玩意了。」令狐茂手中的双玉镯，是千年前一位冻昏在山门前的公主给的——一个换热酒，一个换他摘下幂篱。他笑着说不在乎，却记了一千年。你怎么看这种「笑着否认」？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的不在乎了，千年前的事何必挂在嘴上",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "越是笑着说不在乎，越是证明他在意了太久",
+        "scores": {
+          "S4": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "千年岁月足以冲淡一切，也许只是习惯性自嘲",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "双镯的故事是令狐茂最柔软的裂缝。他记了一千年，然后用一句「都是少年时的玩意了」盖住。"
+  },
+  {
+    "id": "q_linghuma_05",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "令狐茂",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个人嘴上总说「我管不了」「不要了」「跟你没关系」，但每次出事后，他都是第一个站出来扛事的人。如果你是他身边的孩子，你会怎么回应他的嘴硬？",
+    "options": [
+      {
+        "label": "A",
+        "text": "顺着他的话说，反正他心里清楚",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "当面拆穿他——「你就承认你在乎吧」",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "什么都不说，下次出事前先帮他处理好",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "令狐茂就是这种人。祢衡闯祸他说「不管」，转头挨了一上午骂回来。"
+  },
+  {
+    "id": "q_linghuma_06",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "令狐茂",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我还是王子时，父王寻求长生，将我送往了蜀山。」千年修行，看着同代人老去、死去，新一代人完全不认识你。如果你获得了长生，你最害怕的是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "害怕所有人都不在了，只剩自己",
+        "scores": {
+          "S10": 3,
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "害怕自己慢慢变得冷漠，不再在乎任何事",
+        "scores": {
+          "S10": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不害怕，长生就是长生，活着就好",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "令狐茂的千年修行让他变得淡然——但「少来这一套」的语气说明，他不是不在乎，是习惯了假装不在乎。"
+  },
+  {
+    "id": "q_linghuma_07",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「千载荣华，不及宁静一世。」在乱世中，以下哪种活法最接近你的选择？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在风暴中心掌握权力，用权力改变乱世",
+        "scores": {
+          "S9": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "找到一方净土，守护在乎的人安稳度日",
+        "scores": {
+          "S9": 2,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "看清乱局的本质，选择超然旁观",
+        "scores": {
+          "S9": 3,
+          "S10": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "令狐茂选了B和C之间——他在蜀山修行，却替一群闯祸的孩子在朝堂上跪碎膝盖。"
+  },
+  {
+    "id": "q_linghuma_08",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「瞧你那点出息，眼皮子浅，出去别说是我带大的。」以下哪种「毒舌」风格最接近你？",
+    "options": [
+      {
+        "label": "A",
+        "text": "刀刀见血型——一句话让人无地自容",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "恨铁不成钢型——嘴上嫌弃，实际在教导",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "我一般不毒舌，觉得没必要伤人",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "令狐茂的毒舌属于恨铁不成钢型——「骂你是因为在乎你」。"
+  },
+  {
+    "id": "q_linghuma_09",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼需要派一个人去朝廷替广陵王挡一道弹劾。这个人会被罚跪、被斥责，但不会有危险。你主动报名吗？",
+    "options": [
+      {
+        "label": "A",
+        "text": "看情况，如果我能扛得住就去",
+        "scores": {
+          "S1": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "主动去——我承受得住，殿下不必亲自面对",
+        "scores": {
+          "S1": 4,
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不主动，这种事让别人去就好",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "令狐茂大概会叹口气说「又来了」，然后默默去朝堂跪着。"
+  },
+  {
+    "id": "q_linghuma_10",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「没事了……没事了……」，值得深思",
+        "scores": {
+          "S2": 3.5,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「少来这一套，留着给你的露水情缘",
+        "scores": {
+          "S2": 2,
+          "S4": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "两句都来自令狐茂。A是安抚后辈时重复两次的温柔，B是收到礼物时的嘴硬。"
+  }
+]

@@ -1,0 +1,1513 @@
+[
+  {
+    "id": "q_yuanji_01",
+    "dimension": "S1",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "粮草谈判",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "粮草谈判中，袁基以宗亲与臣子的身份博弈，说出了「当亲王的，多少要给臣子留一口饭」这句话。面对利益谈判，你的策略更接近——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直截了当，利益多少开诚布公，少绕弯子",
+        "scores": {
+          "S1": 2,
+          "S3": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "将利益诉求包装成礼仪和规矩，让对方面子上过得去",
+        "scores": {
+          "S1": 3.5,
+          "S6": 3,
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "表面上完全退让，暗中布局让对方在三步之后才发觉",
+        "scores": {
+          "S1": 5,
+          "S4": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基的选择：以「给臣子留一口饭」将利益诉求包装成政治礼节，进退之间尽显精明，既不失体面又牢牢守住底线。"
+  },
+  {
+    "id": "q_yuanji_02",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "月海夜航船·船宴",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "船宴之上，袁基与贾诩、郭嘉同台博弈，以推理识破局中玄机。面对高手云集的博弈，你的作风是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先观棋不语，看清局势再开口，宁可沉默也不冒险",
+        "scores": {
+          "S1": 2.5,
+          "S9": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "据理力争，在众人面前亮明自己的判断与立场",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "表面不动声色，暗中推演数步之后的结局，等最关键的时机才出手",
+        "scores": {
+          "S1": 5,
+          "S6": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基在船宴中冷静推理，与贾诩、郭嘉同台博弈而不落下风，证明了他的城府之深——看得远、算得深，以布局见长。"
+  },
+  {
+    "id": "q_yuanji_03",
+    "dimension": "S1",
+    "cross_dimension": "S5",
+    "type": "story_anon",
+    "source_character": "袁基",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你识破了潜伏在身边的人是敌方内应，但此人尚有利用价值，且贸然揭穿会打草惊蛇。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻揭露，不留后患，宁可少一条线索也不要身边有隐患",
+        "scores": {
+          "S1": 2,
+          "S5": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "暗中盯防，收集更多证据，待时机成熟再一举收网",
+        "scores": {
+          "S1": 3.5,
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "将计就计，利用此人传递假情报，反过来操控对方的情报网",
+        "scores": {
+          "S1": 5,
+          "S5": 2.5,
+          "S4": 4,
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自袁基识破戏学（黑山军内应）的剧情——他冷静推理全过程，暗中部署应对，展现了以「看得远」见长的谋略风格。"
+  },
+  {
+    "id": "q_yuanji_04",
+    "dimension": "S1",
+    "cross_dimension": "S2",
+    "type": "story_anon",
+    "source_character": "袁基",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你精心筹划了一场对己方有利的交易，但对方恰好是你深爱的人。谈判中，你的权衡方式是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "感情归感情，利益归利益，在谈判桌上不留情面",
+        "scores": {
+          "S1": 4,
+          "S2": 2,
+          "S7": 3.5,
+          "S3": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "比平时多让一步，但总体不偏离自己的底线",
+        "scores": {
+          "S1": 3,
+          "S2": 3,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "情感影响判断，多次因对方而改变策略，甚至中止交易",
+        "scores": {
+          "S1": 2,
+          "S2": 1,
+          "S3": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基在粮草交易中多次因广陵王影响判断——这是他无法成为纯粹谋士的根本原因：权谋始终被情感牵制。"
+  },
+  {
+    "id": "q_yuanji_05",
+    "dimension": "S1",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "朝歌之战·袁基线",
+    "route_hint": null,
+    "city_hint": "邺城",
+    "text": "朝歌之战中，有人暗中想要将一切权力归为己有，表面上装作对权力毫无渴望。面对这种人，你的做法是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直言揭穿其野心，让众人看清此人的真面目",
+        "scores": {
+          "S1": 2,
+          "S7": 1,
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不动声色地暗中制衡，逐步瓦解其布局",
+        "scores": {
+          "S1": 3.5,
+          "S7": 2,
+          "S9": 2.5,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "看破不说破，利用对方对权力的渴望为其设局",
+        "scores": {
+          "S1": 5,
+          "S7": 4,
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基识破了对方「想要一切看似顺理成章地归于他，自己装作对权力毫无渴望」的算计，以冷静的判断力看清了局势。"
+  },
+  {
+    "id": "q_yuanji_06",
+    "dimension": "S2",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "七载相逢",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "七年后重逢，袁基终于说出：「我等了七年，殿下。我一个人熬了七年。」等待多年后终于见到对方，你最可能的表现是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "像往常一样平静，不动声色，不愿让对方知道自己这些年有多难",
+        "scores": {
+          "S2": 2,
+          "S4": 4,
+          "S6": 1,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "克制地流露出一些疲惫和思念，但不至于失态",
+        "scores": {
+          "S2": 3,
+          "S4": 3,
+          "S8": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "难以自控，将积压多年的思念与委屈倾泻而出",
+        "scores": {
+          "S2": 5,
+          "S4": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基在七载相逢中说出了积压七年的话，这是极为克制后的爆发——他的情感表达是文学化、含蓄却最深烈的类型。"
+  },
+  {
+    "id": "q_yuanji_07",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "七载相逢",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "袁基问：「殿下，袁基的心河流经四海十三州，有殿下的倒影，也只有过殿下的倒影。」你如何向深爱的人表达心意？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用行动证明，不必说出口，对方终会明白",
+        "scores": {
+          "S2": 2,
+          "S5": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用诗文、典故和隐喻来含蓄地传达",
+        "scores": {
+          "S2": 3.5,
+          "S8": 2.5,
+          "S4": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坦诚直白，哪怕让对方为难也要说出真实感受",
+        "scores": {
+          "S2": 5,
+          "S7": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基的情感表达是全男主中最文学化的类型——大量以棋局、诗词、典故包装真实心意，直到临终才直说「我爱你」。"
+  },
+  {
+    "id": "q_yuanji_08",
+    "dimension": "S2",
+    "cross_dimension": "S10",
+    "type": "story_anon",
+    "source_character": "袁基",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你深爱一个人，但从未开口说过那三个字。直到生命的最后时刻，才终于说出口。回头看这段沉默的岁月，你觉得——",
+    "options": [
+      {
+        "label": "A",
+        "text": "遗憾万分，早知如此，第一面就该说出口",
+        "scores": {
+          "S2": 5,
+          "S10": 2,
+          "S7": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有些话不必说得太早，经历了才知深情",
+        "scores": {
+          "S2": 3,
+          "S10": 3.5,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "沉默也是一种表达方式，懂的人自然懂",
+        "scores": {
+          "S2": 2,
+          "S10": 5,
+          "S4": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自袁基的临终遗言——「我爱你。见过了，就够了。」七年沉默换来一句来不及早说的话。"
+  },
+  {
+    "id": "q_yuanji_09",
+    "dimension": "S3",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "粮草谈判",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "袁基在粮草谈判中精明运作资源，但他的务实从不表现为对财物的贪婪。面对有限的资源，你的分配原则是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先保自己，有余力再考虑他人",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "按需分配，兼顾各方利益，尽量公平",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "锱铢必较地为所爱之人争取每一分资源",
+        "scores": {
+          "S3": 3.5,
+          "S1": 4,
+          "S2": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基不为个人财富而算计，但为家族和广陵王的利益可以锱铢必较——担任家主后，每一笔资源调配都关乎存亡。"
+  },
+  {
+    "id": "q_yuanji_10",
+    "dimension": "S3",
+    "cross_dimension": "S5",
+    "type": "story_anon",
+    "source_character": "袁基",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你接手了一个败落的家业，账簿上的数字触目惊心，每一笔开支都关乎族人的存亡。此时有人提出一个能快速敛财但于名声有损的法子，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "宁折不弯，宁可家业败落也不做有损门风之事",
+        "scores": {
+          "S3": 2,
+          "S5": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "精打细算，从日常开支中节省，不碰灰色地带",
+        "scores": {
+          "S3": 3,
+          "S5": 3,
+          "S8": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "务实为上，名声可以慢慢修补，但活人等不了",
+        "scores": {
+          "S3": 4,
+          "S5": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景对应袁基担任家主后面对袁氏败落家业的处境——他的务实带有悲壮色彩，每一笔资源调配都关乎存亡。"
+  },
+  {
+    "id": "q_yuanji_11",
+    "dimension": "S4",
+    "cross_dimension": "S10",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "凤皇鹑笼",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "袁基曾说：「诗书礼易读得越多，也只是教人将私心藏得越深。」关于「修身养性」与「真实本性」，你的看法是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "学问礼教是做人的根本，学好了自然能驾驭私心",
+        "scores": {
+          "S4": 2,
+          "S10": 5,
+          "S1": 1,
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "礼教是必要的约束，但也不应完全压制天性",
+        "scores": {
+          "S4": 3,
+          "S10": 2.5,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "所谓教养不过是更精致的伪装，越有学识的人藏得越深",
+        "scores": {
+          "S4": 5,
+          "S10": 2,
+          "S6": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基是面具维度的标杆角色——四世三公的门面是他从出生起就被浇筑的外壳，每一层都是精心维护的假面。"
+  },
+  {
+    "id": "q_yuanji_12",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "袁基-恋念剧情·盛宴",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "袁基在宴席上游刃有余地谈论名琴、古曲，举止间尽是世家风范。但在独处时，他展现出完全不同的一面。你觉得自己在社交场合中——",
+    "options": [
+      {
+        "label": "A",
+        "text": "表里如一，无论在谁面前都是同一个样子",
+        "scores": {
+          "S4": 2,
+          "S10": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "会根据场合调整自己的言行，但核心不会变",
+        "scores": {
+          "S4": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在众人面前是一个人，独处时是完全不同的人，切换自如",
+        "scores": {
+          "S4": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基的面具不是偶尔戴上，而是长在骨头上的——温文尔雅之下是「我什么都想要」的欲念。"
+  },
+  {
+    "id": "q_yuanji_13",
+    "dimension": "S4",
+    "cross_dimension": "S8",
+    "type": "story_anon",
+    "source_character": "袁基",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你从小被教导要做一个「完美」的人——言谈得体、举止合礼、永远微笑。长大后才发觉，那个「完美」的你，从来都不是真正的你。面对这种处境，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "那也没什么不好，完美的形象也是一种保护",
+        "scores": {
+          "S4": 5,
+          "S8": 2,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在信任的人面前卸下面具，其余时候继续维持",
+        "scores": {
+          "S4": 3,
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "宁可让人看到不完美的自己，也不想再演下去",
+        "scores": {
+          "S4": 2,
+          "S8": 4,
+          "S6": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自袁基的一生——被门阀礼教浇筑成完美器皿，失明后门面无法维持，真实的心才终于被看见。"
+  },
+  {
+    "id": "q_yuanji_14",
+    "dimension": "S4",
+    "cross_dimension": "S10",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "秋坟鬼唱",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "秋坟鬼唱中，袁基说：「我的字，永远是袁氏长公子的字。」哪怕身体已残破不堪，他仍紧守着那个身份。面对外在身份与内在自我的撕裂，你的态度是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "身份是刻在骨子里的，割不掉也逃不掉",
+        "scores": {
+          "S4": 5,
+          "S10": 5,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "身份可以是起点，但不必是终点",
+        "scores": {
+          "S4": 2.5,
+          "S10": 3,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "外在身份随时可以抛弃，只忠于内在的自己",
+        "scores": {
+          "S4": 1,
+          "S10": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基一生都在扮演别人期待的角色——长公子、门面、家主，每一个身份都是枷锁。「长公子在出生时，便是长公子了呀。」"
+  },
+  {
+    "id": "q_yuanji_15",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「长公子在出生时，便是长公子了呀」——身份是与生俱来的，不是自己选的",
+        "scores": {
+          "S4": 5,
+          "S10": 4,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「色相破灭，色相下的真实，才能见到真实的人心」——失去外表后，才是真正的自己",
+        "scores": {
+          "S4": 2,
+          "S2": 1,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「门阀密密麻麻刻满了字，这些字才是真的门面」——外在的一切定义了你是谁",
+        "scores": {
+          "S4": 4,
+          "S10": 5,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A和C都来自袁基对门阀身份的深刻认知，B来自他失明后的领悟——面具碎裂后，真实的心才终于被看见。"
+  },
+  {
+    "id": "q_yuanji_16",
+    "dimension": "S5",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "董逃歌（下）",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "刺杀董卓的计划中，袁基虽手无缚鸡之力，却周密部署全局，安排吕布与各方配合。面对需要冒险执行的计划，你的风格是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "亲力亲为，冲锋在前，不能把命交给别人",
+        "scores": {
+          "S5": 5,
+          "S1": 2,
+          "S6": 4,
+          "S7": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "统筹全局，安排好每个人的角色，自己坐镇后方",
+        "scores": {
+          "S5": 2.5,
+          "S1": 4,
+          "S4": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "静观其变，只在最关键的时刻出手，一击定胜负",
+        "scores": {
+          "S5": 2,
+          "S1": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基是典型的「谋而后动」型——他的行动往往以「安排」的形式呈现：安排粮草、安排后路、安排一切。"
+  },
+  {
+    "id": "q_yuanji_17",
+    "dimension": "S5",
+    "cross_dimension": "S6",
+    "type": "story_anon",
+    "source_character": "袁基",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你深爱的人身处险境，而你手中只有一盘已经注定要输的棋。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "明知必输也要冲上去，哪怕一起死，值得深思",
+        "scores": {
+          "S5": 5,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "冷静地安排好退路，在败局中为对方争取最大的生机",
+        "scores": {
+          "S5": 3,
+          "S6": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "布局一场精心计算的「必败之战」，用失败本身换取更",
+        "scores": {
+          "S5": 2.5,
+          "S6": 3.5,
+          "S1": 2,
+          "S3": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景对应袁基担任家主后安排的袁氏必败之战——「袁氏不降」，明知必败却精心布局，用失败本身为广陵王换取更大的棋局空间。"
+  },
+  {
+    "id": "q_yuanji_18",
+    "dimension": "S6",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "鵩鸟承尘",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "鵩鸟承尘中，中郎将拦截袁基的车驾，袁基从容应对：「一无触犯王命，二无作奸犯科，三无窝藏反贼。中郎将杀我，也需有个罪名。」面对突如其来的审问与威胁，你的反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "紧张不安，但努力保持镇定，如实应对",
+        "scores": {
+          "S6": 3,
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不卑不亢，逐一反驳对方的指控，寸步不让",
+        "scores": {
+          "S6": 4,
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以礼为盾，用对方的规矩反制对方，让对方无话可说",
+        "scores": {
+          "S6": 5,
+          "S4": 5,
+          "S10": 4,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基以礼教和法度为盾牌，让中郎将找不到任何可以定罪的把柄——这是他面具与底线完美配合的典范。"
+  },
+  {
+    "id": "q_yuanji_19",
+    "dimension": "S6",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "董逃歌（下）",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "袁基说：「我不怕为反贼，不怕在青史上受千百年唾骂。」为了追随一个人，你愿意付出多大的代价？",
+    "options": [
+      {
+        "label": "A",
+        "text": "有自己的原则底线，不会被任何人牵着走",
+        "scores": {
+          "S6": 2,
+          "S9": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在不触碰根本原则的前提下，愿意冒一些风险",
+        "scores": {
+          "S6": 3.5,
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "若是为了对的人，名节、性命、青史评价皆可抛弃",
+        "scores": {
+          "S6": 5,
+          "S9": 4,
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基的底线弹性极大——只要涉及广陵王，一切规矩都可以被打破。但他的弹性是有方向的：只对广陵王弯曲。"
+  },
+  {
+    "id": "q_yuanji_20",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人不可见，天不可见，为何不能顺心而为？」面对世俗规矩与内心渴望的冲突，你的立场是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "规矩自有存在的道理，不可轻易逾越",
+        "scores": {
+          "S6": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看具体情况，不盲从也不叛逆",
+        "scores": {
+          "S6": 3,
+          "S10": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "既然无人看见、天不降罚，那便跟随",
+        "scores": {
+          "S6": 5,
+          "S10": 2,
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这句话来自袁基——表面端方、礼教完美的人，内心深处对打破秩序有着强烈的渴望。"
+  },
+  {
+    "id": "q_yuanji_21",
+    "dimension": "S7",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "燃灯照夜",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "燃灯照夜中，袁基端着茶招待来客，说出一句温柔至极却暗藏锋芒的话：「喉间不渴，心间未必不渴。」你表达不满的方式更接近——",
+    "options": [
+      {
+        "label": "A",
+        "text": "有话直说，不喜欢藏着掖着",
+        "scores": {
+          "S7": 5,
+          "S4": 4,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用暗示和隐喻让对方自己领悟",
+        "scores": {
+          "S7": 3,
+          "S4": 4,
+          "S8": 2,
+          "S1": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "温柔地笑着说出最锐利的话",
+        "scores": {
+          "S7": 2.5,
+          "S4": 5,
+          "S8": 2,
+          "S3": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基的锋芒极度内收——「喉间不渴，心间未必不渴」，温柔是刀鞘，锋利在刀身。"
+  },
+  {
+    "id": "q_yuanji_22",
+    "dimension": "S7",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "七夕欢情·袁基",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "七夕棋局中，袁基下了一盘没有杀伐之气的棋，结束后说：「殿下，想下棋吗？棋局边落座，唯有以棋问答。方才那局，殿下输了。」你的批评方式更接近——",
+    "options": [
+      {
+        "label": "A",
+        "text": "当面指出问题，不留情面但就事论事",
+        "scores": {
+          "S7": 5,
+          "S4": 2,
+          "S6": 4,
+          "S2": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用行动而非语言来表达不满",
+        "scores": {
+          "S7": 3,
+          "S4": 3,
+          "S5": 2.5,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以温和的姿态和优雅的方式让对方意",
+        "scores": {
+          "S7": 2,
+          "S4": 5,
+          "S8": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基从不正面亮刃，而是用含蓄的方式表达不满——棋局中的暗示、「殿下输了」的冷冽，温柔话术下藏着锐利判断。"
+  },
+  {
+    "id": "q_yuanji_23",
+    "dimension": "S8",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "袁基-约会·秋之水兮其色幽",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "夜游蒹葭海时，袁基说起萤火：「它在你手里，像手心里的星星一样。」又道：「夜游郊野，便如蒹葭与月，皆要有人相伴，才不会冷清。」你与亲近的人相处时，更像是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "话不多，但会在细微之处让人感到被在意",
+        "scores": {
+          "S8": 3.5,
+          "S4": 4,
+          "S6": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "会主动营造浪漫的氛围，用诗意的方式表达心意",
+        "scores": {
+          "S8": 4,
+          "S4": 3,
+          "S5": 3.5,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坦率直接，会用言语和行动让对方明确感受到你的温度",
+        "scores": {
+          "S8": 5,
+          "S4": 2,
+          "S7": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基真正温柔的时刻极少且珍贵——夜游祖宅时的坦露，是从层层铠甲缝隙中透出的微光。"
+  },
+  {
+    "id": "q_yuanji_24",
+    "dimension": "S8",
+    "cross_dimension": "S5",
+    "type": "story_anon",
+    "source_character": "袁基",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在路上偶遇一位故人，对方正在挨饿受冻，但此人曾对你做过很过分的事。你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "与我何干，当初怎么对我的，如今便怎么承受",
+        "scores": {
+          "S8": 2,
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "沉默地走过去，递上一件外衣或一碗热汤，什么也不说",
+        "scores": {
+          "S8": 4,
+          "S5": 2.5,
+          "S7": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "走上前去嘘寒问暖，仿佛过去的恩怨从未发生过",
+        "scores": {
+          "S8": 5,
+          "S5": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景让人联想到袁基对故人的态度——对兄弟是愧疚与责任，对故人是悼念。他的温柔不热烈，但深沉。"
+  },
+  {
+    "id": "q_yuanji_25",
+    "dimension": "S8",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "鵩鸟承尘",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "鵩鸟承尘中，袁基车内藏着被吓坏的人，面对中郎将的盘查，他从容周旋，最后说了一句：「别怕。我们回家了。」在危难中保护他人的方式，你更接近——",
+    "options": [
+      {
+        "label": "A",
+        "text": "挡在前面，用身体和力量保护对方，值得深思",
+        "scores": {
+          "S8": 3,
+          "S5": 5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "冷静地化解危机，用智慧和话语让对方化险为夷",
+        "scores": {
+          "S8": 4,
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在对方察觉到危险之前就已经安排好了一切",
+        "scores": {
+          "S8": 5,
+          "S5": 2.5,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基的保护方式是「温柔的独裁」——不靠命令，靠布局。让对方始终处于安全感中，是最高级的温柔。"
+  },
+  {
+    "id": "q_yuanji_26",
+    "dimension": "S8",
+    "cross_dimension": "S4",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「世故之人，方可得到世故的钟情。我……已不想再与殿下称君子之交。」这句话背后，是哪种情感？",
+    "options": [
+      {
+        "label": "A",
+        "text": "对世俗礼法的厌倦，想要一种更真实的感情",
+        "scores": {
+          "S8": 3.5,
+          "S4": 2,
+          "S6": 3,
+          "S2": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不再满足于含蓄的陪伴，想要突破界限、确认彼此的心意",
+        "scores": {
+          "S8": 4,
+          "S4": 3,
+          "S6": 3.5,
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "终于承认了自己的欲望，不再用礼教和克制来掩饰",
+        "scores": {
+          "S8": 5,
+          "S4": 4,
+          "S10": 2,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这句话来自袁基——他放弃了维持多年的「君子之交」面具，坦诚地想要更多。面具碎裂后，温柔反而变得真实。"
+  },
+  {
+    "id": "q_yuanji_27",
+    "dimension": "S9",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "袁基",
+    "source_story": "董逃歌（下）",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "面对广陵王的质疑，袁基说出了「王与我，共天下」。你对「权力」的态度更接近——",
+    "options": [
+      {
+        "label": "A",
+        "text": "权力是工具，用来保护自己和在意的人就够了",
+        "scores": {
+          "S9": 2.5,
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "权力是责任，握在手中就必须为天下苍生谋福祉",
+        "scores": {
+          "S9": 3.5,
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "权力不是独占的，真正想与之共享天下的人，才是值得握权的人",
+        "scores": {
+          "S9": 5,
+          "S6": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基将权力定义为共有而非独占——「王与我，共天下」，这在所有男主中几乎独一无二。"
+  },
+  {
+    "id": "q_yuanji_28",
+    "dimension": "S9",
+    "cross_dimension": "S6",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「比起一人之下的丞相，三公又算得了什么呢？」以下关于权力的看法，你最认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我已注定下炼狱了。殿下，怕吗？」——为了权力和信念，不惜万劫不复",
+        "scores": {
+          "S9": 5,
+          "S6": 4,
+          "S8": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「许那个愿望，要天下」——将野心寄托于某个愿望，而非直接追求",
+        "scores": {
+          "S9": 3.5,
+          "S6": 3,
+          "S5": 2.5,
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「权力是义务，不是欲望」——权力是一种必须承担的责任",
+        "scores": {
+          "S9": 3,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "三句话都来自袁基——他对权力有着极为清醒的认知，经历了从「义务」到「工具」到「陪葬品」的转变。"
+  },
+  {
+    "id": "q_yuanji_29",
+    "dimension": "S10",
+    "cross_dimension": "S8",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你是绣衣楼的密探，收到三封需要处理的信函：一封是广陵王的加急军令，一封是旧友的请帖邀你赴宴，一封是母亲托人转交的家书。你拆信的顺序是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先拆母亲的信——家事为大，其余皆可稍候",
+        "scores": {
+          "S10": 5,
+          "S8": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "先拆军令——公事优先，私事容后",
+        "scores": {
+          "S10": 4,
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先拆旧友的请帖——人情往来不可怠慢",
+        "scores": {
+          "S10": 2.5,
+          "S3": 3.5,
+          "S6": 2,
+          "S2": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基在公私之间有极强的秩序感——但对母亲未能尽孝的遗憾贯穿一生，说明他的秩序之下，最柔软的地方始终留给家人。"
+  },
+  {
+    "id": "q_yuanji_30",
+    "dimension": "S10",
+    "cross_dimension": "S4",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你参加一场世家举办的雅集，席间有人出言不逊，嘲讽你的出身。此时众目睽睽，你的做法是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "以牙还牙，当场反驳，绝不咽下这口气",
+        "scores": {
+          "S10": 2,
+          "S7": 5,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "微笑着岔开话题，不与对方当众争执，维持体面",
+        "scores": {
+          "S10": 4,
+          "S4": 4,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不动声色地记下此人，事后用更体面的方式让对方",
+        "scores": {
+          "S10": 3.5,
+          "S1": 4,
+          "S4": 3.5,
+          "S3": 3,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁基面对挑衅时从不失礼——他的锋芒极度内收，用含蓄的方式表达不满，让对手事后才反应过来已经输了。"
+  },
+  {
+    "id": "q_yuanji_31",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「与其改变世界，不如让世界以为你已经改变了。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「与其改变世界，不如让世界以为你已经改变了。」——你觉得？",
+        "scores": {
+          "S1": 3.5,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「真正聪明的人，不是让所有人服你，而是让所有人觉得你无害。」——你认同吗？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S4": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「微笑是最好的武器，因为没人会防备一个笑着的杀手。」——你怎么看？",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "三种态度对应：操控表象、示弱生存、笑里藏刀。"
+  },
+  {
+    "id": "q_yuanji_32",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我不喜欢争，但不喜欢的东西总会来找我。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我不喜欢争，但不喜欢的东西总会来找我。」——所以？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「世人都说我是君子，君子就该忍。但忍到什么时候呢？」——你的看法？",
+        "scores": {
+          "S1": 4,
+          "S7": 3,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「有些善意比恶意更可怕，因为它让你无法拒绝。」——你更认同哪个？",
+        "scores": {
+          "S1": 3.5,
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "被动应对、忍无可忍、洞察陷阱——面对善意的伪装，你更警惕哪一种？"
+  },
+  {
+    "id": "q_yuanji_33",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "广陵王让你在世家宴会上打探消息。席间有人用隐晦的话试探你的身份。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "广陵王让你在世家宴会上打探消息。席间有人用隐晦的话试探你的身份。你——",
+        "scores": {
+          "S1": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "你收到一封匿名信，里面是绣衣楼内部的人事安排，信息极其详细。你——",
+        "scores": {
+          "S1": 4,
+          "S8": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "一位世家公子当众送你贵重礼物，背后显然有目的。你——",
+        "scores": {
+          "S1": 3,
+          "S9": 2,
+          "S3": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "社交场合的应对，体现你对表面功夫的驾驭能力。"
+  },
+  {
+    "id": "q_yuanji_34",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「这世上没有永远的敌人，只有永远的利益。」",
+        "scores": {
+          "S1": 3,
+          "S3": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「有些人的善意，比刀子还毒。」",
+        "scores": {
+          "S1": 4,
+          "S8": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "利益至上还是警惕善意——袁基的世界里，笑容下面永远是棋局。"
+  },
+  {
+    "id": "q_yuanji_35",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我不想算计任何人，但如果我不算计，别人就会算计我。」",
+        "scores": {
+          "S1": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「如果你想保护一个人，就永远不要让她看到你的真面目。」",
+        "scores": {
+          "S1": 5,
+          "S6": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "被动自保还是主动伪装——两条路都通向孤独。"
+  }
+]

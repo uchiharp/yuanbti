@@ -1,0 +1,80 @@
+[
+  {
+    "id": "q_yanbaihu_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "严白虎",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "长沙",
+    "text": "你占山为王多年，自有一套生存法则。如今大势力压境，你的部下纷纷劝你归降。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "审时度势，选择归降保全部下性命",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "提出条件，归降可以但必须保全根基",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "率部死战到底，宁可站着死不跪着生",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自严白虎的密探故事——他虽非正统诸侯，却有自己的傲骨。"
+  },
+  {
+    "id": "q_yanbaihu_02",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "严白虎",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼给你一笔经费去执行任务，但途中你遇到一群流民，饥寒交迫。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "这是公款，不能擅自动用，值得深思",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "拿出一部分给他们，但做好记录事后汇报",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "全部拿出来救济流民，任务的事另想办法",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "严白虎虽是草莽出身，对底层百姓有着天然的同情。"
+  }
+]

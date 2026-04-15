@@ -1,0 +1,258 @@
+{
+  "title": "广陵成长计划/导入剧情",
+  "category": "活动剧情",
+  "characters": [
+    "傅融",
+    "徐庶",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "啊……不当心打翻了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "什么打翻了？……哎，是这套首饰啊。好怀念……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "是啊，你继位广陵王的大典上穿戴的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "记得那段时候出了好多波折，最后差点丢了王位。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是啊，那个时候，我们才刚认识不久……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "小宝，醒醒！要睡成小猪猪啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "嗯……猪猪……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你喊猪猪是没用的，要喊穷穷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "……穷？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "快醒醒，很多预算等着审批。再不努力，王府就要入不敷出了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "小宝啊，如果要即位广陵王，现在这种情况可不行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我会好好干的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "但是，具体要怎么做呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "很简单，你看到哪个需要帮忙，就带着王府的兄弟伙去解决问题嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "比如扶老奶奶过个马路啊，帮长得乖的小哥小妹打流氓啊，给乞丐找工作啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "这些事情做得多了，时间一长广陵人就知道你这个世子靠得住，自然就会拥护你当广陵王啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "好！"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"广陵成长计划/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "!与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background7B5F44;colorF2E3C6;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "!与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BF%E9%99%B5%E6%88%90%E9%95%BF%E8%AE%A1%E5%88%92/%E5%AF%BC%E5%85%A5%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:00:48.307934",
+  "raw_wikitext": "__NOTOC__\n[[分类:活动剧情]]\n{{面包屑|广陵成长计划/活动玩法}}{{背景图片|{{filepath:广陵成长计划背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">广陵成长计划</div>\n<div class=\"map-dh-right\">\n{{板块|按钮|广陵成长计划/导入剧情|活动导入剧情}}\n{{板块|按钮|广陵成长计划/活动剧情|百姓任务剧情}}\n{{板块|按钮|广陵成长计划/线索剧情|密探线索剧情}}\n{{板块|按钮|广陵成长计划/活动玩法|活动玩法奖励}}\n</div></div>\n\n\n{{对话-头}}\n{{对话|傅融|啊……不当心打翻了。|头像=傅融}}\n{{对话|我|什么打翻了？……哎，是这套首饰啊。好怀念……|头像=广陵王-挑眉}}\n{{对话|傅融|是啊，你继位广陵王的大典上穿戴的。|头像=傅融}}\n{{对话|傅融|记得那段时候出了好多波折，最后差点丢了王位。|头像=傅融}}\n{{对话|我|是啊，那个时候，我们才刚认识不久……|头像=广陵王-点头}}\n{{对话-尾}}\n\n{{对话-头}}\n{{对话|徐庶|小宝，醒醒！要睡成小猪猪啦！|头像=徐庶}}\n{{对话|我|嗯……猪猪……唔……|头像=世子常服-微笑}}\n{{对话|傅融|你喊猪猪是没用的，要喊穷穷。|头像=傅融}}\n{{对话|我|……穷？|头像=世子常服-微笑}}\n{{对话|傅融|快醒醒，很多预算等着审批。再不努力，王府就要入不敷出了。|头像=傅融}}\n{{对话|我|！！！|头像=世子常服-惊讶}}\n{{对话|徐庶|小宝啊，如果要即位广陵王，现在这种情况可不行。|头像=徐庶}}\n{{对话|我|我会好好干的！|头像=世子常服-微笑}}\n{{对话|我|但是，具体要怎么做呢？|头像=世子常服-微笑}}\n{{对话|徐庶|很简单，你看到哪个需要帮忙，就带着王府的兄弟伙去解决问题嘛。|头像=徐庶}}\n{{对话|徐庶|比如扶老奶奶过个马路啊，帮长得乖的小哥小妹打流氓啊，给乞丐找工作啊……|头像=徐庶}}\n{{对话|徐庶|这些事情做得多了，时间一长广陵人就知道你这个世子靠得住，自然就会拥护你当广陵王啦！|头像=徐庶}}\n{{对话|我|好！|头像=世子常服-微笑}}\n{{对话-尾}}\n\n\n\n\n<!--与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜-->\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#7B5F44;color:#F2E3C6;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n<!--与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜与正文无瓜-->"
+}

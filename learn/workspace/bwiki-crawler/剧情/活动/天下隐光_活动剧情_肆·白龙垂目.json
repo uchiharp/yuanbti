@@ -1,0 +1,401 @@
+{
+  "title": "天下隐光/活动剧情/肆·白龙垂目",
+  "category": "活动剧情",
+  "characters": [
+    "左慈",
+    "我",
+    "葛洪",
+    "黄月英"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "她们离开了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "无事吧？还能起身吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊，我在灵河水里见到了真正的十巫，他似乎在师尊刚成为仙人时就与师尊见过面了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "嗯。那时，其实巫偶尔会来仙门参加祭祀、维持天道稳定，双方还并未像如今这样敌对。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "后来他们的野心逐渐显现，不断用巫血祸乱朝政，有司掌人间与天道之欲，于是，仙与巫决裂了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……是吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "现在不也有许多妖言惑众的术士吗？世道颓丧，妖人便容易现形。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "何必忧心忡忡？东蜀杀生仙的话，让你动摇了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "这种叛乱很寻常。只是从前大人不告诉你们罢了。吾在这，很快就能平息的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……它长得好快……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "朝歌大战让地脉充盈了血气，供养了建木，所以，巫的力量也随之强大了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我一直以为建木在灵山，这边的厉生台只是用一截断木造的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "灵山的那棵树，你也可以称它为建木。不过在更早，它叫若木。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "建木、若木……上古三神木，还有一棵接引日出日落的扶桑木？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "天道变动时，它被自己吐出的日光焚烧了。整棵神木覆盖烈焰，最终化为了那种火浆。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "东蜀叛乱，建木复苏，根系搅动地脉，它便涌入了灵河水源，让灵河变成了现在的样子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=黄月英",
+      "emotion": "有人到了灵山，想强行破开玉门，带走剩下的七名十巫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=黄月英",
+      "emotion": "我不能再留在这了。蜀山的那些山灵，你需要自己压制。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……那是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "被巫糅合的灵子，但是失败了，无法像玉门灵子那样维持人的形态，只纯粹保留了人的欲望。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不要和它对视。目可令人窥视欲望。只要没有对视，它就不敢接近。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……我们要尽快到灵河畔，前往蜀山地窟，阻止东蜀，救出祢衡……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……兔子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "汝等已临兵斗，皆可现形。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "那些是什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "他们把现世中生灵的道“剖开”，剔除新道，只留下旧道的部分。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "于是便会重现那些古籍所书的异兽……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "唔——？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "东山林已经是巫的地界了，他无法继续开阵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "却谷——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他果然是虚张声势。就算在此地，师尊也一样可以开阵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "有隐光在就可以。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……隐光……它之后还能修复吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "可以的。蜀山地窟中，就有修复它的方法。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "走吧。要尽快了——杀生仙应是杀入地窟，准备从地脉带走龙气。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"天下隐光/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background899dd3;color5642a6;textaligncenter;!标题背景和字色改这行颜色"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundB7CCEE;!背景2（导航）改B7CCEE"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''肆·白龙垂目'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "白龙垂目·一"
+    },
+    {
+      "type": "narration",
+      "text": "白龙垂目·二"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E8%82%86%C2%B7%E7%99%BD%E9%BE%99%E5%9E%82%E7%9B%AE",
+  "crawled_at": "2026-04-12T22:07:42.128754",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|活动剧情|天下隐光/活动玩法}}\n{{回到顶部|头}}{{背景图片|{{filepath:天下隐光背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">天下隐光</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|天下隐光/活动剧情|序}}\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|壹·天崩地坼}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|贰·王为巫首}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|叁·扶桑已烬}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|肆·白龙垂目}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|伍·往世昭回}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|陆·天下隐光}}\n</center>\n</div></div>\n{{JS|Qiantao.js}}\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#899dd3;color:#5642a6;text-align:center;}<!--标题背景和字色改这行颜色-->\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#B7CCEE;}<!--背景2（导航）改#B7CCEE-->\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n<center>\n='''肆·白龙垂目'''=\n</center>\n==白龙垂目·一==\n{{对话-头}}\n{{旁白|【隐鸢阁】}}\n{{对话|我|她们离开了……|头像=广陵王-严肃}}\n{{对话|左慈|无事吧？还能起身吗？|头像=左慈}}\n{{对话|我|师尊，我在灵河水里见到了真正的十巫，他似乎在师尊刚成为仙人时就与师尊见过面了……|头像=广陵王-微笑}}\n{{旁白|我起身。他站在不远处，看着那些逐渐溶解的金色根系。}}\n{{对话|左慈|嗯。那时，其实巫偶尔会来仙门参加祭祀、维持天道稳定，双方还并未像如今这样敌对。}}\n{{对话|左慈|后来他们的野心逐渐显现，不断用巫血祸乱朝政，有司掌人间与天道之欲，于是，仙与巫决裂了。}}\n{{对话|我|……是吗……|头像=广陵王-微笑}}\n{{对话|左慈|现在不也有许多妖言惑众的术士吗？世道颓丧，妖人便容易现形。}}\n{{旁白|他俯下身，摘去我鬓间的一片枯叶，笑意浅淡。}}\n{{对话|左慈|何必忧心忡忡？东蜀杀生仙的话，让你动摇了吗？}}\n{{对话|左慈|这种叛乱很寻常。只是从前大人不告诉你们罢了。吾在这，很快就能平息的。}}\n{{旁白|他带我步向山林，绕过山林前往灵河畔。因东蜀叛乱，仙巫交战，山林间气息紊乱，草木在飞快枯荣生灭。}}\n{{旁白|【东山林】}}\n{{对话|我|……它长得好快……|头像=广陵王-微笑}}\n{{对话|左慈|朝歌大战让地脉充盈了血气，供养了建木，所以，巫的力量也随之强大了。}}\n{{对话|我|我一直以为建木在灵山，这边的厉生台只是用一截断木造的。|头像=广陵王-微笑}}\n{{对话|左慈|灵山的那棵树，你也可以称它为建木。不过在更早，它叫若木。}}\n{{对话|我|建木、若木……上古三神木，还有一棵接引日出日落的扶桑木？|头像=广陵王-微笑}}\n{{旁白|他看向山林外隐约的火红熔浆光芒。}}\n{{对话|左慈|天道变动时，它被自己吐出的日光焚烧了。整棵神木覆盖烈焰，最终化为了那种火浆。}}\n{{对话|左慈|东蜀叛乱，建木复苏，根系搅动地脉，它便涌入了灵河水源，让灵河变成了现在的样子。}}\n{{旁白|忽然，铃声蔓延山野，她的声音仿佛在我们脑海中响起——}}\n{{对话|黄月英|有人到了灵山，想强行破开玉门，带走剩下的七名十巫。|头像=黄月英}}\n{{对话|黄月英|我不能再留在这了。蜀山的那些山灵，你需要自己压制。|头像=黄月英}}\n{{旁白|话音落，寒风掠过山林，某种静谧而安定的压制骤然消失，暗夜中，山林四处响起诡谲兽鸣……}}\n{{对话|我|……那是……|头像=广陵王-严肃}}\n{{旁白|我又见到了那团“人形”。}}\n{{旁白|它糅合得更加巨大，无数肉身从上方不断塌陷，又被再次吞噬回肉团中，形态变化不定。它在树影后缓慢爬动，慢慢跟随着我们。}}\n{{对话|左慈|被巫糅合的灵子，但是失败了，无法像玉门灵子那样维持人的形态，只纯粹保留了人的欲望。}}\n{{对话|左慈|不要和它对视。目可令人窥视欲望。只要没有对视，它就不敢接近。}}\n{{对话|我|……我们要尽快到灵河畔，前往蜀山地窟，阻止东蜀，救出祢衡……|头像=广陵王-严肃}}\n{{旁白|我垂下目光，避免与它对视，用默念转移注意力，不被它发出的婴孩般的呢喃吸引。但是，我感到自己踩到了一样东西……}}\n{{旁白|柔软的、带着毛发质感的东西……}}\n{{对话|我|……兔子？|头像=广陵王-挑眉}}\n{{对话|左慈|！！！}}\n{{旁白|那团白兔般的毛球从枯叶下显露出来，突然转向，露出了血红的兔目和牙，狰狞咬向我的脚踝；另一边，师尊身边的“树”动了——}}\n{{旁白|树影接连不断化为山中巨蟒，朝着他游走而来；山脉震颤，隐有龙呤。我看见雪松上的彩衣仙人，艳丽的眼眸在暗夜熠熠生辉。}}\n{{对话|葛洪|汝等已临兵斗，皆可现形。|头像=葛洪}}\n{{对话-尾}}\n==白龙垂目·二==\n{{对话-头}}\n{{旁白|【东山林】}}\n{{旁白|涌来的异兽无穷无尽，仿佛山林间最寻常的草虫，在今夜都能化为恶兽。}}\n{{旁白|妖祥在深林上空展开，剑气如暴雨坠落。他带着我飞速掠过林间，后方追杀的兽群轰然冲过山林，草木震惶。}}\n{{对话|我|那些是什么？！|头像=广陵王-生气}}\n{{旁白|心理|从前也曾见过葛洪驯养异兽，但从未见过如此多的凶兽！}}\n{{对话|左慈|他们把现世中生灵的道“剖开”，剔除新道，只留下旧道的部分。|头像=左慈}}\n{{对话|左慈|于是便会重现那些古籍所书的异兽……呃！|头像=左慈}}\n{{旁白|一道巨大的兽影破土而出，浑身披甲。它咬住了他的腰，带着千钧之力，将仙人拖回地下。}}\n{{旁白|紧接着，无数披甲异兽接连不断从地下涌出，层层压上。我被巨大的力气撞飞出去，滚下山坡。}}\n{{对话|我|唔——？！|头像=广陵王-难受}}\n{{旁白|尚未起身，眼前就多了一双紫红色的艳丽双眸。他落在我身上，怀中的三只兔子发出人一样的笑声。}}\n{{旁白|我才看清，那不是三只兔子，而是一只兔子长者三颗头颅、三对耳朵、三套手足与尾巴。}}\n{{对话|葛洪|东山林已经是巫的地界了，他无法继续开阵。}}\n{{旁白|我想拔出腰间断剑，伸手过去，却没有握住——它不见了。同时……}}\n{{对话|左慈|却谷——|头像=左慈}}\n{{旁白|清光横扫，兽影如枯叶般碎落。隐光断剑握住他的手中，剑身处延伸出白雪之光，化作法鞭，在半空中击出巨响。}}\n{{旁白|鞭尾破风而来，扫向我身前的葛洪——}}\n{{旁白|随着一声轻响，在被法鞭扫到前，他的衣物轻飘飘落在我身上，身躯不见了。我看见兔影从衣摆钻出，没入草丛遁逃。}}\n{{对话|我|他果然是虚张声势。就算在此地，师尊也一样可以开阵。|头像=广陵王-微笑}}\n{{对话|左慈|有隐光在就可以。}}\n{{对话|我|……隐光……它之后还能修复吗？|头像=广陵王-微笑}}\n{{对话|左慈|……}}\n{{对话|左慈|可以的。蜀山地窟中，就有修复它的方法。}}\n{{旁白|心理|又开始山崩了……}}\n{{旁白|灵河的方向，传开一阵又一阵的地动山摇。他只看了眼葛洪逃离的方向，目光便望向前方。}}\n{{对话|左慈|走吧。要尽快了——杀生仙应是杀入地窟，准备从地脉带走龙气。}}\n{{对话-尾}}\n\n<center>\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|上一页}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

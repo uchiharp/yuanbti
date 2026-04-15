@@ -1,0 +1,84 @@
+[
+  {
+    "id": "q_caozhi_01",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "曹植",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "邺城",
+    "text": "你自幼才华横溢，却始终活在兄长的阴影下。父亲让你写一篇策论，你明知兄长会比你写得更「合父意」。你提笔时——",
+    "options": [
+      {
+        "label": "A",
+        "text": "揣摩父亲心意来写，务求得到认可",
+        "scores": {
+          "S2": 2,
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "按自己的想法写，不强求胜负",
+        "scores": {
+          "S2": 3,
+          "S8": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "写心中真正的所思所想，即便与父亲相悖",
+        "scores": {
+          "S2": 4,
+          "S8": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自曹植的密探故事——他才高八斗却不善权谋，始终以真性情待人。"
+  },
+  {
+    "id": "q_caozhi_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "曹植",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "邺城",
+    "text": "绣衣楼接到密令：你的一位至交好友因言获罪，即将被问斩。以你在曹家的身份，可以为他求情，但也可能牵连自己。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "遵守律令，不去干涉朝廷的判决",
+        "scores": {
+          "S10": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "暗中帮他安排后路，不直接出面",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不顾后果当面为好友求情",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "曹植重情重义，常因友人情急而做出不合时宜之举。"
+  }
+]

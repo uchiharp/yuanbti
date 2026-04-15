@@ -1,0 +1,29 @@
+{
+  "title": "南有乔木/13",
+  "category": "主线剧情",
+  "characters": [
+    "侍女",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "小心呀，前面有一只好大的凶鸟忽然冲下来，险些抓坏了我的脸！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "必定是来刺探情报的大鸢……得小心上方突袭。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8D%97%E6%9C%89%E4%B9%94%E6%9C%A8/13",
+  "crawled_at": "2026-04-12T21:56:52.755548",
+  "raw_wikitext": "{{对话-头}}\n{{对话|侍女|小心呀，前面有一只好大的凶鸟忽然冲下来，险些抓坏了我的脸！}}\n{{对话|我|必定是来刺探情报的大鸢……得小心上方突袭。}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

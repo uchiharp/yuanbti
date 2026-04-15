@@ -1,0 +1,450 @@
+{
+  "title": "回乡偶书/活动剧情/王府",
+  "category": "活动剧情",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"chunwan\"__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"title\" style\"fontfamily kaiti;\"回乡偶书·王府/div"
+    },
+    {
+      "type": "narration",
+      "text": "h301节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "02节"
+    },
+    {
+      "type": "narration",
+      "text": "h302节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "03节"
+    },
+    {
+      "type": "narration",
+      "text": "h303节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "04节"
+    },
+    {
+      "type": "narration",
+      "text": "h304节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "05节"
+    },
+    {
+      "type": "narration",
+      "text": "h305节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "bstyle"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan"
+    },
+    {
+      "type": "narration",
+      "text": "width 768px;"
+    },
+    {
+      "type": "narration",
+      "text": "/ 移除 aspectratio，让高度由内容决定 /"
+    },
+    {
+      "type": "narration",
+      "text": "/ aspectratio 1 / 1.65; /"
+    },
+    {
+      "type": "narration",
+      "text": "/ overflow hidden; /"
+    },
+    {
+      "type": "narration",
+      "text": "position relative;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/2/29/lapf9f70h25u7xiy33y9xhbkzdu2h45.png) norepeat center /100%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 0 auto;"
+    },
+    {
+      "type": "narration",
+      "text": "displayflex;"
+    },
+    {
+      "type": "narration",
+      "text": "flexdirection column;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .title"
+    },
+    {
+      "type": "narration",
+      "text": "margin 15px 0px 0px 15px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 36px;"
+    },
+    {
+      "type": "narration",
+      "text": "color FFF8CB;"
+    },
+    {
+      "type": "narration",
+      "text": "textshadow 2px 2px 000;"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "justifycontent spacebetween;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily kaiti;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .text"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "paddingtop 30px;"
+    },
+    {
+      "type": "narration",
+      "text": "flexdirection column;"
+    },
+    {
+      "type": "narration",
+      "text": "alignitems center;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "flexdirection columnreverse;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab ul"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "flexwrap wrap;"
+    },
+    {
+      "type": "narration",
+      "text": "marginauto;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli"
+    },
+    {
+      "type": "narration",
+      "text": "display inlineflex;"
+    },
+    {
+      "type": "narration",
+      "text": "width120px;"
+    },
+    {
+      "type": "narration",
+      "text": "height125px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin0px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding0;"
+    },
+    {
+      "type": "narration",
+      "text": "color666;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) norepeat center / 110px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli a"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "alignitems center;"
+    },
+    {
+      "type": "narration",
+      "text": "justifycontent center;"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "height 82%;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 24px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabullihover"
+    },
+    {
+      "type": "narration",
+      "text": "color666;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbold;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli.active"
+    },
+    {
+      "type": "narration",
+      "text": "textdecoration underline;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) norepeat center / 110px !important;"
+    },
+    {
+      "type": "narration",
+      "text": "color5d3e32;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbold;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent.tabpane"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "aspectratio 1 / 1.35;"
+    },
+    {
+      "type": "narration",
+      "text": "overflowyscroll;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent.tabpane.active"
+    },
+    {
+      "type": "narration",
+      "text": "background transparent!important;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabullia, .chunwan .tabulliahover, .chunwan .tabulliaactive, .chunwan .tabulliafocus"
+    },
+    {
+      "type": "narration",
+      "text": "textdecorationnone;"
+    },
+    {
+      "type": "narration",
+      "text": "colorinherit;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli.activea, .chunwan .tabulliahover, .chunwan .tabulli.activeaactive, .chunwan .tabulli.activeafocus"
+    },
+    {
+      "type": "narration",
+      "text": "colorinherit;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan webkitscrollbar"
+    },
+    {
+      "type": "narration",
+      "text": "width12px;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "background 775743;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan webkitscrollbarthumb"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "background736758;"
+    },
+    {
+      "type": "narration",
+      "text": ".tabnavborderradius25px;color 6f4e41; background fbfbfbad;width100%;marginauto;padding5px;colorrgb(99,55,25);marginbottom10px;boxshadow 0 4px 10px rgba(170, 130, 100, 0.08);justifycontent spacebetween;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth 870px)"
+    },
+    {
+      "type": "narration",
+      "text": ".globalcontainer displaynone"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan"
+    },
+    {
+      "type": "narration",
+      "text": "width110%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 0 2%;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent.tabpane"
+    },
+    {
+      "type": "narration",
+      "text": "width105%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 0 2.5%;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent"
+    },
+    {
+      "type": "narration",
+      "text": "margin5px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding5px 0;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .title"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 24px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli a"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 16px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli"
+    },
+    {
+      "type": "narration",
+      "text": "width 70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": "height70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) norepeat center / 70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli.active"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) norepeat center / 70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": ".tabnavwidth100%;padding5px;borderradius5px;"
+    },
+    {
+      "type": "narration",
+      "text": "/bstyle"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%9B%9E%E4%B9%A1%E5%81%B6%E4%B9%A6/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E7%8E%8B%E5%BA%9C",
+  "crawled_at": "2026-04-12T22:01:46.043082",
+  "raw_wikitext": "[[分类:活动剧情]]\n{{面包屑|2026活动剧情}}{{活动背景}}{{施工中}}\n<center>{{板块|按钮|回乡偶书/活动剧情|广陵}}{{板块|按钮|回乡偶书/活动剧情/江东|江东}}{{板块|按钮|回乡偶书/活动剧情/颍川|颍川}}{{板块|按钮|回乡偶书/活动剧情/交州|交州}}{{板块|按钮|回乡偶书/活动剧情/西凉|西凉}}{{板块|按钮|回乡偶书/活动剧情/王府|王府}}</center>\n<div class=\"chunwan\">__NOTOC__\n<div class=\"title\" style=\"font-family: kaiti;\">回乡偶书·王府</div>\n{{Tab\n|01节=\n{{对话-头}}\n<h3>01节</h3>\n{{对话-花灯绘2|崔烈|终于……我为殿下筹谋多日，终于可以开始举办雅集了。|头像=崔烈·壹}}\n{{对话-花灯绘2|崔烈|诸位淑女皆出身名门，光耀门庭，且皆与殿下感情甚笃……|头像=崔烈·壹}}\n{{对话-花灯绘2|郭女王|我活在世上，就是为了向广陵王这个无耻之徒报仇！此人狠辣无德、背信弃义、阴险狡诈、罪行罄竹难书！我如今终于借机重新潜入贼巢！诸位，天赐良机，还望与我匡扶正义，剑指贼王！|头像=郭女王·壹}}\n{{对话-花灯绘2|甄宓|啊？我们不是因为免费奶茶才来半天听讲座的吗？|头像=甄宓·壹}}\n{{对话-花灯绘2|王异|对啊，不然谁来啊。|头像=王异·壹}}\n{{对话-花灯绘2|郭女王|……我没有拿到奶茶。|头像=郭女王·壹}}\n{{对话-花灯绘2|甄宓|……我问你要不要的时候你说你不喝水、茶和酒之外的东西，我就都自己喝了。|头像=甄宓·壹}}\n{{对话-花灯绘2|伍丹|蝉姐的奶茶熬得有点浓，没吃午饭喝着有点头晕……|头像=伍丹·壹}}\n{{对话-花灯绘2|崔烈|咳！咳咳！言归正传，殿下已到了应该考虑家室的年纪了，圣人有云，男女居室，人之大伦也。广陵也该有一位广陵王妃了……|头像=崔烈·壹}}\n{{对话-花灯绘2|刘豹|啊？是广陵王在找王妃？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|……是啊，结果你一听有奶茶喝就来了，压根没听使者说话。|头像=蔡琰·壹}}\n{{对话-花灯绘2|崔烈|蝉女官，蝉女官……好像有点不对劲，来的这些人感觉好像不太符合王妃的要求啊。|头像=崔烈·壹}}\n{{对话-花灯绘2|阿蝉|要求？不是女的就行吗？|头像=阿蝉·壹}}\n{{对话-花灯绘2|崔烈|至少得是和殿下门户相当的吧？这样看下来只有无极甄氏的门楣符合王妃的要求。|头像=崔烈·壹}}\n{{对话-花灯绘2|阿蝉|那个门，很重要吗？|头像=阿蝉·壹}}\n{{对话-花灯绘2|崔烈|在关中这可是重中之重，只要门楣相当，其实其他什么条件都不重要的。|头像=崔烈·壹}}\n{{对话-花灯绘2|伍丹|可是如果有情人门楣不相当无法在一起，不是很可怜吗？就像云雀和天蛾……|头像=伍丹·壹}}\n{{对话-花灯绘2|崔烈|那些有情人家里一定没有王位要继承。|头像=崔烈·壹}}\n{{对话-花灯绘2|伍丹|崔烈使君，爱慕之心可是能越过所有阻碍的！万一真的有非名门大族出身的人爱慕着殿下呢？就这样日思夜想，形销骨立……|头像=伍丹·壹}}\n{{对话-花灯绘2|阿蝉|嗯，嗯。|头像=阿蝉·壹}}\n{{对话-花灯绘2|伍丹|明明机会近在咫尺，却因为门楣之别，生生相离……|头像=伍丹·壹}}\n{{对话-花灯绘2|阿蝉|嗯，嗯，嗯。|头像=阿蝉·壹}}\n{{对话-花灯绘2|孙尚香|这个我知道！我哥就成功了，只要你家有兵马就行！门楣不够兵马来凑啊。|头像=孙尚香·壹}}\n{{对话-花灯绘2|崔烈|荒、荒唐！殿下是汉家宗室，岂能如军阀行事？|头像=崔烈·壹}}\n{{对话-花灯绘2|刘豹|我有解法。把所有门楣比自己高的士族杀光，剩下的不就轮到自己了吗？|头像=刘豹·壹}}\n{{对话-花灯绘2|阿蝉|……哦？|头像=阿蝉·壹}}\n{{对话-花灯绘2|阿蝉|……哦哦……|头像=阿蝉·壹}}\n{{对话-花灯绘2|阿蝉|哦哦！|头像=阿蝉·壹}}\n\n{{对话-尾}}\n\n|02节=\n{{对话-头}}\n<h3>02节</h3>\n{{对话-花灯绘2|甄宓|呼……听他说了半天的废话，终于休息了。|头像=甄宓·壹}}\n{{对话-花灯绘2|郭女王|这位使君，能够拨冗半刻，听我诉说广陵王的累累罪行？不会耽误很久的，尧舜云，贤则天下拥至，不贤则……啊，那位使君请留步，你可知广陵王包藏祸心……|头像=郭女王·壹}}\n{{对话-花灯绘2|甄宓|好了小郭，别叨叨了，替我放风？|头像=甄宓·壹}}\n{{对话-花灯绘2|郭女王|你要做什么？|头像=郭女王·壹}}\n{{对话-花灯绘2|甄宓|这是阿蝉准备的奶茶吧？呵呵……阿蝉……呵呵……我和她的仇还没算呢……呵呵……|头像=甄宓·壹}}\n{{对话-花灯绘2|甄宓|看，华胥剧毒，无色无味！我跳槽前特意藏了一点……只要把它滴进奶茶桶里，呵呵呵……呵呵呵呵……|头像=甄宓·壹}}\n{{对话-花灯绘2|郭女王|住手！这是华胥分发给死士的毒药，只能用于公务，岂能用于私仇？长此以往，公聚朽蠹。文人云，北山有鸱，不洁其翼。我认为你也该……啊啊啊一瓶全都撒进去了？！这一瓶很贵的！！！|头像=郭女王·壹}}\n{{对话-花灯绘2|甄宓|阿蝉！等着吧！等你百口莫辩的那一刻，我就给你致命一击！|头像=甄宓·壹}}\n{{旁白| }}\n{{对话-花灯绘2|刘豹|我说啊，阿昭。|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|……|头像=蔡琰·壹}}\n{{对话-花灯绘2|王异|阿昭，她在喊你。|头像=王异·壹}}\n{{对话-花灯绘2|蔡琰|嗯？有吗？|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|要不然我们拉广陵王入伙吧？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|……|头像=蔡琰·壹}}\n{{对话-花灯绘2|王异|阿昭，她问你要不要和广陵王一起。|头像=王异·壹}}\n{{对话-花灯绘2|蔡琰|啊，没听见呢……|头像=蔡琰·壹}}\n{{对话-花灯绘2|王异|……你们俩怎么了？|头像=王异·壹}}\n{{对话-花灯绘2|蔡琰|没怎么呀。|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|对啊，没怎么呀。|头像=刘豹·壹}}\n{{对话-花灯绘2|王异|没怎么就好。我再去喝杯奶茶。好久没喝西凉奶茶了，阿蝉弄得还不错。|头像=王异·壹}}\n{{对话-花灯绘2|刘豹|……|头像=刘豹·壹}}\n{{对话-花灯绘2|刘豹|阿异去弄喝的了。你要喝什么吗？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|我对茶叶过敏。|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|酒呢？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|你不是不喜欢喝关中的酒吗？|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|唔……我说过吗？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|哼……|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|喝一点嘛……|头像=刘豹·壹}}\n{{对话-花灯绘2|崔烈|蔡琰女公子！|头像=崔烈·壹}}\n{{对话-花灯绘2|蔡琰|咳咳。崔烈使君。|头像=蔡琰·壹}}\n{{对话-花灯绘2|崔烈|不知女公子对殿下怎么看？|头像=崔烈·壹}}\n{{对话-花灯绘2|蔡琰|啊，殿下身份贵重，昭姬怎会对殿下有看法……|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|有啊，你昨晚不是还说广陵王定会败于……|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|——把那个桶拿上。|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|拿上了，然后呢？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|去陪阿异打奶茶。|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|你不是对茶叶过敏吗？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|我数到三。|头像=蔡琰·壹}}\n{{对话-花灯绘2|崔烈|啊，其实我也想问问左贤王的意思……|头像=崔烈·壹}}\n{{对话-花灯绘2|刘豹|门户不相称吧？殿下身为宗室，和朔方人恐怕不合适吧？|头像=刘豹·壹}}\n{{对话-花灯绘2|崔烈|女公子此言差矣。方才伍丹之言令烈茅塞顿开。今乱世风起云涌，仍执着于门户之念，未免墨守陈规。|头像=崔烈·壹}}\n{{对话-花灯绘2|崔烈|所以！无论是朔方人，羌人胡人土人，只要对殿下有意，两家能共谋大业，都可以一起考虑！|头像=崔烈·壹}}\n{{旁白| }}\n{{对话-花灯绘2|王异|嗯？你在添奶茶吗？|头像=王异·壹}}\n{{对话-花灯绘2|阿蝉|……唔，你要喝吗？|头像=阿蝉·壹}}\n{{对话-花灯绘2|王异|要啊，你手艺不错。|头像=王异·壹}}\n{{对话-花灯绘2|阿蝉|那你先喝吧。喝完我要下药了。|头像=阿蝉·壹}}\n{{对话-花灯绘2|王异|……|头像=王异·壹}}\n{{对话-花灯绘2|王异|啊？|头像=王异·壹}}\n{{对话-花灯绘2|阿蝉|文远叔给我的药。他说，把这个，加进奶茶里。|头像=阿蝉·壹}}\n{{对话-尾}}\n\n|03节=\n{{对话-头}}\n<h3>03节</h3>\n{{对话-花灯绘2|王异|你……要不要再想想？|头像=王异·壹}}\n{{对话-花灯绘2|阿蝉|我正在想。|头像=阿蝉·壹}}\n{{对话-花灯绘2|王异|或者我先打奶茶吧，随便你之后下不下……哇，一整包都撒下去了。|头像=王异·壹}}\n{{对话-花灯绘2|王异|好像有人来了……快走。|头像=王异·壹}}\n{{旁白| }}\n{{对话-花灯绘2|刘辩|给我、给我让开！|头像=刘辩·陆}}\n{{对话-花灯绘2|公孙珊|为什么是我让开？啊，是因为一直又哭又闹，惹姐姐厌烦了，所以现在想破坏我和姐姐的事？|头像=公孙珊·壹}}\n{{对话-花灯绘2|刘辩|广陵王才不会嫌我烦！倒是你，一直姐姐姐姐的套近乎装可怜，手段用尽了走投无路了吧？|头像=刘辩·陆}}\n{{对话-花灯绘2|公孙珊|这可是选王妃，你一个男的凑什么热闹！|头像=公孙珊·壹}}\n{{对话-花灯绘2|刘辩|王妃就不能是男的吗？谁规定的？天子吗？|头像=刘辩·陆}}\n{{对话-花灯绘2|公孙珊|开始胡搅蛮缠了！让开！姐姐、姐姐是我的——|头像=公孙珊·壹}}\n{{对话-花灯绘2|刘辩|你才、让开一一唔啊！|头像=刘辩·陆}}\n{{对话-花灯绘2|刘辩|……这是什么，闻着又甜又腻的……|头像=刘辩·陆}}\n{{对话-花灯绘2|公孙珊|是这次待客的奶茶……这么大一桶，看来来客不少嘛……|头像=公孙珊·壹}}\n{{对话-花灯绘2|刘辩|死心了吗？一个幽州出身的人，估计连名册都进不去！……你在干什么？|头像=刘辩·陆}}\n{{对话-花灯绘2|公孙珊|下毒。没人能挡在我和姐姐中间。|头像=公孙珊·壹}}\n{{对话-花灯绘2|刘辩|你是不是下太多了？都溢出来了。|头像=刘辩·陆}}\n{{对话-花灯绘2|公孙珊|半桶奶茶半桶毒才是最好的配比，这样味道刚刚好。|头像=公孙珊·壹}}\n{{对话-花灯绘2|崔烈|乔女公子到了！淑女真是容光照人，快请进！|头像=崔烈·壹}}\n{{对话-花灯绘2|刘辩|可恶！又有新人来了！|头像=刘辩·陆}}\n{{对话-花灯绘2|崔烈|庐江乔氏……门第是不是太低了……不行不行，刚才还说了不能局限于门第，再说了乔公可是旧臣，亲上加亲……|头像=崔烈·壹}}\n{{对话-花灯绘2|小乔|崔烈使君？|头像=小乔·壹}}\n{{对话-花灯绘2|崔烈|啊！没事，在下自言自语而已。女公子想必是收到了文书，远道而来辛苦了……对了，奶茶，这是这次待客的奶茶。|头像=崔烈·壹}}\n{{对话-花灯绘2|小乔|谢谢……好香啊……|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|……|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|呜……|头像=小乔·壹}}\n{{对话-花灯绘2|崔烈|怎、怎么了？|头像=崔烈·壹}}\n{{对话-花灯绘2|小乔|想起父亲了……有一年……有一年有位关外的行商经过庐江，说了些关外见闻。我听说了凉州的奶茶，一直想喝……父亲就照着关外人的口述，亲自下厨给我做了奶茶……呜……父亲……|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|这杯先放在这吧，趁着它有热气，我能多闻闻它的香味……刚才失态了，使君见笑。|头像=小乔·壹}}\n{{对话-花灯绘2|崔烈|哪里哪里，父女之情也令在下感同身受……在下有位族女，父母早亡，我一直将她视同亲女……|头像=崔烈·壹}}\n{{对话-花灯绘2|崔烈|本次为殿下寻找王妃，不能说没有私念吧……但从德行来说，阿赢还有需要精进之处呢，可如果殿下有意，那真是再好不过……|头像=崔烈·壹}}\n{{对话-花灯绘2|小乔|哪里哪里，崔女官……崔女官很好的……每次举办宴席，都会想到我……|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|啊，说远了。其实我不是为自己来的，我们在江东收到了文书，我无意离开江东，所以周忠老师想问……|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|想问……王妃的性别有没有要求？他想毛遂自荐。|头像=小乔·壹}}\n{{对话-花灯绘2|崔烈|……啊？|头像=崔烈·壹}}\n{{对话-花灯绘2|小乔|老师原话是这样说的，让我帮他来问问……如、如果不行的话也没关系！是我唐突了！|头像=小乔·壹}}\n{{对话-花灯绘2|崔烈|……|头像=崔烈·壹}}\n{{对话-花灯绘2|崔烈|……！！！是我狭隘了！啊，何等可悲的墨守陈规！无论对方是男是女，是平民还是士族，是未婚还是已婚已育，一切都要以殿下的利益为重啊！|头像=崔烈·壹}}\n{{对话-花灯绘2|崔烈|只要殿下钟意，哪怕不是人都可以商榷！快，拟文书！扩大人选！|头像=崔烈·壹}}\n{{对话-尾}}\n\n|04节=\n{{对话-头}}\n<h3>04节</h3>\n{{对话-花灯绘2|刘辩|看见了没有？这个条件简直是为我量身打造的。可以是男的，也可以不是人，还自带一个孩子。你们谁能符合这个标准？|头像=刘辩·陆}}\n{{对话-花灯绘2|公孙珊|别高兴得太早了，姐姐喊过我珊儿，她有这么喊过你吗？|头像=公孙珊·壹}}\n{{对话-花灯绘2|公孙珊|啊，让我看看你的表情……就是这样的表情，每个和我抢姐姐的人都应该露出这样的表情！哈哈哈哈……哈哈哈哈哈……|头像=公孙珊·壹}}\n{{对话-花灯绘2|刘辩|唔……呜哇一一广陵王——|头像=刘辩·陆}}\n{{对话-花灯绘2|阿蝉|好吵。耳朵，塞起来。|头像=阿蝉·壹}}\n{{旁白| }}\n{{对话-花灯绘2|小乔|呼……|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|呼……啊，乔淑女也出来透气吗？|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|是啊，里面人太多了，有点坐立难安。|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|淑女看过这卷故事吗？在汝南很盛行的，说的是狐仙和太守之女。|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|啊……没有，只看过开头，就没有再看下去了。|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|没有吗？！我以为淑女一定读过的。|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|以前看过开头，感觉是那种爱情故事……乍一眼看过去好像是真的，但如果当真又会很危险。|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|嘿嘿，我还是喜欢那种一看就知道是假的，看完就看完了，也不会有人当真。但如果是这样的故事，女孩子会很容易当真啊。它写的是爱情啊……在没有经历太多的时候去看虚构的爱情，是很危险的。|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|没关系的，它写得很美，只是看看，愉悦心神也不错。|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|也是……但是，总觉得看的时候会有些害怕。好像太守之女的人生里，就只有爱慕她的狐仙，还有想争夺她的皇子。所有角色都在用爱情围着她转，那，爱情之外的东西呢？|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|很危险吧？很容易就会让女孩子觉得，被人爱着才是一生里最重要的事。一生去追求被他人爱着，忽视自己真正要做的事……从虚无缥缈的爱情里回过神来，会发现那些错过的事就已经无可挽回的错过了。|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|唔，也许在别的书里会写太守之女剩下的故事吧。至少这卷故事里，大家好奇的都是她最后会和谁在一起。|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|说不定呢。我小的时候，有阵子很喜欢听侍女们说外面流传的爱情故事。有天，她们说了卓文君的故事。|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|大家小时候应该都听过凤求凰吧。|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|我的老师没有听过。|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|哎？！|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|很让人意外吧？老师不知道这些故事，好像他小的时候没有人跟他说过。他让我说给他听。他一边听一边笑，笑得越来越大声，到后来，父亲来了，问，你们在说什么呀。|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|老师就掩着脸出去了，不知去了哪。过了很多天，他深夜回来了，把我叫醒，说，他找到了卓文君卖酒的故地，里面有很有意思的东西，问我想不想看。|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|不知道为什么，我觉得他的眼神很吓人，所以拼命摇头，晚上还做了噩梦……那之后，听见这种半真半假的爱情故事，都会觉得害怕。|头像=小乔·壹}}\n{{对话-花灯绘2|伍丹|那，淑女的老师会和淑女说些什么故事呢？|头像=伍丹·壹}}\n{{对话-花灯绘2|小乔|人的故事呀。富商经行各地的故事啊、太守夫人远嫁过来的故事啊……虽然故事都很简单，但老师说的绘声绘色的。|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|我问，老师，你是怎么知道那么多人的故事的呀？他笑着说，就像我们现在这样，坐在一起说呀。|头像=小乔·壹}}\n{{旁白|<hr>}}\n{{对话-花灯绘2|周忠|…………天亮了吗？|头像=周忠·壹}}\n{{对话-花灯绘2|周忠|……我是不是睡过头了？今天本来要去广陵王府的……|头像=周忠·壹}}\n{{对话-花灯绘2|徐庶|没有啊。还早呢。|头像=徐庶·壹}}\n{{对话-花灯绘2|周忠|就是在骗我……没想到会在途中的驿馆偶遇前辈，多谢前辈照顾了……|头像=周忠·壹}}\n{{对话-花灯绘2|徐庶|哪谈得上什么照顾。你体内的巫血不稳，比我的力量还弱。我只是给了你一些紫石，吃下就好了。|头像=徐庶·壹}}\n{{对话-花灯绘2|徐庶|昏睡的时候，梦见了很难过的事吧？一直半睁着眼睛昏睡，就那样静静的哭……|头像=徐庶·壹}}\n{{对话-花灯绘2|周忠|估计是梦见了无情的旧情人吧。我去梳洗一下……如果有机会嫁入王府，还要请前辈多关照。|头像=周忠·壹}}\n{{对话-花灯绘2|徐庶|那王府每天就真的热闹了。好了，准备启程了。不知道王府现在谈得如何了。|头像=徐庶·壹}}\n{{对话-尾}}\n\n|05节=\n{{对话-头}}\n<h3>05节</h3>\n{{对话-花灯绘2|甄宓|……为什么……为什么还没有人喝奶茶……|头像=甄宓·壹}}\n{{对话-花灯绘2|蔡琰|阿异，打来那么大一桶奶茶，你不喝吗？|头像=蔡琰·壹}}\n{{对话-花灯绘2|王异|忽然有点腻，想喝些清茶。阿猫，你不喝吗？|头像=王异·壹}}\n{{对话-花灯绘2|刘豹|忽然想喝酒。|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|呵呵。|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|为什么笑？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|你说呢？|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|我就是不知道，所以才问你啊。|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|你都不知道，就跟我来广陵了吗？|头像=蔡琰·壹}}\n{{对话-花灯绘2|刘豹|不是你说想找个能喝西凉奶茶的地方吗？|头像=刘豹·壹}}\n{{对话-花灯绘2|蔡琰|啊，是吗？|头像=蔡琰·壹}}\n{{对话-花灯绘2|郭女王|几位前辈，你们在聊什么？|头像=郭女王·壹}}\n{{对话-花灯绘2|王异|不瞒你说，我这么多年也没有听懂过。|头像=王异·壹}}\n{{对话-花灯绘2|郭女王|那个……要是你们不介意的话，这桶奶茶……我能拿走吗？|头像=郭女王·壹}}\n{{对话-花灯绘2|王异|你拿吧……|头像=王异·壹}}\n{{对话-花灯绘2|刘辩|咳咳……哭得嗓子好痛，口渴死了……咕咚咕咚咕咚……|头像=刘辩·陆}}\n{{对话-花灯绘2|郭女王|啊啊！！！|头像=郭女王·壹}}\n{{对话-花灯绘2|阿蝉|啊。|头像=阿蝉·壹}}\n{{对话-花灯绘2|<small>公孙珊&甄宓</small>|终于有人喝了！|头像=公孙珊&甄宓}}\n{{对话-花灯绘2|刘辩|……|头像=刘辩·陆}}\n{{对话-花灯绘2|刘辩|啊忘记了有毒……唔！|头像=刘辩·陆}}\n{{对话-花灯绘2|刘辩|喵。|头像=猫绒绒刘辩}}\n{{旁白| }}\n{{对话-花灯绘2|崔烈|原来如此，是中毒了所以变成了猫啊……先不管毒的事，关于广陵王妃的人选……|头像=崔烈·壹}}\n{{对话-花灯绘2|刘辩|喵。|头像=猫绒绒刘辩}}\n{{对话-花灯绘2|崔烈|和猫选，在下有些初步的想法。|头像=崔烈·壹}}\n{{对话-花灯绘2|崔烈|非常之世，非常手段。以武论道，也未尝不可！|头像=崔烈·壹}}\n{{对话-花灯绘2|孙尚香|简而言之谁打赢了嫂嫂就是谁的对吧！为了大哥，三箭齐发！|头像=孙尚香·壹}}\n{{对话-花灯绘2|甄宓|小郭拔剑！——阿蝉！今天分个胜负吧！|头像=甄宓·壹}}\n{{对话-花灯绘2|郭女王|我拒绝！二打一以多欺少不讲武德！|头像=郭女王·壹}}\n{{对话-花灯绘2|阿蝉|先解决你。|头像=阿蝉·壹}}\n{{对话-花灯绘2|郭女王|等等为什么冲我来了！|头像=郭女王·壹}}\n{{对话-花灯绘2|公孙珊|太好了，打起来，打到两败俱伤，姐姐就是唔啊啊！|头像=公孙珊·壹}}\n{{对话-花灯绘2|刘辩|喵喵喵！|头像=猫绒绒刘辩}}\n{{对话-花灯绘2|公孙珊|不许咬我！可恶的神棍！！！|头像=公孙珊·壹}}\n{{对话-花灯绘2|周忠|哎呀，好热闹……|头像=周忠·壹}}\n{{对话-花灯绘2|小乔|啊啊……老师……老师救救我……|头像=小乔·壹}}\n{{对话-花灯绘2|周忠|现在在做什么呀？怎么打成这样的？|头像=周忠·壹}}\n{{对话-花灯绘2|伍丹|比武招亲！|头像=伍丹·壹}}\n{{对话-花灯绘2|周忠|原来如此！还在担心会被筛选出去呢，比拼武力值的话，广陵王妃非我莫属！|头像=周忠·壹}}\n{{对话-花灯绘2|徐庶|哇……打得屋顶都要塌了……|头像=徐庶·壹}}\n{{对话-花灯绘2|阿蝉|出手流！|头像=阿蝉·壹}}\n{{对话-花灯绘2|甄宓|春雪刃！|头像=甄宓·壹}}\n{{对话-花灯绘2|郭女王|这样的不义之战，张仲剑绝不会出鞘！……唔啊啊！别、别打我！无德！流氓！|头像=郭女王·壹}}\n{{对话-花灯绘2|崔烈|何等武德充沛！未来的广陵王妃如果如此骁勇，殿下何愁大业不成！|头像=崔烈·壹}}\n{{对话-花灯绘2|崔烈|徐庶前辈不加入比武吗？|头像=崔烈·壹}}\n{{对话-花灯绘2|徐庶|让小孩子们闹着玩吧。好久没这么热闹了，我坐在屋顶看一会儿。|头像=徐庶·壹}}\n{{对话-花灯绘2|徐庶|……啊，白鹿来了。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|吾接到了文书，说广陵有此事，让吾前来观礼。|头像=左慈·陆}}\n{{对话-花灯绘2|崔烈|哦哦！是隐鸢阁的左慈仙人！仙者前来观礼，烈倍感荣幸。|头像=崔烈·壹}}\n{{对话-花灯绘2|左慈|不是，是来喊停的。吾和她确认过了，你私自召集众人，没有告知过她。|头像=左慈·陆}}\n{{对话-花灯绘2|左慈|她今年在许县有公务难以脱身，让吾带口信过来，不许再往外送那些没有王府印章的文书。|头像=左慈·陆}}\n{{对话-花灯绘2|崔烈|左君不心急吗？还是说早已预知了天意？|头像=崔烈·壹}}\n{{对话-花灯绘2|左慈|天机不可泄露。啊，房顶烧起来了。|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|不知道小宝什么时候回来……得在她回来前把屋子修好啊。|头像=徐庶·壹}}\n{{旁白| }}\n{{对话-花灯绘2|徐庶|……呼……|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|这么晚了，还在修房子？|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|哈哈……也没别的事。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|给你的紫石，你没有吃。她的手臂不会觉得痛吗？|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|……会痛啊。从三个月前就开始痛了。|头像=徐庶·壹}}\n{{对话-花灯绘2|徐庶|但不知道为什么，总是不想吃紫石止痛。吃多了，总觉得会变得冷冰冰的。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|都是这样的。|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|……许久没和左君好好清谈了，今夜无事，要不要喝几杯酒？|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|吾就不喝了，喝水就好。|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|左君当年问过我的，为什么只将这条手臂羽化，不成为真正的仙人。我当时没有回答。因为还没想好。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|吾并不在意。但如果你想好了，吾也想听答案。|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|……|头像=徐庶·壹}}\n{{对话-花灯绘2|徐庶|……我觉得……我其实是该死的。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|很多人都这样，觉得自己比别人该死。你最后会发现，其实真正罪孽深重的人，往往觉得自己罪不该死。|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|哈……我杀过很多人，做错过许多事。今天那些吵吵闹闹的孩子们手上的人命，也许加起来都没有我多。|头像=徐庶·壹}}\n{{对话-花灯绘2|徐庶|我年轻时没有为任何人停下来过，除了公主。我觉得我对她当年有九分，她对我只有一分。她对令狐茂有九分，令狐茂对她只有一分。人好像就是这样，越是对自己爱理不理的人，越是觉得必须得弄到手。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|哈……真是自寻烦恼。|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|说的轻松。小宝要是也对你只有一分，左君一定比我当年还要疯魔。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|只有一分便只有一分，若有幸有九分，那就安享九分。人心对人心的揣摩度量、平与不平，往往是最不重要的。|头像=左慈·陆}}\n{{对话-花灯绘2|左慈|若让你选，一是她活到如今，但对你只有一分；二是她对你有九分，但生死相隔，你选哪边？|头像=左慈·陆}}\n{{对话-花灯绘2|徐庶|……是啊，都会选只有一分的那边。|头像=徐庶·壹}}\n{{对话-花灯绘2|左慈|眼前世事无尽，何苦回望水中月色。|头像=左慈·陆}}\n{{对话-花灯绘2|左慈|好了，想通了，就早些歇息吧。过一段时日，还有大事要办。|头像=左慈·陆}}\n\n{{对话-尾}}\n}}</div>\n<bstyle>\n.chunwan {\nwidth: 768px;\n    /* 移除 aspect-ratio，让高度由内容决定 */\n    /* aspect-ratio: 1 / 1.65; */\n    /* overflow: hidden; */\nposition: relative;\nbackground:url(https://patchwiki.biligame.com/images/yuan/2/29/lapf9f70h25u7xiy33y9xhbkzdu2h45.png) no-repeat center /100%;\nmargin: 0 auto;\ndisplay:flex;\nflex-direction: column;\n}\n.chunwan .title {\nmargin: 15px 0px 0px 15px;\nfont-size: 36px;\ncolor: #FFF8CB;\ntext-shadow: 2px 2px #000;\ndisplay: flex;\njustify-content: space-between;\nfont-family: kaiti;\n}\n.chunwan .text {\ndisplay: flex;\npadding-top: 30px;\nflex-direction: column;\nalign-items: center;\n}\n.chunwan .tab {\ndisplay: flex;\nflex-direction: column-reverse;\n}\n.chunwan .tab ul {\ndisplay: flex;\nflex-wrap: wrap;\nmargin:auto;\n}\n.chunwan .tab>ul>li {\ndisplay: inline-flex;\nwidth:120px;\nheight:125px;\nmargin:0px;\npadding:0;\ncolor:#666;\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) no-repeat center / 110px;\n}\n.chunwan .tab>ul>li a {\ndisplay: flex;\nalign-items: center;\njustify-content: center;\nwidth: 100%;\nheight: 82%;\nfont-size: 24px;\n}\n.chunwan .tab>ul>li:hover {\ncolor:#666;\nfont-weight:bold;\n}\n.chunwan .tab>ul>li.active {\ntext-decoration: underline;\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) no-repeat center / 110px !important;\ncolor:#5d3e32;\nfont-weight:bold;\n}\n.chunwan .tab>.tab-content>.tab-pane {\nwidth:100%;\naspect-ratio: 1 / 1.35;\noverflow-y:scroll;\n}\n.chunwan .tab>.tab-content>.tab-pane.active {\nbackground: transparent!important;\n}\n.chunwan .tab>ul>li>a, .chunwan .tab>ul>li>a:hover, .chunwan .tab>ul>li>a:active, .chunwan .tab>ul>li>a:focus {\ntext-decoration:none;\ncolor:inherit;\n}\n.chunwan .tab>ul>li.active>a, .chunwan .tab>ul>li>a:hover, .chunwan .tab>ul>li.active>a:active, .chunwan .tab>ul>li.active>a:focus {\ncolor:inherit;\n}\n.chunwan ::-webkit-scrollbar {\nwidth:12px;\nborder-radius: 20px;\nbackground: #775743;\n}\n.chunwan ::-webkit-scrollbar-thumb {\nborder-radius: 20px;\nbackground:#736758;\n}\n.tab-nav{border-radius:25px;color: #6f4e41; background: #fbfbfbad;width:100%;margin:auto;padding:-5px;color:rgb(99,55,25);margin-bottom:10px;box-shadow: 0 4px 10px rgba(170, 130, 100, 0.08);justify-content: space-between;}\n@media only screen and (max-width: 870px) {\n.global-container {display:none}\n.chunwan {\nwidth:110%;\nmargin: 0 -2%;\n\n}\n.chunwan .tab>.tab-content>.tab-pane {\nwidth:105%;\nmargin: 0 -2.5%;\n\n}\n.chunwan .tab>.tab-content {\nmargin:5px;\npadding:5px 0;\n}\n.chunwan .title {\nfont-size: 24px;\n}\n.chunwan .tab>ul>li a {\nfont-size: 16px;\n}\n.chunwan .tab>ul>li {\nwidth: 70px !important;\nheight:70px !important;\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) no-repeat center / 70px !important;\n}\n.chunwan .tab>ul>li.active {\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) no-repeat center / 70px !important;\n}\n.tab-nav{width:100%;padding:5px;border-radius:5px;}\n}\n</bstyle>"
+}

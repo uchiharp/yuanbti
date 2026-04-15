@@ -1,0 +1,3313 @@
+{
+  "title": "海岛漂流/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "中年西凉军",
+    "侍从",
+    "侍女",
+    "公孙珊瑚",
+    "吕蒙",
+    "吴夫人",
+    "周瑜",
+    "太史慈",
+    "孙策",
+    "小鲛人鱼",
+    "少年西凉军",
+    "干吉",
+    "张修",
+    "我",
+    "椰椰大王",
+    "江东水军",
+    "海马超",
+    "王子",
+    "瓜瓜二王",
+    "程昱",
+    "菠菠打杂",
+    "葛洪水",
+    "董奉",
+    "西凉军官",
+    "野兽",
+    "青年袁氏军",
+    "鲛珠",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "唔啊！船、船被漩涡吸进去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "快跳船，要是陷进漩涡里就完了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "没事吧？快醒醒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "哎？我们这是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们的船翻了，漂流到孤岛上了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "我是这里的大岛主椰椰大王。二位的贷款打算怎么还？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "什么贷款？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "瓜瓜二王",
+      "text": "头像=瓜瓜二王",
+      "emotion": "大哥，咱们好像认错人了。他们不是那几个草划。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "不重要，上了岛自动视为贷款买房！在欠款合约上签字。不还贷，就等着过海岛狱友会吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "能有多少钱啊，算我的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "白金……贝？白金贝是啥？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "你们该不会连一块白金贝也没有吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……这个岛上的货币是白金贝？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呜啊！只能还贷了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "它的头，给我拧下来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "哇！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "脑袋还没我肱二头肌大的人类，居然胆敢拒绝房贷？签字！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "能有多少钱啊，算我的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "白金……贝？白金贝是啥？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "你们该不会连一块白金贝也没有吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……这个岛上的货币是白金贝？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呜啊！只能还贷了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "这就是挖白金贝的地方吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "沙子好松软，看我一铲子一个……嗯？谁的头盖骨啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是之前来挖贝壳的人的吗，好多啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这种时候不能多想，挖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这种贝壳是你要的白金贝吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "这也算有点价值的贝壳……就用这些白金贝和你们交换吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "瓜瓜二王",
+      "text": "头像=瓜瓜二王",
+      "emotion": "看你们还贷也有一阵了，来介绍一下，这是我三弟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊，是菠菠三王。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "不，我叫菠菠打杂。来，这口锅给你们，岛上的牢饭……不，美食，就交给你们了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "想获得更多食材，不如出海捞些鱼来做菜吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好呀！总吃那几样东西，吃得嘴角都起泡了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "看见那边的海龟了吗？出海可以坐在龟背上。这把锥子给你，它如果敢反抗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……这不太好吧？无冤无仇的何必呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "可笑的同情心。这座海岛可是这世上最残酷、最黑暗的所在！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "对了，带上这几个麻袋。飘到离岸远一些的地方，就帮我把它们推下去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……麻袋是不是还动了一下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "你拿到了种子？把万物的源头种下去吧，你会开始收获到无尽的苦恼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "大哥，不要突然跟人类说这样的话。我们是马喽，马喽不该思考。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "不思考就没有烦恼，让他们一边种花，一边思考我们为什么会思考吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "只要按时浇水，作物就会生长，就像积压的工作一样越积越多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "如果长出什么好东西，我会用白金贝和你交换。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "迷人的气息……吃不到二位做的菜，吃二位种的菜也可以。我想拿白金贝收购人头菜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "我最近开发了新的房产，有兴趣吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "很好！继续！人生就是对天地万物无穷无尽的债啦，哈哈哈哈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "瓜瓜二王",
+      "text": "头像=瓜瓜二王",
+      "emotion": "是不是有点单调？想要更多家具就来找我吧！家具商店里还有更多消费陷……啊不，好货呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "瓜瓜二王",
+      "text": "头像=瓜瓜二王",
+      "emotion": "我店里的东西物美价廉，来路？来路很正啊，才不会是打劫鲛人族弄来的呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "瓜瓜二王",
+      "text": "头像=瓜瓜二王",
+      "emotion": "回收卧榻、立灯、座椅、挂画……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "有什么好吃的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "足够维持基本生命体征。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "咦，为什么我会流泪呢？因为太好吃吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "能够死在你的锅里，是海鱼、海虾和海鸟们最大的荣幸！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "最高端的食材往往只需要最朴素的烹饪方式，而你，我的朋友，你就是掌握烹饪真理的厨神！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "哈哈哈哈——劲啦劲啦劲啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这个奇怪的人在海上不停地游，弄出了漩涡……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……三百圈了，他为什么还在游？哈哈哈——劲啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不行，得干掉这家伙，不然孙策的口癖就会变成他那样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪水",
+      "text": "头像=葛洪",
+      "emotion": "鲛人健美的肉体，太美好了………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊，葛洪好像在拼命追赶鲛人群，引发了海啸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那是传说中的鲛人？好神奇……又叫美鱼人吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "就是上半身是鱼，下半身是人的动物……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "公孙珊瑚",
+      "text": "头像=公孙珊",
+      "emotion": "哈哈哈哈哈！哈哈哈哈哈哈哈哈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "公孙珊瑚",
+      "text": "头像=公孙珊",
+      "emotion": "烧！都烧成灰吧！哈哈哈哈哈哈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "…………………这也是你手下的密探吗？你……你招人的标准，比我还豪迈啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "绣衣楼就是这样的，习惯就好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好累啊，我先去休息一会——哎哟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "免费小床坏了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我就知道便宜没好货。没办法，去他的商店买新家具吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊！棕榈床垫好舒服啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是啊，又松又软还好闻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好喜欢好喜欢……我要扛一张回去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "一张？我也要一张。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们为什么要两张床垫？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊啊啊是两张是两张，我、我脑子抽抽了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你在干什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这画卖得这么贵，可是好丑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "听说海外异族的画师崇尚技法返璞归真，甚至故意模仿孩童稚嫩笔法，以表达更加玄妙深奥的艺术境界。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "但是它真的好丑啊。跟我画的差不多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "这叫艺术！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "拿下来仔细看看……咦？背后有标价……十白金贝。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "什么，才十个白金贝？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "奸商！那个奸商！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "听，有歌声从灯里传出来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "还真是……莫非是鲛人的歌声？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这足十拍的超高音，绝非凡人可以唱出，应该是鲛人没错……怎么又停了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲛珠",
+      "text": "以上是剑鱼鲛娘组合最新单曲《浪花吟》的试听，专辑购买请联系东海鲛货铺……接下来由鲛绡织坊的细腮掌柜为您带来限时特卖直播……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "鲛珠，是鲛人族用来做广告的吗……小珠小珠？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲛珠",
+      "text": "我在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "明天午时我想砍刘繇？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲛珠",
+      "text": "好的，已为您安排日程，会在午时自动提醒您。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "小珠小珠，后天午时她想登基。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啥？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲛珠",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲛珠",
+      "text": "好的，已为您安排日程，自动预定未央宫午时到申时的场馆使用……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "撤销！撤销啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这么一大株珊瑚树可真是难得。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是啊，回家的时候一定记得把它带上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "带回去当衣架，你看这枝丫，能挂好多衣服呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "还可以当猫爬架，给仲谋养的大虎小虎爬着玩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "掰下来还能用来抡人，阿香肯定喜欢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，你衣服上怎么有个树枝形状的印迹？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我看看……奇怪。这是从哪里蹭上去的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你刚才是不是坐过这把椅子？椅背上的珊瑚掉漆了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "珊瑚怎么会掉漆……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "除非不是珊瑚。擦一擦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "哇，里面居然是骨架？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好像是巨型马喽的骷髅骨架，好帅！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是之前马喽王的骨架吗？好酷，好帅！我喜欢！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "说起来，这是什么动物的皮毛啊？是巨熊吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我也在想。这座岛上真的有这么大的动物吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "它们说的马喽王？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "难道是马喽王的皮吗？怪不得能覆盖一整张榻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "它活着的时候该有多大呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……不管多强大的东西，最后也都会变成这样啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你怎么总站在兵器架前面？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这岛上没有镜子，我借兵器照照镜子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我也照照。刚才从奸商那边拿到了一点口脂，试试颜色。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "给我也试一试。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你试什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "在脸上画战纹啊，看，帅不帅？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……不要浪费我的口脂啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "趁着今天天气不错，晒晒被子和床垫吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "交给我就好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "床垫下面的东西是什么？就是那个圆圆的小柱子………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "按按……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "原来……原来是瑶柱……按下瑶柱会让海贝合拢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你说咱们俩挤在一个贝壳里，像不像一对儿寄居蟹啊……哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这不是太史慈嘛！你在海上做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "难道是送外卖？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "原来是二位老板啊！太疾驰刚推出了海岛代购业务，二位有需要吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "这是商品目录，现货的话有零食美妆烟酒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "仙器、玉玺需要异地发货，大概两天后由太疾驰海洋配送为您送货上岛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "玉玺也可以买吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我们有一大笔贷款没还，奢侈品就不考虑了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "可以分期付款啊！老板，周瑜在我们这买琴可是分了一百二十期呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……太疾驰真的能持续运营到他还完贷款吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "贵客在太疾驰的购物积分已经累积一万分了，可以兑换白金贵宾尊享礼遇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "包含太疾驰旗舰店半价优惠券、太疾驰人工服务限时免费项目体验券……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "感觉没什么想要的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "还有可以实名查看匿名骂你的人，孙将军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好！这个好！给我看看他是谁！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "是□□。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这不还是打码嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我加入。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "加、加入？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对，我和他在这凑齐两人拥有了监□和法□，可以在这座岛上成立绣衣楼分部。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我们就以绣衣楼分部的名义加盟你的业务。这个业务前景很广，来，讨论一下业务线吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……等等？等等？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "老板！这是这个月的分红！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "噢噢，回报率不错啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "有这些钱，我们可以在岛上盖大房子了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还能多盖几套，开大型度假村！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "两位，这是你们的税单。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "税单？！为什么海岛上还要交税啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "有收入就会有税单，这是常识。你们在自己地盘上不收税吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "汗流浃背了吧？哼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你看，海上有人在骑海马。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "哈哈哈哈哈哈！劲啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "□的，为什么海上会有人骑海马……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "看上去好刺激！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是啊！我也想骑骑看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我抓——哦哦哦！真的可以骑海马！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "哈哈哈——海风好舒服！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今天的海风也好舒服！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "飙海马好爽，以后回了扬州我也想玩！——唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呜啊……好痛！为什么海里会有一口巨大铁锅？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "既然二位主动撞进我锅里，那真神永不吞金，在下就笑纳了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊啊他在锅底点火了？！好烫！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "不要乱动，做人最重要的就是火候……唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "哈哈哈哈哈劲啊哈哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你玩够了该换我们了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "让开让开，要撞了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "可恶！我徒手游也要追上你们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "哈哈哈哈——没劲了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "孙策！今日我们就在此一绝蜀山！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是决一死战。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那一绝蜀山是什么意思？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "没有什么一绝蜀山，就是决一死战。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海马超",
+      "text": "头像=马超",
+      "emotion": "蜀山一绝！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……是决一死战。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "什么是蜀山一绝？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修",
+      "emotion": "是小道哦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今天的大海好平静啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "速度！激情！热血！我们的口号是——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江东水军",
+      "text": "头像=水军甲",
+      "emotion": "铁人十八项，无敌江东行！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "吕蒙？！你怎么在这里？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "老大！嫂夫人！我们是来找你们的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江东水军",
+      "text": "头像=水军甲",
+      "emotion": "但是找到一半突然决定开水上竞技赛了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "有正事要你们帮忙呢，快帮我们一起挖贝壳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "好！拿铲子来，兄弟们，挖！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "这是赔偿单。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "九千万白金贝？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "菠菠打杂",
+      "text": "头像=菠菠打杂",
+      "emotion": "你们可是把沙滩挖到水土流失啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "稍后就是海上五公里耐力赛，要不要下场比试比试？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……能坐海龟参加吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "没问题。三、二、一，开始——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我是不会输的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "…………就这样游远了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呼，他们可真能游……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你回来啦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是啊！我们最远一口气游到广陵的东海码头呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "对哦，既然都能游回去为啥还要游回来啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "有点饿了，要不要返程回去吃饭？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那边有条船好像是船上食肆，去船上吃一顿？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "原来是二位贵客。二位想吃点什么，要不要先看看菜单？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "来都来了，吃饭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……那个，墙上的这滩血迹是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "杏肉果酱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "咳……咳咳……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "殿下，现在就要离开吗？不打个包走吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……真的，好饿。这岛上只有这一家酒楼吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "要不，进去要一点点素菜吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "素菜吃不饱……算了，吃素菜安全一点……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "你们在店门口不进去干什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "你是来海岛救我们回去的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "是啊。不过有点饿了，吃了午饭再说吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "等等，这家店是……啊，他进去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "……那个，墙上的这滩血迹是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "冷酷果汁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊，他又冲出来了……跑远了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "等等？！你是不是把我们俩忘了？！喂——公瑾——喂——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不了，我不太饿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊？可是这家闻起来好香……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "二位还没尝过招牌菜，就这样走，是不是太可惜了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "招牌菜是什……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "快、快走！他已经开始磨刀了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "看来是无缘了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "真是个好日子啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "好饿啊，偌大的东海就没有第二家海上食肆吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们好像又绕回来了，你看那边，是不是上次见过的大排档？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……船头挂着“旺铺转租”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "看来是经营不善呢。咦，里面的是不是新老板？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "……哦，是孙策将军呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是你？！自己来送死，那就……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "冷静一点！这里是岛上唯一的餐馆了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "对哦。那你这里主打的招牌菜是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……算了，井水不犯河水的……算了，我们快跑吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "哎哟……大半年了，总算能休个年假了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "刘三叔，这次真没我们的活？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "火洞草划放了我们一马，说这次的活动我们不用出勤……哎哟，我的腰……真得歇歇了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "常年跑龙套的，哪次活动不出勤，哪次活动不挨打，我现在耳朵边还有幻听。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "庄家通吃推牌重开剑来哼哼哼野草啊退至我身后活着才是英雄……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "别念了别念了，这都不是你的台词。哎哟……再伸个懒腰……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "刘三叔，你说我们这样跑龙套，啥时候能成角啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "我昨天喊龙套台词，喊得嗓子都要废了。再这样下去，真的只能战争片里一直配龙套兵了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "这一行就是这样，熬吧，每次选角都去试试，说不定选中了，能扛主角了，就熬出头了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年袁氏军",
+      "text": "头像=袁氏士兵",
+      "emotion": "呼……小徐，刘叔，我回来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年袁氏军",
+      "text": "头像=袁氏士兵",
+      "emotion": "嘶……海水冷死了，我关节都在疼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "快快快，拿热椰子油敷一敷。阿斌，你也太拼了，这次活动没我们事，你还去接活？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年袁氏军",
+      "text": "头像=袁氏士兵",
+      "emotion": "新人演员跑龙套讨生活嘛，手停口停，没办法……不然只能继续兼职送外卖了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "荣哥，热椰子油来了，你快把手脚泡进去暖一暖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年袁氏军",
+      "text": "头像=袁氏士兵",
+      "emotion": "呼，呼，真暖和。对了小徐！我这次接了打杂的活，套上菠萝猩猩的玩偶服，一天能有二百钱呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年袁氏军",
+      "text": "头像=袁氏士兵",
+      "emotion": "而且，而且还有特约台词了！我这次终于不是顶着袁氏府兵甲的龙套角色说“是”、“遵命”、“杀呀”了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年袁氏军",
+      "text": "头像=袁氏士兵",
+      "emotion": "我、我有名字了……呜……我跑了三年的龙套，第一次接到特约角色和台词……呜……哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "呜……阿斌，太好了，太好了，你毕竟年轻，有希望能混出头了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "荣哥，当特约演员是什么感觉啊？有闻岸来给你讲戏吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年袁氏军",
+      "text": "头像=袁氏士兵",
+      "emotion": "有有有！我还抓紧机会在它面前演了一段名场面，让它以后有特约的戏份还找我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "好羡慕！哪天我也可以混个有名有姓的角色，不用天天配“追上他们”、“别想跑”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "“媚上欺下，贱人！”……啊啊！我也想说这么帅的台词！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "刘三叔，你说我带点礼物去闻岸那搞搞关系行不行啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "人家哪看得上你那三瓜两枣。多跑龙套多试戏，剩下的看运气。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "不然你拿了角色也撑不起来，被临场换下来可伤人了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "那、那我去求束直草划，让我变强吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "你疯啦？你一个敌方小怪，拿一套黄金数值让人家卡关，你唯一的结局就是在□□被写一堆塔格比正文还长的文啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "那我去求玫树，把我的脸改成张郃的脸！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "不管什么脸都扛不住你这个发型的啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "野兽",
+      "text": "头像=野兽",
+      "emotion": "呼……我下戏回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "你回来啦？跟你说个好消息，阿斌接到特约了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "野兽",
+      "text": "头像=野兽",
+      "emotion": "真的啊？我……你等我从野兽服里出来……哎哟老刘，拉链！拉链帮我拉一下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "你慢点……小心脚！上次你拍攻城战摔坏了脚，还没好呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "出来了……年纪大了，腰都不行了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "火洞草划这次说给我们放假，可是手停口停啊，没办法，接了没人想接的野兽的活……在地上趴得手腕都要断了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "阿斌呢？真替他高兴呀。唉……我跑了十年龙套了，都只拿到过两次特约呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "……是啊，人生啊……时也命也。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "刘三叔，杨老师！海岛落日好好看啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "噢噢……你们去海边玩吧，玩的开心就好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年西凉军",
+      "text": "头像=西凉军丁",
+      "emotion": "我长这么大第一次来海岛！能接这个活真是太好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "哈哈……玩吧，好好玩吧。年轻人就是要每天开开心心的玩嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "青春年少，开心是最重要的……等以后经历多了，就再也没有这样开心的日子啦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年西凉军",
+      "text": "头像=西凉军丙",
+      "emotion": "哈哈哈……喝酒，喝酒！管他明天会不会天塌下来呢，干杯啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "看见远处那个散发着不详气息的漩涡了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "没看见哎。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "没看见。你大半夜的，能别待在别人的帐篷里吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "就是，真没眼力见。嘿嘿……我们刚刚说到哪来着？对，甜瓜！我亲手种的甜瓜！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "我怎么没吃过？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "去年总共就养出一个大的，刚摘下来还没多看几眼呢，就被弟弟妹妹一人一半瓜分了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "那个漩涡，镇压着这片海域远古的诅咒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那今年我要尝尝！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好好好，今年一摘下来，我立刻给你送去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "咳咳咳！那个诅咒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "今晚没有星星，但你看，这雨把沙子都浇成银白色了，多漂亮，像……像你的眼睛……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "我的眼睛又不是银白色的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊啊我说错了！是像你眼睛里的光！哎呀我嘴笨……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "那个诅咒！即将冲破漩涡……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "再重新说一遍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "那个诅咒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "谁问你了。孙策，快说呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "像你眼睛里的光……哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "哼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "我还在这啊！尊重一下马喽的存在啊！能不能听一下这次的主线啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "别吵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "就是，别吵。出去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嘿嘿……我们难得这样两人出来，好多话我原来都没想到呢，结果这几天都同你说了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "诅咒啊！海底的诅咒啊！谈恋爱也尊重一下我们这些马喽的存在吧？！啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我可都记住了，这些话我可是要当真的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嗯嗯！保真，保真！对啦，你饿不饿？我去烤个海鸟，我们吃着宵夜慢慢聊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "那个诅咒很可怕的！你们不要不信邪啊！喂，别、别把我关在帐篷外啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "哈欠……睡得好沉。孙策，你醒了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "噗……噗噗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "孙策？你在哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我噗！噗噗！噗噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "啊啊啊啊啊啊啊啊啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "怎么办？！孙策变成水母了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "这就是那个古老的诅咒啊。话说你先把他养起来吧，他看着快脱水了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呼……呼……咕咚咕咚咕咚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "瞬间喝了大半碗的水！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "想喝椰子汁噗噗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "好！快，椰子汁……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "看来他被水母王子的诅咒选中了。不过诅咒也有破解之法，那就是真爱之吻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "鲛人族的藏宝图背面写着，只要得到真爱之吻，王子的情况就会有所改变……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "真爱之吻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "可、可是我的嘴巴……我努力翻过来！嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "保持这个姿势，很、很辛苦的！噗噗噗噗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "……………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策！我回来啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "啊，殿下回来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=程昱",
+      "emotion": "我正在做凉拌海蜇，殿下要来尝一口吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "………………………………哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "噗？噗噗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "噗噗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "只说了情况会改变，没说会变回人啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "再说一起变成水母不就能在一起了吗？确实是真爱之吻应该有的效果……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "到哪里去找鲛人族？！我们必须变回来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呼……这样在水里游来游去好舒服啊，水母碰碰！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "不要水母碰碰了啊！现在情况很紧急，鲛人族到底……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "呼……真的好舒服，水母碰……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "碰碰！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不要碰了啊！鲛人族到底在哪里？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "就在……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "太疾驰，太及时！客人点的海岛配送……咦？是不是有什么东西被撞飞了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "唔啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呼啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "咕噜噜噜……呕——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "头好晕，我们落到海里了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是啊……先找到鲛人族吧，鲛人肯定在海里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "海里好大啊！嘿嘿……水母碰碰！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "碰碰！……啊，变成水母之后，感觉心境都变了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "大海那么大，真的找得到鲛人族吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "只能先找找看了，不然总不能一辈子当水母吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "对对对，我先去前面探路！可能会有危险……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "跑跑跑有鲨鱼跑跑跑——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "咕噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "噗噗……你醒了？我们的脚都打死结缠在一起了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "这是哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我也刚醒……啊，这里好像是皇宫哎？！难道是传说中的鲛人领地？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "可是附近没有人的样子……该去哪里呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "找不到人也没关系，先当一段时间的水母嘛！多休几天假。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这样一起游来游去，其实也挺好玩的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你……想回去吗？休假时候心事不要那么重嘛……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我们不是休假，是意外被冲到海岛上来的，楼里还要筹办除夕年会排节目呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "排节目？我家就一个节目，黄盖伯伯诗朗诵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……这个节目有和没有的差别在哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊？很精彩的，声情并茂、震撼人心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "说起来我一直想问，孙家人是怎么听懂他的话的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "就是默契嘛。你静下心，说不定也能听见……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "静下心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "呜呜……呜呜……王子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那个，请问你是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "啊，我……我是鲛人族的公主……呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "你……你该不会也想吃凉拌海蜇吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "那种平民食品我才不会吃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "呜呜……王子……呜吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "呜……你们是来看我的笑话的吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那个，你是鲛人的公主？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "有什么问题吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "为什么上半身是鱼下半身是人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "你再带有这种物种刻板印象我就向海洋鱼权协会投诉把你们做成凉拌海蜇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "啊！鲛人鲛人，鲛字在前，就应该是鱼头人腿嘛！是不是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是是是！这鱼头真是……真是貌美如花！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "美丽的公主啊，我们身上背负了鲛人族的诅咒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "你们的事优先级很高吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我好不爽啊。我当人的时候除了袁术没人敢这么跟我说话……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘、嘘，忍一忍，忍一忍……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "咳，那个，不知公主有何事忧心？如果我们能替你解开烦恼，是不是能替我们解开诅咒？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "前段时间，我救了一位溺水的南越王子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "我对他一见钟情，他俊美得好像一条胖头鱼……我陪伴着昏迷的他，一直用歌声在安抚他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "什么歌声这么好听？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "大河向东——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "别唱了再唱会有风险的。好了，接着说吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "他醒了过来，看清了我的脸……然后头也不回地走了……呜呜……呜哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "想象了一下王子的第一视角……也不是不能理解……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "凉拌海蜇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "渣男！不懂欣赏的渣男！公主，我们替你讨回公道，至于这个诅咒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "嗯，我会替你们解开的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "好，那就包在我们身上！他的船只现在在哪？我们立刻就去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "扑腾、扑腾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "扑腾、扑腾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "嘿嘿……水母压顶！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "唔啊滑下去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "唔啊啊抓住我的触腕！嘿咻……好险，差点从甲板上滑下去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘，有人来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "老细要果滴虾饺啊牛丸啊鱼粥啊同埋糯米鸡，掂晒。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "嗯，趁热啦，我地都去食个踢。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策，孙策，我有办法了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好热好热好热！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "就当蒸桑拿了。好热好热好热……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "嘿嘿……这样窝在一起好舒服，都不想变回去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不行啦我不要当海蜇王！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王子",
+      "text": "咩啊？点解有兜凉拌海蜇架？",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "有得食就食啦，嫩口啊。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王子",
+      "text": "唔得喔，海蜇要落白醋同香菜架嘛。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "呢边就系食生既，老细你睇下，好弹牙架。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王子",
+      "text": "救命啊，海蜇识打人啊！",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "为什么、对公主、始乱终弃？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王子",
+      "text": "你讲咩啊，你帮下手啊，唔好斋睇我被条海蜇打先得架！",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "条海蜇好楞生猛喔。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "就算是半条鱼那也是付出真心的！好歹也要说清楚啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王子",
+      "text": "因为距系花鲢，花鲢腥啊嘛，做鱼生唔正架，炖汤食得多又热气！",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "查实，加翻滴石斛同海带米得咯。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "妖，麻鬼烦。",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "把他扇下海，去见公主说清楚！这样一来，我们身上的诅咒就能解开了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "水母碰碰——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "王子！是你吗王子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是的是的！人送来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王子",
+      "text": "乜鬼野啊，顶你个肺啊！",
+      "emotion": "{{注音"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "还是南越人好吃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "吃饱了……突然想吃点凉拌菜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "那个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "跑啊——跑跑跑——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那个——如果今天我们被做成凉拌海蜇了，也算永远在一起了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不要凉拌海蜇啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呜呜——我、我只要能和你在一起，被凉拌也无所谓！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "就是希望少加点辣少加点蒜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鲛人鱼",
+      "text": "头像=小鱼",
+      "emotion": "凉拌海蜇怎么能免辣免蒜？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呜呜我别无所求了！就一个请求能不能把我和她拌在一起——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策！前面是——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是那种会放电的七星子鱼？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……呃……啊！我们回来了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "太好了！没有变成凉拌海蜇！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "你们破除了第一重诅咒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "水母碰碰！——啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "你忘了现在脑袋是硬的了吗？好痛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "……第二重诅咒是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好可惜，我还想一起在海里多飘一会呢。一起飘来飘去，无忧无虑的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "在沙滩边一起手拉手也行呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我怕我拉你拉得太紧，你会不舒服……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "咳咳！第二重诅咒……别走！别走啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今天的海风好吵呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "和马喽和海鸟的叫声混在一起，也很舒服呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "椰椰大王",
+      "text": "头像=椰椰大王",
+      "emotion": "等等！我不是背景音啊！喂――喂——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那里……好像是江东水军的踪迹？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我真的看见江东的信号了！喂——我们在这里——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "哎呀！你们俩怎么在这？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "吴夫人？！为什么来的是吴夫人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "母亲！你是来接我们回家的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "啊？我来海岛度假的。公瑾他们介绍的这个小岛，说岛上度假村建设很完备。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……是我们盖的啦！我还以为要一辈子都困在这座孤岛上了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "有什么关系！就当是度假嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "好了好了，反正船也来了，想回去随时都能回去，放心吧！"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mainlinewrap\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabs\""
+    },
+    {
+      "type": "narration",
+      "text": "ul class\"resptabslist clearfix\" style\"margin15px 5px\""
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"span class\"tabpanel\"导入剧情/span/li!默认第1个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 家具剧情/span/li!默认第2个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 出海剧情/span/li!默认第3个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 彩蛋剧情/span/li!默认第4个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 孙策的故事/span/li!默认第5个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 结束剧情/span/li!默认第6个标签"
+    },
+    {
+      "type": "narration",
+      "text": "!想添加更多标签,可以复制上面一行"
+    },
+    {
+      "type": "narration",
+      "text": "/ul"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displayblock\"!导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "'''海岛漂流·导入剧情'''"
+    },
+    {
+      "type": "narration",
+      "text": "地铺·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "白金贝·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "烹饪·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "出海·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "种植·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "人头菜·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "杂货商店·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "家具商店·导入剧情"
+    },
+    {
+      "type": "narration",
+      "text": "菜肴评语"
+    },
+    {
+      "type": "narration",
+      "text": "神秘海域·海马超导入"
+    },
+    {
+      "type": "narration",
+      "text": "神秘海域·葛洪水导入"
+    },
+    {
+      "type": "narration",
+      "text": "神秘海域·公孙珊瑚导入"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!家具剧情"
+    },
+    {
+      "type": "narration",
+      "text": "'''海岛漂流·家具剧情'''"
+    },
+    {
+      "type": "narration",
+      "text": "地铺·棕榈叶"
+    },
+    {
+      "type": "narration",
+      "text": "卧榻·棕榈"
+    },
+    {
+      "type": "narration",
+      "text": "挂画·棕榈"
+    },
+    {
+      "type": "narration",
+      "text": "立灯·海贝"
+    },
+    {
+      "type": "narration",
+      "text": "立灯·珊瑚"
+    },
+    {
+      "type": "narration",
+      "text": "座椅·珊瑚"
+    },
+    {
+      "type": "narration",
+      "text": "卧榻·弋猎"
+    },
+    {
+      "type": "narration",
+      "text": "兵器架·弋猎"
+    },
+    {
+      "type": "narration",
+      "text": "卧榻·海贝"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!出海剧情"
+    },
+    {
+      "type": "narration",
+      "text": "'''海岛漂流·出海剧情'''"
+    },
+    {
+      "type": "narration",
+      "text": "太史慈"
+    },
+    {
+      "type": "narration",
+      "text": "海马超"
+    },
+    {
+      "type": "narration",
+      "text": "吕蒙"
+    },
+    {
+      "type": "narration",
+      "text": "程昱"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!彩蛋剧情"
+    },
+    {
+      "type": "narration",
+      "text": "'''海岛漂流·彩蛋剧情'''"
+    },
+    {
+      "type": "narration",
+      "text": "配角的假期一"
+    },
+    {
+      "type": "narration",
+      "text": "配角的假期二"
+    },
+    {
+      "type": "narration",
+      "text": "配角的假期三"
+    },
+    {
+      "type": "narration",
+      "text": "配角的假期四"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!孙策的故事"
+    },
+    {
+      "type": "narration",
+      "text": "'''海岛漂流·孙策的故事'''"
+    },
+    {
+      "type": "narration",
+      "text": "海岛诅咒"
+    },
+    {
+      "type": "narration",
+      "text": "真爱之吻"
+    },
+    {
+      "type": "narration",
+      "text": "小鲛人鱼"
+    },
+    {
+      "type": "narration",
+      "text": "一盅两件"
+    },
+    {
+      "type": "narration",
+      "text": "头像侍从"
+    },
+    {
+      "type": "narration",
+      "text": "头像宫女"
+    },
+    {
+      "type": "narration",
+      "text": "头像黑人影"
+    },
+    {
+      "type": "narration",
+      "text": "头像侍从"
+    },
+    {
+      "type": "narration",
+      "text": "头像黑人影"
+    },
+    {
+      "type": "narration",
+      "text": "头像侍从"
+    },
+    {
+      "type": "narration",
+      "text": "头像黑人影"
+    },
+    {
+      "type": "narration",
+      "text": "头像黑人影"
+    },
+    {
+      "type": "narration",
+      "text": "头像宫女"
+    },
+    {
+      "type": "narration",
+      "text": "头像黑人影"
+    },
+    {
+      "type": "narration",
+      "text": "头像侍从"
+    },
+    {
+      "type": "narration",
+      "text": "头像宫女"
+    },
+    {
+      "type": "narration",
+      "text": "头像黑人影"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!结束剧情"
+    },
+    {
+      "type": "narration",
+      "text": "'''海岛漂流·结束剧情'''"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "centera href\"top\"回到顶部/a/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%B5%B7%E5%B2%9B%E6%BC%82%E6%B5%81/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:00:55.867005",
+  "raw_wikitext": "__NOTOC__\n[[分类:活动剧情]]\n{{面包屑|海岛漂流/活动玩法}}{{JS|Qiantao.js}}{{ResourceLoader|CardSelectTr.js}}\n<div class=\"main-line-wrap\">\n<div class=\"resp-tabs\">\n<ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">\n<li class=\"active bili-list-style\"><span class=\"tab-panel\">导入剧情</span></li><!--默认第1个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >家具剧情</span></li><!--默认第2个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >出海剧情</span></li><!--默认第3个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >彩蛋剧情</span></li><!--默认第4个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >孙策的故事</span></li><!--默认第5个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >结束剧情</span></li><!--默认第6个标签-->\n<!--想添加更多标签,可以复制上面一行-->\n</ul>\n<div class=\"resp-tabs-container\">\n<div class=\"resp-tab-content\" style=\"display:block\"><!--导入剧情-->\n='''海岛漂流·导入剧情'''=\n{{对话-头}}\n==地铺·导入剧情==\n{{旁白|【东海】}}\n{{对话|我|唔啊！船、船被漩涡吸进去了！|头像=广陵王-难受}}\n{{对话|孙策|快跳船，要是陷进漩涡里就完了！|头像=孙策}}\n{{旁白|大风卷起的巨浪不断迎头拍下，一片混乱之中，我们陷入黑暗……}}\n\n{{旁白|心理|……唔……}}\n{{对话|孙策|没事吧？快醒醒！|头像=孙策}}\n{{对话|我|哎？我们这是……|头像=广陵王-惊讶}}\n{{对话|孙策|我们的船翻了，漂流到孤岛上了……|头像=孙策}}\n\n{{对话|椰椰大王|我是这里的大岛主椰椰大王。二位的贷款打算怎么还？|头像=椰椰大王}}\n{{对话|我|什么贷款？|头像=广陵王-惊讶}}\n{{对话|瓜瓜二王|大哥，咱们好像认错人了。他们不是那几个草划。|头像=瓜瓜二王}}\n{{对话|椰椰大王|不重要，上了岛自动视为贷款买房！在欠款合约上签字。不还贷，就等着过海岛狱友会吧！|头像=椰椰大王}}\n{{嵌套分歧|头}}\n{{嵌套分歧|签|1}}\n{{嵌套分歧|不签|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孙策|能有多少钱啊，算我的。|头像=孙策}}\n{{对话|孙策|白金……贝？白金贝是啥？|头像=孙策}}\n{{对话|椰椰大王|你们该不会连一块白金贝也没有吧？|头像=椰椰大王}}\n{{对话|我|……这个岛上的货币是白金贝？|头像=广陵王-微笑}}\n{{对话|孙策|呜啊！只能还贷了！|头像=孙策}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|孙策。|头像=广陵王-严肃}}\n{{对话|孙策|哎。|头像=孙策}}\n{{对话|我|它的头，给我拧下来。|头像=广陵王-严肃}}\n\n{{对话|孙策|啊！|头像=孙策}}\n{{对话|我|哇！|头像=广陵王-难受}}\n{{对话|椰椰大王|脑袋还没我肱二头肌大的人类，居然胆敢拒绝房贷？签字！|头像=椰椰大王}}\n{{嵌套分歧|头}}\n{{嵌套分歧|签（必选项）|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孙策|能有多少钱啊，算我的。|头像=孙策}}\n{{对话|孙策|白金……贝？白金贝是啥？|头像=孙策}}\n{{对话|椰椰大王|你们该不会连一块白金贝也没有吧？|头像=椰椰大王}}\n{{对话|我|……这个岛上的货币是白金贝？|头像=广陵王-微笑}}\n{{对话|孙策|呜啊！只能还贷了！|头像=孙策}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==白金贝·导入剧情==\n{{对话|我|这就是挖白金贝的地方吗……|头像=广陵王-惊讶}}\n{{对话|孙策|沙子好松软，看我一铲子一个……嗯？谁的头盖骨啊……|头像=孙策}}\n{{对话|孙策|是之前来挖贝壳的人的吗，好多啊。|头像=孙策}}\n{{对话|我|这种时候不能多想，挖。|头像=广陵王-微笑}}\n\n{{对话|孙策|这种贝壳是你要的白金贝吗？|头像=孙策}}\n{{对话|椰椰大王|这也算有点价值的贝壳……就用这些白金贝和你们交换吧！|头像=椰椰大王}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==烹饪·导入剧情==\n{{对话|瓜瓜二王|看你们还贷也有一阵了，来介绍一下，这是我三弟！|头像=瓜瓜二王}}\n{{对话|孙策|啊，是菠菠三王。|头像=孙策}}\n{{对话|菠菠打杂|不，我叫菠菠打杂。来，这口锅给你们，岛上的牢饭……不，美食，就交给你们了。|头像=菠菠打杂}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==出海·导入剧情==\n{{对话|菠菠打杂|想获得更多食材，不如出海捞些鱼来做菜吧！|头像=菠菠打杂}}\n{{对话|孙策|好呀！总吃那几样东西，吃得嘴角都起泡了。|头像=孙策}}\n{{对话|菠菠打杂|看见那边的海龟了吗？出海可以坐在龟背上。这把锥子给你，它如果敢反抗……|头像=菠菠打杂}}\n{{对话|孙策|……这不太好吧？无冤无仇的何必呢……|头像=孙策}}\n{{对话|菠菠打杂|可笑的同情心。这座海岛可是这世上最残酷、最黑暗的所在！|头像=菠菠打杂}}\n{{对话|菠菠打杂|对了，带上这几个麻袋。飘到离岸远一些的地方，就帮我把它们推下去。|头像=菠菠打杂}}\n{{对话|我|……麻袋是不是还动了一下……|头像=广陵王-挑眉}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==种植·导入剧情==\n{{对话|椰椰大王|你拿到了种子？把万物的源头种下去吧，你会开始收获到无尽的苦恼。|头像=椰椰大王}}\n{{对话|菠菠打杂|大哥，不要突然跟人类说这样的话。我们是马喽，马喽不该思考。|头像=菠菠打杂}}\n{{对话|椰椰大王|不思考就没有烦恼，让他们一边种花，一边思考我们为什么会思考吧。|头像=椰椰大王}}\n{{对话|椰椰大王|只要按时浇水，作物就会生长，就像积压的工作一样越积越多。|头像=椰椰大王}}\n{{对话|椰椰大王|如果长出什么好东西，我会用白金贝和你交换。|头像=椰椰大王}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==人头菜·导入剧情==\n{{对话|程昱|迷人的气息……吃不到二位做的菜，吃二位种的菜也可以。我想拿白金贝收购人头菜。|头像=程昱}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==杂货商店·导入剧情==\n{{对话|椰椰大王|我最近开发了新的房产，有兴趣吗？|头像=椰椰大王}}\n\n{{对话|椰椰大王|很好！继续！人生就是对天地万物无穷无尽的债啦，哈哈哈哈！|头像=椰椰大王}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==家具商店·导入剧情==\n{{对话|瓜瓜二王|是不是有点单调？想要更多家具就来找我吧！家具商店里还有更多消费陷……啊不，好货呢！|头像=瓜瓜二王}}\n{{对话|瓜瓜二王|我店里的东西物美价廉，来路？来路很正啊，才不会是打劫鲛人族弄来的呢。|头像=瓜瓜二王}}\n\n{{对话|瓜瓜二王|回收卧榻、立灯、座椅、挂画……|头像=瓜瓜二王}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==菜肴评语==\n{{对话|菠菠打杂|有什么好吃的吗？|头像=菠菠打杂}}\n\n{{对话|菠菠打杂|足够维持基本生命体征。|头像=菠菠打杂}}\n{{对话|菠菠打杂|咦，为什么我会流泪呢？因为太好吃吗？|头像=菠菠打杂}}\n{{对话|菠菠打杂|能够死在你的锅里，是海鱼、海虾和海鸟们最大的荣幸！|头像=菠菠打杂}}\n{{对话|菠菠打杂|最高端的食材往往只需要最朴素的烹饪方式，而你，我的朋友，你就是掌握烹饪真理的厨神！|头像=菠菠打杂}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==神秘海域·海马超导入==\n{{对话|海马超|哈哈哈哈——劲啦劲啦劲啦！|头像=马超}}\n{{对话|孙策|这个奇怪的人在海上不停地游，弄出了漩涡……|头像=孙策}}\n{{对话|孙策|……三百圈了，他为什么还在游？哈哈哈——劲啦！|头像=孙策}}\n{{对话|我|不行，得干掉这家伙，不然孙策的口癖就会变成他那样！|头像=广陵王-生气}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==神秘海域·葛洪水导入==\n{{对话|葛洪水|鲛人健美的肉体，太美好了………|头像=葛洪}}\n{{对话|我|啊，葛洪好像在拼命追赶鲛人群，引发了海啸。|头像=广陵王-微笑}}\n{{对话|孙策|那是传说中的鲛人？好神奇……又叫美鱼人吧？|头像=孙策}}\n{{对话|孙策|就是上半身是鱼，下半身是人的动物……|头像=孙策}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==神秘海域·公孙珊瑚导入==\n{{对话|公孙珊瑚|哈哈哈哈哈！哈哈哈哈哈哈哈哈！|头像=公孙珊}}\n{{对话|公孙珊瑚|烧！都烧成灰吧！哈哈哈哈哈哈！|头像=公孙珊}}\n{{对话|孙策|…………………这也是你手下的密探吗？你……你招人的标准，比我还豪迈啊。|头像=孙策}}\n{{对话|我|绣衣楼就是这样的，习惯就好。|头像=广陵王-微笑}}\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\"><!--家具剧情-->\n='''海岛漂流·家具剧情'''=\n{{对话-头}}\n==地铺·棕榈叶==\n{{对话|孙策|好累啊，我先去休息一会——哎哟！|头像=孙策}}\n{{对话|我|你没事吧？|头像=广陵王-严肃}}\n{{对话|孙策|免费小床坏了！|头像=孙策}}\n{{对话|孙策|我就知道便宜没好货。没办法，去他的商店买新家具吧。|头像=孙策}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==卧榻·棕榈==\n{{对话|我|啊！棕榈床垫好舒服啊！|头像=广陵王-微笑}}\n{{对话|孙策|是啊，又松又软还好闻！|头像=孙策}}\n{{对话|孙策|好喜欢好喜欢……我要扛一张回去！|头像=孙策}}\n{{对话|我|一张？我也要一张。|头像=广陵王-微笑}}\n{{对话|孙策|我们为什么要两张床垫？|头像=孙策}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|孙策|啊啊啊是两张是两张，我、我脑子抽抽了！|头像=孙策}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==挂画·棕榈==\n{{对话|孙策|呃……|头像=孙策}}\n{{对话|我|你在干什么？|头像=广陵王-微笑}}\n{{对话|孙策|这画卖得这么贵，可是好丑。|头像=孙策}}\n{{对话|我|听说海外异族的画师崇尚技法返璞归真，甚至故意模仿孩童稚嫩笔法，以表达更加玄妙深奥的艺术境界。|头像=广陵王-微笑}}\n{{对话|孙策|但是它真的好丑啊。跟我画的差不多。|头像=孙策}}\n{{对话|我|这叫艺术！|头像=广陵王-生气}}\n{{对话|孙策|拿下来仔细看看……咦？背后有标价……十白金贝。|头像=孙策}}\n{{对话|我|什么，才十个白金贝？！|头像=广陵王-生气}}\n{{对话|孙策|奸商！那个奸商！|头像=孙策}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==立灯·海贝==\n{{对话|我|听，有歌声从灯里传出来的。|头像=广陵王-微笑}}\n{{对话|孙策|还真是……莫非是鲛人的歌声？|头像=孙策}}\n{{对话|我|这足十拍的超高音，绝非凡人可以唱出，应该是鲛人没错……怎么又停了？|头像=广陵王-微笑}}\n{{对话|鲛珠|以上是剑鱼鲛娘组合最新单曲《浪花吟》的试听，专辑购买请联系东海鲛货铺……接下来由鲛绡织坊的细腮掌柜为您带来限时特卖直播……}}\n{{对话|孙策|鲛珠，是鲛人族用来做广告的吗……小珠小珠？|头像=孙策}}\n{{对话|鲛珠|我在。}}\n{{对话|孙策|明天午时我想砍刘繇？|头像=孙策}}\n{{对话|鲛珠|好的，已为您安排日程，会在午时自动提醒您。}}\n{{对话|孙策|小珠小珠，后天午时她想登基。|头像=孙策}}\n{{对话|我|啥？！|头像=广陵王-惊讶}}\n{{对话|鲛珠|……}}\n{{对话|鲛珠|好的，已为您安排日程，自动预定未央宫午时到申时的场馆使用……}}\n{{对话|我|撤销！撤销啊！！！|头像=广陵王-生气}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==立灯·珊瑚==\n{{对话|孙策|这么一大株珊瑚树可真是难得。|头像=孙策}}\n{{对话|我|是啊，回家的时候一定记得把它带上。|头像=广陵王-微笑}}\n{{对话|孙策|带回去当衣架，你看这枝丫，能挂好多衣服呢！|头像=孙策}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|孙策|还可以当猫爬架，给仲谋养的大虎小虎爬着玩。|头像=孙策}}\n{{对话|我|…………|头像=广陵王-无语}}\n{{对话|孙策|掰下来还能用来抡人，阿香肯定喜欢。|头像=孙策}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==座椅·珊瑚==\n{{对话|我|孙策，你衣服上怎么有个树枝形状的印迹？|头像=广陵王-微笑}}\n{{对话|孙策|我看看……奇怪。这是从哪里蹭上去的？|头像=孙策}}\n{{对话|我|你刚才是不是坐过这把椅子？椅背上的珊瑚掉漆了。|头像=广陵王-微笑}}\n{{对话|孙策|珊瑚怎么会掉漆……|头像=孙策}}\n{{对话|我|除非不是珊瑚。擦一擦……|头像=广陵王-严肃}}\n{{对话|我|哇，里面居然是骨架？|头像=广陵王-惊讶}}\n{{对话|孙策|好像是巨型马喽的骷髅骨架，好帅！！！|头像=孙策}}\n{{对话|孙策|是之前马喽王的骨架吗？好酷，好帅！我喜欢！！！|头像=孙策}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==卧榻·弋猎==\n{{对话|孙策|说起来，这是什么动物的皮毛啊？是巨熊吗？|头像=孙策}}\n{{对话|我|我也在想。这座岛上真的有这么大的动物吗？|头像=广陵王-微笑}}\n{{对话|孙策|它们说的马喽王？|头像=孙策}}\n{{对话|我|难道是马喽王的皮吗？怪不得能覆盖一整张榻。|头像=广陵王-微笑}}\n{{对话|孙策|它活着的时候该有多大呀……|头像=孙策}}\n{{对话|孙策|……不管多强大的东西，最后也都会变成这样啊。|头像=孙策}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==兵器架·弋猎==\n{{对话|我|你怎么总站在兵器架前面？|头像=广陵王-微笑}}\n{{对话|孙策|这岛上没有镜子，我借兵器照照镜子。|头像=孙策}}\n{{对话|我|我也照照。刚才从奸商那边拿到了一点口脂，试试颜色。|头像=广陵王-微笑}}\n{{对话|孙策|给我也试一试。|头像=孙策}}\n{{对话|我|你试什么？|头像=广陵王-微笑}}\n{{对话|孙策|在脸上画战纹啊，看，帅不帅？|头像=孙策}}\n{{对话|我|……不要浪费我的口脂啦！|头像=广陵王-无语}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==卧榻·海贝==\n{{对话|我|趁着今天天气不错，晒晒被子和床垫吧。|头像=广陵王-微笑}}\n{{对话|孙策|交给我就好！|头像=孙策}}\n{{对话|我|床垫下面的东西是什么？就是那个圆圆的小柱子………|头像=广陵王-挑眉}}\n{{对话|孙策|按按……啊！|头像=孙策}}\n{{对话|我|呜啊！|头像=广陵王-难受}}\n{{对话|孙策|原来……原来是瑶柱……按下瑶柱会让海贝合拢……|头像=孙策}}\n{{对话|孙策|你说咱们俩挤在一个贝壳里，像不像一对儿寄居蟹啊……哈哈……|头像=孙策}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--出海剧情-->\n='''海岛漂流·出海剧情'''=\n{{对话-头}}\n==太史慈==\n{{对话|孙策|这不是太史慈嘛！你在海上做什么？|头像=孙策}}\n{{对话|我|难道是送外卖？|头像=广陵王-惊讶}}\n{{对话|太史慈|原来是二位老板啊！太疾驰刚推出了海岛代购业务，二位有需要吗？|头像=太史慈}}\n{{嵌套分歧|头}}\n{{嵌套分歧|看看现货|1}}\n{{嵌套分歧|加入生意|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|太史慈|这是商品目录，现货的话有零食美妆烟酒……|头像=太史慈}}\n{{对话|太史慈|仙器、玉玺需要异地发货，大概两天后由太疾驰海洋配送为您送货上岛。|头像=太史慈}}\n{{对话|孙策|玉玺也可以买吗？|头像=孙策}}\n{{对话|我|我们有一大笔贷款没还，奢侈品就不考虑了……|头像=广陵王-摇头}}\n{{对话|太史慈|可以分期付款啊！老板，周瑜在我们这买琴可是分了一百二十期呢。|头像=太史慈}}\n{{对话|我|……太疾驰真的能持续运营到他还完贷款吗……|头像=广陵王-无语}}\n\n{{旁白|触发出海剧情结局-看看现货}}\n{{对话|太史慈|贵客在太疾驰的购物积分已经累积一万分了，可以兑换白金贵宾尊享礼遇。|头像=太史慈}}\n{{对话|太史慈|包含太疾驰旗舰店半价优惠券、太疾驰人工服务限时免费项目体验券……|头像=太史慈}}\n{{对话|孙策|感觉没什么想要的。|头像=孙策}}\n{{对话|太史慈|还有可以实名查看匿名骂你的人，孙将军。|头像=太史慈}}\n{{对话|孙策|好！这个好！给我看看他是谁！|头像=孙策}}\n{{对话|太史慈|是□□。|头像=太史慈}}\n{{对话|孙策|这不还是打码嘛！|头像=孙策}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|我加入。|头像=广陵王-微笑}}\n{{对话|孙策|啊？|头像=孙策}}\n{{对话|太史慈|加、加入？|头像=太史慈}}\n{{对话|我|对，我和他在这凑齐两人拥有了监□和法□，可以在这座岛上成立绣衣楼分部。|头像=广陵王-点头}}\n{{对话|我|我们就以绣衣楼分部的名义加盟你的业务。这个业务前景很广，来，讨论一下业务线吧。|头像=广陵王-微笑}}\n{{对话|孙策|……等等？等等？|头像=孙策}}\n\n{{旁白|触发出海剧情结局-加入生意}}\n{{对话|太史慈|老板！这是这个月的分红！|头像=太史慈}}\n{{对话|我|噢噢，回报率不错啊！|头像=广陵王-微笑}}\n{{对话|孙策|有这些钱，我们可以在岛上盖大房子了！|头像=孙策}}\n{{对话|我|还能多盖几套，开大型度假村！|头像=广陵王-微笑}}\n{{对话|椰椰大王|两位，这是你们的税单。|头像=椰椰大王}}\n{{对话|孙策|税单？！为什么海岛上还要交税啊？|头像=孙策}}\n{{对话|椰椰大王|有收入就会有税单，这是常识。你们在自己地盘上不收税吗？|头像=椰椰大王}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|椰椰大王|汗流浃背了吧？哼。|头像=椰椰大王}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==海马超==\n{{对话|孙策|你看，海上有人在骑海马。|头像=孙策}}\n{{对话|海马超|哈哈哈哈哈哈！劲啊！|头像=马超}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|孙策|□的，为什么海上会有人骑海马……|头像=孙策}}\n{{嵌套分歧|头}}\n{{嵌套分歧|去抓海马|1}}\n{{嵌套分歧|抢他海马|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|看上去好刺激！|头像=广陵王-微笑}}\n{{对话|孙策|是啊！我也想骑骑看！|头像=孙策}}\n{{对话|孙策|我抓——哦哦哦！真的可以骑海马！|头像=孙策}}\n{{对话|我|哈哈哈——海风好舒服！|头像=广陵王-眯眼笑}}\n\n{{旁白|触发出海剧情结局-去抓海马}}\n{{对话|我|今天的海风也好舒服！|头像=广陵王-微笑}}\n{{对话|孙策|飙海马好爽，以后回了扬州我也想玩！——唔！|头像=孙策}}\n{{对话|我|呜啊……好痛！为什么海里会有一口巨大铁锅？|头像=广陵王-难受}}\n{{对话|程昱|既然二位主动撞进我锅里，那真神永不吞金，在下就笑纳了。|头像=程昱}}\n{{对话|孙策|啊啊他在锅底点火了？！好烫！|头像=孙策}}\n{{对话|程昱|不要乱动，做人最重要的就是火候……唔噗！|头像=程昱}}\n{{对话|海马超|哈哈哈哈哈劲啊哈哈哈哈——|头像=马超}}\n{{旁白|海马超骑着海马，撞上了程昱和他的铁锅，把所有人连带铁锅一起撞飞……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|孙策|你玩够了该换我们了！|头像=孙策}}\n{{对话|海马超|让开让开，要撞了——|头像=马超}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战斗胜利|1}}\n{{嵌套分歧|战斗失败|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|海马超|可恶！我徒手游也要追上你们！|头像=马超}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|海马超|哈哈哈哈——没劲了吧？|头像=马超}}\n{{嵌套分歧|内容尾}}\n\n{{旁白|触发出海剧情结局-抢他海马}}\n{{对话|海马超|孙策！今日我们就在此一绝蜀山！|头像=马超}}\n{{对话|我|是决一死战。|头像=广陵王-严肃}}\n{{对话|孙策|那一绝蜀山是什么意思？|头像=孙策}}\n{{对话|我|没有什么一绝蜀山，就是决一死战。|头像=广陵王-严肃}}\n{{对话|海马超|蜀山一绝！|头像=马超}}\n{{对话|我|……是决一死战。|头像=广陵王-严肃}}\n{{对话|孙策|什么是蜀山一绝？|头像=孙策}}\n{{对话|张修|是小道哦……|头像=张修}}\n{{旁白|所有人被巨大触手卷入海底，拼命啃才一起把触手啃断……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==吕蒙==\n{{对话|我|今天的大海好平静啊……|头像=广陵王-微笑}}\n{{对话|吕蒙|速度！激情！热血！我们的口号是——|头像=吕蒙}}\n{{对话|江东水军|铁人十八项，无敌江东行！|头像=水军甲}}\n{{对话|孙策|吕蒙？！你怎么在这里？！|头像=孙策}}\n{{对话|吕蒙|老大！嫂夫人！我们是来找你们的！|头像=吕蒙}}\n{{对话|江东水军|但是找到一半突然决定开水上竞技赛了！|头像=水军甲}}\n{{嵌套分歧|头}}\n{{嵌套分歧|一起还贷|1}}\n{{嵌套分歧|加入竞技|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孙策|有正事要你们帮忙呢，快帮我们一起挖贝壳。|头像=孙策}}\n{{对话|吕蒙|好！拿铲子来，兄弟们，挖！|头像=吕蒙}}\n\n{{旁白|触发出海剧情结局-一起还贷}}\n{{对话|菠菠打杂|这是赔偿单。|头像=菠菠打杂}}\n{{对话|孙策|九千万白金贝？！|头像=孙策}}\n{{对话|菠菠打杂|你们可是把沙滩挖到水土流失啊！|头像=菠菠打杂}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|吕蒙|稍后就是海上五公里耐力赛，要不要下场比试比试？|头像=吕蒙}}\n{{对话|我|……能坐海龟参加吗？|头像=广陵王-惊讶}}\n{{对话|吕蒙|没问题。三、二、一，开始——|头像=吕蒙}}\n{{对话|孙策|我是不会输的！|头像=孙策}}\n{{对话|我|…………就这样游远了……|头像=广陵王-无语}}\n\n{{旁白|触发出海剧情结局-加入竞技}}\n{{对话|孙策|呼，他们可真能游……|头像=孙策}}\n{{对话|我|你回来啦？|头像=广陵王-微笑}}\n{{对话|孙策|是啊！我们最远一口气游到广陵的东海码头呢！|头像=孙策}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|孙策|对哦，既然都能游回去为啥还要游回来啊？|头像=孙策}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==程昱==\n{{对话|孙策|有点饿了，要不要返程回去吃饭？|头像=孙策}}\n{{对话|我|那边有条船好像是船上食肆，去船上吃一顿？|头像=广陵王-微笑}}\n{{对话|程昱|原来是二位贵客。二位想吃点什么，要不要先看看菜单？|头像=程昱}}\n{{嵌套分歧|头}}\n{{嵌套分歧|吃|1}}\n{{嵌套分歧|不吃|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|来都来了，吃饭。|头像=广陵王-微笑}}\n{{对话|孙策|……那个，墙上的这滩血迹是？|头像=孙策}}\n{{对话|程昱|杏肉果酱。|头像=程昱}}\n{{对话|董奉|咳……咳咳……殿下……|头像=董奉}}\n{{对话|程昱|殿下，现在就要离开吗？不打个包走吗？|头像=程昱}}\n\n{{旁白|触发出海剧情结局-吃}}\n{{对话|孙策|……真的，好饿。这岛上只有这一家酒楼吗？|头像=孙策}}\n{{对话|我|要不，进去要一点点素菜吧？ |头像=广陵王-微笑}}\n{{对话|孙策|素菜吃不饱……算了，吃素菜安全一点……|头像=孙策}}\n{{对话|周瑜|你们在店门口不进去干什么？|头像=周瑜}}\n{{对话|我|你是来海岛救我们回去的吗？|头像=广陵王-难过}}\n{{对话|周瑜|是啊。不过有点饿了，吃了午饭再说吧。|头像=周瑜}}\n{{对话|孙策|等等，这家店是……啊，他进去了。|头像=孙策}}\n{{对话|周瑜|……那个，墙上的这滩血迹是？|头像=周瑜}}\n{{对话|程昱|冷酷果汁。|头像=程昱}}\n{{对话|孙策|啊，他又冲出来了……跑远了……|头像=孙策}}\n{{对话|孙策|等等？！你是不是把我们俩忘了？！喂——公瑾——喂——|头像=孙策}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|不了，我不太饿。|头像=广陵王-摇头}}\n{{对话|孙策|啊？可是这家闻起来好香……|头像=孙策}}\n{{对话|程昱|二位还没尝过招牌菜，就这样走，是不是太可惜了？|头像=程昱}}\n{{对话|孙策|招牌菜是什……唔啊！|头像=孙策}}\n{{对话|我|快、快走！他已经开始磨刀了！|头像=广陵王-生气}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战斗胜利|1}}\n{{嵌套分歧|战斗失败|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|程昱|看来是无缘了。|头像=程昱}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|程昱|真是个好日子啊。|头像=程昱}}\n{{嵌套分歧|内容尾}}\n\n{{旁白|触发出海剧情结局-不吃}}\n{{对话|我|好饿啊，偌大的东海就没有第二家海上食肆吗？|头像=广陵王-难过}}\n{{对话|孙策|我们好像又绕回来了，你看那边，是不是上次见过的大排档？|头像=孙策}}\n{{对话|我|……船头挂着“旺铺转租”？|头像=广陵王-挑眉}}\n{{对话|孙策|看来是经营不善呢。咦，里面的是不是新老板？|头像=孙策}}\n{{对话|干吉|……哦，是孙策将军呀。|头像=干吉}}\n{{对话|孙策|是你？！自己来送死，那就……|头像=孙策}}\n{{对话|我|冷静一点！这里是岛上唯一的餐馆了！|头像=广陵王-生气}}\n{{对话|孙策|对哦。那你这里主打的招牌菜是什么？|头像=孙策}}\n{{对话|干吉|我。|头像=干吉}}\n{{对话|孙策|……算了，井水不犯河水的……算了，我们快跑吧……|头像=孙策}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n\n</div>\n\n<div class=\"resp-tab-content\"><!--彩蛋剧情-->\n='''海岛漂流·彩蛋剧情'''=\n{{对话-头}}\n==配角的假期一==\n{{对话|中年西凉军|哎哟……大半年了，总算能休个年假了。|头像=西凉军丙}}\n{{对话|少年西凉军|刘三叔，这次真没我们的活？|头像=西凉军丁}}\n{{对话|中年西凉军|火洞草划放了我们一马，说这次的活动我们不用出勤……哎哟，我的腰……真得歇歇了。|头像=西凉军丙}}\n{{对话|中年西凉军|常年跑龙套的，哪次活动不出勤，哪次活动不挨打，我现在耳朵边还有幻听。|头像=西凉军丙}}\n{{对话|少年西凉军|庄家通吃推牌重开剑来哼哼哼野草啊退至我身后活着才是英雄……|头像=西凉军丁}}\n{{对话|中年西凉军|别念了别念了，这都不是你的台词。哎哟……再伸个懒腰……|头像=西凉军丙}}\n{{对话|少年西凉军|刘三叔，你说我们这样跑龙套，啥时候能成角啊？|头像=西凉军丁}}\n{{对话|少年西凉军|我昨天喊龙套台词，喊得嗓子都要废了。再这样下去，真的只能战争片里一直配龙套兵了。|头像=西凉军丁}}\n{{对话|中年西凉军|这一行就是这样，熬吧，每次选角都去试试，说不定选中了，能扛主角了，就熬出头了。|头像=西凉军丙}}\n{{对话|青年袁氏军|呼……小徐，刘叔，我回来了！|头像=袁氏士兵}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==配角的假期二==\n{{对话|青年袁氏军|嘶……海水冷死了，我关节都在疼。|头像=袁氏士兵}}\n{{对话|中年西凉军|快快快，拿热椰子油敷一敷。阿斌，你也太拼了，这次活动没我们事，你还去接活？|头像=西凉军丙}}\n{{对话|青年袁氏军|新人演员跑龙套讨生活嘛，手停口停，没办法……不然只能继续兼职送外卖了。|头像=袁氏士兵}}\n{{对话|少年西凉军|荣哥，热椰子油来了，你快把手脚泡进去暖一暖。|头像=西凉军丁}}\n{{对话|青年袁氏军|呼，呼，真暖和。对了小徐！我这次接了打杂的活，套上菠萝猩猩的玩偶服，一天能有二百钱呢！|头像=袁氏士兵}}\n{{对话|青年袁氏军|而且，而且还有特约台词了！我这次终于不是顶着袁氏府兵甲的龙套角色说“是”、“遵命”、“杀呀”了！|头像=袁氏士兵}}\n{{对话|青年袁氏军|我、我有名字了……呜……我跑了三年的龙套，第一次接到特约角色和台词……呜……哇——|头像=袁氏士兵}}\n{{对话|中年西凉军|呜……阿斌，太好了，太好了，你毕竟年轻，有希望能混出头了……|头像=西凉军丙}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==配角的假期三==\n{{对话|少年西凉军|荣哥，当特约演员是什么感觉啊？有闻岸来给你讲戏吗？|头像=西凉军丁}}\n{{对话|青年袁氏军|有有有！我还抓紧机会在它面前演了一段名场面，让它以后有特约的戏份还找我！|头像=袁氏士兵}}\n{{对话|少年西凉军|好羡慕！哪天我也可以混个有名有姓的角色，不用天天配“追上他们”、“别想跑”……|头像=西凉军丁}}\n{{对话|少年西凉军|“媚上欺下，贱人！”……啊啊！我也想说这么帅的台词！|头像=西凉军丁}}\n{{对话|少年西凉军|刘三叔，你说我带点礼物去闻岸那搞搞关系行不行啊？|头像=西凉军丁}}\n{{对话|中年西凉军|人家哪看得上你那三瓜两枣。多跑龙套多试戏，剩下的看运气。|头像=西凉军丙}}\n{{对话|中年西凉军|不然你拿了角色也撑不起来，被临场换下来可伤人了。|头像=西凉军丙}}\n{{对话|少年西凉军|那、那我去求束直草划，让我变强吧！|头像=西凉军丁}}\n{{对话|中年西凉军|你疯啦？你一个敌方小怪，拿一套黄金数值让人家卡关，你唯一的结局就是在□□被写一堆塔格比正文还长的文啊！|头像=西凉军丙}}\n{{对话|少年西凉军|那我去求玫树，把我的脸改成张郃的脸！|头像=西凉军丁}}\n{{对话|中年西凉军|不管什么脸都扛不住你这个发型的啊！|头像=西凉军丙}}\n{{对话-尾}}\n\n\n{{对话-头}}\n==配角的假期四==\n{{对话|野兽|呼……我下戏回来了。|头像=野兽}}\n{{对话|中年西凉军|你回来啦？跟你说个好消息，阿斌接到特约了！|头像=西凉军丙}}\n{{对话|野兽|真的啊？我……你等我从野兽服里出来……哎哟老刘，拉链！拉链帮我拉一下……|头像=野兽}}\n{{对话|中年西凉军|你慢点……小心脚！上次你拍攻城战摔坏了脚，还没好呢！|头像=西凉军丙}}\n{{对话|西凉军官|出来了……年纪大了，腰都不行了……|头像=副将}}\n{{对话|西凉军官|火洞草划这次说给我们放假，可是手停口停啊，没办法，接了没人想接的野兽的活……在地上趴得手腕都要断了。|头像=副将}}\n{{对话|西凉军官|阿斌呢？真替他高兴呀。唉……我跑了十年龙套了，都只拿到过两次特约呢……|头像=副将}}\n{{对话|中年西凉军|……是啊，人生啊……时也命也。|头像=西凉军丙}}\n{{对话|少年西凉军|刘三叔，杨老师！海岛落日好好看啊！|头像=西凉军丁}}\n{{对话|西凉军官|噢噢……你们去海边玩吧，玩的开心就好。|头像=副将}}\n{{对话|少年西凉军|我长这么大第一次来海岛！能接这个活真是太好了！|头像=西凉军丁}}\n{{对话|西凉军官|哈哈……玩吧，好好玩吧。年轻人就是要每天开开心心的玩嘛。|头像=副将}}\n{{对话|西凉军官|青春年少，开心是最重要的……等以后经历多了，就再也没有这样开心的日子啦……|头像=副将}}\n{{对话|中年西凉军|哈哈哈……喝酒，喝酒！管他明天会不会天塌下来呢，干杯啦！|头像=西凉军丙}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\"><!--孙策的故事-->\n='''海岛漂流·孙策的故事'''=\n{{对话-头}}\n==海岛诅咒==\n{{旁白|【海岛小屋】}}\n{{对话|椰椰大王|看见远处那个散发着不详气息的漩涡了吗？|头像=椰椰大王}}\n{{对话|孙策|没看见哎。}}\n{{对话|我|没看见。你大半夜的，能别待在别人的帐篷里吗？|头像=广陵王-无语}}\n{{对话|孙策|就是，真没眼力见。嘿嘿……我们刚刚说到哪来着？对，甜瓜！我亲手种的甜瓜！}}\n{{对话|我|我怎么没吃过？|头像=广陵王-挑眉}}\n{{对话|孙策|去年总共就养出一个大的，刚摘下来还没多看几眼呢，就被弟弟妹妹一人一半瓜分了。}}\n{{对话|椰椰大王|那个漩涡，镇压着这片海域远古的诅咒……|头像=椰椰大王}}\n{{对话|我|那今年我要尝尝！|头像=广陵王-微笑}}\n{{对话|孙策|好好好，今年一摘下来，我立刻给你送去。}}\n{{对话|椰椰大王|咳咳咳！那个诅咒……|头像=椰椰大王}}\n{{对话|孙策|今晚没有星星，但你看，这雨把沙子都浇成银白色了，多漂亮，像……像你的眼睛……}}\n{{对话|我|我的眼睛又不是银白色的。|头像=广陵王-无语}}\n{{对话|孙策|啊啊我说错了！是像你眼睛里的光！哎呀我嘴笨……}}\n{{对话|椰椰大王|那个诅咒！即将冲破漩涡……|头像=椰椰大王}}\n{{对话|我|再重新说一遍。|头像=广陵王-严肃}}\n{{对话|椰椰大王|那个诅咒……|头像=椰椰大王}}\n{{对话|我|谁问你了。孙策，快说呀。|头像=广陵王-无语}}\n{{对话|孙策|像你眼睛里的光……哈……}}\n{{对话|我|哼……|头像=广陵王-难过}}\n{{对话|椰椰大王|我还在这啊！尊重一下马喽的存在啊！能不能听一下这次的主线啊！|头像=椰椰大王}}\n{{对话|我|别吵。|头像=广陵王-无语}}\n{{对话|孙策|就是，别吵。出去。}}\n{{对话|孙策|嘿嘿……我们难得这样两人出来，好多话我原来都没想到呢，结果这几天都同你说了……}}\n{{对话|椰椰大王|诅咒啊！海底的诅咒啊！谈恋爱也尊重一下我们这些马喽的存在吧？！啊！|头像=椰椰大王}}\n{{对话|我|我可都记住了，这些话我可是要当真的。|头像=广陵王-微笑}}\n{{对话|孙策|嗯嗯！保真，保真！对啦，你饿不饿？我去烤个海鸟，我们吃着宵夜慢慢聊。}}\n{{对话|椰椰大王|那个诅咒很可怕的！你们不要不信邪啊！喂，别、别把我关在帐篷外啊！|头像=椰椰大王}}\n\n{{旁白|【一夜过去】}}\n{{对话|我|哈欠……睡得好沉。孙策，你醒了吗？|头像=广陵王-阴沉}}\n{{对话|孙策|噗……噗噗……|头像=孙策}}\n{{对话|我|孙策？你在哪？|头像=广陵王-挑眉}}\n{{对话|孙策|我噗！噗噗！噗噗！|头像=孙策}}\n{{旁白|我扒开棕榈床垫，看见下面的景象，瞬间睁大双眼——}}\n{{对话|我|啊啊啊啊啊啊啊啊啊啊啊啊——|头像=广陵王-生气}}\n{{旁白|——孙策！}}\n{{旁白|——变成，水母了！！！}}\n{{对话-尾}}\n\n{{对话-头}}\n==真爱之吻==\n{{旁白|【沙滩】}}\n{{对话|我|怎么办？！孙策变成水母了！|头像=广陵王-生气}}\n{{对话|椰椰大王|这就是那个古老的诅咒啊。话说你先把他养起来吧，他看着快脱水了……|头像=椰椰大王}}\n{{旁白|拿椰子壳和海水把水母孙策养了起来……}}\n{{对话|孙策|呼……呼……咕咚咕咚咕咚……|头像=孙策}}\n{{对话|我|瞬间喝了大半碗的水！|头像=广陵王-惊讶}}\n{{对话|孙策|想喝椰子汁噗噗……|头像=孙策}}\n{{对话|我|好！快，椰子汁……|头像=广陵王-生气}}\n{{旁白|拿椰子水继续把他养了起来……}}\n{{对话|椰椰大王|看来他被水母王子的诅咒选中了。不过诅咒也有破解之法，那就是真爱之吻。|头像=椰椰大王}}\n{{对话|椰椰大王|鲛人族的藏宝图背面写着，只要得到真爱之吻，王子的情况就会有所改变……|头像=椰椰大王}}\n{{对话|我|真爱之吻……|头像=广陵王-挑眉}}\n{{嵌套分歧|头}}\n{{嵌套分歧|毫不犹豫吻|1}}\n{{嵌套分歧|吻不下嘴|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|我闭上双眼毫不犹豫吻下去。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|……|头像=广陵王-汗颜}}\n{{对话|孙策|可、可是我的嘴巴……我努力翻过来！嘿咻……|头像=孙策}}\n{{对话|我|…………|头像=广陵王-汗颜}}\n{{对话|孙策|保持这个姿势，很、很辛苦的！噗噗噗噗……|头像=孙策}}\n{{对话|我|……………………|头像=广陵王-汗颜}}\n{{旁白|心理|……对不起，孙策……}}\n{{旁白|突然，一道灵光窜入脑海，为我揭示了未来的发展……}}\n{{旁白|把水母孙策留在帐篷里……独自出海……}}\n{{对话|我|孙策！我回来啦！|头像=广陵王-微笑}}\n{{对话|程昱|啊，殿下回来了？|头像=程昱}}\n{{对话|程昱|我正在做凉拌海蜇，殿下要来尝一口吗？|头像=程昱}}\n{{对话|我|………………………………哎？|头像=广陵王-惊讶}}\n{{对话|我|啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！！！！|头像=广陵王-生气}}\n{{旁白|我把头埋入椰子碗里，亲了上去——}}\n{{嵌套分歧|内容尾}}\n{{旁白|心理|唔，黏黏糊糊……}}\n{{旁白|噗叽！}}\n{{对话|我|……啊……|头像=广陵王-惊讶}}\n{{对话|我|噗？噗噗？|头像=广陵王-生气}}\n{{对话|孙策|噗噗？|头像=孙策}}\n{{旁白|心理|□□！为什么我也变成水母了啊？！！！！}}\n{{对话|椰椰大王|只说了情况会改变，没说会变回人啊。|头像=椰椰大王}}\n{{对话|椰椰大王|再说一起变成水母不就能在一起了吗？确实是真爱之吻应该有的效果……|头像=椰椰大王}}\n{{对话|我|到哪里去找鲛人族？！我们必须变回来！|头像=广陵王-生气}}\n{{对话|孙策|呼……这样在水里游来游去好舒服啊，水母碰碰！|头像=孙策}}\n{{对话|我|不要水母碰碰了啊！现在情况很紧急，鲛人族到底……|头像=广陵王-无语}}\n{{对话|我|呼……真的好舒服，水母碰……|头像=广陵王-微笑}}\n{{对话|孙策|碰碰！|头像=孙策}}\n{{对话|我|不要碰了啊！鲛人族到底在哪里？！！|头像=广陵王-生气}}\n{{对话|椰椰大王|就在……|头像=椰椰大王}}\n{{对话|太史慈|太疾驰，太及时！客人点的海岛配送……咦？是不是有什么东西被撞飞了？}}\n\n{{旁白|【天空】}}\n{{对话|我|唔啊——|头像=广陵王-生气}}\n{{对话|孙策|呼啊——|头像=孙策}}\n{{旁白|装我们的椰子碗被太史慈撞飞上天，阳光下，我和孙策划出一道长长的弧线，扑通落入海中……}}\n{{对话-尾}}\n\n{{对话-头}}\n\n==小鲛人鱼==\n{{对话|我|咕噜噜噜……呕——|头像=广陵王-难受}}\n{{对话|孙策|头好晕，我们落到海里了？|头像=孙策}}\n{{对话|我|是啊……先找到鲛人族吧，鲛人肯定在海里。|头像=广陵王-点头}}\n{{对话|孙策|海里好大啊！嘿嘿……水母碰碰！|头像=孙策}}\n{{对话|我|碰碰！……啊，变成水母之后，感觉心境都变了呢……|头像=广陵王-微笑}}\n{{旁白|我们朝深海游去，一前一后。}}\n{{对话|孙策|大海那么大，真的找得到鲛人族吗？|头像=孙策}}\n{{对话|我|只能先找找看了，不然总不能一辈子当水母吧？|头像=广陵王-微笑}}\n{{对话|孙策|对对对，我先去前面探路！可能会有危险……|头像=孙策}}\n{{旁白|孙策划远了……}}\n{{旁白|孙策又划回来了。}}\n{{对话|孙策|跑跑跑有鲨鱼跑跑跑——|头像=孙策}}\n{{对话|我|咕噜噜噜——|头像=广陵王-生气}}\n{{旁白|暗处冲出一头巨鲨。我们根本来不及躲避，被卷入它掀起的水流中，飞快旋转了无数圈……}}\n\n{{对话|我|……唔……|头像=广陵王-阴沉}}\n{{对话|孙策|噗噗……你醒了？我们的脚都打死结缠在一起了。}}\n{{对话|我|这是哪？|头像=广陵王-挑眉}}\n{{对话|孙策|我也刚醒……啊，这里好像是皇宫哎？！难道是传说中的鲛人领地？}}\n{{对话|我|可是附近没有人的样子……该去哪里呢……|头像=广陵王-挑眉}}\n{{对话|孙策|找不到人也没关系，先当一段时间的水母嘛！多休几天假。}}\n{{对话|孙策|这样一起游来游去，其实也挺好玩的……}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|孙策|你……想回去吗？休假时候心事不要那么重嘛……}}\n{{对话|我|我们不是休假，是意外被冲到海岛上来的，楼里还要筹办除夕年会排节目呢。|头像=广陵王-摇头}}\n{{对话|孙策|排节目？我家就一个节目，黄盖伯伯诗朗诵。}}\n{{对话|我|……这个节目有和没有的差别在哪？|头像=广陵王-无语}}\n{{对话|孙策|啊？很精彩的，声情并茂、震撼人心。}}\n{{对话|我|说起来我一直想问，孙家人是怎么听懂他的话的……|头像=广陵王-微笑}}\n{{对话|孙策|就是默契嘛。你静下心，说不定也能听见……}}\n{{对话|我|静下心……|头像=广陵王-无语}}\n{{对话|？？？|呜呜……呜呜……王子……}}\n{{旁白|心理|有谁的哭声？}}\n{{旁白|我们看向宫外的珊瑚礁的暗处。一个奇怪的人影正躲在阴影下，不断抽泣……}}\n{{对话|我|那个，请问你是……|头像=广陵王-微笑}}\n{{对话|小鲛人鱼|啊，我……我是鲛人族的公主……呜呜……|头像=小鱼}}\n{{对话|我|你……你该不会也想吃凉拌海蜇吧……|头像=广陵王-汗颜}}\n{{对话|小鲛人鱼|那种平民食品我才不会吃。|头像=小鱼}}\n{{对话|小鲛人鱼|呜呜……王子……呜吗……|头像=小鱼}}\n{{旁白|我们游近了些，看见了哭泣的公主……}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|小鲛人鱼|呜……你们是来看我的笑话的吗……|头像=小鱼}}\n{{对话|孙策|那个，你是鲛人的公主？|头像=孙策}}\n{{对话|小鲛人鱼|有什么问题吗？|头像=小鱼}}\n{{对话|我|为什么上半身是鱼下半身是人？|头像=广陵王-挑眉}}\n{{对话|小鲛人鱼|你再带有这种物种刻板印象我就向海洋鱼权协会投诉把你们做成凉拌海蜇。|头像=小鱼}}\n{{对话|我|啊！鲛人鲛人，鲛字在前，就应该是鱼头人腿嘛！是不是！|头像=广陵王-生气}}\n{{对话|孙策|是是是！这鱼头真是……真是貌美如花！|头像=孙策}}\n{{旁白|我用触腕戳了戳孙策，慢慢游近了她。}}\n{{对话|我|美丽的公主啊，我们身上背负了鲛人族的诅咒……|头像=广陵王-微笑}}\n{{对话|小鲛人鱼|你们的事优先级很高吗？|头像=小鱼}}\n{{对话|孙策|……我好不爽啊。我当人的时候除了袁术没人敢这么跟我说话……|头像=孙策}}\n{{对话|我|嘘、嘘，忍一忍，忍一忍……|头像=广陵王-严肃}}\n{{对话|我|咳，那个，不知公主有何事忧心？如果我们能替你解开烦恼，是不是能替我们解开诅咒？|头像=广陵王-微笑}}\n{{旁白|她用左边的鱼眼看了我们一眼，又埋头大哭。}}\n{{对话|小鲛人鱼|前段时间，我救了一位溺水的南越王子……|头像=小鱼}}\n{{对话|小鲛人鱼|我对他一见钟情，他俊美得好像一条胖头鱼……我陪伴着昏迷的他，一直用歌声在安抚他……|头像=小鱼}}\n{{对话|孙策|什么歌声这么好听？|头像=孙策}}\n{{对话|小鲛人鱼|大河向东——|头像=小鱼}}\n{{对话|我|别唱了再唱会有风险的。好了，接着说吧。|头像=广陵王-严肃}}\n{{对话|小鲛人鱼|他醒了过来，看清了我的脸……然后头也不回地走了……呜呜……呜哇——|头像=小鱼}}\n{{对话|孙策|想象了一下王子的第一视角……也不是不能理解……|头像=孙策}}\n{{旁白|她用右边的鱼眼看了我们一眼。}}\n{{对话|小鲛人鱼|凉拌海蜇……|头像=小鱼}}\n{{对话|我|渣男！不懂欣赏的渣男！公主，我们替你讨回公道，至于这个诅咒……|头像=广陵王-微笑}}\n{{对话|小鲛人鱼|嗯，我会替你们解开的。|头像=小鱼}}\n{{对话|我|好，那就包在我们身上！他的船只现在在哪？我们立刻就去！|头像=广陵王-点头}}\n{{对话-尾}}\n\n{{对话-头}}\n\n==一盅两件==\n{{Quote|【一盅两件】：意指喝早茶；<br>【白天鹅】：广州当地一家很出名且价格较贵的茶楼。<br><br>\n<small>粤语试翻译：代号鸢bWiki编辑部<br>以下部分节目内容可能涉及不当成分，敬请殿下指引。<br>（如有不当之处，欢迎殿下在评论区指教）</small>|<sub>代号鸢bWiki编辑部</sub><sup>[[File:微博头像.png|40px|none]]</sup>|middle=true|标题=一盅（壶）茶，两件（碟）点心<br>}}\n{{旁白|【白天鹅号】}}\n{{对话|孙策|扑腾、扑腾……|头像=孙策}}\n{{对话|我|扑腾、扑腾……|头像=广陵王-微笑}}\n{{对话|孙策|嘿嘿……水母压顶！|头像=孙策}}\n{{对话|我|唔啊滑下去了！|头像=广陵王-生气}}\n{{对话|孙策|唔啊啊抓住我的触腕！嘿咻……好险，差点从甲板上滑下去。|头像=孙策}}\n{{对话|我|嘘，有人来了。|头像=广陵王-严肃}}\n{{旁白|伴随着脚步声，几个侍从推着小推车走了过去，推车上堆满蒸笼。}}\n{{对话|侍从|{{注音|老细要果滴虾饺啊牛丸啊鱼粥啊同埋糯米鸡，掂晒。|老板要那些虾饺啊牛丸啊鱼粥啊和糯米鸡，就这么多了。}}|头像=侍从}}\n{{对话|侍女|{{注音|嗯，趁热啦，我地都去食个踢。|嗯，趁热啦，我们也去吃个早茶。}}|头像=宫女}}\n{{对话|我|孙策，孙策，我有办法了！|头像=广陵王-生气}}\n\n{{旁白|【蒸笼】}}\n{{对话|孙策|好热好热好热！|头像=孙策}}\n{{对话|我|就当蒸桑拿了。好热好热好热……|头像=广陵王-难过}}\n{{对话|孙策|嘿嘿……这样窝在一起好舒服，都不想变回去了。|头像=孙策}}\n{{对话|我|不行啦我不要当海蜇王！|头像=广陵王-生气}}\n{{旁白|突然，盖子开了——}}\n\n{{旁白|【海岛】}}\n{{对话|王子|{{注音|咩啊？点解有兜凉拌海蜇架？|什么啊？为什么有碗凉拌海蜇呀？}}|头像=黑人影}}\n{{对话|侍从|{{注音|有得食就食啦，嫩口啊。|有得吃就吃啦，鲜嫩可口啊。(得:可以)}}|头像=侍从}}\n{{对话|王子|{{注音|唔得喔，海蜇要落白醋同香菜架嘛。|不行噢，海蜇要下白醋和香菜才行的嘛。}}|头像=黑人影}}\n{{对话|侍从|{{注音|呢边就系食生既，老细你睇下，好弹牙架。|这边就是吃生的，老板你看下，好弹牙的。}}|头像=侍从}}\n{{对话|我|孙策！|头像=广陵王-生气}}\n{{对话|孙策|噗——|头像=孙策}}\n{{旁白|我们从盘子里跳起，疯狂拍打王子的左右脸——}}\n{{对话|王子|{{注音|救命啊，海蜇识打人啊！|救命啊，海蜇会打人啊！}}|头像=黑人影}}\n{{对话|我|为什么、对公主、始乱终弃？！|头像=广陵王-生气}}\n{{对话|王子|{{注音|你讲咩啊，你帮下手啊，唔好斋睇我被条海蜇打先得架！|你说什么啊，你帮下手啊，不要只是看着我被这条海蜇打呀！}}|头像=黑人影}}\n{{对话|侍女|{{注音|条海蜇好楞生猛喔。|这条海蜇好生猛噢。（楞：非常，程度副词；生猛：很凶猛）}}|头像=宫女}}\n{{对话|孙策|就算是半条鱼那也是付出真心的！好歹也要说清楚啊！|头像=孙策}}\n{{对话|王子|{{注音|因为距系花鲢，花鲢腥啊嘛，做鱼生唔正架，炖汤食得多又热气！|因为它是花鲢，花鲢腥的嘛，做鱼生不好吃的，炖汤吃得多又热气！（热气：上火）}}|头像=黑人影}}\n{{对话|侍从|{{注音|查实，加翻滴石斛同海带米得咯。|其实，加回点石斛和海带不就行啰。}}|头像=侍从}}\n{{对话|侍女|{{注音|妖，麻鬼烦。|咦，真麻烦。（鬼：非常，程度副词）}}|头像=宫女}}\n{{旁白|我们一路扇一路追，从船舱把人扇到了甲板……}}\n{{对话|我|把他扇下海，去见公主说清楚！这样一来，我们身上的诅咒就能解开了！|头像=广陵王-生气}}\n{{对话|孙策|水母碰碰——|头像=孙策}}\n{{旁白|哗啦一声，王子被我们的水母脑袋撞下了大海……}}\n{{对话|小鲛人鱼|王子！是你吗王子！|头像=小鱼}}\n{{对话|我|是的是的！人送来了……|头像=广陵王-点头}}\n{{旁白|我话音未落，一根触手从暗处伸来，卷住王子的腰，拖入珊瑚礁的阴影中，嚼巴嚼巴吃了。}}\n{{对话|王子|{{注音|乜鬼野啊，顶你个肺啊！|什么鬼东西啊，□□□□啊！（顶你个肺：脏话，此处表王子十分愤怒）}}|头像=黑人影}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|孙策|……|头像=孙策}}\n{{旁白|吃饱喝足，公主的身影从珊瑚礁后探了出来，打了个饱嗝。}}\n{{对话|小鲛人鱼|还是南越人好吃。|头像=小鱼}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|小鲛人鱼|吃饱了……突然想吃点凉拌菜……|头像=小鱼}}\n{{对话|孙策|那个……|头像=孙策}}\n{{对话|我|那个……|头像=广陵王-汗颜}}\n{{对话|孙策|跑啊——跑跑跑——|头像=孙策}}\n{{旁白|我们没命似的游，躲避身后袭来的巨大触手——}}\n{{对话|孙策|那个——如果今天我们被做成凉拌海蜇了，也算永远在一起了！|头像=孙策}}\n{{对话|我|不要凉拌海蜇啊——|头像=广陵王-生气}}\n{{对话|孙策|呜呜——我、我只要能和你在一起，被凉拌也无所谓！|头像=孙策}}\n{{对话|孙策|就是希望少加点辣少加点蒜……|头像=孙策}}\n{{对话|小鲛人鱼|凉拌海蜇怎么能免辣免蒜？！！|头像=小鱼}}\n{{对话|孙策|呜呜我别无所求了！就一个请求能不能把我和她拌在一起——|头像=孙策}}\n{{对话|我|孙策！前面是——|头像=广陵王-生气}}\n{{对话|孙策|是那种会放电的七星子鱼？！|头像=孙策}}\n{{旁白|滋滋滋——}}\n{{旁白|心理|唔啊啊啊！}}\n\n{{对话|我|……呃……|头像=广陵王-微笑}}\n{{对话|孙策|……呃……啊！我们回来了！}}\n{{对话|我|太好了！没有变成凉拌海蜇！|头像=广陵王-微笑}}\n{{对话|椰椰大王|你们破除了第一重诅咒……|头像=椰椰大王}}\n{{对话|孙策|水母碰碰！——啊！}}\n{{对话|我|你忘了现在脑袋是硬的了吗？好痛！|头像=广陵王-无语}}\n{{对话|椰椰大王|……第二重诅咒是……|头像=椰椰大王}}\n{{对话|孙策|好可惜，我还想一起在海里多飘一会呢。一起飘来飘去，无忧无虑的。}}\n{{对话|我|在沙滩边一起手拉手也行呀。|头像=广陵王-微笑}}\n{{对话|孙策|……我怕我拉你拉得太紧，你会不舒服……}}\n{{对话|椰椰大王|咳咳！第二重诅咒……别走！别走啊！|头像=椰椰大王}}\n{{对话|我|今天的海风好吵呀。|头像=广陵王-微笑}}\n{{对话|孙策|和马喽和海鸟的叫声混在一起，也很舒服呀。}}\n{{对话|椰椰大王|等等！我不是背景音啊！喂――喂——|头像=椰椰大王}}\n{{旁白|夕阳下，我们手拉着手，沿着金色的落日沙滩，渐渐走远……}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--结束剧情-->\n='''海岛漂流·结束剧情'''=\n{{对话-头}}\n{{对话|孙策|那里……好像是江东水军的踪迹？|头像=孙策}}\n\n{{对话|孙策|我真的看见江东的信号了！喂——我们在这里——|头像=孙策}}\n\n{{对话|吴夫人|哎呀！你们俩怎么在这？|头像=吴夫人}}\n{{对话|我|吴夫人？！为什么来的是吴夫人？|头像=广陵王-惊讶}}\n{{对话|孙策|母亲！你是来接我们回家的吗？|头像=孙策}}\n{{对话|吴夫人|啊？我来海岛度假的。公瑾他们介绍的这个小岛，说岛上度假村建设很完备。|头像=吴夫人}}\n{{对话|孙策|……是我们盖的啦！我还以为要一辈子都困在这座孤岛上了！|头像=孙策}}\n{{对话|吴夫人|有什么关系！就当是度假嘛！|头像=吴夫人}}\n{{对话|吴夫人|好了好了，反正船也来了，想回去随时都能回去，放心吧！|头像=吴夫人}}\n{{对话-尾}}\n</div>\n</div>\n</div>\n</div>\n<center><a href=\"#top\">回到顶部</a></center>"
+}

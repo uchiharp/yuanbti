@@ -1,0 +1,126 @@
+[
+  {
+    "id": "q_shizimiao_1",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "史子眇",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "史子眇对广陵王说：「……我很累了……要让『史子眇』这个自我存在，已经……耗尽所有的力气了。」又说：「法虽无情，可是你作为上位者，也可法外容情。」他一边以仙人的身份示人，一边在暗处为孩子们操心。面对一个始终在扮演坚强的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接问他在担心什么，让他不用装",
+        "scores": {
+          "S4": 2,
+          "S1": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不拆穿他的面具，但默默在行动上帮他分担",
+        "scores": {
+          "S4": 3,
+          "S1": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "配合他的表演，维持他想要的体面和距离",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "史子眇的回答：「你们尽力而为便好，我最在意的，还是大家的安危。」他选择独自承受，不让孩子们看到他的疲惫。"
+  },
+  {
+    "id": "q_shizimiao_2",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "story_anon",
+    "source_character": "史子眇",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说：「他并未毁坏棺椁，只是取走些陪葬。泉下有知，亦会宽恕他的。」明明是自己的好友被盗墓，他却替盗墓者说话，甚至在墓室里烤点心给大家吃。你会如何看待这个人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "他一定很难过，只是不想让人担心",
+        "scores": {
+          "S4": 2,
+          "S2": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "他是真的看开了，或者至少在努力看开",
+        "scores": {
+          "S4": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "心里越是痛的人，笑得越开心，别被他的笑容骗了",
+        "scores": {
+          "S4": 4,
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是史子眇在好友小石的墓前说的话。他用老君鼎炉烤点心，替盗墓者求情——「毕竟，他若是死了，他的家人也失了依靠。」"
+  },
+  {
+    "id": "q_shizimiao_3",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「世道煎熬，众生皆苦。法度，或是解药，抑或是剧毒……」以下哪句话更接近你对「规则与人心」的看法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "法外有情，规矩是死的，人是活的",
+        "scores": {
+          "S6": 4,
+          "S10": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "法要守，但执行时可以灵活一些",
+        "scores": {
+          "S6": 3,
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "法就是法，开了口子就再也收不回来",
+        "scores": {
+          "S6": 2,
+          "S10": 2.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "史子眇对广陵王说：「法虽无情，可是你作为上位者，也可法外容情。」他相信在规则之外，还有人情的位置。"
+  }
+]

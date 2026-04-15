@@ -1,0 +1,2682 @@
+{
+  "title": "桃源温泉山庄/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "七星子鱼",
+    "严白虎",
+    "众人",
+    "傅融",
+    "华佗",
+    "史子眇",
+    "吕蒙",
+    "周瑜",
+    "周鱼",
+    "哔哥",
+    "夏侯惇",
+    "孙尚香",
+    "孙权",
+    "小乔",
+    "干吉",
+    "庞统",
+    "张仲景",
+    "张修",
+    "张角",
+    "张辽",
+    "张飞",
+    "张鲛",
+    "张鲱",
+    "我",
+    "文丑",
+    "杨修",
+    "王异",
+    "王粲",
+    "离魂·葛洪",
+    "绣球",
+    "荀彧",
+    "荀鱼",
+    "萨斑斑甲鱼",
+    "葛洪",
+    "蔡琰",
+    "许攸",
+    "许曼",
+    "贾诩",
+    "郭嘉",
+    "郭解",
+    "阿蝉",
+    "陆绩",
+    "陆逊",
+    "陈登",
+    "颜良",
+    "飞云",
+    "鲁肃"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修",
+      "emotion": "欢迎贵客光临桃源温泉山庄，快请入内吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "傅融，这就是你为半周年团建安排的温泉山庄？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "就是这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "荒郊野岭的温泉山庄，零条顾客评价，零次顾客打星……靠谱吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "新的温泉，没人评价很正常。很多同城平台的商铺打分都是虚高，不一定是真实反映。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "你不觉得这里有点阴森吗，我们要不要临时换一家？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "时间来不及了。先进去吃个午饭吧，实在不行就……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "傅融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……傅融？阿蝉？小丹？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "等等，怎么都不见了？大家都去哪了？飞云，你有见到其他人去了哪吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=飞云",
+      "emotion": "嗷呜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "飞云，慢一点，别直接冲进去——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "离魂·葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "没有肉体好别扭……总觉得缺了些什么……很重要的东西不见了，不见了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "离魂·葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "小仙能感觉到那东西就在附近，就在附近……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "离魂·葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "还差一个，小仙就能重新拥有肉体了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "离魂·葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "只差最后一个了，帮帮小仙嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "呼呼，在休沐日还要被组织拉来团建的人类都已经失去斗志、变成我们的同类呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "好像只有小动物还可以活动自如呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "有个白色的东西闪过去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "温泉，美人，好多美人——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "（冲进了一处浴池）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "（被池子里的离魂打飞出来）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=飞云离魂",
+      "emotion": "汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "狗狗美人——啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……它绊倒了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "（圆滚滚的，所以弹出去很远）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "（越弹越远、越弹越远，弹进了另一处浴池）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪离魂",
+      "emotion": "唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "又被那个池子里的离魂打飞出来了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=杨修离魂",
+      "emotion": "娘……找不到娘了……找不到了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=杨修离魂",
+      "emotion": "一定是我的头冠变矮了，娘找不到我了……把它拔长……拔长……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=杨修离魂",
+      "emotion": "（想伸手拔头冠，但手太短够不到）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=杨修离魂",
+      "emotion": "（好像没意识到短手够不到头冠，还在努力拔）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊，一直在拔自己的头冠，一直在往上飞……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=杨修离魂",
+      "emotion": "到了这个高度，没人比本公子高了！哈哈哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=杨修离魂",
+      "emotion": "唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "给我下来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=杨修离魂",
+      "emotion": "（被我用竹竿戳了下来）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=蔡琰离魂",
+      "emotion": "温泉……陷阱……怎么会有人用温泉做陷阱呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=蔡琰离魂",
+      "emotion": "不，一定是陷阱……我不会上当的……不会的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "它泡进温泉里，敷起黏土面膜了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "琰女公子，你没事吧？要喝些茶醒醒神吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=蔡琰离魂",
+      "emotion": "啊啊！把诡异气息的茶叶陶罐拿开！我……我要窒息了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=蔡琰离魂",
+      "emotion": "（伸手捏住鼻子）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=蔡琰离魂",
+      "emotion": "（因为手太短够不到鼻子）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=蔡琰离魂",
+      "emotion": "（突然想起来自己没有鼻子，变得很生气……）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=蔡琰离魂",
+      "emotion": "不，我要活下去，先下手为强！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽离魂",
+      "emotion": "吃饭，按时吃饭……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉离魂",
+      "emotion": "（飘到左边躲着）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽离魂",
+      "emotion": "死孩子，不许挑食，吃饭，吃饭……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉离魂",
+      "emotion": "（飘到右边躲着）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "两只一直在转圈圈，看久了有点头晕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽离魂",
+      "emotion": "（飘着追阿蝉要喂章鱼）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉离魂",
+      "emotion": "（飘着绕圈躲）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽离魂",
+      "emotion": "有人来了……吃点心，吃点心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "这个点心好像是水池里的活章鱼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽离魂",
+      "emotion": "不许挑食！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽离魂",
+      "emotion": "（用短手拼命地戳我）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉离魂",
+      "emotion": "（跟着戳戳）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……有好多泥巴捏的小羊排在火堆边……有人在烤小泥巴羊吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=王异离魂",
+      "emotion": "烤羊肉……好香……烤羊肉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这都是异姐捏的吗？好可爱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=王异离魂",
+      "emotion": "你……你是来抢我的烤羊肉的吗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "泥巴羊都烧成陶土羊了，好可爱……拿一个。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=王异离魂",
+      "emotion": "不许抢我的烤羊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=王异离魂",
+      "emotion": "（想抢回陶羊，但是手太短，够不到）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=庞统离魂",
+      "emotion": "小考……随堂考……周考……月考……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "哔哥",
+      "text": "绣球……绣球……绣球……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=庞统离魂",
+      "emotion": "排名……升学……实习……表演节目……啊啊……呜呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "离魂后感觉也很乖呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=庞统离魂",
+      "emotion": "哈哈……你是来把我抓回去的吗……我不要变回去……哈哈……我不要办公务……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=庞统离魂",
+      "emotion": "不要把我抓回去啊啊啊！我、我真的会打你的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=庞统离魂",
+      "emotion": "（但也不敢打人，只敢拿短手拍打空气）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "好大的味道，前边着火了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇离魂",
+      "emotion": "咳咳……咳咳……桂花糕……桂花糕……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇离魂",
+      "emotion": "不会炸……不会炸……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "就算离魂了，还想着做饭吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇离魂",
+      "emotion": "营养均衡，白白胖胖……米粉加进去……蔬菜加进去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇离魂",
+      "emotion": "咦？刚才是不是顺手把水银加进去了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈，你在用什么做饭……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇离魂",
+      "emotion": "是小星星哟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……星星？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "是厌星触器？！要炸了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=夏侯惇离魂",
+      "emotion": "好难看……不能出门了，好惭愧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=夏侯惇离魂",
+      "emotion": "呜……肯定会吓到大家，比鬼还要可怕……嗯？可是我已经是鬼了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=夏侯惇离魂",
+      "emotion": "（努力想捂住眼罩，但手太短掩不住）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "夏侯将军，请不要再撞石头了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=夏侯惇离魂",
+      "emotion": "……磨砺……历练……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=夏侯惇离魂",
+      "emotion": "（拼命拿头在撞石头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=夏侯惇离魂",
+      "emotion": "（因为是软噗噗的形态，被反弹了，弹出去好远）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=夏侯惇离魂",
+      "emotion": "（继续跑回来撞石头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不要再撞石头了，没事的，没有人怪你的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "三千三百三十一，三千三百三十二……三千三百三十八……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "严白虎……在瀑布底下倒立……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "嗷呜！强筋健骨，瀑布修炼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "可是你现在没有骨头了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "对哦！我现在没有骨头了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "变得软呼呼的，我应该叫严白呼……可以给丝人心太太跳弹弹应援舞了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "（滑进了瀑布，被水冲走了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "咕噜噜噜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "（被越冲越远）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "咕噜噜噜噜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎离魂",
+      "emotion": "（被冲到了很远的地方）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "等等真的被冲走了啊？！你会飘啊！快飘回来啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "飞云，这个坑是你挖的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "嘿咻……嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "坑里是陆绩啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "地道……要准备地道……嘿咻！嘿咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "到底能挖多深……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "嘿咻嘿咻嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "陆绩，别挖了，上来吧，我送你回身体里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "坑挖深点，可以掩埋罪证、解决敌人、湿垃圾处理……嘿咻嘿咻嘿咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……越挖越深了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "陆绩别挖了，我好像看见你把地底的触角挖出来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "（努力往回爬）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "（手太短爬不快，被触手卷住）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "（因为太小只，没被卷住，弹了出来）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "接住你了。唔啊真的好小只！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩离魂",
+      "emotion": "我不是小鬼了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "好大一座鱼骨山啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登离魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "不愧是陈登，果然一直都在钓鱼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登离魂",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……似乎进入了钓鱼佬的入定状态啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登离魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "不管怎么戳都没有反应……陈登？陈登？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登离魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "就算抱起来头朝下也没有反应……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "晃晃……抖抖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登离魂",
+      "emotion": "（发出墩昂墩昂的弹性声）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "这样都没有反应？！扯一下鱼线试试……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登离魂",
+      "emotion": "咬钩了！！！！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "唔啊啊瞬间醒了！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这里好像是专门煮温泉蛋的池子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "池子里泡满了鸡蛋……嗯？有两颗蛋浮起来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗离魂",
+      "emotion": "不要洗我的斧头！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景离魂",
+      "emotion": "（努力拿水去浇华佗的小斧头，但够不到）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景离魂",
+      "emotion": "一百……一百一十……二百……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗离魂",
+      "emotion": "鸡蛋！咕噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗离魂",
+      "emotion": "（被张仲景摁进水里）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景离魂",
+      "emotion": "二百一十……二百二十……二百六十……好了。熟了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗离魂",
+      "emotion": "熟鸡蛋！咕噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗离魂",
+      "emotion": "（被张仲景摁进水里）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景离魂",
+      "emotion": "先剥壳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景离魂",
+      "emotion": "（拿起一颗鸡蛋，想敲）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景离魂",
+      "emotion": "（发现手太短，手里的鸡蛋敲不到石头上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "……我来帮前辈吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗离魂",
+      "emotion": "是抢鸡蛋的人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小乔",
+      "text": "头像=小乔离魂",
+      "emotion": "爹爹……爹爹不见了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小乔",
+      "text": "头像=小乔离魂",
+      "emotion": "爹爹去哪了……这里好黑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我把灯笼点亮啦，快到我这里来，我送你回身体里去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小乔",
+      "text": "头像=小乔离魂",
+      "emotion": "啊！谁？……好像是让人安心的人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小乔",
+      "text": "头像=小乔离魂",
+      "emotion": "（小心翼翼凑了过来）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小乔",
+      "text": "头像=小乔离魂",
+      "emotion": "……你能碰到东西吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "可以呀，你想要什么？纸和笔吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小乔",
+      "text": "头像=小乔离魂",
+      "emotion": "（用力点了几下头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "变成离魂了还记得赶稿吗……最近在写什么呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小乔",
+      "text": "头像=小乔离魂",
+      "emotion": "柿子和白瓜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……好像因为变成了圆滚滚的离魂，导致写的主角也变成了圆滚滚的主角了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "从刚刚就感觉……好像被盯着，视线是从头顶传过来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "郭解前辈在树上……前辈，能听见我说话吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解离魂",
+      "emotion": "没有耳朵，听不见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……明明就能听见吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解离魂",
+      "emotion": "好轻……好轻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "毕竟是离魂状态嘛。说起来，只有少数几个人离魂后还能保持理智和记忆的呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我泡温泉泡得好热，前辈，无君借我吹一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……好清凉……能把无君再开大点吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解离魂",
+      "emotion": "好的。无君，转快一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "呼——好舒服！前辈，你要不要……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……前辈？前辈？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解离魂",
+      "emotion": "（因为太轻，被无君吹走不见了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "别动。买画。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "不买，你现在有本事挑飞我啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "（拿纸给自己画了条假舌头，贴在脸上对我做鬼脸）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "这个，我的画，卖掉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "画在沙滩上的画啊……可是没法保存啊。你看水浪拍过来，就只剩半幅了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "（很执着地继续在沙滩上画了一幅）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "买一幅，买一幅……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不、要。瞧，又被冲没了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "（气得在水边乱跳）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "（越来越气，想把我挑飞）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞离魂",
+      "emotion": "（太用力了，自己用力过度飞了出去）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊，飞到水里了……被冲走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好像有个粉红扑棱蛾子在水里扑腾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙离魂",
+      "emotion": "摘莲花！摘莲花！给姐姐摘很多很多莲花！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙离魂",
+      "emotion": "陆逊你帮我看着，别让莲花飘远了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊离魂",
+      "emotion": "衣服……风纪……衣服……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊离魂",
+      "emotion": "（总觉得自己没穿衣服，一直缩在水里，拿荷叶往自己身上裹）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙离魂",
+      "emotion": "莲花！莲花飘到你那边去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "要我帮你把它们弄回去吗？但你要乖乖跟我回去，回身体里去哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙离魂",
+      "emotion": "不要！这样好爽，轻飘飘的……我、我给你摸我的胸肌好不好？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙离魂",
+      "emotion": "（鼓——了起来）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙离魂",
+      "emotion": "（很鼓，但完全是个球体）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "胸肌在哪里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙离魂",
+      "emotion": "陆逊！陆逊你帮我画几块胸肌！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊离魂",
+      "emotion": "衣服穿上……衣服穿上……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊离魂",
+      "emotion": "（给吕蒙胸前贴了一大片荷叶）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香离魂",
+      "emotion": "走啊走啊出来玩啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权离魂",
+      "emotion": "不要……安静一会……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "阿香在外面，孙权躲在石头的缝隙里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香离魂",
+      "emotion": "是可爱狗狗！孙权出来玩嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权离魂",
+      "emotion": "……我不要……你在我衣服上乱画……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "变成这样，本来也没有穿衣服吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权离魂",
+      "emotion": "（往石头缝隙更深处挤）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香离魂",
+      "emotion": "（往缝隙里塞了什么，飞快躲到我身后）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "嗯？你塞了什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香离魂",
+      "emotion": "炸药。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "鱼、鱼王被钓起来了！巫姑渡水征战时才会出现的战兽鱼王，被人类强行钓起来了呼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "七星子鱼",
+      "text": "头像=七星子鱼",
+      "emotion": "我——要吃——新鲜的太常卿！给我太常卿！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周鱼",
+      "text": "头像=周鱼",
+      "emotion": "拨一拨……原来是钓线不是琴弦啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀鱼",
+      "text": "头像=荀鱼",
+      "emotion": "我左右两半的鱼鳞数量一样吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲱",
+      "text": "头像=张鲱",
+      "emotion": "该不会要拿鱼鳞做颜料、鱼皮做画纸吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲛",
+      "text": "头像=张鲛",
+      "emotion": "吃我吧，不要吃其他鱼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "啊呜？不是巫姑召唤我的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "这里是水上乐园～水深危险，水性不好的人还请谨慎入内。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "平时负责此区域的员工，都是水属性的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "……啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "先生，你在做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "（飞快地把手藏到背后）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "（手太短，没藏住）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "在……捡贝壳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "居然一个人……不，一个魂捡了五大筐吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "贝壳，换钱，买鸡蛋。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是用来做温泉蛋吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "！！！你……一定想吃它们吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "（蹲在小篮子前，对里面的鸡蛋念念叨叨）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "……对不起……对不起……可是她真的饿了……对不起……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "………………抱歉……把你们带到这个世界上来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "我只是开个玩笑的啊！不不不要哭，本来圆滚滚的，一哭就瘪掉了啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "（一边哭一边瘪了下去）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "（拼命给它泡水）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=张角离魂",
+      "emotion": "（继续哭继续瘪了下去）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "（用尽全力给它泡水）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "前面好像是许攸，在到处打转……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸离魂",
+      "emotion": "有人招军师吗？有人招军师吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸离魂",
+      "emotion": "可以拿袁氏的情报来换哦，有人招军师吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸离魂",
+      "emotion": "来，一手交符传，一手交情报！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "成交！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……这是谁的情报？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸离魂",
+      "emotion": "袁铛铛。袁氏养的猫猫哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……把符传还给我！我不要猫的情报！还、给、我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸离魂",
+      "emotion": "那、那我再跟你换一个袁氏的情报吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我看看……袁嘟嘟是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸离魂",
+      "emotion": "袁铛铛失去猫铃铛之后的新名……啊不要捏我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "干吉的离魂，心情很好地在游乐园里飘来飘去啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "从前没有玩过……这个也没有玩过……这个也……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "干吉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "（飞快躲进滑梯后面）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "（因为看不见，撞到台阶弹了出去）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "抱起来，再滑一次。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "再来一次？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "……殿下累不累？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不累啊。先生现在可轻了。再来一次！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "呼哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉离魂",
+      "emotion": "（期待地望向你，等你再抱它玩一次水滑梯）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "听见猫叫了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=许曼离魂",
+      "emotion": "喵喵喵……喵来……喵来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=许曼离魂",
+      "emotion": "好暖和喵……贵人好暖和喵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "能不能先从我的大腿离开……腿要被冻僵了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=许曼离魂",
+      "emotion": "不要遗弃猫猫喵——买一个平安喵小立牌吧贵客！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "把别人做成立牌真的有征求过同意吗？你到底做了多少款小立牌……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=许曼离魂",
+      "emotion": "喵喵喵被倒过来了喵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=许曼离魂",
+      "emotion": "（身上被稀里哗啦抖出了小山一样的立牌）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "前面的那片水域里，有好多奇怪的小章鱼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "呼呼，肥美起来，肥美起来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "（被深水伸来的触手卷住拖进了水中）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊……又浮起来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "呼呼，三眼神庇佑我重返人间……最肥美的祭品出现了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "皈依我的神明吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "（伸出触手卷住了我的脚踝）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "去去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "（因为触手太短了没能卷住，被抖开）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "皈依……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "（被抖开）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "皈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修离魂",
+      "emotion": "（被抖开）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "刚才发生了严重爆炸，男浴区目前正在维修哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "现在开放的只有女浴池了，男宾止步哟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣球离魂",
+      "emotion": "啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "绣球找到颜良将军了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良离魂",
+      "emotion": "绣球！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣球离魂",
+      "emotion": "啾——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良离魂",
+      "emotion": "（被压扁）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "唔，这样真的能恢复球形吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑离魂",
+      "emotion": "嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑离魂",
+      "emotion": "（努力把颜良变扁的离魂揉成球体）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良离魂",
+      "emotion": "唔！唔唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "文丑，是不是揉反了，五官那一面被揉到里面了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑离魂",
+      "emotion": "咦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑离魂",
+      "emotion": "（努力把球再揉扁）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良离魂",
+      "emotion": "唔唔唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "这次揉得比例不对啊，手被揉到眼睛上面去了……等等！你自己的辫子也被揉进去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑离魂",
+      "emotion": "（焦急地把颜良的离魂揉得叽叽响）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑离魂",
+      "emotion": "（急哭了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "这里有好多蘑菇啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃离魂",
+      "emotion": "呜呜……呜呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃离魂",
+      "emotion": "相亲……被拒……好人卡……呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "这里已经被眼泪浇灌出一片蘑菇林了，你到底在这里哭了多久啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃离魂",
+      "emotion": "画像，画像。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊，这是你的画像吗？……是用各色蘑菇拼成的画像哎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃离魂",
+      "emotion": "圆的，淑女，圆的，淑女。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣球离魂",
+      "emotion": "咕咕？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "抱歉哦，绣球最近没有相亲的计划呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃离魂",
+      "emotion": "（哭出了更多蘑菇）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "有歌声……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "高山嘟嘟～水嘟嘟嘟～"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……好像因为变成离魂的状态，忘记歌词了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是我。你记得我吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "（点头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "太好了，总算又找到了一个保留了部分记忆的人……你有见到其他人在哪吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "嘟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "嘟嘟！嘟嘟嘟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……………………？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "（焦急地挥舞小短手）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……保留记忆的代价是语言功能被嘟嘟化了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "巫——嘟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "有歌声……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "高山嘟嘟～水嘟嘟嘟～"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "有歌声……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "高山嘟嘟～水嘟嘟嘟～"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "有歌……不是！回溯时间也有个限度吧？！别闹了，回身体里面去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜离魂",
+      "emotion": "嘟！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=王粲离魂",
+      "emotion": "咳……咳咳……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "王粲？你没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=王粲离魂",
+      "emotion": "咳咳……咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "啊……好可怜，比别的离魂小一圈，而且更冰……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "泡泡温泉，有舒服点吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=王粲离魂",
+      "emotion": "舒服，谢谢，好人……咳咳咳咳咳！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊啊被温泉水呛到了！拍拍背，拍拍背……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没事的，我带你去找张仲景的离魂，说不定离魂能医治离魂呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=王粲离魂",
+      "emotion": "仲景好，华佗坏。它追着我要劈开我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=王粲离魂",
+      "emotion": "（因为太害怕了，拿藤蔓把自己和我绑在一起）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我陪你去找张仲景，别怕。我们走……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=王粲离魂",
+      "emotion": "咳咳咳咳咳——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊啊是我走太快震到你了吗？对不起对不起……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "桑拿房的雾气好重……咳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉离魂",
+      "emotion": "呼，吸一口雾气，呼……吸一口雾气……呼……晕乎乎……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩离魂",
+      "emotion": "（在两块石头上左右横跳）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧离魂",
+      "emotion": "不一样……为什么两棵树的叶子数量不一样……这不公平……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉离魂",
+      "emotion": "我的英雄到哪里去了……英雄呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉离魂",
+      "emotion": "呼……再吸一口……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "因为吸烟吸太多，你和其他的离魂已经出现色差了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩离魂",
+      "emotion": "（继续在两块石头上左右横跳）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉离魂",
+      "emotion": "跳的我头都晕了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧离魂",
+      "emotion": "它好像很珍惜能自由行动的感觉呢……啊啊！起风了，树叶的数量又不一样了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉离魂",
+      "emotion": "掉下来的叶子可以当烟叶……呼呼……呼……呼？嘟噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……啊，吸进太多气，漏气飞走了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩离魂",
+      "emotion": "（跳累了，趴在一块石头上睡着了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉离魂",
+      "emotion": "嘟噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩离魂",
+      "emotion": "呜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩离魂",
+      "emotion": "（被飞回来的郭嘉撞下石头，一起弹走了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧离魂",
+      "emotion": "郭嘉的风把树叶又吹掉了……不行不行，要一样的数量，一样的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "靠着张仲景的温泉蛋、陈登的鱼、鲁肃的蘑菇、张角的贝壳，总算坚持到了这里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "我必须打败庄园主人，给这个温泉山庄写第一条真实评价！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修",
+      "emotion": "一定是五星好评，对吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "总算是都回来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗",
+      "emotion": "啊，感觉胳膊好酸……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "感觉还有奇怪的味道……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "绣球，绣球饿坏了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "郭奉孝，把我的拐杖还给我！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "楼主，既然人到齐了，我就准备统计人数、登记入住了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "这是刚才张修送来的账单，请签单。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我看看……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "嗯？是太贵了吗？钱没带够的话，晚生来付也行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "……等等，好便宜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "傅、融！——果然是因为这里最便宜才选了这里！！！",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mainlinewrap\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabs\""
+    },
+    {
+      "type": "narration",
+      "text": "ul class\"resptabslist clearfix\" style\"margin15px 5px\""
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"span class\"tabpanelwenquan\"活动开始/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"迎宾区/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"山庄正门/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"客舍/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"垂钓区/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"水上乐园/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"温泉区/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"张修又见张修/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"span class\"tabpanelwenquan\"活动结束/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "/ul"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"width 100%;position relative;overflowhidden;\"div style\"width 100%;left0\"1160px/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"dxtextyh\" style\"position absolute;top10px;overflow auto;width100%;height 100%;flexwrap wrap;justifycontent center;aligncontentcenter;left2%;right4%\""
+    },
+    {
+      "type": "narration",
+      "text": "!添加box内背景图（头）↑"
+    },
+    {
+      "type": "narration",
+      "text": "!设置通篇字体"
+    },
+    {
+      "type": "narration",
+      "text": "font style\"colorfff;fontweightregular;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"overflowauto;\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displayblock\"!活动开始"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''活动开始'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!迎宾区"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''迎宾区'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "big人类离开小动物根本转不动。楼主一直很好奇为什么楼里没有人带猫，直到发现傅融猫毛过敏。/big"
+    },
+    {
+      "type": "narration",
+      "text": "迎宾区·教学"
+    },
+    {
+      "type": "narration",
+      "text": "迎宾区·导入"
+    },
+    {
+      "type": "narration",
+      "text": "葛洪·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "杨修·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!山庄正门"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''山庄正门'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "big桃源温泉山庄全体员工热烈欢迎绣衣楼的领导及密探大驾光临！/big"
+    },
+    {
+      "type": "narration",
+      "text": "蔡琰·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "张辽&阿蝉·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "big戳戳乐/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "王异·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "庞统·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "史子眇·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!客舍"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''客舍'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "big此地适宜久睡，配备遮光帘和良好隔音，完全不知道隔壁发生何事。/big"
+    },
+    {
+      "type": "narration",
+      "text": "夏侯惇·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "严白虎·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "陆绩·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "陈登·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "华佗&张仲景·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "big不普通外科/big"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!垂钓区"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''垂钓区'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "big这么大的鱼塘，钓上来什么都不奇怪吧？/big"
+    },
+    {
+      "type": "narration",
+      "text": "小乔·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "郭解·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "张飞·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "吕蒙&陆逊·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "big风纪整顿/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "孙尚香&孙权·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "big炸个大的/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "钓鱼区"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!水上乐园"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''水上乐园'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "big超高水上滑梯，畅游黄泉，神挡杀神！水性不好的人还请谨慎入内。/big"
+    },
+    {
+      "type": "narration",
+      "text": "水上乐园·导入"
+    },
+    {
+      "type": "narration",
+      "text": "张角·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "许攸·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "干吉·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "许曼·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "张修·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!温泉区"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''温泉区'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "big因孙权的炸药意外爆炸，男浴池正紧急维修中，目前只有女浴池正在开放，请男宾和宠物止步哦。/big"
+    },
+    {
+      "type": "narration",
+      "text": "温泉区·导入"
+    },
+    {
+      "type": "narration",
+      "text": "颜良&文丑·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "big自圆球说/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "鲁肃·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "周瑜·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "王粲·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "郭嘉&贾诩&荀彧·离魂"
+    },
+    {
+      "type": "narration",
+      "text": "big辟雍三闲/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!张修又见张修!"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''张修又见张修·导入'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displaynone\"!活动结束"
+    },
+    {
+      "type": "narration",
+      "text": "font colorwhite'''活动结束'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div/div/div/div/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "centera href\"top\"回到顶部/a/center"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A1%83%E6%BA%90%E6%B8%A9%E6%B3%89%E5%B1%B1%E5%BA%84/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:07:30.898470",
+  "raw_wikitext": "{{面包屑|活动剧情|桃源温泉山庄/活动玩法}}\n\n__TOC__\n\n<div class=\"main-line-wrap\">\n<div class=\"resp-tabs\">\n<ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">\n<li class=\"active bili-list-style\"><span class=\"tab-panel-wenquan\">活动开始</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">迎宾区</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">山庄正门</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">客舍</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">垂钓区</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">水上乐园</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">温泉区</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">张修又见张修</span></li>\n<li class=\"bili-list-style\"><span class=\"tab-panel-wenquan\">活动结束</span></li>\n</ul>\n\n<div style=\"width: 100%;position: relative;overflow:hidden;\"><div style=\"width: 100%;left:0\">[[File:温泉活动背景.png|1160px]]</div>\n<div class=\"dxtext-yh\" style=\"position: absolute;top:10px;overflow: auto;width:100%;height: 100%;flex-wrap: wrap;justify-content: center;align-content:center;left:2%;right:4%\">\n<!--添加box内背景图（头）↑-->\n<!--设置通篇字体-->\n<font style=\"color:#fff;font-weight:regular;\">\n\n<div style=\"overflow:auto;\">\n<div class=\"resp-tabs-container\">\n<div class=\"resp-tab-content\" style=\"display:block\"><!--活动开始-->\n=<font color=white>'''活动开始'''</font>=\n{{对话-头}}\n{{对话|张修|欢迎贵客光临桃源温泉山庄，快请入内吧……|头像=张修}}\n{{对话|我|傅融，这就是你为半周年团建安排的温泉山庄？|头像=广陵王-挑眉}}\n{{对话|傅融|就是这里。|头像=傅融}}\n{{对话|我|荒郊野岭的温泉山庄，零条顾客评价，零次顾客打星……靠谱吗？|头像=广陵王-无语}}\n{{对话|傅融|新的温泉，没人评价很正常。很多同城平台的商铺打分都是虚高，不一定是真实反映。|头像=傅融}}\n{{对话|我|你不觉得这里有点阴森吗，我们要不要临时换一家？|头像=广陵王-无语}}\n{{对话|傅融|时间来不及了。先进去吃个午饭吧，实在不行就……|头像=傅融}}\n{{对话|我|傅融？|头像=广陵王-惊讶}}\n{{对话|我|……傅融？阿蝉？小丹？|头像=广陵王-惊讶}}\n{{对话|我|等等，怎么都不见了？大家都去哪了？飞云，你有见到其他人去了哪吗？！|头像=广陵王-生气}}\n{{对话|飞云|嗷呜！|头像=飞云}}\n{{对话|我|飞云，慢一点，别直接冲进去——|头像=广陵王-生气}}\n{{对话-尾}}\n\n\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--迎宾区-->\n=<font color=white>'''迎宾区'''</font>=\n<big>人类离开小动物根本转不动。楼主一直很好奇为什么楼里没有人带猫，直到发现傅融猫毛过敏。</big>\n{{对话-头}}\n\n==迎宾区·教学==\n{{对话|离魂·葛洪|没有肉体好别扭……总觉得缺了些什么……很重要的东西不见了，不见了……|头像=葛洪离魂}}\n{{对话|离魂·葛洪|小仙能感觉到那东西就在附近，就在附近……|头像=葛洪离魂}}\n{{对话|离魂·葛洪|还差一个，小仙就能重新拥有肉体了。|头像=葛洪离魂}}\n{{对话|离魂·葛洪|只差最后一个了，帮帮小仙嘛！|头像=葛洪离魂}}\n\n==迎宾区·导入==\n{{对话|萨斑斑甲鱼|呼呼，在休沐日还要被组织拉来团建的人类都已经失去斗志、变成我们的同类呼……|头像=小鱼}}\n{{对话|萨斑斑甲鱼|好像只有小动物还可以活动自如呼……|头像=小鱼}}\n\n==葛洪·离魂==\n{{对话|我|有个白色的东西闪过去了……|头像=广陵王-惊讶}}\n{{对话|葛洪|温泉，美人，好多美人——|头像=葛洪离魂}}\n{{对话|葛洪|（冲进了一处浴池）|头像=葛洪离魂}}\n{{对话|葛洪|唔噗——|头像=葛洪离魂}}\n{{对话|葛洪|（被池子里的离魂打飞出来）|头像=葛洪离魂}}\n{{对话|飞云|汪！|头像=飞云离魂}}\n{{对话|葛洪|狗狗美人——啊！|头像=葛洪离魂}}\n{{对话|我|……它绊倒了。|头像=广陵王-无语}}\n{{对话|葛洪|（圆滚滚的，所以弹出去很远）|头像=葛洪离魂}}\n{{对话|葛洪|（越弹越远、越弹越远，弹进了另一处浴池）|头像=葛洪离魂}}\n{{对话|葛洪|唔噗——|头像=葛洪离魂}}\n{{对话|我|又被那个池子里的离魂打飞出来了呢……|头像=广陵王-无语}}\n\n==杨修·离魂==\n{{对话|杨修|娘……找不到娘了……找不到了……|头像=杨修离魂}}\n{{对话|杨修|一定是我的头冠变矮了，娘找不到我了……把它拔长……拔长……|头像=杨修离魂}}\n{{对话|杨修|（想伸手拔头冠，但手太短够不到）|头像=杨修离魂}}\n{{对话|杨修|（好像没意识到短手够不到头冠，还在努力拔）|头像=杨修离魂}}\n{{对话|我|啊，一直在拔自己的头冠，一直在往上飞……|头像=广陵王-惊讶}}\n{{对话|杨修|到了这个高度，没人比本公子高了！哈哈哈哈哈——|头像=杨修离魂}}\n{{对话|杨修|唔噗！|头像=杨修离魂}}\n{{对话|我|给我下来。|头像=广陵王-生气}}\n{{对话|杨修|（被我用竹竿戳了下来）|头像=杨修离魂}}\n\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--山庄正门-->\n=<font color=white>'''山庄正门'''</font>=\n<big>桃源温泉山庄全体员工热烈欢迎绣衣楼的领导及密探大驾光临！</big>\n{{对话-头}}\n\n==蔡琰·离魂==\n{{对话|蔡琰|温泉……陷阱……怎么会有人用温泉做陷阱呢！|头像=蔡琰离魂}}\n{{对话|蔡琰|不，一定是陷阱……我不会上当的……不会的……|头像=蔡琰离魂}}\n{{对话|我|它泡进温泉里，敷起黏土面膜了……|头像=广陵王-无语}}\n{{对话|我|琰女公子，你没事吧？要喝些茶醒醒神吗？|头像=广陵王-生气}}\n{{对话|蔡琰|啊啊！把诡异气息的茶叶陶罐拿开！我……我要窒息了……|头像=蔡琰离魂}}\n{{对话|蔡琰|（伸手捏住鼻子）|头像=蔡琰离魂}}\n{{对话|蔡琰|（因为手太短够不到鼻子）|头像=蔡琰离魂}}\n{{对话|蔡琰|（突然想起来自己没有鼻子，变得很生气……）|头像=蔡琰离魂}}\n{{对话|蔡琰|不，我要活下去，先下手为强！！！|头像=蔡琰离魂}}\n\n\n==张辽&阿蝉·离魂==\n<big>戳戳乐</big><br>\n{{对话|张辽|吃饭，按时吃饭……|头像=张辽离魂}}\n{{对话|阿蝉|（飘到左边躲着）|头像=阿蝉离魂}}\n{{对话|张辽|死孩子，不许挑食，吃饭，吃饭……|头像=张辽离魂}}\n{{对话|阿蝉|（飘到右边躲着）|头像=阿蝉离魂}}\n{{对话|我|两只一直在转圈圈，看久了有点头晕……|头像=广陵王-阴沉}}\n{{对话|张辽|（飘着追阿蝉要喂章鱼）|头像=张辽离魂}}\n{{对话|阿蝉|（飘着绕圈躲）|头像=阿蝉离魂}}\n{{对话|张辽|有人来了……吃点心，吃点心……|头像=张辽离魂}}\n{{对话|我|这个点心好像是水池里的活章鱼……|头像=广陵王-生气}}\n{{对话|张辽|不许挑食！|头像=张辽离魂}}\n{{对话|张辽|（用短手拼命地戳我）|头像=张辽离魂}}\n{{对话|阿蝉|（跟着戳戳）|头像=阿蝉离魂}}\n\n==王异·离魂==\n{{对话|我|……有好多泥巴捏的小羊排在火堆边……有人在烤小泥巴羊吗……|头像=广陵王-挑眉}}\n{{对话|王异|烤羊肉……好香……烤羊肉……|头像=王异离魂}}\n{{对话|我|这都是异姐捏的吗？好可爱！|头像=广陵王-微笑}}\n{{对话|王异|你……你是来抢我的烤羊肉的吗！|头像=王异离魂}}\n{{对话|我|泥巴羊都烧成陶土羊了，好可爱……拿一个。|头像=广陵王-微笑}}\n{{对话|王异|不许抢我的烤羊！！！|头像=王异离魂}}\n{{对话|王异|（想抢回陶羊，但是手太短，够不到）|头像=王异离魂}}\n\n\n==庞统·离魂==\n{{对话|庞统|小考……随堂考……周考……月考……|头像=庞统离魂}}\n{{对话|哔哥|绣球……绣球……绣球……}}\n{{对话|庞统|排名……升学……实习……表演节目……啊啊……呜呜呜……|头像=庞统离魂}}\n{{对话|我|离魂后感觉也很乖呢……|头像=广陵王-微笑}}\n{{对话|庞统|哈哈……你是来把我抓回去的吗……我不要变回去……哈哈……我不要办公务……|头像=庞统离魂}}\n{{对话|庞统|不要把我抓回去啊啊啊！我、我真的会打你的！|头像=庞统离魂}}\n{{对话|庞统|（但也不敢打人，只敢拿短手拍打空气）|头像=庞统离魂}}\n\n\n==史子眇·离魂==\n{{对话|我|好大的味道，前边着火了？|头像=广陵王-生气}}\n{{对话|史子眇|咳咳……咳咳……桂花糕……桂花糕……咳咳……|头像=史子眇离魂}}\n{{对话|史子眇|不会炸……不会炸……|头像=史子眇离魂}}\n{{对话|我|就算离魂了，还想着做饭吗……|头像=广陵王-无语}}\n{{对话|史子眇|营养均衡，白白胖胖……米粉加进去……蔬菜加进去……|头像=史子眇离魂}}\n{{对话|史子眇|咦？刚才是不是顺手把水银加进去了？|头像=史子眇离魂}}\n{{对话|我|前辈，你在用什么做饭……|头像=广陵王-微笑}}\n{{对话|史子眇|是小星星哟。|头像=史子眇离魂}}\n{{对话|我|……星星？|头像=广陵王-挑眉}}\n{{对话|我|是厌星触器？！要炸了——|头像=广陵王-生气}}\n\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--客舍-->\n=<font color=white>'''客舍'''</font>=\n<big>此地适宜久睡，配备遮光帘和良好隔音，完全不知道隔壁发生何事。</big>\n{{对话-头}}\n\n==夏侯惇·离魂==\n{{对话|夏侯惇|好难看……不能出门了，好惭愧……|头像=夏侯惇离魂}}\n{{对话|夏侯惇|呜……肯定会吓到大家，比鬼还要可怕……嗯？可是我已经是鬼了……|头像=夏侯惇离魂}}\n{{对话|夏侯惇|（努力想捂住眼罩，但手太短掩不住）|头像=夏侯惇离魂}}\n{{对话|我|夏侯将军，请不要再撞石头了……|头像=广陵王-生气}}\n{{对话|夏侯惇|……磨砺……历练……|头像=夏侯惇离魂}}\n{{对话|夏侯惇|（拼命拿头在撞石头）|头像=夏侯惇离魂}}\n{{对话|夏侯惇|（因为是软噗噗的形态，被反弹了，弹出去好远）|头像=夏侯惇离魂}}\n{{对话|夏侯惇|（继续跑回来撞石头）|头像=夏侯惇离魂}}\n{{对话|我|不要再撞石头了，没事的，没有人怪你的！|头像=广陵王-生气}}\n\n==严白虎·离魂==\n{{对话|严白虎|三千三百三十一，三千三百三十二……三千三百三十八……|头像=严白虎离魂}}\n{{对话|我|严白虎……在瀑布底下倒立……|头像=广陵王-惊讶}}\n{{对话|严白虎|嗷呜！强筋健骨，瀑布修炼！|头像=严白虎离魂}}\n{{对话|我|可是你现在没有骨头了。|头像=广陵王-难过}}\n{{对话|严白虎|对哦！我现在没有骨头了！|头像=严白虎离魂}}\n{{对话|严白虎|变得软呼呼的，我应该叫严白呼……可以给丝人心太太跳弹弹应援舞了！|头像=严白虎离魂}}\n{{对话|严白虎|（滑进了瀑布，被水冲走了）|头像=严白虎离魂}}\n{{对话|严白虎|咕噜噜噜……|头像=严白虎离魂}}\n{{对话|严白虎|（被越冲越远）|头像=严白虎离魂}}\n{{对话|严白虎|咕噜噜噜噜……|头像=严白虎离魂}}\n{{对话|严白虎|（被冲到了很远的地方）|头像=严白虎离魂}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|我|等等真的被冲走了啊？！你会飘啊！快飘回来啊！|头像=广陵王-生气}}\n\n\n==陆绩·离魂==\n{{对话|我|飞云，这个坑是你挖的吗？|头像=广陵王-微笑}}\n{{对话|陆绩|嘿咻……嘿咻……|头像=陆绩离魂}}\n{{对话|我|坑里是陆绩啊……|头像=广陵王-惊讶}}\n{{对话|陆绩|地道……要准备地道……嘿咻！嘿咻！|头像=陆绩离魂}}\n{{对话|我|到底能挖多深……|头像=广陵王-惊讶}}\n{{对话|陆绩|嘿咻嘿咻嘿咻……|头像=陆绩离魂}}\n{{对话|我|陆绩，别挖了，上来吧，我送你回身体里。|头像=广陵王-微笑}}\n{{对话|陆绩|坑挖深点，可以掩埋罪证、解决敌人、湿垃圾处理……嘿咻嘿咻嘿咻！|头像=陆绩离魂}}\n{{对话|我|……越挖越深了。|头像=广陵王-无语}}\n{{对话|我|陆绩别挖了，我好像看见你把地底的触角挖出来了。|头像=广陵王-生气}}\n{{对话|陆绩|（努力往回爬）|头像=陆绩离魂}}\n{{对话|陆绩|（手太短爬不快，被触手卷住）|头像=陆绩离魂}}\n{{对话|陆绩|（因为太小只，没被卷住，弹了出来）|头像=陆绩离魂}}\n{{对话|我|接住你了。唔啊真的好小只！|头像=广陵王-微笑}}\n{{对话|陆绩|我不是小鬼了！|头像=陆绩离魂}}\n\n\n==陈登·离魂==\n{{对话|我|好大一座鱼骨山啊……|头像=广陵王-惊讶}}\n{{对话|陈登|……|头像=陈登离魂}}\n{{对话|我|不愧是陈登，果然一直都在钓鱼……|头像=广陵王-无语}}\n{{对话|陈登|…………|头像=陈登离魂}}\n{{对话|我|……似乎进入了钓鱼佬的入定状态啊。|头像=广陵王-无语}}\n{{对话|陈登|……|头像=陈登离魂}}\n{{对话|我|不管怎么戳都没有反应……陈登？陈登？|头像=广陵王-惊讶}}\n{{对话|陈登|……|头像=陈登离魂}}\n{{对话|我|就算抱起来头朝下也没有反应……|头像=广陵王-惊讶}}\n{{对话|我|晃晃……抖抖……|头像=广陵王-微笑}}\n{{对话|陈登|（发出墩昂墩昂的弹性声）|头像=陈登离魂}}\n{{对话|我|这样都没有反应？！扯一下鱼线试试……|头像=广陵王-挑眉}}\n{{对话|陈登|咬钩了！！！！！！！！|头像=陈登离魂}}\n{{对话|我|唔啊啊瞬间醒了！！！！！|头像=广陵王-生气}}\n\n\n==华佗&张仲景·离魂==\n<big>不普通外科</big>\n{{对话|我|这里好像是专门煮温泉蛋的池子……|头像=广陵王-微笑}}\n{{对话|我|池子里泡满了鸡蛋……嗯？有两颗蛋浮起来了。|头像=广陵王-挑眉}}\n{{对话|华佗|不要洗我的斧头！|头像=华佗离魂}}\n{{对话|张仲景|（努力拿水去浇华佗的小斧头，但够不到）|头像=张仲景离魂}}\n{{对话|张仲景|一百……一百一十……二百……|头像=张仲景离魂}}\n{{对话|华佗|鸡蛋！咕噜噜噜——|头像=华佗离魂}}\n{{对话|华佗|（被张仲景摁进水里）|头像=华佗离魂}}\n{{对话|张仲景|二百一十……二百二十……二百六十……好了。熟了。|头像=张仲景离魂}}\n{{对话|华佗|熟鸡蛋！咕噜噜噜——|头像=华佗离魂}}\n{{对话|华佗|（被张仲景摁进水里）|头像=华佗离魂}}\n{{对话|张仲景|先剥壳。|头像=张仲景离魂}}\n{{对话|张仲景|（拿起一颗鸡蛋，想敲）|头像=张仲景离魂}}\n{{对话|张仲景|（发现手太短，手里的鸡蛋敲不到石头上）|头像=张仲景离魂}}\n{{对话|我|……我来帮前辈吧。|头像=广陵王-汗颜}}\n{{对话|华佗|是抢鸡蛋的人！|头像=华佗离魂}}\n\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--垂钓区-->\n=<font color=white>'''垂钓区'''</font>=\n<big>这么大的鱼塘，钓上来什么都不奇怪吧？</big>\n{{对话-头}}\n\n==小乔·离魂==\n{{对话|小乔|爹爹……爹爹不见了……|头像=小乔离魂}}\n{{对话|小乔|爹爹去哪了……这里好黑……|头像=小乔离魂}}\n{{对话|我|我把灯笼点亮啦，快到我这里来，我送你回身体里去。|头像=广陵王-微笑}}\n{{对话|小乔|啊！谁？……好像是让人安心的人……|头像=小乔离魂}}\n{{对话|小乔|（小心翼翼凑了过来）|头像=小乔离魂}}\n{{对话|小乔|……你能碰到东西吗？|头像=小乔离魂}}\n{{对话|我|可以呀，你想要什么？纸和笔吗？|头像=广陵王-微笑}}\n{{对话|小乔|（用力点了几下头）|头像=小乔离魂}}\n{{对话|我|变成离魂了还记得赶稿吗……最近在写什么呢？|头像=广陵王-微笑}}\n{{对话|小乔|柿子和白瓜。|头像=小乔离魂}}\n{{对话|我|……好像因为变成了圆滚滚的离魂，导致写的主角也变成了圆滚滚的主角了……|头像=广陵王-惊讶}}\n\n\n==郭解·离魂==\n{{对话|我|从刚刚就感觉……好像被盯着，视线是从头顶传过来的。|头像=广陵王-严肃}}\n{{对话|我|郭解前辈在树上……前辈，能听见我说话吗？|头像=广陵王-惊讶}}\n{{对话|郭解|没有耳朵，听不见。|头像=郭解离魂}}\n{{对话|我|……明明就能听见吧。|头像=广陵王-无语}}\n{{对话|郭解|好轻……好轻……|头像=郭解离魂}}\n{{对话|我|毕竟是离魂状态嘛。说起来，只有少数几个人离魂后还能保持理智和记忆的呢。|头像=广陵王-微笑}}\n{{对话|我|我泡温泉泡得好热，前辈，无君借我吹一下。|头像=广陵王-微笑}}\n{{对话|我|……好清凉……能把无君再开大点吗？|头像=广陵王-微笑}}\n{{对话|郭解|好的。无君，转快一点。|头像=郭解离魂}}\n{{对话|我|呼——好舒服！前辈，你要不要……|头像=广陵王-惊讶}}\n{{对话|我|……前辈？前辈？！！|头像=广陵王-惊讶}}\n{{对话|郭解|（因为太轻，被无君吹走不见了）|头像=郭解离魂}}\n\n\n==张飞·离魂==\n{{对话|张飞|别动。买画。|头像=张飞离魂}}\n{{对话|我|不买，你现在有本事挑飞我啊。|头像=广陵王-冷笑}}\n{{对话|张飞|……|头像=张飞离魂}}\n{{对话|张飞|（拿纸给自己画了条假舌头，贴在脸上对我做鬼脸）|头像=张飞离魂}}\n{{对话|张飞|这个，我的画，卖掉。|头像=张飞离魂}}\n{{对话|我|画在沙滩上的画啊……可是没法保存啊。你看水浪拍过来，就只剩半幅了……|头像=广陵王-微笑}}\n{{对话|张飞|（很执着地继续在沙滩上画了一幅）|头像=张飞离魂}}\n{{对话|张飞|买一幅，买一幅……|头像=张飞离魂}}\n{{对话|我|不、要。瞧，又被冲没了。|头像=广陵王-微笑}}\n{{对话|张飞|（气得在水边乱跳）|头像=张飞离魂}}\n{{对话|张飞|（越来越气，想把我挑飞）|头像=张飞离魂}}\n{{对话|张飞|（太用力了，自己用力过度飞了出去）|头像=张飞离魂}}\n{{对话|我|啊，飞到水里了……被冲走了。|头像=广陵王-惊讶}}\n\n\n\n==吕蒙&陆逊·离魂==\n<big>风纪整顿</big><br>\n{{对话|我|好像有个粉红扑棱蛾子在水里扑腾……|头像=广陵王-微笑}}\n{{对话|吕蒙|摘莲花！摘莲花！给姐姐摘很多很多莲花！|头像=吕蒙离魂}}\n{{对话|吕蒙|陆逊你帮我看着，别让莲花飘远了！|头像=吕蒙离魂}}\n{{对话|陆逊|衣服……风纪……衣服……|头像=陆逊离魂}}\n{{对话|陆逊|（总觉得自己没穿衣服，一直缩在水里，拿荷叶往自己身上裹）|头像=陆逊离魂}}\n{{对话|吕蒙|莲花！莲花飘到你那边去了！|头像=吕蒙离魂}}\n{{对话|我|要我帮你把它们弄回去吗？但你要乖乖跟我回去，回身体里去哦。|头像=广陵王-微笑}}\n{{对话|吕蒙|不要！这样好爽，轻飘飘的……我、我给你摸我的胸肌好不好？|头像=吕蒙离魂}}\n{{对话|吕蒙|（鼓——了起来）|头像=吕蒙离魂}}\n{{对话|吕蒙|（很鼓，但完全是个球体）|头像=吕蒙离魂}}\n{{对话|我|胸肌在哪里……|头像=广陵王-汗颜}}\n{{对话|吕蒙|陆逊！陆逊你帮我画几块胸肌！|头像=吕蒙离魂}}\n{{对话|陆逊|衣服穿上……衣服穿上……|头像=陆逊离魂}}\n{{对话|陆逊|（给吕蒙胸前贴了一大片荷叶）|头像=陆逊离魂}}\n\n\n\n==孙尚香&孙权·离魂==\n<big>炸个大的</big><br>\n{{对话|孙尚香|走啊走啊出来玩啊！|头像=孙尚香离魂}}\n{{对话|孙权|不要……安静一会……|头像=孙权离魂}}\n{{对话|我|阿香在外面，孙权躲在石头的缝隙里……|头像=广陵王-惊讶}}\n{{对话|孙尚香|是可爱狗狗！孙权出来玩嘛！|头像=孙尚香离魂}}\n{{对话|孙权|……我不要……你在我衣服上乱画……|头像=孙权离魂}}\n{{对话|我|变成这样，本来也没有穿衣服吧……|头像=广陵王-无语}}\n{{对话|孙权|（往石头缝隙更深处挤）|头像=孙权离魂}}\n{{对话|孙尚香|（往缝隙里塞了什么，飞快躲到我身后）|头像=孙尚香离魂}}\n{{对话|我|嗯？你塞了什么？|头像=广陵王-惊讶}}\n{{对话|孙尚香|炸药。|头像=孙尚香离魂}}\n\n\n==钓鱼区==\n{{对话|萨斑斑甲鱼|鱼、鱼王被钓起来了！巫姑渡水征战时才会出现的战兽鱼王，被人类强行钓起来了呼！|头像=小鱼}}\n{{对话|七星子鱼|我——要吃——新鲜的太常卿！给我太常卿！|头像=七星子鱼}}\n{{对话|周鱼|拨一拨……原来是钓线不是琴弦啊。|头像=周鱼}}\n{{对话|荀鱼|我左右两半的鱼鳞数量一样吗？|头像=荀鱼}}\n{{对话|张鲱|该不会要拿鱼鳞做颜料、鱼皮做画纸吧……|头像=张鲱}}\n{{对话|张鲛|吃我吧，不要吃其他鱼……|头像=张鲛}}\n{{对话|萨斑斑甲鱼|啊呜？不是巫姑召唤我的吗？|头像=小鱼}}\n\n\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--水上乐园-->\n=<font color=white>'''水上乐园'''</font>=\n<big>超高水上滑梯，畅游黄泉，神挡杀神！水性不好的人还请谨慎入内。</big>\n{{对话-头}}\n==水上乐园·导入==\n{{对话|萨斑斑甲鱼|这里是水上乐园～水深危险，水性不好的人还请谨慎入内。|头像=小鱼}}\n{{对话|萨斑斑甲鱼|平时负责此区域的员工，都是水属性的。|头像=小鱼}}\n\n\n==张角·离魂==\n{{对话|张角|……啊。|头像=张角离魂}}\n{{对话|我|先生，你在做什么？|头像=广陵王-微笑}}\n{{对话|张角|（飞快地把手藏到背后）|头像=张角离魂}}\n{{对话|张角|（手太短，没藏住）|头像=张角离魂}}\n{{对话|张角|在……捡贝壳……|头像=张角离魂}}\n{{对话|我|居然一个人……不，一个魂捡了五大筐吗。|头像=广陵王-惊讶}}\n{{对话|张角|贝壳，换钱，买鸡蛋。|头像=张角离魂}}\n{{对话|我|是用来做温泉蛋吗？|头像=广陵王-微笑}}\n{{对话|张角|！！！你……一定想吃它们吗……|头像=张角离魂}}\n{{对话|张角|（蹲在小篮子前，对里面的鸡蛋念念叨叨）|头像=张角离魂}}\n{{对话|张角|……对不起……对不起……可是她真的饿了……对不起……|头像=张角离魂}}\n{{对话|张角|………………抱歉……把你们带到这个世界上来……|头像=张角离魂}}\n{{对话|我|我只是开个玩笑的啊！不不不要哭，本来圆滚滚的，一哭就瘪掉了啊！|头像=广陵王-惊讶}}\n{{对话|张角|（一边哭一边瘪了下去）|头像=张角离魂}}\n{{对话|我|（拼命给它泡水）|头像=广陵王-生气}}\n{{对话|张角|（继续哭继续瘪了下去）|头像=张角离魂}}\n{{对话|我|（用尽全力给它泡水）|头像=广陵王-生气}}\n\n\n\n==许攸·离魂==\n{{对话|我|前面好像是许攸，在到处打转……|头像=广陵王-挑眉}}\n{{对话|许攸|有人招军师吗？有人招军师吗？|头像=许攸离魂}}\n{{对话|许攸|可以拿袁氏的情报来换哦，有人招军师吗？|头像=许攸离魂}}\n{{对话|许攸|来，一手交符传，一手交情报！|头像=许攸离魂}}\n{{对话|我|成交！|头像=广陵王-微笑}}\n{{对话|我|……这是谁的情报？|头像=广陵王-微笑}}\n{{对话|许攸|袁铛铛。袁氏养的猫猫哦。|头像=许攸离魂}}\n{{对话|我|……把符传还给我！我不要猫的情报！还、给、我……\n|头像=广陵王-生气}}\n{{对话|许攸|那、那我再跟你换一个袁氏的情报吧！|头像=许攸离魂}}\n{{对话|我|我看看……袁嘟嘟是谁？|头像=广陵王-微笑}}\n{{对话|许攸|袁铛铛失去猫铃铛之后的新名……啊不要捏我！|头像=许攸离魂}}\n\n==干吉·离魂==\n{{对话|我|干吉的离魂，心情很好地在游乐园里飘来飘去啊。|头像=广陵王-微笑}}\n{{对话|干吉|从前没有玩过……这个也没有玩过……这个也……|头像=干吉离魂}}\n{{对话|我|干吉？|头像=广陵王-微笑}}\n{{对话|干吉|唔！|头像=干吉离魂}}\n{{对话|干吉|（飞快躲进滑梯后面）|头像=干吉离魂}}\n{{对话|干吉|（因为看不见，撞到台阶弹了出去）|头像=干吉离魂}}\n{{对话|干吉|啊——|头像=干吉离魂}}\n{{对话|我|抱起来，再滑一次。|头像=广陵王-微笑}}\n{{对话|干吉|哇——|头像=干吉离魂}}\n{{对话|我|再来一次？|头像=广陵王-微笑}}\n{{对话|干吉|……殿下累不累？|头像=干吉离魂}}\n{{对话|我|不累啊。先生现在可轻了。再来一次！|头像=广陵王-微笑}}\n{{对话|干吉|呼哇——|头像=干吉离魂}}\n{{对话|干吉|（期待地望向你，等你再抱它玩一次水滑梯）|头像=干吉离魂}}\n\n\n==许曼·离魂==\n{{对话|我|听见猫叫了……|头像=广陵王-眯眼笑}}\n{{对话|许曼|喵喵喵……喵来……喵来……|头像=许曼离魂}}\n{{对话|许曼|好暖和喵……贵人好暖和喵……|头像=许曼离魂}}\n{{对话|我|能不能先从我的大腿离开……腿要被冻僵了。|头像=广陵王-难过}}\n{{对话|许曼|不要遗弃猫猫喵——买一个平安喵小立牌吧贵客！|头像=许曼离魂}}\n{{对话|我|把别人做成立牌真的有征求过同意吗？你到底做了多少款小立牌……|头像=广陵王-无语}}\n{{对话|许曼|喵喵喵被倒过来了喵！|头像=许曼离魂}}\n{{对话|许曼|（身上被稀里哗啦抖出了小山一样的立牌）|头像=许曼离魂}}\n\n\n\n==张修·离魂==\n{{对话|我|前面的那片水域里，有好多奇怪的小章鱼……|头像=广陵王-惊讶}}\n{{对话|张修|呼呼，肥美起来，肥美起来……|头像=张修离魂}}\n{{对话|张修|（被深水伸来的触手卷住拖进了水中）|头像=张修离魂}}\n{{对话|我|啊……又浮起来了。|头像=广陵王-惊讶}}\n{{对话|张修|呼呼，三眼神庇佑我重返人间……最肥美的祭品出现了呢……|头像=张修离魂}}\n{{对话|张修|皈依我的神明吧！|头像=张修离魂}}\n{{对话|张修|（伸出触手卷住了我的脚踝）|头像=张修离魂}}\n{{对话|我|去去。|头像=广陵王-生气}}\n{{对话|张修|（因为触手太短了没能卷住，被抖开）|头像=张修离魂}}\n{{对话|张修|皈依……|头像=张修离魂}}\n{{对话|张修|（被抖开）|头像=张修离魂}}\n{{对话|张修|皈……|头像=张修离魂}}\n{{对话|张修|（被抖开）|头像=张修离魂}}\n\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--温泉区-->\n=<font color=white>'''温泉区'''</font>=\n<big>因孙权的炸药意外爆炸，男浴池正紧急维修中，目前只有女浴池正在开放，请男宾和宠物止步哦。</big>\n{{对话-头}}\n==温泉区·导入==\n{{对话|萨斑斑甲鱼|刚才发生了严重爆炸，男浴区目前正在维修哦。|头像=小鱼}}\n{{对话|萨斑斑甲鱼|现在开放的只有女浴池了，男宾止步哟。|头像=小鱼}}\n\n\n==颜良&文丑·离魂==\n<big>自圆球说</big><br>\n{{对话|绣球|啾啾！|头像=绣球离魂}}\n{{对话|我|绣球找到颜良将军了！|头像=广陵王-微笑}}\n{{对话|颜良|绣球！|头像=颜良离魂}}\n{{对话|绣球|啾——|头像=绣球离魂}}\n{{对话|颜良|（被压扁）|头像=颜良离魂}}\n{{对话|我|唔，这样真的能恢复球形吗？|头像=广陵王-阴沉}}\n{{对话|文丑|嘿咻……|头像=文丑离魂}}\n{{对话|文丑|（努力把颜良变扁的离魂揉成球体）|头像=文丑离魂}}\n{{对话|颜良|唔！唔唔！|头像=颜良离魂}}\n{{对话|我|文丑，是不是揉反了，五官那一面被揉到里面了？|头像=广陵王-生气}}\n{{对话|文丑|咦！|头像=文丑离魂}}\n{{对话|文丑|（努力把球再揉扁）|头像=文丑离魂}}\n{{对话|颜良|唔唔唔……|头像=颜良离魂}}\n{{对话|我|这次揉得比例不对啊，手被揉到眼睛上面去了……等等！你自己的辫子也被揉进去了！|头像=广陵王-生气}}\n{{对话|文丑|（焦急地把颜良的离魂揉得叽叽响）|头像=文丑离魂}}\n{{对话|文丑|（急哭了）|头像=文丑离魂}}\n\n\n==鲁肃·离魂==\n{{对话|我|这里有好多蘑菇啊……|头像=广陵王-惊讶}}\n{{对话|鲁肃|呜呜……呜呜呜……|头像=鲁肃离魂}}\n{{对话|鲁肃|相亲……被拒……好人卡……呜呜……|头像=鲁肃离魂}}\n{{对话|我|这里已经被眼泪浇灌出一片蘑菇林了，你到底在这里哭了多久啊……|头像=广陵王-难过}}\n{{对话|鲁肃|画像，画像。|头像=鲁肃离魂}}\n{{对话|我|啊，这是你的画像吗？……是用各色蘑菇拼成的画像哎。|头像=广陵王-惊讶}}\n{{对话|鲁肃|圆的，淑女，圆的，淑女。|头像=鲁肃离魂}}\n{{对话|绣球|咕咕？|头像=绣球离魂}}\n{{对话|我|抱歉哦，绣球最近没有相亲的计划呢。|头像=广陵王-微笑}}\n{{对话|鲁肃|（哭出了更多蘑菇）|头像=鲁肃离魂}}\n\n\n==周瑜·离魂==\n{{对话|我|有歌声……|头像=广陵王-挑眉}}\n{{对话|周瑜|高山嘟嘟～水嘟嘟嘟～|头像=周瑜离魂}}\n{{对话|我|……好像因为变成离魂的状态，忘记歌词了呢……|头像=广陵王-微笑}}\n{{对话|我|是我。你记得我吗？|头像=广陵王-微笑}}\n{{对话|周瑜|（点头）|头像=周瑜离魂}}\n{{对话|我|太好了，总算又找到了一个保留了部分记忆的人……你有见到其他人在哪吗？|头像=广陵王-微笑}}\n{{对话|周瑜|嘟！|头像=周瑜离魂}}\n{{对话|我|……？|头像=广陵王-挑眉}}\n{{对话|周瑜|嘟嘟！嘟嘟嘟！|头像=周瑜离魂}}\n{{对话|我|……………………？|头像=广陵王-挑眉}}\n{{对话|周瑜|（焦急地挥舞小短手）|头像=周瑜离魂}}\n{{对话|我|……保留记忆的代价是语言功能被嘟嘟化了吗……|头像=广陵王-微笑}}\n{{对话|周瑜|巫——嘟！|头像=周瑜离魂}}\n{{对话|我|有歌声……|头像=广陵王-惊讶}}\n{{对话|周瑜|高山嘟嘟～水嘟嘟嘟～|头像=周瑜离魂}}\n{{对话|我|有歌声……|头像=广陵王-阴沉}}\n{{对话|周瑜|高山嘟嘟～水嘟嘟嘟～|头像=周瑜离魂}}\n{{对话|我|有歌……不是！回溯时间也有个限度吧？！别闹了，回身体里面去！|头像=广陵王-生气}}\n{{对话|周瑜|嘟！！！|头像=周瑜离魂}}\n\n\n==王粲·离魂==\n{{对话|王粲|咳……咳咳……咳咳……|头像=王粲离魂}}\n{{对话|我|王粲？你没事吧？|头像=广陵王-生气}}\n{{对话|王粲|咳咳……咳……|头像=王粲离魂}}\n{{对话|我|啊……好可怜，比别的离魂小一圈，而且更冰……|头像=广陵王-难过}}\n{{对话|我|泡泡温泉，有舒服点吗？|头像=广陵王-微笑}}\n{{对话|王粲|舒服，谢谢，好人……咳咳咳咳咳！|头像=王粲离魂}}\n{{对话|我|啊啊被温泉水呛到了！拍拍背，拍拍背……|头像=广陵王-惊讶}}\n{{对话|我|没事的，我带你去找张仲景的离魂，说不定离魂能医治离魂呢。|头像=广陵王-微笑}}\n{{对话|王粲|仲景好，华佗坏。它追着我要劈开我……|头像=王粲离魂}}\n{{对话|王粲|（因为太害怕了，拿藤蔓把自己和我绑在一起）|头像=王粲离魂}}\n{{对话|我|我陪你去找张仲景，别怕。我们走……|头像=广陵王-微笑}}\n{{对话|王粲|咳咳咳咳咳——|头像=王粲离魂}}\n{{对话|我|啊啊是我走太快震到你了吗？对不起对不起……|头像=广陵王-惊讶}}\n\n\n\n==郭嘉&贾诩&荀彧·离魂==\n<big>辟雍三闲</big><br>\n{{对话|我|桑拿房的雾气好重……咳。|头像=广陵王-难受}}\n{{对话|郭嘉|呼，吸一口雾气，呼……吸一口雾气……呼……晕乎乎……|头像=郭嘉离魂}}\n{{对话|贾诩|（在两块石头上左右横跳）|头像=贾诩离魂}}\n{{对话|荀彧|不一样……为什么两棵树的叶子数量不一样……这不公平……|头像=荀彧离魂}}\n{{对话|郭嘉|我的英雄到哪里去了……英雄呢……|头像=郭嘉离魂}}\n{{对话|郭嘉|呼……再吸一口……|头像=郭嘉离魂}}\n{{对话|我|因为吸烟吸太多，你和其他的离魂已经出现色差了……|头像=广陵王-无语}}\n{{对话|贾诩|（继续在两块石头上左右横跳）|头像=贾诩离魂}}\n{{对话|郭嘉|跳的我头都晕了……|头像=郭嘉离魂}}\n{{对话|荀彧|它好像很珍惜能自由行动的感觉呢……啊啊！起风了，树叶的数量又不一样了！|头像=荀彧离魂}}\n{{对话|郭嘉|掉下来的叶子可以当烟叶……呼呼……呼……呼？嘟噜噜噜——|头像=郭嘉离魂}}\n{{对话|我|……啊，吸进太多气，漏气飞走了……|头像=广陵王-生气}}\n{{对话|贾诩|（跳累了，趴在一块石头上睡着了）|头像=贾诩离魂}}\n{{对话|郭嘉|嘟噜噜——|头像=郭嘉离魂}}\n{{对话|贾诩|呜！|头像=贾诩离魂}}\n{{对话|贾诩|（被飞回来的郭嘉撞下石头，一起弹走了）|头像=贾诩离魂}}\n{{对话|荀彧|郭嘉的风把树叶又吹掉了……不行不行，要一样的数量，一样的……|头像=荀彧离魂}}\n\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--张修又见张修!-->\n=<font color=white>'''张修又见张修·导入'''</font>=\n{{对话-头}}\n{{对话|我|靠着张仲景的温泉蛋、陈登的鱼、鲁肃的蘑菇、张角的贝壳，总算坚持到了这里……|头像=广陵王-愤怒}}\n{{对话|我|我必须打败庄园主人，给这个温泉山庄写第一条真实评价！|头像=广陵王-生气}}\n{{对话|张修|一定是五星好评，对吧……|头像=张修}}\n{{对话-尾}}\n\n</div>\n<div class=\"resp-tab-content\" style=\"display:none\"><!--活动结束-->\n=<font color=white>'''活动结束'''</font>=\n{{对话-头}}\n{{对话|我|总算是都回来了……|头像=广陵王-微笑}}\n{{对话|华佗|啊，感觉胳膊好酸……|头像=华佗}}\n{{对话|张仲景|感觉还有奇怪的味道……|头像=张仲景}}\n{{对话|颜良|绣球，绣球饿坏了吧？|头像=颜良}}\n{{对话|贾诩|郭奉孝，把我的拐杖还给我！！！|头像=贾诩}}\n{{对话|阿蝉|楼主，既然人到齐了，我就准备统计人数、登记入住了。|头像=阿蝉}}\n{{对话|阿蝉|这是刚才张修送来的账单，请签单。|头像=阿蝉}}\n{{对话|我|我看看……|头像=广陵王-微笑}}\n{{对话|我|…………|头像=广陵王-无语}}\n{{对话|陈登|嗯？是太贵了吗？钱没带够的话，晚生来付也行。|头像=陈登}}\n{{对话|陈登|……等等，好便宜！|头像=陈登}}\n{{对话|众人|傅、融！——果然是因为这里最便宜才选了这里！！！}}\n{{对话-尾}}\n\n\n</div></div></div></div></div></div></div>\n</div>\n\n\n<center><a href=\"#top\">回到顶部</a></center>\n\n\n[[分类:活动剧情]]"
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "q_xunyou_1",
+    "dimension": "S1",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "荀攸",
+    "source_story": "函谷关之局",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "函谷关前十余万叛军虎视眈眈。荀攸做出惊天决定——打开函谷关放叛军入关。如果你是他的同僚？",
+    "options": [
+      {
+        "label": "A",
+        "text": "坚决反对放虎入关后果不堪设想",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "先问清楚全盘计划再判断",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "支持，敢做这种决定的人必有深谋",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "荀攸的谋算不靠武力，靠布局和人心。"
+  },
+  {
+    "id": "q_xunyou_2",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "荀攸",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「大家都走了，我才看见你一个人伏案睡着了。」荀攸没有叫醒广陵王，只是看着。如果你是他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "轻轻叫醒她提醒回房休息",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "不叫醒默默守着等她自己醒",
+        "scores": {
+          "S8": 4,
+          "S4": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "留张纸条就离开，值得关注",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "荀攸没有叫醒你。他只是看着。温柔藏在「没什么」里。"
+  },
+  {
+    "id": "q_xunyou_3",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "荀攸",
+    "source_story": "三赌之约",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「因缘太深，离开时就会难过。与其如此，不如一开始就不要走得太近。」如果你是荀攸？",
+    "options": [
+      {
+        "label": "A",
+        "text": "既然迟早要分开那就保持距离",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "明知会难过还是想走近一些",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "看情况不刻意亲近也不刻意疏远",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "荀攸连「亲近」都被计算成了「风险」。"
+  },
+  {
+    "id": "q_xunyou_4",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "荀攸",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「……没什么。不慎伤到了。你现在雨雪天还头疼吗？」明明是自己的伤，落脚点却在对方身上。如果你受伤了怎么跟在乎的人说？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直说伤情不藏着掖着",
+        "scores": {
+          "S2": 4,
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "轻描淡写带过反而关心对方",
+        "scores": {
+          "S2": 2,
+          "S8": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "等对方问起来再说",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "「不慎伤到了」五个字轻得像在说别人的事。"
+  },
+  {
+    "id": "q_xunyou_5",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "荀攸",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「……哪怕是和你重逢之后，这一路上我都在想，如果你死在了我的布局里……我都可以立刻杀了你。」潜台词是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "他在威胁你随时可能动手",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "他在找不杀你的理由一直在找",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "他在坦白矛盾既是棋手也动了感情",
+        "scores": {
+          "S6": 3.5,
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这句话来自荀攸。说的是「可以杀你」，潜台词是一直在找不杀你的理由。"
+  },
+  {
+    "id": "q_xunyou_6",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「查账从来不是目的，是手段。」面对复杂局面你更认同哪种做事方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "每一件事都要服务于更大的棋局",
+        "scores": {
+          "S9": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "做好眼前的事不刻意布局",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "有全局观但也关注当下",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "荀攸不忠于任何一方，只忠于赌约。"
+  },
+  {
+    "id": "q_xunyou_7",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "广陵",
+    "city_hint": null,
+    "text": "你接到任务护送一位重要人物穿越三道关卡。你知道路上可能有人要杀她，但任务是「护送」而非「保护」。你？",
+    "options": [
+      {
+        "label": "A",
+        "text": "严格按任务执行不越界",
+        "scores": {
+          "S5": 3,
+          "S10": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "全程保护哪怕任务没要求",
+        "scores": {
+          "S5": 3.5,
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "暗中试探她是否值得保护再决定",
+        "scores": {
+          "S5": 3.5,
+          "S1": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": null
+  },
+  {
+    "id": "q_xunyou_8",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「钱不用带太多，平时只是偶尔花些零钱。」",
+        "scores": {
+          "S3": 2.5,
+          "S1": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「纵千夫所指，难定一人之罪。」",
+        "scores": {
+          "S3": 2,
+          "S1": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A来自荀攸对金钱的淡然；B来自他对权谋的深刻理解。"
+  }
+]

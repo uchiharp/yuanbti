@@ -1,0 +1,55 @@
+{
+  "title": "丹书白马/10",
+  "category": "主线剧情",
+  "characters": [
+    "坚定士兵",
+    "我",
+    "逃兵",
+    "雀使"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "我已依楼主吩咐，管束兵士，调整布防。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "现下如何？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "有数名士兵趁乱逃走，但大局已经控制住了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "坚定士兵",
+      "text": "我是彭城的兵，城在人在！城破人亡！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "留下据城死守，尚有一线生机。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "逃兵",
+      "text": "要留你留，我可不想死！",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%B9%E4%B9%A6%E7%99%BD%E9%A9%AC/10",
+  "crawled_at": "2026-04-12T21:52:40.020743",
+  "raw_wikitext": "{{对话-头}}\n{{对话|雀使|我已依楼主吩咐，管束兵士，调整布防。}}\n{{对话|我|现下如何？}}\n{{对话|雀使|有数名士兵趁乱逃走，但大局已经控制住了。}}\n{{对话|坚定士兵|我是彭城的兵，城在人在！城破人亡！}}\n{{对话|我|留下据城死守，尚有一线生机。}}\n{{对话|逃兵|要留你留，我可不想死！}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "q_zhuran_01",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "朱然",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "长沙",
+    "text": "你奉命镇守一座孤城，敌军围困数月，粮草将尽。有士兵提议开城投降以保全性命。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "考虑士兵的生命，谈判争取体面投降",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "坚守不出，同时派人突围求援",
+        "scores": {
+          "S6": 3,
+          "S10": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "与城共存亡，绝不开城投降",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自朱然的密探故事——他以守城闻名，意志如铁。"
+  },
+  {
+    "id": "q_zhuran_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "朱然",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼执行任务时，你发现队友为了赶进度抄了近道——但这近道穿越了一片禁区，违反了行动纪律。任务因此提前完成。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "既然任务完成了，就不必追究",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "事后提醒队友下次注意，不上报",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "如实记录在行动报告中，纪律不容破坏",
+        "scores": {
+          "S10": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "朱然是军纪的化身，即便结果好也不容忍过程违规。"
+  }
+]

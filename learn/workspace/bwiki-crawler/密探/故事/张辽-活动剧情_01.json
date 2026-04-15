@@ -1,0 +1,355 @@
+{
+  "title": "张辽-活动剧情/01",
+  "category": "密探故事",
+  "characters": [
+    "使者",
+    "士族青年",
+    "宾客",
+    "张辽",
+    "我",
+    "文官",
+    "王氏家主",
+    "王氏门客",
+    "阍人",
+    "阿蝉"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "阍人",
+      "text": "头像=绣衣楼密探",
+      "emotion": "颍川王氏、颍川胡氏的贵客到了，六台车马，带去车坊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阍人",
+      "text": "头像=绣衣楼密探",
+      "emotion": "广陵王府的贵客到了，十二台车马，带去南车坊……还有坐骑一队，马厩还有位置吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阍人",
+      "text": "头像=绣衣楼密探",
+      "emotion": "把马匹都看好了……别再像上个月那样被小子弄丢了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……好吵。而且都在看我们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽·佩绂",
+      "emotion": "谁让你穿成这样的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "你说要正装。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嗯，你说要正装。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽·佩绂",
+      "emotion": "不是西凉的正装！……咳，咳。而且你不热吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "热啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "看着都觉得很热……但是真漂亮啊，这么雍容的兽皮，是完整剥下来的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽·佩绂",
+      "emotion": "当年看着那些塞人剥下来的，拿一箱没药乳香换来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏门客",
+      "text": "头像=彭城叛将",
+      "emotion": "殿下难得亲临，长途劳顿，请先往谒舍安置……啊，这几位……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽·佩绂",
+      "emotion": "阿、阿嚏！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "你让我带的手巾，文远叔。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽·佩绂",
+      "emotion": "拿袖子就……咳！咳咳……多谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏门客",
+      "text": "头像=彭城叛将",
+      "emotion": "……真是气度不凡啊！……这二位也要入席吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏家主",
+      "text": "头像=贵族中年男",
+      "emotion": "这位便是信中提起过的张辽将军吧？将军如今是驻军徐州了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "还未驻军，西凉骑兵很难适应徐州水土。下个月准备拔营往他处。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏家主",
+      "text": "头像=贵族中年男",
+      "emotion": "年前王氏也曾欲招募过骑兵，但都留不住。不是马病，便是纵兵劫掠，或是水土不服……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏家主",
+      "text": "头像=贵族中年男",
+      "emotion": "骑兵要的粮草也贵得惊人，需要步卒四五倍的供给，粮草稍微差一点就会有马病，真是难伺候。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏家主",
+      "text": "头像=贵族中年男",
+      "emotion": "你们在并、凉作战，那么荒蛮的地方，粮草是怎么供应上的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "遍地都是鲜美的水草。其实关外只是有些地方荒凉……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏家主",
+      "text": "头像=贵族中年男",
+      "emotion": "哎，上次公子和殿下说的孝廉举荐，名单如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宾客",
+      "text": "头像=文官",
+      "emotion": "殿下也以为王氏人才济济，足以和糜氏抗衡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……但富饶的地方……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏家主",
+      "text": "头像=贵族中年男",
+      "emotion": "去年是糜氏定的徭役，陈氏定的税。今年殿下自领徐州牧，欲施行徭税两拆的旧政。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宾客",
+      "text": "头像=文官",
+      "emotion": "若是能徭税两拆，便能保住今年的农时。徐州大战方罷，正是要休养生息的时候。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "譬如西城虽有沙漠，但西城南的黍和麦能长得……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "文远叔，他们好像没有在听你说话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "喝酒，喝酒。片刻后会聊今年各地的募兵，我再替你引荐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=美型文官",
+      "emotion": "说起当今风云人物，不知诸位听闻过祢衡之名吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "不知许都今年的税计，殿下会应允几成？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "使君此言差矣！今天下人心半数在许都，袁氏已失天子，若长久而观……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王氏家主",
+      "text": "头像=贵族中年男",
+      "emotion": "……你……怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "文远叔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽·佩绂",
+      "emotion": "……什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "文远叔想说话！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "…………！！！！！坐、坐下！坐下！",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"密探活动剧情/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width100px;padding10px;fontweightbold;fontsize16px;background;backgroundrgb(45 37 51 / 80%);colorcbbba4;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;background e1e5ea;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": ".zhuxiancolor a fontweightbolder;fontfamily\"Times New Roman\",Georgia,Serif;borderradius6px;backgrounde0cba7;padding6px 15px 6px 15px ;border2px solid e0cba7;color5B3619;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "font class'zhuxiancolor'a href\"top\" 回到顶部/a/font"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E8%BE%BD-%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/01",
+  "crawled_at": "2026-04-12T22:36:28.859942",
+  "raw_wikitext": "{{面包屑|密探|密探故事}}[[分类:密探故事]]\n<div id=\"top\"></div>\n<center>\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">密探活动剧情</div>\n<div class=\"map-dh-right\">\n{{板块|按钮|张辽-活动剧情/01|华堂夜宴·壹}}\n{{板块|按钮|张辽-活动剧情/02|华堂夜宴·贰}}<br>\n{{板块|按钮|张辽-活动剧情/03|张辽01}}\n{{板块|按钮|张辽-活动剧情/04|张辽02}}\n{{板块|按钮|张辽-活动剧情/05|张辽03}}\n{{板块|按钮|张辽-活动剧情/06|张辽04}}\n{{板块|按钮|张辽-活动剧情/07|张辽05}}\n{{板块|按钮|张辽-活动剧情/08|张辽06}}\n{{板块|按钮|张辽-活动剧情/09|张辽07}}<br>\n{{颜色|#5B5B73|密探剧情请移步[[张辽-密探故事/01|密探故事·张辽]]继续阅读}}<br>\n</div></div>\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:100px;padding:10px;font-weight:bold;font-size:16px;background:;background:rgb(45 37 51 / 80%);color:#cbbba4;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background: #e1e5ea;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n.zhuxiancolor a {font-weight:bolder;font-family:\"Times New Roman\",Georgia,Serif;border-radius:6px;background:#e0cba7;padding:6px 15px 6px 15px ;border:2px solid #e0cba7;color:#5B3619;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n</center>\n{{对话-头}}\n{{旁白|【琅琊】}}\n{{对话|阍人|颍川王氏、颍川胡氏的贵客到了，六台车马，带去车坊。|头像=绣衣楼密探}}\n{{对话|阍人|广陵王府的贵客到了，十二台车马，带去南车坊……还有坐骑一队，马厩还有位置吗？|头像=绣衣楼密探}}\n{{对话|阍人|把马匹都看好了……别再像上个月那样被小子弄丢了。|头像=绣衣楼密探}}\n{{对话|阿蝉|……好吵。而且都在看我们。}}\n{{对话|张辽|谁让你穿成这样的？|头像=张辽·佩绂}}\n{{对话|阿蝉|你说要正装。}}\n{{对话|我|嗯，你说要正装。|头像=广陵王-微笑}}\n{{对话|张辽|不是西凉的正装！……咳，咳。而且你不热吗？|头像=张辽·佩绂}}\n{{对话|阿蝉|热啊。}}\n{{对话|我|看着都觉得很热……但是真漂亮啊，这么雍容的兽皮，是完整剥下来的吗？|头像=广陵王-微笑}}\n{{对话|张辽|当年看着那些塞人剥下来的，拿一箱没药乳香换来了。|头像=张辽·佩绂}}\n{{旁白|侍从来带走马车和坐骑。西凉马无动于衷，不管他们怎么拖拽，西凉人的坐骑都没有反应。}}\n{{旁白|张辽回头对着侍卫说了一句羌语，两名侍卫接过了侍从手上的缰绳，牵走了马匹。}}\n{{对话|王氏门客|殿下难得亲临，长途劳顿，请先往谒舍安置……啊，这几位……|头像=彭城叛将}}\n{{旁白|他看向我身后。}}\n{{对话|阿蝉|……}}\n{{对话|张辽|阿、阿嚏！|头像=张辽·佩绂}}\n{{对话|阿蝉|你让我带的手巾，文远叔。}}\n{{对话|张辽|拿袖子就……咳！咳咳……多谢。|头像=张辽·佩绂}}\n{{旁白|一名奇装异服的西凉少女。}}\n{{旁白|一名虽然没有奇装异服但比奇装异服还诡异的西凉男人。因为糊了太厚的胡粉，打喷嚏的时候往下掉渣。}}\n{{对话|王氏门客|……真是气度不凡啊！……这二位也要入席吗……|头像=彭城叛将}}\n{{旁白|【宴席】}}\n{{对话|王氏家主|这位便是信中提起过的张辽将军吧？将军如今是驻军徐州了吗？|头像=贵族中年男}}\n{{对话|张辽|还未驻军，西凉骑兵很难适应徐州水土。下个月准备拔营往他处。}}\n{{对话|王氏家主|年前王氏也曾欲招募过骑兵，但都留不住。不是马病，便是纵兵劫掠，或是水土不服……|头像=贵族中年男}}\n{{对话|王氏家主|骑兵要的粮草也贵得惊人，需要步卒四五倍的供给，粮草稍微差一点就会有马病，真是难伺候。|头像=贵族中年男}}\n{{对话|王氏家主|你们在并、凉作战，那么荒蛮的地方，粮草是怎么供应上的？|头像=贵族中年男}}\n{{对话|张辽|遍地都是鲜美的水草。其实关外只是有些地方荒凉……}}\n{{对话|王氏家主|哎，上次公子和殿下说的孝廉举荐，名单如何？|头像=贵族中年男}}\n{{对话|宾客|殿下也以为王氏人才济济，足以和糜氏抗衡。|头像=文官}}\n{{对话|张辽|……但富饶的地方……}}\n{{对话|王氏家主|去年是糜氏定的徭役，陈氏定的税。今年殿下自领徐州牧，欲施行徭税两拆的旧政。|头像=贵族中年男}}\n{{对话|宾客|若是能徭税两拆，便能保住今年的农时。徐州大战方罷，正是要休养生息的时候。|头像=文官}}\n{{对话|张辽|譬如西城虽有沙漠，但西城南的黍和麦能长得……}}\n{{对话|阿蝉|文远叔，他们好像没有在听你说话。}}\n{{对话|我|喝酒，喝酒。片刻后会聊今年各地的募兵，我再替你引荐。|头像=广陵王-微笑}}\n{{旁白|……}}\n{{对话|文官|说起当今风云人物，不知诸位听闻过祢衡之名吗？|头像=美型文官}}\n{{旁白|……}}\n{{对话|使者|不知许都今年的税计，殿下会应允几成？|头像=侍从}}\n{{旁白|……}}\n{{对话|士族青年|使君此言差矣！今天下人心半数在许都，袁氏已失天子，若长久而观……|头像=男文人}}\n{{旁白|一声闷响，她重重放了杯子，带着那一身瞩目的装束起身——}}\n{{对话|阿蝉|……}}\n{{对话|王氏家主|……你……怎么了？|头像=贵族中年男}}\n{{对话|阿蝉|文远叔！}}\n{{对话|张辽|……什么？|头像=张辽·佩绂}}\n{{对话|阿蝉|文远叔想说话！}}\n{{对话|张辽|……}}\n{{对话|张辽|…………！！！！！坐、坐下！坐下！}}\n{{对话-尾}}\n<center>\n{{板块|按钮|张辽-活动剧情/02|下一节}}<br><br><br>\n<font class='zhuxiancolor'><a href=\"#top\" >回到顶部</a></font>\n</center>"
+}

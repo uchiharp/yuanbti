@@ -1,0 +1,435 @@
+{
+  "title": "青丘戏坊/活动剧情/张飞",
+  "category": "活动剧情",
+  "characters": [
+    "张飞",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "太疾驰竟然在这里有大堂包厢外送服务……晚了一步，可惜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "各处都很鲜艳。比颜料还要鲜艳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "我一会四处转转。接了点私活，找找人体参考。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "当大哥的心都脏。我大哥也很会猜拳，你们应该来一把。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "酒比绣衣楼食堂里的好喝，但没有你书房的好喝。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "嫌平局不刺激？出去打，这里会塌。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "赢了。有灵感了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "《广陵王醉饮图》。纸笔在哪里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "不用整理仪表，醉饮后都是去帐中大睡，画上不会有人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "为什么总是站着？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "跟着大哥习惯了，他赴宴，我和二哥就站旁边。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "站着，方便跑、跳、挡刀、杀人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "杀人画画二选一？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "好像都不是必不可少的东西，非要选的话，画画。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "二者都很简单，但画画还有进步的空间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "春梦的后台是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "不能说。入职前签过保密协议，离职前签的竞业协议里也有保密条款。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "不是怕他们，猴子们张牙舞爪没什么杀伤力，但数量多了，吠起来烦人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "讨厌什么样的甲方？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "钱少事多，总想白嫖，指手画脚，验收流程复杂，打款很不痛快，余款甚至不结，结项还要售后……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "你脸色好差，对号入座？我说的人里没有你。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头张飞brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''张飞'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"初见对话&水榭戏台/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"水榭戏台/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援火把应援火把"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"拿高点，这么扔，烫不到手。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px手持幅巾手持幅巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不够细，勒脖子不好用。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px千里镜千里镜"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"现在挑飞的距离不够远，加上它可以弥补视野。但还需实战磨合练习。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鼓掌拍鼓掌拍"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"拍！没什么，虫子而已，已经拍死了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px耳塞（青丘戏坊）耳塞"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"还行，没有春梦那些猫吵。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px应援扇应援扇"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"扇上画风眼熟。找哪位老师约的稿？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px瓜子瓜子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我来剥。任务需要耐心，无声无息剥瓜子，最适合训练耐心。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px铃鼓铃鼓"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"气氛组缺人？接，费用日结。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px号筒号筒"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"砸了，不想被催稿的甲方看到。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具（青丘戏坊）博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不玩。没钱。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰饮子（青丘戏坊）冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"喝下去感觉……更清心寡欲了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼（青丘戏坊）糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"每次离家，母亲都强塞一包袱糕饼，她好像很担心我会随时饿死在路上。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露紫果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"寡淡，不如我酒庄里的。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘（青丘戏坊）果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"就这个角度，可以画净物。不是静物，大家都吃干净了的净物。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px投壶投壶"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"第一名奖金多少？没有？不玩。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px赏钱赏钱"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这些钱的话……这个、那个、还有那个，可以做掉，现在动手？/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"为什么总是站着？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao杀人画画二选一？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao春梦的后台是谁？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao讨厌什么样的甲方？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%9D%92%E4%B8%98%E6%88%8F%E5%9D%8A/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%BC%A0%E9%A3%9E",
+  "crawled_at": "2026-04-12T22:04:47.023014",
+  "raw_wikitext": "{{面包屑|2025活动剧情|青丘戏坊/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:青丘戏坊背景.png}}}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/蛾使|蛾使}}\n{{板块|按钮|青丘戏坊/活动剧情/眭固|眭固}}\n{{板块|按钮|青丘戏坊/活动剧情/雀使|雀使}}\n{{板块|按钮|青丘戏坊/活动剧情/第五天|第五天}}\n{{板块|按钮|青丘戏坊/活动剧情/许攸|许攸}}\n{{板块|按钮|青丘戏坊/活动剧情/许曼|许曼}}\n{{板块|按钮|青丘戏坊/活动剧情/鲁肃|鲁肃}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/戏学|戏学}}\n{{板块|按钮|青丘戏坊/活动剧情/张燕|张燕}}\n{{板块|按钮|青丘戏坊/活动剧情/吕蒙|吕蒙}}\n{{板块|按钮|青丘戏坊/活动剧情/张仲景|张仲景}}\n{{板块|按钮|青丘戏坊/活动剧情/张郃|张郃}}\n{{板块|按钮|青丘戏坊/活动剧情/张飞|张飞}}\n{{板块|按钮|青丘戏坊/活动剧情/华佗|华佗}}\n</center>{{JS|Qiantao.js}}[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-张飞.png|100px|团建密探小头-张飞]]<br><br>\n'''张飞'''\n</center>\n='''<span style=\"color:#a06051\">初见对话&水榭戏台</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|张飞|画群像么？九五折，不配合的打骨折。|头像=q版-张飞|语音=张飞-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">水榭戏台</p>\n|\n{{对话-头}}\n{{对话语音|张飞|我来吹笛吧。|头像=q版-张飞|语音=张飞-水榭戏台}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#a06051\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签\n|-\n| [[file:应援火把.png|30px|应援火把]][[应援火把|应援火把]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=应援火把|对应援火把的喜好=|语音=|性格标签=/|语音内容=拿高点，这么扔，烫不到手。}}</nowiki>\">拿高点，这么扔，烫不到手。</span>\n|| /\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:手持幅巾.png|30px|手持幅巾]][[手持幅巾|手持幅巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=手持幅巾|对手持幅巾的喜好=讨厌|语音=|性格标签=/|语音内容=不够细，勒脖子不好用。}}</nowiki>\">不够细，勒脖子不好用。</span>\n|| /\n|-\n|[[file:千里镜.png|30px|千里镜]][[千里镜|千里镜]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=千里镜|对千里镜的喜好=|语音=|性格标签=/|语音内容=现在挑飞的距离不够远，加上它可以弥补视野。但还需实战磨合练习。}}</nowiki>\">现在挑飞的距离不够远，加上它可以弥补视野。但还需实战磨合练习。</span>\n|| /\n|[[file:鼓掌拍.png|30px|鼓掌拍]][[鼓掌拍|鼓掌拍]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=鼓掌拍|对鼓掌拍的喜好=|语音=|性格标签=/|语音内容=拍！没什么，虫子而已，已经拍死了。}}</nowiki>\">拍！没什么，虫子而已，已经拍死了。</span>\n||/\n|-\n|[[file:耳塞（青丘戏坊）.png|30px|耳塞（青丘戏坊）]][[耳塞（青丘戏坊）|耳塞]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=耳塞（青丘戏坊）|对耳塞（青丘戏坊）的喜好=|语音=|性格标签=身经百闹|语音内容=还行，没有春梦那些猫吵。}}</nowiki>\">还行，没有春梦那些猫吵。</span>\n|| {{色块|命盘红|身经百闹}}\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:应援扇.png|30px|应援扇]][[应援扇|应援扇]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=应援扇|对应援扇的喜好=喜欢|语音=|性格标签=/|语音内容=扇上画风眼熟。找哪位老师约的稿？}}</nowiki>\">扇上画风眼熟。找哪位老师约的稿？</span>\n|| /\n|-\n| [[file:瓜子.png|30px|瓜子]][[瓜子|瓜子]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=瓜子|对瓜子的喜好=|语音=|性格标签=/|语音内容=我来剥。任务需要耐心，无声无息剥瓜子，最适合训练耐心。}}</nowiki>\">我来剥。任务需要耐心，无声无息剥瓜子，最适合训练耐心。</span>\n|| /\n| [[file:铃鼓.png|30px|铃鼓]][[铃鼓|铃鼓]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=铃鼓|对铃鼓的喜好=|语音=|性格标签=/|语音内容=气氛组缺人？接，费用日结。}}</nowiki>\">气氛组缺人？接，费用日结。</span>\n|| /\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:号筒.png|30px|号筒]][[号筒|号筒]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=号筒|对号筒的喜好=讨厌|语音=|性格标签=退退退|语音内容=砸了，不想被催稿的甲方看到。}}</nowiki>\">砸了，不想被催稿的甲方看到。</span>\n|| {{色块|绿|退退退}}\n| [[file:博具（青丘戏坊）.png|30px|博具（青丘戏坊）]][[博具（青丘戏坊）|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=博具（青丘戏坊）|对博具（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=不玩。没钱。}}</nowiki>\">不玩。没钱。</span>\n|| /\n|-\n|[[file:冰饮子（青丘戏坊）.png|30px|冰饮子（青丘戏坊）]][[冰饮子（青丘戏坊）|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=冰饮子（青丘戏坊）|对冰饮子（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=喝下去感觉……更清心寡欲了。}}</nowiki>\">喝下去感觉……更清心寡欲了。</span>\n|| /\n|[[file:糕饼（青丘戏坊）.png|30px|糕饼（青丘戏坊）]][[糕饼（青丘戏坊）|糕饼]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=糕饼（青丘戏坊）|对糕饼（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=每次离家，母亲都强塞一包袱糕饼，她好像很担心我会随时饿死在路上。}}</nowiki>\">每次离家，母亲都强塞一包袱糕饼，她好像很担心我会随时饿死在路上。</span>\n|| /\n|-\n|[[file:果子露-紫.png|30px|果子露-紫]][[果子露（青丘戏坊）|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=果子露（青丘戏坊）|对果子露（青丘戏坊）的喜好=|语音=|性格标签=酒庄主人|语音内容=寡淡，不如我酒庄里的。}}</nowiki>\">寡淡，不如我酒庄里的。</span>\n|| {{色块|命盘蓝|酒庄主人}}\n|[[file:果盘（青丘戏坊）.png|30px|果盘（青丘戏坊）]][[果盘（青丘戏坊）|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=果盘（青丘戏坊）|对果盘（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=就这个角度，可以画净物。不是静物，大家都吃干净了的净物。}}</nowiki>\">就这个角度，可以画净物。不是静物，大家都吃干净了的净物。</span>\n|| /\n|-\n| [[file:投壶.png|30px|投壶]][[投壶|投壶]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=投壶|对投壶的喜好=|语音=|性格标签=/|语音内容=第一名奖金多少？没有？不玩。}}</nowiki>\">第一名奖金多少？没有？不玩。</span>\n|| /\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:赏钱.png|30px|赏钱]][[赏钱|赏钱]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张飞|喜好物品=赏钱|对赏钱的喜好=喜欢|语音=|性格标签=敬业|语音内容=这些钱的话……这个、那个、还有那个，可以做掉，现在动手？}}</nowiki>\">这些钱的话……这个、那个、还有那个，可以做掉，现在动手？</span>\n|| {{色块|命盘蓝|敬业}}\n|}\n\n='''<span style=\"color:#a06051\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|张飞|太疾驰竟然在这里有大堂包厢外送服务……晚了一步，可惜。|头像=q版-张飞}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|张飞|各处都很鲜艳。比颜料还要鲜艳。|头像=q版-张飞}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|张飞|我一会四处转转。接了点私活，找找人体参考。|头像=q版-张飞}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#a06051\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|张飞|当大哥的心都脏。我大哥也很会猜拳，你们应该来一把。|头像=q版-张飞}}\n{{旁白|张飞喝下一杯果子露}}\n{{对话|张飞|酒比绣衣楼食堂里的好喝，但没有你书房的好喝。|头像=q版-张飞}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|张飞|嫌平局不刺激？出去打，这里会塌。|头像=q版-张飞}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|张飞|赢了。有灵感了。|头像=q版-张飞}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|张飞|《广陵王醉饮图》。纸笔在哪里？|头像=q版-张飞}}\n{{对话|张飞|不用整理仪表，醉饮后都是去帐中大睡，画上不会有人。|头像=q版-张飞}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#a06051\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">为什么总是站着？</div>\n{{对话-头}}\n{{对话|我|为什么总是站着？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张飞|跟着大哥习惯了，他赴宴，我和二哥就站旁边。|头像=q版-张飞}}\n{{对话|张飞|站着，方便跑、跳、挡刀、杀人。|头像=q版-张飞}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>杀人画画二选一？</div>\n{{对话-头}}\n{{对话|我|杀人画画二选一？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张飞|好像都不是必不可少的东西，非要选的话，画画。|头像=q版-张飞}}\n{{对话|张飞|二者都很简单，但画画还有进步的空间。|头像=q版-张飞}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>春梦的后台是谁？</div>\n{{对话-头}}\n{{对话|我|春梦的后台是谁？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张飞|不能说。入职前签过保密协议，离职前签的竞业协议里也有保密条款。|头像=q版-张飞}}\n{{对话|张飞|不是怕他们，猴子们张牙舞爪没什么杀伤力，但数量多了，吠起来烦人。|头像=q版-张飞}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>讨厌什么样的甲方？</div>\n{{对话-头}}\n{{对话|我|讨厌什么样的甲方？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张飞|钱少事多，总想白嫖，指手画脚，验收流程复杂，打款很不痛快，余款甚至不结，结项还要售后……|头像=q版-张飞}}\n{{对话|张飞|你脸色好差，对号入座？我说的人里没有你。|头像=q版-张飞}}\n{{对话-尾}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情/华佗|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

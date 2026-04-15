@@ -1,0 +1,242 @@
+{
+  "title": "模板:密探活动剧情",
+  "category": "密探故事",
+  "characters": [
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "对话内容",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "内容",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "内容",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "故事节数"
+    },
+    {
+      "type": "narration",
+      "text": "头分类密探故事"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"密探活动剧情/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width100px;padding10px;fontweightbold;fontsize16px;background;backgroundrgb(45 37 51 / 80%);colorcbbba4;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;background e1e5ea;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "12  密探故事/ 1 2上一节"
+    },
+    {
+      "type": "narration",
+      "text": "01  密探故事/ +1 2下一节"
+    },
+    {
+      "type": "narration",
+      "text": "密探故事/ 1 2上一节密探故事/ +1 2下一节"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "font class'zhuxiancolor'a href\"top\" 回到顶部/a/font"
+    },
+    {
+      "type": "narration",
+      "text": "! 记录一些挣扎失败的结果"
+    },
+    {
+      "type": "narration",
+      "text": "密探故事/ +1 2下一节"
+    },
+    {
+      "type": "narration",
+      "text": "密探故事/ 1 2上一节密探故事/ +1 2下一节"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".zhuxiancolor a"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbolder;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily\"Times New Roman\",Georgia,Serif;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius6px;backgrounde0cba7;"
+    },
+    {
+      "type": "narration",
+      "text": "padding6px 15px 6px 15px ;"
+    },
+    {
+      "type": "narration",
+      "text": "border2px solid e0cba7;"
+    },
+    {
+      "type": "narration",
+      "text": "color5B3619;"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "noinclude"
+    },
+    {
+      "type": "narration",
+      "text": "密探活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "此模板用于录入密探故事"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "pre（无需书写以及）/pre"
+    },
+    {
+      "type": "narration",
+      "text": "pre如果因活动/产出皮肤等，需要增补信息，请使用补充信息参数/pre"
+    },
+    {
+      "type": "narration",
+      "text": "效果展示"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "补充信息brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E5%AF%86%E6%8E%A2%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:22:34.650010",
+  "raw_wikitext": "<includeonly>\n {{#set:\n |密探={{{2}}}\n |故事节数={{{3}}}\n }}\n \n{{#switch:{{{1|}}}\n|头=[[分类:密探故事]]\n<div id=\"top\"></div>\n{{JS|Qiantao.js}}\n{{面包屑|密探|密探故事|{{{2|}}}}}\n<center>\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">密探活动剧情</div>\n<div class=\"map-dh-right\">\n{{{目录}}}\n{{{补充信息|}}}\n</div></div>\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:100px;padding:10px;font-weight:bold;font-size:16px;background:;background:rgb(45 37 51 / 80%);color:#cbbba4;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background: #e1e5ea;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n</center>\n{{对话-头}}\n|尾=\n{{对话-尾}}\n<center>\n{{#switch:{{{3|}}}\n| 12 = {{板块|按钮|{{{2|}}}-密探故事/{{padleft: {{#expr: {{{3|}}} -1 }}|2}}|上一节}}\n| 01 = {{板块|按钮|{{{2|}}}-密探故事/{{padleft: {{#expr: {{{3|}}} +1 }}|2}}|下一节}}\n|{{板块|按钮|{{{2|}}}-密探故事/{{padleft: {{#expr: {{{3|}}} -1 }}|2}}|上一节}}{{板块|按钮|{{{2|}}}-密探故事/{{padleft: {{#expr: {{{3|}}} +1 }}|2}}|下一节}}\n}}<br><br><br>\n<font class='zhuxiancolor'><a href=\"#top\" >回到顶部</a></font>\n\n<!-- 记录一些挣扎失败的结果\n{{#ifeq: 01 | {{{3|}}} |{{板块|按钮|{{{2|}}}-密探故事/{{padleft: {{#expr: {{{3|}}} +1 }}|2}}|下一节}}\n|{{板块|按钮|{{{2|}}}-密探故事/{{padleft: {{#expr: {{{3|}}} -1 }}|2}}|上一节}}{{板块|按钮|{{{2|}}}-密探故事/{{padleft: {{#expr: {{{3|}}} +1 }}|2}}|下一节}}}}\n-->\n</center>\n}}\n{{#css:\n.zhuxiancolor a {\nfont-weight:bolder;\nfont-family:\"Times New Roman\",Georgia,Serif;\nborder-radius:6px;background:#e0cba7;\npadding:6px 15px 6px 15px ;\nborder:2px solid #e0cba7;\ncolor:#5B3619;\n}\n}}\n</includeonly>\n<noinclude>\n\n==密探活动剧情==\n此模板用于录入密探故事\n==使用方法==\n<pre>\n{{密探活动剧情|头|密探名|故事节数}}\n{{对话|我|对话内容}}\n{{旁白|旁白内容}}\n{{密探活动剧情|尾|密探名|故事节数}}\n</pre>\n<pre>（无需书写{{对话-头}}{{对话-尾}}以及{{JS|Qiantao.js}}）</pre>\n\n<pre>如果因活动/产出皮肤等，需要增补信息，请使用|补充信息参数=</pre>\n==效果展示==\n<pre>\n{{密探活动剧情|头|张辽|02|补充信息=<br><br>{{颜色|#5B5B73|活动剧情请移步[[密探故事|华堂夜宴·张辽]]继续阅读}}<br>}}\n{{对话|我|内容}}\n{{旁白|内容}}\n{{密探活动剧情|尾|张辽|02}}\n</pre>\n{{密探活动剧情|头|阿蝉\n|目录={{板块|按钮|阿蝉-活动剧情/01|华堂夜宴·壹}}\n{{板块|按钮|阿蝉-活动剧情/02|华堂夜宴·贰}}<br>\n{{板块|按钮|阿蝉-活动剧情/03|阿蝉01}}\n{{板块|按钮|阿蝉-活动剧情/04|阿蝉02}}\n{{板块|按钮|阿蝉-活动剧情/05|阿蝉03}}\n{{板块|按钮|阿蝉-活动剧情/06|阿蝉04}}\n{{板块|按钮|阿蝉-活动剧情/07|阿蝉05}}\n{{板块|按钮|阿蝉-活动剧情/08|阿蝉06}}\n{{板块|按钮|阿蝉-活动剧情/09|阿蝉07}}\n|补充信息=<br><br>{{颜色|#5B5B73|密探剧情请移步[[阿蝉-密探故事/01|密探故事·阿蝉]]继续阅读}}<br>}}\n\n{{对话|我|内容}}\n{{旁白|内容}}\n{{密探活动剧情|尾|阿蝉|02}}\n</noinclude>"
+}

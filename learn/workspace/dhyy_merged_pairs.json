@@ -1,0 +1,8066 @@
+[
+  {
+    "char_a": "傅融",
+    "char_b": "阿蝉",
+    "chapter_count": 45,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 45,
+        "chapters": [
+          "史子眇-密探故事/10",
+          "庞羲-密探故事/01",
+          "庞羲-密探故事/02",
+          "徐庶-密探故事/06",
+          "徐庶-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "诸葛瑾",
+    "char_b": "诸葛诞",
+    "chapter_count": 36,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟，诸葛诞性格活泼，诸葛瑾稳重",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "陶生"
+        ],
+        "evidence": [
+          "诸葛瑾：'阿诞，谨言慎行……' 诸葛诞：'哈欠……大清早就出发。' 兄弟互相关心。"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      },
+      {
+        "relation": "兄弟",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "刘繇-密探故事"
+        ],
+        "evidence": [
+          "诸葛瑾来接诸葛诞，担心他被孙策秋后算账"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "飞云",
+    "chapter_count": 34,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 34,
+        "chapters": [
+          "朱然-密探故事/01",
+          "荀彧-密探故事/04",
+          "荀攸-密探故事/12",
+          "蔡琰-密探故事/01",
+          "傅融-鸢记/影子"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "阿蝉",
+    "chapter_count": 33,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 33,
+        "chapters": [
+          "吕布-密探故事/03",
+          "吕布-密探故事/04",
+          "吕布-密探故事/05",
+          "吕布-密探故事/11",
+          "吕布-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "徐庶",
+    "chapter_count": 31,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 31,
+        "chapters": [
+          "庞羲-密探故事/01",
+          "庞羲-密探故事/02",
+          "庞羲-密探故事/03",
+          "徐庶-密探故事/06",
+          "徐庶-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "贾诩",
+    "char_b": "郭嘉",
+    "chapter_count": 31,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 31,
+        "chapters": [
+          "张绣-密探故事/08",
+          "张绣-密探故事/10",
+          "张绣-密探故事/11",
+          "张绣-密探故事/12",
+          "张郃-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陈登",
+    "chapter_count": 29,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 29,
+        "chapters": [
+          "庞羲-密探故事/01",
+          "庞羲-密探故事/02",
+          "庞羲-密探故事/03",
+          "徐庶-密探故事/07",
+          "徐庶-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "陈登",
+    "chapter_count": 28,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 28,
+        "chapters": [
+          "庞德-密探故事/06",
+          "庞羲-密探故事/01",
+          "庞羲-密探故事/02",
+          "徐庶-密探故事/07",
+          "徐庶-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "祢衡",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 25,
+        "chapters": [
+          "令狐茂-密探故事/02",
+          "司马徽-密探故事/02",
+          "祢衡-密探故事/01",
+          "祢衡-密探故事/02",
+          "祢衡-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "陈登",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 25,
+        "chapters": [
+          "孔融-密探故事/03",
+          "孔融-密探故事/04",
+          "孔融-密探故事/05",
+          "孔融-密探故事/06",
+          "孔融-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "孙策",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟，孙策照顾孙权",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "陶生"
+        ],
+        "evidence": [
+          "孙策：'阿权留下，万一阿香还留在宅邸里，能有个照应。' 孙权害怕时孙策安慰他。"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      },
+      {
+        "relation": "兄弟·自卑与竞争",
+        "count": 1,
+        "nature": "复杂",
+        "chapters": [
+          "孙权-密探故事"
+        ],
+        "evidence": [
+          "孙权称'大家都只在乎兄长'，渴望获得与兄长同等的认可"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "阿蝉",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 25,
+        "chapters": [
+          "庞羲-密探故事/01",
+          "庞羲-密探故事/02",
+          "徐庶-密探故事/06",
+          "徐庶-密探故事/07",
+          "徐庶-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "？？？",
+    "chapter_count": 24,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 24,
+        "chapters": [
+          "张辽-密探故事/12",
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "荀攸-密探故事/12",
+          "蔡琰-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "徐庶",
+    "chapter_count": 23,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 23,
+        "chapters": [
+          "令狐茂-密探故事/01",
+          "令狐茂-密探故事/02",
+          "安期-密探故事/01",
+          "安期-密探故事/06",
+          "安期-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "？？？",
+    "chapter_count": 23,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 23,
+        "chapters": [
+          "史子眇-密探故事/09",
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "荀彧-密探故事/01",
+          "荀攸-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "戏学",
+    "char_b": "袁基",
+    "chapter_count": 23,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 23,
+        "chapters": [
+          "张燕-密探故事/10",
+          "张燕-密探故事/11",
+          "张燕-密探故事/03",
+          "张燕-密探故事/04",
+          "张燕-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "董白",
+    "char_b": "马超",
+    "chapter_count": 23,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 23,
+        "chapters": [
+          "庞德-密探故事/07",
+          "庞德-密探故事/08",
+          "董白-密探故事/01",
+          "董白-密探故事/02",
+          "董白-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "史子眇",
+    "chapter_count": 22,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 22,
+        "chapters": [
+          "史子眇-密探故事/09",
+          "史子眇-密探故事/10",
+          "法正-密探故事/09",
+          "法正-密探故事/01",
+          "法正-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "马超",
+    "chapter_count": 22,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 22,
+        "chapters": [
+          "吕布-密探故事/12",
+          "庞德-密探故事/07",
+          "庞德-密探故事/08",
+          "董白-密探故事/02",
+          "董白-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "孙策",
+    "chapter_count": 22,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄妹，孙策信任孙尚香",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "陶生"
+        ],
+        "evidence": [
+          "孙策派孙尚香去拜访蒯越：'阿香，有个事交给你办。'"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "阿蝉",
+    "chapter_count": 21,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 21,
+        "chapters": [
+          "庞德-密探故事/03",
+          "庞德-密探故事/04",
+          "庞德-密探故事/06",
+          "庞德-密探故事/07",
+          "张仲景-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张鲁",
+    "chapter_count": 21,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "关联",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "刘辩与五斗米道有关联",
+        "count": 1,
+        "nature": "复杂",
+        "chapters": [
+          "斧蝶梦"
+        ],
+        "evidence": [
+          "刘辩在斧蝶梦中与益州道教势力有关联。"
+        ],
+        "shortRelation": "关联",
+        "relType": "其他"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛瑾",
+    "chapter_count": 21,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 21,
+        "chapters": [
+          "蒯良-密探故事/10",
+          "蒯良-密探故事/11",
+          "诸葛瑾-密探故事/10",
+          "诸葛瑾-密探故事/12",
+          "诸葛诞-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛诞",
+    "chapter_count": 21,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 21,
+        "chapters": [
+          "蒯良-密探故事/10",
+          "诸葛诞-密探故事/06",
+          "诸葛诞-密探故事/07",
+          "诸葛诞-密探故事/12",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "马超",
+    "chapter_count": 21,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 21,
+        "chapters": [
+          "马超-密探故事/01",
+          "马超-密探故事/02",
+          "马超-密探故事/03",
+          "马超-密探故事/04",
+          "三国志绒绒版/活动剧情/犬都纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "孙策",
+    "chapter_count": 20,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "主从·孙策的军师挚友",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "空花阳焰"
+        ],
+        "evidence": [
+          "周瑜在船上辅佐孙策，孙策称'公瑾'"
+        ],
+        "shortRelation": "主从",
+        "relType": "从属"
+      },
+      {
+        "relation": "同父异母兄弟（梦境中为同胞兄长）",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "周瑜-密探故事"
+        ],
+        "evidence": [
+          "在梦境中孙尚香称'你们是同胞兄妹'"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "傅融",
+    "chapter_count": 20,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 20,
+        "chapters": [
+          "徐庶-密探故事/09",
+          "朱然-密探故事/01",
+          "朱然-密探故事/02",
+          "朱然-密探故事/08",
+          "杨修-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "徐庶",
+    "chapter_count": 20,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 20,
+        "chapters": [
+          "法正-密探故事/09",
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "法正-密探故事/03",
+          "法正-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "张仲景",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "恩人",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "童年恩人·复杂情感",
+        "count": 1,
+        "nature": "复杂",
+        "chapters": [
+          "华佗-密探故事"
+        ],
+        "evidence": [
+          "华佗幼年穷困，张仲景从狗洞递食物给他；后称'恩将仇报，让他的家人曝尸荒野'"
+        ],
+        "shortRelation": "恩人",
+        "relType": "其他"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "雀使",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 19,
+        "chapters": [
+          "吕蒙-密探故事/09",
+          "士燮-密探故事/01",
+          "太史慈-密探故事/04",
+          "庞德-密探故事/04",
+          "张仲景-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "袁绍",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟·袁氏权力斗争",
+        "count": 1,
+        "nature": "复杂",
+        "chapters": [
+          "空花阳焰"
+        ],
+        "evidence": [
+          "袁绍与袁术对峙，袁基夹在中间"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "袁基",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 19,
+        "chapters": [
+          "士燮-密探故事/11",
+          "张燕-密探故事/09",
+          "张燕-密探故事/10",
+          "张燕-密探故事/11",
+          "张燕-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "徐庶",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 19,
+        "chapters": [
+          "徐庶-密探故事/01",
+          "徐庶-密探故事/04",
+          "徐庶-密探故事/08",
+          "法正-密探故事/09",
+          "法正-密探故事/01"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "孙权",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 19,
+        "chapters": [
+          "黄盖-密探故事/01",
+          "孙策-恋念剧情/金窗绣户",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "？？？",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 18,
+        "chapters": [
+          "令狐茂-密探故事/01",
+          "安期-密探故事/09",
+          "诸葛亮-密探故事/01",
+          "黄月英-密探故事/02",
+          "黄月英-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "文官",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 18,
+        "chapters": [
+          "令狐茂-密探故事/04",
+          "令狐茂-密探故事/05",
+          "夏侯渊-密探故事/02",
+          "孔融-密探故事/02",
+          "孔融-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "阿蝉",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 18,
+        "chapters": [
+          "史子眇-密探故事/10",
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "法正-密探故事/03",
+          "法正-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "？？？",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 18,
+        "chapters": [
+          "吕蒙-密探故事/06",
+          "吕蒙-密探故事/09",
+          "张燕-密探故事/01",
+          "文丑-密探故事/06",
+          "荀攸-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "郭嘉",
+    "char_b": "陈登",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 18,
+        "chapters": [
+          "孔融-密探故事/01",
+          "孔融-密探故事/03",
+          "孔融-密探故事/04",
+          "孔融-密探故事/05",
+          "孔融-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "甘宁",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 18,
+        "chapters": [
+          "甘宁-密探故事/01",
+          "甘宁-密探故事/02",
+          "甘宁-密探故事/03",
+          "甘宁-密探故事/05",
+          "甘宁-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "侍女",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "凌统-密探故事/07",
+          "凌统-密探故事/06",
+          "刘璋-密探故事/01",
+          "周忠-密探故事/04",
+          "周忠-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "阿蝉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "令狐茂-密探故事/04",
+          "令狐茂-密探故事/05",
+          "令狐茂-密探故事/11",
+          "张邈-密探故事/10",
+          "张郃-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "刘辩",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "刘璋-密探故事/01",
+          "张邈-密探故事/02",
+          "张邈-密探故事/05",
+          "张鲁-密探故事/04",
+          "甘宁-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "？？？",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 17,
+        "chapters": [
+          "卢植-密探故事/01",
+          "张修-密探故事/09",
+          "张辽-密探故事/02",
+          "张鲁-密探故事/01",
+          "酆公珠-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "吕布",
+    "char_b": "阿蝉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "利用",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "利用关系·美人计",
+        "count": 1,
+        "nature": "复杂",
+        "chapters": [
+          "董逃歌（下）"
+        ],
+        "evidence": [
+          "吕布保护貂蝉——'将军怎么会来这？'"
+        ],
+        "shortRelation": "利用",
+        "relType": "其他"
+      },
+      {
+        "relation": "战友·保护",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "吕布-密探故事"
+        ],
+        "evidence": [
+          "吕布称'阿蝉没有来处、有去处'，西凉俗语'普日玛艾'意为'阳光下的一切'"
+        ],
+        "shortRelation": "战友",
+        "relType": "友好"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙策",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "主从·兄弟情",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "吕蒙-密探故事"
+        ],
+        "evidence": [
+          "孙策称'你没事就好'，吕蒙为孙策冒险夜探敌营"
+        ],
+        "shortRelation": "主从",
+        "relType": "从属"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "郭嘉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "师徒·背叛与仇恨",
+        "count": 1,
+        "nature": "对立",
+        "chapters": [
+          "孔融-密探故事"
+        ],
+        "evidence": [
+          "孔融称'如果真的被抓回来请你留下一封书信就说是我杀了你'"
+        ],
+        "shortRelation": "师徒",
+        "relType": "师徒"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "吴夫人",
+    "char_b": "孙策",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "母子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "母子",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "梦入浮生"
+        ],
+        "evidence": [
+          "吴夫人作为孙策之母在梦中出现。"
+        ],
+        "shortRelation": "母子",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "阿蝉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 17,
+        "chapters": [
+          "干吉-密探故事/05",
+          "张角-密探故事/06",
+          "祢衡-密探故事/09",
+          "祢衡-密探故事/10",
+          "马超-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "周群",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "徐庶-密探故事/04",
+          "徐庶-密探故事/08",
+          "法正-密探故事/09",
+          "法正-密探故事/10",
+          "法正-密探故事/01"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "郭嘉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "郭嘉-密探故事/01",
+          "郭嘉-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "诸葛瑾",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "杨修",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "杨修-密探故事/12",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "乙巳年春节晚会/活动剧情",
+          "寒夜厄境/活动剧情/寒夜·一"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "荀彧",
+    "chapter_count": 17,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 17,
+        "chapters": [
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "乘风破浪的公务/活动剧情/负任涉远",
+          "乙巳年春节晚会/活动剧情",
+          "密探寄语"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "祢衡",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "仰慕",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "仰慕·未能结交",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "凌统-密探故事"
+        ],
+        "evidence": [
+          "凌统称祢衡'游侠间的传奇人物'，当年讨伐锦帆寨后想约他比试"
+        ],
+        "shortRelation": "仰慕",
+        "relType": "情感"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "甘宁",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "凌统-密探故事/01",
+          "凌统-密探故事/02",
+          "凌统-密探故事/03",
+          "凌统-密探故事/04",
+          "凌统-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "张邈",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "刘繇-密探故事/01",
+          "士燮-密探故事/11",
+          "张燕-密探故事/12",
+          "张邈-密探故事/02",
+          "张邈-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "董奉",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "挚友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "挚友",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "士燮-密探故事"
+        ],
+        "evidence": [
+          "张邈赶来为董奉解围"
+        ],
+        "shortRelation": "挚友",
+        "relType": "友好"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "马超",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "吕布-密探故事/12",
+          "董白-密探故事/01",
+          "董白-密探故事/03",
+          "董白-密探故事/06",
+          "董白-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "？？？",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 16,
+        "chapters": [
+          "吕蒙-密探故事/02",
+          "吕蒙-密探故事/06",
+          "孙策-鸢记/鬼火",
+          "丹书白马/25",
+          "南有乔木/19"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "陈登",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "士燮-密探故事/10",
+          "士燮-密探故事/11",
+          "张邈-密探故事/07",
+          "张邈-密探故事/08",
+          "张邈-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "张飞",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同属一方",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "同属一方势力，有军事协作",
+        "count": 1,
+        "nature": "从属",
+        "chapters": [
+          "燕歌行"
+        ],
+        "evidence": [
+          "张飞与张郃一同在边境执行任务。"
+        ],
+        "shortRelation": "同属一方",
+        "relType": "其他"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "干吉",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "对立",
+    "edgeRelType": "对立",
+    "rankedRelations": [
+      {
+        "relation": "对立",
+        "count": 1,
+        "nature": "对立",
+        "chapters": [
+          "干吉-密探故事"
+        ],
+        "evidence": [
+          "刘辩称'你就是那个在母后身边嚼舌头的神棍'"
+        ],
+        "shortRelation": "对立",
+        "relType": "对立"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "贾诩",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 16,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "董逃歌（下）/24",
+          "秋坟鬼唱/21"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "诸葛诞",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "戏学-密探故事/04",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志绒绒版/神谕令·猫邦",
+          "乘风破浪的公务/活动剧情",
+          "乘风破浪的公务/活动剧情/负任涉远"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "贾诩",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "曹丕-密探故事/06",
+          "曹丕-密探故事/12",
+          "钟繇-密探故事/02",
+          "钟繇-密探故事/04",
+          "钟繇-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "阿蝉",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "法正-密探故事/03",
+          "法正-密探故事/06",
+          "法正-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "陈登",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "法正-密探故事/03",
+          "法正-密探故事/04",
+          "法正-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "甘宁",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "甘宁是孙策麾下将领",
+        "count": 1,
+        "nature": "从属",
+        "chapters": [
+          "陶生"
+        ],
+        "evidence": [
+          "甘宁跟随孙策行动。"
+        ],
+        "shortRelation": "主从",
+        "relType": "从属"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "黄月英",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "酆公玖-密探故事/12",
+          "黄月英-密探故事/03",
+          "黄月英-密探故事/04",
+          "黄月英-密探故事/05",
+          "黄月英-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "诸葛瑾",
+    "chapter_count": 16,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "披荆斩棘的实习考核/活动剧情/八方情报",
+          "朝歌之战/活动剧情/密探故事",
+          "陶生/活动剧情/陶生·九",
+          "陶生/活动剧情/陶生·一"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "诸葛诞",
+    "chapter_count": 16,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 16,
+        "chapters": [
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "披荆斩棘的实习考核/活动剧情/八方情报",
+          "朝歌之战/活动剧情/密探故事",
+          "陶生/活动剧情/陶生·九",
+          "陶生/活动剧情/陶生·一"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "文官",
+    "char_b": "阿蝉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 15,
+        "chapters": [
+          "令狐茂-密探故事/04",
+          "令狐茂-密探故事/05",
+          "吕布-密探故事/03",
+          "张辽-活动剧情/01",
+          "张闿-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "甘宁",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "凌统-密探故事/01",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/密探剧情",
+          "乘风破浪的公务/活动剧情/负任涉远"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "葛洪",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "司马徽-密探故事/03",
+          "司马徽-密探故事/07",
+          "酆公玖-密探故事/08",
+          "酆公玖-密探故事/09",
+          "酆公玖-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "袁基",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "士燮-密探故事/11",
+          "董奉-密探故事/04",
+          "董奉-密探故事/05",
+          "董奉-密探故事/06",
+          "董奉-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蛾使",
+    "char_b": "阿蝉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "庞统-密探故事/02",
+          "张仲景-密探故事/07",
+          "张辽-密探故事/05",
+          "张郃-密探故事/09",
+          "徐庶-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "郭嘉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "张绣-密探故事/03",
+          "张绣-密探故事/04",
+          "张绣-密探故事/06",
+          "张绣-密探故事/10",
+          "张绣-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "贾诩",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "张绣-密探故事/08",
+          "张绣-密探故事/09",
+          "张绣-密探故事/10",
+          "张绣-密探故事/11",
+          "张绣-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "郭嘉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "王异-密探故事/02",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "郭嘉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "董奉-密探故事/02",
+          "董奉-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "郭嘉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "曹丕-密探故事/12",
+          "董奉-密探故事/02",
+          "董奉-密探故事/03",
+          "钟繇-密探故事/02",
+          "三国志绒绒版/活动剧情/猫邦掌故"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "蒯越",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "蒯良-密探故事/06",
+          "蒯良-密探故事/07",
+          "蒯良-密探故事/08",
+          "蒯良-密探故事/10",
+          "蒯良-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "荀彧",
+    "chapter_count": 15,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/活动剧情",
+          "乘风破浪的公务/活动剧情/负任涉远",
+          "乙巳年春节晚会/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "诸葛诞",
+    "chapter_count": 15,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "三国志绒绒版/神谕令·猫邦",
+          "乘风破浪的公务/活动剧情/负任涉远",
+          "乙巳年春节晚会/活动剧情",
+          "朝歌之战/活动剧情/密探故事",
+          "陶生/活动剧情/陶生·三"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "诸葛瑾",
+    "chapter_count": 15,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 15,
+        "chapters": [
+          "三国志绒绒版/神谕令·猫邦",
+          "乙巳年春节晚会/活动剧情",
+          "朝歌之战/活动剧情/密探故事",
+          "陶生/活动剧情/陶生·三",
+          "陶生/活动剧情/陶生·九"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "祢衡",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "令狐茂-密探故事/02",
+          "祢衡-密探故事/01",
+          "祢衡-密探故事/04",
+          "祢衡-密探故事/06",
+          "祢衡-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "甘宁",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "仇敌",
+    "edgeRelType": "对立",
+    "rankedRelations": [
+      {
+        "relation": "杀父仇敌·宿怨",
+        "count": 1,
+        "nature": "对立",
+        "chapters": [
+          "凌统-密探故事"
+        ],
+        "evidence": [
+          "吕蒙说'这人跟你有杀父之仇吧？留给你了'；甘宁折断凌统佩剑'斩桃妖'，害其残躯"
+        ],
+        "shortRelation": "仇敌",
+        "relType": "对立"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "刘璋",
+    "char_b": "庞羲",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "君臣·被架空·联姻",
+        "count": 1,
+        "nature": "从属",
+        "chapters": [
+          "刘璋-密探故事"
+        ],
+        "evidence": [
+          "刘璋两位夫人均为庞羲族妹，庞羲实际控制益州，最终兵变挟持刘璋"
+        ],
+        "shortRelation": "君臣",
+        "relType": "从属"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "满宠",
+    "char_b": "袁遗",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "刘繇-密探故事/03",
+          "刘繇-密探故事/06",
+          "刘繇-密探故事/07",
+          "刘繇-密探故事/08",
+          "满宠-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "孙尚香",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "吕蒙-密探故事/11",
+          "周瑜-密探故事/05",
+          "安期-密探故事/08",
+          "安期-密探故事/12",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "陈登",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "士燮-密探故事/05",
+          "士燮-密探故事/06",
+          "士燮-密探故事/08",
+          "士燮-密探故事/09",
+          "士燮-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "张飞",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "夏侯惇-密探故事/03",
+          "夏侯惇-密探故事/04",
+          "夏侯渊-密探故事/03",
+          "夏侯渊-密探故事/04",
+          "夏侯渊-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蛾使",
+    "char_b": "雀使",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同为绣衣楼的使节，在戏坊中各有任务",
+        "count": 1,
+        "nature": "从属",
+        "chapters": [
+          "青丘戏坊"
+        ],
+        "evidence": [
+          "蛾使和雀使分别在戏坊中有独立剧情线。"
+        ],
+        "shortRelation": "同僚",
+        "relType": "友好"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "张燕",
+    "char_b": "戏学",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "张燕-密探故事/10",
+          "张燕-密探故事/11",
+          "张燕-密探故事/03",
+          "张燕-密探故事/04",
+          "张燕-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张昭",
+    "char_b": "虞翻",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "张昭-密探故事/06",
+          "张昭-密探故事/07",
+          "张昭-密探故事/10",
+          "张昭-密探故事/11",
+          "张昭-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "虞翻",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "张昭-密探故事/06",
+          "张昭-密探故事/11",
+          "张昭-密探故事/12",
+          "虞翻-密探故事/11",
+          "虞翻-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "郭嘉",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "张绣-密探故事/03",
+          "张绣-密探故事/04",
+          "张绣-密探故事/06",
+          "张绣-密探故事/07",
+          "张绣-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张角",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "张角-密探故事/04",
+          "张角-密探故事/07",
+          "张鲁-密探故事/01",
+          "张鲁-密探故事/11",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "傅融",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 14,
+        "chapters": [
+          "张角-密探故事/10",
+          "张角-密探故事/12",
+          "荀彧-密探故事/11",
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张超",
+    "char_b": "陈登",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "张邈-密探故事/07",
+          "却扇歌·地下遗迹/活动剧情",
+          "围城·地下遗迹/活动剧情",
+          "师子狻猊·地下遗迹/活动剧情",
+          "极乐之宴·地下遗迹/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "诸葛瑾",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "诸葛瑾-密探故事/01",
+          "诸葛瑾-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "贾诩",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "贾诩-密探故事/12",
+          "钟繇-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "郭嘉",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "曹丕-密探故事/12",
+          "三国志绒绒版/活动剧情/猫邦掌故"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "诸葛诞",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "戏学-密探故事/04",
+          "诸葛瑾-密探故事/01",
+          "诸葛瑾-密探故事/02",
+          "诸葛诞-密探故事/05",
+          "诸葛诞-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "文丑",
+    "char_b": "颜良",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同为袁绍麾下猛将",
+        "count": 1,
+        "nature": "从属",
+        "chapters": [
+          "朝歌之战"
+        ],
+        "evidence": [
+          "颜良与文丑一同在朝歌战场出现，属于同一阵营。"
+        ],
+        "shortRelation": "主从",
+        "relType": "从属"
+      },
+      {
+        "relation": "好友，一同度假",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "东海海水浴场"
+        ],
+        "evidence": [
+          "颜良和文丑同时出现在海水浴场。"
+        ],
+        "shortRelation": "好友",
+        "relType": "友好"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "蒯良",
+    "char_b": "蒯越",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 14,
+        "chapters": [
+          "蒯良-密探故事/02",
+          "蒯良-密探故事/03",
+          "蒯良-密探故事/04",
+          "蒯良-密探故事/05",
+          "蒯良-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "荀彧",
+    "chapter_count": 14,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/活动剧情",
+          "乘风破浪的公务/活动剧情/负任涉远",
+          "乙巳年春节晚会/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "孙策",
+    "chapter_count": 14,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 14,
+        "chapters": [
+          "陶生/活动剧情/陶生·九",
+          "陶生/活动剧情/陶生·一",
+          "陶生/活动剧情/陶生·七",
+          "陶生/活动剧情/陶生·二",
+          "陶生/活动剧情/陶生·五"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "马腾",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "吕布-密探故事/08",
+          "吕布-密探故事/10",
+          "吕布-密探故事/12",
+          "马腾-密探故事/04",
+          "马腾-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "马腾",
+    "char_b": "马超",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "父子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "父子，同属西凉军",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "朝歌之战"
+        ],
+        "evidence": [
+          "马超与马腾一同参战，父子共同指挥西凉军。"
+        ],
+        "shortRelation": "父子",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "阿蝉",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "吕布-密探故事/12",
+          "张邈-密探故事/10",
+          "满宠-密探故事/11",
+          "甄宓-密探故事/12",
+          "马腾-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "周忠",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "周忠-密探故事/04",
+          "周忠-密探故事/06",
+          "周忠-密探故事/07",
+          "周忠-密探故事/10",
+          "周忠-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "陈登",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "挚友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "挚友",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "士燮-密探故事"
+        ],
+        "evidence": [
+          "陈登为保护董奉不惜对抗士燮"
+        ],
+        "shortRelation": "挚友",
+        "relType": "友好"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "陈登",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "孔融-密探故事/01",
+          "孔融-密探故事/04",
+          "孔融-密探故事/05",
+          "孔融-密探故事/07",
+          "孔融-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "阿蝉",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 13,
+        "chapters": [
+          "孙尚香-密探故事/04",
+          "孙权-密探故事/02",
+          "鲁肃-密探故事/05",
+          "孙策-鸢记/蹴鞠",
+          "南有乔木/16"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "雀使",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 13,
+        "chapters": [
+          "干吉-密探故事/05",
+          "庞德-密探故事/04",
+          "庞统-密探故事/02",
+          "张辽-密探故事/12",
+          "张飞-密探故事/01"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "文官",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 13,
+        "chapters": [
+          "庞羲-密探故事/03",
+          "朱然-密探故事/02",
+          "朱然-密探故事/05",
+          "朱然-密探故事/06",
+          "荀攸-密探故事/01"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "张辽",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "张绣-密探故事/03",
+          "张绣-密探故事/04",
+          "张绣-密探故事/05",
+          "张绣-密探故事/06",
+          "张绣-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张角",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "张角-密探故事/02",
+          "张角-密探故事/03",
+          "张角-密探故事/04",
+          "张鲁-密探故事/01",
+          "张鲁-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "荀彧",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "贾诩",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "甘宁-密探故事/05",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "诸葛亮",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "杨修-密探故事/12",
+          "寒夜厄境/活动剧情/寒夜·一",
+          "寒夜厄境/活动剧情/寒夜·三",
+          "寒夜厄境/活动剧情/寒夜·九",
+          "寒夜厄境/活动剧情/寒夜·二"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张辽",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "王异-密探故事/02",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "祢衡",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "祢衡-密探故事/01",
+          "祢衡-密探故事/02",
+          "祢衡-密探故事/04",
+          "祢衡-密探故事/09",
+          "祢衡-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "飞云",
+    "char_b": "马超",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "董白-密探故事/03",
+          "马超-密探故事/04",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/活动剧情",
+          "乘风破浪的公务/活动剧情/负任涉远"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "诸葛诞",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "蒯良-密探故事/10",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志绒绒版/神谕令·猫邦",
+          "乙巳年春节晚会/活动剧情",
+          "燕歌行/活动剧情/见闻"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "蔡琰",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "蔡琰-密探故事/01",
+          "蔡琰-密探故事/02",
+          "蔡琰-密探故事/03",
+          "蔡琰-密探故事/06",
+          "蔡琰-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "？？？",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 13,
+        "chapters": [
+          "郭嘉-密探故事/01",
+          "陈纪-密探故事/02",
+          "袁基-鸢记/浸玉",
+          "董逃歌（下）/24",
+          "凤皇鹑笼/22"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "酆公玖",
+    "char_b": "酆公珠",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄妹",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄妹",
+        "nature": "血亲",
+        "count": 13,
+        "chapters": [
+          "酆公玖-密探故事/05",
+          "酆公玖-密探故事/01",
+          "酆公玖-密探故事/03",
+          "酆公玖-密探故事/04",
+          "酆公玖-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "荀彧",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "钟繇-密探故事/04",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "朝歌之战/活动剧情/密探故事",
+          "陶生/活动剧情/陶生·九",
+          "陶生/活动剧情/陶生·七"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "诸葛诞",
+    "chapter_count": 13,
+    "categories": [
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "七载相逢之秋/活动剧情",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志绒绒版/神谕令·猫邦",
+          "乘风破浪的公务/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "荀彧",
+    "chapter_count": 13,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/活动剧情",
+          "乙巳年春节晚会/活动剧情",
+          "陶生/活动剧情/陶生·九",
+          "陶生/活动剧情/陶生·七"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "诸葛诞",
+    "chapter_count": 13,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13,
+        "chapters": [
+          "三国志绒绒版/神谕令·犬都",
+          "三国志绒绒版/神谕令·猫邦",
+          "乘风破浪的公务/活动剧情/负任涉远",
+          "乙巳年春节晚会/活动剧情",
+          "朝歌之战/活动剧情/密探故事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "斥候",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "严白虎-密探故事/11",
+          "孙权-密探故事/03",
+          "诸葛瑾-密探故事/10",
+          "诸葛诞-密探故事/07",
+          "黄盖-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "令狐茂",
+    "char_b": "左慈",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "令狐茂-密探故事/01",
+          "令狐茂-密探故事/02",
+          "安期-密探故事/01",
+          "祢衡-密探故事/04",
+          "祢衡-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "？？？",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "令狐茂-密探故事/01",
+          "徐庶-密探故事/01",
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "酆公珠-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "令狐茂",
+    "char_b": "徐庶",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "令狐茂-密探故事/01",
+          "令狐茂-密探故事/02",
+          "安期-密探故事/01",
+          "徐庶-密探故事/08",
+          "祢衡-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "刘辩",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 12,
+        "chapters": [
+          "公孙珊-密探故事/04",
+          "刘璋-密探故事/01",
+          "刘璋-密探故事/02",
+          "张角-密探故事/06",
+          "张鲁-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙权",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "凌统-密探故事/01",
+          "凌统-密探故事/11",
+          "吕蒙-密探故事/10",
+          "孙策-恋念剧情/金窗绣户",
+          "三千宇宙/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "祢衡",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "凌统-密探故事/02",
+          "凌统-密探故事/03",
+          "凌统-密探故事/04",
+          "程普-密探故事/01",
+          "程普-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "周瑜",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "吕蒙-密探故事/11",
+          "甘宁-密探故事/03",
+          "诸葛诞-密探故事/10",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "袁基",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "士燮-密探故事/08",
+          "士燮-密探故事/11",
+          "张燕-密探故事/12",
+          "张邈-密探故事/12",
+          "张郃-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "郭嘉",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "孔融-密探故事/03",
+          "孔融-密探故事/04",
+          "孔融-密探故事/05",
+          "孔融-密探故事/06",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "徐庶",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "安期-密探故事/07",
+          "安期-密探故事/08",
+          "三国志绒绒版/活动剧情/犬都掌故",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "戏学",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "张燕-密探故事/10",
+          "张燕-密探故事/11",
+          "张燕-密探故事/04",
+          "张燕-密探故事/05",
+          "张燕-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "董白",
+    "char_b": "阿蝉",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "庞德-密探故事/07",
+          "庞德-密探故事/08",
+          "董白-密探故事/02",
+          "董白-密探故事/03",
+          "董白-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "雀使",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "庞统-密探故事/05",
+          "朱然-密探故事/01",
+          "朱然-密探故事/02",
+          "荀彧-密探故事/05",
+          "陆绩-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "老人",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "张角-密探故事/07",
+          "张飞-密探故事/11",
+          "戏学-密探故事/07",
+          "葛洪-密探故事/02",
+          "鸢记·围城/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "左慈",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "张邈-密探故事/11",
+          "祢衡-密探故事/01",
+          "祢衡-密探故事/04",
+          "酆公珠-密探故事/03",
+          "酆公珠-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张修",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "张鲁-密探故事/10",
+          "张鲁-密探故事/11",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "乙巳年春节晚会/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "袁基",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "戏学-密探故事/01",
+          "戏学-密探故事/04",
+          "戏学-密探故事/08",
+          "甄宓-密探故事/02",
+          "董奉-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张邈",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "贾诩",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "曹丕-密探故事/11",
+          "曹丕-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "阿蝉",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "王异-密探故事/02",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/密探剧情",
+          "乘风破浪的公务/活动剧情/沽货行币"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张郃",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "甘宁-密探故事/01",
+          "甘宁-密探故事/02",
+          "甘宁-密探故事/03",
+          "甘宁-密探故事/05",
+          "甘宁-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "陈登",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 12,
+        "chapters": [
+          "甘宁-密探故事/12",
+          "祢衡-密探故事/09",
+          "祢衡-密探故事/10",
+          "马超-密探故事/10",
+          "丹书白马/01"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "徐庶",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "祢衡-密探故事/01",
+          "祢衡-密探故事/02",
+          "祢衡-密探故事/04",
+          "酆公珠-密探故事/02",
+          "酆公珠-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "董奉",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "程昱-密探故事/02",
+          "董奉-密探故事/02",
+          "董奉-密探故事/03",
+          "董奉-密探故事/05",
+          "三国志绒绒版/活动剧情/猫邦掌故"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "荀彧",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "荀彧-密探故事/02",
+          "荀彧-密探故事/03",
+          "荀彧-密探故事/04",
+          "荀彧-密探故事/05",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "飞云",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "荀攸-密探故事/12",
+          "董白-密探故事/03",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "乘风破浪的公务/活动剧情/负任涉远"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "葛洪",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "葛洪-密探故事/12",
+          "黄月英-密探故事/04",
+          "黄月英-密探故事/05",
+          "黄月英-密探故事/06",
+          "黄月英-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "郭嘉",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "董奉-密探故事/01",
+          "董奉-密探故事/02",
+          "董奉-密探故事/03",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "马超",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "董白-密探故事/03",
+          "董白-密探故事/06",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志绒绒版/神谕令·猫邦",
+          "寒夜厄境/活动剧情/寒夜·七"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀攸",
+    "char_b": "钟繇",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "董白-密探故事/04",
+          "董白-密探故事/07",
+          "钟繇-密探故事/03",
+          "钟繇-密探故事/04",
+          "钟繇-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "诸葛瑾",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "蒯良-密探故事/10",
+          "蒯良-密探故事/11",
+          "三国志绒绒版/神谕令·猫邦",
+          "乙巳年春节晚会/活动剧情",
+          "燕歌行/活动剧情/见闻"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "黄盖",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "黄盖-密探故事/02",
+          "黄盖-密探故事/03",
+          "黄盖-密探故事/08",
+          "黄盖-密探故事/11",
+          "黄盖-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "刘辩",
+    "chapter_count": 12,
+    "categories": [
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 12,
+        "chapters": [
+          "丹书白马/20",
+          "丹书白马/07",
+          "烈火入喉/04",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "葛洪",
+    "char_b": "郭嘉",
+    "chapter_count": 12,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "乙巳年春节晚会/活动剧情",
+          "密探寄语"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "杨修",
+    "char_b": "马超",
+    "chapter_count": 12,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "乙巳年春节晚会/活动剧情",
+          "密探寄语",
+          "寒夜厄境/活动剧情/寒夜·一"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "甘宁",
+    "chapter_count": 12,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/密探剧情",
+          "三国志魂魂版/活动剧情",
+          "乘风破浪的公务/活动剧情/负任涉远"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "张绣",
+    "chapter_count": 12,
+    "categories": [
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志绒绒版/神谕令·犬都",
+          "傅融-约会/七载相逢",
+          "寒夜厄境/活动剧情/寒夜·七",
+          "寒夜厄境/活动剧情/寒夜·三"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "诸葛亮",
+    "char_b": "马超",
+    "chapter_count": 12,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "寒夜厄境/活动剧情/寒夜·一",
+          "寒夜厄境/活动剧情/寒夜·九",
+          "寒夜厄境/活动剧情/寒夜·二",
+          "寒夜厄境/活动剧情/寒夜·六",
+          "寒夜厄境/活动剧情/寒夜·十"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "孙权",
+    "chapter_count": 12,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12,
+        "chapters": [
+          "朝歌之战/活动剧情/密探故事",
+          "陶生/活动剧情/陶生·九",
+          "陶生/活动剧情/陶生·一",
+          "陶生/活动剧情/陶生·七",
+          "陶生/活动剧情/陶生·二"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "？？？",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 11,
+        "chapters": [
+          "凌统-密探故事/01",
+          "吕蒙-密探故事/02",
+          "吕蒙-密探故事/06",
+          "鲁肃-密探故事/03",
+          "南有乔木/19"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "张郃",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "凌统-密探故事/01",
+          "凌统-密探故事/02",
+          "凌统-密探故事/03",
+          "凌统-密探故事/04",
+          "凌统-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张修",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "刘璋-密探故事/07",
+          "刘璋-密探故事/12",
+          "张修-密探故事/10",
+          "张修-密探故事/12",
+          "张鲁-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "文官",
+    "char_b": "？？？",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 11,
+        "chapters": [
+          "卢植-密探故事/01",
+          "夏侯惇-密探故事/01",
+          "张辽-密探故事/02",
+          "郭解-密探故事/02",
+          "陆绩-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "蛾使",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 11,
+        "chapters": [
+          "史子眇-密探故事/09",
+          "徐庶-密探故事/09",
+          "王异-密探故事/02",
+          "陆绩-密探故事/07",
+          "陈应-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "鸢使",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "史子眇-密探故事/10",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志魂魂版/活动剧情",
+          "傅融-约会/宠爱"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张仲景",
+    "char_b": "葛洪",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "司马徽-密探故事/02",
+          "酆公玖-密探故事/08",
+          "酆公玖-密探故事/10",
+          "酆公玖-密探故事/11",
+          "鸢记·山可崩/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "吕布",
+    "char_b": "张辽",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "战友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "战友·信任",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "吕布-密探故事"
+        ],
+        "evidence": [
+          "吕布称'张辽有来处、有去处'，张辽在濮阳之战中'主帅还在这里我不能离开'"
+        ],
+        "shortRelation": "战友",
+        "relType": "友好"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "西凉军",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 11,
+        "chapters": [
+          "吕布-密探故事/03",
+          "吕布-密探故事/12",
+          "张闿-密探故事/07",
+          "董白-密探故事/02",
+          "秋坟鬼唱/13"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "雀使",
+    "char_b": "？？？",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "吕蒙-密探故事/02",
+          "吕蒙-密探故事/09",
+          "张角-密探故事/01",
+          "张辽-密探故事/12",
+          "文丑-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "蛾使",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "吕蒙-密探故事/11",
+          "张仲景-密探故事/05",
+          "张仲景-密探故事/07",
+          "徐庶-密探故事/09",
+          "杨修-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙尚香",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "吕蒙-密探故事/11",
+          "孙策-恋念剧情/金窗绣户",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "太史慈",
+    "char_b": "孙策",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "太史慈-密探故事/01",
+          "太史慈-密探故事/02",
+          "太史慈-密探故事/03",
+          "太史慈-密探故事/05",
+          "太史慈-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "文官",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "孔融-密探故事/03",
+          "孔融-密探故事/05",
+          "庞羲-密探故事/03",
+          "郭女王-密探故事/08",
+          "郭女王-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "孙权-密探故事/02",
+          "陆绩-密探故事/12",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张燕",
+    "char_b": "袁基",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "张燕-密探故事/10",
+          "张燕-密探故事/11",
+          "张燕-密探故事/03",
+          "张燕-密探故事/04",
+          "张燕-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "张昭",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "张昭-密探故事/06",
+          "张昭-密探故事/09",
+          "张昭-密探故事/11",
+          "张昭-密探故事/12",
+          "虞翻-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "贾诩",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "张绣-密探故事/09",
+          "张绣-密探故事/10",
+          "戏学-密探故事/04",
+          "钟繇-密探故事/04",
+          "钟繇-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "贾诩",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "张绣-密探故事/10",
+          "张绣-密探故事/11",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "张角",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "张角-密探故事/12",
+          "王异-密探故事/02",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志绒绒版/神谕令·犬都"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张鲁",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "张鲁-密探故事/01",
+          "张鲁-密探故事/06",
+          "张鲁-密探故事/10",
+          "张鲁-密探故事/11",
+          "张鲁-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张角",
+    "char_b": "张鲁",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "张鲁-密探故事/01",
+          "张鲁-密探故事/11",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/活动剧情",
+          "乘风破浪的公务/活动剧情/沽货行币"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蛾使",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "徐庶-密探故事/09",
+          "祢衡-密探故事/09",
+          "程昱-密探故事/01",
+          "程昱-密探故事/03",
+          "程昱-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "戏学",
+    "char_b": "郭嘉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志绒绒版/神谕令·猫邦",
+          "乙巳年春节晚会/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "袁基",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 11,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "陈纪-密探故事/02",
+          "陈纪-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "妇人",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "戏学-密探故事/06",
+          "葛洪-密探故事/02",
+          "鸢记·山可崩/活动剧情",
+          "鸢记·欲影·谍影/活动剧情",
+          "鸢记·围城/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "文丑",
+    "char_b": "鸢使",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "文丑-密探故事/01",
+          "文丑-密探故事/02",
+          "文丑-密探故事/03",
+          "文丑-密探故事/04",
+          "文丑-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "袁术",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 11,
+        "chapters": [
+          "文丑-密探故事/02",
+          "甄宓-密探故事/03",
+          "甄宓-密探故事/04",
+          "程昱-密探故事/09",
+          "董奉-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "颜良",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "文丑-密探故事/12",
+          "王异-密探故事/02",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "文丑-密探故事/12",
+          "甄宓-密探故事/12",
+          "郭解-密探故事/05",
+          "马超-密探故事/09",
+          "马超-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周忠",
+    "char_b": "曹丕",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "曹丕-密探故事/03",
+          "曹丕-密探故事/04",
+          "曹丕-密探故事/05",
+          "曹丕-密探故事/07",
+          "曹丕-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "文官",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 11,
+        "chapters": [
+          "朱然-密探故事/02",
+          "朱然-密探故事/07",
+          "葛洪-密探故事/02",
+          "荀攸-密探故事/01",
+          "鸢记·围城/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "法正",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "法正-密探故事/08",
+          "法正-密探故事/09",
+          "法正-密探故事/10",
+          "法正-密探故事/02",
+          "法正-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "傅融",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "朱然-密探故事/11",
+          "蒯越-密探故事/01",
+          "陈应-密探故事/12",
+          "傅融-恋念剧情/湖心之梦",
+          "傅融-恋念剧情/梦中雪"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "周群",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "法正-密探故事/09",
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "法正-密探故事/03",
+          "法正-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "法正-密探故事/01",
+          "法正-密探故事/02",
+          "法正-密探故事/03",
+          "法正-密探故事/07",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "王异",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "王异-密探故事/01",
+          "王异-密探故事/03",
+          "王异-密探故事/04",
+          "王异-密探故事/05",
+          "王异-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "张辽",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "王异-密探故事/02",
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "周瑜",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "王异-密探故事/02",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "郭嘉",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "王异-密探故事/02",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/密探剧情",
+          "乘风破浪的公务/活动剧情/沽货行币"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "张辽",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "王异-密探故事/02",
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "颜良",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "王异-密探故事/02",
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "陈登",
+    "char_b": "雀使",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "甘宁-密探故事/12",
+          "陈登-密探故事/09",
+          "陈登-密探故事/10",
+          "陈登-密探故事/11",
+          "陈登-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "甘宁-密探故事/12",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "史子眇",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "祢衡-密探故事/01",
+          "祢衡-密探故事/02",
+          "祢衡-密探故事/04",
+          "酆公珠-密探故事/04",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "程昱-密探故事/01",
+          "马超-密探故事/10",
+          "七载相逢之秋/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "袁基",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "程昱-密探故事/08",
+          "程昱-密探故事/09",
+          "董奉-密探故事/05",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "董奉-密探故事/03",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "蔡琰-密探故事/03",
+          "蔡琰-密探故事/04",
+          "蔡琰-密探故事/05",
+          "蔡琰-密探故事/07",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "干吉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "诸葛瑾-密探故事/10",
+          "诸葛瑾-密探故事/11",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陆绩",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "陆绩-密探故事/01",
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "陆绩-密探故事/04",
+          "陆绩-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张修",
+    "char_b": "颜良",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "陆绩-密探故事/06",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "陈群",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "陈纪-密探故事/02",
+          "陈纪-密探故事/03",
+          "陈纪-密探故事/06",
+          "陈纪-密探故事/12",
+          "陈群-密探故事/01"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "徐庶",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "马腾-密探故事/04",
+          "马腾-密探故事/10",
+          "马腾-密探故事/11",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "陈登",
+    "char_b": "马超",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "马超-密探故事/03",
+          "马超-密探故事/10",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "马超",
+    "chapter_count": 11,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "三国志绒绒版/活动剧情/犬都掌故",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "葛洪",
+    "char_b": "贾诩",
+    "chapter_count": 11,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志魂魂版/巡查剧情",
+          "乙巳年春节晚会/活动剧情",
+          "密探寄语",
+          "月海夜航船/活动剧情/第三夜"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "诸葛诞",
+    "chapter_count": 11,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11,
+        "chapters": [
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志绒绒版/神谕令·猫邦",
+          "乘风破浪的公务/活动剧情/负任涉远",
+          "乙巳年春节晚会/活动剧情",
+          "陶生/活动剧情/陶生·三"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "孙策",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 10,
+        "chapters": [
+          "严白虎-密探故事/12",
+          "丹书白马/25",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "文官",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "令狐茂-密探故事/04",
+          "戏学-密探故事/07",
+          "文丑-密探故事/02",
+          "葛洪-密探故事/02",
+          "陈群-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "公孙珊",
+    "char_b": "刘辩",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "公孙珊-密探故事/03",
+          "公孙珊-密探故事/04",
+          "公孙珊-密探故事/09",
+          "公孙珊-密探故事/10",
+          "公孙珊-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "女官",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "公孙珊-密探故事/04",
+          "刘璋-密探故事/05",
+          "太史慈-密探故事/04",
+          "徐庶-密探故事/09",
+          "甄宓-密探故事/02"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "马腾",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "吕布-密探故事/10",
+          "吕布-密探故事/12",
+          "董白-密探故事/01",
+          "董白-密探故事/06",
+          "董白-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "马腾",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "吕布-密探故事/12",
+          "董白-密探故事/02",
+          "董白-密探故事/09",
+          "马腾-密探故事/06",
+          "马腾-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "周瑜",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "周忠-密探故事/03",
+          "吕蒙-密探故事/11",
+          "周忠-密探故事/05",
+          "周瑜-密探故事/02",
+          "周瑜-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "孙策",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 10,
+        "chapters": [
+          "吕蒙-密探故事/06",
+          "孙策-鸢记/玉环",
+          "孙策-鸢记/甲胄",
+          "鸢记·围城/活动剧情",
+          "丹书白马/25"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "陆逊",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "师徒·信任",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "吕蒙-密探故事"
+        ],
+        "evidence": [
+          "孙权称'我愿为陆逊师父作保'，当众维护陆逊"
+        ],
+        "shortRelation": "师徒",
+        "relType": "师徒"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "陆逊",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "好兄弟·信任",
+        "count": 1,
+        "nature": "亲密",
+        "chapters": [
+          "吕蒙-密探故事"
+        ],
+        "evidence": [
+          "吕蒙称'陆逊绝对不会背叛的'，冒险去笮融营中为他正名"
+        ],
+        "shortRelation": "兄弟",
+        "relType": "血亲"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "文官",
+    "char_b": "礼官",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "夏侯惇-密探故事/01",
+          "陆绩-密探故事/02",
+          "刘辩-恋念剧情/浮白与离光",
+          "三千宇宙/活动剧情",
+          "左慈-约会/燃灯照夜"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "副将",
+    "char_b": "孙策",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 10,
+        "chapters": [
+          "太史慈-密探故事/01",
+          "黄盖-密探故事/11",
+          "黄盖-密探故事/12",
+          "珠履三千/23",
+          "孙策-约会/春酒连翘"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "夏侯渊",
+    "char_b": "张飞",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "夏侯渊-密探故事/01",
+          "夏侯渊-密探故事/02",
+          "夏侯渊-密探故事/03",
+          "夏侯渊-密探故事/04",
+          "夏侯渊-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "张郃",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "夏侯渊-密探故事/03",
+          "夏侯渊-密探故事/04",
+          "夏侯渊-密探故事/05",
+          "夏侯渊-密探故事/06",
+          "夏侯渊-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "阿蝉",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "孙尚香-密探故事/04",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/密探剧情",
+          "乘风破浪的公务/活动剧情/负任涉远"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "左慈",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "安期-密探故事/01",
+          "安期-密探故事/08",
+          "安期-密探故事/09",
+          "安期-密探故事/11",
+          "安期-密探故事/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "左慈",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "安期-密探故事/01",
+          "张邈-密探故事/10",
+          "张闿-密探故事/03",
+          "张闿-密探故事/06",
+          "鸢记·山可崩/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "安期",
+    "char_b": "左慈",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同道",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同为仙人，但立场可能不同",
+        "count": 1,
+        "nature": "复杂",
+        "chapters": [
+          "天下隐光"
+        ],
+        "evidence": [
+          "安期是隐鸢阁的剑仙，与左慈有交集。"
+        ],
+        "shortRelation": "同道",
+        "relType": "友好"
+      },
+      {
+        "relation": "宿仇·杀生仙与隐鸢阁",
+        "count": 1,
+        "nature": "对立",
+        "chapters": [
+          "安期-密探故事"
+        ],
+        "evidence": [
+          "安期称'他造就了我又杀了我'，'他看我的眼神好像看着一只濒死的虫子'"
+        ],
+        "shortRelation": "宿仇",
+        "relType": "对立"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "孙权",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚·警惕",
+        "count": 1,
+        "nature": "复杂",
+        "chapters": [
+          "孙权-密探故事"
+        ],
+        "evidence": [
+          "傅融称'这就是我为什么讨厌孩子'，对孙权的冒险计划不满"
+        ],
+        "shortRelation": "同僚",
+        "relType": "友好"
+      }
+    ],
+    "source": "llm"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "左慈",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "安期-密探故事/09",
+          "安期-密探故事/12",
+          "祢衡-密探故事/01",
+          "祢衡-密探故事/04",
+          "酆公珠-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "绣球",
+    "char_b": "飞云",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "恋念剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "小乔-密探故事/03",
+          "陆绩-密探故事/02",
+          "傅融-恋念剧情/夜绩",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "哔哥",
+    "char_b": "庞统",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "庞统-密探故事/03",
+          "庞统-密探故事/04",
+          "庞统-密探故事/06",
+          "庞统-密探故事/07",
+          "庞统-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "西凉军",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 10,
+        "chapters": [
+          "庞羲-密探故事/03",
+          "杨修-密探故事/12",
+          "傅融-鸢记/女装",
+          "董逃歌（上）/01",
+          "董逃歌（上）/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "张辽",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "张绣-密探故事/01",
+          "张绣-密探故事/03",
+          "张绣-密探故事/05",
+          "张绣-密探故事/10",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张邈",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "张邈-密探故事/02",
+          "张邈-密探故事/04",
+          "张邈-密探故事/05",
+          "张邈-密探故事/06",
+          "张邈-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "张郃",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "张郃-密探故事/01",
+          "张郃-密探故事/07",
+          "曹丕-密探故事/12",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "贾诩",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "张郃-密探故事/05",
+          "张郃-密探故事/06",
+          "曹丕-密探故事/09",
+          "曹丕-密探故事/12",
+          "甘宁-密探故事/05"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "蔡琰",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "蔡琰",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "荀彧",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "郭嘉",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "贾诩",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "戏学-密探故事/02",
+          "戏学-密探故事/03",
+          "戏学-密探故事/04",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "荀攸",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "戏学-密探故事/04",
+          "钟繇-密探故事/04",
+          "钟繇-密探故事/05",
+          "钟繇-密探故事/06",
+          "钟繇-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "文官",
+    "char_b": "袁基",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "文丑-密探故事/02",
+          "陈群-密探故事/03",
+          "陈群-密探故事/06",
+          "袁基-鸢记/射艺",
+          "袁基-鸢记/结带"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "文丑",
+    "char_b": "阿蝉",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "文丑-密探故事/12",
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "颜良",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "文丑-密探故事/12",
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "陆绩-密探故事/06",
+          "颜良-密探故事/03"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "杨修",
+    "char_b": "飞云",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "曹植-密探故事/02",
+          "三国志魂魂版/巡查剧情",
+          "乙巳年春节晚会/活动剧情",
+          "密探寄语",
+          "寒夜厄境/活动剧情/寒夜·一"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "朱然",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "朱然-密探故事/02",
+          "朱然-密探故事/04",
+          "朱然-密探故事/05",
+          "朱然-密探故事/06",
+          "朱然-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "杨修",
+    "char_b": "诸葛亮",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "杨修-密探故事/12",
+          "寒夜厄境/活动剧情/寒夜·一",
+          "寒夜厄境/活动剧情/寒夜·三",
+          "寒夜厄境/活动剧情/寒夜·九",
+          "寒夜厄境/活动剧情/寒夜·二"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "满宠",
+    "char_b": "阿蝉",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 10,
+        "chapters": [
+          "满宠-密探故事/01",
+          "满宠-密探故事/11",
+          "满宠-密探故事/12",
+          "珠履三千/06",
+          "珠履三千/12"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "阿蝉",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 10,
+        "chapters": [
+          "满宠-密探故事/12",
+          "鸢记·欲影·谍影/活动剧情",
+          "董逃歌（下）/20",
+          "秋坟鬼唱/13",
+          "董逃歌（下）/17"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "颜良",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "王异-密探故事/02",
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "陆绩-密探故事/06",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张角",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "王异-密探故事/02",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志魂魂版/活动剧情",
+          "乘风破浪的公务/活动剧情/沽货行币"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "周瑜",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "王异-密探故事/02",
+          "甘宁-密探故事/05",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张角",
+    "char_b": "阿蝉",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "王异-密探故事/02",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "乘风破浪的公务/活动剧情/沽货行币",
+          "乙巳年春节晚会/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "蛾使",
+    "char_b": "颜良",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "王异-密探故事/02",
+          "颜良-密探故事/01",
+          "颜良-密探故事/03",
+          "颜良-密探故事/04",
+          "颜良-密探故事/06"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "甄宓",
+    "char_b": "袁基",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "甄宓-密探故事/11",
+          "甄宓-密探故事/01",
+          "甄宓-密探故事/02",
+          "甄宓-密探故事/03",
+          "甄宓-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "袁尚",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "王异-密探故事/09",
+          "王异-密探故事/12",
+          "甄宓-密探故事/01",
+          "甄宓-密探故事/03",
+          "甄宓-密探故事/04"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "？？？",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "从属",
+        "count": 10,
+        "chapters": [
+          "甘宁-密探故事/01",
+          "空花阳焰/04",
+          "三国志绒绒版/活动剧情/犬都掌故",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志绒绒版/活动剧情/猫邦纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "贾诩",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "甘宁-密探故事/04",
+          "甘宁-密探故事/05",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张闿",
+    "char_b": "甘宁",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "甘宁-密探故事/06",
+          "甘宁-密探故事/07",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "陈登",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "程昱-密探故事/03",
+          "程昱-密探故事/04",
+          "董奉-密探故事/03",
+          "三国志绒绒版/活动剧情/猫邦掌故",
+          "三国志魂魂版/巡查剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "孙策",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "鸢记",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "程普-密探故事/04",
+          "蒯良-密探故事/08",
+          "黄盖-密探故事/03",
+          "鸢记·围城/活动剧情",
+          "三国志绒绒版/活动剧情/犬都纪事"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "董白",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "董白-密探故事/01",
+          "董白-密探故事/03",
+          "董白-密探故事/06",
+          "董白-密探故事/09",
+          "董白-密探故事/10"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "满宠",
+    "char_b": "蒯越",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "蒯良-密探故事/02",
+          "蒯越-密探故事/04",
+          "蒯越-密探故事/05",
+          "蒯越-密探故事/06",
+          "蒯越-密探故事/07"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "干吉",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "诸葛瑾-密探故事/10",
+          "诸葛瑾-密探故事/11",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/活动剧情/猫邦纪事",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "郭嘉",
+    "char_b": "鸢使",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "郭嘉-密探故事/02",
+          "郭嘉-密探故事/03",
+          "郭嘉-密探故事/04",
+          "郭嘉-密探故事/08",
+          "郭嘉-密探故事/09"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "祢衡",
+    "char_b": "酆公珠",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "酆公珠-密探故事/03",
+          "酆公珠-密探故事/04",
+          "酆公珠-密探故事/05",
+          "酆公珠-密探故事/06",
+          "酆公珠-密探故事/08"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张修",
+    "char_b": "葛洪",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "陆绩-密探故事/02",
+          "陆绩-密探故事/03",
+          "陆绩-密探故事/06",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "陈登",
+    "char_b": "鱼老六",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "陈登-密探故事/01",
+          "陈登-密探故事/08",
+          "却扇歌·地下遗迹/活动剧情",
+          "极乐之宴·地下遗迹/活动剧情",
+          "欲追日影·地下遗迹/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "葛洪",
+    "char_b": "黄月英",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "黄月英-密探故事/04",
+          "黄月英-密探故事/05",
+          "黄月英-密探故事/06",
+          "黄月英-密探故事/08",
+          "黄月英-密探故事/11"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "文丑",
+    "char_b": "贾诩",
+    "chapter_count": 10,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志魂魂版/密探剧情",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "贾诩",
+    "char_b": "阿蝉",
+    "chapter_count": 10,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志魂魂版/密探剧情",
+          "乘风破浪的公务/活动剧情/沽货行币"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "陈登",
+    "char_b": "飞云",
+    "chapter_count": 10,
+    "categories": [
+      "活动剧情",
+      "约会"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "三千宇宙/活动剧情",
+          "三国志魂魂版/巡查剧情",
+          "三国志魂魂版/活动剧情",
+          "乙巳年春节晚会/活动剧情",
+          "傅副官的休沐日/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "马超",
+    "chapter_count": 10,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "三国志绒绒版/活动剧情/犬都掌故",
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/活动剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "甘宁",
+    "chapter_count": 10,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "三国志绒绒版/活动剧情/犬都纪事",
+          "三国志魂魂版/巡查剧情",
+          "三国志绒绒版/神谕令·犬都",
+          "三国志绒绒版/神谕令·猫邦",
+          "三国志魂魂版/密探剧情"
+        ]
+      }
+    ],
+    "source": "inferred"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "诸葛瑾",
+    "chapter_count": 10,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10,
+        "chapters": [
+          "三国志绒绒版/神谕令·猫邦",
+          "乙巳年春节晚会/活动剧情",
+          "朝歌之战/活动剧情/密探故事",
+          "陶生/活动剧情/陶生·九",
+          "陶生/活动剧情/陶生·七"
+        ]
+      }
+    ],
+    "source": "inferred"
+  }
+]

@@ -1,0 +1,611 @@
+{
+  "title": "天下隐光/活动剧情/壹·天崩地坼",
+  "category": "活动剧情",
+  "characters": [
+    "剑仙",
+    "左慈",
+    "徐庶",
+    "我",
+    "祢衡",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "不回头吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "到了这个地步，尚有何执念呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "当年我就说过，王太子有些不识时务。往后这些年里，纵然有无数教训，仍是一意孤行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "有这样的下场……不算冤枉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……天道还能再支撑一周天。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "巫不在意现世的天道，道无常无灭，哪怕现世之道崩塌，也不过是从神世重新开始……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "但毕竟是脱离于巫傩所能掌控的程度，王太子、我，其余的巫……都会形同陌路吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "白龙带走了神半影的魂魄，不去追吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "吾还差一物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "何物？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "——斩龙之兵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "呜呼师弟中计呜啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "趁人睡午觉偷袭算什么大侠！看招！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "哈哈搓那么小的雪球都好意思出……唔噗！居然……包着……石头……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "打完雪仗记得去南院收一下干果哈，这样回头他问起来，我就说今天盯着你们干过活了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "好——看我的！喝啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "有本事去下坡打，这里前辈种着花我施展不开！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "隐光，隐光不要啦？带上噻。上次不知道把它落在哪了，大家埋头雪地里挖了半宿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=祢衡",
+      "emotion": "爬树爬不过我吧？来呀来呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你给我等着！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=祢衡",
+      "emotion": "你赖皮！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "桀桀桀——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "出啥子事了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……又山崩了吗……谁？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不止一人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……祢衡，灵河水……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "去云帝宫！告诉阁主，东蜀叛变！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "剑仙",
+      "text": "头像=黑人影",
+      "emotion": "你们来了……灵河那边山崩的时候，正殿正在议事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "剑仙",
+      "text": "头像=黑人影",
+      "emotion": "壶关君立刻赶回灵河坐镇。你们来的路上，没有见到他吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "他可能走水路回去，跟我们错开了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你看见灵河沸腾了，他怎么可能走水路回去？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "他可能体寒，不怕烫？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "师尊？师尊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "他好像不在。会不会也去灵河了……呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……还是先退出去吧，别待在室内。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "心纸君失灵了……先离开室……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "师兄？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=祢衡",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "怎么怔住了？不离开这里吗？师兄？祢衡？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……师兄？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "剑仙",
+      "text": "头像=黑人影",
+      "emotion": "祢衡、师弟，你们先出来。徐神派人来传话，说阁主已经到灵河那边了，让你们尽快过去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "晓得，我们正好要出去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "等等，有哪里不对劲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "徐神能从灵河那边派来传话的人，必然与我们相熟，那个人为何需要那名剑仙替他转达？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "又不是王府还需要内外层层通传，他直接来告知我们不就行了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "剑仙",
+      "text": "头像=黑人影",
+      "emotion": "怎么了？快出来。外面山崩，好多屋头都倒了，待在里面不安全。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "——徐神派来传话的人是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "剑仙",
+      "text": "头像=黑人影",
+      "emotion": "是老邱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "应该没事？出去吧，就算有埋伏，还有我呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "——方才东蜀杀生仙叛变，邱前辈已经死了。你看见的老邱是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……你先声称阁主在正殿，引我们往殿内。现在再唤我们出去，是在外布置好埋伏了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "阁主他们在哪里？他们既不在这，也没有往灵河。云帝宫也没有战斗的痕迹，那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "那我们出去跟他们拼生死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "拼什么拼。云帝宫易守难攻，我们就在里面，守着正殿入口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……师兄？……？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "隐光。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "不要松手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "厉生台杀生仙叛乱，欲攻占蜀山地窟夺取龙脉，要挟隐鸢阁，双方已在地窟中交过手，杀生仙暂时败退。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾会带人先清理云帝宫附近的叛逆，你尽快出山门，和山下的卫队汇合离蜀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "情势很严峻吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "龙脉此次似乎……呃？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "师兄！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不能直接穿过去！那是建木根系撕开的裂口，你的身躯无法承受。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "裂口后是蜀山地窟。西蜀于灵河畔备战，从灵河入口攻入地窟后，众人会去找他的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我让卫队和绣衣楼的人上山，协同备战。阁中必定还有蠢蠢欲动者，师尊带人入地窟查探，我可代为照管地上局势。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……隐光……"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"天下隐光/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background899dd3;color5642a6;textaligncenter;!标题背景和字色改这行颜色"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundB7CCEE;!背景2（导航）改B7CCEE"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''壹·天崩地坼'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "天崩地坼·一"
+    },
+    {
+      "type": "narration",
+      "text": "天崩地坼·二"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%A3%B9%C2%B7%E5%A4%A9%E5%B4%A9%E5%9C%B0%E5%9D%BC",
+  "crawled_at": "2026-04-12T22:07:45.374632",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|活动剧情|天下隐光/活动玩法}}{{背景图片|{{filepath:天下隐光背景.png}}}}\n{{回到顶部|头}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">天下隐光</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|天下隐光/活动剧情|序}}\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|壹·天崩地坼}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|贰·王为巫首}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|叁·扶桑已烬}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|肆·白龙垂目}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|伍·往世昭回}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|陆·天下隐光}}\n</center>\n</div></div>\n{{JS|Qiantao.js}}[[分类:活动剧情]]\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#899dd3;color:#5642a6;text-align:center;}<!--标题背景和字色改这行颜色-->\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#B7CCEE;}<!--背景2（导航）改#B7CCEE-->\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n__TOC__\n<center>\n='''壹·天崩地坼'''=\n</center>\n==天崩地坼·一==\n{{对话-头}}\n{{旁白|【未知之地】}}\n{{对话|？？？|不回头吗？|头像=黑人影}}\n{{对话|？？？|到了这个地步，尚有何执念呢？|头像=黑人影}}\n{{对话|左慈|……|头像=左慈}}\n{{旁白|心理|……师尊？}}\n{{对话|？？？|当年我就说过，王太子有些不识时务。往后这些年里，纵然有无数教训，仍是一意孤行。|头像=黑人影}}\n{{对话|？？？|有这样的下场……不算冤枉了。|头像=黑人影}}\n{{旁白|心理|我好像被师尊抱在怀中……可是，很怪异……这种被抱着的感觉，很怪异，我好像轻盈得如同落叶……}}\n{{对话|左慈|……天道还能再支撑一周天。|头像=左慈}}\n{{对话|？？？|巫不在意现世的天道，道无常无灭，哪怕现世之道崩塌，也不过是从神世重新开始……|头像=黑人影}}\n{{对话|？？？|但毕竟是脱离于巫傩所能掌控的程度，王太子、我，其余的巫……都会形同陌路吧。|头像=黑人影}}\n{{旁白|他没有回答那人的话。我不知此地是梦是真，无法动作，难以越过他，去看后方的那道人影。}}\n{{旁白|前方是一片汹涌的火海，宛如汇聚世上所有的铁浆，沸腾血红的液体在甬道中翻涌。他怀抱着我，一步步走向边缘……}}\n{{对话|？？？|白龙带走了神半影的魂魄，不去追吗？|头像=黑人影}}\n{{对话|左慈|吾还差一物。|头像=左慈}}\n{{对话|？？？|何物？|头像=黑人影}}\n{{旁白|他立身回首，我也随之见到了交谈者——}}\n{{旁白|它不是人。}}\n{{旁白|还未来得及辨清它的真身，天地飞旋。我被他怀抱着，坠向下方怒吼的火浆——这时，我才意识到，我没有身躯。}}\n{{旁白|被他抱在怀中的，只是我的头颅。}}\n{{对话|左慈|——斩龙之兵。|头像=左慈}}\n{{旁白|【灵河畔】}}\n{{对话|我|唔啊！|头像=广陵王-难受}}\n{{对话|祢衡|呜呼师弟中计呜啊——}}\n{{旁白|我一把揪住准备荡走的人影，甩掉头上的雪。}}\n{{对话|我|趁人睡午觉偷袭算什么大侠！看招！|头像=广陵王-微笑}}\n{{对话|祢衡|哈哈搓那么小的雪球都好意思出……唔噗！居然……包着……石头……}}\n{{对话|徐庶|打完雪仗记得去南院收一下干果哈，这样回头他问起来，我就说今天盯着你们干过活了。|头像=徐庶}}\n{{对话|祢衡|好——看我的！喝啊——}}\n{{对话|我|有本事去下坡打，这里前辈种着花我施展不开！|头像=广陵王-微笑}}\n{{对话|徐庶|隐光，隐光不要啦？带上噻。上次不知道把它落在哪了，大家埋头雪地里挖了半宿。|头像=徐庶}}\n{{旁白|我冲回方才小憩的树下，从软垫下面抽出隐光，转头继续抱起一团雪，追着祢衡砸去。}}\n{{对话|祢衡|爬树爬不过我吧？来呀来呀！|头像=祢衡}}\n{{对话|我|你给我等着！|头像=广陵王-微笑}}\n{{旁白|我抄起隐光，朝树干上劈去。轻薄剔透的剑身轻易削入树身，毫无声息。}}\n{{对话|祢衡|你赖皮！|头像=祢衡}}\n{{对话|我|桀桀桀——|头像=广陵王-微笑}}\n{{旁白|又是一剑劈下，突然一声巨响——}}\n{{旁白|心理|？！！}}\n{{对话|祢衡|出啥子事了……}}\n{{旁白|我们惊愕回头，看向灵河方向。常年平静的灵河畔，方才爆发出一阵震耳欲聋的烈响。}}\n{{旁白|心理|天色变暗了……}}\n{{旁白|微雪的晴空霎时昏暗，万里大地都开始微微震鸣，山雪皆崩，自北侧高峰崩涌而下——}}\n{{对话|祢衡|……又山崩了吗……谁？！}}\n{{旁白|声未尽人已至——枪影自树上杀下，拦截住一道跃出雪色的金色剑光。那是杀生仙的黄金剑。}}\n{{对话|我|不止一人！|头像=广陵王-严肃}}\n{{旁白|白雪若白色梦魇，从中浮现无数白衣金剑的鬼魅，朝我们涌来；另一边，灵河畔再度爆发巨响，地动感令人难以立足。}}\n{{对话|我|呃……|头像=广陵王-难受}}\n{{对话|我|……祢衡，灵河水……|头像=广陵王-严肃}}\n{{旁白|我们愕然地看着从上游淌下的灵河水。它在沸腾，变成了耀眼的火红，仿佛蜿蜒而下的火龙，焚烧途径的一切——}}\n{{旁白|然后，我们听见了徐庶的声音。}}\n{{对话|徐庶|去云帝宫！告诉阁主，东蜀叛变！|头像=徐庶}}\n{{对话-尾}}\n==天崩地坼·二==\n{{对话-头}}\n{{旁白|【正殿】}}\n{{对话|剑仙|你们来了……灵河那边山崩的时候，正殿正在议事。|头像=黑人影}}\n{{对话|剑仙|壶关君立刻赶回灵河坐镇。你们来的路上，没有见到他吗？|头像=黑人影}}\n{{对话|我|没有……|头像=广陵王-摇头}}\n{{对话|祢衡|他可能走水路回去，跟我们错开了……}}\n{{对话|我|你看见灵河沸腾了，他怎么可能走水路回去？|头像=广陵王-挑眉}}\n{{对话|祢衡|他可能体寒，不怕烫？}}\n{{旁白|我们一路朝正殿内走去，声音在空旷寂静的偌大室内回荡。}}\n{{对话|我|师尊？师尊？|头像=广陵王-惊讶}}\n{{对话|祢衡|他好像不在。会不会也去灵河了……呃！}}\n{{旁白|又是一阵地动山摇。山崩蔓延到了主山，整座云帝宫都开始了动荡。}}\n{{对话|祢衡|……还是先退出去吧，别待在室内。}}\n{{对话|我|心纸君失灵了……先离开室……|头像=广陵王-严肃}}\n{{旁白|话音未落，更剧烈的震荡裹挟了整座云帝宫，我不得不扶住中柱才能勉强站稳。}}\n{{旁白|这场地动山摇持续了许久，似乎有某种沉重而浩荡的低吼声，从地底深处传出，回荡整座蜀山。}}\n{{对话|我|师兄？|头像=广陵王-难受}}\n{{对话|祢衡|……|头像=祢衡}}\n{{对话|我|怎么怔住了？不离开这里吗？师兄？祢衡？|头像=广陵王-挑眉}}\n{{旁白|他静静站在那，一动不动。忽然，他露出了一个怪异的神情。}}\n{{对话|我|……师兄？|头像=广陵王-惊讶}}\n{{旁白|那不是笑。像是被一只胡闹的手揉乱面部，拧转五官硬造出的笑意。他的眼神变了，仿佛被方才的低吼声取代了躯壳。}}\n{{旁白|但是异样转瞬而过，他的神情恢复了正常。}}\n{{对话|剑仙|祢衡、师弟，你们先出来。徐神派人来传话，说阁主已经到灵河那边了，让你们尽快过去。|头像=黑人影}}\n{{对话|祢衡|晓得，我们正好要出去。}}\n{{旁白|他正要往外走，忽然，我拉住了他。}}\n{{对话|我|等等，有哪里不对劲。|头像=广陵王-摇头}}\n{{对话|我|徐神能从灵河那边派来传话的人，必然与我们相熟，那个人为何需要那名剑仙替他转达？|头像=广陵王-严肃}}\n{{对话|我|又不是王府还需要内外层层通传，他直接来告知我们不就行了吗？|头像=广陵王-挑眉}}\n{{对话|剑仙|怎么了？快出来。外面山崩，好多屋头都倒了，待在里面不安全。|头像=黑人影}}\n{{对话|我|——徐神派来传话的人是谁？|头像=广陵王-严肃}}\n{{对话|剑仙|是老邱。|头像=黑人影}}\n{{旁白|心理|……确实是负责把守住灵河山道的剑仙。}}\n{{对话|祢衡|应该没事？出去吧，就算有埋伏，还有我呢。}}\n{{旁白|我再次拉住了他。}}\n{{对话|我|——方才东蜀杀生仙叛变，邱前辈已经死了。你看见的老邱是谁？|头像=广陵王-微笑}}\n{{旁白|祢衡讶异，但旋即明白过来。但是，外面的剑仙陷入了沉默。}}\n{{对话|我|……你先声称阁主在正殿，引我们往殿内。现在再唤我们出去，是在外布置好埋伏了吗？|头像=广陵王-严肃}}\n{{旁白|没有回答。}}\n{{对话|我|阁主他们在哪里？他们既不在这，也没有往灵河。云帝宫也没有战斗的痕迹，那……|头像=广陵王-严肃}}\n{{对话|祢衡|那我们出去跟他们拼生死。}}\n{{对话|我|拼什么拼。云帝宫易守难攻，我们就在里面，守着正殿入口。|头像=广陵王-严肃}}\n{{旁白|在片刻僵持后，殿外传来脚步声，人数比预想中的要多，来者不善；我正屏息以待，忽然，身边的祢衡笑了一声。}}\n{{旁白|他说了一句话，读音古老而诡谲，我听不懂。}}\n{{对话|我|……师兄？……？！！|头像=广陵王-惊讶}}\n{{旁白|下一刻，他的肢体扭曲拧转，像是体内有什么正在占据这具身躯。剧烈的抽搐后，他的嘴大张，不断从体内发出刺耳的嘶鸣声。}}\n{{旁白|它嘶哑、短促而尖锐，有几分像猿鸣，在我耳边炸开。同时地动再起，殿门外也现出人影——}}\n{{旁白|就在这时，一只手凭空出现，抓住了我的肩膀。}}\n{{旁白|我愕然回身，空中仿佛被人切开了一道裂口，师尊自裂口中出现，他的身后，是一片火红。}}\n{{对话|左慈|隐光。|头像=左慈}}\n{{旁白|来不及思索，我将隐光递给了他。}}\n{{旁白|旋即，我看那种怪异的神情，浮现在了“师尊”的脸上——}}\n{{对话|我|！！！|头像=广陵王-生气}}\n{{旁白|触碰我肩膀和隐光的手，迅速化为金色的根系，死死纠缠住我们。我欲夺回隐光，不愿松手。这时，怪异后方的火红中，出现了另一张脸……}}\n{{对话|左慈|不要松手！|头像=左慈}}\n{{旁白|他握住了我的手。一股温热的清风拂过身侧，风终止了所有异象，那些金色根系仓皇消散，化为金粉，飘落在地。}}\n{{旁白|祢衡昏倒在地，失去了意识。他迈出裂口，雪色袍服上满是血污。}}\n{{对话|左慈|厉生台杀生仙叛乱，欲攻占蜀山地窟夺取龙脉，要挟隐鸢阁，双方已在地窟中交过手，杀生仙暂时败退。}}\n{{对话|左慈|吾会带人先清理云帝宫附近的叛逆，你尽快出山门，和山下的卫队汇合离蜀。}}\n{{对话|我|情势很严峻吗？|头像=广陵王-严肃}}\n{{对话|左慈|龙脉此次似乎……呃？！}}\n{{旁白|话音未落，裂口再次在上方出现，金色根系若箭雨浇下。他带我避开根系，但祢衡被无数金色根系纠缠住，带入了裂口之中……}}\n{{对话|我|师兄！|头像=广陵王-生气}}\n{{对话|左慈|不能直接穿过去！那是建木根系撕开的裂口，你的身躯无法承受。}}\n{{对话|左慈|裂口后是蜀山地窟。西蜀于灵河畔备战，从灵河入口攻入地窟后，众人会去找他的。}}\n{{对话|我|我让卫队和绣衣楼的人上山，协同备战。阁中必定还有蠢蠢欲动者，师尊带人入地窟查探，我可代为照管地上局势。|头像=广陵王-微笑}}\n{{旁白|我们打算先行突破云帝宫外的拦截，前往灵河畔。当我提着隐光剑起身时，却怔住了……}}\n{{对话|我|……隐光……|头像=广陵王-严肃}}\n{{旁白|——我手中的隐光剑，在方才的混乱之中不知何时断裂了，只余下半寸剑身。}}\n{{对话-尾}}\n\n<center>\n{{板块|按钮|天下隐光/活动剧情|上一页}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

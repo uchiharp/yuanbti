@@ -1,0 +1,29 @@
+{
+  "title": "南有乔木/20",
+  "category": "主线剧情",
+  "characters": [
+    "我",
+    "胆小山贼"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你是附近的山贼？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "胆小山贼",
+      "text": "嘘！我们轻点打，千万不要把前面的怪物引过来……",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8D%97%E6%9C%89%E4%B9%94%E6%9C%A8/20",
+  "crawled_at": "2026-04-12T21:57:08.574783",
+  "raw_wikitext": "{{对话-头}}\n{{旁白|树林-被山贼劫走}}\n{{对话|我|你是附近的山贼？}}\n{{对话|胆小山贼|嘘！我们轻点打，千万不要把前面的怪物引过来……}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "丹书白马/12",
+  "category": "主线剧情",
+  "characters": [
+    "坚定士兵",
+    "我",
+    "逃兵",
+    "逃兵统领"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "留下据城死守，尚有一线生机。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "逃兵",
+      "text": "要留你留，我可不想死！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "坚定士兵",
+      "text": "我是彭城的兵，城在人在！城破人亡！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "逃兵统领",
+      "text": "曹操此人心狠手辣，若是打进来必定鸡犬不留。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "彭城并非如此不堪一击。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "逃兵统领",
+      "text": "信你死路一条！别挡我的路！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "逃兵统领",
+      "text": "我还想再见到我孩子……他才刚出生……我不能死！",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%B9%E4%B9%A6%E7%99%BD%E9%A9%AC/12",
+  "crawled_at": "2026-04-12T21:52:44.351551",
+  "raw_wikitext": "{{对话-头}}\n{{对话|我|留下据城死守，尚有一线生机。}}\n{{对话|逃兵|要留你留，我可不想死！}}\n{{对话|坚定士兵|我是彭城的兵，城在人在！城破人亡！}}\n{{对话|逃兵统领|曹操此人心狠手辣，若是打进来必定鸡犬不留。}}\n{{对话|我|彭城并非如此不堪一击。}}\n{{对话|逃兵统领|信你死路一条！别挡我的路！}}\n{{旁白|（作战后）}}\n{{对话|逃兵统领|我还想再见到我孩子……他才刚出生……我不能死！}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

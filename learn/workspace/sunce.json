@@ -1,0 +1,842 @@
+[
+  {
+    "id": "sunce_sweet_1",
+    "type": "sweet",
+    "dimension": ["S2", "S8"],
+    "source_character": "孙策",
+    "text": "七夕约会时，孙策细心注意到你今日妆容精致，主动提出替你切肉以免弄花。面对他这份直白又细腻的关心，你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "接过他切的肉，笑着感谢他的细心，并夸他今天也很帅气。",
+        "scores": { "S2": 5, "S8": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "表示自己来切就好，不想让他太操心，同时递给他一块肉。",
+        "scores": { "S2": 3, "S8": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "开玩笑说'你这么会照顾人，以后都让你切好了'，并顺势喂他一口。",
+        "scores": { "S2": 1, "S8": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'我替你切肉。你今天的妆好看，肯定用心画了，不想弄花。' 孙策在七夕约会中展现出对广陵王妆容的细腻观察和体贴，直球又温柔。"
+  },
+  {
+    "id": "sunce_sweet_2",
+    "type": "sweet",
+    "dimension": ["S2", "S8"],
+    "source_character": "孙策",
+    "text": "寿春孙府不太平，孙策为保护你的安全，亲自整夜守在客房外。你知道他明日还有演兵，会如何劝他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "坚持让他回去休息，说自己可以照顾好自己，并承诺有事会立刻叫他。",
+        "scores": { "S2": 3, "S8": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "邀请他进屋一起守夜，表示两人轮流值班更有效率。",
+        "scores": { "S2": 5, "S8": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "干脆不劝了，给他披件外衣，陪他在门外坐一会儿。",
+        "scores": { "S2": 1, "S8": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'我整夜都在客房外。有什么风吹草动，全都能听见。' 南有乔木剧情中，孙策以最直接的方式守护广陵王的安全，体现其豪爽下的细腻担当。"
+  },
+  {
+    "id": "sunce_sweet_3",
+    "type": "sweet",
+    "dimension": ["S2", "S7"],
+    "source_character": "孙策",
+    "text": "孙策直球夸你'水'（好看），随后又慌张解释'别误会，我不是因为有其他心思才夸你的'。看着他手足无措的样子，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "被他逗笑，也夸回去：'伯符今天也很英俊。'",
+        "scores": { "S2": 5, "S7": 1 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "正色感谢他的夸奖，并自然转移话题聊起江东方言。",
+        "scores": { "S2": 3, "S7": 1 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "故意追问：'那其他心思是什么？'看他更加慌乱的样子。",
+        "scores": { "S2": 1, "S7": 5 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'你比我想象得要……水！江东话，意思就是好看！' 孙策直率夸赞后又怕唐突的慌乱模样，展现其直球性格下的纯情一面。"
+  },
+  {
+    "id": "sunce_sweet_4",
+    "type": "sweet",
+    "dimension": ["S2", "S5"],
+    "source_character": "孙策",
+    "text": "游猎时突遇山贼，孙策将你护在身后，轻声说'怕的话就叫出声，我不笑你'。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "握紧他的手，小声说'有你在，我不怕'。",
+        "scores": { "S2": 5, "S5": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "抽出随身短剑，站到他身侧：'一起对付。'",
+        "scores": { "S2": 3, "S5": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "冷静观察山贼人数和地形，快速制定撤退路线。",
+        "scores": { "S2": 1, "S5": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'怕的话就叫出声，我不笑你。' 南有乔木游猎剧情中，孙策在危险关头仍不忘安抚广陵王，体现其豪爽下的温柔与可靠。"
+  },
+  {
+    "id": "sunce_sweet_5",
+    "type": "sweet",
+    "dimension": ["S5", "S2"],
+    "source_character": "孙策",
+    "text": "七夕河边，孙策钓鱼屡屡失败，索性掏出一块金锭要跟渔夫换鱼，却发现渔夫早已收摊。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "拉住他：'别浪费金子了，我陪你徒手抓，看谁先抓到！'",
+        "scores": { "S5": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "提议去市集买现成的鱼，然后一起找地方烤来吃。",
+        "scores": { "S5": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "大笑他的憨直，然后从怀里掏出早就备好的鱼干：'就知道你抓不到，吃这个吧。'",
+        "scores": { "S5": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：孙策七夕约会中钓鱼失败，想用金块换鱼，展现其直率憨直又带点霸道的可爱一面。"
+  },
+  {
+    "id": "sunce_funny_1",
+    "type": "funny",
+    "dimension": ["S7", "S2"],
+    "source_character": "孙策",
+    "text": "孙策研究鲁班锁半天不得其解，干脆抽出佩刀：'大力出奇迹！喝！——看，直接一劈二就好了。'你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "鼓掌称赞：'不愧是伯符，简单粗暴但有效！'",
+        "scores": { "S7": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "捡起两半木头试图拼回去：'等等，这样以后还怎么玩啊？'",
+        "scores": { "S7": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "也掏出一把刀：'那我帮你把九连环也劈开？'",
+        "scores": { "S7": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：孙策解不开鲁班锁直接劈开，体现其'暴力解谜'的搞笑反差。"
+  },
+  {
+    "id": "sunce_funny_2",
+    "type": "funny",
+    "dimension": ["S5", "S2"],
+    "source_character": "孙策",
+    "text": "孙策发现一盆捕蝇草，兴奋地喂它吃山楂糕和猪杂粉，看着草叶咬住食物大呼'好强！！！'。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "跟着他一起喂，尝试各种食物看捕蝇草的反应。",
+        "scores": { "S5": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "赶紧拉他离开：'老板娘抄着花盆杀过来了！快跑！'",
+        "scores": { "S5": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "掏出随身小本记录：'捕蝇草食性观察：甜咸皆可，不挑食。'",
+        "scores": { "S5": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：七夕约会中孙策喂捕蝇草吃各种食物，展现其孩子气的好奇心与搞笑天赋。"
+  },
+  {
+    "id": "sunce_funny_3",
+    "type": "funny",
+    "dimension": ["S8", "S3"],
+    "source_character": "孙策",
+    "text": "集市摔跤比赛，孙策为自己支持的人呐喊助威，热血沸腾甚至想亲自报名上场。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "拉住他：'别冲动，你看台上都是专业力士，受伤了怎么办？'",
+        "scores": { "S8": 5, "S3": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "怂恿他：'去啊！我赌你三招内放倒那个花腰带的！'",
+        "scores": { "S8": 3, "S3": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "掏出铜钱押注：'我赌蓝腰带赢，你要是上场我就赌你赢。'",
+        "scores": { "S8": 1, "S3": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：七夕约会中孙策看摔跤比赛激动不已，体现其豪爽热血又带点幼稚的可爱性格。"
+  },
+  {
+    "id": "sunce_funny_4",
+    "type": "funny",
+    "dimension": ["S3", "S8"],
+    "source_character": "孙策",
+    "text": "孙策陪你挑首饰，对着一盘红宝石皱眉：'都不够大，大得像鸡蛋那样才鲜亮。'你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "指着一颗较小的宝石：'我觉得这颗雕工精致，更适合日常佩戴。'",
+        "scores": { "S3": 5, "S8": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "大笑：'鸡蛋大的宝石？那得嵌在头盔上才戴得出去吧！'",
+        "scores": { "S3": 3, "S8": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "对老板说：'把你们镇店之宝拿出来，要最大的。'",
+        "scores": { "S3": 1, "S8": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：七夕约会中孙策挑首饰嫌宝石不够大，展现其直率夸张的审美和憨直可爱。"
+  },
+  {
+    "id": "sunce_funny_5",
+    "type": "funny",
+    "dimension": ["S5", "S2"],
+    "source_character": "孙策",
+    "text": "孙策弄了点烈酒想玩吐火，结果'哎呀别担心，我行……唔啊啊啊头发烧起来了！'你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "迅速脱下外衣扑打他头上的火苗。",
+        "scores": { "S5": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "一边帮他灭火一边忍不住笑：'叫你别逞能！'",
+        "scores": { "S5": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "赶紧去找水或沙土来灭火。",
+        "scores": { "S5": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：孙策玩火把头发烧着了，展现其莽撞又搞笑的日常。"
+  },
+  {
+    "id": "sunce_angst_1",
+    "type": "angst",
+    "dimension": ["S2", "S1"],
+    "source_character": "孙策",
+    "text": "孙策谈及权力，说'权力对我来说太可怕了，比毒药还会腐蚀犬心'。你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "赞同他的观点，并分享自己对权力的警惕。",
+        "scores": { "S2": 5, "S1": 1 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "追问：'那为何还要打天下？'引导他阐述自己的理想。",
+        "scores": { "S2": 3, "S1": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "轻轻握住他的手：'但你和他们不一样。'",
+        "scores": { "S2": 1, "S1": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'权力对我来说太可怕了'，孙策对权力腐蚀性的清醒认知，体现其深沉一面。"
+  },
+  {
+    "id": "sunce_angst_2",
+    "type": "angst",
+    "dimension": ["S5", "S8"],
+    "source_character": "孙策",
+    "text": "血战守城后，孙策倚着墙对你笑，却轻声说'左臂有点……抬不起来了'。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "立即检查他的伤势，撕下衣襟为他包扎。",
+        "scores": { "S5": 5, "S8": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "强忍心疼，故作轻松：'回去让华佗给你扎几针就好。'",
+        "scores": { "S5": 3, "S8": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "握紧他没受伤的右手：'我扶你回去。'",
+        "scores": { "S5": 1, "S8": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：围城剧情中孙策受伤后仍强撑笑颜，体现其坚韧与温柔。"
+  },
+  {
+    "id": "sunce_angst_3",
+    "type": "angst",
+    "dimension": ["S2", "S6"],
+    "source_character": "孙策",
+    "text": "围城危机，孙策让你先撤，说'你若想走，我护你走'。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "握住他的手：'我不走，要守一起守。'",
+        "scores": { "S2": 5, "S6": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "冷静分析：'一起突围成功率更高，我们一起走。'",
+        "scores": { "S2": 3, "S6": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "看着他的眼睛：'我相信你，我们一起杀出去。'",
+        "scores": { "S2": 1, "S6": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'你若想走，我护你走'，围城时孙策给广陵王的承诺，体现其生死关头的真诚与担当。"
+  },
+  {
+    "id": "sunce_angst_4",
+    "type": "angst",
+    "dimension": ["S1", "S9"],
+    "source_character": "孙策",
+    "text": "孙策谈及士族权谋，说'公敌是可以被塑造的。士族想要延续这个公敌，避免犬都开始内斗'。你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "点头赞同：'这就是帝王术，团结内部的最好方法。'",
+        "scores": { "S1": 5, "S9": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "反问：'那你觉得，我们该如何打破这种循环？'",
+        "scores": { "S1": 3, "S9": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "轻声说：'但你不是他们，你不会这样做。'",
+        "scores": { "S1": 1, "S9": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'公敌是可以被塑造的'，孙策对士族权谋的清醒认知，体现其深沉的政治洞察力。"
+  },
+  {
+    "id": "sunce_angst_5",
+    "type": "angst",
+    "dimension": ["S2", "S5"],
+    "source_character": "孙策",
+    "text": "围城血战，孙策笑着说'大丈夫为心上人死，死得坦坦荡荡'。你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "握紧武器站到他身边：'那就让我们一起坦坦荡荡地活下去。'",
+        "scores": { "S2": 5, "S5": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "眼眶微红却强笑：'说什么傻话，我们都要活着。'",
+        "scores": { "S2": 3, "S5": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "挡在他身前：'要死也是我先。'",
+        "scores": { "S2": 1, "S5": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：'大丈夫为心上人死，死得坦坦荡荡'，围城剧情中孙策的豪迈誓言，体现其炽热真挚的情感与生死观。"
+  },
+  {
+    "id": "sunce_scheme_1",
+    "type": "scheme",
+    "dimension": ["S1", "S9"],
+    "source_character": "孙策",
+    "text": "孙策不屑地说：'士族那些弯弯绕绕的把戏，老子懒得陪他们玩。'你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "赞同：'确实，不如直来直去痛快。'",
+        "scores": { "S1": 5, "S9": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "提醒：'但有些时候，懂规则才能不被人算计。'",
+        "scores": { "S1": 3, "S9": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "笑问：'那如果有人用这些把戏算计你呢？'",
+        "scores": { "S1": 1, "S9": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文体现孙策对士族权谋的不屑态度，但他并非不懂，只是选择不参与这种游戏。"
+  },
+  {
+    "id": "sunce_scheme_2",
+    "type": "scheme",
+    "dimension": ["S9", "S1"],
+    "source_character": "孙策",
+    "text": "谈及江东内部派系，孙策说：'绝大多数的犬心里想的还是，自己想要天下和权力吧。'你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "点头：'人性如此，权力确实诱人。'",
+        "scores": { "S9": 5, "S1": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "反问：'那你呢？你也想要天下和权力吗？'",
+        "scores": { "S9": 3, "S1": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "轻声说：'我知道你不是。'",
+        "scores": { "S9": 1, "S1": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文：孙策对人心和权力的清醒认知，体现其政治洞察力。"
+  },
+  {
+    "id": "sunce_scheme_3",
+    "type": "scheme",
+    "dimension": ["S6", "S1"],
+    "source_character": "孙策",
+    "text": "有士族提议联姻以巩固联盟，孙策嗤笑：'老子娶谁，还要他们来安排？'你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "支持他：'没错，婚姻大事岂能儿戏。'",
+        "scores": { "S6": 5, "S1": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "冷静分析：'但联姻确实能快速稳定局面，可以考虑。'",
+        "scores": { "S6": 3, "S1": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "开玩笑：'那伯符想娶什么样的？'",
+        "scores": { "S6": 1, "S1": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策对政治联姻的抗拒，体现其不愿被权谋束缚、坚持自我选择的性格。"
+  },
+  {
+    "id": "sunce_scheme_4",
+    "type": "scheme",
+    "dimension": ["S1", "S7"],
+    "source_character": "孙策",
+    "text": "发现盟友暗中与敌方勾结，孙策冷笑：'早就知道这老小子靠不住。'你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "提议：'将计就计，反过来利用他们传递假消息。'",
+        "scores": { "S1": 5, "S7": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "建议：'直接挑明，看他如何辩解。'",
+        "scores": { "S1": 3, "S7": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "问：'你打算怎么处理？'",
+        "scores": { "S1": 1, "S7": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策对背叛行为的预见和冷静态度，体现其并非不懂权谋，只是不屑为之。"
+  },
+  {
+    "id": "sunce_scheme_5",
+    "type": "scheme",
+    "dimension": ["S9", "S6"],
+    "source_character": "孙策",
+    "text": "孙策说：'我打天下是为了太平，不是为了当皇帝。'你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "敬佩：'这才是真正的英雄胸怀。'",
+        "scores": { "S9": 5, "S6": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "提醒：'但天下安定后，总需要有人来治理。'",
+        "scores": { "S9": 3, "S6": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "微笑：'我知道，你和他们不一样。'",
+        "scores": { "S9": 1, "S6": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的政治理想体现其纯粹初心，并非追求权力本身，而是为了天下太平。"
+  },
+  {
+    "id": "sunce_daily_1",
+    "type": "daily",
+    "dimension": ["S7", "S2"],
+    "source_character": "孙策",
+    "text": "孙策总爱自称'老子'，你觉得这称呼？",
+    "options": [
+      {
+        "label": "A",
+        "text": "挺有意思，是他的豪爽性格体现。",
+        "scores": { "S7": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "私下可以，正式场合最好注意一下。",
+        "scores": { "S7": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "偶尔会觉得有点粗鲁，但能接受。",
+        "scores": { "S7": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的口头禅'老子'是其豪爽性格的体现，并非粗鲁，而是他直率性格的一部分。"
+  },
+  {
+    "id": "sunce_daily_2",
+    "type": "daily",
+    "dimension": ["S3", "S8"],
+    "source_character": "孙策",
+    "text": "孙策吃饭总是大口吃肉，无肉不欢。你会如何与他共餐？",
+    "options": [
+      {
+        "label": "A",
+        "text": "也大口吃肉，陪他喝个痛快。",
+        "scores": { "S3": 5, "S8": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "提醒他荤素搭配，并给他夹些蔬菜。",
+        "scores": { "S3": 3, "S8": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "笑着看他吃，觉得这样很可爱。",
+        "scores": { "S3": 1, "S8": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策豪爽的饮食习惯体现其直率性格，大口吃肉大口喝酒是其日常写照。"
+  },
+  {
+    "id": "sunce_daily_3",
+    "type": "daily",
+    "dimension": ["S5", "S2"],
+    "source_character": "孙策",
+    "text": "孙策守夜后直接在客房外靠着墙睡着了。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "轻轻给他盖件毯子，让他多睡一会儿。",
+        "scores": { "S5": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "叫醒他让他回房睡，地上太凉。",
+        "scores": { "S5": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坐在旁边陪他一会儿。",
+        "scores": { "S5": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策守夜后直接睡在客房外，体现其粗中有细的守护和随性性格。"
+  },
+  {
+    "id": "sunce_daily_4",
+    "type": "daily",
+    "dimension": ["S3", "S7"],
+    "source_character": "孙策",
+    "text": "孙策的衣袍经常沾着尘土或酒渍，他自己毫不在意。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "提醒他注意仪容，毕竟是一方之主。",
+        "scores": { "S3": 5, "S7": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "觉得这样很真实，不矫揉造作。",
+        "scores": { "S3": 3, "S7": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "偶尔帮他拍拍灰尘，但不说破。",
+        "scores": { "S3": 1, "S7": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策不拘小节的穿衣习惯体现其豪爽不羁的性格，不注重外在形式。"
+  },
+  {
+    "id": "sunce_daily_5",
+    "type": "daily",
+    "dimension": ["S5", "S2"],
+    "source_character": "孙策",
+    "text": "孙策空闲时喜欢找人比武摔跤，你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "陪他练几招，活动筋骨。",
+        "scores": { "S5": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "劝他注意安全，别受伤了。",
+        "scores": { "S5": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在旁边观战，给他加油。",
+        "scores": { "S5": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策好动尚武的性格，空闲时喜欢比武摔跤，体现其精力充沛和豪爽本色。"
+  },
+  {
+    "id": "sunce_classic_1",
+    "type": "classic",
+    "dimension": ["S2", "S5"],
+    "source_character": "孙策",
+    "text": "围城之夜，孙策一人守城，对你说：'我不怕。我只怕死得憋屈。'你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "握紧武器：'那就让我们一起死得轰轰烈烈。'",
+        "scores": { "S2": 5, "S5": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "坚定地说：'我们都不会死，要一起活下去。'",
+        "scores": { "S2": 3, "S5": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "轻声回应：'你不会死得憋屈，我保证。'",
+        "scores": { "S2": 1, "S5": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "原文围城剧情经典场面，孙策的豪迈与无畏，体现其生死观和英雄气概。"
+  },
+  {
+    "id": "sunce_classic_2",
+    "type": "classic",
+    "dimension": ["S8", "S5"],
+    "source_character": "孙策",
+    "text": "南有乔木剧情中，孙策整夜守在客房外，说：'我亲自守着，安心吧。'你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "开门让他进来：'外面冷，进来守也一样。'",
+        "scores": { "S8": 5, "S5": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "隔着门说：'你也注意休息，别太累。'",
+        "scores": { "S8": 3, "S5": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "轻声回应：'嗯，有你在，我安心。'",
+        "scores": { "S8": 1, "S5": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "南有乔木经典守护场景，孙策以最直接的方式保护广陵王，体现其豪爽下的细腻担当。"
+  },
+  {
+    "id": "sunce_classic_3",
+    "type": "classic",
+    "dimension": ["S7", "S2"],
+    "source_character": "孙策",
+    "text": "七夕河边，孙策钓鱼屡屡失败，直接掏出一块金锭要跟渔夫换鱼。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "大笑：'不愧是伯符，简单粗暴！'",
+        "scores": { "S7": 5, "S2": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "拉住他：'别浪费钱了，我陪你徒手抓。'",
+        "scores": { "S7": 3, "S2": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "提议：'不如我们去市集买现成的。'",
+        "scores": { "S7": 1, "S2": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "七夕约会经典搞笑场面，孙策钓鱼失败想用金块换鱼，展现其直率憨直又带点霸道的可爱一面。"
+  },
+  {
+    "id": "sunce_classic_4",
+    "type": "classic",
+    "dimension": ["S9", "S6"],
+    "source_character": "孙策",
+    "text": "谈及权力，孙策说：'权力对我来说太可怕了，比毒药还会腐蚀犬心。'你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "赞同：'确实，权力容易让人迷失。'",
+        "scores": { "S9": 5, "S6": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "追问：'那你为何还要争天下？'",
+        "scores": { "S9": 3, "S6": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "轻声说：'但你和那些被腐蚀的人不一样。'",
+        "scores": { "S9": 1, "S6": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "犬都纪事经典对话，孙策对权力腐蚀性的清醒认知，体现其深沉一面。"
+  },
+  {
+    "id": "sunce_classic_5",
+    "type": "classic",
+    "dimension": ["S2", "S7"],
+    "source_character": "孙策",
+    "text": "孙策指着广陵王妃的礼服说：'把那套什么广陵王妃的礼服，照我的尺寸改改。'你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "大笑：'伯符这是要当王妃吗？'",
+        "scores": { "S2": 5, "S7": 3 },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "正色问：'你知道这句话是什么意思吗？'",
+        "scores": { "S2": 3, "S7": 5 },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "脸红小声：'胡说什么……'",
+        "scores": { "S2": 1, "S7": 3 },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策式求婚经典场面，直球又憨直的告白，体现其热烈真挚的情感表达方式。"
+  }
+]

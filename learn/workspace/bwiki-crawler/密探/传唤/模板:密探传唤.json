@@ -1,0 +1,106 @@
+{
+  "title": "模板:密探传唤",
+  "category": "密探传唤",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly密探分类密探传唤div classdropdownwrap div classwraptitlediv classtitle传唤span style\"position absolute;right 5px;fontsize 14px;\"▼展开全部▼/span/divdiv class\"glyphicon iconarrowplus\"/div/divdiv classwrapcontent style\"\"喜头table class\"wikitable mitan_table\"trtd30px喜欢的礼物：喜尾/td厌头td30px不喜欢的礼物：厌尾/td/trtrth colspan3常规语音/th/tr/table列表头table class\"wikitable mitan_table\"列表trtd/tdtd/td/tr出场列表尾th colspan3信赖值解锁/th/table/includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "noinclude"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "调用道具ask列举礼物（可以手动在两个道具ask中加顿号（、））"
+    },
+    {
+      "type": "narration",
+      "text": "单个："
+    },
+    {
+      "type": "narration",
+      "text": "多个：、、"
+    },
+    {
+      "type": "narration",
+      "text": "调用道具ask列举礼物（可以手动在两个道具ask中加顿号（、））"
+    },
+    {
+      "type": "narration",
+      "text": "单个："
+    },
+    {
+      "type": "narration",
+      "text": "多个：、、"
+    },
+    {
+      "type": "narration",
+      "text": "（密探传唤列表  前后不能有空格，需要首尾相接）"
+    },
+    {
+      "type": "narration",
+      "text": "调用密探信赖值单条"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "效果"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "改版"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "密探分类密探传唤div classdropdownwrap div classwraptitlediv classtitle传唤/divdiv class\"glyphicon iconarrowplus\"/div/divdiv classwrapcontent style\"display block\"喜头div style\"displayflex;alignitemscenter;\"div30px喜欢的礼物：/divdiv喜尾/div/div厌头div style\"displayflex;alignitemscenter;\"div30px不喜欢的礼物：/divdiv厌尾/div/div列表头css"
+    },
+    {
+      "type": "narration",
+      "text": ".outcontainer"
+    },
+    {
+      "type": "narration",
+      "text": "maxwidth 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "alignitemscenter;"
+    },
+    {
+      "type": "narration",
+      "text": "table列表tr style\"border5px 0000 solid\"th width\"100px\" style\"color 785840;fontweight bold;textaligncenter;\"/ththdiv style\"color 785840;border1px solid cdba9a;padding8px 8px 8px 8px;marginleft10px;backgroundcolor302d34;colorcbbba4;borderradius5px\"/div/th/tr列表尾/table/pre"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E5%AF%86%E6%8E%A2%E4%BC%A0%E5%94%A4",
+  "crawled_at": "2026-04-12T21:56:48.732859",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}|密探=[[分类:密探传唤]]<div class=drop-down-wrap ><div class=wrap-title><div class=title>{{{2|}}}-传唤<span style=\"position: absolute;right: 5px;font-size: 14px;\">▼展开全部▼</span></div><div class=\"glyphicon icon-arrow-plus\"></div></div><div class=wrap-content style=\"\">|喜头=<table class=\"wikitable mitan_table\"><tr><td>[[文件:橙脸.png|30px]]喜欢的礼物：|喜尾=</td>|厌头=<td>[[文件:蓝脸.png|30px]]不喜欢的礼物：|厌尾=</td></tr><tr><th colspan=3>常规语音</th></tr></table>|列表头=<table class=\"wikitable mitan_table\">|列表=<tr><td>{{{语音名称|}}}</td><td>{{{语音内容|}}}</td></tr>{{#ifeq: {{{语音名称|}}}|出场|{{#set:|\n |出场语音={{{语音内容|暂未收录}}}}}|}}|列表尾=<th colspan=3>信赖值解锁</th></table>}}</includeonly>\n<noinclude>\n==使用方法==\n<pre>\n{{密探传唤|密探|录入密探名}}\n{{密探传唤|喜头}}\n#调用道具ask列举礼物（可以手动在两个道具ask中加顿号（、））\n单个：{{道具ask|道具名称}}\n多个：{{道具ask|道具名称}}、{{道具ask|道具名称}}、{{道具ask|道具名称}}\n{{密探传唤|喜尾}}\n{{密探传唤|厌头}}\n#调用道具ask列举礼物（可以手动在两个道具ask中加顿号（、））\n单个：{{道具ask|道具名称}}\n多个：{{道具ask|道具名称}}、{{道具ask|道具名称}}、{{道具ask|道具名称}}\n{{密探传唤|厌尾}}\n\n{{密探传唤|列表头}}\n（密探传唤|列表  前后不能有空格，需要首尾相接）\n{{密探传唤|列表|语音名称=|语音内容=}}\n{{密探传唤|列表尾}}\n\n#调用密探信赖值单条\n{{密探信赖值条目|信赖值=|奖励物品1名称=|奖励物品1数量=|奖励物品2名称=|奖励物品2数量=|奖励语音名称=|奖励语音内容=}}\n</pre>\n===效果===\n<pre>\n{{密探传唤|密探|华佗}}\n{{密探传唤|喜头}}{{道具ask|鸟食}}{{密探传唤|喜尾}}{{密探传唤|厌头}}无{{密探传唤|厌尾}}{{密探传唤|列表头}}\n{{密探传唤|列表|语音名称=胜利|语音内容=怎么样？我的医术比那个姓张的靠谱吧！}}{{密探传唤|列表|语音名称=失败|语音内容=跟我跑，死不了。}}\n{{密探传唤|列表|语音名称=突破|语音内容=哦哦哦！充满了力量，能连做三场开颅手术！}}\n{{密探传唤|列表|语音名称=修为1|语音内容=有人需要开颅手术吗？不收钱，免费的！}}\n{{密探传唤|列表|语音名称=修为2|语音内容=肩膀酸？我来帮你正骨！······是不是有什么断掉的声音······}}\n{{密探传唤|列表|语音名称=化极|语音内容=我知道巫的末路，我也知道我最后会怎么样。别怕，我能控制我自己。}}\n{{密探传唤|列表|语音名称=觉醒|语音内容=巫血，已经开始在我的身体里蔓延了......哈，挺好的。}}\n{{密探传唤|列表|语音名称=送礼1|语音内容=好薄的刃！剥皮一定很快。}}\n{{密探传唤|列表|语音名称=送礼2|语音内容=还是这玩意开颅顺手！要不要试试？}}\n{{密探传唤|列表|语音名称=传唤台词1|语音内容=你病了？我看看······开胸就行，不用开颅。}}\n{{密探传唤|列表|语音名称=传唤台词2|语音内容=你昨晚是不是没睡好?再这样下去会秃掉的。}}\n{{密探传唤|列表|语音名称=出场|语音内容=我需要找人实践开颅手术，你愿意献身帮忙吗？}}\n{{密探传唤|列表尾}}\n{{密探信赖值条目|信赖值=100|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励物品2名称=阴符|奖励物品2数量=1|奖励语音名称=信赖值语音1|奖励语音内容=我叫华佗，字“板板”......你那是什么表情啊？不爽吗？不爽打一架啊}}\n{{密探信赖值条目|信赖值=200|奖励物品1名称=兵书残卷|奖励物品1数量=5}}\n{{密探信赖值条目|信赖值=300|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励物品2名称=白金币|奖励物品2数量=20|奖励语音名称=信赖值语音2|奖励语音内容=身上的文身？我师父给我刺的，怎么样？羡慕吗？我给你也刺一个！}}\n</pre>\n{{密探传唤|密探|华佗}}\n{{密探传唤|喜头}}{{道具ask|开山斧}}{{密探传唤|喜尾}}{{密探传唤|厌头}}无{{密探传唤|厌尾}}{{密探传唤|列表头}}\n{{密探传唤|列表|语音名称=胜利|语音内容=怎么样？我的医术比那个姓张的靠谱吧！}}{{密探传唤|列表|语音名称=失败|语音内容=跟我跑，死不了。}}\n{{密探传唤|列表|语音名称=突破|语音内容=哦哦哦！充满了力量，能连做三场开颅手术！}}\n{{密探传唤|列表|语音名称=修为1|语音内容=有人需要开颅手术吗？不收钱，免费的！}}\n{{密探传唤|列表|语音名称=修为2|语音内容=肩膀酸？我来帮你正骨！······是不是有什么断掉的声音······}}\n{{密探传唤|列表|语音名称=化极|语音内容=我知道巫的末路，我也知道我最后会怎么样。别怕，我能控制我自己。}}\n{{密探传唤|列表|语音名称=觉醒|语音内容=巫血，已经开始在我的身体里蔓延了......哈，挺好的。}}\n{{密探传唤|列表|语音名称=送礼1|语音内容=好薄的刃！剥皮一定很快。}}\n{{密探传唤|列表|语音名称=送礼2|语音内容=还是这玩意开颅顺手！要不要试试？}}\n{{密探传唤|列表|语音名称=传唤台词1|语音内容=你病了？我看看······开胸就行，不用开颅。}}\n{{密探传唤|列表|语音名称=传唤台词2|语音内容=你昨晚是不是没睡好?再这样下去会秃掉的。}}\n{{密探传唤|列表|语音名称=出场|语音内容=我需要找人实践开颅手术，你愿意献身帮忙吗？}}\n{{密探传唤|列表尾}}\n{{密探信赖值条目|信赖值=100|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励物品2名称=阴符|奖励物品2数量=1|奖励语音名称=信赖值语音1|奖励语音内容=我叫华佗，字“板板”......你那是什么表情啊？不爽吗？不爽打一架啊}}\n{{密探信赖值条目|信赖值=200|奖励物品1名称=兵书残卷|奖励物品1数量=5}}\n{{密探信赖值条目|信赖值=300|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励物品2名称=白金币|奖励物品2数量=20|奖励语音名称=信赖值语音2|奖励语音内容=身上的文身？我师父给我刺的，怎么样？羡慕吗？我给你也刺一个！}}\n==改版==\n<pre>\n{{#switch:{{{1|}}}|密探=[[分类:密探传唤]]<div class=drop-down-wrap ><div class=wrap-title><div class=title>{{{2|}}}-传唤</div><div class=\"glyphicon icon-arrow-plus\"></div></div><div class=wrap-content style=\"display: block\">|喜头=<div style=\"display:flex;align-items:center;\"><div>[[文件:橙脸.png|30px]]喜欢的礼物：</div><div>|喜尾=</div></div>|厌头=<div style=\"display:flex;align-items:center;\"><div>[[文件:蓝脸.png|30px]]不喜欢的礼物：</div><div>|厌尾=</div></div>|列表头={{#css:\n\t.out-container{\n\t\tmax-width: 100%;\n      align-items:center;\n\t}\n}}<table>|列表=<tr style=\"border:5px #0000 solid\"><th width=\"100px\" style=\"color: #785840;font-weight: bold;text-align:center;\">{{{语音名称|}}}</th><th><div style=\"color: #785840;border:1px solid #cdba9a;padding:8px 8px 8px 8px;margin-left:10px;background-color:#302d34;color:#cbbba4;border-radius:5px\">{{{语音内容|}}}</div></th></tr>|列表尾=</table>}}</pre>\n</noinclude>"
+}

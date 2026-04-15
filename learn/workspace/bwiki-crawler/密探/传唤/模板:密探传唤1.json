@@ -1,0 +1,110 @@
+{
+  "title": "模板:密探传唤1",
+  "category": "密探传唤",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly密探分类密探传唤div classdropdownwrapdiv classwraptitlediv classtitle传唤span style\"position absolute;right 5px;\"▼展开全部▼/span/divdiv class\"glyphicon iconarrowplus\"/div/divdiv classwrapcontent style\"\"/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "道具名称道具名称"
+    },
+    {
+      "type": "narration",
+      "text": "不喜欢的礼物道具名称道具名称"
+    },
+    {
+      "type": "narration",
+      "text": "语音内容"
+    },
+    {
+      "type": "narration",
+      "text": "奖励物品1名称奖励物品1数量奖励物品2名称奖励物品2数量奖励语音内容"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "效果"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "黑珍珠珍珠粉"
+    },
+    {
+      "type": "narration",
+      "text": "不喜欢的礼物"
+    },
+    {
+      "type": "narration",
+      "text": "语音内容尽在掌控之中。"
+    },
+    {
+      "type": "narration",
+      "text": "语音内容意外、意外。这次免钱。"
+    },
+    {
+      "type": "narration",
+      "text": "语音内容输赢可谋，胜败在我。"
+    },
+    {
+      "type": "narration",
+      "text": "奖励物品1名称兵书残卷奖励物品1数量5奖励物品2名称阴符奖励物品2数量1奖励语音内容“徐州首智”？虚名，虚名，主要是徐州哪找的出什么聪明人啊……"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "黑珍珠珍珠粉"
+    },
+    {
+      "type": "narration",
+      "text": "不喜欢的礼物"
+    },
+    {
+      "type": "narration",
+      "text": "语音内容尽在掌控之中。"
+    },
+    {
+      "type": "narration",
+      "text": "语音内容意外、意外。这次免钱。"
+    },
+    {
+      "type": "narration",
+      "text": "语音内容输赢可谋，胜败在我。"
+    },
+    {
+      "type": "narration",
+      "text": "奖励物品1名称兵书残卷奖励物品1数量5奖励物品2名称阴符奖励物品2数量1奖励语音内容“徐州首智”？虚名，虚名，主要是徐州哪找的出什么聪明人啊……"
+    },
+    {
+      "type": "narration",
+      "text": "分类模板"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E5%AF%86%E6%8E%A2%E4%BC%A0%E5%94%A41",
+  "crawled_at": "2026-04-12T21:56:50.164297",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}|密探=[[分类:密探传唤]]<div class=drop-down-wrap><div class=wrap-title><div class=title>{{{2|}}}-传唤<span style=\"position: absolute;right: 5px;\">▼展开全部▼</span></div><div class=\"glyphicon icon-arrow-plus\"></div></div><div class=wrap-content style=\"\">|{{角色送礼2|}}|{{角色语音表头2|}}|{{角色语音2|}}|{{角色信赖值语音表头2|}}|{{角色信赖值语音2|}}}}</includeonly><noinclude>{{面包屑|模板}}\n==使用方法==\n<pre>\n{{密探传唤|密探|录入密探名}}\n{{角色送礼2\n|喜欢的礼物={{道具ask|道具名称}}道具名称{{道具ask|道具名称}}道具名称\n|不喜欢的礼物={{道具ask|道具名称}}道具名称{{道具ask|道具名称}}道具名称\n}}\n\n{{角色语音表头2}}\n{{角色语音2|语音名称={{player|<文件名，不加后缀>}}|语音内容=}}\n\n{{角色信赖值语音表头2}}\n{{角色信赖值语音2|信赖值=|语音文件={{player|<文件名，不加后缀>}}|奖励物品1名称=|奖励物品1数量=|奖励物品2名称=|奖励物品2数量=|奖励语音内容=}}\n</pre>\n\n===效果===\n<pre>\n{{密探传唤|密探|张邈}}\n{{角色送礼2\n|喜欢的礼物={{道具ask|黑珍珠}}黑珍珠{{道具ask|珍珠粉}}珍珠粉\n|不喜欢的礼物={{道具ask|无}}\n}}\n\n{{角色语音表头2}}\n{{角色语音2|语音名称=胜利 {{player|张邈-传唤-胜利}}|语音内容=尽在掌控之中。}}\n{{角色语音2|语音名称=失败{{player|张邈-传唤-失败}}|语音内容=意外、意外。这次免钱。}}\n{{角色语音2|语音名称=突破{{player|张邈-传唤-突破}}|语音内容=输赢可谋，胜败在我。}}\n\n{{角色信赖值语音表头2}}\n{{角色信赖值语音2|信赖值=100|语音文件={{player|张邈-传唤-信赖值100}}|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励物品2名称=阴符|奖励物品2数量=1|奖励语音内容=“徐州首智”？虚名，虚名，主要是徐州哪找的出什么聪明人啊……}}\n{{角色信赖值语音2|信赖值=200|语音文件=|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励语音内容=\\}}\n</pre>\n{{密探传唤|密探|张邈}}\n{{角色送礼2\n|喜欢的礼物={{道具ask|黑珍珠}}黑珍珠{{道具ask|珍珠粉}}珍珠粉\n|不喜欢的礼物={{道具ask|无}}\n}}\n\n{{角色语音表头2}}\n{{角色语音2|语音名称=胜利 {{player|张邈-传唤-胜利}}|语音内容=尽在掌控之中。}}\n{{角色语音2|语音名称=失败{{player|张邈-传唤-失败}}|语音内容=意外、意外。这次免钱。}}\n{{角色语音2|语音名称=突破{{player|张邈-传唤-突破}}|语音内容=输赢可谋，胜败在我。}}\n\n{{角色信赖值语音表头2}}\n{{角色信赖值语音2|信赖值=100|语音文件={{player|张邈-传唤-信赖值100}}|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励物品2名称=阴符|奖励物品2数量=1|奖励语音内容=“徐州首智”？虚名，虚名，主要是徐州哪找的出什么聪明人啊……}}\n{{角色信赖值语音2|信赖值=200|语音文件=|奖励物品1名称=兵书残卷|奖励物品1数量=5|奖励语音内容=\\}}\n[[分类:模板]]\n</noinclude>"
+}

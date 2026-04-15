@@ -1,0 +1,808 @@
+[
+  {
+    "id": "q_zhouzhong_01",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "燕歌行/袁基线",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "周忠对袁基笑眯眯地说：「袁公子怎会和我这样的人计较呢？要不要老臣教你几招，'万一被情人发现自己瞒着他做了点错事该怎么哄'之类的……」如果你是周忠，面对一个心机深沉的公子——",
+    "options": [
+      {
+        "label": "A",
+        "text": "笑着说场面话，字字带刺，让他自己体会。",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "直接点破他的心事，让他下不来台。",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "恭恭敬敬地说客套话，不惹事。",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周忠的锋芒藏在嬉皮笑脸里——他调侃袁基「被情人发现瞒着他做了点错事」，精准地戳中了袁基最大的软肋。"
+  },
+  {
+    "id": "q_zhouzhong_02",
+    "dimension": "S7",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "燕歌行/袁基线",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "周忠被将军用白羽箭射中后，躺在地上还笑着说：「真是不通情趣，上来就这么激烈啊……」如果你是周忠，重伤之时，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "笑着说骚话，用调情掩盖痛苦。",
+        "scores": {
+          "S7": 5,
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "忍痛沉默，不让人看出虚弱。",
+        "scores": {
+          "S7": 2,
+          "S4": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "喊救命，让人赶紧来处理伤口。",
+        "scores": {
+          "S7": 2,
+          "S4": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周忠的职业本能是：无论什么情况，先抛出一个暧昧的笑话。这不是幽默，是铠甲。"
+  },
+  {
+    "id": "q_zhouzhong_03",
+    "dimension": "S7",
+    "cross_dimension": "S2",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「是觉得杀殿下杀得不够勤快吗？老臣可以努力一把，给殿下死过去一样的感觉哦。」——面对一个你既不能得罪也不能服从的人，你怎么说话？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用自嘲和双关把话题搅浑，让对方笑出来。",
+        "scores": {
+          "S7": 5,
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "打太极，说一些听起来有用但什么都没承诺的话。",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接表态自己的立场，不绕弯子。",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这是周忠对广陵王说的话——既是自嘲（老臣可以努力一把），又是暗藏真心（死过去一样的感觉），表面是玩笑，底下是威胁。"
+  },
+  {
+    "id": "q_zhouzhong_04",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "燕歌行/袁基线",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "周忠替广陵王「教」她如何应对袁基：「卿卿，我可都是为了你好，我们都可以为了彼此去死，怎能因此事就断绝往来呢？你可真是绝情之人，是我当年看错人了。」——这是周忠教的情话。你怎么评价？",
+    "options": [
+      {
+        "label": "A",
+        "text": "高明——把错全推给对方，自己还显得深情款款。",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "太过油滑，真诚的人不会这样说话。",
+        "scores": {
+          "S7": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "听着像是在开玩笑，细想全是算计。",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周忠的情书代笔是他的看家本领——「久闻将军威名，妾居南地仰慕已久……」——每一封都是精心设计的骗局，却写得比真话还动人。"
+  },
+  {
+    "id": "q_zhouzhong_05",
+    "dimension": "S2",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "密探故事02",
+    "route_hint": null,
+    "city_hint": "庐江",
+    "text": "「呜……乔先生走了，老师现在只想代他好好照顾你，就算被人说在乔府混吃等死也好……」——周忠在广陵王面前突然崩溃大哭。前一秒还在嬉皮笑脸。如果是你，在你最脆弱的时候——",
+    "options": [
+      {
+        "label": "A",
+        "text": "努力忍住，不想让任何人看到自己哭。",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "平时装得再好，该哭的时候也忍不住。",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "找一个没人的地方自己消化，然后继续笑。",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周忠的防线平时牢不可破，但只要提到乔玄和小乔，他就会从「大贱人」变成一个不知所措的老人。"
+  },
+  {
+    "id": "q_zhouzhong_06",
+    "dimension": "S2",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "密探故事02",
+    "route_hint": null,
+    "city_hint": "庐江",
+    "text": "「昨夜真是……真是十分惭愧……明明本来只是想请殿下相助的，说着说着居然抑制不住……」——周忠为自己昨晚失态而道歉。如果你是他，事后你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用自嘲翻篇：「昨夜喝多了",
+        "scores": {
+          "S2": 2,
+          "S4": 5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "坦诚道歉，承认自己失控了。",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "假装昨晚什么都没发生。",
+        "scores": {
+          "S2": 2,
+          "S4": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周忠的道歉方式本身就暴露了他——他连道歉都要先说「惭愧」，把情感表达包装成礼节性的自贬。"
+  },
+  {
+    "id": "q_zhouzhong_07",
+    "dimension": "S2",
+    "cross_dimension": "S8",
+    "type": "story_anon",
+    "source_character": "周忠",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你教了一个学生很多年，比任何人都了解她。现在她要独自去一个危险的地方。你会怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "表面说「去吧去吧」，背地里偷偷跟着。",
+        "scores": {
+          "S2": 3.5,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "反复求别人带她走，愿意放弃自己的一切。",
+        "scores": {
+          "S2": 5,
+          "S6": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "尊重她的选择，只叮嘱她注意安全。",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这个场景来自周忠送小乔去幽州——「求求你了，我发誓带她去幽州之后，从此隐姓埋名，绝不与绣衣楼为敌。」"
+  },
+  {
+    "id": "q_zhouzhong_08",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "密探故事02",
+    "route_hint": null,
+    "city_hint": "庐江",
+    "text": "「我回来取些紧要的旧物，然后就要动身了。可能不会再回来了，好想再在这里睡一觉……」——周忠站在空荡荡的乔府里。如果是你，离开一个住了很久的地方时，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "什么都不带走，只多看一眼就走。",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "说一句玩笑话：「这破地方，终于不用再住了。」",
+        "scores": {
+          "S2": 3,
+          "S4": 5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "和每个角落告个别，哪怕只是一句心里话。",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周忠说「好想再在这里睡一觉」——这句话藏着他全部的不舍。乔府不是他的家，却是他人生中唯一像家的地方。"
+  },
+  {
+    "id": "q_zhouzhong_09",
+    "dimension": "S4",
+    "cross_dimension": "S7",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「坏人，大多不是被逼的。比如我，就是个快乐的大贱人。」——面对别人对你的评价，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先于所有人嘲笑自己，让别人没有嘲笑的余地。",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "不在意别人怎么看，做好自己就行。",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "反驳回去，我不是你说的那种人。",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周忠的「大贱人」自称是最深的铠甲——先于全世界嘲笑自己，让伤害变得不那么痛。"
+  },
+  {
+    "id": "q_zhouzhong_10",
+    "dimension": "S4",
+    "cross_dimension": "S8",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "在绣衣楼里，一个新来的密探问你：「你是做什么的？」你是一个以色相为武器的谍报人员。你怎么回答？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我呀，蝶部的，专门替殿下暖床的～」",
+        "scores": {
+          "S4": 5,
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「情报工作。」——简短专业，不多解释。",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「你猜？」——神秘一笑。，值得深思",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周忠永远用玩笑回答严肃的问题。他的职业是间谍，但他的名片上写的是「快乐的大贱人」。"
+  },
+  {
+    "id": "q_zhouzhong_11",
+    "dimension": "S8",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "燕歌行/孙策线",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "广陵王疲惫不堪。周忠轻声说：「你累了。好好歇息吧。……嘘，闭上眼睛。」——如果你是周忠，看到在意的人精疲力竭——",
+    "options": [
+      {
+        "label": "A",
+        "text": "默默守在旁边，什么也不说。",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "像平常一样说笑话逗对方开心。",
+        "scores": {
+          "S8": 3,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「别撑了，休息吧。」——直接但温柔。",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周忠对广陵王说「嘘，闭上眼睛」——这不是调情，是一个见惯了风月场的人卸下所有伪装后，最纯粹的温柔。"
+  },
+  {
+    "id": "q_zhouzhong_12",
+    "dimension": "S8",
+    "cross_dimension": "S7",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个小孩子走过来，问你：「叔叔，你怎么看起来这么累呀？」你怎么回答？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「好可爱的小弟弟，你也想好好睡一觉吗？」",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「叔叔不累，叔叔只是老了。」——苦笑。",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「大人的事，小孩子别管。」，值得深思",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这是周忠在燕歌行中对一个孩子的回答。他的温柔从来不留给同龄人——只留给老人和孩子。"
+  },
+  {
+    "id": "q_zhouzhong_13",
+    "dimension": "S1",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "密探故事01",
+    "route_hint": null,
+    "city_hint": "庐江",
+    "text": "周忠向广陵王汇报庐江局势：「每次军粮辎重都需要从后方运来，这次就是……荆州人趁车虎营往九江接应辎重时突袭。」如果你是情报人员，你会怎么处理这种危机？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先分析情报，提出完整的防守方案。",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "把情报如实汇报，请殿下定夺。",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "哭诉惨状，求殿下派人帮忙。",
+        "scores": {
+          "S1": 2,
+          "S2": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周忠的做法是C——他先汇报情报，然后立刻转向哭诉求助。情报能力是专业的，求助方式是策略性的。"
+  },
+  {
+    "id": "q_zhouzhong_14",
+    "dimension": "S6",
+    "cross_dimension": "S3",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「绣衣楼和里八华都能容我，就是因为老臣从不出卖任何一边啊。」——在两个敌对势力之间求生，你觉得最重要的是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "两边都不背叛，但也不帮任何一边。",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "看哪边有利就站哪边，灵活变通。",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "选一边站到底，摇摆只会两边都得罪。",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周忠的生存之道是「从不出卖任何一边」——但这不意味着忠诚，只意味着两边都不信任他。"
+  },
+  {
+    "id": "q_zhouzhong_15",
+    "dimension": "S3",
+    "cross_dimension": "S8",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「唉……脸上别落下疤痕就好了。破了相，就不值钱了。」——你的价值系于外表，而外表正在老去。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "趁还能用的时候，多换些东西回来。",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "不在乎了，总有别的东西可以依靠。",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "拼命保养，延缓衰老，能拖一天是一天。",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周忠说「破了相就不值钱了」——这不是自怜，是职业评估。他的武器就是他的皮相，失去皮相等于失去一切。"
+  },
+  {
+    "id": "q_zhouzhong_16",
+    "dimension": "S5",
+    "cross_dimension": "S7",
+    "type": "story_known",
+    "source_character": "周忠",
+    "source_story": "燕歌行/袁基线",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "面对一个武功高强的将军，周忠笑着说：「不好意思啊，将军。我拿的是活捉的任务。」——如果你是一个不会武功的谍报人员，面对武力威胁——",
+    "options": [
+      {
+        "label": "A",
+        "text": "用话术拖延时间，等援军到来。",
+        "scores": {
+          "S5": 3,
+          "S7": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "笑嘻嘻地认怂，降低对方的戒备。",
+        "scores": {
+          "S5": 2.5,
+          "S4": 5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拼了，能拖一秒是一秒。",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周忠的「活捉」是实话——他的任务从不是杀人。但他用这句话暗示自己背后有人，让将军不敢轻举妄动。"
+  },
+  {
+    "id": "q_zhouzhong_17",
+    "dimension": "S9",
+    "cross_dimension": "S4",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我从前就没什么用……文官也好、密探也好，都只会给人添乱……先王说，就当是养个乐子养在近前吧。」——面对被定义为「废物」的人生，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "接受这个定义，然后在这个定义里活得最自在。",
+        "scores": {
+          "S9": 2,
+          "S4": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用行动证明他们错了。，值得深思",
+        "scores": {
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不在乎别人的定义，自己知道自己有用就行。",
+        "scores": {
+          "S9": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周忠选择A——他把「废物」变成了自己的保护色。在权力体系中当一个「无害的废物」，反而是最安全的生存方式。"
+  },
+  {
+    "id": "q_zhouzhong_18",
+    "dimension": "S10",
+    "cross_dimension": "S6",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼和里八华同时给你下任务，而且两个任务互相矛盾。你怎么处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "两边都接，看情况再说，灵活应对。",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "选一边拒绝另一边，虽然两边都会不高兴。",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "想办法让两个任务看起来都完成了。",
+        "scores": {
+          "S10": 1,
+          "S4": 5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周忠的选择是A——他在绣衣楼和里八华之间游走多年，从不站队，从不拒绝，从不承诺。这是他的生存之道。"
+  },
+  {
+    "id": "q_zhouzhong_19",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我这种人，能在别人眼里留下一点影子就算不错了。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我这种人，能在别人眼里留下一点影子就算不错了。」——你怎么看这种自嘲？",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「比起被人记住，我更害怕被人看穿。」——你觉得呢？",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「笨拙也是一种才华，至少说明你是认真的。」——你认同吗？",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "自我贬低背后往往藏着意想不到的清醒——周忠从不只是'没用'而已。"
+  },
+  {
+    "id": "q_zhouzhong_20",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼分配任务，所有人都被派了重要的活，只有你被安排去看守仓库。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "绣衣楼分配任务，所有人都被派了重要的活，只有你被安排去看守仓库。你——",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "你在整理旧档案时发现了一份被遗漏的重要情报。你——",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "广陵王在众人面前随口夸了你一句，但你不确定是真心还是客套。你——",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "被忽视时的反应，最能看出一个人是安于现状还是暗中蓄力。"
+  },
+  {
+    "id": "q_zhouzhong_21",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我宁愿做一个被人遗忘的影子，也不要做一只被关在笼子里的鸟。」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「不聪明没关系，只要能在关键时刻，站在对的位置上就够了。」",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周忠式的人生哲学：看似认命，实则暗藏锋芒——你品，你细品。"
+  }
+]

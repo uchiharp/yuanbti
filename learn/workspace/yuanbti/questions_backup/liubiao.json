@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_liubiao_1",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "刘表",
+    "source_story": null,
+    "route_hint": [
+      "长沙线"
+    ],
+    "city_hint": "长沙",
+    "text": "荆州牧坐镇襄阳多年，北有曹操虎视，东有孙坚窥伺。帐下谋士献策：一则趁曹操北征乌桓之际出兵中原，二则加固城防以守为上，三则遣使联络各方以待时变。荆州的存亡，系于你的一念之间——",
+    "options": [
+      {
+        "label": "A",
+        "text": "乱世之中，守好荆州一方水土，让百姓免遭战祸便是大功。",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "坐守必亡，不如趁虚而动，即便冒险也要搏一搏。",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "先观望局势，联络各方形成联盟，再择机而动。",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这个场景来自刘表的荆州局势——他一生以「保境安民」为策，虽被讥为坐守，却让荆州在乱世中维持了数十年太平。"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "title": "模板:Fix红鸾",
+  "category": "红鸾花笺",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "头分类红鸾花笺红鸾花笺红鸾花笺"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"envelopewrapper\" style\"width 100%;position relative;display flex;justifycontent center;\"divlink1106px/divdiv style\"    position absolute;top 2%; fontsize 2em;color c3a98e;fontweight bold;\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"dxtext\" style\"position absolute;top0;overflow auto;padding 15% 5%;width 100%;height 100%;display flex;flexdirection column;\""
+    },
+    {
+      "type": "narration",
+      "text": "尾/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧div class\" message_q qt_fq \" datatype\"test\" datatest\"\" style\"overflow hidden;border 1px solid dab215;marginbottom 10px;width 100%;background feeeb0;borderradius 50px;\"span class\"tabpanel\" style\"width 100%;color 65371c;fontweight bold;background none;boxsizing borderbox;\"/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧头div class\"messagetabcontainer \" style\"flexwrap wrap;background none;displayflex;borderbottom 1px solid c9c9e6;padding 20px;\""
+    },
+    {
+      "type": "narration",
+      "text": "分歧尾/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧内容div class\"messageitem \" datatest\"\" style\"width 100%;margintop 5px;display block;display none;\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧内容头div class\"messageitem \" datatest\"\" style\"width 100%;margintop 5px;display block;display none;\""
+    },
+    {
+      "type": "narration",
+      "text": "分歧内容尾/div"
+    },
+    {
+      "type": "narration",
+      "text": "defaultdiv style\"display flex;alignitems center;borderbottom dashed 2px  d4cdc7;padding 15px 0;color61391a;广陵王color 206138;background repeatinglineargradient(to right,0000,69a88045,69a88045,0000);\"link100px div style\"padding 20px;width 80%;\"/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3AFix%E7%BA%A2%E9%B8%BE",
+  "crawled_at": "2026-04-12T21:53:17.285458",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}\n|头=[[分类:红鸾花笺]]{{JS|rem.js}}{{CSS|Envelope.css}}{{面包屑|{{#if:{{{3|}}}|{{{3|}}}|}}|红鸾花笺|{{#if:{{{3|}}}|{{{3|}}}-红鸾花笺|}}}}\n<div class=\"envelope-wrapper\" style=\"width: 100%;position: relative;display: flex;justify-content: center;\"><div>[[File:短信背景.png|link=|1106px]]</div><div style=\"    position: absolute;top: 2%; font-size: 2em;color: #c3a98e;font-weight: bold;\">{{{2}}}</div>\n<div class=\"dxtext\" style=\"position: absolute;top:0;overflow: auto;padding: 15% 5%;width: 100%;height: 100%;display: flex;flex-direction: column;\">\n|尾=</div></div>\n|分歧=<div class=\" message_q qt_fq \" data-type=\"test\" data-test=\"{{{3|}}}\" style=\"overflow: hidden;border: 1px solid #dab215;margin-bottom: 10px;width: 100%;background: #feeeb0;border-radius: 50px;\"><span class=\"tab-panel\" style=\"width: 100%;color: #65371c;font-weight: bold;background: none;box-sizing: border-box;\">{{{2|}}}</span></div>\n|分歧头=<div class=\"message-tab-container \" style=\"flex-wrap: wrap;background: none;display:flex;border-bottom: 1px solid #c9c9e6;padding: 20px;\">\n|分歧尾=</div>\n|分歧内容=<div class=\"message-item \" data-test=\"{{{3|}}}\" style=\"width: 100%;margin-top: 5px;{{#if:{{{显示|}}}|display: block;|display: none;}}\">{{{2|}}}</div>\n|分歧内容头=<div class=\"message-item \" data-test=\"{{{3|}}}\" style=\"width: 100%;margin-top: 5px;{{#if:{{{显示|}}}|display: block;|display: none;}}\">\n|分歧内容尾=</div>\n|#default=<div style=\"display: flex;align-items: center;border-bottom: dashed 2px  #d4cdc7;padding: 15px 0;color:#61391a;{{#ifeq:{{{1}}}|广陵王|color: #206138;background: repeating-linear-gradient(to right,#0000,#69a88045,#69a88045,#0000);|}}\">[[File:{{{1|}}}短信头像.png|link=|100px]] <div style=\"padding: 20px;width: 80%;\">{{{2|}}}</div></div>\n}}</includeonly><noinclude>\n\n\n{{Fix红鸾|头|羡慕|刘辩}}\n{{Fix红鸾|刘辩|太皇太后带着母后去亲蚕，整个宫殿空荡荡的。}}\n{{Fix红鸾|分歧头}}\n{{Fix红鸾|分歧|提议做纸鸢|1}}\n{{Fix红鸾|分歧|询问日程安排|2}}\n{{Fix红鸾|分歧尾}}{{Fix红鸾|分歧内容头|显示=1}}\n{{Fix红鸾|广陵王|要不要做几个纸鸢，过几天去濯龙园放？}}\n{{Fix红鸾|刘辩|我也这么想。还带了竹篾和丝绢去找协弟，但他宫里的人不许我接近。}}\n{{Fix红鸾|分歧内容尾}}{{Fix红鸾|分歧内容头}}\n{{Fix红鸾|广陵王|礼官都跟去西郊了，宫里没什么人烦你，今天打算怎么过？}}\n{{Fix红鸾|刘辩|本来想去找协弟做纸鸢，结果被他的宫人拦在了门外。}}\n{{Fix红鸾|分歧内容尾}}\n{{Fix红鸾|广陵王|太皇太后平日多疑，别去触她霉头了。}}\n{{Fix红鸾|刘辩|有时候真羡慕协弟……能在父皇身边长大。}}\n{{Fix红鸾|刘辩|那天我还听到他叫太皇太后“祖母”，我从没这么叫过。}}\n{{Fix红鸾|刘辩|就算我叫她祖母，她也不会像史君一样给我们折梅花，也不会带我们放纸鸢……}}\n{{Fix红鸾|刘辩|也不会把水银和桂花羹放在一个蒸笼里分不清楚……}}\n{{Fix红鸾|广陵王|说起来，我们俩到底是怎么平安长到这么大的啊……}}\n{{Fix红鸾|尾}}\n</noinclude>"
+}

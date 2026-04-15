@@ -1,0 +1,87 @@
+[
+  {
+    "id": "q_genggongzi_1",
+    "dimension": "S2",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "耿公子",
+    "source_story": "广陵往事",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "耿公子出入广陵名流圈，表面潇洒不羁，内心却有自己的坚持。面对朋友的背叛——",
+    "options": [
+      {
+        "label": "A",
+        "text": "断绝来往，再不与此人有任何交集",
+        "scores": {
+          "S2": 1,
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "表面如常，但心中已有了防备",
+        "scores": {
+          "S2": 2,
+          "S4": 3,
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坦诚沟通，若对方真有苦衷可以原谅",
+        "scores": {
+          "S2": 4,
+          "S4": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "耿公子重情义，但也并非毫无城府。"
+  },
+  {
+    "id": "q_genggongzi_2",
+    "dimension": "S3",
+    "cross_dimension": "S2",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「千金散尽还复来。」你对金钱的态度是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "钱是用来花的，够用就行，不必执着",
+        "scores": {
+          "S3": 1,
+          "S2": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "该花的花，该省的省，量入为出",
+        "scores": {
+          "S3": 3,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "钱是安身立命之本，必须精打细算",
+        "scores": {
+          "S3": 5,
+          "S2": 2,
+          "S5": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "耿公子看似潇洒，实则深谙理财之道。"
+  }
+]

@@ -1,0 +1,4073 @@
+{
+  "title": "燕歌行/活动剧情/孙策线",
+  "category": "活动剧情",
+  "characters": [
+    "凌统",
+    "刀斧手",
+    "副将",
+    "华胥死士",
+    "周忠",
+    "周瑜",
+    "孙氏侍卫",
+    "孙氏侍卫？？？",
+    "孙氏士兵",
+    "孙策",
+    "张闿",
+    "我",
+    "文丑",
+    "斥候",
+    "斥候？？？",
+    "死士",
+    "民兵",
+    "甘宁",
+    "甲兵",
+    "矛兵",
+    "老人",
+    "老妇人",
+    "舍官",
+    "虞翻",
+    "许贡",
+    "诸葛亮",
+    "钟繇",
+    "陈昭",
+    "颜良",
+    "马氏骑兵",
+    "马超",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "接下来往……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "等等，有追兵！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "对不住了，刚跟老爹加入里八华，总得好好千活！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "你的人头，就归我了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "雨上。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "进树林甩开他们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "靠近有水源的地方，说不定能和灵河边的仙人通……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孔明！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "别管我……实在不行……我还可以抛弃这具肉身回归龙脉……殿下先走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不行！子瑜会吊死在我府门口，公休会穿着丧服在城门口唱戏骂我骂几十年的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "真、真的吗……好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏骑兵",
+      "text": "头像=西凉军乙",
+      "emotion": "他们停下了！追上去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "那个小书生的头发有点意思，拿来织毛毯，董兄弟一定喜……！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏骑兵",
+      "text": "头像=西凉军乙",
+      "emotion": "将军？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏骑兵",
+      "text": "头像=西凉军乙",
+      "emotion": "谁在施妖法？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "妖法？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "这是墨家偃甲术。尔等恶贼，一路至此，劫掠无数，罪行累累，今日，墨家虞翻替天行……唔啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "…..吵死了，和只小苍蝇一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "虞翻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "来，打苍蝇了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "抓紧我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "呜……好痛……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "我……我的斗篷……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我用它打掩护引开了马超他们的注意，这才能脱身。我们得走水路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你们都落下了伤，血迹会为他们引路。还有，西凉人畏水，走水路是最稳妥的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "使君？使君？你还好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "……呼……我……我自己走！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "使君伤得很重，还是和我们同行吧，至少……唔，至少先到下一个落脚点……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……我……我才不要和你们这种士族出身的人同行……哼，算是我提醒你，广陵王，你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "你的罪行，已经被天子昭告天下，你已经……已经是天下共讨的恶贼了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "这次算是你救了我，我放你一马……但是……呼……但是墨家门徒不会放过你的！我们……我们……."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏骑兵",
+      "text": "头像=西凉军乙",
+      "emotion": "将军，他们要走水路！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "……算你命大，兄弟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呼啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "啊！……是殿下！不要刺！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……凌校尉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "快去禀报孙策将军，这边找到殿下了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我没事，虞翻伤得最重！你这里有军医吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "我……听见了凌哥的声音……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "是我。我在这。箭伤应该偏离了要害，不幸中的万幸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "先不要把箭拔出来，把它固定住。来人，取绑带过来，扎住他的肩膀替他止血！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……你的伤怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "没事，白龙正在修复它……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……哈，孙策……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你怎么……哈哈……才多久没见，怎么这样狼狈？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好了，不管发生什么，先走水路回扬州。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你是不知道，这个家伙……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "他忽然不见了，两个哥哥一哭二闹三上吊。我本来就有点担心你，又听见那么多坏消息，决定先带人来找你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "现在好了，都找到了，诸葛瑾总算不会吊死在我家门口了。走吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "孙策，我不能回扬州，也不能回广陵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我必须继续去幽州见刘虞，和北方结盟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊？现在她罪名这么多了吗？已经一百三十多条了？我们出发时候才十七条。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=水军甲",
+      "emotion": "是，附近的城池都接到消息了。各地都在派使者向朝廷传书，罗列更多的罪名。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "前面就是泾县的渡口了。我先带人去查探，见守城官员。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……艨艟停靠在哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "在更南方。这边的水太浅了，艨艟过不来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "本地官员愿意开发驿馆。可以在此停留过夜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "这边请……虽然许都有消息传来，不过，上级并不想干涉其中。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "还是与各方为善才是上策，对吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "兵士和战马就劳使君派人照管了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……孙策，是不是太松懈了？兵士还是留在驿馆附近比较稳妥。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "都是心腹亲兵，没人能调走他们。口粮都是他们随身自带的，没有空子可以钻。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哎，你看，诸葛氏的那个小弟已经没事了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "啊……确实，在树上看月亮呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那可是飞矛的伤啊，我挨那一下估计都得躺三天。喂——小子，看什么呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "……天气。连日大雨，河水暴涨，艨艟停留的地方并不安全，所有的船只都可以靠近它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "没有人会在水上攻击江东人的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，谨慎些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "照我说，去什么幽州，趁现在天下大乱，一鼓作气把豫州打下来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我们往前打，后方交给你哥和子敬，他们绝对接的上。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "孙策将军，请听学生一言。此刻不是投身战局的良机。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "扬州并不安定。将军贸然离开，已然令后方风雨飘摇。士族、宗贼皆与孙氏背离，将军此前杀戮众多，却未加以安抚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "行了，等你哪天坐到我这个位置，你再去跟你的敌人谈仁爱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "学生的兵法考绩并不好，往后也无带兵意愿。若有一日连学生也领了军职，就说明天下真正到了危急存亡之际了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "别争论了。你也是，跟个少年人争论什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我扣掉零头也算是个少年人啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孔明，能去看看虞翻吗？如果能替他疗伤，就劳烦你出手了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对，那小子虽然不懂事，但如果出事，张昭先生肯定要发疯的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我们走的时候，他还与我说呢，说虞翻好久没有回音了，担心他去找墨家那群人。还有……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孔明，能去看看虞翻吗？如果能替他疗伤，就劳烦你出手了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……孙策，你驿馆这边随身带了多少护卫？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "三十多人？我不爱带太多人的，这些我都嫌多了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "太安静了，我很久没听见外院有人往来的声音了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "广陵王，孙策，今夜我为天子使臣，宣读诏书。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "广陵王罪大恶极，同行者一律视为贼党，人人得以诛之。来人，将他们拿下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甲兵",
+      "text": "头像=西凉军乙",
+      "emotion": "拿下贼人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "来啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "矛兵",
+      "text": "头像=袁氏士兵",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "再来。我就站在这，看你们谁能越过我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甲兵",
+      "text": "头像=西凉军乙",
+      "emotion": "……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "来啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "——请教了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你是文官吧？想在我这边用命骗个谥号？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "不用骗。文成武德，我的谥号不会出此四字。倒是你，担心一下自己的身后哀荣吧，说不定连个“毅”都搏不到呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哈，我是搞不懂你们文人，天天咬文嚼字，纠结死后封什么。这样，你挑个字，我可以刻在你尸体上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "一般我会封什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "他说得对，好一点就是“毅”、“肃”之类的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "坏一点呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "那不好说，看谁替你封了，上面有顶，但下不封底。今天闯出去，我们就还有机会搏一把“忠武”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哇，两个大字？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "头像=钟繇",
+      "emotion": "你连一个都保不住，等着拿个厉将军入土吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好。让我和这位文官好好讨教。你先带其他人往营地，和凌统汇合。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "他们一定也对营地下手了。但是有凌统在，什么都不用担心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "好，之后见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏侍卫",
+      "text": "头像=水军乙",
+      "emotion": "应该刚刚遭受过敌袭，小心戒备！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是轻骑和步兵的痕迹……来者不。许县在混战，钟繇能调动的兵力不会太多，这些兵马是……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏侍卫",
+      "text": "头像=水军乙",
+      "emotion": "不要停留，有人放冷箭！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "你之前的机关还在吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……那是……墨家的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "拿出来，拦住伏兵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "把它传到后方拉开，拦住敌方轻骑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏侍卫",
+      "text": "头像=水军乙",
+      "emotion": "是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "甩开敌兵，往营地方向！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏侍卫？？？",
+      "text": "头像=黑人影",
+      "emotion": "好呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "！！！呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "还记得我呀，我感动得都要哭了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏侍卫",
+      "text": "头像=水军乙",
+      "emotion": "你是谁？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我是来追捕贼王的人啊。这个人现在已经罪恶酒天了，谁拿下她的人头，谁就算是忠臣。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "为了这份大功，我重新回到黄祖将军麾下，准备改邪归正。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "哈，是有点改正了，说话居然会说成语了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "是吧，死前再教我几个啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那我再教你一个词。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "——“恶有恶报”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "甘宁！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "是我有缘无份的二当家啊。看来派去营地的人，都被你们拿下了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……虽然……虽然才见没多久，都感觉你是个恶人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "放开我，我不和你们一起走……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好了，别说话。前方营地情况如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏侍卫",
+      "text": "头像=水军乙",
+      "emotion": "斥候回报了，黄祖的军士偷袭营地，被凌校尉带人击退，不过只是暂时退败，并未远离。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "先和军队汇合，回头接应孙策。孔明，照顾好虞翻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏侍卫",
+      "text": "头像=水军乙",
+      "emotion": "凌校尉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "他逃了。暂时没事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "孙将军那边如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "钟繇带兵包围了驿馆，孙策带着亲卫在抵抗。我们要尽快驰援，眼下——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "小虞！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "甘宁抓走了虞翻！让斥候跟上！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……要先去救孙将军，先去救孙将军……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……让斥候去，不要跟丢！等情势稳定，我立刻去救他！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "是高手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他可是自学成才。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "那便是天才，若此战之后有机会，真想与他决斗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "现在，没有人能够介入，只能等他们自行分出胜负。贸然去帮助任何一方，都有可能适得其反。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "有人偷袭，下次吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哈，抓反贼还讲道义？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "于公，我该将你们杀无赦。但趁虚而入并非剑者该为之事，你走吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "下城楼的一刻，便是朝廷讨伐之战。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甲兵",
+      "text": "头像=西凉军乙",
+      "emotion": "……地面在颤抖？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=水军甲",
+      "emotion": "骑兵……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "是马氏骑兵！！！散开——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "马超，你疯了吗？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "啊？不行吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "抓住广陵王可是大功，你可是在跟我抢功劳！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策，趁现在！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "暗处有人行刺，是对方的弓兵？还是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你们有人见到孔明吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "殿下没有让他事先躲起来吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=水军甲",
+      "emotion": "附近局势有变。黄祖此次与朝廷联手，欲趁将军外出围剿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=水军甲",
+      "emotion": "他们动兵很快，南北两侧关口都已经被截停。目前无法和江东传信，也难以得到扬州的救援。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "太快了，他们定是提前得到我的动向，当时就布局了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "要脱离包围，再送她往幽州，最快的路径是哪条？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "走泾县。泾县多山陵峡谷，地形复杂，地下还有暗流，故而难以死守。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "抵达泾县，属下便可安排当时安插在黄祖军中的人响应，护送将军过关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "虞翻落在甘宁手中。今夜驻扎之后，属下需要带人前去营救，请将军允准！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "怎能让你独自去，我们同你去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不去不讲义气啊，我不讲义气，以后谁和我一起出生入死？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "将军，殿下的顾虑是有道理的。将军身份重大，绝不可涉险！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "比这凶险的境地，以前经历过不知多少。这算什么，没事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "将军绝不可去！若有万一，属下要如何向江东复命？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "这不是轻狂的时候，孙策，谁都可以去当游侠，但你不行！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不想当游侠的种田老农不是好将军……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "别逼我去跟吴夫人告状。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不能恃勇而轻剽。我们眼下援助断绝，敌方则早有布局。每一步都要谨慎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "凌统，等斥候探明虞翻下落，你就尽快带人去吧。我会看着他的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "多谢殿下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "恃勇而轻剽，你不就喜欢我恃勇而轻剽吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我要是不勇也不轻，那不就是“那个破锣嗓子的小兵甲，走开”……啊哈哈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=水军甲",
+      "emotion": "殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候？？？",
+      "text": "头像=黑人影",
+      "emotion": "广陵王。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候？？？",
+      "text": "头像=黑人影",
+      "emotion": "想要让那小子活，就带着凌统去信上标记的地方。记住，只准你们二人来。多带一人，我就剁掉他一根手指。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "他让殿下和我同去？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "没错，不许带别人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "里面定有算计。我独自去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "“龙漱林”……约定的地点是这里。“龙”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不，照他说的，我们俩去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "不过真的很意外……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "嗯？是指我和你过来的事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "是啊，毕竟就在不久前，殿下还义正言辞喝止住了孙策将军。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "在江东做事，每天都有各种各样的意外，其中最怕见到的，就是几位将军的突发奇想。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "有殿下在的时候，孙策将军总会稍微沉稳些。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "他这次如果真的自己来了，你怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "但行道义之事。不问其他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不问其他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "没错。凌统一生没有做过任何惭愧之事，何必问而决之，遵从本心便是。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……那，在游侠看来，如今的我算是反贼吗?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "哈哈哈……侠以武犯禁，我从前觉得，殿下甚是高远。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "可听闻朝廷的诏令后，顿觉殿下是吾辈中人，难怪能与正平君为生死之交。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "侠是游走于世俗之外的人，世俗给殿下的一切罪名，在我们眼中都不过是笑谈，殿下不必担心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "哎呀，背着我和别人结交，实在是有些媚上欺下吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我都要哭了，原来你想和王侯将相结交，像我这种出身草芥的可怜人，哪怕再如何求你，你都不愿意跟我结拜啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……小虞在哪里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "啊，那个小可怜吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "不要冲动啊。从这么高的树上被推下去，嚓，脖子瞬间就会被勒断的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "你想谈什么条件？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "条件？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "你们来这里的时候，就已经走不掉了。留下吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你是想用我们要挟孙策吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我只是想省些力气，也不是什么坏人，你说呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我同意。反正现在我也已经身败名裂了，这种时候，不如和你联手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "殿下？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "凌统，你也一起吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "呃，凌哥不要答应她！我就知道，广陵王和甘宁是一丘之貉，狼狈为奸，沆瀣一气，恶贯满盈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你会好多成语啊，等你的脑袋和脖子被扯断的时候，说不定很多竹简会从伤口落出来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "把孙策引来，我们强占他的兵马，然后我们回徐州盘踞，开创事业，如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这可比你替黄祖当走狗要爽多了，你甚至可以自称为王，报复所有和你有怨之人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孔明，你叛变了吧？引我们过来要挟孙策的主意，应该是你给甘宁出的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "……孙策和诸葛氏的恩怨，学生放不下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "人之常情，既然你已经投靠甘宁，那便有谋士了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "听起来很有前途嘛，我想想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "你们只是为了拖延时间吧？包括你，小书生，你身上没有复仇者有的怨气。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "但我还是听你的，你知道原因吗？因为无论你们有何后手，这两个人到手，我就心满意……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "时间只够让雨云汇聚到这种程度，往东走！我还能继续用雨水掩护片刻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "这把短刀是你偷偷给我的，我还给你！你拿着防身！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "好，快走吧，不用担心我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你们怎么舍得把我丢下啊？啊？！哈哈哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃——偃甲盒碎了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "哈……又用那种小机关拦住了追兵？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "但你们甩不掉我的，我可是一心一意要留下你们俩的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "既然你自投罗网，就在此了断吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "你的腿好像出了点问题啊，凌统，滚下来的时候，义肢卡住了吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "不许动凌哥！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "……好难看啊，凌统，你这副趴在地上的样子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "人都是要回到尘土里去的，无所谓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "你真的要杀我吗？你觉得杀了我，就算惩罚我？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "不，我只是从这个无趣的世间解脱了……而你，什么都证明不了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我说不定还有大用处呢？孙策想招募我，黄祖想招募我，就连益州都想。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "孙策将军与你不会是同道中人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "这可说不好。他杀的人比我少吗？他杀的人就全然无辜吗？他在扬州的事迹，全天下都知道……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "他如果真的像广陵王那样，扬州就不会接二连三叛变了。怎么？这么嫌贫爱富，跟他混就行，跟我就不行？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我只不过是从前有些不那么体面的事，二位出身高贵的好人，不要用那么高高在上的眼光审判我吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "凌哥，不要听他废话！这样的人死不足惜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "呵呵……杀了我，你们可就再也没有活路了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你是在拿黄祖封锁的那些关隘要挟我们吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "没错，我可以让你们离开北面的关隘。不然，你们就只能被困在这里，活活被磨死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "条件也很慷慨，我们交个朋友，等出去之后，往后还能留一线……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他与你有不共戴天之仇，凌统，你来决断，不要管我们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "凌哥，交给我吧，我不怕死，我替你们去冲破那处关隘！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "凌哥，你仔细想想，我有那么坏吗？我只不过杀了点人、抢抢财物，其实乱世里，比我作恶百倍的军阀门阀数不胜数啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "放过我，你手下的那些兄弟就无需为了破关而卖命了..……·啊，难道你宁可为了私仇，也要让他们用肉身去和黄祖的精兵搏斗?",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "他们之后能得到什么？他们是为了自己而战吗？不是吧，是为了广陵王和孙策两个大人物的命啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "他们好可怜，他们也是农民或者工匠的孩子啊，为了大人物的事业，被逼着去和另一群可恰的孩子搏命……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "够了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "发誓。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "你对着你的剑发誓，只要我让关口放你们过去，你们就放下旧怨，不得杀我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "我可以发誓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "凌统！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……没事的，殿下。我发誓，只要你让殿下和将军通过关口，摆脱追兵，我们就不会杀你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "呵呵……当年如果小脑袋也这样灵活，我们何至于此呢？早已是结拜兄弟了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "应该没法原路返回了。只能绕道了。都是正人君子，不至于违背自己的誓言吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "喂，都别板着脸，现在都是好朋友了，轻松些吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "我累了，凌统的义肢也需要虞翻调整，到附近找地方休息片刻吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "当然可以……看，这么巧，那边居然有个流民的营地。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "要不要一起去爽一下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "恶心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "别故作清高，坦诚相对可是做好朋友的第一步。体验一下我平时的欢乐吧，一超爽过之后，就再也离不开彼此了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "来，别弹这些清苦的东西了，弹些香艳的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "你累了。好好歇息吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "……嘘，闭上眼睛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "呼，接到了殿下的信，匆匆赶来，还好赶上了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "啊啊……啊啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "没事的，小虞，不用遮着眼睛，没做什么。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "不、不行！这种事怎么能当众……啊啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "好可爱的小弟弟，你也想好好睡一觉吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "妖孽！妖孽！啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "用绣云鸢将信传出去了。孔明应该没事，已经躲开甘宁的爪牙了。孙策那边正带兵过来汇合。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "等碰面后，我们就带上甘宁，威胁守将开关。我走泾县北上，你们回扬州。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "怎么了？一副欲言又止的样子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "……孙策……回不了扬州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……为何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "小虞，是不是墨家那边……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "这次，墨家下了对孙策的刺杀令。我过来，其实是想……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "……是想行刺的。如果我杀了孙策，说不定就可以重新见到钜子，好好谈心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "文丑不会突然对孙策起杀心，为何会突然下刺杀令？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "孙策残暴，不是我们的同道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "文丑又不是你这样的小孩。一定是有人在暗中接触他们，准备联手剿杀我和孙策。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "唔，我只能提示殿下，小陈回到里八华之后，立刻得到了重用。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "为了以后在两边都能吃上饭，我不能告诉你具体的计划，但是，她接连去找过几方人手，墨家只是其中之一。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "黄祖、张闿……你能想到的势力，她都去找过。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那就从最好交涉的人里面着手。虞翻，你知道文丑他们在哪吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "不知道，而且，墨家才不会沦为其他势力的死士！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "一场歉收之后，人心就可能动摇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "不可能！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "你跟凌哥来救我，对我有恩，我可以放弃行刺。但是，我绝不会背弃墨家的道义！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "小虞，等等……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "唔！放我下去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "都在啊！途中顺便救到了这小子……哎？那是周叔吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "将军终于来了……啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "老臣快要受不了了……得到消息前来救援，本以为只是帮忙传递消息……结果沿途都是虎豹豺狼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你手无缚鸡之力，公瑾怎么会让你来救援？我让人先送你去安全的地方。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好了，你下去吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "这是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "抓住了几个刺客，用的兵器很有趣，跟墨家那群法外狂徒用的一样。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这次，里八华收买各方死士前来行刺，我们不能被困死在这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "眼下需要用甘宁做人质，打开北方关隘。带他一起上路吧，去前面的隐蔽处扎营。还有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "刺客的首级给我。我有事要单独去办，谁都不要跟上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "许久不见，墨山情况如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "饥馑之年，我没有办法。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "我是个自私的人，从来都只为自己在活，从未考虑过他人的悲喜。此次诸般惭愧，今生都难以偿还。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若只是为粮米，我可以为你解忧。让死士们回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "不止是粮米的事。墨山之中的气氛，已经一触即发，难以再维持平静。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "与先辈们坚守的信念不同，如今投靠墨家的人，大多并不是因为信念，而是想借着派门名号肆意妄为。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "原先只劫掠附近的士族，但士族太难打了，就有人开始把平民打成士族的拥趸，开始劫掠平民。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "原先想要的自给自足根本无人在意，吃饱了之后，每个人都想要更多。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "前来投奔的家奴求我们去杀了虐待他的主人，烧了奴契。然而不再为奴后，又想把别人变作自己的家奴。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "因果循环，一切陷入死局，你应该像当年的小鸦一样，放任一场大乱，杀掉一半的人，让剩下的一半人在仇恨面前凝聚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "我竟然做不到……台面上，众人仍然在平静的生活，耕地、畜牧、织布……就好像圣贤古籍说的上古之世。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "我在我从前梦寐以求的生活里，无论如何，我都不忍打碎它。如果你不希望见到孙策死……就杀了我吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=路人母亲",
+      "emotion": "你在摇摆吗？文丑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……陈昭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我为你们找了许多帮手。只要杀掉孙策，你就可以永远过上平静自足的生活……."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "袁氏和你过往恩怨一笔勾销，复你的官位不过是转念之间。那座墨山方圆数十里都可以属于你们，袁氏会每年供给足够的粮米。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "没有人还能给出这样的条件。我可以同时令袁氏和陈氏双方履约，圣贤之族，永不毁约。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "孩子，你也可以想想你的退路，我会给你最好的退路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "多谢夫人，我不需要退路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "既然文丑有难处，而这难处也不是我一时间就能解决的，我也不强人所难，先告辞了。请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "就这样走了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "嗯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "孙策必死无疑，你可杀可生擒。既然来了，何不去里八华做个客呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "看好了，文丑，这就是我为你选的助力。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……乌有社……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "没想到再次见面，竟是生死局。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "社长，文丑有文丑的难处，我没法为他平难。那么你呢？她开给你的条件，我们之间有谈判的余地吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "……很可惜，殿下如今的处境，已经让我难以拿所有孩子的命去赌了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "哈………差点忘了，张社长这边不是什么法外狂徒，接的都是公家间的单子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "但我也两拳难敌四手，看起来今天是凶多吉少。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "她去哪了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刀斧手",
+      "text": "头像=山贼甲",
+      "emotion": "一瞬间就不见了，完全找不到足迹！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "她走不远。这里多地穴，应该是藏身在附近某处地穴中。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "你要去哪，孩子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "跟我走，我不会伤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "这边！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "还好赶上了……唔！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "上马！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这么多人来杀我们？厉害啊。下血本了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那是真血本。好了，带上甘宁，我们直接去关隘。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "我老妈都来了，你们逃不逃没什么差别，还不如找个舒服点的姿势等死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "喂，我们死，你也不会好过啊。你跟张闿早结仇了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "我就喜欢跟人结仇，不行吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "连个能安心喝酒的好友都没有，不可悲吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "就算你的好友能和你安心喝酒，他们给你的也不是纯粹的友爱吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "但仇恨可是纯粹的，比起不纯粹的爱，我更喜欢纯粹的恨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "纯粹的爱自己去争取，哪有人每天烧杀抢掠恩将仇报，还叨叨说别人不爱他的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "世上没有纯粹的爱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好奇怪啊，有光就有影，有恨就有爱，有纯粹的恨，就一定有纯粹的爱啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "而且，越纯粹的爱和恨才容易酝酿成越纯粹的恨和爱吧？你和你养母现在恨成这样，当年必然是享受过她纯粹的爱啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "拿起碗吃饭，放下碗骂娘，你这人不道义。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "将军，你说的太有道理了，那就求求将军说和，让凌统和我化敌为友吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "闭嘴。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "只要凌统都能原谅我，就证明纯粹的恨对应纯粹的爱啊。凌统，这可是你主人说的理论，你该不会想打他的脸吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "将军，这个人太不会看眼色了，让我加入孙氏麾下吧？我可以卖给你黄祖军中的机密……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哦？是吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "对，前面就是关隘了，让我释出诚意吧？我一定会让将军安然过关的，而且，绝对不会把救命之恩挂在嘴边……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "不能相信他，孙策将军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "太坏了，凌统，怎能因为不想见到我，就让主人冒险闯关呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "放心，我混上去之后，一定会和你好好相处的……呵呵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "伤口的血止住了吗？再敷些止血草吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "……多谢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "公绩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "等过关后，就杀了他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "是，属下明白。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "看舆图，出关后便是一线天悬崖，大约两里。穿过悬崖山道，便是泾县，能找到孙氏的援军了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "去吧，甘宁，把关口叫开。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "喂——我是黄祖麾下将领甘宁，令牌在此，奉命开关！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我想问个问题。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "问吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "人之将死，其言也善。我猜，你们已经打算将我灭口了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "我们当时因为形势发过誓不会杀他，劳烦副将了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=水军乙",
+      "emotion": "是。交给我吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "孙策，你知道为什么放你们过关吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "杀你们能得头功，黄祖怕在关隘前动手，会有人来抢功。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "选择走这条路之前，就已经传令绣衣楼的人在沿途排查过了，没有埋伏和机关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "不一定啊。之前没有，不代表之后也没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "不对……有人的气息在靠近……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "——风筝！是墨家的风筝！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "风来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许贡",
+      "text": "头像=黑人影",
+      "emotion": "孙策！许贡为报许氏之仇而来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "放过你一次、两次、三次，事不过三，这次谁救你都没用了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策，冷静。墨家杀你的决心并不算坚定，还有斡旋余地！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你太和善了。这个人已经不止一次想置我于死地了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "如果这都能忍，往后我凭何立世？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "殿下，那个人——呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你先下去吧，小弟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "雷鸣！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "唔——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不要缠斗，继续往前！！！孙策！孙策！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许贡",
+      "text": "头像=黑人影",
+      "emotion": "我已经没有独活之意！孙策，今日就算是死，我也要把你一起拖下地府！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "下地府？哈，好啊！老子去的地方多了，就是还没去过地府！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许贡",
+      "text": "头像=黑人影",
+      "emotion": "一起上路吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "……多谢前辈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "今日的灵河水，我会记住的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……孙策……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "小心，有人放冷箭！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "怎么可能……附近唯一能放冷箭的地方，是远处那座山头……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=水军乙",
+      "emotion": "凌校尉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "很英勇嘛，不过，你是不是忘记了，你发过誓，不能杀我的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……你们先走，我断后。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "孙策将军，带人经过山崖！后面所有人我会拦住的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "不要被他挡住，继续追！为许贡报仇！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "不要犹豫，快走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=水军乙",
+      "emotion": "将军，殿下，快走吧！相信凌校尉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=水军甲",
+      "emotion": "护送将军离开！快！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "快投降吧，凌统。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "哈……这样的对话，我好像已经听过了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "啊？是吗?",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "这次可是真的会死哦，毕竟这些墨家的人不是我的人，不听我的话，好像也不知道你父亲和墨家的交情。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……哈……哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "道，隐于小成，言，隐于荣华。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "不要在最后一刻都欺负我没读过书啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "……与己同则应，不与己同则反。同于己为是之，异于己为非之。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "不悟道，你也终究只是惠子，难成盗跖啊，甘宁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你要做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "你不是想一起下地府吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "放开我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "你怕死吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "明明怕死啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "饿了会吃饭，害怕的时候会发抖，困了会睡觉……明明也只是个普通人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "放手吧。放手，我就原谅你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "哈，骗你的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我好像……听见公绩的声音了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=水军乙",
+      "emotion": "……将军，前方有一处山村，略作停歇吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，好好歇息吧。奔波一整夜了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……嗯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "民兵",
+      "text": "头像=山贼乙",
+      "emotion": "借宿？你们是军队吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "民兵",
+      "text": "头像=山贼乙",
+      "emotion": "我们不想惹上麻烦，村庄也没有多余的粮米能招待你们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "最近往来的兵马很多，有江东的，有荊州的，之前黄祖的手下也来借宿过，都拿来招待他们了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……换个地方吧。再往前走，就有自己人了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "民兵",
+      "text": "头像=山贼乙",
+      "emotion": "那就好，调头吧，朝那里有条还算平缓的山路……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "殿下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "殿下？真的是殿下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "民兵",
+      "text": "头像=山贼乙",
+      "emotion": "颜良使君？你认识他们吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "认识，这位是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "……是一位故友，并非恶人。可否留他们休憩？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "也不算人数太多，他们借宿的饮食，我之后会设法补上的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "民兵",
+      "text": "头像=山贼乙",
+      "emotion": "既然是颜良使君担保的人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "那就放进来吧？毕竟使君在这里帮了我们不少忙呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好暖和……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "将军和殿下都累了吧？我看着火，二位安心歇息便是。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……多谢。我会记下的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "小事而已，将军切莫如此。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你为何会在这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "啊，说来是为了私事……文丑最近不知怎么的，愿意和我下山，往故居祭祀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "他从前对颜氏的过往深恶痛绝，但既然愿意，我自然会陪他来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "他好像要先带人去做些门内的私事……也不知是何事，只说，做成此事后，往后便再无烦恼了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "我不问他那边的事，约好在这里等，等他办完了派门的事再来会合。没想到，会在这里遇到殿下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "啊，粥米好了，喝些热粥吧……孙策将军？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "味道好香……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "加了些肉脯，村民们送的，这里的人虽然经过战乱，但都很和善。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "殿下如果能停留久些就好了。说不定再过几日，文丑他们就回来了。众人许久不见，殿下当年对我们大恩，我们至今铭记。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "言重了。将军乃重信诺之人，那，我也愿意坦诚相告……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "要与他说吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我相信颜良将军。将军，不瞒你说，文丑下山，是为了刺杀孙策。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "……什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "不，此间必有误会！我们和将军素无恩怨，他为何要行刺？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "墨家此次被里八华收买，你也许并不知道派门内情，文丑已经左支右绌，难以继续稳定山上的局面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他一直不愿让你觉察，也没有魄力让墨家大破大立。为了存续现在的生活，只能答应里八华的条件。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "我们好不容易摆脱了袁氏的恩怨，为何要再度涉入山外恩怨……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "我会劝说他的，殿下，让我和他见面，我一定会说服他放弃的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你若与此事无关，可以不必卷入。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你们已经退隐，他愿意冲入乱世，且隐瞒于你，便是为了让你避开这些恩怨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……孙策。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "不用和谈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "局势已经到了这个地步，让我成为所有人目标也好，由我掩护你北上，去见刘虞。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "死士，有为义，有为利。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他们说的不错，我不算是个道义德行无懈可击的人，我杀过许多人，里面也有无辜者。若论该死，我从不狡辩。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "罪孽，我做下了，我认。报应要来便来，与其苟头缩颈地活到终老，我宁可问心无愧战死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我只有一件事。如果我死在途中，请你看在往日她对你们的恩德上，继续护送她去幽州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "她这人讲道义，不好意思拿往日恩情开口，所以我来说。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "将军言重。末将如今得知此事，哪怕将军不开口，末将也会站在殿下这边。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不要说这些不详的话。我们已经到泾县了，你只要南下，很快就能回扬州。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老妇人",
+      "text": "头像=老年女",
+      "emotion": "客人，夜深天寒，老身来送炭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "小心些，老人家。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老妇人",
+      "text": "头像=老年女",
+      "emotion": "多谢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，我有事出去一趟，很快回来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "不要站在那，过来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "里八华的眼线太多了，你要谨慎。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "在林间时，多谢社长留手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "呵呵……看出来了呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "里面的药，可以令你们暂时闭气数个时辰。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……假死药？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "你们救过阿慈，我会替他报答的。记住，一刻之后，我的孩子们和墨家的人就到了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "去村子东边屋顶上有红花的废弃民居，然后吃下药。具体的细节我会安排，附近已经备好了顶替你们的尸身。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我会派人接应的。在最近的河岸渡口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "我不能暴露帮你之事，最多只能安排到偷梁换柱的那一步。之后的路，你们要自己走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "殿下？殿下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……孙策让你来找我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "对，殿下出来太久了，他不放心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没事。对了，孔明。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "……殿下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "回家。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这里回南阳不算太远。你离家够久了，快回去吧，别让家人们担心了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "但是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "放心吧，接下来就是一帆风顺了。回家，听话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孔明，不要担心。你能看见天命的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "如果是说各人的天命，我不担心殿下，我担心的是……孙策。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "小小年纪，哪来那么多的担忧啊。你这话可千万不能让他知道，他最恨装神弄鬼了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "……是。学生明白了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "快去吧，这里马上……就要变成战场了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=水军乙",
+      "emotion": "有刺客！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……你相信她？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对，你相信太史慈，你就该相信她。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "甘宁也是她带出来的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "咳。总之，我替她担保。一起把药吃了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "万一不是假死药，那就真的……哈。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈哈……那就到地下当一对傻子情侣啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这样傻的，下辈子能当什么呀？我想想，大头金鱼好像很傻，就当一对大头金鱼吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那，地下见。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "都死了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥死士",
+      "text": "头像=黑人影",
+      "emotion": "是，已经验过了。这是两人的头颅。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你醒了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我们还……活着吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯，张闿是对的，只是转移的道路被敌人渗透了，我只能带你走另一条路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "就在前面，我记得那座城池，是由你舅舅吴景的门生担任长官。把你送到那，我就放心了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "等等。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "前面有人。把我的战刀拔出来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我就知道，你和刘复一样，喜欢耍小聪明。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "只剩你们俩了。来吧，文丑，验证你们忠心与否的时间到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……文丑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "我们来取孙策的性命，殿下，请让开。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "杀了孙策，然后呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "一切不会好转。扬州会重新回到士族手上，你们也是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你们当年经历的一切，都要重新再经历一遍。你们从哪里挣扎逃离，就又会回到哪里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "哈哈……来的路上，我见到颜良了。他和殿下劝了我一样的话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "……我们是不是……已经回不去想要的生活了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我会给你们更好的生活。想想我的条件。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "更好的生活……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "诸君，想要这种生活吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "钜子，我们既然已经答应了，便没有退路了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刀斧手",
+      "text": "头像=山贼甲",
+      "emotion": "是啊，如果成功便是一步登天，再也不用回墨山种地了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刀斧手",
+      "text": "头像=山贼甲",
+      "emotion": "钜子难道想终身隐匿林间吗？从前我们是时运不济才只能四处躲藏，如今有陈氏和袁氏作保，何不乘风而起？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "……哈哈……哈哈哈……我真是做了一件蠢事啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "我以为我这样就能保证梦寐以求的生活，但其实从一开始，它就不存在……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "若鸦钜子在，她会让你们去死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "那你先去死吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "我们都受够了在墨山上磋磨，种不完的地，守不完的规矩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刀斧手",
+      "text": "头像=山贼甲",
+      "emotion": "喂，我们杀了他，再杀孙策，你的条件不变吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "接下来就是孙策！别让他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "……呃……别让……他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……快走吧，殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……我已经……想好了……所以来之前……在所有人的水里……下了毒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刀斧手",
+      "text": "头像=山贼甲",
+      "emotion": "你……呃……你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "我没能尽义啊……钜子……我终究还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……走啊，广陵王……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "若有来世，我一定会……会为你守城，结草衔环……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策，拉紧我的手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "咳……好，你往前，我替你断后！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "烟雾越来越大了……咳……原来……哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "咳咳……少说几句……哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "原来爱玩火的不止江东人啊？哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们悄悄地走……借着火色，他们追不上我们呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嗯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "喂，我说啊……你要去幽州多久？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "几个月……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那可真久啊……你别停啊，继续走，我都没停呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "你的手好凉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那是因为四周太热了。快，他们都被甩在后面了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "幽州……一定有雪吧……我长这么大，都没见过几次雪呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "白色的，松软的……像米饭一样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你怎么又停下了呀……就快到了呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……快到了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "看，孙策，我们快到了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好暖和……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "孙策？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……拉着我的手，好暖和啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……孙策？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我想……妈妈了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我出门前，还没有和她……道别呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……孙策……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "快走！呃——我、我会拽着你走的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "孙策！别担心！我不会丢下你的！不管多重的伤……只要到了那里……只要……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-流泪",
+      "emotion": "不要怕！不要松开我！你为什么不理我……为什么不回答我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "一定是困了吧？没关系，交给我……我会带你走的……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "你在、你在做什么啊？！快躲开啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "虞翻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "呃！快点！把他的手也给我……啊……他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "他没事！他什么事都没有！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "好……他没事……快，走这里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "把他给我背着，我力气大！别犹豫了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "好了……快，到那块石头后面，就能活下来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "你在找什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……凌哥呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "那……钜子呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥死士",
+      "text": "头像=黑人影",
+      "emotion": "啊啊啊啊啊！啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "虞翻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "没事的……只是撞了一下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……你先走吧，别管我们了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "这是什么话？到了城里，找到医师，好好休息一下就能醒过来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……我好冷……我想……歇一歇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "不行！还有人在附近，虞翻？仲翔？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "虞翻……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "殿下，是我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你能先策马带他们去前面的城池吗？他们伤得有些重……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……文丑他们呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "它可以带动两个人。我带小虞走。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你要去哪？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "我们要回家了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……救……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……救救他，兄长……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "医师！快让医师来！——快醒醒！不能睡！快醒醒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "伯符？伯符？……伯……符……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "醒醒，怎么还在睡啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我要走了，你来送送我吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "唔……陪你去幽州？哈哈……反正，去很远的地方就对了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "但是，说不定会回来呢？恨我的神棍那么多，就像那个干吉，搞不好手上有我的头发，天天行巫蛊术。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "不行的呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "终究啊，终究还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "没能陪你，走到最后。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我回战船上了。你如果遇到我，要挡住我，叫住我呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……就送到这里，没问题吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我已经没事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "我接到了小荀老师的信，他说，他会和你在幽州会合。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "你要不要再等等他，等他到了再一起走，有个助力。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "已经耽搁太久了。幽州的雪会越来越厚，路会越来越难走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "我需要留在这，稳定江东的局面，不能离开太远。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "到了幽州后，要尽快回信。无论和刘虞的事成或不成，都不要勉强。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "知道了。那，我动身了。"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "经县"
+    },
+    {
+      "type": "narration",
+      "text": "经县·一"
+    },
+    {
+      "type": "narration",
+      "text": "经县·二"
+    },
+    {
+      "type": "narration",
+      "text": "经县·三"
+    },
+    {
+      "type": "narration",
+      "text": "经县·四"
+    },
+    {
+      "type": "narration",
+      "text": "高阳"
+    },
+    {
+      "type": "narration",
+      "text": "高阳·一"
+    },
+    {
+      "type": "narration",
+      "text": "高阳·二"
+    },
+    {
+      "type": "narration",
+      "text": "高阳·三"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E7%87%95%E6%AD%8C%E8%A1%8C/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%AD%99%E7%AD%96%E7%BA%BF",
+  "crawled_at": "2026-04-12T22:08:47.721477",
+  "raw_wikitext": "{{面包屑|2026活动剧情|燕歌行/活动玩法}}{{活动背景}}\n[[分类:活动剧情]]\n__TOC__\n\n<center>{{板块|按钮|燕歌行/活动剧情/见闻|见闻}}{{板块|按钮|燕歌行/活动剧情|共通}}{{板块|按钮|燕歌行/活动剧情/刘辩线|刘辩线}}{{板块|按钮|燕歌行/活动剧情/傅融线|傅融线}}{{板块|按钮|燕歌行/活动剧情/袁基线|袁基线}}{{板块|按钮|燕歌行/活动剧情/左慈线|左慈线}}{{板块|按钮|燕歌行/活动剧情/孙策线|孙策线}}</center>\n\n\n=经县=\n\n==经县·一==\n{{对话-头}}\n{{旁白|汲县|接下来往……|头像=广陵王-挑眉}}\n{{对话|我|接下来往……|头像=广陵王-挑眉}}\n{{对话|诸葛亮|等等，有追兵！}}\n{{旁白|山坡下，一队西凉铁骑飞速接近，重骑兵擂动大地，为首者，赫然是马超——}}\n{{对话|马超|对不住了，刚跟老爹加入里八华，总得好好千活！|头像=马超}}\n{{对话|马超|你的人头，就归我了！|头像=马超}}\n{{对话|诸葛亮|雨上。}}\n{{旁白|他合掌。下一刻，无数细碎雨珠竟从地下逆向升腾而起，虽然并无杀伤力，但铁蹄泥泞，马速顷刻减慢。}}\n{{对话|我|进树林甩开他们！|头像=广陵王-严肃}}\n{{旁白|密林}}\n{{旁白|树影斑驳，夜色昏暗。骑兵在林间施展不开，一时难以接近。}}\n{{对话|诸葛亮|靠近有水源的地方，说不定能和灵河边的仙人通……呃！|头像=诸葛亮}}\n{{对话|我|孔明！|头像=广陵王-生气}}\n{{旁白|飞矛破风而来，贯穿他的肩膀，巨力将他钉入树干。剧痛让他一时蜷缩身躯，无力挣脱。}}\n{{对话|我|呃……呃……|头像=广陵王-难受}}\n{{对话|诸葛亮|别管我……实在不行……我还可以抛弃这具肉身回归龙脉……殿下先走！|头像=诸葛亮}}\n{{对话|我|不行！子瑜会吊死在我府门口，公休会穿着丧服在城门口唱戏骂我骂几十年的！|头像=广陵王-生气}}\n{{对话|诸葛亮|真、真的吗……好……|头像=诸葛亮}}\n{{对话|马氏骑兵|他们停下了！追上去！|头像=西凉军乙}}\n{{对话|马超|那个小书生的头发有点意思，拿来织毛毯，董兄弟一定喜……！！！|头像=马超}}\n{{对话|马氏骑兵|将军？！！|头像=西凉军乙}}\n{{旁白|千钧一发，细密寒光交错。血色在马超喉头绽放，叶间落下的月色，依稀照亮了一条又一条铁丝的寒光。}}\n{{旁白|不知何时，林间已经布满了这样的铁丝机关。快速冲杀的战马难以觉察，不少骑兵和战马都被铁丝割伤，甚至当场断首。}}\n{{对话|马氏骑兵|谁在施妖法？！|头像=西凉军乙}}\n{{对话|虞翻|妖法？|头像=虞翻}}\n{{旁白|机括轻响，四面八方的树木都被铁丝牵动。他站在我们上方的树上，握紧指间的机关。}}\n{{对话|虞翻|这是墨家偃甲术。尔等恶贼，一路至此，劫掠无数，罪行累累，今日，墨家虞翻替天行……唔啊啊！|头像=虞翻}}\n{{对话|马超|…..吵死了，和只小苍蝇一样。|头像=马超}}\n{{对话|我|虞翻！|头像=广陵王-严肃}}\n{{旁白|他被马超一箭射中，从上方坠落。我用力拔出了刺穿诸葛亮的飞矛，用矛身在半空缠住他的斗篷接住了他。}}\n{{旁白|马超捂着颈侧的伤口，血流如注，却只是让这个人的神色间更添嗜血。他再次举弓，其他兵士随他张弦——}}\n{{对话|马超|来，打苍蝇了……|头像=马超}}\n{{对话|我|抓紧我！|头像=广陵王-难受}}\n{{旁白|话音未落，万箭齐发。箭镞如雨射中斗篷，发出闷响……}}\n{{旁白|水边}}\n{{对话|虞翻|呜……好痛……}}\n{{对话|虞翻|我……我的斗篷……}}\n{{对话|我|我用它打掩护引开了马超他们的注意，这才能脱身。我们得走水路。|头像=广陵王-严肃}}\n{{对话|我|你们都落下了伤，血迹会为他们引路。还有，西凉人畏水，走水路是最稳妥的。|头像=广陵王-严肃}}\n{{对话|诸葛亮|使君？使君？你还好吗？|头像=诸葛亮}}\n{{对话|虞翻|……呼……我……我自己走！}}\n{{旁白|他强行推开我，摇摇晃晃地走开，还忘记了自己已经失去了斗篷，手还在拉不存在的兜帽。}}\n{{对话|诸葛亮|使君伤得很重，还是和我们同行吧，至少……唔，至少先到下一个落脚点……}}\n{{对话|虞翻|……我……我才不要和你们这种士族出身的人同行……哼，算是我提醒你，广陵王，你……|头像=虞翻}}\n{{对话|虞翻|你的罪行，已经被天子昭告天下，你已经……已经是天下共讨的恶贼了……|头像=虞翻}}\n{{对话|虞翻|这次算是你救了我，我放你一马……但是……呼……但是墨家门徒不会放过你的！我们……我们…….|头像=虞翻}}\n{{旁白|我们看着他踉跄走远，但是根本没能走出几步，他便因伤势太重，昏迷倒地。}}\n{{旁白|心理|追兵来了……}}\n{{旁白|我叹了口气，将他背起，搀扶着诸葛亮迈人水中。身后尘土飞扬，骑兵已至。}}\n{{对话|马氏骑兵|将军，他们要走水路！|头像=西凉军乙}}\n{{对话|马超|……算你命大，兄弟。|头像=马超}}\n{{旁白|水流湍急，我带着两名伤者涉水，每一步都要拼尽至力，才能让三人不被水流卷走。}}\n{{旁白|心理|快了……马上就……}}\n{{旁白|水流中有细密的雪光，应该是诸葛亮在勉强操纵，平息波浪。就在几乎力竭之时，我看见了河岸……}}\n{{对话|我|呼啊！|头像=广陵王-难受}}\n{{对话|凌统|啊！……是殿下！不要刺！|头像=凌统}}\n{{对话|我|……凌校尉……|头像=广陵王-疲惫}}\n{{旁白|我扑上的不是河岸，而是牙突船舷。两侧的水兵本来以为我们可能是从水下伏击的敌军，都举着竹枪。}}\n{{旁白|那人见到我们，只错愕一瞬，立刻伸手，将我们三人拖上了船。}}\n{{对话|凌统|快去禀报孙策将军，这边找到殿下了！|头像=凌统}}\n{{对话|我|我没事，虞翻伤得最重！你这里有军医吗？|头像=广陵王-严肃}}\n{{对话|虞翻|我……听见了凌哥的声音……|头像=虞翻}}\n{{对话|凌统|是我。我在这。箭伤应该偏离了要害，不幸中的万幸。|头像=凌统}}\n{{对话|凌统|先不要把箭拔出来，把它固定住。来人，取绑带过来，扎住他的肩膀替他止血！|头像=凌统}}\n{{对话|我|……你的伤怎么样？|头像=广陵王-疲惫}}\n{{对话|诸葛亮|没事，白龙正在修复它……|头像=诸葛亮}}\n{{旁白|他说到一半，目光越过我身后，戛然而止。}}\n{{旁白|我回过头，见到另一条牙突顺着水流快速靠近，船头的人跳上我们的船，惊讶到几近失语。}}\n{{对话|我|……哈，孙策……|头像=广陵王-惊讶}}\n{{对话|孙策|你怎么……哈哈……才多久没见，怎么这样狼狈？|头像=孙策}}\n{{旁白|我们相视而笑，他坐到我面前，替我整理因为连日奔波而散乱的额发。}}\n{{对话|孙策|好了，不管发生什么，先走水路回扬州。|头像=孙策}}\n{{对话|孙策|你是不知道，这个家伙……|头像=孙策}}\n{{旁白|他指向诸葛亮。}}\n{{对话|孙策|他忽然不见了，两个哥哥一哭二闹三上吊。我本来就有点担心你，又听见那么多坏消息，决定先带人来找你。|头像=孙策}}\n{{对话|孙策|现在好了，都找到了，诸葛瑾总算不会吊死在我家门口了。走吧。|头像=孙策}}\n{{对话|我|孙策，我不能回扬州，也不能回广陵。|头像=广陵王-摇头}}\n{{对话|我|我必须继续去幽州见刘虞，和北方结盟。|头像=广陵王-严肃}}\n{{对话-尾}}\n\n==经县·二==\n{{对话-头}}\n{{旁白|郊野}}\n{{对话|孙策|啊？现在她罪名这么多了吗？已经一百三十多条了？我们出发时候才十七条。|头像=孙策}}\n{{对话|斥候|是，附近的城池都接到消息了。各地都在派使者向朝廷传书，罗列更多的罪名。|头像=水军甲}}\n{{对话|凌统|前面就是泾县的渡口了。我先带人去查探，见守城官员。|头像=凌统}}\n{{旁白|他带着一队人跳下浅滩，朝渡口跋涉。水道旁夜巡的士兵见到了这些牙突船，纷纷停了下来。}}\n{{对话|我|……艨艟停靠在哪？|头像=广陵王-挑眉}}\n{{对话|孙策|在更南方。这边的水太浅了，艨艟过不来。|头像=孙策}}\n{{旁白|凌统已经带人走向了那些巡兵。火光渐远，双方在短暂的交谈后，凌统折返回了船边。}}\n{{对话|凌统|本地官员愿意开发驿馆。可以在此停留过夜。}}\n{{旁白|驿馆}}\n{{对话|舍官|这边请……虽然许都有消息传来，不过，上级并不想干涉其中。|头像=文官}}\n{{对话|舍官|还是与各方为善才是上策，对吧？|头像=文官}}\n{{对话|孙策|兵士和战马就劳使君派人照管了。}}\n{{对话|我|……孙策，是不是太松懈了？兵士还是留在驿馆附近比较稳妥。|头像=广陵王-挑眉}}\n{{对话|孙策|都是心腹亲兵，没人能调走他们。口粮都是他们随身自带的，没有空子可以钻。}}\n{{对话|孙策|哎，你看，诸葛氏的那个小弟已经没事了？}}\n{{对话|我|啊……确实，在树上看月亮呢。|头像=广陵王-点头}}\n{{对话|孙策|那可是飞矛的伤啊，我挨那一下估计都得躺三天。喂——小子，看什么呢？}}\n{{对话|诸葛亮|……天气。连日大雨，河水暴涨，艨艟停留的地方并不安全，所有的船只都可以靠近它。|头像=诸葛亮}}\n{{对话|孙策|没有人会在水上攻击江东人的。}}\n{{对话|我|孙策，谨慎些。|头像=广陵王-微笑}}\n{{对话|孙策|照我说，去什么幽州，趁现在天下大乱，一鼓作气把豫州打下来。}}\n{{对话|孙策|我们往前打，后方交给你哥和子敬，他们绝对接的上。}}\n{{对话|诸葛亮|孙策将军，请听学生一言。此刻不是投身战局的良机。|头像=诸葛亮}}\n{{对话|诸葛亮|扬州并不安定。将军贸然离开，已然令后方风雨飘摇。士族、宗贼皆与孙氏背离，将军此前杀戮众多，却未加以安抚……|头像=诸葛亮}}\n{{对话|孙策|行了，等你哪天坐到我这个位置，你再去跟你的敌人谈仁爱。}}\n{{对话|诸葛亮|学生的兵法考绩并不好，往后也无带兵意愿。若有一日连学生也领了军职，就说明天下真正到了危急存亡之际了。|头像=诸葛亮}}\n{{对话|我|别争论了。你也是，跟个少年人争论什么……|头像=广陵王-摇头}}\n{{对话|孙策|我扣掉零头也算是个少年人啊。}}\n{{对话|我|孔明，能去看看虞翻吗？如果能替他疗伤，就劳烦你出手了。|头像=广陵王-微笑}}\n{{对话|孙策|对，那小子虽然不懂事，但如果出事，张昭先生肯定要发疯的。}}\n{{对话|孙策|我们走的时候，他还与我说呢，说虞翻好久没有回音了，担心他去找墨家那群人。还有……}}\n{{对话|我|孔明，能去看看虞翻吗？如果能替他疗伤，就劳烦你出手了。|头像=广陵王-微笑}}\n{{对话|我|……孙策，你驿馆这边随身带了多少护卫？|头像=广陵王-微笑}}\n{{对话|孙策|三十多人？我不爱带太多人的，这些我都嫌多了。}}\n{{对话|我|太安静了，我很久没听见外院有人往来的声音了。|头像=广陵王-严肃}}\n{{旁白|他也觉察不对，拔出战刀，数名近侍走向院门。在打开门的瞬间，火光明亮，自外涌入。}}\n{{旁白|甲兵毫无声息包围在驿馆外。在他们之后，一人高坐步辇之上，怀拥着雪色雍容的狐皮披衣。}}\n{{对话|钟繇|广陵王，孙策，今夜我为天子使臣，宣读诏书。}}\n{{对话|钟繇|广陵王罪大恶极，同行者一律视为贼党，人人得以诛之。来人，将他们拿下。}}\n{{旁白|舍官无声退入兵士之后，带着文官离去。孙策冷笑一声，摆手让侍卫分开，独自走向门外的追兵。}}\n{{对话|甲兵|拿下贼人！|头像=西凉军乙}}\n{{对话|孙策|来啊。|头像=孙策}}\n{{对话|矛兵|呃——|头像=袁氏士兵}}\n{{旁白|手起刀落，两名最先上前的步卒已经倒地。他持刀立在正中，不以为然。}}\n{{对话|孙策|再来。我就站在这，看你们谁能越过我。}}\n{{对话|甲兵|……呃……|头像=西凉军乙}}\n{{对话|孙策|来啊！}}\n{{旁白|暴喝之下，甲兵阵竟在巨大的恐惧下后撤了半分。忽见剑光清冽，那人抛开皮裘，已至人前。}}\n{{对话|钟繇|——请教了。}}\n{{对话|孙策|你是文官吧？想在我这边用命骗个谥号？|头像=孙策}}\n{{对话|钟繇|不用骗。文成武德，我的谥号不会出此四字。倒是你，担心一下自己的身后哀荣吧，说不定连个“毅”都搏不到呢。}}\n{{对话|孙策|哈，我是搞不懂你们文人，天天咬文嚼字，纠结死后封什么。这样，你挑个字，我可以刻在你尸体上。|头像=孙策}}\n{{旁白|他说完狠话，又有点不放心，回头悄声跟我确认。}}\n{{对话|孙策|一般我会封什么？|头像=孙策}}\n{{对话|我|他说得对，好一点就是“毅”、“肃”之类的……|头像=广陵王-挑眉}}\n{{对话|孙策|坏一点呢？|头像=孙策}}\n{{对话|我|那不好说，看谁替你封了，上面有顶，但下不封底。今天闯出去，我们就还有机会搏一把“忠武”。|头像=广陵王-摇头}}\n{{对话|孙策|哇，两个大字？|头像=孙策}}\n{{对话|钟繇|你连一个都保不住，等着拿个厉将军入土吧。|头像=钟繇}}\n{{旁白|剑光肃杀，雪色映衬红衣猎猎。天上又开始落雪了，四周起了寒风，冷冽彻骨。}}\n{{对话|孙策|好。让我和这位文官好好讨教。你先带其他人往营地，和凌统汇合。|头像=孙策}}\n{{对话|孙策|他们一定也对营地下手了。但是有凌统在，什么都不用担心。|头像=孙策}}\n{{对话|我|好，之后见。|头像=广陵王-点头}}\n{{旁白|我回身带上侍卫，准备从后门杀出。诸葛亮扶着虞翻，少年脸色苍白，但已经勉强恢复了神志。}}\n{{旁白|郊野}}\n{{旁白|心理|有火光！}}\n{{对话|孙氏侍卫|应该刚刚遭受过敌袭，小心戒备！|头像=水军乙}}\n{{对话|我|是轻骑和步兵的痕迹……来者不。许县在混战，钟繇能调动的兵力不会太多，这些兵马是……呃！|头像=广陵王-严肃}}\n{{对话|孙氏侍卫|不要停留，有人放冷箭！|头像=水军乙}}\n{{旁白|深夜的道旁混沌难明，人影重重。埋伏在两侧的弓兵和刀斧手借夜色靠近，刀戈凌冽——}}\n{{旁白|我们果断策马，强行冲破包围。我和侍卫将负伤的虞翻护在中间，刚想抬头，就被我摁下脑袋，避开一支流矢。}}\n{{对话|我|你之前的机关还在吗？！|头像=广陵王-生气}}\n{{对话|虞翻|……那是……墨家的……|头像=虞翻}}\n{{对话|我|拿出来，拦住伏兵！|头像=广陵王-生气}}\n{{旁白|他勉强在马上撑起身，颤抖着解开偃甲木盒，但是无力拧开机括。我从他手中拿过，从盒中拉出细细的铁丝。}}\n{{旁白|心理|只能当绊马索那样用了！}}\n{{对话|我|把它传到后方拉开，拦住敌方轻骑！|头像=广陵王-严肃}}\n{{对话|孙氏侍卫|是！|头像=水军乙}}\n{{旁白|虽然随行护卫并不多，但都是训练有素的亲兵。偃甲传至后方，黑暗中立刻响起了马匹倒地的混乱。}}\n{{对话|我|甩开敌兵，往营地方向！|头像=广陵王-严肃}}\n{{对话|孙氏侍卫？？？|好呀。|头像=黑人影}}\n{{对话|我|！！！呃——|头像=广陵王-难受}}\n{{旁白|千钧一发之际，我听出了他声音中的异样，扣住刺向腰间的短剑。他的笑容带起了面具的褶皱，在疾驰的马匹上，面具被狂风吹去……}}\n{{对话|甘宁|还记得我呀，我感动得都要哭了。}}\n{{对话-尾}}\n\n==经县·三==\n{{对话-头}}\n{{旁白|郊野}}\n{{对话|孙氏侍卫|你是谁？！|头像=水军乙}}\n{{对话|甘宁|我是来追捕贼王的人啊。这个人现在已经罪恶酒天了，谁拿下她的人头，谁就算是忠臣。}}\n{{对话|甘宁|为了这份大功，我重新回到黄祖将军麾下，准备改邪归正。}}\n{{对话|我|哈，是有点改正了，说话居然会说成语了。|头像=广陵王-冷笑}}\n{{对话|我|是吧，死前再教我几个啊。}}\n{{对话|我|那我再教你一个词。|头像=广陵王-微笑}}\n{{旁白|我扣住他握剑的手，目光越过他，看向他身后。}}\n{{对话|我|——“恶有恶报”。|头像=广陵王-微笑}}\n{{对话|甘宁|！！！|头像=甘宁}}\n{{旁白|箭弩破风而来，钉人他肩膀。他回头，便见一人策白马而来，正准备射出下一支弩箭。}}\n{{对话|凌统|甘宁！|头像=凌统}}\n{{对话|甘宁|是我有缘无份的二当家啊。看来派去营地的人，都被你们拿下了。|头像=甘宁}}\n{{旁白|他回身欲与凌统拼杀，但只是虚晃一枪，剑锋再度向我刺来；就在这时，一只手抓住了剑身，顿时鲜血淋漓。}}\n{{对话|虞翻|……虽然……虽然才见没多久，都感觉你是个恶人……|头像=虞翻}}\n{{旁白|为躲开第二支弩箭，甘宁果断弃剑，拔出战刀策马冲向凌统。我扶住虞翻，带队继续往前。}}\n{{对话|虞翻|放开我，我不和你们一起走……|头像=虞翻}}\n{{对话|我|好了，别说话。前方营地情况如何？|头像=广陵王-微笑}}\n{{对话|孙氏侍卫|斥候回报了，黄祖的军士偷袭营地，被凌校尉带人击退，不过只是暂时退败，并未远离。|头像=水军乙}}\n{{对话|我|先和军队汇合，回头接应孙策。孔明，照顾好虞翻。|头像=广陵王-点头}}\n{{旁白|身侧，少年点了点头。夜色太黑，我看不清他的神色。}}\n{{对话|孙氏侍卫|凌校尉！|头像=水军乙}}\n{{对话|凌统|他逃了。暂时没事了。|头像=凌统}}\n{{对话|凌统|孙将军那边如何？|头像=凌统}}\n{{对话|我|钟繇带兵包围了驿馆，孙策带着亲卫在抵抗。我们要尽快驰援，眼下——|头像=广陵王-严肃}}\n{{旁白|就在这时，突变惊起。浴血的人影从道边杀出，宛如恶鬼，扑住了离他最近的人拖拽上马，跃入另一侧的黑暗，转眼消失。}}\n{{对话|凌统|小虞！！！|头像=凌统}}\n{{对话|我|甘宁抓走了虞翻！让斥候跟上！|头像=广陵王-严肃}}\n{{对话|凌统|……要先去救孙将军，先去救孙将军……|头像=凌统}}\n{{对话|凌统|……让斥候去，不要跟丢！等情势稳定，我立刻去救他！|头像=凌统}}\n{{旁白|驿馆}}\n{{旁白|我们和孙氏兵士汇合，回头往驿馆救援被困的孙策。}}\n{{旁白|城中已经一片火海，满地狼藉。循着刀兵声，我们冲向远处的城楼。}}\n{{旁白|心理|在那！}}\n{{旁白|雪光火色间，战刀和长剑生死厮杀。兵刃早已越过了局势，进人了单纯的武斗。}}\n{{旁白|双方的人甚至在城楼下忘却了争斗，木然看着顶尖武者之间的决战。无人胆敢涉入，只有等他们自己分出生死。}}\n{{对话|凌统|是高手。|头像=凌统}}\n{{对话|我|他可是自学成才。|头像=广陵王-微笑}}\n{{对话|凌统|那便是天才，若此战之后有机会，真想与他决斗。|头像=凌统}}\n{{对话|凌统|现在，没有人能够介入，只能等他们自行分出胜负。贸然去帮助任何一方，都有可能适得其反。|头像=凌统}}\n{{旁白|我们只能和城下的其他人一样，静静注视着这场合人毛骨悚然的决战。刀剑相击声回荡全城，愈发清越。}}\n{{旁白|可就在下一刻，箭簇划破夜色，带着余火钉在孙策脚边。他的动作顿住了，然而面前的钟繇没有趁胜追击，反而收剑停手。}}\n{{对话|钟繇|有人偷袭，下次吧。}}\n{{对话|孙策|哈，抓反贼还讲道义？|头像=孙策}}\n{{对话|钟繇|于公，我该将你们杀无赦。但趁虚而入并非剑者该为之事，你走吧。}}\n{{对话|钟繇|下城楼的一刻，便是朝廷讨伐之战。}}\n{{旁白|双方都在等他们步下城楼，屏息之中，已开始列队备战。他们从两侧石阶分别步下城楼，每一次脚步落地，都代表开战之刻的临近……}}\n{{旁白|凌统已经收起弩箭，拔出了薄红断剑斩桃妖。我看向后方情况，发现不知何时不见了诸葛亮。}}\n{{旁白|心理|是找到安全之处暂时隐蔽起来了吗？也好……}}\n{{旁白|一声、两声……火光之中，双方几乎同时走下最后一级台阶。然而，所有人同时感受到了大地的震颤……}}\n{{对话|甲兵|……地面在颤抖？|头像=西凉军乙}}\n{{对话|孙氏士兵|骑兵……？|头像=水军甲}}\n{{对话|我|是马氏骑兵！！！散开——|头像=广陵王-生气}}\n{{旁白|我们这边没有犹豫，所有人应声而散，撤离中道。但钟繇那边的人都未意识到将要到来的是什么，全都在等待钟繇的指令。}}\n{{旁白|片刻犹豫，生死之隔。转眼间，西凉马氏的铁骑碾过中道，将所有在那里的甲兵碾入铁蹄。}}\n{{对话|钟繇|马超，你疯了吗？！}}\n{{对话|马超|啊？不行吗？|头像=马超}}\n{{对话|马超|抓住广陵王可是大功，你可是在跟我抢功劳！|头像=马超}}\n{{对话|我|孙策，趁现在！|头像=广陵王-严肃}}\n{{旁白|他没有迟疑，翻身上马。借着这场突如其来的惊变，我们直接冲出城门，逃出升天。一声轻响，凌统挥剑，再次打落一支偷袭的箭簇。}}\n{{对话|凌统|暗处有人行刺，是对方的弓兵？还是……}}\n{{对话|我|你们有人见到孔明吗？|头像=广陵王-挑眉}}\n{{对话|凌统|殿下没有让他事先躲起来吗？}}\n{{旁白|心理|没有人看见吗……那他去了哪？}}\n{{对话|斥候|附近局势有变。黄祖此次与朝廷联手，欲趁将军外出围剿。|头像=水军甲}}\n{{对话|斥候|他们动兵很快，南北两侧关口都已经被截停。目前无法和江东传信，也难以得到扬州的救援。|头像=水军甲}}\n{{对话|孙策|太快了，他们定是提前得到我的动向，当时就布局了。}}\n{{对话|孙策|要脱离包围，再送她往幽州，最快的路径是哪条？}}\n{{对话|凌统|走泾县。泾县多山陵峡谷，地形复杂，地下还有暗流，故而难以死守。|头像=凌统}}\n{{对话|凌统|抵达泾县，属下便可安排当时安插在黄祖军中的人响应，护送将军过关。|头像=凌统}}\n{{对话|凌统|虞翻落在甘宁手中。今夜驻扎之后，属下需要带人前去营救，请将军允准！|头像=凌统}}\n{{对话|孙策|怎能让你独自去，我们同你去。}}\n{{对话|我|孙策！|头像=广陵王-严肃}}\n{{对话|孙策|不去不讲义气啊，我不讲义气，以后谁和我一起出生入死？}}\n{{对话|凌统|将军，殿下的顾虑是有道理的。将军身份重大，绝不可涉险！|头像=凌统}}\n{{对话|孙策|比这凶险的境地，以前经历过不知多少。这算什么，没事。}}\n{{对话|凌统|将军绝不可去！若有万一，属下要如何向江东复命？！|头像=凌统}}\n{{对话|我|这不是轻狂的时候，孙策，谁都可以去当游侠，但你不行！|头像=广陵王-摇头}}\n{{对话|孙策|不想当游侠的种田老农不是好将军……}}\n{{对话|我|别逼我去跟吴夫人告状。|头像=广陵王-严肃}}\n{{旁白|他不响了。}}\n{{对话|我|不能恃勇而轻剽。我们眼下援助断绝，敌方则早有布局。每一步都要谨慎。|头像=广陵王-微笑}}\n{{对话|我|凌统，等斥候探明虞翻下落，你就尽快带人去吧。我会看着他的。|头像=广陵王-微笑}}\n{{对话|凌统|多谢殿下。}}\n{{对话|孙策|恃勇而轻剽，你不就喜欢我恃勇而轻剽吗？|头像=孙策}}\n{{对话|孙策|我要是不勇也不轻，那不就是“那个破锣嗓子的小兵甲，走开”……啊哈哈！|头像=孙策}}\n{{旁白|我拿刀柄截了戳他的腰，他大笑着躲开，策马朝前去了。}}\n{{对话|斥候|殿下。|头像=水军甲}}\n{{旁白|那名斥候策马到了我身后，轻声唤住我。周围人都在随孙策向前，寻找驻扎之地。}}\n{{对话|斥候？？？|广陵王。|头像=黑人影}}\n{{对话|斥候？？？|想要让那小子活，就带着凌统去信上标记的地方。记住，只准你们二人来。多带一人，我就剁掉他一根手指。|头像=黑人影}}\n{{旁白|他在我手中留下一卷信。我回过头，人影已不见踪迹。}}\n{{旁白|心理|甘宁……}}\n{{对话|凌统|他让殿下和我同去？}}\n{{对话|我|没错，不许带别人。|头像=广陵王-严肃}}\n{{对话|凌统|里面定有算计。我独自去。}}\n{{对话|我|“龙漱林”……约定的地点是这里。“龙”……|头像=广陵王-挑眉}}\n{{对话|我|……|头像=广陵王-挑眉}}\n{{对话|我|不，照他说的，我们俩去。|头像=广陵王-摇头}}\n{{旁白|片刻后，我说服了凌统，趁众人还在扎营之时，向南前往密信所写的地点……}}\n{{对话|凌统|不过真的很意外……}}\n{{对话|我|嗯？是指我和你过来的事吗？|头像=广陵王-挑眉}}\n{{对话|凌统|是啊，毕竟就在不久前，殿下还义正言辞喝止住了孙策将军。}}\n{{对话|凌统|在江东做事，每天都有各种各样的意外，其中最怕见到的，就是几位将军的突发奇想。}}\n{{对话|凌统|有殿下在的时候，孙策将军总会稍微沉稳些。}}\n{{对话|我|他这次如果真的自己来了，你怎么办？|头像=广陵王-挑眉}}\n{{旁白|他低头苦笑，旋即抬头，目光清冽。}}\n{{对话|凌统|但行道义之事。不问其他。}}\n{{对话|我|不问其他……|头像=广陵王-严肃}}\n{{对话|凌统|没错。凌统一生没有做过任何惭愧之事，何必问而决之，遵从本心便是。}}\n{{对话|我|……那，在游侠看来，如今的我算是反贼吗?|头像=广陵王-严肃}}\n{{对话|凌统|哈哈哈……侠以武犯禁，我从前觉得，殿下甚是高远。}}\n{{对话|凌统|可听闻朝廷的诏令后，顿觉殿下是吾辈中人，难怪能与正平君为生死之交。}}\n{{对话|凌统|侠是游走于世俗之外的人，世俗给殿下的一切罪名，在我们眼中都不过是笑谈，殿下不必担心。}}\n{{对话|甘宁|哎呀，背着我和别人结交，实在是有些媚上欺下吧？|头像=甘宁}}\n{{旁白|他的声音忽然从林深处传来，带着森然鬼气的笑意。}}\n{{对话|甘宁|我都要哭了，原来你想和王侯将相结交，像我这种出身草芥的可怜人，哪怕再如何求你，你都不愿意跟我结拜啊。}}\n{{对话|凌统|……小虞在哪里？|头像=凌统}}\n{{对话|甘宁|啊，那个小可怜吗？}}\n{{旁白|他吹了声口哨。一旁高大的古树上出现了数道人影，虞翻被他们挟持，脖颈上套着绳索。}}\n{{对话|甘宁|不要冲动啊。从这么高的树上被推下去，嚓，脖子瞬间就会被勒断的。}}\n{{对话|凌统|你想谈什么条件？|头像=凌统}}\n{{对话|甘宁|条件？}}\n{{旁白|他低低笑了，林间声响簌簌，有人影正从四面八方包围，阻止我们离开。}}\n{{对话|甘宁|你们来这里的时候，就已经走不掉了。留下吧。}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|你是想用我们要挟孙策吗？|头像=广陵王-挑眉}}\n{{对话|甘宁|我只是想省些力气，也不是什么坏人，你说呢？}}\n{{对话|我|我同意。反正现在我也已经身败名裂了，这种时候，不如和你联手。|头像=广陵王-严肃}}\n{{旁白|林间风动，有稀疏的雨点落在我的脸上。我看向凌统。}}\n{{对话|凌统|殿下？！}}\n{{对话|我|凌统，你也一起吧。|头像=广陵王-微笑}}\n{{对话|虞翻|呃，凌哥不要答应她！我就知道，广陵王和甘宁是一丘之貉，狼狈为奸，沆瀣一气，恶贯满盈！|头像=虞翻}}\n{{对话|甘宁|你会好多成语啊，等你的脑袋和脖子被扯断的时候，说不定很多竹简会从伤口落出来？|头像=甘宁}}\n{{对话|我|把孙策引来，我们强占他的兵马，然后我们回徐州盘踞，开创事业，如何？|头像=广陵王-挑眉}}\n{{对话|我|这可比你替黄祖当走狗要爽多了，你甚至可以自称为王，报复所有和你有怨之人。|头像=广陵王-微笑}}\n{{旁白|又是一阵风过，雨落大了。我心中已有计较，看向了甘宁身后黑暗中的人影。}}\n{{对话|我|孔明，你叛变了吧？引我们过来要挟孙策的主意，应该是你给甘宁出的。|头像=广陵王-微笑}}\n{{对话|诸葛亮|……孙策和诸葛氏的恩怨，学生放不下。}}\n{{对话|我|人之常情，既然你已经投靠甘宁，那便有谋士了。|头像=广陵王-微笑}}\n{{对话|甘宁|听起来很有前途嘛，我想想……|头像=甘宁}}\n{{旁白|雨下得更大了，他的目光沾染了雨水，变得明亮了起来。}}\n{{对话|甘宁|你们只是为了拖延时间吧？包括你，小书生，你身上没有复仇者有的怨气。}}\n{{对话|甘宁|但我还是听你的，你知道原因吗？因为无论你们有何后手，这两个人到手，我就心满意……}}\n{{旁白|话音未落，突然倾盆暴雨轰然落下，所有人都被遮蔽视野，火烛熄灭，一片漆黑。}}\n{{旁白|树上的人悉数被雨水浇落。虞翻在落下的瞬间，用手中的短刀割断了绞索。我和凌统同时冲向他，击退四周围杀的敌军——}}\n{{对话|诸葛亮|时间只够让雨云汇聚到这种程度，往东走！我还能继续用雨水掩护片刻！|头像=诸葛亮}}\n{{对话|虞翻|这把短刀是你偷偷给我的，我还给你！你拿着防身！|头像=虞翻}}\n{{对话|诸葛亮|好，快走吧，不用担心我！|头像=诸葛亮}}\n{{对话|甘宁|你们怎么舍得把我丢下啊？啊？！哈哈哈哈哈……|头像=甘宁}}\n{{对话-尾}}\n\n==经县·四==\n{{对话-头}}\n{{旁白|山坡}}\n{{对话|我|呃——偃甲盒碎了……|头像=广陵王-难受}}\n{{对话|甘宁|哈……又用那种小机关拦住了追兵？}}\n{{对话|甘宁|但你们甩不掉我的，我可是一心一意要留下你们俩的！}}\n{{对话|凌统|既然你自投罗网，就在此了断吧！|头像=凌统}}\n{{对话|甘宁|你的腿好像出了点问题啊，凌统，滚下来的时候，义肢卡住了吧？}}\n{{对话|虞翻|不许动凌哥！！！|头像=虞翻}}\n{{旁白|他扑上去拦住甘宁。我们四人滚落山坡，撞破下方的藤曼，坠入地穴之中。}}\n{{旁白|虞翻身上带伤，被他打翻在地。正当他打算转向我的时候，动作一顿，被凌统的断剑抵住后背。}}\n{{对话|甘宁|……好难看啊，凌统，你这副趴在地上的样子……}}\n{{对话|凌统|人都是要回到尘土里去的，无所谓。|头像=凌统}}\n{{对话|甘宁|你真的要杀我吗？你觉得杀了我，就算惩罚我？}}\n{{对话|甘宁|不，我只是从这个无趣的世间解脱了……而你，什么都证明不了。}}\n{{对话|甘宁|我说不定还有大用处呢？孙策想招募我，黄祖想招募我，就连益州都想。}}\n{{对话|凌统|孙策将军与你不会是同道中人。|头像=凌统}}\n{{对话|甘宁|这可说不好。他杀的人比我少吗？他杀的人就全然无辜吗？他在扬州的事迹，全天下都知道……}}\n{{对话|甘宁|他如果真的像广陵王那样，扬州就不会接二连三叛变了。怎么？这么嫌贫爱富，跟他混就行，跟我就不行？}}\n{{对话|甘宁|我只不过是从前有些不那么体面的事，二位出身高贵的好人，不要用那么高高在上的眼光审判我吧？}}\n{{对话|虞翻|凌哥，不要听他废话！这样的人死不足惜！|头像=虞翻}}\n{{对话|甘宁|呵呵……杀了我，你们可就再也没有活路了。}}\n{{对话|我|你是在拿黄祖封锁的那些关隘要挟我们吗？|头像=广陵王-严肃}}\n{{对话|甘宁|没错，我可以让你们离开北面的关隘。不然，你们就只能被困在这里，活活被磨死。}}\n{{对话|甘宁|条件也很慷慨，我们交个朋友，等出去之后，往后还能留一线……}}\n{{对话|我|他与你有不共戴天之仇，凌统，你来决断，不要管我们。|头像=广陵王-严肃}}\n{{对话|虞翻|凌哥，交给我吧，我不怕死，我替你们去冲破那处关隘！|头像=虞翻}}\n{{对话|甘宁|凌哥，你仔细想想，我有那么坏吗？我只不过杀了点人、抢抢财物，其实乱世里，比我作恶百倍的军阀门阀数不胜数啊……}}\n{{对话|甘宁|放过我，你手下的那些兄弟就无需为了破关而卖命了..……·啊，难道你宁可为了私仇，也要让他们用肉身去和黄祖的精兵搏斗?}}\n{{对话|凌统|……|头像=凌统}}\n{{对话|甘宁|他们之后能得到什么？他们是为了自己而战吗？不是吧，是为了广陵王和孙策两个大人物的命啊。}}\n{{对话|甘宁|他们好可怜，他们也是农民或者工匠的孩子啊，为了大人物的事业，被逼着去和另一群可恰的孩子搏命……}}\n{{对话|凌统|够了。|头像=凌统}}\n{{旁白|断剑从他背后被挪开了，凌统退后一步，放过了他。}}\n{{对话|甘宁|发誓。}}\n{{对话|甘宁|你对着你的剑发誓，只要我让关口放你们过去，你们就放下旧怨，不得杀我。}}\n{{对话|凌统|我可以发誓。|头像=凌统}}\n{{对话|我|凌统！|头像=广陵王-生气}}\n{{对话|凌统|……没事的，殿下。我发誓，只要你让殿下和将军通过关口，摆脱追兵，我们就不会杀你。|头像=凌统}}\n{{对话|甘宁|呵呵……当年如果小脑袋也这样灵活，我们何至于此呢？早已是结拜兄弟了。}}\n{{旁白|他笑着拍了拍凌统的肩，回到了地穴入口下。}}\n{{对话|甘宁|应该没法原路返回了。只能绕道了。都是正人君子，不至于违背自己的誓言吧？}}\n{{旁白|郊野}}\n{{对话|甘宁|喂，都别板着脸，现在都是好朋友了，轻松些吧？}}\n{{对话|我|我累了，凌统的义肢也需要虞翻调整，到附近找地方休息片刻吧。|头像=广陵王-疲惫}}\n{{对话|甘宁|当然可以……看，这么巧，那边居然有个流民的营地。}}\n{{旁白|前方传来沧桑呜咽的弦声，黑灰色的人影佝偻着聚在篝火边取暖。流民中有人在弹拨弦乐，声响哀哀。}}\n{{对话|甘宁|要不要一起去爽一下？}}\n{{对话|凌统|恶心。|头像=凌统}}\n{{对话|甘宁|别故作清高，坦诚相对可是做好朋友的第一步。体验一下我平时的欢乐吧，一超爽过之后，就再也离不开彼此了。}}\n{{旁白|这时，坐在火边弹筑的人微微侧身。这个人身披紫灰长纱，看不清身形，好似被轻烟笼罩。}}\n{{对话|甘宁|来，别弹这些清苦的东西了，弹些香艳的。}}\n{{旁白|那人抬头看向他，咬着纱角轻轻笑了笑。这一笑，让甘宁呆了一霎。}}\n{{旁白|弦音旋即变奏，嘈杂旖旎。他丢开筑，拉住了甘宁的手，身影似鬼魅般旋飞，坐到了他的身上。}}\n{{对话|周忠|你累了。好好歇息吧。}}\n{{对话|甘宁|……你……|头像=甘宁}}\n{{对话|周忠|……嘘，闭上眼睛。}}\n{{旁白|紫蝶自唇间涌出，扑面而去。旋即人影倒地，陷入昏沉的酣睡。}}\n{{对话|周忠|呼，接到了殿下的信，匆匆赶来，还好赶上了。}}\n{{对话|虞翻|啊啊……啊啊啊……|头像=虞翻}}\n{{对话|凌统|没事的，小虞，不用遮着眼睛，没做什么。|头像=凌统}}\n{{对话|虞翻|不、不行！这种事怎么能当众……啊啊啊……|头像=虞翻}}\n{{对话|周忠|好可爱的小弟弟，你也想好好睡一觉吗？}}\n{{对话|虞翻|妖孽！妖孽！啊啊……|头像=虞翻}}\n{{对话|我|用绣云鸢将信传出去了。孔明应该没事，已经躲开甘宁的爪牙了。孙策那边正带兵过来汇合。|头像=广陵王-微笑}}\n{{对话|我|等碰面后，我们就带上甘宁，威胁守将开关。我走泾县北上，你们回扬州。|头像=广陵王-微笑}}\n{{对话|虞翻|……}}\n{{对话|我|怎么了？一副欲言又止的样子。|头像=广陵王-挑眉}}\n{{对话|虞翻|……孙策……回不了扬州。}}\n{{对话|我|……为何？|头像=广陵王-惊讶}}\n{{对话|虞翻|……}}\n{{对话|凌统|小虞，是不是墨家那边……|头像=凌统}}\n{{旁白|他垂下眼神，点了点头。}}\n{{对话|虞翻|这次，墨家下了对孙策的刺杀令。我过来，其实是想……}}\n{{对话|虞翻|……是想行刺的。如果我杀了孙策，说不定就可以重新见到钜子，好好谈心。}}\n{{对话|我|文丑不会突然对孙策起杀心，为何会突然下刺杀令？|头像=广陵王-严肃}}\n{{对话|虞翻|孙策残暴，不是我们的同道。}}\n{{对话|我|文丑又不是你这样的小孩。一定是有人在暗中接触他们，准备联手剿杀我和孙策。|头像=广陵王-严肃}}\n{{对话|周忠|唔，我只能提示殿下，小陈回到里八华之后，立刻得到了重用。|头像=周忠}}\n{{对话|周忠|为了以后在两边都能吃上饭，我不能告诉你具体的计划，但是，她接连去找过几方人手，墨家只是其中之一。|头像=周忠}}\n{{对话|周忠|黄祖、张闿……你能想到的势力，她都去找过。|头像=周忠}}\n{{对话|我|那就从最好交涉的人里面着手。虞翻，你知道文丑他们在哪吗？|头像=广陵王-严肃}}\n{{对话|虞翻|不知道，而且，墨家才不会沦为其他势力的死士！}}\n{{对话|我|一场歉收之后，人心就可能动摇。|头像=广陵王-摇头}}\n{{对话|虞翻|不可能！}}\n{{旁白|他哗然起身，愤愤地瞪着我，然后转身离去。}}\n{{对话|虞翻|你跟凌哥来救我，对我有恩，我可以放弃行刺。但是，我绝不会背弃墨家的道义！|头像=虞翻}}\n{{对话|凌统|小虞，等等……|头像=凌统}}\n{{旁白|他埋头走远，再也没有回来。凌统无奈叹息，摇了摇头。}}\n{{旁白|心理|有马蹄声来了……}}\n{{旁白|我回过头，一支轻骑破夜而来。是孙策他们接到传信来了。}}\n{{对话|诸葛亮|唔！放我下去！|头像=诸葛亮}}\n{{对话|孙策|都在啊！途中顺便救到了这小子……哎？那是周叔吗？|头像=孙策}}\n{{对话|周忠|将军终于来了……啊……}}\n{{旁白|他故意装柔弱，昏倒在我肩头。}}\n{{对话|周忠|老臣快要受不了了……得到消息前来救援，本以为只是帮忙传递消息……结果沿途都是虎豹豺狼……|头像=周忠}}\n{{对话|孙策|你手无缚鸡之力，公瑾怎么会让你来救援？我让人先送你去安全的地方。}}\n{{对话|孙策|好了，你下去吧。}}\n{{对话|诸葛亮|唔啊！|头像=诸葛亮}}\n{{旁白|他把胳膊下夹着的人往我这里一抛，让人把我的马匹牵来。他的马鞍上系着一团血淋淋的东西，好像是人的首级。}}\n{{对话|我|这是谁？|头像=广陵王-挑眉}}\n{{对话|孙策|抓住了几个刺客，用的兵器很有趣，跟墨家那群法外狂徒用的一样。}}\n{{旁白|他抛给我一把似弓似弩的兵器，确实是墨家特制的弩，哪怕不会射箭的人也能使用，并且能够兼具弓的优势。}}\n{{对话|我|这次，里八华收买各方死士前来行刺，我们不能被困死在这里。|头像=广陵王-严肃}}\n{{对话|我|眼下需要用甘宁做人质，打开北方关隘。带他一起上路吧，去前面的隐蔽处扎营。还有……|头像=广陵王-微笑}}\n{{旁白|我拉住了缰绳，看向他马鞍上的人头。}}\n{{对话|我|刺客的首级给我。我有事要单独去办，谁都不要跟上。|头像=广陵王-严肃}}\n{{旁白|心理|……已经很久了。}}\n{{旁白|林间偶尔有小兽窜出，舔舐着叶子上的滴血。树上悬着的人头血快滴尽了，在夜风中微微摇晃。}}\n{{旁白|心理|来了吗……}}\n{{旁白|我没有回头。身后有极轻的脚步声传来，和兽类的足迹混在一处。}}\n{{对话|我|许久不见，墨山情况如何？|头像=广陵王-微笑}}\n{{对话|文丑|饥馑之年，我没有办法。}}\n{{对话|文丑|我是个自私的人，从来都只为自己在活，从未考虑过他人的悲喜。此次诸般惭愧，今生都难以偿还。}}\n{{对话|我|若只是为粮米，我可以为你解忧。让死士们回去。|头像=广陵王-微笑}}\n{{对话|文丑|不止是粮米的事。墨山之中的气氛，已经一触即发，难以再维持平静。}}\n{{对话|文丑|与先辈们坚守的信念不同，如今投靠墨家的人，大多并不是因为信念，而是想借着派门名号肆意妄为。}}\n{{对话|文丑|原先只劫掠附近的士族，但士族太难打了，就有人开始把平民打成士族的拥趸，开始劫掠平民。}}\n{{对话|文丑|原先想要的自给自足根本无人在意，吃饱了之后，每个人都想要更多。}}\n{{对话|文丑|前来投奔的家奴求我们去杀了虐待他的主人，烧了奴契。然而不再为奴后，又想把别人变作自己的家奴。}}\n{{对话|我|因果循环，一切陷入死局，你应该像当年的小鸦一样，放任一场大乱，杀掉一半的人，让剩下的一半人在仇恨面前凝聚。|头像=广陵王-严肃}}\n{{对话|文丑|我竟然做不到……台面上，众人仍然在平静的生活，耕地、畜牧、织布……就好像圣贤古籍说的上古之世。}}\n{{对话|文丑|我在我从前梦寐以求的生活里，无论如何，我都不忍打碎它。如果你不希望见到孙策死……就杀了我吧。}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|？？？|你在摇摆吗？文丑。|头像=路人母亲}}\n{{旁白|女声穿过林间，人影从他身后步出。夜色昏暗，我看不清她的面容，只能见到月色在华服上的流光。}}\n{{对话|我|……陈昭。|头像=广陵王-严肃}}\n{{旁白|袁基的母亲，原绣衣楼“侠卿”，后叛变并投靠里八华。从绣衣楼地牢中脱身后，如今已经回到里八华。}}\n{{旁白|她抬手，手指掠过文丑的长发，像搅动一片湖水。文丑没有再说话，只是侧过头，躲开了我的目光。}}\n{{对话|陈昭|我为你们找了许多帮手。只要杀掉孙策，你就可以永远过上平静自足的生活…….|头像=路人母亲}}\n{{对话|陈昭|袁氏和你过往恩怨一笔勾销，复你的官位不过是转念之间。那座墨山方圆数十里都可以属于你们，袁氏会每年供给足够的粮米。|头像=路人母亲}}\n{{旁白|她托住文丑的脸，强迫他看着自己。}}\n{{对话|陈昭|没有人还能给出这样的条件。我可以同时令袁氏和陈氏双方履约，圣贤之族，永不毁约。|头像=路人母亲}}\n{{旁白|然后，她又让文丑转向我，两人一起看向我，只有她笑了。}}\n{{对话|陈昭|孩子，你也可以想想你的退路，我会给你最好的退路。|头像=路人母亲}}\n{{对话|我|多谢夫人，我不需要退路。|头像=广陵王-严肃}}\n{{对话|我|既然文丑有难处，而这难处也不是我一时间就能解决的，我也不强人所难，先告辞了。请。|头像=广陵王-严肃}}\n{{旁白|我留下那些门徒的首级给他，转身离开。}}\n{{对话|陈昭|就这样走了吗？|头像=路人母亲}}\n{{对话|我|嗯？|头像=广陵王-挑眉}}\n{{对话|陈昭|孙策必死无疑，你可杀可生擒。既然来了，何不去里八华做个客呢？|头像=路人母亲}}\n{{旁白|树影后，再度出现了新的人影，每个人都戴着一样的空白面具，无声无息。}}\n{{对话|陈昭|看好了，文丑，这就是我为你选的助力。|头像=路人母亲}}\n{{对话|我|……乌有社……|头像=广陵王-严肃}}\n{{对话|张闿|没想到再次见面，竟是生死局。}}\n{{对话|我|社长，文丑有文丑的难处，我没法为他平难。那么你呢？她开给你的条件，我们之间有谈判的余地吗？|头像=广陵王-严肃}}\n{{对话|张闿|……很可惜，殿下如今的处境，已经让我难以拿所有孩子的命去赌了。}}\n{{对话|我|哈………差点忘了，张社长这边不是什么法外狂徒，接的都是公家间的单子。|头像=广陵王-摇头}}\n{{对话|我|但我也两拳难敌四手，看起来今天是凶多吉少。|头像=广陵王-严肃}}\n{{对话-尾}}\n\n=高阳=\n\n==高阳·一==\n{{对话-头}}\n{{旁白|【地穴】}}\n{{对话|死士|她去哪了？|头像=黑衣人}}\n{{对话|刀斧手|一瞬间就不见了，完全找不到足迹！|头像=山贼甲}}\n{{旁白|我藏身在地穴中，这里的地形多有地道地穴，只是容易被藤蔓掩盖，就好像之前和甘宁进入的那处地穴一样。}}\n{{对话|张闿|她走不远。这里多地穴，应该是藏身在附近某处地穴中。|头像=张闿}}\n{{旁白|心理|……被看穿了。}}\n{{旁白|我转身向地道深处走去，然而……}}\n{{旁白|心理|呃！蝙蝠？！}}\n{{旁白|深处涌出无数蝙蝠，声响回荡。几乎是瞬间，我的背后便感受到了凉意——}}\n{{对话|张闿|你要去哪，孩子？|头像=张闿}}\n{{对话|我|！！！|头像=广陵王-生气}}\n{{对话|张闿|跟我走，我不会伤……|头像=张闿}}\n{{旁白|弩箭打断了她的话。一只手从前方伸来，将我拽向出口！}}\n{{对话|凌统|这边！|头像=凌统}}\n{{旁白|【郊野】}}\n{{对话|我|呃！|头像=广陵王-难受}}\n{{对话|凌统|还好赶上了……唔！！！|头像=凌统}}\n{{旁白|飞镰扎入他肩头，死死勾住血肉。他不得不握住锋利的镰身，避免被生生扯断整条手臂。}}\n{{旁白|一声铿锵，隐光剑斩断镰身。}}\n{{旁白|我拉起他冲向前方马匹，又是两道寒光，飞刀已钉入马颈。后方死士掩杀而来，就在这时，轻骑红衣，似流水而来——}}\n{{对话|孙策|上马！！！|头像=孙策}}\n{{旁白|骑兵临近我们时，侧身将我们拽上马背，甩开那些追兵，朝营地而去……}}\n{{对话|孙策|这么多人来杀我们？厉害啊。下血本了。}}\n{{对话|我|那是真血本。好了，带上甘宁，我们直接去关隘。|头像=广陵王-微笑}}\n{{对话|甘宁|我老妈都来了，你们逃不逃没什么差别，还不如找个舒服点的姿势等死。|头像=甘宁}}\n{{对话|孙策|喂，我们死，你也不会好过啊。你跟张闿早结仇了。}}\n{{对话|甘宁|我就喜欢跟人结仇，不行吗？|头像=甘宁}}\n{{对话|孙策|连个能安心喝酒的好友都没有，不可悲吗？}}\n{{对话|甘宁|就算你的好友能和你安心喝酒，他们给你的也不是纯粹的友爱吧？|头像=甘宁}}\n{{对话|甘宁|但仇恨可是纯粹的，比起不纯粹的爱，我更喜欢纯粹的恨。|头像=甘宁}}\n{{对话|孙策|纯粹的爱自己去争取，哪有人每天烧杀抢掠恩将仇报，还叨叨说别人不爱他的。}}\n{{对话|甘宁|世上没有纯粹的爱。|头像=甘宁}}\n{{对话|孙策|……}}\n{{对话|孙策|好奇怪啊，有光就有影，有恨就有爱，有纯粹的恨，就一定有纯粹的爱啊。}}\n{{对话|孙策|而且，越纯粹的爱和恨才容易酝酿成越纯粹的恨和爱吧？你和你养母现在恨成这样，当年必然是享受过她纯粹的爱啊。}}\n{{对话|孙策|拿起碗吃饭，放下碗骂娘，你这人不道义。}}\n{{对话|甘宁|将军，你说的太有道理了，那就求求将军说和，让凌统和我化敌为友吗？|头像=甘宁}}\n{{对话|凌统|闭嘴。|头像=凌统}}\n{{对话|甘宁|只要凌统都能原谅我，就证明纯粹的恨对应纯粹的爱啊。凌统，这可是你主人说的理论，你该不会想打他的脸吧？|头像=甘宁}}\n{{旁白|他被绑住双手，身体被绑在马上，只能靠近孙策，露出谄媚可怜的假笑。}}\n{{对话|甘宁|将军，这个人太不会看眼色了，让我加入孙氏麾下吧？我可以卖给你黄祖军中的机密……|头像=甘宁}}\n{{对话|孙策|哦？是吗？}}\n{{对话|甘宁|对，前面就是关隘了，让我释出诚意吧？我一定会让将军安然过关的，而且，绝对不会把救命之恩挂在嘴边……|头像=甘宁}}\n{{对话|凌统|不能相信他，孙策将军。|头像=凌统}}\n{{对话|甘宁|太坏了，凌统，怎能因为不想见到我，就让主人冒险闯关呢？|头像=甘宁}}\n{{对话|甘宁|放心，我混上去之后，一定会和你好好相处的……呵呵。|头像=甘宁}}\n{{旁白|凌统没有和他争辩，恢复了沉默。我将伤药打开，交给了他。}}\n{{对话|我|伤口的血止住了吗？再敷些止血草吧。|头像=广陵王-微笑}}\n{{对话|凌统|……多谢。}}\n{{对话|孙策|公绩。|头像=孙策}}\n{{旁白|孙策突然回头。甘宁已经被他交给了副将，带往队伍最前方，听不见我们的声音。}}\n{{对话|孙策|等过关后，就杀了他。}}\n{{对话|凌统|……|头像=凌统}}\n{{对话|凌统|是，属下明白。|头像=凌统}}\n{{旁白|【关隘】}}\n{{旁白|心理|这处关口，兵马并不算多……}}\n{{对话|我|看舆图，出关后便是一线天悬崖，大约两里。穿过悬崖山道，便是泾县，能找到孙氏的援军了。|头像=广陵王-微笑}}\n{{对话|孙策|去吧，甘宁，把关口叫开。|头像=孙策}}\n{{对话|甘宁|喂——我是黄祖麾下将领甘宁，令牌在此，奉命开关！|头像=甘宁}}\n{{旁白|没有疑问，接过他的令牌后，守将很快下令打开了关隘大门。我再次看向甘宁，他的双手和身子都被绑住，无法脱逃。}}\n{{旁白|队伍缓缓进入关隘，没有受到任何阻拦，进入了山道……}}\n{{旁白|【悬崖】}}\n{{旁白|狂风自下而上卷起战袍。所有人都在沉默，仿佛押送死囚的队伍。}}\n{{对话|甘宁|我想问个问题。}}\n{{对话|我|问吧。|头像=广陵王-微笑}}\n{{对话|甘宁|人之将死，其言也善。我猜，你们已经打算将我灭口了。}}\n{{旁白|队伍停下了。凌统勒马，转向了副将。}}\n{{对话|凌统|我们当时因为形势发过誓不会杀他，劳烦副将了。}}\n{{对话|副将|是。交给我吧。|头像=水军乙}}\n{{旁白|他拔刀下马，走向被拖拽下马的甘宁。那人还在笑，浑然无惧。}}\n{{对话|甘宁|孙策，你知道为什么放你们过关吗？|头像=甘宁}}\n{{对话|甘宁|杀你们能得头功，黄祖怕在关隘前动手，会有人来抢功。|头像=甘宁}}\n{{对话|我|选择走这条路之前，就已经传令绣衣楼的人在沿途排查过了，没有埋伏和机关。|头像=广陵王-微笑}}\n{{对话|甘宁|不一定啊。之前没有，不代表之后也没有。|头像=甘宁}}\n{{旁白|风声。忽然，一阵比以往都要来得凛冽的风声，吹过了所有人耳畔……}}\n{{对话|诸葛亮|不对……有人的气息在靠近……}}\n{{对话|诸葛亮|——风筝！是墨家的风筝！}}\n{{对话|孙策|！！！|头像=孙策}}\n{{旁白|高空之上，有人影向我们飘来。那是墨家的死士，背负着巨大的风筝，从另一侧高处的山上乘风而至。}}\n{{旁白|虽然有人被弓兵射中，但夜色昏暗，月色不清，越来越多的人即将落下，已经开始从半空射出弩箭。}}\n{{对话|诸葛亮|风来……|头像=诸葛亮}}\n{{旁白|清风流过，短暂将风筝吹离了原先的落脚点。然而中间有一人竟在半空挣脱了自己的风筝，向我们跃来——}}\n{{对话|许贡|孙策！许贡为报许氏之仇而来！|头像=黑人影}}\n{{对话|孙策|放过你一次、两次、三次，事不过三，这次谁救你都没用了。|头像=孙策}}\n{{对话|我|孙策，冷静。墨家杀你的决心并不算坚定，还有斡旋余地！|头像=广陵王-严肃}}\n{{对话|孙策|你太和善了。这个人已经不止一次想置我于死地了。|头像=孙策}}\n{{对话|孙策|如果这都能忍，往后我凭何立世？|头像=孙策}}\n{{对话|诸葛亮|殿下，那个人——呃！|头像=诸葛亮}}\n{{对话|甘宁|你先下去吧，小弟。|头像=甘宁}}\n{{旁白|那人竟将自己的关节卸开，挣开绳索，再迅速咬着自己的手腕将关节接上，杀伤副官，将离他最近的诸葛亮拽下坐骑。}}\n{{旁白|我在崖边拖住孔明。骤然受惊，龙气失控，少年的眼眸瞬间泛出银白华光，同时九霄之上惊雷鸣响，宛如天劫。}}\n{{对话|诸葛亮|雷鸣！！！|头像=诸葛亮}}\n{{对话|甘宁|唔——|头像=甘宁}}\n{{旁白|天地訇然，雪光百里。所有人都在这等天相面前陷入短暂的震撼，趁此机会，我将他拖上悬崖。}}\n{{旁白|龙鳞纹路在他面颊隐现，鲜血从口鼻处淌出。他勉强支撑住，试图继续控制天相。}}\n{{旁白|落在后方的墨家门徒已经赶至，不知敌我的惨叫声中，不断有人坠落深崖。}}\n{{对话|我|不要缠斗，继续往前！！！孙策！孙策！！！|头像=广陵王-严肃}}\n{{旁白|我看不清他在哪。他应该在我的前方，但在失控的闪电快速明暗之下，一切都变得失真。}}\n{{对话|许贡|我已经没有独活之意！孙策，今日就算是死，我也要把你一起拖下地府！！！|头像=黑人影}}\n{{对话|孙策|下地府？哈，好啊！老子去的地方多了，就是还没去过地府！！！|头像=孙策}}\n{{对话|许贡|一起上路吧……|头像=黑人影}}\n{{旁白|我听见了机括声，闻到了火药被点燃前的刺鼻气味。}}\n{{旁白|心理|同归于尽。}}\n{{对话|我|孙策……|头像=广陵王-微笑}}\n{{旁白|心理|复仇者要带着所有人，在这里同归于尽。}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|诸葛亮|……多谢前辈。|头像=诸葛亮}}\n{{对话|诸葛亮|今日的灵河水，我会记住的。|头像=诸葛亮}}\n{{旁白|倾盆大雨，浇灭了逼命的火光。那人手中还握着机括，怔然看着身上没有爆炸的火药。}}\n{{对话|我|……孙策……|头像=广陵王-严肃}}\n{{旁白|下一刻，刀光一闪。孙策伸手抓住了他的发髻，摘下了许贡的首级。}}\n{{旁白|天地惊雷，宛如天命回响。救下所有人的暴雨停了。而就在转眼间，我拔出隐光，冲向孙策——}}\n{{对话|孙策|？！|头像=孙策}}\n{{对话|我|小心，有人放冷箭！|头像=广陵王-严肃}}\n{{对话|孙策|怎么可能……附近唯一能放冷箭的地方，是远处那座山头……|头像=孙策}}\n{{旁白|我看着地上被隐光一斩为二的箭镞。它比寻常箭镞更大，且用的是雪白的鹄羽。}}\n{{旁白|心理|袁氏大箭……陈昭。}}\n{{旁白|我望向箭来的方向，仿佛透过夜色，与她遥遥相望。突然，一阵令人毛骨悚然的兵刃交击声从后方传来——}}\n{{对话|副将|凌校尉！|头像=水军乙}}\n{{对话|甘宁|很英勇嘛，不过，你是不是忘记了，你发过誓，不能杀我的。|头像=甘宁}}\n{{对话|凌统|……你们先走，我断后。|头像=凌统}}\n{{对话|凌统|孙策将军，带人经过山崖！后面所有人我会拦住的！|头像=凌统}}\n{{对话|死士|不要被他挡住，继续追！为许贡报仇！|头像=黑衣人}}\n{{对话|凌统|不要犹豫，快走！|头像=凌统}}\n{{旁白|我和孙策欲回身，却被众人拦住。此乃绝境，根本不容折返。}}\n{{对话|副将|将军，殿下，快走吧！相信凌校尉！|头像=水军乙}}\n{{对话|孙氏士兵|护送将军离开！快！|头像=水军甲}}\n{{对话|甘宁|快投降吧，凌统。}}\n{{对话|凌统|哈……这样的对话，我好像已经听过了。|头像=凌统}}\n{{旁白|兵马远去，后方缠斗的人影与我们越来越远。}}\n{{对话|甘宁|啊？是吗?}}\n{{对话|甘宁|这次可是真的会死哦，毕竟这些墨家的人不是我的人，不听我的话，好像也不知道你父亲和墨家的交情。}}\n{{对话|凌统|……哈……哈哈……|头像=凌统}}\n{{对话|凌统|道，隐于小成，言，隐于荣华。|头像=凌统}}\n{{对话|甘宁|不要在最后一刻都欺负我没读过书啊。}}\n{{对话|凌统|……与己同则应，不与己同则反。同于己为是之，异于己为非之。|头像=凌统}}\n{{对话|凌统|不悟道，你也终究只是惠子，难成盗跖啊，甘宁。|头像=凌统}}\n{{旁白|他且战且退，半身浴血。不断有弩箭射在这个人的身上，却没有一击能让他倒下。}}\n{{旁白|许贡的尸身倒在那。在抵达它身侧时，凌统拉住了甘宁。}}\n{{对话|甘宁|你要做什么？|头像=甘宁}}\n{{对话|凌统|你不是想一起下地府吗。|头像=凌统}}\n{{旁白|机括声。}}\n{{对话|甘宁|放开我……|头像=甘宁}}\n{{对话|凌统|你怕死吗？|头像=凌统}}\n{{对话|甘宁|……|头像=甘宁}}\n{{旁白|火光明灭。那人死死扣住了他即将拉动机括的手。}}\n{{对话|凌统|明明怕死啊。|头像=凌统}}\n{{对话|凌统|饿了会吃饭，害怕的时候会发抖，困了会睡觉……明明也只是个普通人。|头像=凌统}}\n{{对话|甘宁|……|头像=甘宁}}\n{{对话|凌统|放手吧。放手，我就原谅你。|头像=凌统}}\n{{对话|甘宁|……|头像=甘宁}}\n{{对话|凌统|哈，骗你的。|头像=凌统}}\n{{旁白|——夜色下，后方的悬崖山道被巨大的爆炸撼动，化入冲天火光之中。}}\n{{旁白|没有人从那里出来。}}\n{{对话-尾}}\n\n==高阳·二==\n{{对话-头}}\n{{旁白|【郊野】}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|孙策|……我好像……听见公绩的声音了。|头像=孙策}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|副将|……将军，前方有一处山村，略作停歇吧。|头像=水军乙}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|我|孙策，好好歇息吧。奔波一整夜了。|头像=广陵王-微笑}}\n{{对话|孙策|……嗯。|头像=孙策}}\n{{旁白|我伸手揉了揉他的头，他缓缓合上双眼，轻声叹息。}}\n{{旁白|【山村】}}\n{{旁白|心理|真是个难得平静的地方啊……}}\n{{旁白|和一路上的萧索孤寂相比，这处山村带着某种避世的安定感。我们到的时候引起了村中的犬吠，有几名民兵出来了。}}\n{{旁白|队伍只余不到三十人，伤亡惨重。}}\n{{对话|民兵|借宿？你们是军队吧？|头像=山贼乙}}\n{{对话|民兵|我们不想惹上麻烦，村庄也没有多余的粮米能招待你们……|头像=山贼乙}}\n{{对话|老人|最近往来的兵马很多，有江东的，有荊州的，之前黄祖的手下也来借宿过，都拿来招待他们了……|头像=老年男}}\n{{对话|孙策|……换个地方吧。再往前走，就有自己人了。|头像=孙策}}\n{{对话|民兵|那就好，调头吧，朝那里有条还算平缓的山路……|头像=山贼乙}}\n{{对话|颜良|殿下？|头像=颜良}}\n{{对话|我|……哎？|头像=广陵王-惊讶}}\n{{旁白|我听见了意外的声音。}}\n{{对话|颜良|殿下？真的是殿下？}}\n{{对话|民兵|颜良使君？你认识他们吗？|头像=山贼乙}}\n{{对话|颜良|认识，这位是……}}\n{{旁白|他看向我的神情，也意识到我此刻的身分已经是反贼了，不能公布。}}\n{{对话|颜良|……是一位故友，并非恶人。可否留他们休憩？}}\n{{对话|颜良|也不算人数太多，他们借宿的饮食，我之后会设法补上的。}}\n{{对话|民兵|既然是颜良使君担保的人……|头像=山贼乙}}\n{{对话|老人|那就放进来吧？毕竟使君在这里帮了我们不少忙呢。|头像=老年男}}\n{{旁白|【民居】}}\n{{对话|我|好暖和……|头像=广陵王-微笑}}\n{{对话|颜良|将军和殿下都累了吧？我看着火，二位安心歇息便是。}}\n{{对话|孙策|……多谢。我会记下的。|头像=孙策}}\n{{对话|颜良|小事而已，将军切莫如此。}}\n{{对话|我|你为何会在这里？|头像=广陵王-挑眉}}\n{{对话|颜良|啊，说来是为了私事……文丑最近不知怎么的，愿意和我下山，往故居祭祀。}}\n{{对话|颜良|他从前对颜氏的过往深恶痛绝，但既然愿意，我自然会陪他来。}}\n{{旁白|心理|也是，他不是墨家门徒，并不知道文丑下山的目的……}}\n{{对话|颜良|他好像要先带人去做些门内的私事……也不知是何事，只说，做成此事后，往后便再无烦恼了。}}\n{{对话|颜良|我不问他那边的事，约好在这里等，等他办完了派门的事再来会合。没想到，会在这里遇到殿下。}}\n{{对话|颜良|啊，粥米好了，喝些热粥吧……孙策将军？}}\n{{对话|孙策|……好。|头像=孙策}}\n{{对话|孙策|味道好香……|头像=孙策}}\n{{对话|颜良|加了些肉脯，村民们送的，这里的人虽然经过战乱，但都很和善。}}\n{{对话|颜良|殿下如果能停留久些就好了。说不定再过几日，文丑他们就回来了。众人许久不见，殿下当年对我们大恩，我们至今铭记。}}\n{{对话|我|言重了。将军乃重信诺之人，那，我也愿意坦诚相告……|头像=广陵王-微笑}}\n{{对话|孙策|要与他说吗？|头像=孙策}}\n{{对话|我|我相信颜良将军。将军，不瞒你说，文丑下山，是为了刺杀孙策。|头像=广陵王-严肃}}\n{{对话|颜良|……什么？}}\n{{对话|颜良|不，此间必有误会！我们和将军素无恩怨，他为何要行刺？}}\n{{对话|我|墨家此次被里八华收买，你也许并不知道派门内情，文丑已经左支右绌，难以继续稳定山上的局面。|头像=广陵王-严肃}}\n{{对话|我|他一直不愿让你觉察，也没有魄力让墨家大破大立。为了存续现在的生活，只能答应里八华的条件。|头像=广陵王-严肃}}\n{{对话|颜良|我们好不容易摆脱了袁氏的恩怨，为何要再度涉入山外恩怨……}}\n{{对话|颜良|我会劝说他的，殿下，让我和他见面，我一定会说服他放弃的！}}\n{{对话|孙策|你若与此事无关，可以不必卷入。|头像=孙策}}\n{{对话|孙策|你们已经退隐，他愿意冲入乱世，且隐瞒于你，便是为了让你避开这些恩怨。|头像=孙策}}\n{{对话|我|……孙策。|头像=广陵王-严肃}}\n{{对话|孙策|不用和谈。|头像=孙策}}\n{{对话|孙策|局势已经到了这个地步，让我成为所有人目标也好，由我掩护你北上，去见刘虞。|头像=孙策}}\n{{旁白|他放下碗，换了坐姿，正襟危坐。}}\n{{对话|孙策|死士，有为义，有为利。}}\n{{对话|孙策|他们说的不错，我不算是个道义德行无懈可击的人，我杀过许多人，里面也有无辜者。若论该死，我从不狡辩。}}\n{{对话|孙策|罪孽，我做下了，我认。报应要来便来，与其苟头缩颈地活到终老，我宁可问心无愧战死。}}\n{{对话|孙策|我只有一件事。如果我死在途中，请你看在往日她对你们的恩德上，继续护送她去幽州。}}\n{{对话|孙策|她这人讲道义，不好意思拿往日恩情开口，所以我来说。}}\n{{对话|颜良|将军言重。末将如今得知此事，哪怕将军不开口，末将也会站在殿下这边。|头像=颜良}}\n{{对话|我|不要说这些不详的话。我们已经到泾县了，你只要南下，很快就能回扬州。|头像=广陵王-摇头}}\n{{旁白|忽然，门外响起了叩门声，一名老妇人的声音从外传来。}}\n{{对话|老妇人|客人，夜深天寒，老身来送炭。|头像=老年女}}\n{{旁白|颜良请她入内。老人将烧红的炭火加入炉中，室内顿时暖和了不少。我们谢过她，她出门时一个踉跄，扶着我才勉强站稳。}}\n{{对话|我|小心些，老人家。|头像=广陵王-微笑}}\n{{对话|老妇人|多谢……|头像=老年女}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|孙策，我有事出去一趟，很快回来。|头像=广陵王-微笑}}\n{{旁白|【山村】}}\n{{对话|我|我来了。|头像=广陵王-微笑}}\n{{对话|张闿|不要站在那，过来。}}\n{{对话|张闿|里八华的眼线太多了，你要谨慎。}}\n{{对话|我|在林间时，多谢社长留手。|头像=广陵王-微笑}}\n{{对话|张闿|呵呵……看出来了呀。}}\n{{旁白|我们站在屋檐下的暗处，她拉住我的手，掌心冰冷，是她将一个小药瓶交到了我手中。}}\n{{对话|张闿|里面的药，可以令你们暂时闭气数个时辰。}}\n{{对话|我|……假死药？|头像=广陵王-惊讶}}\n{{对话|张闿|你们救过阿慈，我会替他报答的。记住，一刻之后，我的孩子们和墨家的人就到了。}}\n{{对话|张闿|去村子东边屋顶上有红花的废弃民居，然后吃下药。具体的细节我会安排，附近已经备好了顶替你们的尸身。}}\n{{对话|我|我会派人接应的。在最近的河岸渡口。|头像=广陵王-严肃}}\n{{对话|张闿|我不能暴露帮你之事，最多只能安排到偷梁换柱的那一步。之后的路，你们要自己走了。}}\n{{旁白|近处的黑暗寂静了。说完最后一句话，她便消失在了夜色中，只有手中的药瓶告诉我，她真的来过。}}\n{{旁白|就要到最后一步了。离开泾县，我往北，走高阳至幽州。孙策南下回扬州。}}\n{{对话|诸葛亮|殿下？殿下？}}\n{{对话|我|……孙策让你来找我？|头像=广陵王-挑眉}}\n{{对话|诸葛亮|对，殿下出来太久了，他不放心。}}\n{{对话|我|没事。对了，孔明。|头像=广陵王-摇头}}\n{{旁白|我拉住了他，将他推往村口的方向。}}\n{{对话|诸葛亮|……殿下？}}\n{{对话|我|回家。|头像=广陵王-微笑}}\n{{对话|我|这里回南阳不算太远。你离家够久了，快回去吧，别让家人们担心了。|头像=广陵王-微笑}}\n{{对话|诸葛亮|但是……}}\n{{对话|我|放心吧，接下来就是一帆风顺了。回家，听话。|头像=广陵王-微笑}}\n{{旁白|我拍了拍他的肩，示意他离开。}}\n{{对话|我|孔明，不要担心。你能看见天命的。|头像=广陵王-微笑}}\n{{对话|诸葛亮|如果是说各人的天命，我不担心殿下，我担心的是……孙策。}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|小小年纪，哪来那么多的担忧啊。你这话可千万不能让他知道，他最恨装神弄鬼了。|头像=广陵王-摇头}}\n{{对话|诸葛亮|……是。学生明白了。}}\n{{对话|我|快去吧，这里马上……就要变成战场了。|头像=广陵王-严肃}}\n{{旁白|我让他离开了。他踌躇而去，频频回头，直到彻底看不见。}}\n{{旁白|月色被乌云笼罩，这个夜晚格外漫长。当我回到室内的时候，外面响起了戒备声……}}\n{{对话|副将|有刺客！|头像=水军乙}}\n{{对话-尾}}\n\n==高阳·三==\n{{对话-头}}\n{{旁白|【村东民居】}}\n{{对话|孙策|……你相信她？}}\n{{对话|我|对，你相信太史慈，你就该相信她。|头像=广陵王-点头}}\n{{对话|孙策|甘宁也是她带出来的。}}\n{{对话|我|咳。总之，我替她担保。一起把药吃了。|头像=广陵王-汗颜}}\n{{对话|孙策|万一不是假死药，那就真的……哈。}}\n{{对话|我|哈哈……那就到地下当一对傻子情侣啊。|头像=广陵王-微笑}}\n{{对话|我|这样傻的，下辈子能当什么呀？我想想，大头金鱼好像很傻，就当一对大头金鱼吧？|头像=广陵王-微笑}}\n{{旁白|他低头笑着，再抬头时，我们一起吃下了药。}}\n{{对话|孙策|那，地下见。}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|陈昭|都死了吗？|头像=路人母亲}}\n{{对话|华胥死士|是，已经验过了。这是两人的头颅。|头像=黑人影}}\n{{旁白|……}}\n{{旁白|…………}}\n{{旁白|【郊野】}}\n{{旁白|我从水边漫长的蒹葭丛中探出头，看向远处另一端河岸边的小舟。}}\n{{旁白|那是原来安排在那里等候接应的绣衣楼密探。按照原计划，张闿的人会把假死的我和孙策带往此地，而假尸身则留给陈昭。}}\n{{旁白|心理|然而……}}\n{{旁白|心理|我没有吃下假死药我，我直接带走了假死的孙策，也就是说，张闿的人并无法将我们带来，因此不会有人来。}}\n{{旁白|我在远处潜伏，等了许久。终于，有人来了。}}\n{{旁白|是陈昭。她派人和岸边准备接应的密探接头，在确认我们是否有出现。}}\n{{旁白|心理|——张闿确实想帮我们活下去，但是，绣衣楼眼下仍能在外活动的人被渗透了。}}\n{{旁白|心理|不知能拖延多久，他们不会被村庄附近我伪造的下落迷惑太久，得抢在他们前面，先把孙策送到附近的孙氏麾下。}}\n{{旁白|心理|上方有绣云鸢？不对！是敌方内奸放出的绣云鸢！}}\n{{旁白|我匆忙带孙策躲之树下，避开内奸的查探。就在这时，一声哀鸣，鸢被射落了。远处，颜良骑在马上，手握弓箭，遥遥向我们望来。}}\n{{旁白|他调转马头，扬鞭远去。有人被他引走，被他引向南辕北辙的方向。}}\n{{旁白|已经入夜了。头顶时而徘徊的危机，终于减轻了一些。}}\n{{旁白|心理|就在前面了……}}\n{{对话|孙策|唔……|头像=孙策}}\n{{对话|我|你醒了吗？|头像=广陵王-微笑}}\n{{对话|孙策|……我们还……活着吗？|头像=孙策}}\n{{对话|我|嗯，张闿是对的，只是转移的道路被敌人渗透了，我只能带你走另一条路。|头像=广陵王-点头}}\n{{对话|我|就在前面，我记得那座城池，是由你舅舅吴景的门生担任长官。把你送到那，我就放心了。|头像=广陵王-微笑}}\n{{对话|孙策|等等。|头像=孙策}}\n{{旁白|他勉强站住了，拦住了我。}}\n{{对话|孙策|前面有人。把我的战刀拔出来……|头像=孙策}}\n{{旁白|蒹葭如雪，在我们前方等候的，是一道华服流丽的身影。}}\n{{对话|陈昭|我就知道，你和刘复一样，喜欢耍小聪明。|头像=路人母亲}}\n{{对话|陈昭|只剩你们俩了。来吧，文丑，验证你们忠心与否的时间到了。|头像=路人母亲}}\n{{旁白|身后蒹葭摇动，那人现身，神色肃穆。}}\n{{对话|我|……文丑。|头像=广陵王-严肃}}\n{{对话|文丑|我们来取孙策的性命，殿下，请让开。}}\n{{对话|我|杀了孙策，然后呢？|头像=广陵王-挑眉}}\n{{对话|我|一切不会好转。扬州会重新回到士族手上，你们也是。|头像=广陵王-摇头}}\n{{对话|我|你们当年经历的一切，都要重新再经历一遍。你们从哪里挣扎逃离，就又会回到哪里。|头像=广陵王-严肃}}\n{{对话|文丑|……}}\n{{对话|文丑|哈哈……来的路上，我见到颜良了。他和殿下劝了我一样的话。}}\n{{旁白|他握紧了手中的兵刃，疲惫地垂下眼。}}\n{{对话|文丑|……我们是不是……已经回不去想要的生活了？}}\n{{对话|陈昭|我会给你们更好的生活。想想我的条件。|头像=路人母亲}}\n{{对话|文丑|更好的生活……}}\n{{旁白|他侧头轻笑，消瘦的脸庞，被火光投落可怜的阴影。}}\n{{对话|文丑|诸君，想要这种生活吗？}}\n{{对话|死士|钜子，我们既然已经答应了，便没有退路了。|头像=黑衣人}}\n{{对话|刀斧手|是啊，如果成功便是一步登天，再也不用回墨山种地了！|头像=山贼甲}}\n{{对话|刀斧手|钜子难道想终身隐匿林间吗？从前我们是时运不济才只能四处躲藏，如今有陈氏和袁氏作保，何不乘风而起？|头像=山贼甲}}\n{{对话|文丑|……哈哈……哈哈哈……我真是做了一件蠢事啊……}}\n{{对话|文丑|我以为我这样就能保证梦寐以求的生活，但其实从一开始，它就不存在……}}\n{{旁白|他身边的气氛变了。门徒们的神色从迷茫变得诧异，然后浮现出不约而同的杀意。}}\n{{对话|文丑|若鸦钜子在，她会让你们去死。}}\n{{对话|死士|那你先去死吧。|头像=黑衣人}}\n{{对话|死士|我们都受够了在墨山上磋磨，种不完的地，守不完的规矩。|头像=黑衣人}}\n{{对话|刀斧手|喂，我们杀了他，再杀孙策，你的条件不变吗？|头像=山贼甲}}\n{{对话|陈昭|请。|头像=路人母亲}}\n{{旁白|话音落，被压抑的杀意瞬间沸反盈天，兵刃转向文丑，寒光淹没于蒹葭。他几乎没有抵抗，血色瞬间在白雪般的蒹葭上翻涌。}}\n{{对话|死士|接下来就是孙策！别让他……|头像=黑衣人}}\n{{对话|死士|……呃……别让……他……|头像=黑衣人}}\n{{旁白|他难以置信地低头，看自己口鼻处涌出的血，再茫然回头，看向同样毒发的同伴，紧接着，人们一个接一个，陆续倒落在了蒹葭之上。}}\n{{对话|文丑|……快走吧，殿下……|头像=文丑}}\n{{对话|文丑|……我已经……想好了……所以来之前……在所有人的水里……下了毒……|头像=文丑}}\n{{对话|刀斧手|你……呃……你……|头像=山贼甲}}\n{{对话|文丑|我没能尽义啊……钜子……我终究还是……|头像=文丑}}\n{{旁白|火色从濒死之人手边亮起，微小的火苗瞬间引燃蒹葭飞絮，让烈火以难以置信的速度蔓延——}}\n{{对话|文丑|……走啊，广陵王……|头像=文丑}}\n{{对话|文丑|若有来世，我一定会……会为你守城，结草衔环……|头像=文丑}}\n{{旁白|那是他的最后一句话，话语被火光淹没，与无尽的蒹葭飞火一起化为青烟。}}\n{{旁白|烈火也逼出了蒹葭海中潜伏的其他死士，火光中，没有人分得清敌我。我们只能盯紧远方的城池影子，不断朝那里跋涉……}}\n{{对话|我|孙策，拉紧我的手！|头像=广陵王-生气}}\n{{对话|孙策|咳……好，你往前，我替你断后！|头像=孙策}}\n{{对话|孙策|烟雾越来越大了……咳……原来……哈哈……|头像=孙策}}\n{{对话|我|咳咳……少说几句……哈……|头像=广陵王-难受}}\n{{对话|孙策|原来爱玩火的不止江东人啊？哈哈……|头像=孙策}}\n{{对话|孙策|我们悄悄地走……借着火色，他们追不上我们呢。|头像=孙策}}\n{{对话|我|嗯。|头像=广陵王-微笑}}\n{{对话|孙策|喂，我说啊……你要去幽州多久？|头像=孙策}}\n{{对话|我|几个月……？|头像=广陵王-挑眉}}\n{{对话|孙策|那可真久啊……你别停啊，继续走，我都没停呢。|头像=孙策}}\n{{对话|我|你的手好凉……|头像=广陵王-难过}}\n{{对话|孙策|那是因为四周太热了。快，他们都被甩在后面了……|头像=孙策}}\n{{对话|孙策|幽州……一定有雪吧……我长这么大，都没见过几次雪呢……|头像=孙策}}\n{{对话|孙策|白色的，松软的……像米饭一样……|头像=孙策}}\n{{对话|我|是啊……|头像=广陵王-点头}}\n{{对话|孙策|你怎么又停下了呀……就快到了呢。|头像=孙策}}\n{{对话|我|……快到了……|头像=广陵王-严肃}}\n{{对话|我|看，孙策，我们快到了……|头像=广陵王-微笑}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|孙策|好暖和……|头像=孙策}}\n{{对话|我|孙策？|头像=广陵王-挑眉}}\n{{对话|孙策|……拉着我的手，好暖和啊……|头像=孙策}}\n{{对话|我|……孙策？|头像=广陵王-惊讶}}\n{{对话|孙策|……我想……妈妈了……|头像=孙策}}\n{{对话|孙策|我出门前，还没有和她……道别呢……|头像=孙策}}\n{{对话|我|……孙策……|头像=广陵王-难过}}\n{{旁白|他倚靠在我肩头，缓缓向下倒去。背后，是不断在烈火中灼烧的白羽箭翎。}}\n{{对话|我|……|头像=广陵王-难过}}\n{{对话|我|快走！呃——我、我会拽着你走的！|头像=广陵王-难受}}\n{{对话|我|孙策！别担心！我不会丢下你的！不管多重的伤……只要到了那里……只要……|头像=广陵王-难过}}\n{{对话|我|不要怕！不要松开我！你为什么不理我……为什么不回答我……|头像=广陵王-流泪}}\n{{对话|我|一定是困了吧？没关系，交给我……我会带你走的……呃！|头像=广陵王-难过}}\n{{旁白|箭翎穿越火海，朝我射来。就在这时，一只手从前方的蒹葭丛中伸出，用力把我拽开——}}\n{{对话|虞翻|你在、你在做什么啊？！快躲开啊！！！|头像=虞翻}}\n{{对话|我|虞翻……|头像=广陵王-难过}}\n{{对话|虞翻|呃！快点！把他的手也给我……啊……他……|头像=虞翻}}\n{{对话|我|他没事！他什么事都没有！|头像=广陵王-难过}}\n{{对话|虞翻|……|头像=虞翻}}\n{{对话|虞翻|好……他没事……快，走这里！|头像=虞翻}}\n{{对话|虞翻|把他给我背着，我力气大！别犹豫了！|头像=虞翻}}\n{{旁白|他重重推了我一把，将我推离火海。}}\n{{对话|虞翻|好了……快，到那块石头后面，就能活下来了……|头像=虞翻}}\n{{旁白|他将孙策还给了我，催促我往前走。我攀过了石块，躲开了头顶的箭镞，回身将手伸向他。}}\n{{对话|我|你在找什么？|头像=广陵王-难过}}\n{{对话|虞翻|……凌哥呢？|头像=虞翻}}\n{{对话|我|……|头像=广陵王-难过}}\n{{对话|虞翻|那……钜子呢？|头像=虞翻}}\n{{旁白|她已经从我的眼神里读到了答案，眼中浮出泪光，却努力眨眼，不让自己哭出来。}}\n{{旁白|就在我拉住他的瞬间，一团已经烧成火球的人影，从蒹葭火海中扑了出来，撞在他的身上——}}\n{{对话|华胥死士|啊啊啊啊啊！啊啊啊啊——|头像=黑人影}}\n{{对话|虞翻|呃！|头像=虞翻}}\n{{对话|我|虞翻！|头像=广陵王-生气}}\n{{对话|虞翻|没事的……只是撞了一下……|头像=虞翻}}\n{{旁白|他拉着我，也攀过了石块，脱离火海。夜色被下方的火海照得宛如白昼，模糊了光影和生死。}}\n{{旁白|我带着他们，继续朝远处城池的方向走去。不知为何，虞翻越走越慢，拉着我袖子的手，力道也越来越小。}}\n{{对话|虞翻|……你先走吧，别管我们了……|头像=虞翻}}\n{{对话|我|这是什么话？到了城里，找到医师，好好休息一下就能醒过来了！|头像=广陵王-生气}}\n{{对话|虞翻|……我好冷……我想……歇一歇……|头像=虞翻}}\n{{对话|我|不行！还有人在附近，虞翻？仲翔？|头像=广陵王-难过}}\n{{对话|虞翻|……|头像=虞翻}}\n{{旁白|我试着把他架起来，手下却摸到了一片温热的湿润。}}\n{{旁白|——那个人撞上他时，在他腰腹留下了一处深深的刀伤，只是因为黑衣的缘故，看不见晕染开的血色。}}\n{{对话|我|虞翻……啊！|头像=广陵王-难过}}\n{{对话|颜良|殿下，是我！|头像=颜良}}\n{{旁白|我抬头看向停在前方的颜良，他翻身下马，错愕的看着虞翻和孙策。}}\n{{对话|我|你能先策马带他们去前面的城池吗？他们伤得有些重……|头像=广陵王-严肃}}\n{{对话|颜良|……文丑他们呢？|头像=颜良}}\n{{旁白|我摇了摇头。他已然知晓，在片刻的安静后，将马匹的缰绳交到了我手上，然后抱起了虞翻。}}\n{{对话|颜良|它可以带动两个人。我带小虞走。}}\n{{对话|我|你要去哪？}}\n{{对话|颜良|我们要回家了。}}\n{{旁白|他没有再回答我，只是抱着虞翻，一步一步走远，最后，彻底步入了火中。}}\n{{旁白|马匹的嘶鸣、蒹葭的灼烧……我带着孙策，在火舌的追逐前抵达了那座城门。}}\n{{旁白|跌落马背的瞬间，不知是不是幻觉，我见到了那道熟悉的人影……}}\n{{对话|我|……救……|头像=广陵王-难过}}\n{{对话|我|……救救他，兄长……|头像=广陵王-难过}}\n{{对话|周瑜|医师！快让医师来！——快醒醒！不能睡！快醒醒！|头像=周瑜}}\n{{对话|周瑜|伯符？伯符？……伯……符……？|头像=周瑜}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|孙策|醒醒，怎么还在睡啊？|头像=孙策}}\n{{旁白|心理|……是孙策的声音……}}\n{{旁白|心理|果然，是噩梦吧。}}\n{{对话|孙策|我要走了，你来送送我吗？|头像=孙策}}\n{{旁白|心理|你要去哪？}}\n{{对话|孙策|唔……陪你去幽州？哈哈……反正，去很远的地方就对了。|头像=孙策}}\n{{对话|孙策|但是，说不定会回来呢？恨我的神棍那么多，就像那个干吉，搞不好手上有我的头发，天天行巫蛊术。|头像=孙策}}\n{{旁白|心理|不要走。}}\n{{对话|孙策|不行的呀……|头像=孙策}}\n{{对话|孙策|终究啊，终究还是……|头像=孙策}}\n{{对话|孙策|没能陪你，走到最后。|头像=孙策}}\n{{对话|孙策|我回战船上了。你如果遇到我，要挡住我，叫住我呀。|头像=孙策}}\n{{旁白|【高阳】}}\n{{对话|周瑜|……就送到这里，没问题吗？}}\n{{对话|我|我已经没事了。|头像=广陵王-摇头}}\n{{对话|周瑜|我接到了小荀老师的信，他说，他会和你在幽州会合。}}\n{{对话|周瑜|你要不要再等等他，等他到了再一起走，有个助力。}}\n{{对话|我|已经耽搁太久了。幽州的雪会越来越厚，路会越来越难走。|头像=广陵王-严肃}}\n{{对话|周瑜|我需要留在这，稳定江东的局面，不能离开太远。}}\n{{对话|周瑜|到了幽州后，要尽快回信。无论和刘虞的事成或不成，都不要勉强。}}\n{{对话|我|知道了。那，我动身了。|头像=广陵王-点头}}\n{{旁白|我翻身上马，最后回头向他挥手，然后向前出关，策马入茫茫白雪之中……}}\n{{旁白|【幽州】}}\n{{旁白|长途跋涉后，我们终于抵达了幽州，然而，离刘虞所处的治所，尚有很远的路……}}\n{{对话-尾}}\n\n\n<center>{{回到顶部|尾}}</center>"
+}

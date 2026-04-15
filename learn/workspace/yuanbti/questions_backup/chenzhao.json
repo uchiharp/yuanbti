@@ -1,0 +1,41 @@
+[
+  {
+    "id": "q_chenzhao_1",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "陈昭",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼中，你接到一道密令——去接近一位手握重兵的诸侯，获取他的军力部署。对方为人多疑，对陌生人极不信任。你需要在短时间内取得他的好感。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "以真实身份接近，坦诚相待，用诚意打动他。",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "伪装成落魄书生，以才华引起他的注意和怜惜。",
+        "scores": {
+          "S4": 3.5,
+          "S1": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "以商人身份混入，不刻意表现，等他主动注意到你。",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈昭是绣衣楼中最擅长伪装的密探之一——在代号鸢的世界中，面具不仅是保护色，更是武器。"
+  }
+]

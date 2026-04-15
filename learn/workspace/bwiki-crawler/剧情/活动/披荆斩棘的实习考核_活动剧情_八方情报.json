@@ -1,0 +1,558 @@
+{
+  "title": "披荆斩棘的实习考核/活动剧情/八方情报",
+  "category": "活动剧情",
+  "characters": [
+    "刘繇",
+    "士燮",
+    "孔融",
+    "张燕",
+    "张辽",
+    "张郃",
+    "戏学",
+    "我",
+    "董奉",
+    "虞翻",
+    "诸葛瑾",
+    "诸葛诞",
+    "阿蝉"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "呕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "应该没什么问题……只是喝了杜鹃花苗熬的羹，胃里会不太舒服而已。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……我以为那是菜苗……呕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "喝些紫苏汤催吐吧？全吐出来会舒服些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "……多谢医师……唔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "在榻上躺着歇息片刻吧。这里是给病患休息的房间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "不，我死也不会……在这个人眼前歇息……唔啊什么东西从屋顶上砸下来了？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "呃呃……屋顶居然……破了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "使君为什么躲在屋顶上？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "狗！这鬼地方到处都是狗！那个北方蛮子的狼狗硬生生把我追到爬屋顶！啊啊……我的脚踝……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "好了，两个病患变三个了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "痛！轻一点！你胆子是越来越大了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "使君说的极是！此人人面兽心，假借行医之名行暴虐之事，满手血腥、目无法纪、仗势欺人、胡作非为！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "准备固定夹板了哦。咔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "没那么痛的。你再这样虚张声势我就跑了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "使君！让他跑吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "跑？你还想跑？当年从交趾跑到中原，现在还想跑去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "当年你不打我能跑吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "你不跑我能打吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "我根本没想跑，是你先打的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "当年我若不打你就跑了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "所以是你打了我才跑的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "狡辩，你不跑我能打吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……前辈，他们到底跑不跑？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "已经完全听不懂他们吵架用的方言了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "他们……他们好像快吵完了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "嗯……应、应该快吵完了，他快没气了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……呼……呼……你当年……你当年一定密谋投靠杨氏，叛变士氏……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "意义是？换一个地方当家奴吗？说句实话，当年士氏给我的待遇还不错的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "当然……呼……当然不错！我可是……呼……我可是以长兄之礼给足了你待遇……呼……你居然还想投靠杨氏……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "所以他为什么要投靠杨氏……虽然我不知道杨氏是谁……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "因为他想跑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "你不打我能跑吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "你不跑我能跑……不……呼……你不打我能……不……呼……呼……你不跑我能打吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "阿瑾，干嘛对着妆奁叹气？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "明日就是孔融夫子的生辰，我想送一盒胡粉作贺礼。可这种蛤粉混豆粉的劣等品，根本拿不出手……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "向殿下借两盒珍珠粉？反正张邈送得多，殿下也用不完。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "不行！这个月已经向殿下借了三次白盐和米粮，绝不能再去借了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "死要面子活受罪……我去想想办法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=刘繇",
+      "emotion": "阿休来了啊……借胡粉？随意！前些天门客运的节礼，这两盒差不多值百金，都拿去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "一盒就够了，两盒都拿回去我哥得撞墙。多谢繇哥！繇哥慷慨！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=刘繇",
+      "emotion": "走得这么匆匆忙忙……这盒子上写得什么字，先前还没留意过―—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=刘繇",
+      "emotion": "“上等细磨白胡椒粉”？嗯……这有胡也有粉，应该没问题吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "咳……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "去取些清水来。孔君无事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "学生……学生疏漏，竟错送了他物，万分惭愧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "虽然送错了，也是价值连城的白胡椒粉，是从哪来的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "根据密报，昨天诸葛瑾暗中见过刘繇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "不是我！肯定是阿诞！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=刘繇",
+      "emotion": "嗯……今天的舞曲少了些意趣……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "见过刘繇使君！使君，在下前来，是想问……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=刘繇",
+      "emotion": "阿休啊，今天又来了？来！酒温得刚好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "不，稍等。我不是……等一下……别、别拉我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=刘繇",
+      "emotion": "今天怎么打扮得这么素净？啊，不过这样的装束跳公莫舞一定格外风流，试试吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "住手！我不是——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=刘繇",
+      "emotion": "上台上台，哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "住手啊！使君自重、使君自重——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "根据密报，诸葛瑾今日在宴上跳了公莫舞。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽",
+      "emotion": "盯着我看半天，想干嘛？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "战妆，好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽",
+      "emotion": "战妆？你是说这个刺青？哼……你脸上的，也不错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "坐好别动，我要开始画——怎么是螺黛？朱砂呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "换，青黑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "青黑就青黑吧……嗯？只要画在右眼旁边？那其他位置都不画了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "什么？脖子也要画？为什么啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "嗯，嗯！照这个，花纹，我描下的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "啊，是遇到什么新人了，想照着对方的刺青画吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "嗯，嗯！"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"披荆斩棘的实习考核/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''八方情报'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "八方情报·一"
+    },
+    {
+      "type": "narration",
+      "text": "八方情报·二"
+    },
+    {
+      "type": "narration",
+      "text": "八方情报·三"
+    },
+    {
+      "type": "narration",
+      "text": "八方情报·四"
+    },
+    {
+      "type": "narration",
+      "text": "八方情报·五"
+    },
+    {
+      "type": "narration",
+      "text": "八方情报·六"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background7B5F44;colorF2E3C6;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%AE%9E%E4%B9%A0%E8%80%83%E6%A0%B8/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%85%AB%E6%96%B9%E6%83%85%E6%8A%A5",
+  "crawled_at": "2026-04-12T22:03:53.792869",
+  "raw_wikitext": "[[分类:活动剧情]]\n{{回到顶部|头}}\n{{面包屑|2025活动剧情|披荆斩棘的实习考核/活动玩法}}{{JS|Qiantao.js}}{{背景图片|{{filepath:披荆斩棘的实习考核背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">披荆斩棘的实习考核</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|披荆斩棘的实习考核/活动剧情|导入剧情}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/武技切磋|武技切磋}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/账务速算|账务速算}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/八方情报|八方情报}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/巧匠精工|巧匠精工}}\n</center>\n</div></div>\n\n<center>\n='''八方情报'''=\n</center>\n==八方情报·一==\n{{对话-头}}\n{{旁白|【庭院】}}\n{{对话|张郃|呃……|头像=张郃}}\n{{对话|虞翻|呕……|头像=虞翻}}\n{{对话|董奉|应该没什么问题……只是喝了杜鹃花苗熬的羹，胃里会不太舒服而已。|头像=董奉}}\n{{对话|虞翻|……我以为那是菜苗……呕……|头像=虞翻}}\n{{对话|董奉|喝些紫苏汤催吐吧？全吐出来会舒服些。|头像=董奉}}\n{{旁白|<hr>}}\n{{对话|张郃|……多谢医师……唔。|头像=张郃}}\n{{对话|董奉|在榻上躺着歇息片刻吧。这里是给病患休息的房间。|头像=董奉}}\n{{对话|虞翻|不，我死也不会……在这个人眼前歇息……唔啊什么东西从屋顶上砸下来了？！！|头像=虞翻}}\n{{对话-尾}}\n\n==八方情报·二==\n{{对话-头}}\n{{旁白|【室内】}}\n{{对话|士燮|呃呃……屋顶居然……破了……|头像=士燮}}\n{{对话|张郃|使君为什么躲在屋顶上？|头像=张郃}}\n{{对话|士燮|狗！这鬼地方到处都是狗！那个北方蛮子的狼狗硬生生把我追到爬屋顶！啊啊……我的脚踝……|头像=士燮}}\n{{对话|董奉|好了，两个病患变三个了。|头像=董奉}}\n{{旁白|<hr>}}\n{{对话|士燮|痛！轻一点！你胆子是越来越大了！|头像=士燮}}\n{{对话|虞翻|使君说的极是！此人人面兽心，假借行医之名行暴虐之事，满手血腥、目无法纪、仗势欺人、胡作非为！|头像=虞翻}}\n{{对话|董奉|准备固定夹板了哦。咔。|头像=董奉}}\n{{对话|士燮|啊啊啊——|头像=士燮}}\n{{对话|董奉|没那么痛的。你再这样虚张声势我就跑了。|头像=董奉}}\n{{对话|虞翻|使君！让他跑吧！|头像=虞翻}}\n{{对话-尾}}\n\n==八方情报·三==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|士燮|跑？你还想跑？当年从交趾跑到中原，现在还想跑去哪？|头像=士燮}}\n{{对话|董奉|当年你不打我能跑吗？|头像=董奉}}\n{{对话|士燮|你不跑我能打吗？|头像=士燮}}\n{{对话|董奉|我根本没想跑，是你先打的。|头像=董奉}}\n{{对话|士燮|当年我若不打你就跑了！|头像=士燮}}\n{{对话|董奉|所以是你打了我才跑的。|头像=董奉}}\n{{对话|士燮|狡辩，你不跑我能打吗？|头像=士燮}}\n{{对话|虞翻|……前辈，他们到底跑不跑？|头像=虞翻}}\n{{对话|张郃|已经完全听不懂他们吵架用的方言了……|头像=张郃}}\n{{旁白|<hr>}}\n{{对话|虞翻|他们……他们好像快吵完了。|头像=虞翻}}\n{{对话|张郃|嗯……应、应该快吵完了，他快没气了……|头像=张郃}}\n{{对话|士燮|……呼……呼……你当年……你当年一定密谋投靠杨氏，叛变士氏……|头像=士燮}}\n{{对话|董奉|意义是？换一个地方当家奴吗？说句实话，当年士氏给我的待遇还不错的。|头像=董奉}}\n{{对话|士燮|当然……呼……当然不错！我可是……呼……我可是以长兄之礼给足了你待遇……呼……你居然还想投靠杨氏……|头像=士燮}}\n{{对话|张郃|所以他为什么要投靠杨氏……虽然我不知道杨氏是谁……|头像=张郃}}\n{{对话|士燮|因为他想跑！|头像=士燮}}\n{{对话|董奉|你不打我能跑吗？|头像=董奉}}\n{{对话|士燮|你不跑我能跑……不……呼……你不打我能……不……呼……呼……你不跑我能打吗？！|头像=士燮}}\n{{对话-尾}}\n\n==八方情报·四==\n{{对话-头}}\n{{旁白|【室内】}}\n{{对话|诸葛诞|阿瑾，干嘛对着妆奁叹气？|头像=诸葛诞}}\n{{对话|诸葛瑾|明日就是孔融夫子的生辰，我想送一盒胡粉作贺礼。可这种蛤粉混豆粉的劣等品，根本拿不出手……|头像=诸葛瑾}}\n{{对话|诸葛诞|向殿下借两盒珍珠粉？反正张邈送得多，殿下也用不完。|头像=诸葛诞}}\n{{对话|诸葛瑾|不行！这个月已经向殿下借了三次白盐和米粮，绝不能再去借了……|头像=诸葛瑾}}\n{{对话|诸葛诞|死要面子活受罪……我去想想办法。|头像=诸葛诞}}\n{{旁白|<hr>}}\n{{对话|刘繇|阿休来了啊……借胡粉？随意！前些天门客运的节礼，这两盒差不多值百金，都拿去吧。|头像=刘繇}}\n{{对话|诸葛诞|一盒就够了，两盒都拿回去我哥得撞墙。多谢繇哥！繇哥慷慨！|头像=诸葛诞}}\n{{对话|刘繇|走得这么匆匆忙忙……这盒子上写得什么字，先前还没留意过―—|头像=刘繇}}\n{{对话|刘繇|“上等细磨白胡椒粉”？嗯……这有胡也有粉，应该没问题吧？|头像=刘繇}}\n{{对话-尾}}\n\n==八方情报·五==\n{{对话-头}}\n{{旁白|【室内】}}\n{{对话|孔融|咳……咳咳……|头像=孔融}}\n{{对话|我|去取些清水来。孔君无事吧？|头像=广陵王-微笑}}\n{{对话|诸葛瑾|学生……学生疏漏，竟错送了他物，万分惭愧……|头像=诸葛瑾}}\n{{对话|我|虽然送错了，也是价值连城的白胡椒粉，是从哪来的？|头像=广陵王-微笑}}\n{{对话|阿蝉|根据密报，昨天诸葛瑾暗中见过刘繇……|头像=阿蝉}}\n{{对话|诸葛瑾|不是我！肯定是阿诞！|头像=诸葛瑾}}\n{{旁白|<hr>}}\n{{对话|刘繇|嗯……今天的舞曲少了些意趣……|头像=刘繇}}\n{{对话|诸葛瑾|见过刘繇使君！使君，在下前来，是想问……|头像=诸葛瑾}}\n{{对话|刘繇|阿休啊，今天又来了？来！酒温得刚好！|头像=刘繇}}\n{{对话|诸葛瑾|不，稍等。我不是……等一下……别、别拉我……|头像=诸葛瑾}}\n{{对话|刘繇|今天怎么打扮得这么素净？啊，不过这样的装束跳公莫舞一定格外风流，试试吧！|头像=刘繇}}\n{{对话|诸葛瑾|住手！我不是——|头像=诸葛瑾}}\n{{对话|刘繇|上台上台，哈哈哈——|头像=刘繇}}\n{{对话|诸葛瑾|住手啊！使君自重、使君自重——|头像=诸葛瑾}}\n{{对话|阿蝉|根据密报，诸葛瑾今日在宴上跳了公莫舞。|头像=阿蝉}}\n{{对话-尾}}\n\n==八方情报·六==\n{{对话-头}}\n{{旁白|【庭院】}}\n{{对话|张辽|盯着我看半天，想干嘛？|头像=张辽}}\n{{对话|张燕|战妆，好。|头像=张燕}}\n{{对话|张辽|战妆？你是说这个刺青？哼……你脸上的，也不错。|头像=张辽}}\n{{对话|张燕|谢。|头像=张燕}}\n{{旁白|<hr>}}\n{{对话|戏学|坐好别动，我要开始画——怎么是螺黛？朱砂呢？|头像=戏学}}\n{{对话|张燕|换，青黑。|头像=张燕}}\n{{对话|戏学|青黑就青黑吧……嗯？只要画在右眼旁边？那其他位置都不画了？|头像=戏学}}\n{{对话|戏学|什么？脖子也要画？为什么啊……|头像=戏学}}\n{{对话|张燕|嗯，嗯！照这个，花纹，我描下的。|头像=张燕}}\n{{对话|戏学|啊，是遇到什么新人了，想照着对方的刺青画吧？|头像=戏学}}\n{{对话|张燕|嗯，嗯！|头像=张燕}}\n{{对话-尾}}\n\n<center>{{板块|按钮|披荆斩棘的实习考核/活动剧情/巧匠精工|下一页}}</center>\n\n{{回到顶部|尾}}\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#7B5F44;color:#F2E3C6;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}"
+}

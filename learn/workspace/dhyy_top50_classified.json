@@ -1,0 +1,352 @@
+[
+  {
+    "char_a": "傅融",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，傅融是鸢部负责人，阿蝉是广陵王侍女"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "徐庶",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，傅融为副官，徐庶为绣衣楼密探"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "飞云",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，飞云是绣衣楼成员，常与傅融一起出现"
+  },
+  {
+    "char_a": "诸葛瑾",
+    "char_b": "诸葛诞",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "reason": "诸葛兄弟，诸葛瑾为兄，诸葛诞为弟，同出琅琊诸葛氏"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "阿蝉",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "张辽为并州军将领，阿蝉为绣衣楼侍女，剧情中多次交集，有旧识关系"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，陈登为广陵太守兼密探，阿蝉为广陵王侍女"
+  },
+  {
+    "char_a": "贾诩",
+    "char_b": "郭嘉",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗，同为谋士，虽各事其主但保持同窗情谊"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，傅融为副官，陈登为广陵太守兼密探"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "祢衡",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗，同为名士，交情深厚"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，徐庶为密探，陈登为广陵太守兼密探"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，徐庶为密探，阿蝉为广陵王侍女"
+  },
+  {
+    "char_a": "戏学",
+    "char_b": "袁基",
+    "edgeLabel": "利用",
+    "edgeRelType": "其他",
+    "reason": "戏学为黑山军孤儿潜伏袁氏，以袁基侍从身份暗中活动，实质为利用关系"
+  },
+  {
+    "char_a": "董白",
+    "char_b": "马超",
+    "edgeLabel": "搭档",
+    "edgeRelType": "友好",
+    "reason": "董白女扮男装为军师，与西凉将领马超搭档，共同行动"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "徐庶",
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "reason": "左慈为仙人，徐庶曾受其指导，有师徒之谊"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "袁绍",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "reason": "袁氏兄弟，同出汝南袁氏，袁基与袁绍为兄弟关系"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "孙策",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "reason": "孙氏兄弟，孙策为兄，孙权为弟，江东孙家核心成员"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "袁基",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗，同为名门子弟，有旧交"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "马超",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "绣衣楼侍女与西凉将领，剧情中多次交集，因寒夜厄境等活动有合作"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张鲁",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "汉少帝刘辩与五斗米道张鲁，刘辩曾受张鲁庇护，有特殊交集"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "徐庶",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "同为辟雍学宫出身，史子眇与徐庶有同窗之谊"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "孙策",
+    "edgeLabel": "主从+挚友",
+    "edgeRelType": "从属+友好",
+    "reason": "周瑜为孙策谋臣兼挚友，两人义结金兰，亦君亦友"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "张仲景",
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "reason": "两大名医，张仲景师从华佗学医，有师徒传承关系"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "徐庶",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，周群为密探，与徐庶共事"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "史子眇",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，傅融为副官，史子眇为密探"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "周群",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，傅融为副官，周群为密探"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "孙策",
+    "edgeLabel": "兄妹",
+    "edgeRelType": "血亲",
+    "reason": "孙氏兄妹，孙策为兄，孙尚香为妹，江东孙家成员"
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "祢衡",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "凌统为江东武将，祢衡为名士，剧情中多次共同出现，有交集"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "干吉",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "汉少帝刘辩与太平道干吉，刘辩在流亡中与干吉有交集"
+  },
+  {
+    "char_a": "吴夫人",
+    "char_b": "孙策",
+    "edgeLabel": "母子",
+    "edgeRelType": "血亲",
+    "reason": "吴夫人是孙策之母，江东孙家主母"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "郭嘉",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗，孔融为名士，郭嘉为谋士，同为学宫出身"
+  },
+  {
+    "char_a": "满宠",
+    "char_b": "袁遗",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "满宠为曹操部下法吏，袁遗为袁氏族人，剧情中有交集"
+  },
+  {
+    "char_a": "蒯良",
+    "char_b": "蒯越",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "reason": "蒯氏兄弟，蒯良与蒯越同出荆州蒯家，为亲兄弟"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "贾诩",
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "reason": "张绣为西凉军阀，贾诩为其谋士，贾诩辅佐张绣"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙策",
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "reason": "吕蒙为孙策部将，江东集团从属关系"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛诞",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "江东霸主与诸葛家三公子，陶生活动中大量交集，有特殊交情"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "甘宁",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "张郃为曹魏将领，甘宁为江东武将，剧情中有交集互动"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "绣衣楼同僚，周群为密探，阿蝉为广陵王侍女"
+  },
+  {
+    "char_a": "张昭",
+    "char_b": "虞翻",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "江东文臣同僚，张昭与虞翻同为孙氏幕僚"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "reason": "诸葛瑾曾事孙策，江东集团从属关系"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "张飞",
+    "edgeLabel": "宿敌",
+    "edgeRelType": "对立",
+    "reason": "张郃为曹魏名将，张飞为蜀汉猛将，两人多次对阵，互为宿敌"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "黄月英",
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "reason": "左慈为仙人，黄月英精于机关术，受左慈指点，有师徒关系"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "袁基",
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "reason": "董奉为袁基身边医者，袁氏门客，有主从关系"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "葛洪",
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "reason": "两大医道名家，同为修仙炼丹之道中人，有同门之谊"
+  },
+  {
+    "char_a": "郭嘉",
+    "char_b": "陈登",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗，郭嘉为谋士，陈登为广陵名士"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "马超",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "傅融为绣衣楼副官，马超为西凉将领，寒夜厄境等活动中合作"
+  },
+  {
+    "char_a": "刘璋",
+    "char_b": "庞羲",
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "reason": "刘璋为益州牧，庞羲为其部下，益州集团从属关系"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "郭嘉",
+    "edgeLabel": "敌对",
+    "edgeRelType": "对立",
+    "reason": "张绣曾杀曹操爱将，郭嘉为曹操谋士，两人处于对立阵营"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "董奉",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "张邈为陈留太守，董奉为医者，剧情中多次共同出现"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "陈登",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "张邈为陈留名士，陈登为广陵名士，同为各方势力间周旋的人物"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "祢衡",
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "reason": "汉少帝刘辩与名士祢衡，在辟雍学宫相关剧情中有交集"
+  }
+]

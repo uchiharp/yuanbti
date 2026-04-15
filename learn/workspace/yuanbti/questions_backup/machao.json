@@ -1,0 +1,410 @@
+[
+  {
+    "id": "q_machao_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "马超",
+    "source_story": "义弟被挟持",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「哈哈哈——死了就不会被挟持了，开杀！」马超面对义弟被挟持的局面，第一反应是直接开杀。面对人质威胁，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先谈判，争取时间想对策",
+        "scores": {
+          "S5": 2,
+          "S1": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "表面谈判，暗中寻找突破口",
+        "scores": {
+          "S5": 3,
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接动手——犹豫一秒就是",
+        "scores": {
+          "S5": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马超的选择：开杀。他宁肯义弟死在自己刀下，也不接受被人拿捏。"
+  },
+  {
+    "id": "q_machao_02",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "马超",
+    "source_story": "临终之言",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「这辈子，真、真带劲啊……要什么慈悲呢，黏黏糊糊的。」马超临终前的最后一段话，带着笑声和咳嗽。面对死亡，你的态度更接近？",
+    "options": [
+      {
+        "label": "A",
+        "text": "想活，能多活一天是一天，值得深思",
+        "scores": {
+          "S2": 2,
+          "S8": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不怕死，但会在临终前牵挂在乎的人",
+        "scores": {
+          "S2": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "活着就痛痛快快，死了也没什么大不了",
+        "scores": {
+          "S2": 4,
+          "S6": 3,
+          "S5": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马超用笑声面对死亡。「慈悲的感受是什么东西？」——他不是不怕死，是从来没见过温柔。"
+  },
+  {
+    "id": "q_machao_03",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "马超",
+    "source_story": "洛阳初到",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「啊？听不懂，有简单点的解释吗？比如吃饭、拉屎、往左走之类的」马超对任何复杂的谋略都是这个反应。如果你的搭档是这种人，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "觉得头疼——没有谋略的人在乱世活不下去",
+        "scores": {
+          "S1": 4,
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "挺好，简单直接的人反而比算计的人可靠",
+        "scores": {
+          "S1": 2,
+          "S8": 3,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "他不需要懂谋略，有人替他想就行了",
+        "scores": {
+          "S1": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "马超不需要懂谋略。他的生存哲学是：够强就能活。"
+  },
+  {
+    "id": "q_machao_04",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "马超",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「答应了的东西我没得到，那就别怪兄弟拿你祭天了。」一个人因为被背叛而彻底翻脸，从此不再给第二次机会。你对「被背叛后的信任」怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "再给一次机会——人都会犯错",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看情况，小背叛可以原谅，大背叛不行",
+        "scores": {
+          "S6": 2.5,
+          "S2": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "背叛一次就够了，信任碎了就是碎了",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马超的底线很简单：义气=命。被背叛一次，就永远不会给第二次机会。"
+  },
+  {
+    "id": "q_machao_05",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "马超",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「再算错，我就把你的脑袋拧下来。」一个人用威胁来表达关心——关心方式也是暴力。你身边有这样的朋友，你会怎么想？",
+    "options": [
+      {
+        "label": "A",
+        "text": "这是他的表达方式，我能接受",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "听着很不舒服，希望他能换个方式说话",
+        "scores": {
+          "S7": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "挺好，至少比虚伪的客套真实多了",
+        "scores": {
+          "S7": 4,
+          "S4": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马超的所有关心都裹着暴力。「再算错我就把你的脑袋拧下来」=「你小心点别受伤」。"
+  },
+  {
+    "id": "q_machao_06",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "马超",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「像狗一样听话，谁都喜欢他」——一个粗犷的西凉武人提到义弟时，语气突然变了，那是他唯一拥有的柔软。你觉得真正的温柔最可能藏在什么样的人身上？",
+    "options": [
+      {
+        "label": "A",
+        "text": "温柔就是温柔，跟什么样的人无关",
+        "scores": {
+          "S8": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "越是粗暴的人，藏起来的温柔越珍贵",
+        "scores": {
+          "S8": 4,
+          "S5": 3,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "粗暴的人不配有温柔这个标签",
+        "scores": {
+          "S8": 1,
+          "S6": 2,
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "马超对义弟的温柔是他全台词里最让人心碎的部分——他拥有的柔软太少了。"
+  },
+  {
+    "id": "q_machao_07",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「生死对西凉犬来说有什么两样吗？」面对生死无常的态度，你更接近哪种？",
+    "options": [
+      {
+        "label": "A",
+        "text": "生死有命，想太多没用，过好当下",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不怕死，但也不会主动找死",
+        "scores": {
+          "S10": 2,
+          "S5": 1,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "每一条命都值得被认真对待，包括自己的",
+        "scores": {
+          "S10": 4,
+          "S4": 3,
+          "S3": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马超把生死看作一回事——不是因为洒脱，是因为西凉教他的道理只有一条：够强就能活。"
+  },
+  {
+    "id": "q_machao_08",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「慈悲的感受是什么东西？是我爹念的那种经？」以下哪种态度最接近你？",
+    "options": [
+      {
+        "label": "A",
+        "text": "慈悲很重要，是乱世中最后的人性之光",
+        "scores": {
+          "S2": 3,
+          "S8": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "慈悲是好东西，但在乱世里太奢侈了",
+        "scores": {
+          "S2": 2,
+          "S8": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "慈悲是强者对弱者的施舍，我不需要",
+        "scores": {
+          "S2": 4,
+          "S7": 3.5,
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "马超不是在思考慈悲，他是真的没见过。这个问题从一个快要死的人嘴里问出来，比任何哲学家的追问都更重。"
+  },
+  {
+    "id": "q_machao_09",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "西凉军营里，你的义弟被敌军俘虏了。对方要求你用五百匹战马交换。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "换！五百匹战马换一条命，值了",
+        "scores": {
+          "S5": 3,
+          "S6": 2,
+          "S3": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "谈判拖时间，同时派人去救人",
+        "scores": {
+          "S5": 2,
+          "S1": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "杀过去！谁敢动我兄弟？",
+        "scores": {
+          "S5": 5,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马超大概会选C——「哈哈哈——死了就不会被挟持了，开杀！」"
+  },
+  {
+    "id": "q_machao_10",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「瞧，我脾气急，差点动手了。」，值得深思",
+        "scores": {
+          "S4": 1,
+          "S5": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「不出声跟死了有什么两样？打雷的时候不也是轰",
+        "scores": {
+          "S4": 1,
+          "S2": 4,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "两句都来自马超。他完全没有面具——想什么说什么，笑就是笑骂就是骂。"
+  }
+]

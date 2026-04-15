@@ -1,0 +1,610 @@
+{
+  "title": "陶生/活动剧情/陶生·十四",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙策",
+    "我",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……哈，没想到会细致到这一步。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "不过你怎么忍痛的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "一点小伤而已……啊，还以为孙策会一刀劈了士燮了结所有嫌疑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "所以是你。你认了？那我妹妹在哪里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "不知道，我没有杀她。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你每夜出去，诸葛瑾不知道？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "给甘宁的那种迷药，我每天会给兄长一点点……足够他睡一整夜了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "好了，杀了我，游戏就结束了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "还有很多要问你的事，你——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "要我帮忙吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……没事……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……你是不是……有什么话想说？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……你现在有心情听我说话吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你说。我听着呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……诸葛诞死了，但异状还没有结束。不知道是需要时间，还是说，他不是杀人者。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他已经认了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果我是他，我在昨夜踩到钉子的同时就知道怎么回事了，他是机敏之人，绝不可能拖到白天，一定立刻有动作。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "灭口也好、掩盖钉伤也好，总之不会像刚才那样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "也许，他累了，不想继续掩饰了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "也许，他不知道自己踩到钉子了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "怎么可能……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他走路的样子完全没有问题，孙策，这不是靠强装能装出来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "卷轴……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……孙策……孙策！他的手腕内侧有字！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "他的另一只手上是“铁”……孙权呢？孙权的手腕上有字吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……有！也是泥和铁！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……诸葛诞呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……也有，同样是泥和铁。他们的手腕上为什么会有陶片上的花纹？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "因为他们都被同化为陶人了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不可能！仲谋一直和我们在一起！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "第一夜他折返回来找我们之前，就已经被同化了。他应该是因为害怕，独自在夜里外出，撞见了陶人的夜游。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他回来找我们时，其实已经是杀完蒯越之后了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……原来如此……阿香那夜在蒯越那里，我一直不明白，她见到谁会放下戒备……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "所以，荀彧是被仲谋同化的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "在陶人夜游时，他和孙权在一起，等于介入了陶人的行动。但他应该用最后的理智留了话，只是我还不明白那八个字的意思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……但是不对啊。那，如果仲谋和诸葛诞都被陶人同化，那杀人者是谁？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "杀人者必须是人吧？对吧？不然游戏结束后，所谓的实现愿望也毫无意义了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……啊啊……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "啊……殿下来了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "呵呵……呵呵呵……啊哈哈……啊……阿诞不在了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "阿诞不在了……我只能……呵呵……只能自己做这种事了……呵呵……呵呵……呵呵呵呵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "我第一夜杀完人之后， 回去之后直接崩溃了……他想……掩护我。但是，他在夜里不能独自行动……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "所以……第二夜，他拉开了门，加入了陶人的夜游 ，以陶人的身份， 替我做了所有的事……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "他不在了……我必须自己来……已经到了这一步……愿望……我的愿望……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……找回弟弟的……愿望啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……他……死了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……好痛……我的衣服……是不是被血……染脏了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "食吾血肉，塑吾新身……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果荀彧当时已经成为陶人了，他用最后理智留下的话，应该就是陶人会听见的话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……为什么陶人会让人食自己的血肉？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这种巫术，一般都是人附加给陶人的吧。有人对陶人说，吃掉我的血肉，塑造我新的身躯……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……孙策，或许，它们一开始不是单纯的殉葬品。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "陶人……不用来殉葬，还能用来做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "古越国主的长生之道。他相信这种术法，能让人的肉身死亡后，借陶人之躯复生。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "国主杀死了工匠……那些工匠是在国主之前的试验。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "但不可能真的死而复生，国主看不到有陶人复生肯定知道巫术是假的，死于是索性杀死了所有的工匠……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "孙策。这个巫术……或许不是假的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……它成功显现了。在这个天地间，这个陶人天地里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你是说，我们并不在阳间？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对，但我们也不算死去。当年古越国的那位巫师，应该真的靠巫术，创造出了这个陶人的天地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "泥铁，代表了阴间。肉火，代表了阳间。阴阳之间便是此地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……可当年的巫师也早已化作白骨了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "有人发现了这个巫术，重新催醒了它。侍从们失踪的时间、后加入的荀彧和甘宁……都在他的控制之中。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哎你说，我们能不能在这里逮到他？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "他肯定不在这。不过，我们可以去找他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我们现在是生者，代表了肉火。如果死去，则是泥铁，死者沉降，降为阴，故而将死者的去处叫做阴间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "但因为这个地方处于阴阳之间，所以作为生者，我们哪里都去不了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "听下来，好像要半死不活才行？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对，我们要半死不活。"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·十四'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E5%8D%81%E5%9B%9B",
+  "crawled_at": "2026-04-12T22:07:14.961187",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·十四'''=\n</center>\n\n{{对话-头}}\n{{旁白|【主屋】}}\n{{对话|诸葛诞|……哈，没想到会细致到这一步。}}\n{{对话|我|不过你怎么忍痛的？|头像=广陵王-惊讶}}\n{{对话|诸葛诞|一点小伤而已……啊，还以为孙策会一刀劈了士燮了结所有嫌疑。}}\n{{对话|孙策|所以是你。你认了？那我妹妹在哪里？|头像=孙策}}\n{{对话|诸葛诞|不知道，我没有杀她。}}\n{{对话|我|你每夜出去，诸葛瑾不知道？|头像=广陵王-严肃}}\n{{对话|诸葛诞|给甘宁的那种迷药，我每天会给兄长一点点……足够他睡一整夜了。}}\n{{对话|诸葛诞|好了，杀了我，游戏就结束了。}}\n{{对话|孙策|还有很多要问你的事，你——|头像=孙策}}\n{{对话|孙策|！！！|头像=孙策}}\n{{旁白|话音未落，他朝前撞上刀尖。我们始料未及，但孙策还未拔出刀，随着绝望的哀嚎，诸葛瑾扑向了他——}}\n\n{{旁白|【荀彧住处】}}\n{{对话|孙策|……}}\n{{对话|我|要我帮忙吗？|头像=广陵王-严肃}}\n{{对话|孙策|……没事……}}\n{{旁白|在主屋的混乱之后，诸葛瑾被打昏了。孙策回到了荀彧的住处，来收敛弟弟的遗体。}}\n{{对话|孙策|……你是不是……有什么话想说？}}\n{{对话|我|……你现在有心情听我说话吗？|头像=广陵王-微笑}}\n{{对话|孙策|你说。我听着呢……}}\n{{对话|我|……诸葛诞死了，但异状还没有结束。不知道是需要时间，还是说，他不是杀人者。|头像=广陵王-严肃}}\n{{对话|孙策|他已经认了……}}\n{{对话|我|如果我是他，我在昨夜踩到钉子的同时就知道怎么回事了，他是机敏之人，绝不可能拖到白天，一定立刻有动作。|头像=广陵王-严肃}}\n{{对话|我|灭口也好、掩盖钉伤也好，总之不会像刚才那样。|头像=广陵王-摇头}}\n{{对话|孙策|也许，他累了，不想继续掩饰了。}}\n{{对话|我|也许，他不知道自己踩到钉子了。|头像=广陵王-摇头}}\n{{对话|孙策|怎么可能……}}\n{{对话|我|他走路的样子完全没有问题，孙策，这不是靠强装能装出来的。|头像=广陵王-微笑}}\n{{旁白|我在荀彧身边蹲下，检查尸身和遗物。}}\n{{旁白|心理|还有很多问题没有解决……不过，荀彧的伤口，应该是诸葛诞故意制造的，为了把嫌疑引向士燮。}}\n{{旁白|心理|还有，阿香去了哪？甘宁吃的肉脯是怎么来的？以及……}}\n{{对话|我|卷轴……|头像=广陵王-严肃}}\n{{旁白|那支卷轴从荀彧的袖中滚落出来，被血染透了。大部分的笔迹都是模糊的，但在最后留有八字。}}\n{{旁白|——食吾血肉，塑吾新身。}}\n{{旁白|我合上卷轴，目光看见了他染血的手腕。他的左手手腕内侧，有花鸟篆的“泥”。}}\n{{对话|我|……孙策……孙策！他的手腕内侧有字！|头像=广陵王-生气}}\n{{旁白|心理|我们当时被陶人同化时，手腕内侧也浮现出了花鸟篆！}}\n{{对话|我|他的另一只手上是“铁”……孙权呢？孙权的手腕上有字吗？|头像=广陵王-惊讶}}\n{{对话|孙策|……有！也是泥和铁！}}\n{{对话|我|……诸葛诞呢？|头像=广陵王-严肃}}\n{{旁白|【主屋】}}\n{{对话|孙策|……也有，同样是泥和铁。他们的手腕上为什么会有陶片上的花纹？}}\n{{对话|我|因为他们都被同化为陶人了。|头像=广陵王-严肃}}\n{{对话|孙策|不可能！仲谋一直和我们在一起！}}\n{{对话|我|第一夜他折返回来找我们之前，就已经被同化了。他应该是因为害怕，独自在夜里外出，撞见了陶人的夜游。|头像=广陵王-严肃}}\n{{对话|我|他回来找我们时，其实已经是杀完蒯越之后了。|头像=广陵王-严肃}}\n{{对话|孙策|……原来如此……阿香那夜在蒯越那里，我一直不明白，她见到谁会放下戒备……}}\n{{对话|孙策|所以，荀彧是被仲谋同化的？}}\n{{对话|我|在陶人夜游时，他和孙权在一起，等于介入了陶人的行动。但他应该用最后的理智留了话，只是我还不明白那八个字的意思。|头像=广陵王-严肃}}\n{{对话|孙策|……但是不对啊。那，如果仲谋和诸葛诞都被陶人同化，那杀人者是谁？}}\n{{对话|孙策|杀人者必须是人吧？对吧？不然游戏结束后，所谓的实现愿望也毫无意义了！}}\n{{对话|士燮|啊啊啊啊——|头像=士燮}}\n{{旁白|就在这时，士燮的惊呼声，从客舍处传来——}}\n{{旁白|【士燮住处】}}\n{{对话|士燮|……啊啊……呃……|头像=士燮}}\n{{对话|诸葛瑾|……}}\n{{对话|诸葛瑾|啊……殿下来了……}}\n{{旁白|血迹在蔓延。他手中握着染血的短刀，缓缓转向我们。}}\n{{旁白|心理|他的表情……这个人的神志已经……}}\n{{对话|诸葛瑾|呵呵……呵呵呵……啊哈哈……啊……阿诞不在了……}}\n{{对话|诸葛瑾|阿诞不在了……我只能……呵呵……只能自己做这种事了……呵呵……呵呵……呵呵呵呵……}}\n{{对话|诸葛瑾|我第一夜杀完人之后， 回去之后直接崩溃了……他想……掩护我。但是，他在夜里不能独自行动……}}\n{{对话|诸葛瑾|所以……第二夜，他拉开了门，加入了陶人的夜游 ，以陶人的身份， 替我做了所有的事……}}\n{{对话|诸葛瑾|他不在了……我必须自己来……已经到了这一步……愿望……我的愿望……}}\n{{对话|诸葛瑾|……找回弟弟的……愿望啊……}}\n{{旁白|短刀刺向了孙策。但就像落花一般，尚未触及，便被横刀之风吹散。}}\n{{对话|士燮|……他……死了吗……|头像=士燮}}\n{{对话|士燮|……好痛……我的衣服……是不是被血……染脏了……|头像=士燮}}\n{{旁白|他的声音，也渐渐低微下……很快，再也没有其他声息。}}\n{{旁白|【主屋】}}\n{{旁白|没有结束。}}\n{{旁白|哪怕只剩我们二人，一切也没有结束。点着烛火，我们坐在空荡的主屋内，长久无话。}}\n{{对话|我|食吾血肉，塑吾新身……|头像=广陵王-严肃}}\n{{对话|我|如果荀彧当时已经成为陶人了，他用最后理智留下的话，应该就是陶人会听见的话。|头像=广陵王-严肃}}\n{{对话|孙策|……为什么陶人会让人食自己的血肉？}}\n{{对话|我|这种巫术，一般都是人附加给陶人的吧。有人对陶人说，吃掉我的血肉，塑造我新的身躯……|头像=广陵王-严肃}}\n{{对话|我|……孙策，或许，它们一开始不是单纯的殉葬品。|头像=广陵王-摇头}}\n{{对话|孙策|陶人……不用来殉葬，还能用来做什么？}}\n{{对话|我|古越国主的长生之道。他相信这种术法，能让人的肉身死亡后，借陶人之躯复生。|头像=广陵王-严肃}}\n{{对话|我|国主杀死了工匠……那些工匠是在国主之前的试验。|头像=广陵王-严肃}}\n{{对话|孙策|但不可能真的死而复生，国主看不到有陶人复生肯定知道巫术是假的，死于是索性杀死了所有的工匠……}}\n{{对话|我|孙策。这个巫术……或许不是假的。|头像=广陵王-挑眉}}\n{{对话|我|……它成功显现了。在这个天地间，这个陶人天地里。|头像=广陵王-严肃}}\n{{对话|孙策|你是说，我们并不在阳间？}}\n{{对话|我|对，但我们也不算死去。当年古越国的那位巫师，应该真的靠巫术，创造出了这个陶人的天地。|头像=广陵王-点头}}\n{{对话|我|泥铁，代表了阴间。肉火，代表了阳间。阴阳之间便是此地。|头像=广陵王-严肃}}\n{{对话|孙策|……可当年的巫师也早已化作白骨了。}}\n{{对话|我|有人发现了这个巫术，重新催醒了它。侍从们失踪的时间、后加入的荀彧和甘宁……都在他的控制之中。|头像=广陵王-严肃}}\n{{对话|孙策|哎你说，我们能不能在这里逮到他？}}\n{{对话|我|他肯定不在这。不过，我们可以去找他。|头像=广陵王-摇头}}\n{{对话|我|我们现在是生者，代表了肉火。如果死去，则是泥铁，死者沉降，降为阴，故而将死者的去处叫做阴间。|头像=广陵王-严肃}}\n{{对话|我|但因为这个地方处于阴阳之间，所以作为生者，我们哪里都去不了。|头像=广陵王-摇头}}\n{{对话|孙策|听下来，好像要半死不活才行？}}\n{{旁白|我拿起蜡烛，点了点头。}}\n{{对话|我|对，我们要半死不活。|头像=广陵王-点头}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·十五|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

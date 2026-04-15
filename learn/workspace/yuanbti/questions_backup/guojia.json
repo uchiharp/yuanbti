@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "q_guojia_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "船宴自曝",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「我就是……发起人呀。」轻描淡写承认自己设计了杀人规则，这说明郭嘉？",
+    "options": [
+      {
+        "label": "A",
+        "text": "疯了经失去了理智",
+        "scores": {
+          "S4": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "面具深到即使被拆穿仍",
+        "scores": {
+          "S4": 4,
+          "S1": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "真的不在乎别人怎么看",
+        "scores": {
+          "S4": 3.5,
+          "S6": 2.5,
+          "S2": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉的面具——即使你知道他在演戏，他还在演而且毫无破绽。"
+  },
+  {
+    "id": "q_guojia_02",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "牺牲阿和",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「那就决定，牺牲阿和了」毫不犹豫牺牲同窗，郭嘉的底线？",
+    "options": [
+      {
+        "label": "A",
+        "text": "没有人性，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "底线只服从最小代价换，值得深思",
+        "scores": {
+          "S6": 5,
+          "S3": 4,
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "有苦衷的，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉的底线几乎不存在——只服从最小代价原则。"
+  },
+  {
+    "id": "q_guojia_03",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "毒舌名场面",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「在座皆是衣冠禽兽，装什么人呢。」郭嘉的锋芒特点？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说话太刻薄得罪人",
+        "scores": {
+          "S7": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "裹着糖衣的刀——锋芒",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "只是嘴上厉害，",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "郭嘉的锋芒依赖反讽而非直白的力量。"
+  },
+  {
+    "id": "q_guojia_04",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "道德批判",
+    "route_hint": null,
+    "city_hint": "兖州",
+    "text": "「越盛大的道德，就是越长的铡刀，能同时杀越多的人。」郭嘉对秩序的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "愤世嫉俗，从中可以看出他的真实想法",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "解构秩序——道德是权力工具不是善的载体",
+        "scores": {
+          "S10": 3,
+          "S9": 2.5,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "最清醒的认知——看透道德本质",
+        "scores": {
+          "S10": 2.5,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉是秩序的解构者，但不承认外在道德框架。"
+  },
+  {
+    "id": "q_guojia_05",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "壶关噩梦",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「阿和！阿和还在火里，没有出来！！！」郭嘉唯一失态的时刻，这说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "终于暴露了真实情感",
+        "scores": {
+          "S2": 4,
+          "S5": 3,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "创伤应激反应不是主动表达",
+        "scores": {
+          "S2": 3.5,
+          "S5": 3,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在演戏是最累的活",
+        "scores": {
+          "S2": 2,
+          "S8": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "郭嘉唯一真正失控的台词——创伤应激而非主动表达。"
+  },
+  {
+    "id": "q_guojia_06",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "船宴规则",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「这条船上聚集了世上欲望最坚定的几个人，最适合玩些欲生欲死的游戏了。」郭嘉的行动方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "设计规则让他人自行博弈",
+        "scores": {
+          "S5": 4,
+          "S1": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "喜欢看热闹，这说明了一",
+        "scores": {
+          "S5": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在测试每个人的底线",
+        "scores": {
+          "S5": 3.5,
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉从不直接行动——他的行动是设计规则。"
+  },
+  {
+    "id": "q_guojia_07",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "隐身操盘",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "船宴中郭嘉同时扮演发起人、合作者、背叛者、拯救者四重身份。这种城府？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太复杂了迟早翻车",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "隐身操盘是城府的最高形态",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在赌所有人的智商都不如他",
+        "scores": {
+          "S1": 4,
+          "S6": 3,
+          "S3": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "郭嘉的城府——让所有人按他设计的规则自行行动。"
+  },
+  {
+    "id": "q_guojia_08",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "务实认知",
+    "route_hint": null,
+    "city_hint": "兖州",
+    "text": "「我们本质上是一样的。都想靠最小的牺牲获得最好的结局。」郭嘉的务实？",
+    "options": [
+      {
+        "label": "A",
+        "text": "冷血到极致，这说明了一些问题",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "对代价的清醒认知，值得关注",
+        "scores": {
+          "S3": 3.5,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "为自己找借口，这说明了一些问题",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉的务实是对代价的清醒认知。"
+  },
+  {
+    "id": "q_guojia_09",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "寻找英雄",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「你还打算编些什么新鲜趣味的新道德？让我听听。」郭嘉对广陵王的试探本质是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "闲聊打发时间，这说明了一些问题",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "评估她是否有资格成为，值得深思",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在调戏，从中可以看出他的真实想法",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉在寻找一个配得上乱世的英雄。"
+  },
+  {
+    "id": "q_guojia_10",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "郭嘉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "一个人几乎从不正面表达情感，所有感情都包裹在玩笑和反讽中。偶尔闪过的微光是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "装不下去了的真实",
+        "scores": {
+          "S8": 3,
+          "S4": 2.5,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "极薄但真实的温柔碎片",
+        "scores": {
+          "S8": 2.5,
+          "S4": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "精心设计的诱饵",
+        "scores": {
+          "S4": 4,
+          "S2": 3,
+          "S1": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "郭嘉的温柔极薄，几乎只以碎片形式存在。"
+  },
+  {
+    "id": "q_guojia_11",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "郭嘉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「……骗你的。」「开玩笑的、开玩笑的！」说了真话再收回去的人，你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不可信，说话不算数",
+        "scores": {
+          "S4": 2,
+          "S6": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在用真假难辨来保护自己",
+        "scores": {
+          "S4": 4,
+          "S6": 3,
+          "S1": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在开玩笑而已别当真",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉的说话模式——说了真话再收回去。"
+  },
+  {
+    "id": "q_guojia_12",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "郭嘉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "兖州",
+    "text": "「把堤坝毁了吧、把农田烧了吧、把村民做成肉干吧」冷血陈述谋士的代价，你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太残忍了，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "清醒到残忍——知道代，值得深思",
+        "scores": {
+          "S6": 4,
+          "S3": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在吓唬人，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉看透了道德的代价。"
+  },
+  {
+    "id": "q_guojia_13",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「没有'只是'，你再往前走，能让你想'我只是'的机会就越来越少。」你对这句话的理解？",
+    "options": [
+      {
+        "label": "A",
+        "text": "劝人不要走极端，值得关注",
+        "scores": {
+          "S10": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "清醒的警告——每一步",
+        "scores": {
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "为恶行找借口，这说明了一些问题",
+        "scores": {
+          "S10": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "郭嘉的清醒——他自己已经走得太远了。"
+  },
+  {
+    "id": "q_guojia_14",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「靠向鬼神祈祷赢得的天下，就是对谋士的最大羞辱。」你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "谋士太自大了，这说明了一些问题",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "对实力的尊重——天下",
+        "scores": {
+          "S1": 4,
+          "S9": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在否定命运，这说明了一些问题",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉对权力的最高要求——靠实力不靠运气。"
+  },
+  {
+    "id": "q_guojia_15",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「捅他刀的，吃他肉的，喝他血的，到了袁绍那边，都是功臣。」你觉得这种表达？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太刻薄了，从中可以看出他的真",
+        "scores": {
+          "S7": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "用最直白的方式揭穿权，值得深思",
+        "scores": {
+          "S7": 4,
+          "S9": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在挑拨离间，这说明了一些问题",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉——看透一切然后说出来。"
+  },
+  {
+    "id": "q_guojia_16",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "有人请你帮忙但报酬很低。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "看心情帮不帮，这说明了一些问题",
+        "scores": {
+          "S3": 2,
+          "S2": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "明码标价——我很贵的",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "先答应再说，以后再讨",
+        "scores": {
+          "S3": 3.5,
+          "S7": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉——明码标价是原则。"
+  },
+  {
+    "id": "q_guojia_17",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你设计了一个让所有人都按规则行动的游戏，但有人不按规则来。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "强行把人拉回规则内",
+        "scores": {
+          "S5": 3.5,
+          "S6": 2.5,
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "不急，他的不按规则也",
+        "scores": {
+          "S1": 3.5,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "取消游戏，从中可以看",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "郭嘉——一切都在计算之内。"
+  },
+  {
+    "id": "q_guojia_18",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "深夜一个人做噩梦惊醒浑身冷汗。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "继续睡，只是个梦",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "坐起来冷静一会儿",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "找人说说话，",
+        "scores": {
+          "S2": 3.5,
+          "S7": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉——噩梦是真实的代价，但他不会让任何人看到。"
+  },
+  {
+    "id": "q_guojia_19",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "郭嘉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "一个人对你说「殿下你说怎么办？我好伤心啊。」语气戏谑但你感觉他真的在试探你。你怎么回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "当他在开玩笑回一句玩笑",
+        "scores": {
+          "S2": 2,
+          "S4": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "认真回答——他在用玩笑",
+        "scores": {
+          "S2": 3.5,
+          "S4": 3,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不回应装没听见，值得关注",
+        "scores": {
+          "S7": 2,
+          "S6": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "郭嘉——每句话至少三层意思。"
+  },
+  {
+    "id": "q_guojia_20",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「越盛大的道德就是越长的铡刀。」",
+        "scores": {
+          "S10": 2.5,
+          "S6": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「这条船上是不能有赢家的。」",
+        "scores": {
+          "S6": 3.5,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都来自郭嘉——清醒的恶人型谋士。"
+  },
+  {
+    "id": "q_guojia_21",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "郭嘉",
+    "source_story": "孔融评价",
+    "route_hint": null,
+    "city_hint": "北海",
+    "text": "「孔夫子虽然古板但不至于冷酷无情。」郭嘉对孔融的评价说明他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的尊重孔融，这说明了一些问题",
+        "scores": {
+          "S8": 3,
+          "S4": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "内心深处仍有一丝对善良的认可",
+        "scores": {
+          "S8": 2.5,
+          "S6": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在用评价孔融来试探广陵王",
+        "scores": {
+          "S1": 3.5,
+          "S9": 2.5,
+          "S3": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉对善良的微弱认可——极薄但存在。"
+  },
+  {
+    "id": "q_guojia_22",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "郭嘉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "一个人从不直接行动，而是设计规则让别人按他的意愿博弈。这种行动方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太阴险了，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 2,
+          "S4": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "间接操控的极致——最高效也最安全",
+        "scores": {
+          "S5": 4,
+          "S1": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不可靠，万一别人不按规则来",
+        "scores": {
+          "S5": 3,
+          "S6": 2.5,
+          "S10": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉——设计规则让世界自己运转。"
+  },
+  {
+    "id": "q_guojia_23",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "郭嘉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "一个人自称柔弱书生，每次出场必提，全篇出现六次以上。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的很柔弱需要保护",
+        "scores": {
+          "S3": 2,
+          "S8": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "反反复复的自嘲已经成",
+        "scores": {
+          "S4": 3.5,
+          "S8": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "，故意示弱博取同情",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "郭嘉的柔弱书生——身份锚点也是面具。"
+  },
+  {
+    "id": "q_guojia_24",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人活着的乐趣，就在于想做什么就做什么。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「人活着的乐趣，就在于想做什么就做什么。」——你怎么看？",
+        "scores": {
+          "S1": 3,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「无聊是最大的敌人，比任何对手都可怕。」——你认同吗？",
+        "scores": {
+          "S1": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「天才和疯子只差一步，而我刚好站在那条线上。」——你的看法？",
+        "scores": {
+          "S1": 4,
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "自由、刺激、极限——郭嘉的人生信条从不走寻常路。"
+  },
+  {
+    "id": "q_guojia_25",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在绣衣楼执行任务时，发现了一个可以用来要挟上层的把柄。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你在绣衣楼执行任务时，发现了一个可以用来要挟上层的把柄。你——",
+        "scores": {
+          "S1": 3.5,
+          "S5": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "广陵王布置了一个你觉得毫无意义的任务。你——",
+        "scores": {
+          "S1": 2,
+          "S9": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "你和另一位密探同时发现了关键情报，但他抢先一步上报了。你——",
+        "scores": {
+          "S1": 4,
+          "S5": 3.5,
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "权力游戏中的选择，暴露你最真实的行事风格。"
+  },
+  {
+    "id": "q_guojia_26",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「规则是给普通人定的，聪明人负责利用规则。」",
+        "scores": {
+          "S1": 4,
+          "S6": 3,
+          "S3": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「我这辈子只做自己觉得有趣的事，其他的都无所谓。」",
+        "scores": {
+          "S1": 2.5,
+          "S5": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "掌控规则还是享受自由——郭嘉选择了两条路都走。"
+  }
+]

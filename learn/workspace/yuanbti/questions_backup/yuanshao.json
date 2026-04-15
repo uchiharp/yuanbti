@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q_yuanshao_1",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "袁绍",
+    "source_story": "邺城·颜良文丑出征",
+    "route_hint": null,
+    "city_hint": "邺城",
+    "text": "邺城议事堂上，战事一触即发，袁绍起身环顾众将，拔刀割指滴入鸡血碗中——「人选就此决定！取鸡血酒来，为三位勇士送行！」他转头看向颜良与文丑，目光灼灼。若你是袁绍，在众人面前以歃血为盟的方式号令三军，你内心的真实想法是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "颜良文丑勇冠三军，有他们在，此战必胜无疑。",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "以血酒凝聚军心，让他们为我效死，此战不可不胜。",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "将士们需要看到我的决断，这杯酒喝下去，退路便断了。",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁绍以歃血为盟激励将士出征，既是对部下的信任，也是以仪式感巩固自身在河北的号令之权。"
+  }
+]

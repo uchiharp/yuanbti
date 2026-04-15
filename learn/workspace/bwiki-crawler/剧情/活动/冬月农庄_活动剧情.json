@@ -1,0 +1,701 @@
+{
+  "title": "冬月农庄/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "傅融",
+    "我",
+    "村民",
+    "里正"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "这是雪村的著名景点之一……是什么呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "来都来了，去瞧瞧吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "“阳坡梯田是我村响应太守振兴河内郡的号召、着力打造的重点示范工程……”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "梯田的规模确实惊人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "“开垦过程中，从地里挖出了一具单眼石人……”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "……嗯？走向有点不对……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "“石人背后刻了一行字……”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "……？？？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "“汝当还我钱。”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "……真是古老的怨念啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "这里是供庙吧……人可真不少。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "供的都是财神……好，很好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "拜一下，拜一下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "如果拜财神有用的话……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "当然有用。一定有用！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "那全天下拜拜过的人岂不是都发财了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "啊啊啊……心诚则灵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "是本地大族的坞堡啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "这也是凭券免费的景点之一……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=温泉-慨弟-Q版",
+      "emotion": "欢迎欢迎，热烈欢迎！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里正",
+      "text": "头像=q版-不暴躁船夫",
+      "emotion": "热烈欢迎！这是本地热门景点，可以免费参观，逛完还能打卡得纪念品！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "这是谁家的坞堡？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "司马氏的。简介是……该坞堡原是司马喆所有，司马喆逝世前，留下遗言……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里正",
+      "text": "头像=q版-不暴躁船夫",
+      "emotion": "“这座坞堡属于河内！”……何等慷慨！自此之后，百姓就将这里开发成景点了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "真的免费吗？……进去看看……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=温泉-慨弟-Q版",
+      "emotion": "在入口处先挑珠子吧！这里的姓名珠什么字都有，如果找不到的话我帮二位找。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里正",
+      "text": "头像=q版-不暴躁船夫",
+      "emotion": "挑完刻着自己姓名的珠子请继续往里走，有提供串珠编绳服务！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "好厚的雪。要是飞云在这里。一定会咬着衣袖、让人陪它躺在雪里打滚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "就算飞云不在，你也可以躺在雪地打滚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "什么？我不是——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "过来，躺下，我陪你一起。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "若是待会有人来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "里正说今日清场，只接待我们两个，不会有人来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "好吧……你冷吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "是有点冷。那你靠过来些，两个人挨在一起就不冷了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "嗯……唔、我的脖子！你的手怎么这么凉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "不许动，就贴一会儿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "农家菜明明食材朴素，但锅气却很香。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "这个腊鹅不错！我第一次吃到这种风味的腊鹅。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "好像是拿酒腌过，腌制的酒……闻一下……是本地的酒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "难怪风味独特。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "其他做法都是寻常，独特就是独特在这种酒上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "是这种酒吧？喝一口试试……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "咳咳……好辛辣！比羌酒还辣……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "是没过滤过的绿酒，味道……咳咳……好刺激……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "咳！咳咳咳……咳咳咳！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "啊你脸都咳红了！拍拍，拍拍……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "太、太冷了……裹着棉袍都没有用……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "没办法，这里柴火和炭都不够。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "百姓攒一年的钱，大多都用来囤越冬的炭火木柴了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "真是辛苦啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "你不是在西蜀长大的吗？雪山比这里还冷吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "是不一样的冷，雪山上的那种冷……唔……穿厚棉袍是有用的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "也是，湿冷和干冷不一样。湿冷是往骨头里钻的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "你摸摸我的手，冰冰凉的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "……这样握着呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "……只握着手吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "……这样……裹着一件棉服呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "奖券规则是怎么说的？“能在雪场里领养一只动物，免费滑雪两个时辰”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "嗯，可以去问问……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=q版-村民",
+      "emotion": "领养的话是免费的，然后本地也会提供饲养配套的食物和工具。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "那些不用，广陵都有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=q版-村民",
+      "emotion": "啊，为了可爱的小动物着想，还是用本地产的饲料吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=q版-村民",
+      "emotion": "动物虽然是免费的，饲料第一个月免费提供，第二个月开始收费，至少要订购十二个月。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "……好粗糙的套路……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "我猜免费滑雪也是，滑雪是免费的，但是要买一套装备。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=q版-村民",
+      "emotion": "你们是来找茬的吗？乡亲们，给我上！唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "……动、动手？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "他们先要揍我们的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融小纸人",
+      "emotion": "他们的人数是我们的好几倍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "富贵险中求嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "呼……擦擦鼻血……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=q版-村民",
+      "emotion": "别、别打了！二位！这片林子从此归你们管了，别打了……"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "地点一·阳坡梯田"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(80, 80, 120, 0.5); border none; padding 5px; borderradius 10px; color 505078;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0e0e0;\"下山时摘些青果吧。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "地点二·财神庙"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(80, 80, 120, 0.5); border none; padding 5px; borderradius 10px; color 505078;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0e0e0;\"只心诚便可灵验的话，那我所求……/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "地点三·聚族坞堡"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(80, 80, 120, 0.5); border none; padding 5px; borderradius 10px; color 505078;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0e0e0;\"盯着望楼上的床弩看了半响。罢了，预算挤挤总是有的。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "地点四·场圃乐园"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(80, 80, 120, 0.5); border none; padding 5px; borderradius 10px; color 505078;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0e0e0;\"飞云和绣球没来，可惜。只有两人，也挺好。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "地点五·阖乡村宴"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(80, 80, 120, 0.5); border none; padding 5px; borderradius 10px; color 505078;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0e0e0;\"夕霞好鲜艳……/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "地点六·农家小院"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(80, 80, 120, 0.5); border none; padding 5px; borderradius 10px; color 505078;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0e0e0;\"若归为田舍翁……/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "地点七·白雪林场"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(80, 80, 120, 0.5); border none; padding 5px; borderradius 10px; color 505078;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0e0e0;\"与饲场主讨价还价时，不但情绪稳定，更有王者风范。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrbr"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "centerfont class'zhuxiancolor'a href\"top\" 回到顶部/a/font/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".zhuxiancolor a"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbolder;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily\"Times New Roman\",Georgia,Serif;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius6px;backgrounde0cba7;"
+    },
+    {
+      "type": "narration",
+      "text": "padding6px 15px 6px 15px ;"
+    },
+    {
+      "type": "narration",
+      "text": "border2px solid e0cba7;"
+    },
+    {
+      "type": "narration",
+      "text": "color5B3619;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%86%AC%E6%9C%88%E5%86%9C%E5%BA%84/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T21:59:24.142503",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|冬月农庄/活动玩法}}{{背景图片|{{filepath:冬月农庄背景.png}}}}\n[[分类:活动剧情]]\n__TOC__\n\n==地点一·阳坡梯田==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(80, 80, 120, 0.5); border: none; padding: 5px; border-radius: 10px; color: #505078;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0e0e0;\">下山时摘些青果吧。</div>\n    </div>\n</div>\n\n<br><br><br>\n{{冬月农庄|举目一片纯白，很美。}}{{冬月农庄|记事碑？上面是涂鸦……}}{{冬月农庄|下山路……好长。}}{{冬月农庄|附近的山上都是梯田。}}{{冬月农庄|雪地路滑。}}\n{{对话-头}}\n{{对话|傅融|这是雪村的著名景点之一……是什么呢……|头像=傅融小纸人}}\n{{对话|傅融|来都来了，去瞧瞧吧……|头像=傅融小纸人}}\n{{对话|傅融|“阳坡梯田是我村响应太守振兴河内郡的号召、着力打造的重点示范工程……”|头像=傅融小纸人}}\n{{对话|我|梯田的规模确实惊人。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|“开垦过程中，从地里挖出了一具单眼石人……”|头像=傅融小纸人}}\n{{对话|我|……嗯？走向有点不对……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|“石人背后刻了一行字……”|头像=傅融小纸人}}\n{{对话|我|……？？？|头像=内廷绣罗-小纸人}}\n{{对话|傅融|“汝当还我钱。”|头像=傅融小纸人}}\n{{对话|傅融|……真是古老的怨念啊。|头像=傅融小纸人}}\n{{对话-尾}}\n\n==地点二·财神庙==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(80, 80, 120, 0.5); border: none; padding: 5px; border-radius: 10px; color: #505078;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0e0e0;\">只心诚便可灵验的话，那我所求……</div>\n    </div>\n</div>\n\n<br><br><br>\n{{冬月农庄|齐全，各路财神都在。}}{{冬月农庄|花果供物就不必了。}}{{冬月农庄|各上三柱清香，足矣。}}{{冬月农庄|心诚则灵。}}{{冬月农庄|那座神像是谁呢……}}\n{{对话-头}}\n{{对话|我|这里是供庙吧……人可真不少。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|供的都是财神……好，很好。|头像=傅融小纸人}}\n{{对话|傅融|拜一下，拜一下……|头像=傅融小纸人}}\n{{对话|我|如果拜财神有用的话……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|当然有用。一定有用！|头像=傅融小纸人}}\n{{对话|我|那全天下拜拜过的人岂不是都发财了？|头像=内廷绣罗-小纸人}}\n{{对话|傅融|啊啊啊……心诚则灵！|头像=傅融小纸人}}\n{{对话-尾}}\n\n==地点三·聚族坞堡==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(80, 80, 120, 0.5); border: none; padding: 5px; border-radius: 10px; color: #505078;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0e0e0;\">盯着望楼上的床弩看了半响。罢了，预算挤挤总是有的。</div>\n    </div>\n</div>\n\n<br><br><br>\n{{冬月农庄|易守难攻的建筑。}}{{冬月农庄|本地大族多筑堡而居。}}{{冬月农庄|乡人好热情……喝不下了……}}{{冬月农庄|四角都有望楼。}}{{冬月农庄|在此留宿？}}\n{{对话-头}}\n{{对话|我|是本地大族的坞堡啊……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|这也是凭券免费的景点之一……|头像=傅融小纸人}}\n{{对话|村民|欢迎欢迎，热烈欢迎！|头像=温泉-慨弟-Q版}}\n{{对话|里正|热烈欢迎！这是本地热门景点，可以免费参观，逛完还能打卡得纪念品！|头像=q版-不暴躁船夫}}\n{{对话|我|这是谁家的坞堡？|头像=内廷绣罗-小纸人}}\n{{对话|傅融|司马氏的。简介是……该坞堡原是司马喆所有，司马喆逝世前，留下遗言……|头像=傅融小纸人}}\n{{对话|里正|“这座坞堡属于河内！”……何等慷慨！自此之后，百姓就将这里开发成景点了。|头像=q版-不暴躁船夫}}\n{{对话|傅融|真的免费吗？……进去看看……|头像=傅融小纸人}}\n{{对话|村民|在入口处先挑珠子吧！这里的姓名珠什么字都有，如果找不到的话我帮二位找。|头像=温泉-慨弟-Q版}}\n{{对话|里正|挑完刻着自己姓名的珠子请继续往里走，有提供串珠编绳服务！|头像=q版-不暴躁船夫}}\n{{对话-尾}}\n\n==地点四·场圃乐园==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(80, 80, 120, 0.5); border: none; padding: 5px; border-radius: 10px; color: #505078;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0e0e0;\">飞云和绣球没来，可惜。只有两人，也挺好。</div>\n    </div>\n</div>\n\n<br><br><br>\n{{冬月农庄|唔、你的手……}}{{冬月农庄|只有我们两个人。}}{{冬月农庄|呼、呼……呼出来的气都发白了。}}{{冬月农庄|要是飞云在这里……}}{{冬月农庄|雪下大了呢……}}\n{{对话-头}}\n{{对话|傅融|好厚的雪。要是飞云在这里。一定会咬着衣袖、让人陪它躺在雪里打滚。|头像=傅融小纸人}}\n{{对话|我|就算飞云不在，你也可以躺在雪地打滚。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|什么？我不是——|头像=傅融小纸人}}\n{{对话|我|过来，躺下，我陪你一起。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|若是待会有人来了……|头像=傅融小纸人}}\n{{对话|我|里正说今日清场，只接待我们两个，不会有人来的。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|好吧……你冷吗？|头像=傅融小纸人}}\n{{对话|我|是有点冷。那你靠过来些，两个人挨在一起就不冷了。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|嗯……唔、我的脖子！你的手怎么这么凉？|头像=傅融小纸人}}\n{{对话|我|不许动，就贴一会儿……|头像=内廷绣罗-小纸人}}\n{{对话-尾}}\n\n==地点五·阖乡村宴==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(80, 80, 120, 0.5); border: none; padding: 5px; border-radius: 10px; color: #505078;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0e0e0;\">夕霞好鲜艳……</div>\n    </div>\n</div>\n\n<br><br><br>\n{{冬月农庄|你想去看看那个吗？}}{{冬月农庄|刚出炉的白芋……好甜！}}{{冬月农庄|好香啊。}}{{冬月农庄|唔，村民都在说方言。}}{{冬月农庄|市集上有戏法表演，过去看看？}}\n{{对话-头}}\n{{对话|傅融|农家菜明明食材朴素，但锅气却很香。|头像=傅融小纸人}}\n{{对话|我|这个腊鹅不错！我第一次吃到这种风味的腊鹅。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|好像是拿酒腌过，腌制的酒……闻一下……是本地的酒。|头像=傅融小纸人}}\n{{对话|我|难怪风味独特。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|其他做法都是寻常，独特就是独特在这种酒上。|头像=傅融小纸人}}\n{{对话|我|是这种酒吧？喝一口试试……|头像=内廷绣罗-小纸人}}\n{{对话|我|咳咳……好辛辣！比羌酒还辣……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|是没过滤过的绿酒，味道……咳咳……好刺激……|头像=傅融小纸人}}\n{{对话|傅融|咳！咳咳咳……咳咳咳！|头像=傅融小纸人}}\n{{对话|我|啊你脸都咳红了！拍拍，拍拍……|头像=内廷绣罗-小纸人}}\n{{对话-尾}}\n\n==地点六·农家小院==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(80, 80, 120, 0.5); border: none; padding: 5px; border-radius: 10px; color: #505078;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0e0e0;\">若归为田舍翁……</div>\n    </div>\n</div>\n\n<br><br><br>\n{{冬月农庄|村里的小狗好亲人！}}{{冬月农庄|它让你摸肚子呢。}}{{冬月农庄|睡不惯外面的榻……}}{{冬月农庄|喝些麦茶吧。}}{{冬月农庄|夜空好晴朗……}}\n{{对话-头}}\n{{对话|我|太、太冷了……裹着棉袍都没有用……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|没办法，这里柴火和炭都不够。|头像=傅融小纸人}}\n{{对话|傅融|百姓攒一年的钱，大多都用来囤越冬的炭火木柴了。|头像=傅融小纸人}}\n{{对话|我|真是辛苦啊……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|你不是在西蜀长大的吗？雪山比这里还冷吧？|头像=傅融小纸人}}\n{{对话|我|是不一样的冷，雪山上的那种冷……唔……穿厚棉袍是有用的。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|也是，湿冷和干冷不一样。湿冷是往骨头里钻的。|头像=傅融小纸人}}\n{{对话|我|你摸摸我的手，冰冰凉的。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|……这样握着呢？|头像=傅融小纸人}}\n{{对话|我|……只握着手吗？|头像=内廷绣罗-小纸人}}\n{{对话|傅融|……这样……裹着一件棉服呢？|头像=傅融小纸人}}\n{{对话-尾}}}\n\n==地点七·白雪林场==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(80, 80, 120, 0.5); border: none; padding: 5px; border-radius: 10px; color: #505078;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0e0e0;\">与饲场主讨价还价时，不但情绪稳定，更有王者风范。</div>\n    </div>\n</div>\n\n<br><br><br>\n{{冬月农庄|这是什么动物的足迹呢？}}{{冬月农庄|树林的气味好清香……}}{{冬月农庄|小野猪胖乎乎的……}}{{冬月农庄|给，野梨子。}}{{冬月农庄|听得出那是什么山雀的鸣声吗？}}\n{{对话-头}}\n{{对话|我|奖券规则是怎么说的？“能在雪场里领养一只动物，免费滑雪两个时辰”……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|嗯，可以去问问……|头像=傅融小纸人}}\n{{对话|村民|领养的话是免费的，然后本地也会提供饲养配套的食物和工具。|头像=q版-村民}}\n{{对话|傅融|那些不用，广陵都有。|头像=傅融小纸人}}\n{{对话|村民|啊，为了可爱的小动物着想，还是用本地产的饲料吧。|头像=q版-村民}}\n{{对话|村民|动物虽然是免费的，饲料第一个月免费提供，第二个月开始收费，至少要订购十二个月。|头像=q版-村民}}\n{{对话|我|……好粗糙的套路……|头像=内廷绣罗-小纸人}}\n{{对话|傅融|我猜免费滑雪也是，滑雪是免费的，但是要买一套装备。|头像=傅融小纸人}}\n{{对话|村民|你们是来找茬的吗？乡亲们，给我上！唔噗——|头像=q版-村民}}\n{{对话|傅融|……动、动手？|头像=傅融小纸人}}\n{{对话|我|他们先要揍我们的。|头像=内廷绣罗-小纸人}}\n{{对话|傅融|他们的人数是我们的好几倍。|头像=傅融小纸人}}\n{{对话|我|富贵险中求嘛。|头像=内廷绣罗-小纸人}}\n{{旁白|片刻后……}}\n{{对话|我|呼……擦擦鼻血……|头像=内廷绣罗-小纸人}}\n{{对话|村民|别、别打了！二位！这片林子从此归你们管了，别打了……|头像=q版-村民}}\n{{对话-尾}}\n\n<br>\n<center><font class='zhuxiancolor'><a href=\"#top\" >回到顶部</a></font></center>\n{{#css:\n.zhuxiancolor a {\nfont-weight:bolder;\nfont-family:\"Times New Roman\",Georgia,Serif;\nborder-radius:6px;background:#e0cba7;\npadding:6px 15px 6px 15px ;\nborder:2px solid #e0cba7;\ncolor:#5B3619;\n}\n}}"
+}

@@ -1,0 +1,518 @@
+{
+  "title": "回乡偶书/活动剧情/江东",
+  "category": "活动剧情",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"chunwan\"__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"title\" style\"fontfamily kaiti;\"回乡偶书·江东/div"
+    },
+    {
+      "type": "narration",
+      "text": "h301节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "02节"
+    },
+    {
+      "type": "narration",
+      "text": "h302节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "03节"
+    },
+    {
+      "type": "narration",
+      "text": "h303节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "04节"
+    },
+    {
+      "type": "narration",
+      "text": "h304节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "05节"
+    },
+    {
+      "type": "narration",
+      "text": "h305节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "待补"
+    },
+    {
+      "type": "narration",
+      "text": "06节"
+    },
+    {
+      "type": "narration",
+      "text": "h306节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "待补"
+    },
+    {
+      "type": "narration",
+      "text": "07节"
+    },
+    {
+      "type": "narration",
+      "text": "h307节/h3"
+    },
+    {
+      "type": "narration",
+      "text": "待补"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "bstyle"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan"
+    },
+    {
+      "type": "narration",
+      "text": "width 768px;"
+    },
+    {
+      "type": "narration",
+      "text": "/ 移除 aspectratio，让高度由内容决定 /"
+    },
+    {
+      "type": "narration",
+      "text": "/ aspectratio 1 / 1.65; /"
+    },
+    {
+      "type": "narration",
+      "text": "/ overflow hidden; /"
+    },
+    {
+      "type": "narration",
+      "text": "position relative;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/2/29/lapf9f70h25u7xiy33y9xhbkzdu2h45.png) norepeat center /100%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 0 auto;"
+    },
+    {
+      "type": "narration",
+      "text": "displayflex;"
+    },
+    {
+      "type": "narration",
+      "text": "flexdirection column;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .title"
+    },
+    {
+      "type": "narration",
+      "text": "margin 15px 0px 0px 15px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 36px;"
+    },
+    {
+      "type": "narration",
+      "text": "color FFF8CB;"
+    },
+    {
+      "type": "narration",
+      "text": "textshadow 2px 2px 000;"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "justifycontent spacebetween;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily kaiti;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .text"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "paddingtop 30px;"
+    },
+    {
+      "type": "narration",
+      "text": "flexdirection column;"
+    },
+    {
+      "type": "narration",
+      "text": "alignitems center;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "flexdirection columnreverse;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab ul"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "flexwrap wrap;"
+    },
+    {
+      "type": "narration",
+      "text": "marginauto;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli"
+    },
+    {
+      "type": "narration",
+      "text": "display inlineflex;"
+    },
+    {
+      "type": "narration",
+      "text": "width120px;"
+    },
+    {
+      "type": "narration",
+      "text": "height115px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin0px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding0;"
+    },
+    {
+      "type": "narration",
+      "text": "color666;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) norepeat center / 110px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli a"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "alignitems center;"
+    },
+    {
+      "type": "narration",
+      "text": "justifycontent center;"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "height 82%;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 24px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabullihover"
+    },
+    {
+      "type": "narration",
+      "text": "color666;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbold;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli.active"
+    },
+    {
+      "type": "narration",
+      "text": "textdecoration underline;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) norepeat center / 110px !important;"
+    },
+    {
+      "type": "narration",
+      "text": "color5d3e32;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbold;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent.tabpane"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "overflowyscroll;"
+    },
+    {
+      "type": "narration",
+      "text": "height600px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent.tabpane.active"
+    },
+    {
+      "type": "narration",
+      "text": "background transparent!important;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabullia, .chunwan .tabulliahover, .chunwan .tabulliaactive, .chunwan .tabulliafocus"
+    },
+    {
+      "type": "narration",
+      "text": "textdecorationnone;"
+    },
+    {
+      "type": "narration",
+      "text": "colorinherit;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli.activea, .chunwan .tabulliahover, .chunwan .tabulli.activeaactive, .chunwan .tabulli.activeafocus"
+    },
+    {
+      "type": "narration",
+      "text": "colorinherit;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan webkitscrollbar"
+    },
+    {
+      "type": "narration",
+      "text": "width12px;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "background 775743;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan webkitscrollbarthumb"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "background736758;"
+    },
+    {
+      "type": "narration",
+      "text": ".tabnav"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius25px;"
+    },
+    {
+      "type": "narration",
+      "text": "color 6f4e41;"
+    },
+    {
+      "type": "narration",
+      "text": "background fbfbfbad;"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "marginauto;"
+    },
+    {
+      "type": "narration",
+      "text": "padding5px;"
+    },
+    {
+      "type": "narration",
+      "text": "colorrgb(99,55,25);"
+    },
+    {
+      "type": "narration",
+      "text": "marginbottom10px;"
+    },
+    {
+      "type": "narration",
+      "text": "boxshadow 0 4px 10px rgba(170, 130, 100, 0.08);"
+    },
+    {
+      "type": "narration",
+      "text": "justifycontent spacebetween;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth 870px)"
+    },
+    {
+      "type": "narration",
+      "text": ".globalcontainer displaynone"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 0 2%;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent.tabpane"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tab.tabcontent"
+    },
+    {
+      "type": "narration",
+      "text": "margin5px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding5px 0;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .title"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 24px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli a"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 16px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli"
+    },
+    {
+      "type": "narration",
+      "text": "width 70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": "height70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) norepeat center / 70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": "margin5px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chunwan .tabulli.active"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundurl(https//patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) norepeat center / 70px !important;"
+    },
+    {
+      "type": "narration",
+      "text": ".tabnavwidth100%;padding5px;borderradius5px;"
+    },
+    {
+      "type": "narration",
+      "text": "/bstyle"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%9B%9E%E4%B9%A1%E5%81%B6%E4%B9%A6/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E6%B1%9F%E4%B8%9C",
+  "crawled_at": "2026-04-12T22:01:42.475170",
+  "raw_wikitext": "[[分类:活动剧情]]\n{{面包屑|2026活动剧情}}{{活动背景}}{{施工中}}\n<center>{{板块|按钮|回乡偶书/活动剧情|广陵}}{{板块|按钮|回乡偶书/活动剧情/江东|江东}}{{板块|按钮|回乡偶书/活动剧情/颍川|颍川}}{{板块|按钮|回乡偶书/活动剧情/交州|交州}}{{板块|按钮|回乡偶书/活动剧情/西凉|西凉}}{{板块|按钮|回乡偶书/活动剧情/王府|王府}}</center>\n<div class=\"chunwan\">__NOTOC__\n<div class=\"title\" style=\"font-family: kaiti;\">回乡偶书·江东</div>\n{{Tab\n|01节=\n{{对话-头}}\n<h3>01节</h3>\n{{对话-花灯绘2|孙策|别拦我！——子布，喊他下来！|头像=孙策·壹}}\n{{对话-花灯绘2|虞翻|我不下来！|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|小虞听话，快下来！|头像=张昭·壹}}\n{{对话-花灯绘2|虞翻|我不要……|头像=虞翻·壹}}\n{{对话-花灯绘2|孙策|阿权，抬梯子过来！|头像=孙策·壹}}\n{{对话-花灯绘2|孙权|兄长，要不然算了吧，母亲的马车快到了……|头像=孙权·壹}}\n{{对话-花灯绘2|孙策|就是因为母亲的马车快到了所以让他下来，这小孩太不像话了！子布先生带你赴宴，完全不懂事也就罢了，阿权给你拿了些点心，你不吃就不吃，说那些阴阳怪气的话做什么？|头像=孙策·壹}}\n{{对话-花灯绘2|孙权|没事的，我其实也没太听清他嘀咕了什么……|头像=孙权·壹}}\n{{对话-花灯绘2|虞翻|全天下还有那么多吃不饱饭的人，你们居然能在这里心安理得吃油酥做的点心！我一定要将你们的真面目昭告天……唔啊！|头像=虞翻·壹}}\n{{对话-花灯绘2|虞翻|凌哥……凌哥你把我放下来！|头像=虞翻·壹}}\n{{对话-花灯绘2|凌统|好了，下去吧。吴夫人那边的人都来了。|头像=凌统·壹}}\n{{对话-花灯绘2|孙策|自己下来跟被公绩拎下米有什么差别呢？公绩，车虎营那边都来了吗？|头像=孙策·壹}}\n{{对话-花灯绘2|凌统|大多都来了。中郎将在……小虞，别跑。|头像=凌统·壹}}\n{{对话-花灯绘2|虞翻|呜。|头像=虞翻·壹}}\n{{对话-花灯绘2|凌统|我听正平君说了，你又偷偷溜进广陵王府，睡在角落里？洒扫人发现你的时候，差点被吓昏过去。|头像=凌统·壹}}\n{{对话-花灯绘2|虞翻|……我想去墨山，但是走到广陵就走不动了。|头像=虞翻·肆}}\n{{对话-花灯绘2|凌统|去墨山做什么？文丑上次……明明想杀你。|头像=凌统·壹}}\n{{对话-花灯绘2|虞翻|就是因为那个，我才想当面找钜子问清楚。而且，他为什么要让墨家替士族办事，明明可以在墨山自给自足……|头像=虞翻·壹}}\n{{对话-花灯绘2|凌统|田亩不够，粮食也不够。往外面开垦，也无法抵挡天灾和乱军。如果自给自足那么简单,就不会有那么多走投无路的人了。|头像=凌统·壹}}\n{{对话-花灯绘2|凌统|子布先生好不容易痊愈些了，你长大了，不能像从前那样莽撞，总让大人担心。|头像=凌统·壹}}\n{{对话-花灯绘2|虞翻|凌哥，我可以也跟正平君去当游侠吗？|头像=虞翻·肆}}\n{{对话-花灯绘2|凌统|他也是士族出身，还是广陵王殿下的师兄。|头像=凌统·壹}}\n{{对话-花灯绘2|虞翻|那算了，肯定不是好人。|头像=虞翻·壹}}\n{{对话-花灯绘2|凌统|哈哈……好人和坏人，不是那么绝对的……啊，周中郎将他们来了。|头像=凌统·叁}}\n{{对话-花灯绘2|虞翻|……他们好像在吵架？|头像=虞翻·壹}}\n{{对话-尾}}\n|02节=\n{{对话-头}}\n<h3>02节</h3>\n{{对话-花灯绘2|孙策|什么叫“回去了”？|头像=孙策·壹}}\n{{对话-花灯绘2|周瑜|就是“回去了”的意思。大概到界碑的时候，他忽然说有些紧要事物落在华亭，所以要折返回去，让我们先来赴宴。|头像=周瑜·壹}}\n{{对话-花灯绘2|孙策|……你说陆氏是什么意思？|头像=孙策·壹}}\n{{对话-花灯绘2|周瑜|没什么意思，你别这副样子。快年关了，不要杀性那么重。她让人给我递了话，让我年前盯着你，先不出兵动宗贼。年关下人心易变，她意思是你去把许氏的遗孤安抚好，出资给他们办个体面的后事，然后招安许贡。|头像=周瑜·壹}}\n{{对话-花灯绘2|孙策|开玩笑，许氏还有几个遗孤？|头像=孙策·壹}}\n{{对话-花灯绘2|周瑜|……算了，你当我没说过，我先入座了。|头像=周瑜·壹}}\n{{对话-花灯绘2|孙策|不是你等等。我待他如何？我一开始以上宾之礼待他，他母亲和我母亲有故，我甚至同意与他升堂拜母，结果呢？那人摆明是被曹操收买的，写密信去说我拥兵自重，现在北面有出兵借口了，到这一步我还要管他全族的后事？|头像=孙策·壹}}\n{{对话-花灯绘2|周瑜|越是这样你越是要摆出大度的样子优待他收买他，让他站到你这边。你如果脑子挂我们身上你能挂彻底一点吗？不管是不是曹操收买的，至少在道义上朝廷都是不会错的，你说他给朝廷写信是错的，那就是说朝廷错了，就是说天子错了，你要一口咬死你就是忠臣，谁敢僭越谁就是反贼。|头像=周瑜·壹}}\n{{对话-花灯绘2|周瑜|许贡写密信这件事情本身有错吗？没有，人家凭什么不能给朝廷写信呢？只是密信的内容，它有待商榷，对不对？密信今天可以说你拥兵自重，但是等你好好抚恤许氏的遗孤、好好安抚了许贡，好好商榷完，他看见冰冷的族人变成温暖的真金白银，说不定忽然会想到，哎，我的那卷密信是不是需要改稿？或者说，我寄出的密信明明是夸孙氏忠心汉室的，怎么会在半途被州外势力替换成了弹劾呢？太神奇了。|头像=周瑜·壹}}\n{{对话-花灯绘2|孙策|别神奇了。派人探过口风了兄弟，拿钱砸不通的，都散尽家财投靠墨家那群法外狂徒了，说不定背地里每天都在哭着扎我小人。|头像=孙策·壹}}\n{{对话-花灯绘2|虞翻|你说谁是法外狂徒？！还有，我们才不会扎小人！|头像=虞翻·壹}}\n{{对话-花灯绘2|孙策|就是你就是你，一群法外狂徒，你就是个小法外狂徒。喝你的白水去。|头像=孙策·壹}}\n{{对话-花灯绘2|孙权|有梨汁和甜酒，试试看吧？|头像=孙权·壹}}\n{{对话-花灯绘2|虞翻|我就喝白水……哼。|头像=虞翻·壹}}\n{{对话-花灯绘2|孙权|……唔，其实，梨子应该不违背你们的道义吧？是很常见的水果，又是农家栽种出来的，哪怕路边都会有很多野梨呢。|头像=孙权·壹}}\n{{对话-花灯绘2|虞翻|也、也是……|头像=虞翻·肆}}\n{{对话-花灯绘2|孙权|试一口吧，很好喝的。|头像=孙权·贰}}\n{{对话-花灯绘2|虞翻|好甜！……不行，不能沉迷口腹之欲……好甜！……不行……可是好甜！……不行……不行！|头像=虞翻·伍}}\n{{对话-花灯绘2|凌统|偶尔喝一点还是很不错的，对吧？……嗯？外面好像有人来传报……|头像=凌统·贰}}\n{{对话-花灯绘2|侍卫|不好了！将军，不好了！城里出事了！|头像=侍卫·壹}}\n{{对话-花灯绘2|侍卫|吕蒙和朱然……他们……他们被城尉扣下来了！|头像=侍卫·壹}}\n{{对话-尾}}\n|03节=\n{{对话-头}}\n<h3>03节</h3>\n{{对话-花灯绘2|城尉|什么妖人，竟敢偷二位将军的符牒！|头像=城尉·壹}}\n{{对话-花灯绘2|吕蒙|奴家是……扬州小红莲哦。|头像=小红莲·贰}}\n{{对话-花灯绘2|吕蒙|咳，咳咳。|头像=小红莲·壹}}\n{{对话-花灯绘2|朱然|吴、吴郡小玫瑰……|头像=朱然·贰}}\n{{对话-花灯绘2|城尉|假借他人符牒是死罪，把这两个妖人拿下！|头像=城尉·壹}}\n{{对话-花灯绘2|吕蒙|没办法了……小朱！动手！|头像=小红莲·壹}}\n{{对话-花灯绘2|朱然|好！得罪了！|头像=朱然·壹}}\n{{对话-花灯绘2|吕蒙|啊啊我让你动手打开他们，没让你动手抓我啊！|头像=小红莲·壹}}\n{{对话-花灯绘2|朱然|对、对不住……|头像=朱然·肆}}\n{{旁白| }}\n{{对话-花灯绘2|吕蒙|黄盖将军！太好了，将军回来了，将军，帮我们和他说说吧！|头像=小红莲·叁}}\n{{对话-花灯绘2|黄盖|……|头像=黄盖·壹}}\n{{对话-花灯绘2|城尉|好的，好的……原来如此……好！|头像=城尉·壹}}\n{{对话-花灯绘2|吕蒙|终于能放我们出城了唔啊啊……|头像=小红莲·贰}}\n{{对话-花灯绘2|城尉|将军说了你们就是两个假冒者，拿下！|头像=城尉·壹}}\n{{旁白|<hr>}}\n{{对话-花灯绘2|吕蒙|小辅，你能帮哥跟黄盖将军说说吗？哥带你进白浪营啊，以后就不用在斑子队跑腿了。|头像=小红莲·壹}}\n{{对话-花灯绘2|孙辅|黄盖将军说，请将军把偷走的广陵王府公文交出来。|头像=孙辅·壹}}\n{{对话-花灯绘2|朱然|封妃的公文居然是前辈偷来的？！|头像=朱然·壹}}\n{{对话-花灯绘2|孙辅|……他怎么跟你说的？难道广陵王会直接给他送公文吗？|头像=孙辅·壹}}\n{{对话-花灯绘2|朱然|前辈说，他有次男扮女装，殿下对他一见钟情，欲冲破世俗的樊篱将他封为王妃……|头像=朱然·壹}}\n{{对话-花灯绘2|孙辅|哇哦。你继续。|头像=孙辅·壹}}\n{{对话-花灯绘2|朱然|还在公文中指定我陪嫁。|头像=朱然·贰}}\n{{对话-花灯绘2|孙辅|这个倒勉强能理解。|头像=孙辅·壹}}\n{{对话-花灯绘2|朱然|前辈说，今天开始，我们就是殿下的人了，要掩埋过去的身份。所以他拉着我男扮女装准备出城……|头像=朱然·壹}}\n{{对话-花灯绘2|孙辅|真是深情啊。事实是因为年前借了同僚太多钱去吃喝玩乐，年关到了没法还债，所以打算溜去外地躲债……|头像=孙辅·壹}}\n{{对话-花灯绘2|朱然|什么！|头像=朱然·壹}}\n{{对话-花灯绘2|吕蒙|我原来能还上的，只要见到伯言问他借点就行，谁想到伯言回老家了，没来寿春……|头像=小红莲·肆}}\n{{对话-花灯绘2|孙辅|那公文呢？这东西可不能让孙将军见到。|头像=孙辅·壹}}\n{{对话-花灯绘2|吕蒙|我回家换衣裳的时候遇到了乔女公子的师父，他让我把公文交给他，让他带回广陵复命，我就给他了。|头像=小红莲·壹}}\n{{对话-花灯绘2|孙辅|……哪有拿着送来的公文回去复命的啊。|头像=孙辅·壹}}\n{{对话-花灯绘2|张昭|孙辅公子，听说吕蒙和朱然出事了，在下来查问情况。|头像=张昭·壹}}\n{{对话-花灯绘2|孙辅|先生来的正好。详情听说……|头像=孙辅·壹}}\n{{对话-花灯绘2|张昭|原来如此……兹事体大，确实不能贸然让孙将军知道。我去见周忠使君，将文书先扣下来吧。|头像=张昭·壹}}\n{{对话-尾}}\n\n|04节=\n{{对话-头}}\n<h3>04节</h3>\n{{对话-花灯绘2|虞翻|师叔师叔，我们是要去哪啊？|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|去见周忠使君，要回公文。他是周中郎将的叔父，待会见了人……哎，小虞！|头像=张昭·壹}}\n{{对话-花灯绘2|张昭|怎么跳车跑了……回来。|头像=张昭·壹}}\n{{对话-花灯绘2|虞翻|我不想见这些人……道不同不相为谋。|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|只是想带你多见些人。你总是独来独往，去哪也不跟我说，有时候忽然消失五六日乃至月余……上次还一声不吭，去了交州那么远的地方。|头像=张昭·壹}}\n{{对话-花灯绘2|虞翻|对了师叔，说到交州，我想把墨家学说传去交州。那里有很多人为奴为婢，受人欺凌，我可以去那边传道，带他们诛恶除暴。|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|去墨山中途走不动了还能去广陵歇脚，去交州途中走不动了，能去哪里歇脚呀？|头像=张昭·壹}}\n{{对话-花灯绘2|虞翻|唔……唔……|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|好了，我们到了。周忠使君？使君在吗？……小虞，你去叩门，记得之前学的客礼。|头像=张昭·壹}}\n{{对话-花灯绘2|虞翻|我都忘了。先……先自报家门？我是墨家虞翻……|头像=虞翻·壹}}\n{{旁白|}}\n{{对话-花灯绘2|张昭|你要报谁让你来的。我们替孙策将军，也就是将军府取回广陵王府的公文，你可以直接说你是奉将军府之命而来，然后再自报家门，你出身慈溪虞氏，就要自称慈溪虞翻……|头像=张昭·壹}}\n{{对话-花灯绘2|虞翻|……|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|听话，好不好？去吧……|头像=张昭·壹}}\n{{对话-花灯绘2|小乔|老师回江东，殿下知道吗？|头像=小乔·壹}}\n{{对话-花灯绘2|周忠|当然不知道呀，她严令不许我再回来见你的。可老师怎么放得下你？小乔，过去的事，你还怪老师吗？老师被囚禁在殿下手中，无时无刻不在担心你……临近年关，老师无论如何都忍不住了，想回来看看你……|头像=周忠·肆}}\n{{对话-花灯绘2|小乔|……过去的事，我不怪老师。老师也有老师的苦衷……|头像=小乔·壹}}\n{{对话-花灯绘2|周忠|真是个善良的孩子啊。老师又想到一条新的出路了，听说，崔烈在替殿下寻王妃呢。听到这个消息后，我就偷偷回来找你了。|头像=周忠·肆}}\n{{对话-花灯绘2|周忠|看，顺便还找到了文书。上次的事，我仔细想了想，确实是我莽撞了。你从小娇生惯养，幽州那种苦难之地如何能去？广陵王妃这个位置，简直再适合你不过了！|头像=周忠·肆}}\n{{旁白|}}\n{{对话-花灯绘2|小乔|啊？为何？|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|……|头像=小乔·壹}}\n{{对话-花灯绘2|小乔|？！！原来如此！殿下喜欢女的！完了！完了啊！|头像=小乔·肆}}\n{{对话-花灯绘2|周忠|别想那些一看就知道没做过的人才能写得出的东西了。我斟酌了一下，你是旧臣之女，彼此知根知底，而且守口如瓶，能替殿下隐瞒秘密。等再过几年，你再设法弄一个孩子来，殿下若恰好出了些意外，两府就是我们说了算。|头像=周忠·贰}}\n{{对话-花灯绘2|小乔|老师你在想什么啊啊——|头像=小乔·肆}}\n{{对话-花灯绘2|周忠|至于择选环节就交给老师去上下打点吧！都是我的旧相好，两下就搞定了！|头像=周忠·叁}}\n{{对话-花灯绘2|小乔|快住手啊啊啊——|头像=小乔·肆}}\n{{对话-花灯绘2|虞翻|住手！何方恶徒，在此滋扰妇人？！|头像=虞翻·壹}}\n{{对话-花灯绘2|周忠|哎？|头像=周忠·壹}}\n{{对话-花灯绘2|小乔|哎？|头像=小乔·肆}}\n{{对话-花灯绘2|虞翻|啊？我、我听见声音，所以……是我误会了吗……我莽撞了！我会把门修好的！|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|小虞你怎么……啊，周忠使君，这是我故友之子，虞翻。他年少气盛，惊扰二位了！|头像=张昭·壹}}\n{{对话-花灯绘2|张昭|不过，我们有公务在身。小虞？小虞？说话呀……|头像=张昭·壹}}\n{{对话-花灯绘2|虞翻|呃！将军奉孙策之命……不是，是孙策奉将军之命……我、我还是去修门吧！|头像=虞翻·壹}}\n{{对话-花灯绘2|张昭|唉……总之，周忠使君，殿下那边的公文在使君手中吗？|头像=张昭·壹}}\n{{对话-花灯绘2|周忠|一定要交出来吗？其实……还没有多少人知道此事呢。|头像=周忠·肆}}\n{{对话-花灯绘2|周忠|子布君，能否看在过往的同僚之情上……|头像=周忠·肆}}\n{{对话-花灯绘2|士兵|那边！好像往那边逃了！|头像=士兵·壹}}\n{{对话-花灯绘2|周忠|啊！|头像=周忠·壹}}\n{{对话-花灯绘2|张昭|外面……是在抓逃犯吗？……周忠使君？周忠？他去哪了？|头像=张昭·壹}}\n{{对话-花灯绘2|小乔|老师可能以为是来抓他的，所以翻窗逃了……|头像=小乔·壹}}\n{{对话-花灯绘2|虞翻|我带着木头回来了！……-窗怎么也破了？！是我刚刚那一脚太用力了吗……淑女别担心！我会把窗也修好的！|头像=虞翻·壹}}\n{{对话-花灯绘2|士兵|快，把那边的闾口堵住，传令城门严加防备。|头像=士兵·壹}}\n{{对话-花灯绘2|士兵|年关将近，许多逃犯都借人群往来城门。将军府上近来在大办宴席，城中绝不能生乱！|头像=士兵·壹}}\n{{对话-花灯绘2|步卒|是！|头像=步卒·壹}}\n{{对话-花灯绘2|陆氏仆人|……呼……呼……|头像=陆氏仆人·壹}}\n{{对话-花灯绘2|陆氏仆人|唔……谁啊……哎？！公、公子？！公子怎么……|头像=陆氏仆人·壹}}\n{{对话-花灯绘2|陆氏仆人|都过来！公子回……|头像=陆氏仆人·壹}}\n{{对话-花灯绘2|陆逊|嘘，不要声张。|头像=陆逊·壹}}\n{{对话-花灯绘2|陆氏仆人|是，是……公子有近两年没回过祖宅了，怎么忽然……|头像=陆氏仆人·壹}}\n{{对话-花灯绘2|陆逊|……我本要去寿春赴宴，忘了备礼，便就近折返华亭，想筹备些现成的年礼。|头像=陆逊·壹}}\n{{对话-花灯绘2|陆氏仆人|交给小人吧！祖宅的东西都存的好好的，公子告诉小人想备几份，小人明日就……|头像=陆氏仆人·壹}}\n{{对话-花灯绘2|陆逊|无事，我自己来就好……对了，我回来的事，不要说出去。|头像=陆逊·壹}}\n{{对话-花灯绘2|陆逊|呼，应该没人知道……|头像=陆逊·壹}}\n{{对话-花灯绘2|陆逊|……你在吗？别怕，是我，没有别人。|头像=陆逊·壹}}\n{{对话-花灯绘2|陆绩|我……|头像=陆绩·壹}}\n{{对话-花灯绘2|陆绩|我在这，伯言……|头像=陆绩·壹}}\n\n{{对话-尾}}\n\n|05节=\n{{对话-头}}\n<h3>05节</h3>\n待补\n\n{{对话-尾}}\n|06节=\n{{对话-头}}\n<h3>06节</h3>\n待补\n\n{{对话-尾}}\n|07节=\n{{对话-头}}\n<h3>07节</h3>\n待补\n\n{{对话-尾}}\n}}</div>\n<bstyle>\n.chunwan {\nwidth: 768px;\n    /* 移除 aspect-ratio，让高度由内容决定 */\n    /* aspect-ratio: 1 / 1.65; */\n    /* overflow: hidden; */\nposition: relative;\nbackground:url(https://patchwiki.biligame.com/images/yuan/2/29/lapf9f70h25u7xiy33y9xhbkzdu2h45.png) no-repeat center /100%;\nmargin: 0 auto;\ndisplay:flex;\nflex-direction: column;\n}\n.chunwan .title {\nmargin: 15px 0px 0px 15px;\nfont-size: 36px;\ncolor: #FFF8CB;\ntext-shadow: 2px 2px #000;\ndisplay: flex;\njustify-content: space-between;\nfont-family: kaiti;\n}\n.chunwan .text {\ndisplay: flex;\npadding-top: 30px;\nflex-direction: column;\nalign-items: center;\n}\n.chunwan .tab {\ndisplay: flex;\nflex-direction: column-reverse;\n}\n.chunwan .tab ul {\ndisplay: flex;\nflex-wrap: wrap;\nmargin:auto;\n}\n.chunwan .tab>ul>li {\ndisplay: inline-flex;\nwidth:120px;\nheight:115px;\nmargin:0px;\npadding:0;\ncolor:#666;\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) no-repeat center / 110px;\n}\n.chunwan .tab>ul>li a {\ndisplay: flex;\nalign-items: center;\njustify-content: center;\nwidth: 100%;\nheight: 82%;\nfont-size: 24px;\n}\n.chunwan .tab>ul>li:hover {\ncolor:#666;\nfont-weight:bold;\n}\n.chunwan .tab>ul>li.active {\ntext-decoration: underline;\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) no-repeat center / 110px !important;\ncolor:#5d3e32;\nfont-weight:bold;\n}\n.chunwan .tab>.tab-content>.tab-pane {\nwidth:100%;\noverflow-y:scroll;\nheight:600px;\n}\n.chunwan .tab>.tab-content>.tab-pane.active {\nbackground: transparent!important;\n}\n.chunwan .tab>ul>li>a, .chunwan .tab>ul>li>a:hover, .chunwan .tab>ul>li>a:active, .chunwan .tab>ul>li>a:focus {\ntext-decoration:none;\ncolor:inherit;\n}\n.chunwan .tab>ul>li.active>a, .chunwan .tab>ul>li>a:hover, .chunwan .tab>ul>li.active>a:active, .chunwan .tab>ul>li.active>a:focus {\ncolor:inherit;\n}\n.chunwan ::-webkit-scrollbar {\nwidth:12px;\nborder-radius: 20px;\nbackground: #775743;\n}\n.chunwan ::-webkit-scrollbar-thumb {\nborder-radius: 20px;\nbackground:#736758;\n}\n.tab-nav{\nborder-radius:25px;\ncolor: #6f4e41; \nbackground: #fbfbfbad;\nwidth:100%;\nmargin:auto;\npadding:-5px;\ncolor:rgb(99,55,25);\nmargin-bottom:10px;\nbox-shadow: 0 4px 10px rgba(170, 130, 100, 0.08);\njustify-content: space-between;}\n@media only screen and (max-width: 870px) {\n.global-container {display:none}\n.chunwan {\nwidth:100%;\nmargin: 0 -2%;\n\n}\n.chunwan .tab>.tab-content>.tab-pane {\nwidth:100%;\n\n}\n.chunwan .tab>.tab-content {\nmargin:5px;\npadding:5px 0;\n}\n.chunwan .title {\nfont-size: 24px;\n}\n.chunwan .tab>ul>li a {\nfont-size: 16px;\n}\n.chunwan .tab>ul>li {\nwidth: 70px !important;\nheight:70px !important;\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/eb/cv2nrrzvd0qtx07f71k2bjolz5im8ji.png) no-repeat center / 70px !important;\nmargin:-5px;\n}\n.chunwan .tab>ul>li.active {\nbackground:url(https://patchwiki.biligame.com/images/yuan/e/ec/k5jfts3hi6b4f94qw2ywo5tmjb35rlk.png) no-repeat center / 70px !important;\n}\n.tab-nav{width:100%;padding:5px;border-radius:5px;}\n}\n</bstyle>"
+}

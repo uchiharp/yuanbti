@@ -1,0 +1,2143 @@
+{
+  "title": "邺城之战/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "侍从",
+    "士族",
+    "宾客",
+    "张燕",
+    "心理",
+    "戏学",
+    "我",
+    "文官",
+    "武官",
+    "袁基",
+    "袁氏侍卫",
+    "袁绍",
+    "陶升",
+    "黑山军"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "这里便是白虎讲宴的宴厅了，宾客入席后，此地会连宴三日，共讲经义。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "处处雅致，典丽非常，不输洛阳白虎观。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "此次宾客众多，招待如此多的贵客怕是不易。准备了许久吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "还好。三年前曾办过类似雅集，有旧例可循……啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你双目不便，小心脚下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……被看出来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "再怎么装作无事，看得见和看不见都是不一样的。不过你大部分时间坐主座上，应该能掩饰八九成。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "果然还是瞒不过殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "换了重些的酒杯，不会被轻易碰翻。只要记住酒杯的位置……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "但用膳还是很难吧……是不是要现在提前吃一些？接下来一整夜都只能喝酒了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "唔……这样的话，会被看出来这盘糕点被人动过的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "吃光了不就看不出来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "你们在干什么……你怎敢在讲宴的地方对长兄做这种事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "咳……是我不慎绊倒，殿下想拉起我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "然后就一起摔倒了坐垫上？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对，就是这样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "然后再一起滚过装糕点酥饼的盘子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对，对，就是这样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "后面跟着的人怎么服侍的？为什么没劝住？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "……二公子这叫什么话，这是小人们能劝住的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "……你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "太无礼了，怎能对公子言语如此桀骜不驯？退下去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "长公子为族务夙夜烦忧，难得有片刻闲暇……何人才会不识情趣和时务上前打断啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "况且为了今日与殿下相会，已经准备多日了，只是在此地恰好情难自抑……身为侍从，难道要为了几盘糕点，扰乱主人的兴致吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "……我总有一天腾出手收拾你。你给我等着。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "你们这群人，趁他身体不好，天天在他耳边吹什么邪风，我一清二楚！来日方长……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "二公子要跟我这样的人计较吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "好了，小若，别和将军饶舌。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "是。小人知错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "真是……果然以后还是得稍稍谨慎……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下觉得，在下现在的心中，有何所想？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我来了，你还有什么其他的所想？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "正值枫叶纷纷，“我心匪石”啊，袁公子许久不寄这样的情书了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "即已相知，如此书信，岂非显得空有其词，令人觉得卖弄轻佻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "难道，殿下喜欢这种？既见君子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "……好了好了，我们还是正常说话吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "哈哈哈……念卿成疾？思君令人老？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈哈……我们当初居然能这样坐在榻上，互相说情话说到夜半。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……毕竟是初遇之时……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "何事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "武官",
+      "text": "头像=西凉军甲",
+      "emotion": "在马厩外抓住黑山细作陶氏，已送往城牢审问了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "巨鹿田氏、广平沮氏……真是豪强云集。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "有几家来的似乎不是主事，十分年轻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "几位家主随本初往巨鹿祭祀告捷，派族中子弟过来应酬走动。有几位今年刚入将军府任文学掾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "就给个虚职呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "很有前途的虚职。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "毕竟是将军近前行走的人，就像从前在内廷御前行走的御史，就算官位不高，也没有实权，但往往能一步登天。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "本地局势如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……一切顺遂，殿下切勿担心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……来的路上，我得到一卷密信。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "在下如今双目不便，密信……说了何事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……啊……这样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "有趣吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "有趣极了。既然得信，殿下为何又亲身前来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……袁公子夙夜忧劳，苦盼相见，我若不来，岂非叫你成了尾生？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "就算是刀山火海，都得亲身前来相会。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "武官",
+      "text": "头像=副将",
+      "emotion": "魏郡兵变，倒戈黑山，里应外合放出关口。西北城营告急，黑山军大军进发，围向邺城！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宾客",
+      "text": "头像=伪装宾客",
+      "emotion": "魏郡叛逃黑山？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族",
+      "text": "头像=美型文官",
+      "emotion": "这……大军皆随袁绍将军往巨鹿拜祭，如何守城？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "怎么守得住？现在就连能否逃出城池都未可知啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "魏郡兵变，黑山突袭，大军在外……既是绝境，诸君又何必慌乱？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "使君，趁黑山尚未围拢，安排车马尽快出城吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……也是，人皆欲求生，使君言之有理。将众人的车马都套好，派府兵护送宾客出城。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宾客",
+      "text": "头像=伪装宾客",
+      "emotion": "那使君呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "邺城乃袁氏全族所依之地，身为家主，在下于道义不可弃城求生。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下，请速随宾客撤离邺城，一旦退路被截，就再无机会了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你在这，我又何必仓皇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我留在这帮你。毕竟双目不便，就算是在自己家，也容易绊倒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏侍卫",
+      "text": "头像=士兵",
+      "emotion": "袁谭公子……公子访友回城，却在道口被黑山军劫走，侍卫死伤惨重……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏侍卫",
+      "text": "头像=士兵",
+      "emotion": "黑山军已经围城！还请家主定夺，该如何退敌！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "殿下，长公子，学生来迟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学生……没有错过经论吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "今日是《白虎通义》与《春秋繁露》，无甚趣味。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "夜宴还未散，学弟来的还不算太晚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学生之前就因为未时常前来拜访，错失了加官进爵呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "燕子麾下的另一个小兄弟，被封了黑山校尉。长公子，可否指点一二？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "天子降诏，岂敢揣摩圣意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "是这样吗？还以为长公子想在黑山军中扶持山头，挑拨离间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "毕竟从前眭固和于毒就被收买过，万一袁氏想故技重施……啊，不过他们被燕子打了一顿之后，已经乖乖回家了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "难怪黑山军近日强势，原来是战友冰释前嫌，军心凝聚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "可既然大军就在城外，何不杀入城中，占领邺城呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "吓，学长在说些什么呀。我们可不是那种草莽恶徒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……学长……你家，是不是丢了一位公子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "啊，袁氏的公子呢……他的脖子又细又软，皮肤光洁细腻。刀切下去，一定像是切过羊脂的手感吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……袁基？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……学弟作为黑山使者，如今在邺城能在车上高谈阔论，全因黑山军尚未攻城，彼此还可各退一步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "若是袁谭公子有何不测，在下身为他的伯父，便不能再退半步了……唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……是吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……不是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "这是谁？在下若想将他安葬，也需知晓他名姓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学长自己请封的黑山校尉，自己不认得了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "原来是他呀……那，袁谭呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "袁谭公子，当然是学弟在这里的倚仗呀。万一就像学长说的那样，双方火并，学弟还能手握公子，逃出一劫……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "心理",
+      "text": "袁谭在他手上，袁氏不敢轻举妄动……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "对了。听说之前，学长身受重伤，双目失明……学长的眼睛，如今可有好转？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "不必担心，已经痊愈了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "如此记挂同窗，难怪学弟瞧着憔悴，今日入宴，记得让侍从帮忙补些敷粉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "学弟前来赴宴，何必久居门外？请入内吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "之前得到消息，是曹操为张燕请封。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "曹操要为张燕请官，试图招抚黑山军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "公孙瓒南下，黑山军东进，魏郡之中士族相争，若让曹操招募黑山，袁氏将岌岌可危。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "只是你想扶持的小武将，并不能在黑山军中独当一面。何必如此做，激怒张燕他们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "若不激怒他们，如何能在危城之中，与殿下屏后私语呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这张嘴又不说真话……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……他们会看见屏风后的影子的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "刚才，我已经让他们将帷幕放下来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "唔……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "说不定……是此生最后一次亲近了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嗯？公子在看什么呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "看学长和殿下呀，二位从幕后出来，笑得满面春风。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哪里可怕，长公子笑得多好看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "呵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "转过来让我看看……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宾客",
+      "text": "头像=伪装宾客",
+      "emotion": "咳！咳咳！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "咳……学弟孤身入城，大军在外，若是攻城，学弟生死难料，如此僵持，是有何要事还想商议吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "都说了，学长不能还将我们视作草莽恶徒啊。此次来邺城，学弟可是想竭力保全诸位贵客的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……外面虽有黑山军磨刀霍霍，我也想以一己之力护住城中官民……不知在座诸位，可否随在下往朝歌避战？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "朝歌……黑山军如今的本营？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "这不就是做黑山军的人质吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……使君不想吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……那你会变成阿毒的下酒菜哦。阿毒被燕子狠狠打了一顿，这段时日脾气很差呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "诸位，大军就在外。我可以叫一队人进来，带几口装小牛羊的笼子，把你们一头一头塞进去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "当然，我们也能以礼相待，诸位作为我的贵客，体面地随我往朝歌出游踏青。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "城中，士族随行的府兵，恐怕不会答应主人这样被掳走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "进来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学长好像还没识时务。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "我可以让他们把你们两个拖下来，让你们把刚才在屏风后做的事当众再做一遍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "君子也是饮食男女。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我们在屏风后论个道，道法自然，三生万物，有什么好避讳的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "二位就嘴硬吧。到时候，别在柱子上一头碰死啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈哈哈……他说我们会一头碰死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "哎呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你记得上次碰了哪边吗？别再碰到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "羊角，邺城的东南门开了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "嗯？是谁开的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "好像是老杨的兄弟，说刚才接到开城门的命令，要往外运城中缴获的战利。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……好像？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "我去把人拦下来，再问一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "羊角！羊角！是陶升！陶升叛了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……哦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "那畜生肯定是投靠了袁氏，骗兄弟们让出城门，将袁氏的家眷族人都送出城了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "哎呀，追上去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "……追上去，可能会正好遇到袁氏回援的大军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "这可为难了……没有那些袁氏族人，袁绍说不定就敢豁出去攻城呀。不过，袁谭还在我们手上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基也在啊，他才是最值钱的筹码吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "哎，惭愧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "啊哈哈……是吗？我倒担心袁绍反而因为袁基学长在我们手上，彻底肆无忌惮地攻城呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "来，试一试。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "在下不擅用剑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "君子尚剑，辟雍的剑术可是必修。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "剑术老师并不严格，郭嘉都能毕业。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "特意为你挑的剑上玉具，来，这样拿着，长剑横在身前，抬一点下巴，在剑上方露出眼睛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……这样吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……真是奇特，玉人挽剑，反倒生出艳色。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……二位这样调情，学弟都不好意思看了，有辱斯文啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "羊角！差不多放出去二十台车马，可能有一百二十余人放出去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "唉，一百二十人吗……那就杀一百二十名宾客吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "——学弟何必虚张声势？若黑山军真能入城劫掠，你早就打开城门，让大军入城了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "一者，邺城不是战备之地，城防不足，易攻难守。二者，黑山军构成复杂，六七成都是随军流民，能作战者并不足数。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "若放大军进城，大军必然在邺城劫掠放纵。军纪本就形同虚设，一旦开始劫掠，就再也管束不住了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "若本初带兵回援，你们无法及时组织军队守城或撤离，反而会被拖死在城里，我猜，这就是你为何迟迟不让黑山军主力进城的缘故。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学生好羡慕，学长居然能有殿下这样的知己，能彼此心意相通……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "可相通了，又如何呢？——抓一百二十人，砍下他们的头，悬于城楼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "黑山军主力不敢进城，不必顾虑！召集随行府兵，镇守邺城！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学长这样，是不顾袁谭的性命了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "你怎么证明，谭儿还活着？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "送一只手给他的伯父看看？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "哈……真是的，学弟就是这样不拘小节。落下这等残疾的长公子，对士族而言……一文不值。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "那样听起来，断手的士族、掉脑袋的士族和瞎了眼的士族，都是一个价吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "呵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "听着——无论是亲卫、府兵还是黑山军，拿下此人者，赏百金，封校尉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "咴……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "怎么开始戴这些了，张燕将军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "抢的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "声音细碎，容易被听出来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "他，提示你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "哎呀，我愈发崇拜学长了，以前从来不知，学长居然有如此耳力。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "学而时习之呀，学弟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我就觉得，你从前耳力就好。我府里的琴，弦音准不准，你一听就知。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "为殿下调琴准音，自当尽心，"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "燕子你听听你听听。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "我，听见了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "那你还不快把他们的舌头割下来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "我要看这两条舌头天天亲在一起，说点没脸没皮的话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "到底，要舌头，还是，要脸皮？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁公子，他要我们的脸皮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "那趁着脸皮最后还在脸上的时候……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "留一个彼此的记号吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……邺城若把学长的脸皮贴在城墙上，那这堵城墙，应该千百年都撞不破。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "话说回来，今日是文人之宴，何必如此动刀剑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "要不要谈一谈？我与长公子都在此，想要什么官职，立刻就能兑现。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "真的吗？殿下，学生真的能如此平步青云吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你又不想当皇帝，只是想要个足够漂亮的官职，何必不给呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "被曹操招募就可以，被袁氏招募就不行吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "曹操的脸皮就薄了吗？这么多年，得袁氏的好处和庇护，却也敢反咬一口……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学长从前，毕竟与学生有些误会芥蒂……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "哎呀，这是什么话。利益当前，从前的恩怨，不值一提。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是啊，若能招募黑山军，哪怕有万般旧怨，二位也能成为袁氏的座上宾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "学弟，要坐到我和殿下中间来吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你也不是没坐过。来，请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学生还是知道，长公子是什么人的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "是汝南人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "咳咳——噗哈哈哈……你不要趁我喝酒的时候……哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "若是我，哪怕利益相同，学长也不会放下那点旧怨的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "学长的心胸，对其他人可以广阔，可以不计前嫌，但对于我，哪怕我自请归降，都会被活活剥皮、千刀万剐吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "那，你是不想选官位了，万剐校尉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "你真坏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "嗯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "人家学生不过是想看看我们在帷幕后论道，学一下内经吐纳之术，你却要把人家千刀万剐？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "万剐校尉和千刀校尉，虽都是杂牌将军，听起来，万剐的俸禄和官位比较高啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "燕子，怎么还没把他们的舌头割下来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……袁谭的事，你有把握？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "放心吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他若少了个长子，更不可能过继给你袁尚了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "哈……殿下那么喜欢尚儿？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那孩子可爱……安静下来的时候，眉眼气质，有几分像你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "你们，聊啥。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "聊孩子呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宾客",
+      "text": "头像=伪装宾客",
+      "emotion": "使君，袁绍将军为何还未回援？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "不必担心，在下会尽地主之谊，护诸位平安。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "你们谁都别想走。你们今晚都是我的小蜜糖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "今夜不是你们的蜜糖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "是在下的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "让人，进。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "让主力进城，他们会在邺城大乱，一旦袁绍反扑，无法及时组织兵力守城。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "不要怕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "听见了吗？张燕将军说不要怕。小赌怡情，学弟，赌一把试试？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是啊，二对二，很公平。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "荀彧学长若在此，一定已经站在我们双方正中间，准备开盘了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "……袁绍的回援，来的有些慢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "外面，在等。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你们不让大军入城，也是计划让他们留在邺城外，围城打援吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "也可能在等公孙瓒派来的援兵。听说黑山军和公孙瓒联手，欲夹击攻破袁氏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哎呀，这可是燃眉之急。袁绍将军的援军若是回来，说不定会遭受两面夹击，顷刻大败。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "本初若是不回来就好了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "邺城，乃袁氏本营，他舍得弃城？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "他带大军外出祭祀，本营空虚。你们带大军攻打邺城，朝歌本营，不也同样空虚吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "黑山军的本营朝歌，线下只有于毒一名将领驻守。不知道于毒将军能撑多久。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "公孙瓒的援军……应是不会来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "青州黄巾军原本要与他们汇合，却被公孙瓒尽数剿灭，黑山军和公孙瓒都对彼此抱有防备。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "袁基，你们敢逃，那位叫袁谭的公子，就要改名叫腌菜坛子了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "啊，谭儿他宁死也不同意的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "那他可能真的就去死了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "我们已经把消息递到了袁绍将军手里，如果想让他的长子活命，他就不可妄动。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "他不可能答应。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "第一次确实没答应，还暴怒地把我们送信的兄弟杀掉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "第二次，我们送了那孩子的一点东西过去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "其实我们也知道，要是人残疾了，就没那么宝贝了。所以送的……是些平时从外面看不太出来的部分。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "这么细心吗……那，在下代谭儿和本初谢过学弟了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "袁家主，好狠的心啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "燕子，听见了吗？袁绍的大军往朝歌，偷我们的老家去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "嗯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "那，我们也不必客气了。让黑山大军进城吧，一个不留。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "他们想赌，赌本初派往朝歌的兵马快，还是他们攻打邺城的云梯快。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你赌哪个？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "在下赌……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……在下赌殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "真的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "嗯，真的。我信殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "如此情景，事发突然，我也别无他法，既没有得力的心腹在侧，也没有周密的准备……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "在下……是全心全意相信殿下的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "可我若真别无他法了呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "那，出了邺城，便将邺水作弱水如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "能在黑云压城之际，与袁氏之地殉城，与心上人殉情……夫复何求？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……陶升……看来已经收买了这处城门的黑山军头目呢"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "真是个人才啊。不知袁氏抓住这名细作关入牢中之后，是怎么与他晓之以情动之以理的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "呵呵……其实，在下也不是很会晓之以情、动之以理。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "怎么会，长公子可是最讲道理的人了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "真的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……撞柱子的时候也是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "是不是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "大多数时候……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "所以有小部分时候不是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哎，人非圣贤，偶尔不讲道理、有些小气性……那才有意趣呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "燕子飞得真快，追过来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "他很快就插翅难飞了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……原来如此。我还在想，黑山军在外虎视眈眈，袁氏如何还敢让公子轻车简从地外出访友。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "被抓走的，应该只是袁谭公子的替身吧。真正的袁谭……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "随他的父亲，往朝歌进军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "邺城，我的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "尚未落定呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "袁基，你真的信我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "自然。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下早已看过那卷密信，知道今日邺城一定有兵变，提前做了准备。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "但我发现，我的准备，和你的准备，好像……撞在同一个人身上了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "无妨……能者多劳嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "开城门，攻城——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "将军！城外……城外有重骑兵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=戏学",
+      "emotion": "什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军",
+      "text": "头像=山贼甲",
+      "emotion": "是西凉军吕布！吕布是袁氏的援军！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今天的公务，就管到这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "那接下来……可否留给私情？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "怎么这种时候，会起这么大的兴致……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "毕竟想到殿下在此事上与我心意相通……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "一时之间，心中呼应，仿佛是比身躯的亲近，更加叫人动心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "武官",
+      "text": "头像=副将",
+      "emotion": "你是何人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陶升",
+      "text": "头像=西凉军甲",
+      "emotion": "黑山军陶升。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "武官",
+      "text": "头像=副将",
+      "emotion": "……主人，是那名黑山军的叛徒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "知道了……重赏百金，赐一处巨鹿宅邸良田。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你是何时确定，我有安排的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "一是殿下看过密信，二是陶升收买城门看守的黑山军，放走袁氏族人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下手中的情报可能有些许缺失。比如，曹操想为张燕请封，但袁氏请封了另一位黑山将领……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "那人……就叫陶升。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……哎呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "嗯，就是戏学带来的那颗首级。陶升已死，那么今夜的陶升，又是谁安排的呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "在巨鹿听闻魏郡兵变，联合黑山军攻占邺城，内心焦灼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "如今敌军败退，见长兄与族人平安，万谢苍天庇佑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "陶升叛出黑山，暗中保住袁氏一族与雅集宾客，为此次第一大功，务必多加犒赏，为之请封官爵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宾客",
+      "text": "头像=伪装宾客",
+      "emotion": "邺城空虚，遭黑山偷袭，家主竟临危不乱，保全族人与城池。我等幸免于难，皆仰赖家主。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "诸位谬赞，在下惭愧。殿下亦有大功，在下不敢贪功。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哪里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "眼下，袁氏正全力备战，欲召集联军于朝歌会师，剿灭黑山。还望诸位支援。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "定与袁氏同心，共讨黑山！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "……他双目不便，我代他送殿下到渡口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "多谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "我还有最后一问，你得到的密信，可否交予我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……不知者不乱其心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "魏郡的兵变，陶升的救援，是谁安排的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "陶升是我的人。至于魏郡兵变，我不能说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "……你在顾虑什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "就算你心里隐隐猜到，但一旦亲耳听见，亲眼看见，许多事情，就再也回不去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你与他是兄弟，往后要如何相处？难道分家吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "有人愿意随我走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他强杀袁遗，就是为了让人看见跟你走的下场。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "在众人眼里，此次是他布局退兵，保住了所有人。他的声望近日会如日中天，你……不要妄动。"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "大宴"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈一"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈二"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈三"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈四"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈五"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈六"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈七"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈八"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈九"
+    },
+    {
+      "type": "narration",
+      "text": "幽弈十"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨一"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨二"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨三"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨四"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨五"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨六"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨七"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨八"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨九"
+    },
+    {
+      "type": "narration",
+      "text": "暴雨十"
+    },
+    {
+      "type": "narration",
+      "text": "真意"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%82%BA%E5%9F%8E%E4%B9%8B%E6%88%98/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:08:55.695813",
+  "raw_wikitext": "{{面包屑|2025活动剧情|邺城之战/活动玩法}}{{活动背景}}\n[[分类:活动剧情]]\n__TOC__\n\n==大宴==\n{{对话-头}}\n{{对话|袁基|这里便是白虎讲宴的宴厅了，宾客入席后，此地会连宴三日，共讲经义。|头像=袁基}}\n{{对话|我|处处雅致，典丽非常，不输洛阳白虎观。|头像=广陵王-点头}}\n{{旁白|章帝曾召学者于洛阳白虎观辩论五经，袁氏慕其遗风，遂于邺城设白虎讲宴，延请各地名流聚于雅集、研讨经训，效先贤之制。}}\n{{对话|我|此次宾客众多，招待如此多的贵客怕是不易。准备了许久吧？|头像=广陵王-微笑}}\n{{对话|袁基|还好。三年前曾办过类似雅集，有旧例可循……啊……|头像=袁基}}\n{{对话|我|你双目不便，小心脚下。|头像=广陵王-微笑}}\n{{对话|袁基|……被看出来了。|头像=袁基}}\n{{对话|我|再怎么装作无事，看得见和看不见都是不一样的。不过你大部分时间坐主座上，应该能掩饰八九成。|头像=广陵王-摇头}}\n{{对话|袁基|果然还是瞒不过殿下。|头像=袁基}}\n{{对话|袁基|换了重些的酒杯，不会被轻易碰翻。只要记住酒杯的位置……|头像=袁基}}\n{{对话|我|但用膳还是很难吧……是不是要现在提前吃一些？接下来一整夜都只能喝酒了。|头像=广陵王-微笑}}\n{{对话|袁基|唔……这样的话，会被看出来这盘糕点被人动过的……|头像=袁基}}\n{{对话|我|吃光了不就看不出来了……|头像=广陵王-冷笑}}\n{{对话|袁基|殿下……殿下……|头像=袁基}}\n{{对话-尾}}\n\n==幽弈一==\n{{对话-头}}\n{{对话|袁绍|你们在干什么……你怎敢在讲宴的地方对长兄做这种事……|头像=袁绍}}\n{{对话|袁基|咳……是我不慎绊倒，殿下想拉起我……|头像=袁基}}\n{{对话|袁绍|然后就一起摔倒了坐垫上？|头像=袁绍}}\n{{对话|我|对，就是这样。|头像=广陵王-点头}}\n{{对话|袁绍|然后再一起滚过装糕点酥饼的盘子？|头像=袁绍}}\n{{对话|我|对，对，就是这样……|头像=广陵王-点头}}\n{{对话|袁绍|后面跟着的人怎么服侍的？为什么没劝住？|头像=袁绍}}\n{{对话|侍从|……二公子这叫什么话，这是小人们能劝住的？|头像=侍从}}\n{{对话|袁绍|……你……|头像=袁绍}}\n{{对话|袁基|太无礼了，怎能对公子言语如此桀骜不驯？退下去。|头像=袁基}}\n{{对话|侍从|长公子为族务夙夜烦忧，难得有片刻闲暇……何人才会不识情趣和时务上前打断啊。|头像=侍从}}\n{{对话|侍从|况且为了今日与殿下相会，已经准备多日了，只是在此地恰好情难自抑……身为侍从，难道要为了几盘糕点，扰乱主人的兴致吗？|头像=侍从}}\n{{对话|袁绍|……我总有一天腾出手收拾你。你给我等着。|头像=袁绍}}\n{{对话|袁绍|你们这群人，趁他身体不好，天天在他耳边吹什么邪风，我一清二楚！来日方长……|头像=袁绍}}\n{{对话|侍从|二公子要跟我这样的人计较吗……|头像=侍从}}\n{{对话|袁基|好了，小若，别和将军饶舌。|头像=袁基}}\n{{对话|侍从|是。小人知错。|头像=侍从}}\n{{旁白|心理|……脸被气成和外套一个颜色走了，袁绍……}}\n{{对话|袁基|真是……果然以后还是得稍稍谨慎……|头像=袁基}}\n{{对话|袁基|殿下觉得，在下现在的心中，有何所想？|头像=袁基}}\n{{旁白|心理|来了，例行小考，考虑一下应该说什么，他现在心情很好，这题不难……或者干脆以不变应万变，在所有人眼前悄悄抚过他手背……}}\n{{对话|我|我来了，你还有什么其他的所想？|头像=广陵王-微笑}}\n{{对话|我|正值枫叶纷纷，“我心匪石”啊，袁公子许久不寄这样的情书了。|头像=广陵王-微笑}}\n{{对话|袁基|即已相知，如此书信，岂非显得空有其词，令人觉得卖弄轻佻……|头像=袁基}}\n{{对话|袁基|难道，殿下喜欢这种？既见君子……|头像=袁基}}\n{{对话|我|……好了好了，我们还是正常说话吧。|头像=广陵王-汗颜}}\n{{对话|袁基|哈哈哈……念卿成疾？思君令人老？|头像=袁基}}\n{{对话|我|哈哈……我们当初居然能这样坐在榻上，互相说情话说到夜半。|头像=广陵王-微笑}}\n{{对话|袁基|……毕竟是初遇之时……|头像=袁基}}\n{{旁白|堂外有一名武官欲入，侍从无声挪了半步，将他挡在门外。}}\n{{旁白|他听见了动静，慢慢转头向门口的方向。}}\n{{对话|袁基|何事？|头像=袁基}}\n{{对话|武官|在马厩外抓住黑山细作陶氏，已送往城牢审问了。|头像=西凉军甲}}\n{{对话-尾}}\n\n==幽弈二==\n{{对话-头}}\n{{对话|我|巨鹿田氏、广平沮氏……真是豪强云集。|头像=广陵王-微笑}}\n{{对话|我|有几家来的似乎不是主事，十分年轻。|头像=广陵王-挑眉}}\n{{对话|袁基|几位家主随本初往巨鹿祭祀告捷，派族中子弟过来应酬走动。有几位今年刚入将军府任文学掾。|头像=袁基}}\n{{对话|我|就给个虚职呀。|头像=广陵王-微笑}}\n{{对话|袁基|很有前途的虚职。|头像=袁基}}\n{{对话|袁基|毕竟是将军近前行走的人，就像从前在内廷御前行走的御史，就算官位不高，也没有实权，但往往能一步登天。|头像=袁基}}\n{{旁白|宴中经辩稍歇，我和袁基坐在屏风后，隔纱望着宴席中人影重重。}}\n{{对话|我|本地局势如何？|头像=广陵王-微笑}}\n{{对话|袁基|……一切顺遂，殿下切勿担心。|头像=袁基}}\n{{对话|我|……来的路上，我得到一卷密信。|头像=广陵王-严肃}}\n{{对话|袁基|在下如今双目不便，密信……说了何事？|头像=袁基}}\n{{旁白|我悄悄拉过他的衣袖，摸索到他的手背，在他的手背上描写。}}\n{{对话|袁基|……啊……这样……|头像=袁基}}\n{{对话|我|有趣吗？|头像=广陵王-微笑}}\n{{对话|袁基|有趣极了。既然得信，殿下为何又亲身前来？|头像=袁基}}\n{{对话|我|……袁公子夙夜忧劳，苦盼相见，我若不来，岂非叫你成了尾生？|头像=广陵王-微笑}}\n{{对话|我|就算是刀山火海，都得亲身前来相会。|头像=广陵王-微笑}}\n{{旁白|舞乐丝竹淹没经论，那双眼睛在黑暗中寻找着我的笑意。忽然庭外有奔马声，武官匆忙穿庭而来，在廊外呈上军报。}}\n{{对话|武官|魏郡兵变，倒戈黑山，里应外合放出关口。西北城营告急，黑山军大军进发，围向邺城！|头像=副将}}\n{{对话-尾}}\n\n==幽弈三==\n{{对话-头}}\n{{旁白|室内只静了一瞬，紧接着爆发出剧烈混乱--}}\n{{对话|宾客|魏郡叛逃黑山？！|头像=伪装宾客}}\n{{对话|士族|这……大军皆随袁绍将军往巨鹿拜祭，如何守城？|头像=美型文官}}\n{{对话|文官|怎么守得住？现在就连能否逃出城池都未可知啊！|头像=文官}}\n{{旁白|忽闻一声轻响，他放下酒盏。两侧侍从合起屏风，座下霎时静了下去，众人皆看向主座，一时无人言语。}}\n{{对话|袁基|魏郡兵变，黑山突袭，大军在外……既是绝境，诸君又何必慌乱？|头像=袁基}}\n{{对话|文官|使君，趁黑山尚未围拢，安排车马尽快出城吧！|头像=文官}}\n{{对话|袁基|……也是，人皆欲求生，使君言之有理。将众人的车马都套好，派府兵护送宾客出城。|头像=袁基}}\n{{对话|宾客|那使君呢？|头像=伪装宾客}}\n{{对话|袁基|邺城乃袁氏全族所依之地，身为家主，在下于道义不可弃城求生。|头像=袁基}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|袁基|殿下，请速随宾客撤离邺城，一旦退路被截，就再无机会了。|头像=袁基}}\n{{旁白|片刻后，庭前火光缭乱，车马如流，争先恐后涌向城门。}}\n{{对话|袁基|殿下？|头像=袁基}}\n{{对话|我|你在这，我又何必仓皇。|头像=广陵王-微笑}}\n{{对话|我|我留在这帮你。毕竟双目不便，就算是在自己家，也容易绊倒。|头像=广陵王-微笑}}\n{{对话|突然，宅邸外传来喧哗声。两道血淋淋的人影穿过拥挤的人群，扑至廊下，瑟瑟发抖。}}\n{{对话|袁氏侍卫|袁谭公子……公子访友回城，却在道口被黑山军劫走，侍卫死伤惨重……|头像=士兵}}\n{{对话|袁氏侍卫|黑山军已经围城！还请家主定夺，该如何退敌！|头像=士兵}}\n{{旁白|一时间，涌向城门的车流又无措地停下了。黑山军已经围城，城中众人难以冲破敌军，逃出生天。}}\n{{旁白|绝望在人群中蔓延，就在这时，城门口传来铜铃声。}}\n{{旁白|一台悬着铜铃的翠布小羊车，带着一连串清脆声响，从城门口穿过重重混乱而来。}}\n{{旁白|马车上端坐的绿意少年颜如珠玉，笑意宴宴。羊车停在了府外，他在车上起身，遥遥一揖。}}\n{{对话|戏学|殿下，长公子，学生来迟。|头像=戏学}}\n{{对话|戏学|学生……没有错过经论吧？|头像=戏学}}\n{{对话-尾}}\n\n==幽弈四==\n{{对话-头}}\n{{对话|我|今日是《白虎通义》与《春秋繁露》，无甚趣味。|头像=广陵王-摇头}}\n{{对话|袁基|夜宴还未散，学弟来的还不算太晚。|头像=袁基}}\n{{对话|戏学|学生之前就因为未时常前来拜访，错失了加官进爵呀。|头像=戏学}}\n{{对话|戏学|燕子麾下的另一个小兄弟，被封了黑山校尉。长公子，可否指点一二？|头像=戏学}}\n{{对话|袁基|天子降诏，岂敢揣摩圣意。|头像=袁基}}\n{{对话|戏学|是这样吗？还以为长公子想在黑山军中扶持山头，挑拨离间。|头像=戏学}}\n{{对话|戏学|毕竟从前眭固和于毒就被收买过，万一袁氏想故技重施……啊，不过他们被燕子打了一顿之后，已经乖乖回家了。|头像=戏学}}\n{{对话|袁基|难怪黑山军近日强势，原来是战友冰释前嫌，军心凝聚。|头像=袁基}}\n{{对话|袁基|可既然大军就在城外，何不杀入城中，占领邺城呢？|头像=袁基}}\n{{对话|戏学|吓，学长在说些什么呀。我们可不是那种草莽恶徒……|头像=戏学}}\n{{旁白|他换了坐姿，在羊车上趺坐着，抱过一口木匣子，低头微微笑了。}}\n{{对话|戏学|……学长……你家，是不是丢了一位公子？|头像=戏学}}\n{{对话|袁基|……|头像=袁基}}\n{{对话|戏学|啊，袁氏的公子呢……他的脖子又细又软，皮肤光洁细腻。刀切下去，一定像是切过羊脂的手感吧……|头像=戏学}}\n{{对话|袁基|……|头像=袁基}}\n{{旁白|死寂的府门外，所有人都注视着戏学手中的木匣，甚至忘记了呼吸。}}\n{{对话|我|……袁基？|头像=广陵王-挑眉}}\n{{旁白|我轻声唤他，才意识到他因为看不见，所以根本不知道戏学怀中的是什么。}}\n{{旁白|他轻轻隔着衣袖拉了拉我的手指，像是求助。我在他手心写下“木匣”二字。身边的人不动声色，已经了然。}}\n{{对话|袁基|……学弟作为黑山使者，如今在邺城能在车上高谈阔论，全因黑山军尚未攻城，彼此还可各退一步。|头像=袁基}}\n{{对话|袁基|若是袁谭公子有何不测，在下身为他的伯父，便不能再退半步了……唔！|头像=袁基}}\n{{旁白|话音未落，戏学倾倒木匣。首级血淋淋一团，滚向袁基脚边。}}\n{{对话-尾}}\n\n==幽弈五==\n{{对话-头}}\n{{旁白|袁基的呼吸乱了一瞬，但很快平静。他给了我暗示，我搀着他蹲下身，向首级的方向伸手。}}\n{{对话|袁基|……是吗？|头像=袁基}}\n{{对话|我|……不是。|头像=广陵王-摇头}}\n{{旁白|只有两人听得见的低语，敲定了首级的身分。不是袁谭，是一名青年武将。}}\n{{对话|袁基|这是谁？在下若想将他安葬，也需知晓他名姓。|头像=袁基}}\n{{对话|戏学|学长自己请封的黑山校尉，自己不认得了吗？|头像=戏学}}\n{{对话|袁基|原来是他呀……那，袁谭呢？|头像=袁基}}\n{{对话|戏学|袁谭公子，当然是学弟在这里的倚仗呀。万一就像学长说的那样，双方火并，学弟还能手握公子，逃出一劫……|头像=戏学}}\n{{对话|心理|袁谭在他手上，袁氏不敢轻举妄动……}}\n{{旁白|袁基脸上的笑意渐渐淡了，垂下眼眸。如果不顾袁绍长子的生死，那此后无论邺城是否保全，兄弟之间都将无可挽回的决裂。}}\n{{对话|戏学|对了。听说之前，学长身受重伤，双目失明……学长的眼睛，如今可有好转？|头像=戏学}}\n{{对话|袁基|不必担心，已经痊愈了。|头像=袁基}}\n{{对话|袁基|如此记挂同窗，难怪学弟瞧着憔悴，今日入宴，记得让侍从帮忙补些敷粉。|头像=袁基}}\n{{旁白|他站起身，又恢复了无瑕的文雅笑意，在府门口向戏学行了主礼。}}\n{{对话|袁基|学弟前来赴宴，何必久居门外？请入内吧。|头像=袁基}}\n{{对话-尾}}\n\n==幽弈六==\n{{对话-头}}\n{{旁白|混乱的宴席，已经在方才被布置完毕。走投无路的宾客，也别无选择，陆续回到了席上。}}\n{{旁白|我和袁基在屏风后，轻声商议现状。}}\n{{对话|我|之前得到消息，是曹操为张燕请封。|头像=广陵王-微笑}}\n{{对话|袁基|曹操要为张燕请官，试图招抚黑山军。|头像=袁基}}\n{{对话|袁基|公孙瓒南下，黑山军东进，魏郡之中士族相争，若让曹操招募黑山，袁氏将岌岌可危。|头像=袁基}}\n{{对话|我|只是你想扶持的小武将，并不能在黑山军中独当一面。何必如此做，激怒张燕他们。|头像=广陵王-严肃}}\n{{对话|袁基|唔……|头像=袁基}}\n{{对话|袁基|若不激怒他们，如何能在危城之中，与殿下屏后私语呢？|头像=袁基}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|袁基|殿下？|头像=袁基}}\n{{对话|我|这张嘴又不说真话……|头像=广陵王-严肃}}\n{{对话|袁基|……他们会看见屏风后的影子的……|头像=袁基}}\n{{对话|我|呼……|头像=广陵王-微笑}}\n{{对话|我|刚才，我已经让他们将帷幕放下来了……|头像=广陵王-微笑}}\n{{对话|袁基|唔……唔……|头像=袁基}}\n{{对话|袁基|说不定……是此生最后一次亲近了……|头像=袁基}}\n{{对话-尾}}\n\n==幽弈七==\n{{对话-头}}\n{{对话|我|嗯？公子在看什么呢？|头像=广陵王-微笑}}\n{{对话|戏学|看学长和殿下呀，二位从幕后出来，笑得满面春风。|头像=戏学}}\n{{对话|我|哪里可怕，长公子笑得多好看。|头像=广陵王-微笑}}\n{{对话|袁基|呵……|头像=袁基}}\n{{对话|我|转过来让我看看……|头像=广陵王-微笑}}\n{{对话|袁基|……殿下……|头像=袁基}}\n{{对话|宾客|咳！咳咳！|头像=伪装宾客}}\n{{对话|袁基|咳……学弟孤身入城，大军在外，若是攻城，学弟生死难料，如此僵持，是有何要事还想商议吗？|头像=袁基}}\n{{对话|戏学|都说了，学长不能还将我们视作草莽恶徒啊。此次来邺城，学弟可是想竭力保全诸位贵客的。|头像=戏学}}\n{{对话|戏学|……外面虽有黑山军磨刀霍霍，我也想以一己之力护住城中官民……不知在座诸位，可否随在下往朝歌避战？|头像=戏学}}\n{{对话|我|朝歌……黑山军如今的本营？|头像=广陵王-挑眉}}\n{{对话|文官|这不就是做黑山军的人质吗？|头像=文官}}\n{{对话|戏学|……使君不想吗？|头像=戏学}}\n{{旁白|他起身，走向那人，踩上他面前的食案，蹲在了食案上。戏学拿起脚边的酒盏，侧头托着脸，将酒液从男人的头顶淋了下去。}}\n{{对话|戏学|……那你会变成阿毒的下酒菜哦。阿毒被燕子狠狠打了一顿，这段时日脾气很差呢。|头像=戏学}}\n{{对话|戏学|诸位，大军就在外。我可以叫一队人进来，带几口装小牛羊的笼子，把你们一头一头塞进去……|头像=戏学}}\n{{对话|戏学|当然，我们也能以礼相待，诸位作为我的贵客，体面地随我往朝歌出游踏青。|头像=戏学}}\n{{对话|袁基|城中，士族随行的府兵，恐怕不会答应主人这样被掳走。|头像=袁基}}\n{{旁白|他转头直视主座，将空杯在手中抛接了一下，对我们露出了一个有些诡谲的笑容。}}\n{{对话|戏学|进来。|头像=戏学}}\n{{旁白|一队黑山刀斧手冲入堂中，两侧宾客发出一阵惊呼。}}\n{{对话|戏学|学长好像还没识时务。|头像=戏学}}\n{{对话|戏学|我可以让他们把你们两个拖下来，让你们把刚才在屏风后做的事当众再做一遍。|头像=戏学}}\n{{对话|袁基|君子也是饮食男女。|头像=袁基}}\n{{对话|我|我们在屏风后论个道，道法自然，三生万物，有什么好避讳的？|头像=广陵王-微笑}}\n{{对话|戏学|二位就嘴硬吧。到时候，别在柱子上一头碰死啊。|头像=戏学}}\n{{对话-尾}}\n\n==幽弈八==\n{{对话-头}}\n{{对话|我|哈哈哈……他说我们会一头碰死。|头像=广陵王-微笑}}\n{{对话|袁基|哎呀……|头像=袁基}}\n{{对话|我|你记得上次碰了哪边吗？别再碰到了。|头像=广陵王-微笑}}\n{{旁白|刀斧近在咫尺，他浑然不觉，只侧头微嗔我一眼。}}\n{{旁白|就在这时，门外有看守府邸的黑山军人入内回报。}}\n{{对话|黑山军|羊角，邺城的东南门开了。|头像=山贼甲}}\n{{对话|戏学|嗯？是谁开的？|头像=戏学}}\n{{对话|黑山军|好像是老杨的兄弟，说刚才接到开城门的命令，要往外运城中缴获的战利。|头像=山贼甲}}\n{{对话|戏学|……好像？|头像=戏学}}\n{{对话|黑山军|我去把人拦下来，再问一下。|头像=山贼甲}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|黑山军|羊角！羊角！是陶升！陶升叛了！|头像=山贼甲}}\n{{对话|戏学|……哦？|头像=戏学}}\n{{对话|黑山军|那畜生肯定是投靠了袁氏，骗兄弟们让出城门，将袁氏的家眷族人都送出城了！|头像=山贼甲}}\n{{对话|戏学|哎呀，追上去。|头像=戏学}}\n{{对话|黑山军|……追上去，可能会正好遇到袁氏回援的大军。|头像=山贼甲}}\n{{对话|戏学|这可为难了……没有那些袁氏族人，袁绍说不定就敢豁出去攻城呀。不过，袁谭还在我们手上。|头像=戏学}}\n{{对话|我|袁基也在啊，他才是最值钱的筹码吧？|头像=广陵王-微笑}}\n{{对话|袁基|哎，惭愧……|头像=袁基}}\n{{对话|戏学|啊哈哈……是吗？我倒担心袁绍反而因为袁基学长在我们手上，彻底肆无忌惮地攻城呢。|头像=戏学}}\n{{对话-尾}}\n\n==幽弈九==\n{{对话-头}}\n{{对话|我|来，试一试。|头像=广陵王-微笑}}\n{{对话|袁基|在下不擅用剑……|头像=袁基}}\n{{对话|我|君子尚剑，辟雍的剑术可是必修。|头像=广陵王-微笑}}\n{{对话|袁基|剑术老师并不严格，郭嘉都能毕业。|头像=袁基}}\n{{对话|我|特意为你挑的剑上玉具，来，这样拿着，长剑横在身前，抬一点下巴，在剑上方露出眼睛……|头像=广陵王-微笑}}\n{{对话|袁基|……这样吗？|头像=袁基}}\n{{对话|我|……真是奇特，玉人挽剑，反倒生出艳色。|头像=广陵王-挑眉}}\n{{对话|戏学|……二位这样调情，学弟都不好意思看了，有辱斯文啊。|头像=戏学}}\n{{对话|黑山军|羊角！差不多放出去二十台车马，可能有一百二十余人放出去了……|头像=山贼甲}}\n{{对话|戏学|唉，一百二十人吗……那就杀一百二十名宾客吧！|头像=戏学}}\n{{旁白|满座惊惶，所有宾客都惊恐地看着刀斧手，往边角躲藏。}}\n{{对话|袁基|——学弟何必虚张声势？若黑山军真能入城劫掠，你早就打开城门，让大军入城了。|头像=袁基}}\n{{对话|我|一者，邺城不是战备之地，城防不足，易攻难守。二者，黑山军构成复杂，六七成都是随军流民，能作战者并不足数。|头像=广陵王-严肃}}\n{{对话|袁基|若放大军进城，大军必然在邺城劫掠放纵。军纪本就形同虚设，一旦开始劫掠，就再也管束不住了。|头像=袁基}}\n{{对话|袁基|若本初带兵回援，你们无法及时组织军队守城或撤离，反而会被拖死在城里，我猜，这就是你为何迟迟不让黑山军主力进城的缘故。|头像=袁基}}\n{{对话|戏学|学生好羡慕，学长居然能有殿下这样的知己，能彼此心意相通……|头像=戏学}}\n{{对话|戏学|可相通了，又如何呢？——抓一百二十人，砍下他们的头，悬于城楼！|头像=戏学}}\n{{对话|袁基|黑山军主力不敢进城，不必顾虑！召集随行府兵，镇守邺城！|头像=袁基}}\n{{对话-尾}}\n\n==幽弈十==\n{{对话-头}}\n{{旁白|袁氏亲卫与黑山刀斧手厮杀，宴中顷刻爆发血战。得到传令，众宾客随行的府兵也朝此地聚来，皆是精兵。}}\n{{对话|戏学|学长这样，是不顾袁谭的性命了吗？|头像=戏学}}\n{{对话|袁基|你怎么证明，谭儿还活着？|头像=袁基}}\n{{对话|戏学|送一只手给他的伯父看看？|头像=戏学}}\n{{对话|袁基|哈……真是的，学弟就是这样不拘小节。落下这等残疾的长公子，对士族而言……一文不值。|头像=袁基}}\n{{对话|戏学|那样听起来，断手的士族、掉脑袋的士族和瞎了眼的士族，都是一个价吗？|头像=戏学}}\n{{对话|袁基|呵……|头像=袁基}}\n{{对话|袁基|听着——无论是亲卫、府兵还是黑山军，拿下此人者，赏百金，封校尉！|头像=袁基}}\n{{旁白|混战有一瞬间的停滞，百金的诱惑，让所有人的刀锋都朝向了同一个人。}}\n{{旁白|戏学托着脸，对近在咫尺的杀机笑颜以对。}}\n{{对话|戏学|咴……|头像=戏学}}\n{{旁白|随着一声口哨，一道鬼魅般的黑影从梁上落下，剑光刺向我的天灵——}}\n{{对话-尾}}\n\n==暴雨一==\n{{对话-头}}\n{{旁白|刀剑相撞，我挑落他耳珰。耳饰挂在我刀尖，我旋手，将它一圈一圈转了起来。}}\n{{对话|我|怎么开始戴这些了，张燕将军。|头像=广陵王-微笑}}\n{{对话|张燕|抢的。|头像=张燕}}\n{{对话|我|声音细碎，容易被听出来。|头像=广陵王-严肃}}\n{{对话|张燕|他，提示你。|头像=张燕}}\n{{旁白|他看向袁基。}}\n{{旁白|方才，确实是袁基先一步听见上方的碎响，暗示我提防。他双目失明，听力格外敏锐。}}\n{{对话|戏学|哎呀，我愈发崇拜学长了，以前从来不知，学长居然有如此耳力。|头像=戏学}}\n{{对话|袁基|学而时习之呀，学弟。|头像=袁基}}\n{{对话|我|我就觉得，你从前耳力就好。我府里的琴，弦音准不准，你一听就知。|头像=广陵王-点头}}\n{{对话|袁基|为殿下调琴准音，自当尽心，|头像=袁基}}\n{{对话|戏学|燕子你听听你听听。|头像=戏学}}\n{{对话|张燕|我，听见了。|头像=张燕}}\n{{对话|戏学|那你还不快把他们的舌头割下来？|头像=戏学}}\n{{对话|戏学|我要看这两条舌头天天亲在一起，说点没脸没皮的话。|头像=戏学}}\n{{对话|张燕|到底，要舌头，还是，要脸皮？|头像=张燕}}\n{{对话|我|袁公子，他要我们的脸皮。|头像=广陵王-微笑}}\n{{对话|袁基|那趁着脸皮最后还在脸上的时候……|头像=袁基}}\n{{旁白|借着满室血雨混战的掩护，他侧头含笑，双唇在我脸颊上落下轻轻一吻。}}\n{{对话|袁基|留一个彼此的记号吧。|头像=袁基}}\n{{对话|戏学|……邺城若把学长的脸皮贴在城墙上，那这堵城墙，应该千百年都撞不破。|头像=戏学}}\n{{对话-尾}}\n\n==暴雨二==\n{{对话-头}}\n{{对话|袁基|话说回来，今日是文人之宴，何必如此动刀剑。|头像=袁基}}\n{{对话|我|要不要谈一谈？我与长公子都在此，想要什么官职，立刻就能兑现。|头像=广陵王-微笑}}\n{{旁白|杀声嚣烈，张燕坐在一具尸首边擦刀，他的刀柄与刀身都被血迹浸透了，一时滑腻难握。}}\n{{旁白|窗外远处有冲天火起，火烟缠绕霞光，显出胭脂泼洒般的凄艳。}}\n{{对话|戏学|真的吗？殿下，学生真的能如此平步青云吗？|头像=戏学}}\n{{对话|我|你又不想当皇帝，只是想要个足够漂亮的官职，何必不给呢？|头像=广陵王-微笑}}\n{{对话|袁基|被曹操招募就可以，被袁氏招募就不行吗？|头像=袁基}}\n{{对话|袁基|曹操的脸皮就薄了吗？这么多年，得袁氏的好处和庇护，却也敢反咬一口……|头像=袁基}}\n{{对话|戏学|学长从前，毕竟与学生有些误会芥蒂……|头像=戏学}}\n{{对话|袁基|哎呀，这是什么话。利益当前，从前的恩怨，不值一提。|头像=袁基}}\n{{对话|我|是啊，若能招募黑山军，哪怕有万般旧怨，二位也能成为袁氏的座上宾。|头像=广陵王-点头}}\n{{对话|袁基|学弟，要坐到我和殿下中间来吗？|头像=袁基}}\n{{对话|我|你也不是没坐过。来，请。|头像=广陵王-微笑}}\n{{旁白|戏学没有动，望着我们，静静笑了。血溅在他年轻饱满的莹润脸庞上，好像白雪落了红梅。}}\n{{对话|戏学|学生还是知道，长公子是什么人的。|头像=戏学}}\n{{对话|袁基|是汝南人。|头像=袁基}}\n{{对话|我|咳咳——噗哈哈哈……你不要趁我喝酒的时候……哈哈哈……|头像=广陵王-微笑}}\n{{旁白|他也掩袖而笑，将额头贴在我的肩头轻颤。戏学眼神玩味，缓缓摇头。}}\n{{对话|戏学|若是我，哪怕利益相同，学长也不会放下那点旧怨的。|头像=戏学}}\n{{对话|戏学|学长的心胸，对其他人可以广阔，可以不计前嫌，但对于我，哪怕我自请归降，都会被活活剥皮、千刀万剐吧？|头像=戏学}}\n{{对话|袁基|那，你是不想选官位了，万剐校尉？|头像=袁基}}\n{{对话-尾}}\n\n==暴雨三==\n{{对话-头}}\n{{对话|我|你真坏。|头像=广陵王-愤怒}}\n{{对话|袁基|嗯？|头像=袁基}}\n{{对话|我|人家学生不过是想看看我们在帷幕后论道，学一下内经吐纳之术，你却要把人家千刀万剐？|头像=广陵王-微笑}}\n{{对话|袁基|万剐校尉和千刀校尉，虽都是杂牌将军，听起来，万剐的俸禄和官位比较高啊。|头像=袁基}}\n{{对话|戏学|燕子，怎么还没把他们的舌头割下来？|头像=戏学}}\n{{旁白|张燕杀过满庭混战，向我们逼来。府兵护送我们与宾客离开混战的厅堂，撤往侧门。}}\n{{旁白|我拉住袁基的手，轻声耳语。}}\n{{对话|我|……袁谭的事，你有把握？|头像=广陵王-严肃}}\n{{对话|袁基|放心吧。|头像=袁基}}\n{{对话|我|他若少了个长子，更不可能过继给你袁尚了。|头像=广陵王-微笑}}\n{{对话|袁基|哈……殿下那么喜欢尚儿？|头像=袁基}}\n{{对话|我|那孩子可爱……安静下来的时候，眉眼气质，有几分像你。|头像=广陵王-微笑}}\n{{对话|张燕|你们，聊啥。|头像=张燕}}\n{{对话|我|聊孩子呢。|头像=广陵王-微笑}}\n{{旁白|他已追至后方，宾客惊乱。我欲回身截住他，袁基却摁住了我的手，接过侍从递来的弓箭。}}\n{{旁白|听声辩位，信手一箭，箭射在张燕脚前。他顿了一瞬，四名袁氏死士从暗处杀出，将他阻挡在了侧门后。}}\n{{旁白|众人从侧门脱身，外面早已备好了袁氏车马和坐骑。一切都似早有准备。}}\n{{对话-尾}}\n\n==暴雨四==\n{{对话-头}}\n{{旁白|暴雨忽至，黑云遮掩月光，须臾银河决泻，白浪翻街，行人奔匿。}}\n{{对话|宾客|使君，袁绍将军为何还未回援？|头像=伪装宾客}}\n{{对话|袁基|不必担心，在下会尽地主之谊，护诸位平安。|头像=袁基}}\n{{对话|戏学|你们谁都别想走。你们今晚都是我的小蜜糖。|头像=戏学}}\n{{对话|袁基|今夜不是你们的蜜糖。|头像=袁基}}\n{{对话|袁基|是在下的。|头像=袁基}}\n{{对话|张燕|让人，进。|头像=张燕}}\n{{对话|戏学|让主力进城，他们会在邺城大乱，一旦袁绍反扑，无法及时组织兵力守城。|头像=戏学}}\n{{对话|张燕|不要怕。|头像=张燕}}\n{{对话|袁基|听见了吗？张燕将军说不要怕。小赌怡情，学弟，赌一把试试？|头像=袁基}}\n{{对话|我|是啊，二对二，很公平。|头像=广陵王-点头}}\n{{对话|袁基|荀彧学长若在此，一定已经站在我们双方正中间，准备开盘了。|头像=袁基}}\n{{旁白|借着宽大衣袖的掩护，他一直拉着我的手，看似并肩，实则是我拉着他前行。}}\n{{旁白|戏学看着袁基的双眼，应该是在揣测他的双目究竟有没有恢复。}}\n{{对话|戏学|……袁绍的回援，来的有些慢。|头像=戏学}}\n{{对话|张燕|外面，在等。|头像=张燕}}\n{{对话|我|你们不让大军入城，也是计划让他们留在邺城外，围城打援吧。|头像=广陵王-微笑}}\n{{对话|袁基|也可能在等公孙瓒派来的援兵。听说黑山军和公孙瓒联手，欲夹击攻破袁氏。|头像=袁基}}\n{{对话|我|哎呀，这可是燃眉之急。袁绍将军的援军若是回来，说不定会遭受两面夹击，顷刻大败。|头像=广陵王-微笑}}\n{{对话|袁基|本初若是不回来就好了……|头像=袁基}}\n{{对话|戏学|邺城，乃袁氏本营，他舍得弃城？|头像=戏学}}\n{{对话|袁基|他带大军外出祭祀，本营空虚。你们带大军攻打邺城，朝歌本营，不也同样空虚吗？|头像=袁基}}\n{{旁白|暴雨中，侍从撑伞，将我们送上马车。上车前，他循着刀兵声，向后方与府兵缠斗的张燕笑着颔首。}}\n{{对话|袁基|黑山军的本营朝歌，线下只有于毒一名将领驻守。不知道于毒将军能撑多久。|头像=袁基}}\n{{对话-尾}}\n\n==暴雨五==\n{{对话-头}}\n{{对话|我|公孙瓒的援军……应是不会来的。|头像=广陵王-微笑}}\n{{对话|我|青州黄巾军原本要与他们汇合，却被公孙瓒尽数剿灭，黑山军和公孙瓒都对彼此抱有防备。|头像=广陵王-微笑}}\n{{对话|戏学|袁基，你们敢逃，那位叫袁谭的公子，就要改名叫腌菜坛子了。|头像=戏学}}\n{{对话|袁基|啊，谭儿他宁死也不同意的。|头像=袁基}}\n{{对话|戏学|那他可能真的就去死了。|头像=戏学}}\n{{对话|戏学|我们已经把消息递到了袁绍将军手里，如果想让他的长子活命，他就不可妄动。|头像=戏学}}\n{{对话|袁基|他不可能答应。|头像=袁基}}\n{{对话|戏学|第一次确实没答应，还暴怒地把我们送信的兄弟杀掉了。|头像=戏学}}\n{{对话|戏学|第二次，我们送了那孩子的一点东西过去……|头像=戏学}}\n{{对话|戏学|其实我们也知道，要是人残疾了，就没那么宝贝了。所以送的……是些平时从外面看不太出来的部分。|头像=戏学}}\n{{对话|袁基|这么细心吗……那，在下代谭儿和本初谢过学弟了。|头像=袁基}}\n{{对话|戏学|袁家主，好狠的心啊。|头像=戏学}}\n{{对话|戏学|燕子，听见了吗？袁绍的大军往朝歌，偷我们的老家去了。|头像=戏学}}\n{{对话|张燕|嗯。|头像=张燕}}\n{{对话|戏学|那，我们也不必客气了。让黑山大军进城吧，一个不留。|头像=戏学}}\n{{对话-尾}}\n\n==暴雨六==\n{{对话-头}}\n{{对话|袁基|他们想赌，赌本初派往朝歌的兵马快，还是他们攻打邺城的云梯快。|头像=袁基}}\n{{对话|我|你赌哪个？|头像=广陵王-微笑}}\n{{对话|袁基|在下赌……|头像=袁基}}\n{{旁白|马车上，他与我耳鬓厮磨。外面是暴雨与杀声，车内宛如另一方天地。}}\n{{对话|袁基|……在下赌殿下。|头像=袁基}}\n{{对话|我|真的？|头像=广陵王-挑眉}}\n{{对话|袁基|嗯，真的。我信殿下。|头像=袁基}}\n{{对话|我|如此情景，事发突然，我也别无他法，既没有得力的心腹在侧，也没有周密的准备……|头像=广陵王-微笑}}\n{{对话|袁基|在下……是全心全意相信殿下的。|头像=袁基}}\n{{对话|我|可我若真别无他法了呢？|头像=广陵王-微笑}}\n{{对话|袁基|那，出了邺城，便将邺水作弱水如何？|头像=袁基}}\n{{对话|袁基|能在黑云压城之际，与袁氏之地殉城，与心上人殉情……夫复何求？|头像=袁基}}\n{{对话-尾}}\n\n==暴雨七==\n{{对话-头}}\n{{旁白|城门下的黑山军守备松散，见士族车马到来，竟直接放行。}}\n{{对话|袁基|……陶升……看来已经收买了这处城门的黑山军头目呢|头像=袁基}}\n{{对话|我|真是个人才啊。不知袁氏抓住这名细作关入牢中之后，是怎么与他晓之以情动之以理的。|头像=广陵王-微笑}}\n{{对话|袁基|呵呵……其实，在下也不是很会晓之以情、动之以理。|头像=袁基}}\n{{对话|我|怎么会，长公子可是最讲道理的人了……|头像=广陵王-摇头}}\n{{对话|袁基|真的吗？|头像=袁基}}\n{{旁白|他环住我的身躯，将头埋入我的颈窝。}}\n{{对话|袁基|……撞柱子的时候也是？|头像=袁基}}\n{{对话|我|唔……|头像=广陵王-汗颜}}\n{{对话|袁基|是不是？|头像=袁基}}\n{{对话|我|大多数时候……|头像=广陵王-点头}}\n{{对话|袁基|所以有小部分时候不是？|头像=袁基}}\n{{对话|我|哎，人非圣贤，偶尔不讲道理、有些小气性……那才有意趣呢。|头像=广陵王-微笑}}\n{{旁白|马蹄声紧追而来，车厢外，闪过张燕的刀影——}}\n{{对话|我|燕子飞得真快，追过来了。|头像=广陵王-微笑}}\n{{对话|袁基|他很快就插翅难飞了。|头像=袁基}}\n{{对话|我|……原来如此。我还在想，黑山军在外虎视眈眈，袁氏如何还敢让公子轻车简从地外出访友。|头像=广陵王-微笑}}\n{{对话|我|被抓走的，应该只是袁谭公子的替身吧。真正的袁谭……|头像=广陵王-微笑}}\n{{对话|袁基|随他的父亲，往朝歌进军。|头像=袁基}}\n{{对话-尾}}\n\n==暴雨八==\n{{对话-头}}\n{{旁白|袁谭没有被绑架，自然也不可能有什么能威胁到袁绍的东西。}}\n{{旁白|袁谭、袁氏族人皆被救出。直捣朝歌，无需顾虑。}}\n{{对话|张燕|邺城，我的。|头像=张燕}}\n{{对话|我|尚未落定呢。|头像=广陵王-摇头}}\n{{对话|我|袁基，你真的信我？|头像=广陵王-挑眉}}\n{{对话|袁基|自然。|头像=袁基}}\n{{对话|袁基|殿下早已看过那卷密信，知道今日邺城一定有兵变，提前做了准备。|头像=袁基}}\n{{对话|我|但我发现，我的准备，和你的准备，好像……撞在同一个人身上了。|头像=广陵王-摇头}}\n{{旁白|他一愣，旋即明白过来，掩袖笑了许久。}}\n{{对话|袁基|无妨……能者多劳嘛。|头像=袁基}}\n{{对话|张燕|开城门，攻城——|头像=张燕}}\n{{对话|黑山军|将军！城外……城外有重骑兵！|头像=山贼甲}}\n{{对话|戏学|什么……|头像=戏学}}\n{{对话|黑山军|是西凉军吕布！吕布是袁氏的援军！|头像=山贼甲}}\n{{旁白|战局已定。}}\n{{旁白|暴雨愈烈，如天火坠地。我们在马车中彼此依偎，我舒了口气，枕在他的膝头。}}\n{{对话|我|今天的公务，就管到这。|头像=广陵王-微笑}}\n{{对话|袁基|那接下来……可否留给私情？|头像=袁基}}\n{{对话-尾}}\n\n==暴雨九==\n{{对话-头}}\n{{旁白|车马从城门驶出，离开邺城。车中情事方毕，他有些艰难地整理衣物。}}\n{{对话|我|怎么这种时候，会起这么大的兴致……|头像=广陵王-微笑}}\n{{对话|袁基|毕竟想到殿下在此事上与我心意相通……|头像=袁基}}\n{{对话|袁基|一时之间，心中呼应，仿佛是比身躯的亲近，更加叫人动心。|头像=袁基}}\n{{旁白|我们抱着凌乱的衣物，依偎在车厢中。外面又传来奔马声。}}\n{{对话|武官|你是何人？|头像=副将}}\n{{对话|陶升|黑山军陶升。|头像=西凉军甲}}\n{{对话|武官|……主人，是那名黑山军的叛徒。|头像=副将}}\n{{对话|袁基|知道了……重赏百金，赐一处巨鹿宅邸良田。|头像=袁基}}\n{{旁白|外面又静了下来，西凉军已驱散城外的黑山军，乱军四散，逃离邺城。}}\n{{对话|我|你是何时确定，我有安排的？|头像=广陵王-微笑}}\n{{对话|袁基|一是殿下看过密信，二是陶升收买城门看守的黑山军，放走袁氏族人。|头像=袁基}}\n{{对话|袁基|殿下手中的情报可能有些许缺失。比如，曹操想为张燕请封，但袁氏请封了另一位黑山将领……|头像=袁基}}\n{{对话|袁基|那人……就叫陶升。|头像=袁基}}\n{{对话|我|……哎呀。|头像=广陵王-微笑}}\n{{对话|袁基|嗯，就是戏学带来的那颗首级。陶升已死，那么今夜的陶升，又是谁安排的呢？|头像=袁基}}\n{{对话|我|哈……|头像=广陵王-微笑}}\n{{对话-尾}}\n\n==暴雨十==\n{{对话-头}}\n{{对话|袁绍|在巨鹿听闻魏郡兵变，联合黑山军攻占邺城，内心焦灼。|头像=袁绍}}\n{{对话|袁绍|如今敌军败退，见长兄与族人平安，万谢苍天庇佑。|头像=袁绍}}\n{{对话|袁基|陶升叛出黑山，暗中保住袁氏一族与雅集宾客，为此次第一大功，务必多加犒赏，为之请封官爵。|头像=袁基}}\n{{旁白|邺城之乱平息，西凉军与袁氏合兵。}}\n{{旁白|此前趁黑山主力进攻邺城，袁绍已带兵往朝歌，在衢地驻扎。联军随时可以进攻朝歌，剿灭黑山。}}\n{{旁白|不过，眼前袁基想做的，是重新在邺城召集雅集，完成经论。}}\n{{对话|宾客|邺城空虚，遭黑山偷袭，家主竟临危不乱，保全族人与城池。我等幸免于难，皆仰赖家主。|头像=伪装宾客}}\n{{对话|袁基|诸位谬赞，在下惭愧。殿下亦有大功，在下不敢贪功。|头像=袁基}}\n{{对话|我|哪里。|头像=广陵王-微笑}}\n{{对话|袁基|眼下，袁氏正全力备战，欲召集联军于朝歌会师，剿灭黑山。还望诸位支援。|头像=袁基}}\n{{对话|文官|定与袁氏同心，共讨黑山！|头像=文官}}\n{{旁白|他摸索到沉重的金酒杯，向前方举起杯盏。被灯火照亮的眼眸，看似与常人无异，实则只能望见一片黑暗。}}\n{{旁白|我在他身边，他一直拉着我的手，好像害怕被我独自抛弃在这无边的黑暗之中。}}\n{{对话-尾}}\n\n==真意==\n{{对话-头}}\n{{对话|袁绍|……他双目不便，我代他送殿下到渡口。|头像=袁绍}}\n{{对话|我|多谢。|头像=广陵王-微笑}}\n{{对话|袁绍|我还有最后一问，你得到的密信，可否交予我？|头像=袁绍}}\n{{对话|我|……不知者不乱其心。|头像=广陵王-微笑}}\n{{对话|袁绍|魏郡的兵变，陶升的救援，是谁安排的？|头像=袁绍}}\n{{对话|我|陶升是我的人。至于魏郡兵变，我不能说。|头像=广陵王-微笑}}\n{{对话|袁绍|……你在顾虑什么？|头像=袁绍}}\n{{对话|我|就算你心里隐隐猜到，但一旦亲耳听见，亲眼看见，许多事情，就再也回不去了。|头像=广陵王-微笑}}\n{{对话|我|你与他是兄弟，往后要如何相处？难道分家吗？|头像=广陵王-微笑}}\n{{对话|袁绍|有人愿意随我走。|头像=袁绍}}\n{{对话|我|他强杀袁遗，就是为了让人看见跟你走的下场。|头像=广陵王-严肃}}\n{{对话|我|在众人眼里，此次是他布局退兵，保住了所有人。他的声望近日会如日中天，你……不要妄动。|头像=广陵王-严肃}}\n{{旁白|我登上船只，他没有再问。船渐渐驶离渡口，远处的邺城，被笼罩在一片浓雾之中。}}\n{{对话-尾}}"
+}

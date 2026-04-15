@@ -1,0 +1,370 @@
+{
+  "title": "模板:密探传唤2",
+  "category": "密探传唤",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly分类密探传唤"
+    },
+    {
+      "type": "narration",
+      "text": "defaultdiv class\"row\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"colmd6\"table"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'成功/tdtdp class'_'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'失败/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'突破/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'修为1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'修为2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'化极/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'觉醒/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'送礼1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'送礼2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'传唤台词1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'传唤台词2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'出场/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'队长技/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'技能/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "/table/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"colmd6\"table"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音3/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音4/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音5/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音6/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音7/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音8/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音9/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音10/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音11/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音12/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音13/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音14/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音15/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音16/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音17/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音18/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音19/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音20/tdtdp class'ch_text'/p/td/tr/table/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "机密table"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'成功/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'失败/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'突破/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'修为1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'修为2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'化极/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'觉醒/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'送礼1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'送礼2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'传唤台词1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'传唤台词2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'出场/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'队长技/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'技能/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音1/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音2/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音3/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音4/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音5/tdtdp class'ch_text'/p/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd class'ch_title'语音6/tdtdp class'ch_text'/p/td/tr/table"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".ch_title"
+    },
+    {
+      "type": "narration",
+      "text": "color 785840;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight bold;"
+    },
+    {
+      "type": "narration",
+      "text": "ch_textalignleft;"
+    },
+    {
+      "type": "narration",
+      "text": "lineheight25px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding2px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight bold;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize10px;"
+    },
+    {
+      "type": "narration",
+      "text": ".ch_text"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight bold;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily宋体;"
+    },
+    {
+      "type": "narration",
+      "text": "border1px solid cdba9a;"
+    },
+    {
+      "type": "narration",
+      "text": "padding8px 8px 8px 8px;"
+    },
+    {
+      "type": "narration",
+      "text": "marginleft10px;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundcolorrgb(34,35,46,0.7);"
+    },
+    {
+      "type": "narration",
+      "text": "colorcbbba4;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius5px;"
+    },
+    {
+      "type": "narration",
+      "text": "ch_textalignright;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize10px;"
+    },
+    {
+      "type": "narration",
+      "text": "@media(maxwidth768px)!手机端"
+    },
+    {
+      "type": "narration",
+      "text": ".ch_text"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight regular;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize9px;"
+    },
+    {
+      "type": "narration",
+      "text": ".ch_title"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize9px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight regular;"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "noinclude"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E5%AF%86%E6%8E%A2%E4%BC%A0%E5%94%A42",
+  "crawled_at": "2026-04-12T21:56:53.373927",
+  "raw_wikitext": "<includeonly>[[分类:密探传唤]]{{#switch:{{{1|}}}\n|#default=<div class=\"row\">\n<div class=\"col-md-6\"><table>\n<tr><td class='ch_title'>成功</td><td><p class='_'>{{{成功|待补}}}</p></td></tr>\n<tr><td class='ch_title'>失败</td><td><p class='ch_text'>{{{失败|待补}}}</p></td></tr>\n<tr><td class='ch_title'>突破</td><td><p class='ch_text'>{{{突破|待补}}}</p></td></tr>\n<tr><td class='ch_title'>修为1</td><td><p class='ch_text'>{{{修为1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>修为2</td><td><p class='ch_text'>{{{修为2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>化极</td><td><p class='ch_text'>{{{化极|待补}}}</p></td></tr>\n<tr><td class='ch_title'>觉醒</td><td><p class='ch_text'>{{{觉醒|待补}}}</p></td></tr>\n<tr><td class='ch_title'>送礼1</td><td><p class='ch_text'>{{{送礼1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>送礼2</td><td><p class='ch_text'>{{{送礼2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>传唤台词1</td><td><p class='ch_text'>{{{传唤台词1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>传唤台词2</td><td><p class='ch_text'>{{{传唤台词2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>出场</td><td><p class='ch_text'>{{{出场|待补}}}</p></td></tr>\n<tr><td class='ch_title'>队长技</td><td><p class='ch_text'>{{{队长技|待补}}}</p></td></tr>\n<tr><td class='ch_title'>技能</td><td><p class='ch_text'>{{{技能|待补}}}</p></td></tr>\n</table></div>\n<div class=\"col-md-6\"><table>\n<tr><td class='ch_title'>语音1</td><td><p class='ch_text'>{{{语音1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音2</td><td><p class='ch_text'>{{{语音2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音3</td><td><p class='ch_text'>{{{语音3|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音4</td><td><p class='ch_text'>{{{语音4|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音5</td><td><p class='ch_text'>{{{语音5|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音6</td><td><p class='ch_text'>{{{语音6|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音7</td><td><p class='ch_text'>{{{语音7|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音8</td><td><p class='ch_text'>{{{语音8|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音9</td><td><p class='ch_text'>{{{语音9|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音10</td><td><p class='ch_text'>{{{语音10|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音11</td><td><p class='ch_text'>{{{语音11|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音12</td><td><p class='ch_text'>{{{语音12|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音13</td><td><p class='ch_text'>{{{语音13|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音14</td><td><p class='ch_text'>{{{语音14|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音15</td><td><p class='ch_text'>{{{语音15|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音16</td><td><p class='ch_text'>{{{语音16|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音17</td><td><p class='ch_text'>{{{语音17|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音18</td><td><p class='ch_text'>{{{语音18|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音19</td><td><p class='ch_text'>{{{语音19|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音20</td><td><p class='ch_text'>{{{语音20|待补}}}</p></td></tr></table></div></div>\n|机密=<table>\n<tr><td class='ch_title'>成功</td><td><p class='ch_text'>{{{成功|待补}}}</p></td></tr>\n<tr><td class='ch_title'>失败</td><td><p class='ch_text'>{{{失败|待补}}}</p></td></tr>\n<tr><td class='ch_title'>突破</td><td><p class='ch_text'>{{{突破|待补}}}</p></td></tr>\n<tr><td class='ch_title'>修为1</td><td><p class='ch_text'>{{{修为1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>修为2</td><td><p class='ch_text'>{{{修为2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>化极</td><td><p class='ch_text'>{{{化极|待补}}}</p></td></tr>\n<tr><td class='ch_title'>觉醒</td><td><p class='ch_text'>{{{觉醒|待补}}}</p></td></tr>\n<tr><td class='ch_title'>送礼1</td><td><p class='ch_text'>{{{送礼1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>送礼2</td><td><p class='ch_text'>{{{送礼2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>传唤台词1</td><td><p class='ch_text'>{{{传唤台词1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>传唤台词2</td><td><p class='ch_text'>{{{传唤台词2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>出场</td><td><p class='ch_text'>{{{出场|待补}}}</p></td></tr>\n<tr><td class='ch_title'>队长技</td><td><p class='ch_text'>{{{队长技|待补}}}</p></td></tr>\n<tr><td class='ch_title'>技能</td><td><p class='ch_text'>{{{技能|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音1</td><td><p class='ch_text'>{{{语音1|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音2</td><td><p class='ch_text'>{{{语音2|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音3</td><td><p class='ch_text'>{{{语音3|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音4</td><td><p class='ch_text'>{{{语音4|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音5</td><td><p class='ch_text'>{{{语音5|待补}}}</p></td></tr>\n<tr><td class='ch_title'>语音6</td><td><p class='ch_text'>{{{语音6|待补}}}</p></td></tr></table>\n}}\n{{#css:\n.ch_title{\ncolor: #785840;\nfont-weight: bold;\nch_text-align:left;\nline-height:25px;\npadding:2px;\nfont-weight: bold;\nfont-size:10px;\n}\n.ch_text{\nfont-weight: bold;\nfont-family:宋体;\nborder:1px solid #cdba9a;\npadding:8px 8px 8px 8px;\nmargin-left:10px;\nbackground-color:rgb(34,35,46,0.7);\ncolor:#cbbba4;\nborder-radius:5px;\nch_text-align:right;\nfont-size:10px;\n}\n@media(max-width:768px){<!--手机端 -->\n.ch_text{\nfont-weight: regular;\nfont-size:9px;\n}\n.ch_title{\nfont-size:9px;\nfont-weight: regular;\n}\n}}</includeonly>\n<noinclude>\n==使用方法==\n{{密探传唤2|绝密|华佗\n|成功=\n|失败=跟我跑，死不了。\n|突破=哦哦哦！充满了力量，能连做三场开颅手术！\n|修为1=有人需要开颅手术吗？不收钱，免费的！\n|修为2=肩膀酸？我来帮你正骨！……是不是有什么断掉的声音……\n|化极=我知道巫的末路，我也知道我最后会怎么样。别怕，我能控制我自己。\n|觉醒=巫血，已经开始在我的身体里蔓延了……哈，挺好的。\n|送礼1=好薄的刃！剥皮一定很快。\n|送礼2=还是这玩意开颅顺手！要不要试试？\n|传唤台词1=你病了？我看看……开胸就行，不用开颅。\n|传唤台词2=你昨晚是不是没睡好?再这样下去会秃掉的。\n|出场=我需要找人实践开颅手术，你愿意献身帮忙吗？\n|队长技=战场……讨厌的地方。\n|技能=不许躺平！\n|语音1=我叫华佗，字「板板」……你那是什么表情啊？不爽吗？不爽打一架啊！\n|语音2=身上的文身？我师父给我刺的，怎么样？羡慕吗？我给你也刺一个！\n|语音3=姓张的要你通缉我？我犯什么法了凭啥通缉我！啥？为啥不能把人的脑袋切开再拼回去？\n|语音4=就开切开头顶看看里面是什么状况，看完就拼回去，又没想干坏事.....为啥都抓我啊.....\n|语音5=我在做伤药，我师父被打伤了。有天他看见个骑红马，拿长戟的武士，喊着“美人”就冲人家扑了过去……\n|语音6=快帮我找人，有个病人逃了！我正准备动手术的斧头呢，他跳窗逃了！\n|语音7=我和姓张的是一起长大的，看不出吧？他从前是名门公子，我家是讨饭的……他对我还行。\n|语音8=小时候我的故乡爆发伤寒瘟疫，我和张仲景一起流离失所，被隐鸢仙人救了回去。\n|语音9=你想知道我平时喝的那种药是啥？巫血啊。还挺好喝的，来一口？\n|语音10=坐了一个时辰了，起身动一动。跟我做伸展！……起来锻炼！一直坐着会长痔疮的！\n|语音11=你昨晚是不是没睡好?再这样下去会秃掉的。\n|语音12=我知道巫血是什么，是里八华用来控制人心的东西，但不知为什么，对我没用。\n|语音13=你知道隐鸢阁现在什么情况吗？好像内部分成了三派，在暗中较劲呢！\n|语音14=姓张的……他家人死于伤寒瘟疫，他想收尸。可去了也是个死……我就打晕了他，硬是把他带走了。\n|语音15=你师父左慈突然把我师傅和张仲景的师父扣押了，喂，给个说法吧？\n|语音16=跟你商量个事。我可能……快压制不住巫血了。嘿，如果有天我变成怪物了，你能亲手了结我吗？\n|语音17=好想剖开自己看看，看看巫血是怎么蔓延的……啊啊啊，快！快摁住我的手！它自己在动！\n|语音18=走，跟我干架去！姓张的之前在路边替一个孕妇接生，接生完被家属打了一顿！\n|语音19=别这么抠嘛，一些死人而已，剖完我给你埋回去……别都抬走啊！至少给我留一具啊！\n|语音20=我的字不是挺正常的嘛。我师父的字才诡异呢，叫什么“痔疮”。为啥有人会字“痔疮”啊？！\n}}\n{{密探传唤2|隐密|雀使\n|成功=\n|失败=跟我跑，死不了。\n|突破=哦哦哦！充满了力量，能连做三场开颅手术！\n|修为1=有人需要开颅手术吗？不收钱，免费的！\n|修为2=肩膀酸？我来帮你正骨！……是不是有什么断掉的声音……\n|化极=我知道巫的末路，我也知道我最后会怎么样。别怕，我能控制我自己。\n|觉醒=巫血，已经开始在我的身体里蔓延了……哈，挺好的。\n|送礼1=好薄的刃！剥皮一定很快。\n|送礼2=还是这玩意开颅顺手！要不要试试？\n|传唤台词1=你病了？我看看……开胸就行，不用开颅。\n|传唤台词2=你昨晚是不是没睡好?再这样下去会秃掉的。\n|出场=我需要找人实践开颅手术，你愿意献身帮忙吗？\n|队长技=战场……讨厌的地方。\n|技能=不许躺平！\n|语音1=我叫华佗，字「板板」……你那是什么表情啊？不爽吗？不爽打一架啊！\n|语音2=身上的文身？我师父给我刺的，怎么样？羡慕吗？我给你也刺一个！\n|语音3=姓张的要你通缉我？我犯什么法了凭啥通缉我！啥？为啥不能把人的脑袋切开再拼回去？\n|语音4=就开切开头顶看看里面是什么状况，看完就拼回去，又没想干坏事.....为啥都抓我啊.....\n|语音5=我在做伤药，我师父被打伤了。有天他看见个骑红马，拿长戟的武士，喊着“美人”就冲人家扑了过去……\n|语音6=快帮我找人，有个病人逃了！我正准备动手术的斧头呢，他跳窗逃了！\n}}"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "凤皇鹑笼/02",
+  "category": "主线剧情",
+  "characters": [
+    "我",
+    "鸢"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基不在这里，我们走吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢",
+      "text": "头像=绣云鸢",
+      "emotion": "咕咕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "又是他们的鸢！不能让它引来更多敌人！"
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%87%A4%E7%9A%87%E9%B9%91%E7%AC%BC/02",
+  "crawled_at": "2026-04-12T21:54:05.856464",
+  "raw_wikitext": "{{对话-头}}\n{{旁白|【牢房】}}\n{{旁白|从牢房离开回到长安城，遇上袁基。}}\n{{对话|我|袁基不在这里，我们走吧。|头像=广陵王-严肃}}\n{{对话|鸢|咕咕……|头像=绣云鸢}}\n{{对话|我|又是他们的鸢！不能让它引来更多敌人！|头像=广陵王-愤怒}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

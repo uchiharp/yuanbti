@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_huatuo_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "华佗",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": null,
+    "text": "你游历四方行医，遇到一个瘟疫蔓延的村庄。村民对外来者充满敌意，认为是你带来了瘟疫，要将你赶走。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先离开，写信给当地官府请求派人来处理",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "留在村外，通过村中熟人传话说服他们",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不顾威胁直接进村查看病患，用行动证明自己",
+        "scores": {
+          "S5": 4,
+          "S7": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自华佗的密探故事——他行医不分贵贱，遇到疫病总是冲在最前面。"
+  },
+  {
+    "id": "q_huatuo_02",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你耗尽心血救治的病人康复后，不仅不感恩，反而四处散布谣言说你的药是毒药。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不再理会此人，其他病人还等着",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有些委屈，但忍了，继续做自己的事",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "难过归难过，下次见到此人病了还是会救",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "华佗医者仁心，对病人无私无怨，即便被误解也初心不改。"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "q_xiaoqiao_1",
+    "dimension": "S8",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "小乔",
+    "source_story": "江东日常",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "小乔在绣衣楼中素来温柔体贴，总在密探们疲惫时送来亲手煮的茶点。若有密探因任务失败而自责落泪——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直言失败不可怕，下次务必成功",
+        "scores": {
+          "S8": 1,
+          "S5": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "默默陪着坐一会儿，等对方情绪平复再说",
+        "scores": {
+          "S8": 3,
+          "S2": 3,
+          "S4": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "轻轻递上手帕，柔声说「有我在，不要怕」",
+        "scores": {
+          "S8": 5,
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "小乔的选择：柔声安慰，用自己的温暖化解对方的不安。"
+  },
+  {
+    "id": "q_xiaoqiao_2",
+    "dimension": "S5",
+    "cross_dimension": "S3",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼要举办一场宴会筹措经费，你负责——",
+    "options": [
+      {
+        "label": "A",
+        "text": "精打细算，用最少的花费办成体面的宴会",
+        "scores": {
+          "S5": 3,
+          "S3": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "主动张罗，亲自跑遍广陵置办物资",
+        "scores": {
+          "S5": 4,
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "只要大家开心就好，花多少都无所谓",
+        "scores": {
+          "S5": 3,
+          "S3": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "小乔的日常：会亲力亲为，用行动让每个人感到温暖。"
+  }
+]

@@ -1,0 +1,1481 @@
+{
+  "title": "天下隐光/活动剧情/陆·天下隐光",
+  "category": "活动剧情",
+  "characters": [
+    "安期",
+    "左慈",
+    "巫谢",
+    "徐庶",
+    "我",
+    "杀生仙",
+    "白龙",
+    "祢衡",
+    "葛洪",
+    "郭解",
+    "酆公玖",
+    "酆公珠",
+    "黄月英",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "准备了数百年……不知道这次会召来什么。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "你觉得仍会失败？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "毕竟前几次召来的东西，连人形都不具备了。环绕在宇宙间的天道，并不是寻常生灵能穿过的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "也有巫的族群私下在尝试……啊，你看过吗，那只会说话的脚，脚底长着两幅五官……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "怎么了，王太子？如此不苟言笑，将来的日子可是很难熬的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "这次是照你的意思准备的祭品。光是召唤一次伏羲在船上的残念，就耗费了将近十余万的傩力。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "十余万傩力啊……拿去供奉建木，说不定还能见到一两片叶子呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "所以，本次的祭祀若再无法见到玄鸟，下次就该由巫来主持了，仙可不能再插手了，嗯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你一直那么喜欢说话吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "啊……“说话”对巫而言是很辛苦繁琐的事，不过，这具身体已经习惯了。他们都说我的声音很好听呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "也是。记得最早的巫不需要“说话”，你们的意识是相通的，全部汇聚于建木中。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "所以当巫咸想发动绝地天通时，剩余十巫为何没有觉察？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……巫也可以选择断绝与其他巫的沟通。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你们感知不到少了他的声音。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "你没办法分辨一池水中少了一碗水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "你们也感知不到少了吾的声音。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "绝地天通？！呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "你为什么会有……呃……你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "浮丘老师留下了一座绝地天通法阵。虽然是绝地天通前造的试作，但修补之后，仍能运转。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "本次祭祀，必然会成功。你们此前试过多次，并非不能召唤玄鸟，而是召来的生灵无力穿过宇宙天道抵达。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "那么，缘由就很简单了——祭品不足，护持之力不足。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……你……莫非想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "没有什么祭品的傩力，比十巫更充盈吧？虽然你的肉身不是本尊，但也足够了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "正式举办祭祀时，还有众多仙巫自愿献祭。祭品丰富，玄鸟会降临的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "我以为……仙与巫已经和解了……哈……哈……哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啊哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "这话听着，可真不像活了那么久的人啊。经历过巫咸之事，还有何和解的必要？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……逃了一部分……不过无所谓。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "本尊肉身应该是由重黎氏中的黎氏一族在看护着……之后再去处理罢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……看见了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "看见了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "你，献祭了巫谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "为了召唤玄鸟，他内心深处必然是自愿献祭的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "我对玄鸟没有兴趣，无论如何，都不会自愿献祭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "真可惜。不过，祭品已经足够了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "你为何知道多少祭品足够？若此次仍然不足，你无法再献祭一次与巫谢相当的祭品，便永远不可能再召唤玄鸟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "你曾经成功过。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "“曾经”……应该说，在这个宇宙，是初次祭祀玄鸟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "之前确实曾在其他宇宙见过玄鸟之影。吾知道该如何，不必担忧祭祀失败。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "那，你曾经所处的那个宇宙，经历过玄鸟与新神之后，如何了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "你可以亲自侍奉将临的玄鸟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "只是，你亦需为玄鸟之影。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "我刚才……好像看见过去的事了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我在哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "地窟之下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……这是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "羽化。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "我开始羽化了。拿着它吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "朝那里走。左慈在那。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "入口已经闭合了。只有找到左慈，他才能带你离开。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈和我一起去吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀生仙",
+      "text": "头像=黑人影",
+      "emotion": "你想放走她吗？郭解。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……怎么了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……啊，融解掉了啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "那，还能继续吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……龙……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "呃……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "得带着神君……抵达建木那里……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "你要带她去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "？！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "为何会追来……你是如何穿过此处宇宙的天道的——呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "你就算把她供奉给建木，也无法接续神的天道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "不过以凡人之躯妄窃天道，汝安敢言神明之数？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "汝之魔念，汝之罪孽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "乃至孤之道——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "天时将至，请随我往建木归位。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "眼下我无瑕多问，使君知道阁主在何处吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "还有郭解前辈……地窟中众人都如何了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "她知道我会往建木，所以希望我带你一程。无论战局如何，他们最终都会前往建木之下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "这应该是我初次以现世之姿与你相见。虽然与从前的姿态有些不同……啊，陛下还记得我吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不敢僭越……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "已然忘却了吗……建木中残存的过往，毕竟稀薄不全了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "……咳……咳咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "没关系……没关系的……兔子是……很强韧的生灵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪-黑影",
+      "emotion": "和广陵王走在一起，看起来，是西蜀的仙人啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪-黑影",
+      "emotion": "在左慈的手底下，过得开心吗？仙巫在当年可是被剥夺傩力，随便打赏一个“杀生仙”的名目安抚，说什么“有监督仙人之权”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪-黑影",
+      "emotion": "就从你开始……把我们被骗走的东西，还回来吧？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "……我知道……你是何物了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "呃……求求你！求你出手救我的弟子……求求你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "你的弟子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "我要开始羽化了……如果见到司马徽……告诉他，我会去……会去找他……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我第一次看见仙人们一同羽化。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "地脉充盈，建木复苏，生灵自然生发。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "我也是。神明消散之后，作为神息之物，龙也随之沉寂。直到玄鸟产下神卵，新神接续天道，龙才重新复苏。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "那时，我们从四方赶赴天上的宫阙朝见神君。那场盛宴，至今……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=诸葛亮",
+      "emotion": "……在建木根系下斗殴，也太没教养了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我看到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "白龙。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "我乃往昔载众神往来建木之龙。现在将领神君归位，不得阻挡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "隐光在吗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "你要凭这把断剑，阻挡白龙吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不过是无首龙尸的残念罢了，想再被斩一次吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "执迷不悟之人，当归于地下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "师尊！师尊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "没事……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "快要结束了……隐光呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "隐光就在……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……师尊，你的眼睛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "很快就会好。告诉吾，隐光现在的样子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "它浑浊成了黑色，不过，剑身似乎在……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "似乎在修复，对吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "带吾一直往前，去建木根系下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈-闭眼",
+      "emotion": "你在吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我当然在。我就在师尊旁边。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈-闭眼",
+      "emotion": "……你在吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈-闭眼",
+      "emotion": "是羽化前的“封闭”……你应该在旁边，继续走。朝歌之战的血充盈了龙脉。让建木复苏了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈-闭眼",
+      "emotion": "必须前往建木的根系，斩断新生的根系。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我明白了。师尊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……那是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "……呼……阿香……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "也开始羽化了……该不会所有仙人都羽化了，只剩下我了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不行，得尽快去建木根系下斩断新生根系，不然……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "……不要去……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "他是个骗子……停下，你不知道他曾经做了什么……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不管他曾经做过什么，我都相信师尊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "……只要让建木复苏，你就可以成为神……你以为他没有做过吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "他在阻止你顺承天道……这个人图谋天道，所以他将你握在手中，不让你知晓一切……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "人为何要成神？天道如何，是人力所能定的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "人老了就会老死，死后就会成灰。人间就是一群这样的人汇聚起来的所在，要一个神做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "他曾经在另一个宇宙的玄鸟祭祀时，撕裂玄鸟身上系着的神格……把神格撕成了两半。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "没人知道他为何这么做……那次，玄鸟诞下了一个孩子，但因为神格被撕裂了，玄鸟的神卵中没有神，只有一名凡人之子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "……那个孩子，就是你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不可能。我是双生子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "在那个宇宙不是！那个宇宙，天命之女只生下了一个孩子！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "被撕裂的神格只有一半给了你，另一半在世间游荡。你带着一半神格度过一生，最后他才送你往建木，让你登上天梯。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "最终那处宇宙的道彻底坍塌。你只有一半的神格，根本无法平稳承接天道。他现在又在这里故技重施……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "只是他没有料到，这次玄鸟诞下了双生子，你们同时继承了一半神格……他这次，应是在打算夺取你们的神格……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "如果真的想要，他应该早就动手了，何必等到现在？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "他只是还没有准备好……哈……他当年骗了巫，让巫替他筹办仪式，最后献祭了巫。你以为里八华是怎么出现的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "是被逼到绝境的巫不得不依附于自己在人族中的附庸……为了把神格和天道从他手中夺下……呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "……绝地天通……有人在运转绝地天通……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "我们落下的四座锁阵被逆反了，翻转过来的四座阵法，构成了绝地天通。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "范围内所有仙人都被镇压了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "应该是吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "可前辈你们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "啊，这个样子比较容易逃命……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "等等！我还要去建木根系那里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "我和阿兄先走一步，保重呀，小世子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "……这不是正常的羽化，他的羽茧……被龙的意志影响了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "啊……他会被自己的羽茧搅碎吧……呵呵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "师尊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "我们……我们快到了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈-闭眼",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "建木……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "龙还在吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "他不在这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "失去头颅后，还在地脉中游走啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈-闭眼",
+      "emotion": "它把原来宇宙中撕裂的神格带来了，接续了此地的天道……找到白蛇，找到白蛇……斩杀白蛇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还有七名巫……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "但是，干荒在其中吗？如果他是巫咸的兄弟，应该也是十巫之一。他安排完玉门灵子之后，是也随其他十巫被镇压了，还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果他没有入玉门，和巫咸一样继续留在世间。那，门后的七道影子中，属于干荒的影子，是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "这把剑，是由仙人身躯和神君的遗骸铸造的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "它就是建木的一部分，本身就是它的新根。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "它会化作新的天梯，引神君归位。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=黄月英",
+      "emotion": "若天梯达成，玉门则顷刻失守，消散前，我会用夔牛之音弭平整个世间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "到底要怎么折断它？！呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "给老娘动一下……小霍……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "呼……呼……这就是羽化的感觉……还是第一次……呼……小霍！再动一下啊！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "……为何要阻止神君归位呢？就算灵子会抹除现世一切生灵，但只不过是回归天地之间罢了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "龙便是如此，起于神明呼吸，灭于神明呼吸。何必抗拒？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "洞天。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-欣喜",
+      "emotion": "师尊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "强行终止羽化，就像虫子提前破蛹，你还有一战之力吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "既已斩龙，便可斩世间万物。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "竟还敢提起斩龙的罪孽……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "——想斩断天梯，就先越过白龙吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "天梯……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "龙脉的供奉耗尽了……我……要去地面上……我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白龙",
+      "text": "头像=诸葛亮",
+      "emotion": "巫支祁……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "正平！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=祢衡",
+      "emotion": "……唔……师父……我好像……梦见自己被什么吃进去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他还活着吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "活着。他的肉身是凡人，身躯里也有人格。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "但不知何时会苏醒，你要带他离开吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯，与其他人一起带走吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "很快就会愈合的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "真的不会碎掉吗？像安期的身躯那样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不会。就算碎掉了，你也可以把它粘起来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "应该经验丰富才对啊，时常打碎了花瓶之后再偷偷把它们粘好，以为别人不知道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "嘿嘿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……师尊，我做了个梦。梦见……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "梦见吾抱着你的头颅，跃入火浆之中，对吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "那是上一个宇宙的事了。其实本来不欲令你得知的，只会让你心中彷徨……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾想令你在现世人间度过一生，无论是美好或悲惨的故事，都可去经历一遍……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "所有的路都走遍了，没有遗憾了，再平静地面对自己的天命。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……许久之前，吾和你经历过一切。那时，吾方从姬晋改名左慈，入仙门替代浮丘老师的位置……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "仙门彼时以巫为主，仍欲复苏建木，恢复神明的天道。为此，他们在筹办玄鸟祭祀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "玄鸟之影将降临此地，并诞下神明。吾当时想……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "“若神明就此降临，那，吾还会遇到广陵君吗？”",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "应该不会了吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "对，天道都被改变了，出生的生灵也会随着天道改变，那就真的见不到了吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "所以，当时便做了一件事……吾分开了玄鸟背负的神格，神明没有诞生，出现的是你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……那一半神格在我身上，另一把呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "那次没有双生子，另一半的神格在世间游走，慢慢地涌向你。人格与神格的平衡被打破了，你开始……真正的变成了神明……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "失去记忆，没有反应，不会哭笑……就这样，直到那一日……",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"天下隐光/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background899dd3;color5642a6;textaligncenter;!标题背景和字色改这行颜色"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundB7CCEE;!背景2（导航）改B7CCEE"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陆·天下隐光'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "天下隐光·一"
+    },
+    {
+      "type": "narration",
+      "text": "天下隐光·二"
+    },
+    {
+      "type": "narration",
+      "text": "天下隐光·三"
+    },
+    {
+      "type": "narration",
+      "text": "天下隐光·四"
+    },
+    {
+      "type": "narration",
+      "text": "天下隐光·五"
+    },
+    {
+      "type": "narration",
+      "text": "天下隐光·六"
+    },
+    {
+      "type": "narration",
+      "text": "天下隐光·七"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%86%C2%B7%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89",
+  "crawled_at": "2026-04-12T22:07:36.307490",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|活动剧情|天下隐光/活动玩法}}\n{{回到顶部|头}}{{背景图片|{{filepath:天下隐光背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">天下隐光</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|天下隐光/活动剧情|序}}\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|壹·天崩地坼}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|贰·王为巫首}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|叁·扶桑已烬}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|肆·白龙垂目}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|伍·往世昭回}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|陆·天下隐光}}\n</center>\n</div></div>\n{{JS|Qiantao.js}}\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#899dd3;color:#5642a6;text-align:center;}<!--标题背景和字色改这行颜色-->\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#B7CCEE;}<!--背景2（导航）改#B7CCEE-->\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n<center>\n='''陆·天下隐光'''=\n</center>\n==天下隐光·一==\n{{对话-头}}\n{{旁白|【未知之地】}}\n{{对话|巫谢|准备了数百年……不知道这次会召来什么。|头像=黑人影}}\n{{对话|左慈|你觉得仍会失败？|头像=左慈}}\n{{对话|巫谢|毕竟前几次召来的东西，连人形都不具备了。环绕在宇宙间的天道，并不是寻常生灵能穿过的。|头像=黑人影}}\n{{对话|巫谢|也有巫的族群私下在尝试……啊，你看过吗，那只会说话的脚，脚底长着两幅五官……|头像=黑人影}}\n{{旁白|他模仿那只脚说话的怪声，自己把自己逗笑了。而另一个人只是在对面看着他，面无表情。}}\n{{对话|巫谢|怎么了，王太子？如此不苟言笑，将来的日子可是很难熬的。|头像=黑人影}}\n{{旁白|心理|……走在前面的，是师尊吗……}}\n{{旁白|在坠入地窟的瞬间，我被卷入不知是何人的记忆之中。月色祭坛下，他身穿我从未见过的沉重法袍，带着那人穿过尚未启动的阵眼。}}\n{{对话|巫谢|这次是照你的意思准备的祭品。光是召唤一次伏羲在船上的残念，就耗费了将近十余万的傩力。|头像=黑人影}}\n{{对话|巫谢|十余万傩力啊……拿去供奉建木，说不定还能见到一两片叶子呢。|头像=黑人影}}\n{{对话|巫谢|所以，本次的祭祀若再无法见到玄鸟，下次就该由巫来主持了，仙可不能再插手了，嗯？|头像=黑人影}}\n{{对话|左慈|你一直那么喜欢说话吗？}}\n{{对话|巫谢|啊……“说话”对巫而言是很辛苦繁琐的事，不过，这具身体已经习惯了。他们都说我的声音很好听呢。|头像=黑人影}}\n{{对话|左慈|也是。记得最早的巫不需要“说话”，你们的意识是相通的，全部汇聚于建木中。}}\n{{对话|左慈|所以当巫咸想发动绝地天通时，剩余十巫为何没有觉察？}}\n{{对话|巫谢|……巫也可以选择断绝与其他巫的沟通。|头像=黑人影}}\n{{对话|左慈|你们感知不到少了他的声音。}}\n{{对话|巫谢|你没办法分辨一池水中少了一碗水。|头像=黑人影}}\n{{旁白|他停下了脚步，回头看着那名十巫。忽然，他笑了。}}\n{{对话|左慈|你们也感知不到少了吾的声音。|头像=左慈}}\n{{旁白|下一刻，祭台下血浪翻涌，四方立柱浮现泰山符篆。身处阵眼的巫谢被血浪吞没，不断被无数只血手撕扯羽衣，拽入血浪之下。}}\n{{对话|巫谢|绝地天通？！呃——|头像=黑人影}}\n{{对话|巫谢|你为什么会有……呃……你……|头像=黑人影}}\n{{旁白|无论怎么挣扎，他都无法挣开血手的拖拽，半身浸没。}}\n{{对话|左慈|浮丘老师留下了一座绝地天通法阵。虽然是绝地天通前造的试作，但修补之后，仍能运转。}}\n{{对话|左慈|本次祭祀，必然会成功。你们此前试过多次，并非不能召唤玄鸟，而是召来的生灵无力穿过宇宙天道抵达。}}\n{{对话|左慈|那么，缘由就很简单了——祭品不足，护持之力不足。}}\n{{对话|巫谢|……你……莫非想……|头像=黑人影}}\n{{对话|左慈|没有什么祭品的傩力，比十巫更充盈吧？虽然你的肉身不是本尊，但也足够了。}}\n{{对话|左慈|正式举办祭祀时，还有众多仙巫自愿献祭。祭品丰富，玄鸟会降临的。}}\n{{旁白|血已经吞没了他的脖颈。他仰起头，艰难地喘息。}}\n{{对话|巫谢|我以为……仙与巫已经和解了……哈……哈……哈……|头像=黑人影}}\n{{对话|左慈|啊哈哈……}}\n{{对话|左慈|这话听着，可真不像活了那么久的人啊。经历过巫咸之事，还有何和解的必要？}}\n{{旁白|巫谢张大了嘴，一股白烟从他口中流窜而出。发髻飘动，隐光剑出，但只来得及劈碎它的末梢。}}\n{{对话|左慈|……逃了一部分……不过无所谓。}}\n{{对话|左慈|本尊肉身应该是由重黎氏中的黎氏一族在看护着……之后再去处理罢。}}\n{{旁白|失去生机的肉身，已经彻底被血浪吞没。紧接着，血水飞速渗入地下，消失无踪，除了几片残破染血的白羽，此地仿佛无事发生。}}\n{{对话|左慈|……}}\n{{对话|左慈|……看见了吗？}}\n{{对话|郭解|看见了。|头像=郭解}}\n{{对话|郭解|你，献祭了巫谢。|头像=郭解}}\n{{对话|左慈|为了召唤玄鸟，他内心深处必然是自愿献祭的。}}\n{{对话|郭解|……|头像=郭解}}\n{{对话|郭解|我对玄鸟没有兴趣，无论如何，都不会自愿献祭。|头像=郭解}}\n{{对话|左慈|真可惜。不过，祭品已经足够了。}}\n{{对话|郭解|你为何知道多少祭品足够？若此次仍然不足，你无法再献祭一次与巫谢相当的祭品，便永远不可能再召唤玄鸟。|头像=郭解}}\n{{对话|左慈|……}}\n{{对话|郭解|……|头像=郭解}}\n{{对话|郭解|你曾经成功过。|头像=郭解}}\n{{对话|左慈|“曾经”……应该说，在这个宇宙，是初次祭祀玄鸟。}}\n{{对话|左慈|之前确实曾在其他宇宙见过玄鸟之影。吾知道该如何，不必担忧祭祀失败。}}\n{{对话|郭解|那，你曾经所处的那个宇宙，经历过玄鸟与新神之后，如何了？|头像=郭解}}\n{{旁白|他没有说话，只是握着隐光，静静看着她。}}\n{{对话|左慈|你可以亲自侍奉将临的玄鸟。|头像=左慈}}\n{{对话|左慈|只是，你亦需为玄鸟之影。|头像=左慈}}\n{{旁白|声音不是从他口中发出的。}}\n{{旁白|是从隐光剑中响起的。}}\n{{对话|我|？！！|头像=广陵王-难受}}\n{{旁白|【蜀山地窟】}}\n{{对话|我|呼……呼……|头像=广陵王-疲惫}}\n{{对话|郭解|……}}\n{{对话|我|我刚才……好像看见过去的事了……|头像=广陵王-难过}}\n{{对话|我|……我在哪？|头像=广陵王-微笑}}\n{{对话|郭解|地窟之下。}}\n{{旁白|我的视野渐渐清晰，看见她失去了左臂，原先左臂的位置，现在是黑白相间的羽翼。}}\n{{对话|我|……这是……|头像=广陵王-惊讶}}\n{{对话|郭解|羽化。}}\n{{旁白|她摘下面罩，从脖颈到下颌，羽毛正在皮肤上飞快的增长。}}\n{{对话|郭解|我开始羽化了。拿着它吧。}}\n{{旁白|她将一样事物交给了我，是随方才的人群一起坠入地窟的隐光断剑。}}\n{{对话|郭解|朝那里走。左慈在那。|头像=郭解}}\n{{对话|郭解|入口已经闭合了。只有找到左慈，他才能带你离开。|头像=郭解}}\n{{对话|我|前辈和我一起去吧？|头像=广陵王-微笑}}\n{{旁白|她无力起身，半身都被羽翼覆盖，只能坐在那，最后抬眼看过来，目光越过我，看向我的身后……}}\n{{对话|杀生仙|你想放走她吗？郭解。|头像=黑人影}}\n{{对话-尾}}\n==天下隐光·二==\n{{对话-头}}\n{{旁白|【蜀山地窟】}}\n{{对话|郭解|……怎么了……}}\n{{对话|我|……|头像=广陵王-难过}}\n{{对话|郭解|……啊，融解掉了啊……}}\n{{对话|郭解|那，还能继续吗？}}\n{{对话|我|……|头像=广陵王-难过}}\n{{旁白|不尽的拦截与追杀，在遍布着火浆的炼狱中，她带我前往师尊的所在。}}\n{{旁白|我的身躯不断在变轻。无数细小的光尘环绕，就像水蒸腾而上，身躯也如此安静地在消解。}}\n{{旁白|意识在诡谲中沉浮。仿佛看见另一处地脉中，有七道巨大的白影，垂首望着黄月英。}}\n{{旁白|忽然，她停下了，因为看见了难以置信的存在——}}\n{{对话|我|……龙……|头像=广陵王-严肃}}\n{{旁白|我看见了……}}\n{{旁白|龙。无首之龙。}}\n{{旁白|漫长而巨大的、白色的龙身，游走在充斥火浆的地脉中，伴着我们缓缓前行。郭解拉起我靠近它，然后，将我推入了龙身——}}\n{{旁白|我没有撞到什么，只像扑入了一团清凉而柔润的水雾，被一团云温柔地接住……}}\n{{对话|？？？|呃……呃……|头像=诸葛亮}}\n{{对话|？？？|得带着神君……抵达建木那里……呃……|头像=诸葛亮}}\n{{对话|左慈|你要带她去哪？|头像=左慈}}\n{{对话|？？？|？！！！！|头像=诸葛亮}}\n{{旁白|我在高空之上漂浮，仿佛被飓风席卷的云层。声音冲破夜色隆隆而来，我却看不见任何一道人影。}}\n{{对话|？？？|为何会追来……你是如何穿过此处宇宙的天道的——呃！！！|头像=诸葛亮}}\n{{旁白|又是一道惊雷劈落，雪白龙鳞碎冰般自九天零散。}}\n{{旁白|我终于看清自己乘在何物之上——白龙背脊一片狼藉，鲜血淋漓，在天雷下痛苦地扭曲。}}\n{{对话|左慈|你就算把她供奉给建木，也无法接续神的天道。|头像=左慈}}\n{{对话|？？？|不过以凡人之躯妄窃天道，汝安敢言神明之数？！|头像=诸葛亮}}\n{{旁白|天地惊白，雨云亡散。我见到了他——紧追白龙的，是一道剔透剑光。}}\n{{旁白|隐光。}}\n{{对话|？？？|汝之魔念，汝之罪孽——|头像=诸葛亮}}\n{{旁白|被惊雷缠绕禁锢的龙躯，驰骋得越来越慢，直到被隐光追上……}}\n{{对话|？？？|乃至孤之道——|头像=诸葛亮}}\n{{旁白|剑影映出雷光，龙首飞旋坠地，化作我记忆中的斩龙台。}}\n{{旁白|失去头颅的龙身疯狂痛苦扭曲，于九霄凌乱飞舞，带着我冲向下方，冲破云层，重重撞入大地之下……}}\n{{旁白|【蜀山地窟】}}\n{{对话|我|……唔……|头像=广陵王-疲惫}}\n{{旁白|我从梦魇中苏醒，身躯恢复了正常，柔和的白光盘绕，隔绝了地窟中混乱的灼热。}}\n{{旁白|一道人影怀抱骨杖立于我身前，神容宁静，向我俯身伸手。}}\n{{对话|？？？|天时将至，请随我往建木归位。|头像=诸葛亮}}\n{{对话|我|眼下我无瑕多问，使君知道阁主在何处吗？|头像=广陵王-严肃}}\n{{对话|我|还有郭解前辈……地窟中众人都如何了？|头像=广陵王-严肃}}\n{{对话|？？？|她知道我会往建木，所以希望我带你一程。无论战局如何，他们最终都会前往建木之下。}}\n{{对话|？？？|这应该是我初次以现世之姿与你相见。虽然与从前的姿态有些不同……啊，陛下还记得我吗？}}\n{{对话|我|不敢僭越……|头像=广陵王-微笑}}\n{{对话|？？？|已然忘却了吗……建木中残存的过往，毕竟稀薄不全了。}}\n{{对话|？？？|啊……}}\n{{旁白|一道巨蟒之影突然从旁冲出，横贯在他面前。我的身后，传来了熟悉的声音……}}\n{{对话|葛洪|……咳……咳咳……}}\n{{对话|葛洪|没关系……没关系的……兔子是……很强韧的生灵……}}\n{{旁白|他的身躯已经残破不全，遍布着兽齿撕咬的痕迹。断裂的肢体伤口处，不断有白色绒毛生长。}}\n{{对话|葛洪|和广陵王走在一起，看起来，是西蜀的仙人啊……|头像=葛洪-黑影}}\n{{对话|葛洪|在左慈的手底下，过得开心吗？仙巫在当年可是被剥夺傩力，随便打赏一个“杀生仙”的名目安抚，说什么“有监督仙人之权”……|头像=葛洪-黑影}}\n{{对话|葛洪|就从你开始……把我们被骗走的东西，还回来吧？！|头像=葛洪-黑影}}\n{{对话-尾}}\n==天下隐光·三==\n{{对话-头}}\n{{旁白|【蜀山地窟】}}\n{{对话|葛洪|……我知道……你是何物了……}}\n{{对话|葛洪|呃……求求你！求你出手救我的弟子……求求你……}}\n{{对话|？？？|你的弟子？|头像=诸葛亮}}\n{{对话|葛洪|我要开始羽化了……如果见到司马徽……告诉他，我会去……会去找他……}}\n{{旁白|他的声音渐渐低了下去，彻底被绒毛覆盖。}}\n{{对话|我|我第一次看见仙人们一同羽化。|头像=广陵王-微笑}}\n{{对话|？？？|地脉充盈，建木复苏，生灵自然生发。}}\n{{对话|？？？|我也是。神明消散之后，作为神息之物，龙也随之沉寂。直到玄鸟产下神卵，新神接续天道，龙才重新复苏。}}\n{{对话|？？？|那时，我们从四方赶赴天上的宫阙朝见神君。那场盛宴，至今……}}\n{{旁白|突然，地脉开始了剧烈的颤动，碎石纷落。他低下头掩住脸，身影消失了一瞬。}}\n{{对话|？？？|……在建木根系下斗殴，也太没教养了。|头像=诸葛亮}}\n{{对话|我|我看到了。|头像=广陵王-严肃}}\n{{旁白|就在这时，我看见前方出现了他的身影。他见到我们，神色微微有些讶异。}}\n{{对话|左慈|白龙。}}\n{{对话|白龙|我乃往昔载众神往来建木之龙。现在将领神君归位，不得阻挡。|头像=诸葛亮}}\n{{旁白|地窟的震颤寂静了。他一步一步走向我们，朝我伸出手。}}\n{{对话|左慈|隐光在吗。}}\n{{旁白|我将隐光交给了他。看见它的瞬间，那人的神色间晃过一丝忌惮，但旋即平静。}}\n{{对话|白龙|你要凭这把断剑，阻挡白龙吗？|头像=诸葛亮}}\n{{对话|左慈|不过是无首龙尸的残念罢了，想再被斩一次吗？}}\n{{旁白|霎时，那人的眼神变了，不似人的眼眸，鳞片与羽毛的脉络浮现在脸颊上。}}\n{{旁白|地脉中火浆顷刻汹涌沸腾，被甬道中缓缓游走的龙影搅动。}}\n{{对话|白龙|执迷不悟之人，当归于地下。|头像=诸葛亮}}\n{{对话-尾}}\n==天下隐光·四==\n{{对话-头}}\n{{旁白|【蜀山地窟】}}\n{{对话|我|师尊！师尊！|头像=广陵王-疲惫}}\n{{对话|左慈|……}}\n{{对话|左慈|没事……}}\n{{旁白|龙影退却，沿着地脉游走消失。他拉住我，好像怕我被什么带走。}}\n{{对话|左慈|快要结束了……隐光呢？}}\n{{对话|我|隐光就在……|头像=广陵王-微笑}}\n{{旁白|我正要拿起落在他膝前的隐光，突然怔住了，伸出手，在他眼前晃了晃。}}\n{{对话|我|……师尊，你的眼睛……|头像=广陵王-惊讶}}\n{{对话|左慈|很快就会好。告诉吾，隐光现在的样子。}}\n{{对话|我|它浑浊成了黑色，不过，剑身似乎在……|头像=广陵王-严肃}}\n{{对话|左慈|似乎在修复，对吗？}}\n{{旁白|他抚过黑色剑身。它正在恢复，不知何时，已经有原先剑身的一半长了。}}\n{{对话|左慈|带吾一直往前，去建木根系下。}}\n{{旁白|暂时失去视力的人，步伐时而踉跄。我扶着他沿着地脉，缓缓向前走去。}}\n{{旁白|心理|好像在沿着台阶，不断向地底更深处去一样。}}\n{{对话|左慈|你在吗？|头像=左慈-闭眼}}\n{{对话|我|我当然在。我就在师尊旁边。|头像=广陵王-微笑}}\n{{对话|左慈|……你在吗？|头像=左慈-闭眼}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{旁白|心理|听力和触觉也消失了吗？}}\n{{对话|左慈|是羽化前的“封闭”……你应该在旁边，继续走。朝歌之战的血充盈了龙脉。让建木复苏了。|头像=左慈-闭眼}}\n{{对话|左慈|必须前往建木的根系，斩断新生的根系。|头像=左慈-闭眼}}\n{{对话|我|我明白了。师尊？|头像=广陵王-点头}}\n{{旁白|他的眼中长出白羽，遮蔽了双眸。双腿已经消失了，我回头看向来路，石道上洒满了白羽。}}\n{{对话|我|呼……|头像=广陵王-微笑}}\n{{旁白|我背起他，继续往下走。黑色的隐光在剑带上微微鸣响，像是某种音律。}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|……那是……|头像=广陵王-惊讶}}\n{{旁白|——前方，有一团被金色树根盘踞的羽团，呼吸般缓缓起伏。}}\n{{旁白|从羽毛的缝隙下，我看见了安期的脸。}}\n{{对话|安期|……呼……阿香……|头像=安期}}\n{{对话|我|也开始羽化了……该不会所有仙人都羽化了，只剩下我了吧？|头像=广陵王-严肃}}\n{{对话|我|不行，得尽快去建木根系下斩断新生根系，不然……|头像=广陵王-摇头}}\n{{旁白|我的脚步突然被拖住。一只手抓住我的脚踝，是安期的手。}}\n{{对话|安期|……不要去……}}\n{{对话|安期|他是个骗子……停下，你不知道他曾经做了什么……}}\n{{对话|我|不管他曾经做过什么，我都相信师尊。|头像=广陵王-摇头}}\n{{对话|安期|……只要让建木复苏，你就可以成为神……你以为他没有做过吗？}}\n{{对话|安期|他在阻止你顺承天道……这个人图谋天道，所以他将你握在手中，不让你知晓一切……}}\n{{对话|我|人为何要成神？天道如何，是人力所能定的？|头像=广陵王-严肃}}\n{{对话|我|人老了就会老死，死后就会成灰。人间就是一群这样的人汇聚起来的所在，要一个神做什么？|头像=广陵王-摇头}}\n{{对话|安期|他曾经在另一个宇宙的玄鸟祭祀时，撕裂玄鸟身上系着的神格……把神格撕成了两半。}}\n{{对话|安期|没人知道他为何这么做……那次，玄鸟诞下了一个孩子，但因为神格被撕裂了，玄鸟的神卵中没有神，只有一名凡人之子。}}\n{{对话|安期|……那个孩子，就是你……}}\n{{对话|我|不可能。我是双生子。|头像=广陵王-摇头}}\n{{对话|安期|在那个宇宙不是！那个宇宙，天命之女只生下了一个孩子！}}\n{{对话|安期|被撕裂的神格只有一半给了你，另一半在世间游荡。你带着一半神格度过一生，最后他才送你往建木，让你登上天梯。}}\n{{对话|安期|最终那处宇宙的道彻底坍塌。你只有一半的神格，根本无法平稳承接天道。他现在又在这里故技重施……}}\n{{对话|安期|只是他没有料到，这次玄鸟诞下了双生子，你们同时继承了一半神格……他这次，应是在打算夺取你们的神格……}}\n{{对话|我|如果真的想要，他应该早就动手了，何必等到现在？|头像=广陵王-摇头}}\n{{对话|安期|他只是还没有准备好……哈……他当年骗了巫，让巫替他筹办仪式，最后献祭了巫。你以为里八华是怎么出现的？}}\n{{对话|安期|是被逼到绝境的巫不得不依附于自己在人族中的附庸……为了把神格和天道从他手中夺下……呃！}}\n{{旁白|伴随着惊骇地动，四方巨响，她和左慈身上的羽化加剧。}}\n{{旁白|一股怪异的粘滞感充斥四周，但这种令仙人虚弱的气息，反而令我放松了许多。}}\n{{对话|安期|……绝地天通……有人在运转绝地天通……|头像=安期}}\n{{旁白|隆隆声继续在四方加剧。两条蛇蜿蜒过我的脚边，发出酆公兄妹的声音。}}\n{{对话|酆公珠|我们落下的四座锁阵被逆反了，翻转过来的四座阵法，构成了绝地天通。|头像=酆公珠}}\n{{对话|我|范围内所有仙人都被镇压了吗？|头像=广陵王-严肃}}\n{{对话|酆公珠|应该是吧……|头像=酆公珠}}\n{{对话|我|可前辈你们……|头像=广陵王-惊讶}}\n{{对话|酆公玖|啊，这个样子比较容易逃命……|头像=酆公玖}}\n{{对话|我|等等！我还要去建木根系那里！|头像=广陵王-严肃}}\n{{对话|酆公珠|我和阿兄先走一步，保重呀，小世子。|头像=酆公珠}}\n{{旁白|蛇游走远去。绝地天通阵法之下，他身上的羽茧在疯狂膨胀，反过来蚕食着他的身躯……}}\n{{对话|安期|……这不是正常的羽化，他的羽茧……被龙的意志影响了……}}\n{{对话|安期|啊……他会被自己的羽茧搅碎吧……呵呵……}}\n{{对话|我|师尊！|头像=广陵王-生气}}\n{{对话-尾}}\n\n==天下隐光·五==\n{{对话-头}}\n{{旁白|【蜀山地窟】}}\n{{对话|我|我们……我们快到了……|头像=广陵王-难受}}\n{{对话|左慈|……|头像=左慈-闭眼}}\n{{旁白|他伏在我背上，身躯冰冷，没有气息。}}\n{{旁白|心理|曾经说起过……好像仙人本身就是很少有气息的，只是为了让我觉得亲近，会像常人一样呼吸。}}\n{{对话|我|建木……|头像=广陵王-微笑}}\n{{旁白|火色绵延的地脉中，出现了一片璀璨的金色，像盛放在烈火上的日光。}}\n{{旁白|步出洞窟，眼前便皆是无穷无尽的建木根系，自上方垂下。我去摸隐光，发现它已经完全恢复了。}}\n{{对话|左慈|龙还在吗……}}\n{{对话|我|他不在这。|头像=广陵王-摇头}}\n{{对话|左慈|失去头颅后，还在地脉中游走啊……}}\n{{旁白|心理|已经意识不清了，只是在自言自语吗？}}\n{{对话|左慈|它把原来宇宙中撕裂的神格带来了，接续了此地的天道……找到白蛇，找到白蛇……斩杀白蛇……|头像=左慈-闭眼}}\n{{旁白|他呢喃着，手轻轻动了，仿佛在握着一把剑。}}\n{{旁白|建木根系的倒影中，七道白影笼罩黄月英，她在笑，那种笑容很陌生，不是她的，而是属于她脑中的巫。}}\n{{对话|我|还有七名巫……|头像=广陵王-微笑}}\n{{对话|我|但是，干荒在其中吗？如果他是巫咸的兄弟，应该也是十巫之一。他安排完玉门灵子之后，是也随其他十巫被镇压了，还是……|头像=广陵王-微笑}}\n{{对话|我|如果他没有入玉门，和巫咸一样继续留在世间。那，门后的七道影子中，属于干荒的影子，是谁？|头像=广陵王-严肃}}\n{{旁白|漫无边际地想着，我已经走到了根系的正下方。抬头望去，上方根系如金雨瀑布般落下。}}\n{{旁白|心理|建木新生的根系究竟在哪？}}\n{{旁白|我试着劈断了一根垂落的黄金根。它转眼融解，化入地脉火浆之中。几乎相同的根系数不胜数，根本无法分辨。}}\n{{旁白|心理|若是要把这些根系全部斩断，根本是不可能的事。}}\n{{对话|我|唔！|头像=广陵王-难受}}\n{{旁白|我再往前走了一步，突然，步伐被一股力量拖住了。}}\n{{旁白|是隐光。我起初以为它被卡在了石头间，细看才发现，它似乎“长”进了地脉中，扎进了根。}}\n{{旁白|剑的形体逐渐扭曲，化作树苗的姿态。}}\n{{对话|白龙|这把剑，是由仙人身躯和神君的遗骸铸造的。|头像=诸葛亮}}\n{{对话|白龙|它就是建木的一部分，本身就是它的新根。|头像=诸葛亮}}\n{{对话|白龙|它会化作新的天梯，引神君归位。|头像=诸葛亮}}\n{{旁白|话音未落，我已经冲向了它，试图折断新生的细长树干。}}\n{{旁白|感应到我的敌意，隐光暴长，无数突出的尖锐树枝窜出，将我抵挡在外——}}\n{{对话-尾}}\n==天下隐光·六==\n{{对话-头}}\n{{旁白|【蜀山地窟】}}\n{{旁白|心理|不行……无论怎么做，都无法折断它——}}\n{{旁白|越来越庞大的树干朝上方生长。我听见了铃声，黄月英的铃声。}}\n{{对话|黄月英|若天梯达成，玉门则顷刻失守，消散前，我会用夔牛之音弭平整个世间。|头像=黄月英}}\n{{对话|我|到底要怎么折断它？！呃——|头像=广陵王-难受}}\n{{旁白|我试着攀上新生的数，去折断它末端最细的树枝。它已坚硬如铁，表面覆上一层如隐光剑身般坚硬的护甲。}}\n{{旁白|就在这时，我看见了一道剑光——}}\n{{对话|徐庶|给老娘动一下……小霍……|头像=徐庶}}\n{{旁白|冠军剑出，斩断了最高处的隐光木枝。我愕然回头，见到浑身浴血的人影艰难支撑在师尊身边，青手上遍布金丝。}}\n{{对话|徐庶|呼……呼……这就是羽化的感觉……还是第一次……呼……小霍！再动一下啊！！！}}\n{{对话|白龙|……为何要阻止神君归位呢？就算灵子会抹除现世一切生灵，但只不过是回归天地之间罢了。|头像=诸葛亮}}\n{{对话|白龙|龙便是如此，起于神明呼吸，灭于神明呼吸。何必抗拒？|头像=诸葛亮}}\n{{旁白|他伸出手，接住那节断落的木枝。木枝在他手中，化为了一把细长弯曲如龙身的剑。}}\n{{旁白|隐光化为的神木，同样随之弯曲，木枝化为剑状，刺向徐庶。然而就在这时，白羽飞散——}}\n{{对话|左慈|洞天。|头像=左慈}}\n{{对话|我|师尊！|头像=广陵王-欣喜}}\n{{旁白|洞天在地脉中掀起流风，将我从树上托下。他脱离了羽茧，新生的身躯并不完整，泛着冰色裂痕。}}\n{{对话|白龙|强行终止羽化，就像虫子提前破蛹，你还有一战之力吗？|头像=诸葛亮}}\n{{对话|左慈|既已斩龙，便可斩世间万物。}}\n{{对话|白龙|竟还敢提起斩龙的罪孽……|头像=诸葛亮}}\n{{对话|白龙|——想斩断天梯，就先越过白龙吧！|头像=诸葛亮}}\n{{对话-尾}}\n==天下隐光·七==\n{{对话-头}}\n{{旁白|【蜀山地窟】}}\n{{旁白|新生的神木在崩散，化作无数金雨落下。}}\n{{旁白|半空中，无首的龙气缓缓盘旋，环绕白龙的身躯，断裂的龙颈间，发出漫长而低沉的悲鸣。}}\n{{对话|白龙|天梯……呃！|头像=诸葛亮}}\n{{对话|白龙|龙脉的供奉耗尽了……我……要去地面上……我……|头像=诸葛亮}}\n{{旁白|他合上双眼，沉入龙身之中。龙气盘旋向上，意图沿着建木根系离开地底。}}\n{{旁白|突然，它猛然剧烈挣扎，腹部不断凹凸起伏，似有活物欲破腹而出。破裂的龙气，像碎龙鳞般雪落，一只白猿的巨臂从龙腹中伸出——}}\n{{对话|白龙|巫支祁……|头像=诸葛亮}}\n{{旁白|龙影被撕裂，自高空坠落，在半空消散殆尽；白猿重重坠地，化为一地血水。血水中，有一道人影蜷缩。}}\n{{对话|徐庶|正平！|头像=徐庶}}\n{{对话|祢衡|……唔……师父……我好像……梦见自己被什么吃进去了……|头像=祢衡}}\n{{旁白|一声轻响，从崩散的神木中，隐光落回地上。和它一起坠落的，还有白龙的人身。}}\n{{对话|我|他还活着吗？|头像=广陵王-微笑}}\n{{对话|左慈|活着。他的肉身是凡人，身躯里也有人格。}}\n{{对话|左慈|但不知何时会苏醒，你要带他离开吗？}}\n{{对话|我|嗯，与其他人一起带走吧。|头像=广陵王-点头}}\n{{旁白|地脉中，建木的根系渐渐暗淡。我们离开了此地，沿途带走了其他正在羽化的仙人，回到了蜀山……}}\n{{旁白|【云帝宫】}}\n{{旁白|他疲惫地躺在榻上，但还是睁开眼睛看着我。我躺在他身边，手指划过他脖颈上的裂痕。}}\n{{对话|左慈|很快就会愈合的……}}\n{{对话|我|真的不会碎掉吗？像安期的身躯那样。|头像=广陵王-难过}}\n{{对话|左慈|不会。就算碎掉了，你也可以把它粘起来。}}\n{{对话|左慈|应该经验丰富才对啊，时常打碎了花瓶之后再偷偷把它们粘好，以为别人不知道。}}\n{{对话|我|嘿嘿……|头像=广陵王-眯眼笑}}\n{{对话|我|……师尊，我做了个梦。梦见……|头像=广陵王-微笑}}\n{{对话|左慈|梦见吾抱着你的头颅，跃入火浆之中，对吗？}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|左慈|那是上一个宇宙的事了。其实本来不欲令你得知的，只会让你心中彷徨……}}\n{{对话|左慈|吾想令你在现世人间度过一生，无论是美好或悲惨的故事，都可去经历一遍……}}\n{{对话|左慈|所有的路都走遍了，没有遗憾了，再平静地面对自己的天命。}}\n{{旁白|隐光剑躺在我们中间，恢复了剔透。他将手掌抚过剑身，微微叹息。}}\n{{对话|左慈|……许久之前，吾和你经历过一切。那时，吾方从姬晋改名左慈，入仙门替代浮丘老师的位置……}}\n{{对话|左慈|仙门彼时以巫为主，仍欲复苏建木，恢复神明的天道。为此，他们在筹办玄鸟祭祀。}}\n{{对话|左慈|玄鸟之影将降临此地，并诞下神明。吾当时想……}}\n{{对话|左慈|“若神明就此降临，那，吾还会遇到广陵君吗？”}}\n{{对话|我|应该不会了吧……|头像=广陵王-微笑}}\n{{对话|左慈|对，天道都被改变了，出生的生灵也会随着天道改变，那就真的见不到了吧？}}\n{{对话|左慈|所以，当时便做了一件事……吾分开了玄鸟背负的神格，神明没有诞生，出现的是你。}}\n{{对话|我|……那一半神格在我身上，另一把呢？|头像=广陵王-惊讶}}\n{{对话|左慈|那次没有双生子，另一半的神格在世间游走，慢慢地涌向你。人格与神格的平衡被打破了，你开始……真正的变成了神明……}}\n{{对话|左慈|失去记忆，没有反应，不会哭笑……就这样，直到那一日……}}\n{{旁白|夜幕低垂。远处蜀山之后日光隐现。随着他的低诉声，我们沉沉睡去……}}\n{{对话-尾}}\n\n<center>\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|上一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

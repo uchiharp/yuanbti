@@ -1,0 +1,2186 @@
+{
+  "title": "三国志绒绒版/活动剧情/犬都掌故",
+  "category": "活动剧情",
+  "characters": [
+    "侍从",
+    "信使",
+    "凌统",
+    "周瑜",
+    "周群",
+    "安期",
+    "小鸟",
+    "徐庶",
+    "戏学",
+    "我",
+    "文官",
+    "旅店老板",
+    "江东侠士",
+    "江东少年",
+    "江东百姓",
+    "满宠",
+    "甘宁",
+    "祢衡",
+    "老者",
+    "董白",
+    "蒯越",
+    "袁遗",
+    "锦帆寨刀兵",
+    "锦帆寨贼狗",
+    "陌生学士",
+    "马腾",
+    "马超",
+    "黄月英",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "……呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这么大的雪，你不能躺在道边，会冻死的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "…………呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "他好像伤得很重狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "这里是罪犬之后服役的盐场。盐场的官吏会处理的。会客的时辰快到了，该回程了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不能见死不救狐！搭把手，一起把他带回去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=狗绒绒·蒯越",
+      "emotion": "……唔，我还活着么……汪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐狐，活着哦！不过还需要多多休息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嘿咻嘿咻……这几颗蛋给你补充营养。早日康复狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸟",
+      "text": "啾啾……啾啾……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "孵出来了……居然真的孵出来了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "既然是殿下送的，就叫小柿子、中柿子和大柿子吧……咴咴~",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸟",
+      "text": "啾啾！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "会、会跳小鸟求奶舞！太可爱了咴——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "还对着那几只鸟发呆啊？蒯越。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "……什么事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "让你别痴心妄想了，所谓政治的核心是立场，权力的本质可是距离，距离啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "哪有上司会让自己的心腹一去不复返的？最多是去远处镀个金。不是心腹的，那才是外派去穷山恶水里再也回不去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "广陵王现在需要士族们的支持呢，自然要重用士族的犬。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "依我看啊，你就在江陵这个地方……唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "你……唔噗……呃——呃——呃……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "……呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "真是的……反应过来的时候，把同僚的整颗头都……砸碎了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "………………呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信使",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "蒯越使君在吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "！！！！！！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信使",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "是广陵的来信！使君，节庆在即，殿下请使君回广陵小叙！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "我、我知道了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "然后！先王妃就这样说……那样说……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哦哦哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "还说，以后殿下一定会回广陵称王的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哦哦哦哦哦——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "……路过……嗯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "先王妃还很喜欢这种花和那种酒，还有……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "咴~咴咴~",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "站住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "哎？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "你刚刚骗她了吧，狐？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "什、什么……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "先王妃的话。先王妃从没留下过那种话，也不喜欢喝酒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "你、你是谁汪！我可是很小就见过先王妃的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸟",
+      "text": "叽叽——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "你说我骗了殿下，证据呢！而且……而且殿下不是很开心嘛！汪！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……对不起啊，忘记你应该字什么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "哎？母亲为何突然道歉……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……如果听课时候再用心一点，就能知道你的字了，好像是什么王字偏旁的字……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "儿子还没有到需要取字的年纪……不过，如果母亲想取……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "对了，周忠叔叔今天送来了粮米和酒，母亲身体不好，请先用些白米吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "如果不够的话……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "够了啊啊——不要……不要再让他多送了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "他……他说不定也是什么间谍……我受够了！到处都是各种势力的间谍啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "旁边的孙家肯定不是吧……因为是孙家……感觉应该是负责打仗的人家……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "母、母亲又在说笑了……他家是种瓜的富农。孙坚前辈打过一些小战役，用军功换了些田地……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "母亲有些不安，需要用些酒吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "………………好难喝。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "如果是冰▢乐就好了……根本没有好吃的……饮品也只有各种酒……水里都是沙子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "冰块太贵了，活下去需要的木柴都不知道怎么弄来……到处都在杀犬，隔壁那么小的小狗都会杀犬……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "啊，孙策那是遇到了一名贼犬，所以取了他的首级去郡里领赏……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "啊啊啊那么小的小狗居然一刀一刀把头剁了下来啊啊啊！！！周围的狗……为什么还在叫好……那么小的狗啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "这不是……少年英雄吗……？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……………………………………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "我想回家……我想回家我想回家我想回家我想回家我想回家我想回家我想回家！！！！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "母亲冷静些！不要再撞墙了！如果是儿子有什么地方触怒了母亲，请母亲责备儿子吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "这种话也很奇怪！！！……但是你们这里是举孝廉的，不孝是死罪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "母亲心中若有苦恼，儿子可以为母亲分忧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……说起来一点都没有“实感”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……………………就在这个地方生了孩子……一点医疗措施都没有……痛得要死，还全是后遗症……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "想回家……好难受……想回家！我想回家啊啊啊啊啊啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "我根本——不想——要孩子啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "………………………………………………………………………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "兄长来了狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……嗯。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "蒯越刚刚还在和我说母亲的事呢，虽然感觉有很多哄我开心的话，真真假假的……不过听着很有趣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "母亲……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "母亲，她很爱你的，狐。我还有一些紧要的公务，今天得先回去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……母亲……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "哎呀，公子是来祭拜母亲的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "你是……？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "呼呼，你就当我……是她的亲戚吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……母亲在这里没有亲戚的，狐。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "呼呼……她原来应该出现在灵山的。小公子，如果她降临在灵山，或许你就是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "………………“神明”哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……不过左慈强行让她降临在了西蜀……所以，你最多也只是个普通的巫子了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "等等，不对……嗅嗅……嗅嗅……不对……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……原来如此，原来……哈哈哈……他疯了吗……哈哈哈哈哈哈哈……把神格一分为二了……哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "居然敢这么做……连神格都敢撕开，用现世之道中的阴阳二分……但是，这么一来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "除非现世之道被毁灭，否则，神就不可能再出现了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陌生学士",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "他是在逼我们灭世吗？真是的……就知道不该容忍这些半路出家的仙，一个比一个敢想敢干。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……他离开了……到底是谁？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "算了，天晚了……该回家了，狐。一只狐吃饭，随便吃一些吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江东少年",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "那是……那是“斩桃夭”凌统吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江东侠士",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "是凌统！真是名副其实，何等出众的气度……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江东百姓",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "凌统少侠这次一定能剿灭那个为祸多年的锦帆寨的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "看路观图，是往这里。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "……咦，道边有一个犬都人倒着……是晕倒了还是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "你没事吧？需要帮忙吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "………………呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "还活着。但是伤得很重……啊，那边都是尸体？……看起来像剪径贼的尸体。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "忍一忍，嘿咻……背起来。我带你去前方的村子疗伤。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "宁使君今日有好些吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "腿还是很痛……啊……起不来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "没事的，耐心休养便是，我最近都会停留在这里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "……你不像附近的狗，是外地来探亲的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "这里可不太平……譬如我，只是想去探望孤寡的养母，便在途中被剪径贼打劫了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "真是九死一生……那么多剪径贼是怎么死的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "分赃不均，自相残杀喽……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "原来如此。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "我是来此地打探贼窝锦帆寨的所在的。那些水贼为祸百姓、无恶不作，身为侠士，我要替天行道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "太、太了不起了！如果能成功，使君就是此地的神啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "啊啊……切莫如此说，我、我只是个普通狗……对了，你我年龄相近，叫使君有些太生疏了，江湖人士，就以名字相称吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我全名叫……大耳朵宁。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "因为耳朵特别大，出生就被遗弃了……呜呜……呜呜……养母家里的兄弟姐妹们也都欺负我……呜呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "这……这太过分了！不要担心，阿宁，从今往后，遇到任何难事，都有我在！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "旅店老板",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "不好了，不好了！凌使君，不好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "旅店老板",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "似乎是锦帆寨的贼狗知道你在查他们，刚才袭击了我们旅店……你恰好外出，他们就抓走了你的朋友！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "！！知道他们往哪里去了吗？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "旅店老板",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "那边……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "旅店老板",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "啊，急匆匆的就去了……不带点帮手吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "旅店老板",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "旅店老板",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "嘻嘻……嘻嘻嘻嘻……哈哈哈哈哈哈哈！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "呼，这个面具闷死了……快去吧，快去吧……嘿嘿嘿……快去吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "……我已经迫不及待了，嗷呜——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "锦帆寨贼狗",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "锦帆寨刀兵",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "嗷呜好痛——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "受死吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "锦帆寨贼狗",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "看……看看这是谁？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "呜……呜呜……不要杀我呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "卑鄙汪……呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "锦帆寨刀兵",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "趁机偷袭！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "…………唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "凌统，凌统你醒了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "……呃……被关起来了……阿宁你没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "我偷来了钥匙！守卫喝醉了，我放你出来，我们一起逃吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "你有见到我的剑吗？那把淡红色的剑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "我不能抛下它……不行，阿宁你先逃吧，我留下来找我的兵器！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "守卫很快就会醒的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "剑士不能丢下自己的兵器……打开牢门就好了，别管我，你先逃吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "我一个狗，打不过外面的那些恶犬……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "……也是……不能不管你，以后……以后再回来找斩桃夭吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "……对不起！要让你在这种地方多待一阵了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "逃到这里，应该安全了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "快下山回家吧，我要回去找兵器。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "……我说啊，凌统。其实，这个地方能存在这么久，是有道理的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "锦帆寨？这种贼窝，存在一天，百姓就会受苦一天！你怎么会突然有这种念头！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "哎？毕竟，虽然打劫杀犬，但是，如果居民想买凶杀犬又不想脏自己的爪爪，如果官员想清除政敌又想伪装成劫道……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "而且只要锦帆寨在，他们还能以便宜价格买到私盐。外面的赋税徭役太重了，也需要可以投奔的地方……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "当不了良民还能落草为寇嘛！弱肉强食也比当流民活活饿死要好，你说呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "所以啊，明明只要官府发兵，或者百姓们团结成民兵就能剿灭的贼窝，还可以一年一年存在本地……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "……你怎么会……说这些话？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "汪？汪汪？是我装的太好了，汪？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "真的不留下吗？你身手很好，可以成为我的左右爪的……封你为并肩寨主也未尝不可汪……真的不留下吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "居然是你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "把那些狗带上来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "锦帆寨贼狗",
+      "text": "是！哈哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江东百姓",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "啊啊……凌少侠……救命……啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "这些都是一路上招待过你、替你指过路的大好狗哦，你真的不愿意为了他们留下吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "放开他们，我们堂堂正正决战。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "真的吗？好……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "好个屁啊！杀了！——哈哈哈哈哈哈哈！我这么好客可是很难得的！你别想走——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "一起留在地狱里吧。呵呵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哦哦……这就是洛阳吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "好小的地方哈哈哈，董贼就住这么小的地方？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "……你疯了吗？为什么这么称呼他？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "刚才听见路边有狗这么喊啊，好新鲜！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "前面就到了……进去之后记不住官位就直呼其名吧，反正都是西凉犬，无所谓。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "呼……这边七绕八绕，把老爹跟丢了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "这里是哪……阿，阿嚏！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "你是谁……没听过的声音……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "我是来见董卓的，知道他在哪吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……大胆，这里就是爹爹的住处了。快退出去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "好香啊……董卓住的地方点那么多熏香啊、阿、阿嚏！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "你是他孩子？这么小只？边牧不应该很大只的吗？你……哈哈哈……你像只吉娃娃！唔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "拿什么砸我啊……琉璃珠子？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "拿进来，还给我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "嗷呜，语气很傲嘛。你这只吉娃娃，老子能一口一……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "……只……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "……□，你这是在里面做什么？腌老爹吗？牛啊小子！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "那边的香料，替我拿过来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "他都死臭流水了，还能吃吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "把你的狗嘴闭紧。啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "……都说了一口一个，没长耳朵吗？嗯？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "不过好轻啊，咬在嘴里跟咬了只猫一样。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "他死了，我现在全权替他发号施令。你叫马超对吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……李叔叔和郭叔叔不会听我的话，吕布有二心，张辽瞻前顾后，你爹爹马腾有异心……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "所以，今天才召了你来，超哥。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哇，直接就喊哥了？那你就是我兄弟了！兄弟！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "吵……啊啊啊啊啊啊！！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "兄弟就是要吃的哈哈哈——吃了你，董卓的部曲就都是我的了！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "没……没有我，西凉军犬不可能……不可能听命于你！咳……咳咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "对哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……联手怎么样？眼下我们已经入主朝廷了，吃掉那个草包天子，不过是转眼的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "不过，事先要对付的，是那只广陵的臭狐狸……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "呼……打完了，劲啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "吵死了。超哥。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "不出声跟死了有什么两样？打雷的时候不也是轰隆隆的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "而且我可能快要死了……族里的巫师说看见了老子的死兆，哈哈哈！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……要死了还那么高兴吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "生死对西凉犬来说有什么两样吗？你不也不怕死吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "你死了就能看见东西了，飞到牛王的太阳边，什么都能看得很清楚。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "我至少死在你后面。你这种狗是要下地狱了，不会飞到牛王身边。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "我觉得我会死在你后面。再说，我下地狱，你是我兄弟，你也要下地狱啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "我才不会呢。呵呵，出生到现在，我可是一个狗都没有杀过。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哎？对哦，你没有握过刀……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "那你死了不是很无聊吗，你身边所有西凉犬按照罪孽都得下地狱，只有你一个狗在牛王那边飞。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "哈……哈哈哈……你要这么担心的话……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "那就帮我把全天下先变成地狱吧，超哥。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "把牛王也拉下地狱！把马腾也拉下地狱！把太阳月亮天下生灵都拉下地狱！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "下地狱！劲啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "哈哈哈——劲！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "你太小声了，再大声点——劲啊！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "劲啊——咳……咳咳咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "算了，吵死了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老者",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "……你在找什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "唔……找有趣的书，汪汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老者",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "……有趣的书？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "嗯。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老者",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "……年轻犬，你叫什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "我吗？老爹叫我“张小羊角”。不过，我不喜欢这个名字。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "他太崇拜张角了汪……什么事都想模仿张角，连自己和我们的名字都是。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老者",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "……你识字吗？你在我的书架上挑来挑去，是真的在找书吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "嗯，不过这些我都读过了。在别的士族的府邸里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老者",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "你有读到过有趣的书吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "读到过哦！有两卷很邪、很邪的书，我印象很深刻。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "一卷是《商君书》，一卷是《盐铁论》。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老者",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老者",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "哈……哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "哈哈哈哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "好了，你的书架上没有我没看过的书了……这座城太小了，只有你们这一家士族。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "燕子，可以动手了。啊……一个都不用留，都推进大锅里吧。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "哈欠……绣衣楼的书房真好睡汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "哎呀，是判官，真是回廊上的稀客汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "偷的东西，交出来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "人家、人家偷东西了嗷呜？是污蔑呜……唔噗——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "找到了。蛇骨磨牙棒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "蛇骨可是禁品汪！呵呵……你竟敢私藏这种违禁物……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "与其被人家上报，不如……我们二犬联手如何？我听说，判官也是贫苦出身呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "你如今是陛下的心腹，能接触到许多不得了的秘密。这些秘密送去袁氏，可以换不少荣华富贵呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "那，袁氏的秘密，是不是能换更多？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……感兴趣吗？感兴趣的话，跟我去一个地方吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "……好黑，还有股腥味……鱼腥味吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "地上是什么……脆脆的、薄薄的……像是死皮……还有小动物的骨头……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "…………前面，是什么的声音？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "…………！！！！！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……可惜。意识到危险，逃跑了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "废物……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "有种自己去找吃的，没了犬皮的蛇。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=狗绒绒·满宠",
+      "emotion": "……没有……力气了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "好饿……没想到这里这么冷……再不吃些东西……就要冬眠了嘶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "啊，是快死的狗，既然这样……嘿咻，嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "呼，还是露出本尊比较舒服……嘴巴能张到极点，一口吞……唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=狗绒绒·满宠",
+      "emotion": "我还没死呢……不过，是快死了看见了幻觉吗……居然是……蛇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "啊啊啊我的新皮！啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=狗绒绒·少年",
+      "emotion": "袁遗公子！袁遗公子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "把这个忤逆死狗拖回去！我要让他生不如死嘶！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "呱唧呱唧呱唧……嗝，饱了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "哼哼，终于长了点肉，这样吃起来的口感会……唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "啊啊啊我的新皮——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "都第几次了，没用的蛇。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "不过，袁氏居然是蛇族……这么多代，一直混迹在犬都吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "又不是我们想跟你们这群猫绒绒的玩意混居！蛇族栖息需要的树林都被坚壁清野了啊嘶！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "这应该是最高机密吧？不灭口吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "你这只癞皮狗说出去的话谁会信，嘶。听好了，因为你和我的一位故友长得很像，所以我大发慈悲饶你一命。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "不过等你再养肥一点，说不定还是会忍不住……唔噗！……啊啊啊你这条卑劣的癞皮狗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……居然失火了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=狗绒绒·少年",
+      "emotion": "怎么会……怎么会突然着火的……一定是汝南那边干的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=狗绒绒·少年",
+      "emotion": "公子还在冬眠！怎么办……怎么办……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……呼……呼……嘶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "冰冰凉凉的……嘶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "哦，醒了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "这个山窟是以前流浪狗喜欢补充水分的地方。阴冷潮湿，但很适合烧焦的蛇。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁遗",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "……这样活着有什么意义……嘶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "没有啊。活着本来就没有意义。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "我要找新工作去了。如果新主人喜欢蛇皮包包，你就有用处了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "这个那个汪，这个那个汪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哦哦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "殿下不生气吗！判官居然在勾结异族！殿下救我……呜呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "知道哦，不过因为蛇皮包包……不不不因为需要一些能拿来要写政敌的筹码，所以问题不大……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊，哭着走了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……他告状了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "作为友人，你又成功给我添了一堆麻烦狐……唉，蛇皮包包……算了，养护起来太难了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "听见了吗？外面传来那个戏学在散播消息的喊声了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐狐，听见了狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "呼、呼，反正本来就要他泄露出去，呼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这样能引出一些东西狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "呼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不要模仿我的口癖狐！而且发音还很不标准！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "呼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "嘻……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "正平？正平？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "嘻嘻嘻——唔啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "哎哎正平你醒了？！你、你能认得出师父吗？你清醒了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……吼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "——是师傅吼喽！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "原来我在绒绒密窟里疯了吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "嗯嗯！那天你出现在山门外，一会儿昏迷一会儿疯疯癫癫，大家都被你吓死了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "那师弟呢？师弟怎么样了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "小宝……变成神了。她托梦给下面，让小狗送来了能让你恢复的猴族壁画残片。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "哈哈哈哈哈啥？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "正平，你已经沉睡几百年了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "神明已经变了，犬神、猫神都不在了，现在的神明是你师弟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "——啥？！！！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "哼哼！既然老子又行了，那就要下山行侠仗义去喽——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "下山！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "露水情缘！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……师父，大侠下山不会喊这些儿女情长的，喊得都是替天行道吼喽。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "哎呀天道现在是你师弟了不用我们操心，露水情缘！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "汪。一边喊着奇怪的话一边走远了，汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "……啥子叫替天行道呢？神格只有一半汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "神格，只有一半？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "和你说话好累哦，你直接敲敲她的骨头叫来问呗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "敲敲……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=狗绒绒·安期",
+      "emotion": "什么事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "噫对不起我没想到真的敲来了而且这也太快了啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "哦，神格啊。神格被左慈撕开了，分成了两份，放在阴阳天道里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "他一直很疯的。你们俩被软禁在隐鸢阁那么多年，还没明白？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "啥子叫软禁？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "啊，就好像是二哥以前跟我讲故事，一般反转都在名门正派的掌门其实是大魔头……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "隐鸢阁或者仙门也不算名门正派吧。他一开始来的时候，其实门内大多数都是东蜀派。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "他拉着一堆西蜀派，把东蜀杀到角落里，过了几代又给东蜀派杀西蜀派的权力，帮他制衡西蜀派。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "搞了一大堆莫名其妙的门规，怎么解释都随他。他自己就天天闭关，装作什么都不管。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "哦哦，好折腾哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "嗯嗯，还好他没在凡间当周天子，不然能把狗折腾死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "现在龙脉也被截断了，神格也被撕裂了，巫和仙的时代已经彻底结束了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……师父……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "啥子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "我好饿哦……体内的神没有了，身体又开始重新会困了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "啊哈哈，这不是好事吗？说明活了呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "师父……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "你说师弟在天上，能看见我们吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "能的，能的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "她会托梦给我们吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "要的，要的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "好！今晚不熬夜，争取早睡梦见师弟！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "不过，师弟会给我托什么梦呢……梦里会不会有很多超——甜的桃子呢吼喽……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "其实，我没有梦见过你师弟。隐鸢阁里有一种说法……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "这世上所有生灵，其实都已经等于活在你师弟的梦里了。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "犬都掌故·壹"
+    },
+    {
+      "type": "narration",
+      "text": "犬都掌故·贰"
+    },
+    {
+      "type": "narration",
+      "text": "犬都掌故·叁"
+    },
+    {
+      "type": "narration",
+      "text": "犬都掌故·肆"
+    },
+    {
+      "type": "narration",
+      "text": "犬都掌故·伍"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%9B%BD%E5%BF%97%E7%BB%92%E7%BB%92%E7%89%88/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E7%8A%AC%E9%83%BD%E6%8E%8C%E6%95%85",
+  "crawled_at": "2026-04-12T22:05:26.010077",
+  "raw_wikitext": "[[分类:活动剧情]]{{回到顶部|头}}{{面包屑|2025活动剧情|三国志绒绒版/活动玩法}}{{背景图片|{{filepath:}}}}\n__TOC__\n{{板块|按钮|三国志绒绒版/活动剧情|导入}}\n{{板块|按钮|三国志绒绒版/活动剧情/猫邦纪事|猫邦纪事}}\n{{板块|按钮|三国志绒绒版/活动剧情/猫邦掌故|猫邦掌故}}\n{{板块|按钮|三国志绒绒版/活动剧情/犬都纪事|犬都纪事}}\n{{板块|按钮|三国志绒绒版/活动剧情/犬都掌故|犬都掌故}}\n{{JS|Qiantao.js}}\n\n==犬都掌故·壹==\n{{对话-头}}\n{{对话|蒯越|……呜……}}\n{{对话|我|这么大的雪，你不能躺在道边，会冻死的！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|蒯越|…………呜……}}\n{{对话|我|他好像伤得很重狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周群|这里是罪犬之后服役的盐场。盐场的官吏会处理的。会客的时辰快到了，该回程了。}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|不能见死不救狐！搭把手，一起把他带回去吧。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|蒯越|……唔，我还活着么……汪……|头像=狗绒绒·蒯越}}\n{{对话|我|狐狐，活着哦！不过还需要多多休息。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|嘿咻嘿咻……这几颗蛋给你补充营养。早日康复狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|小鸟|啾啾……啾啾……}}\n{{对话|蒯越|孵出来了……居然真的孵出来了……}}\n{{对话|蒯越|既然是殿下送的，就叫小柿子、中柿子和大柿子吧……咴咴~}}\n{{对话|小鸟|啾啾！}}\n{{对话|蒯越|会、会跳小鸟求奶舞！太可爱了咴——}}\n{{嵌套分歧|头}}\n{{嵌套分歧|{{旁白| }}|1}}\n{{嵌套分歧|尾}}\n{{对话|文官|还对着那几只鸟发呆啊？蒯越。|头像=狗绒绒·黑影}}\n{{对话|蒯越|……什么事。}}\n{{对话|文官|让你别痴心妄想了，所谓政治的核心是立场，权力的本质可是距离，距离啊。|头像=狗绒绒·黑影}}\n{{对话|文官|哪有上司会让自己的心腹一去不复返的？最多是去远处镀个金。不是心腹的，那才是外派去穷山恶水里再也回不去了。|头像=狗绒绒·黑影}}\n{{对话|文官|广陵王现在需要士族们的支持呢，自然要重用士族的犬。|头像=狗绒绒·黑影}}\n{{对话|文官|依我看啊，你就在江陵这个地方……唔噗——|头像=狗绒绒·黑影}}\n{{旁白|蒯越打了一下}}\n{{对话|文官|你……唔噗……呃——呃——呃……呃……|头像=狗绒绒·黑影}}\n{{旁白|蒯越一直在打}}\n{{对话|蒯越|……呼……呼……}}\n{{对话|蒯越|真是的……反应过来的时候，把同僚的整颗头都……砸碎了……}}\n{{对话|蒯越|………………呼……}}\n{{对话|信使|蒯越使君在吗？|头像=狗绒绒·青年男2}}\n{{对话|蒯越|！！！！！！！！}}\n{{对话|信使|是广陵的来信！使君，节庆在即，殿下请使君回广陵小叙！|头像=狗绒绒·青年男2}}\n{{对话|蒯越|我、我知道了！}}\n{{旁白}}\n{{对话|蒯越|然后！先王妃就这样说……那样说……}}\n{{对话|我|哦哦哦！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|蒯越|还说，以后殿下一定会回广陵称王的！}}\n{{对话|我|哦哦哦哦哦——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|……路过……嗯？|头像=狐绒·周瑜}}\n{{对话|蒯越|先王妃还很喜欢这种花和那种酒，还有……}}\n{{嵌套分歧|头}}\n{{嵌套分歧|{{旁白|}}|1}}\n{{嵌套分歧|尾}}\n{{对话|蒯越|咴~咴咴~}}\n{{对话|周瑜|站住。|头像=狐绒·周瑜}}\n{{对话|蒯越|哎？}}\n{{对话|周瑜|你刚刚骗她了吧，狐？}}\n{{对话|蒯越|什、什么……}}\n{{对话|周瑜|先王妃的话。先王妃从没留下过那种话，也不喜欢喝酒。}}\n{{对话|蒯越|你、你是谁汪！我可是很小就见过先王妃的！}}\n{{对话|小鸟|叽叽——}}\n{{对话|蒯越|你说我骗了殿下，证据呢！而且……而且殿下不是很开心嘛！汪！}}\n{{对话|周瑜|……}}\n{{旁白|很多年前……}}\n{{对话|？？？|……对不起啊，忘记你应该字什么了？|头像=狗绒绒·黑影}}\n{{对话|周瑜|哎？母亲为何突然道歉……}}\n{{对话|？？？|……如果听课时候再用心一点，就能知道你的字了，好像是什么王字偏旁的字……|头像=狗绒绒·黑影}}\n{{对话|周瑜|儿子还没有到需要取字的年纪……不过，如果母亲想取……}}\n{{对话|周瑜|对了，周忠叔叔今天送来了粮米和酒，母亲身体不好，请先用些白米吧。}}\n{{对话|周瑜|如果不够的话……}}\n{{对话|？？？|够了啊啊——不要……不要再让他多送了！！！|头像=狗绒绒·黑影}}\n{{对话|？？？|他……他说不定也是什么间谍……我受够了！到处都是各种势力的间谍啊啊！|头像=狗绒绒·黑影}}\n{{对话|？？？|旁边的孙家肯定不是吧……因为是孙家……感觉应该是负责打仗的人家……|头像=狗绒绒·黑影}}\n{{对话|周瑜|母、母亲又在说笑了……他家是种瓜的富农。孙坚前辈打过一些小战役，用军功换了些田地……}}\n{{对话|周瑜|母亲有些不安，需要用些酒吗？}}\n{{对话|？？？|……好……|头像=狗绒绒·黑影}}\n{{对话|？？？|………………好难喝。|头像=狗绒绒·黑影}}\n{{对话|？？？|如果是冰▢乐就好了……根本没有好吃的……饮品也只有各种酒……水里都是沙子……|头像=狗绒绒·黑影}}\n{{对话|？？？|冰块太贵了，活下去需要的木柴都不知道怎么弄来……到处都在杀犬，隔壁那么小的小狗都会杀犬……|头像=狗绒绒·黑影}}\n{{对话|周瑜|啊，孙策那是遇到了一名贼犬，所以取了他的首级去郡里领赏……}}\n{{对话|？？？|啊啊啊那么小的小狗居然一刀一刀把头剁了下来啊啊啊！！！周围的狗……为什么还在叫好……那么小的狗啊……|头像=狗绒绒·黑影}}\n{{对话|周瑜|这不是……少年英雄吗……？}}\n{{对话|？？？|……………………………………………|头像=狗绒绒·黑影}}\n{{对话|？？？|我想回家……我想回家我想回家我想回家我想回家我想回家我想回家我想回家！！！！！！！！|头像=狗绒绒·黑影}}\n{{对话|周瑜|母亲冷静些！不要再撞墙了！如果是儿子有什么地方触怒了母亲，请母亲责备儿子吧！}}\n{{对话|？？？|这种话也很奇怪！！！……但是你们这里是举孝廉的，不孝是死罪……|头像=狗绒绒·黑影}}\n{{对话|周瑜|母亲心中若有苦恼，儿子可以为母亲分忧……}}\n{{对话|？？？|……说起来一点都没有“实感”……|头像=狗绒绒·黑影}}\n{{对话|周瑜|？}}\n{{对话|？？？|……………………就在这个地方生了孩子……一点医疗措施都没有……痛得要死，还全是后遗症……|头像=狗绒绒·黑影}}\n{{对话|？？？|想回家……好难受……想回家！我想回家啊啊啊啊啊啊啊！|头像=狗绒绒·黑影}}\n{{对话|？？？|我根本——不想——要孩子啊——|头像=狗绒绒·黑影}}\n{{对话|周瑜|………………………………………………………………………………}}\n{{嵌套分歧|头}}\n{{嵌套分歧|{{旁白|}}|1}}\n{{嵌套分歧|尾}}\n{{对话|我|兄长来了狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|……嗯。}}\n{{对话|我|蒯越刚刚还在和我说母亲的事呢，虽然感觉有很多哄我开心的话，真真假假的……不过听着很有趣。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|母亲……}}\n{{对话|周瑜|母亲，她很爱你的，狐。我还有一些紧要的公务，今天得先回去了。}}\n{{对话|周瑜|……母亲……}}\n\n{{对话|陌生学士|哎呀，公子是来祭拜母亲的吗？|头像=狗绒绒·黑影}}\n{{对话|周瑜|你是……？}}\n{{对话|陌生学士|呼呼，你就当我……是她的亲戚吧。|头像=狗绒绒·黑影}}\n{{对话|周瑜|……母亲在这里没有亲戚的，狐。}}\n{{对话|陌生学士|呼呼……她原来应该出现在灵山的。小公子，如果她降临在灵山，或许你就是……|头像=狗绒绒·黑影}}\n{{对话|陌生学士|………………“神明”哦。|头像=狗绒绒·黑影}}\n{{对话|周瑜|？}}\n{{对话|陌生学士|……不过左慈强行让她降临在了西蜀……所以，你最多也只是个普通的巫子了。|头像=狗绒绒·黑影}}\n{{对话|陌生学士|等等，不对……嗅嗅……嗅嗅……不对……|头像=狗绒绒·黑影}}\n{{对话|陌生学士|……原来如此，原来……哈哈哈……他疯了吗……哈哈哈哈哈哈哈……把神格一分为二了……哈哈哈……|头像=狗绒绒·黑影}}\n{{对话|陌生学士|居然敢这么做……连神格都敢撕开，用现世之道中的阴阳二分……但是，这么一来……|头像=狗绒绒·黑影}}\n{{对话|陌生学士|除非现世之道被毁灭，否则，神就不可能再出现了。|头像=狗绒绒·黑影}}\n{{对话|陌生学士|他是在逼我们灭世吗？真是的……就知道不该容忍这些半路出家的仙，一个比一个敢想敢干。|头像=狗绒绒·黑影}}\n{{对话|周瑜|……他离开了……到底是谁？}}\n{{对话|周瑜|算了，天晚了……该回家了，狐。一只狐吃饭，随便吃一些吧……}}\n{{对话-尾}}\n\n==犬都掌故·贰==\n{{对话-头}}\n{{对话|江东少年|那是……那是“斩桃夭”凌统吧？|头像=狗绒绒·少年2}}\n{{对话|江东侠士|是凌统！真是名副其实，何等出众的气度……|头像=狗绒绒·青年男}}\n{{对话|江东百姓|凌统少侠这次一定能剿灭那个为祸多年的锦帆寨的！|头像=狗绒绒·青年男2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|{{旁白|}}|1}}\n{{嵌套分歧|尾}}\n{{对话|凌统|看路观图，是往这里。汪。}}\n{{对话|凌统|……咦，道边有一个犬都人倒着……是晕倒了还是……}}\n{{对话|？？？|……|头像=狗绒绒·甘宁}}\n{{对话|凌统|你没事吧？需要帮忙吗？}}\n{{对话|？？？|………………呼……|头像=狗绒绒·甘宁}}\n{{对话|凌统|还活着。但是伤得很重……啊，那边都是尸体？……看起来像剪径贼的尸体。}}\n{{对话|凌统|忍一忍，嘿咻……背起来。我带你去前方的村子疗伤。}}\n{{旁白|数日后……}}\n{{对话|凌统|宁使君今日有好些吗？}}\n{{对话|甘宁|腿还是很痛……啊……起不来……}}\n{{对话|凌统|没事的，耐心休养便是，我最近都会停留在这里。}}\n{{对话|甘宁|……你不像附近的狗，是外地来探亲的吗？}}\n{{对话|甘宁|这里可不太平……譬如我，只是想去探望孤寡的养母，便在途中被剪径贼打劫了。}}\n{{对话|凌统|真是九死一生……那么多剪径贼是怎么死的？}}\n{{对话|甘宁|分赃不均，自相残杀喽……}}\n{{对话|凌统|原来如此。汪。}}\n{{对话|凌统|我是来此地打探贼窝锦帆寨的所在的。那些水贼为祸百姓、无恶不作，身为侠士，我要替天行道。}}\n{{对话|甘宁|太、太了不起了！如果能成功，使君就是此地的神啊！}}\n{{对话|凌统|啊啊……切莫如此说，我、我只是个普通狗……对了，你我年龄相近，叫使君有些太生疏了，江湖人士，就以名字相称吧！}}\n{{对话|甘宁|我全名叫……大耳朵宁。}}\n{{对话|凌统|？}}\n{{对话|甘宁|因为耳朵特别大，出生就被遗弃了……呜呜……呜呜……养母家里的兄弟姐妹们也都欺负我……呜呜……}}\n{{对话|凌统|这……这太过分了！不要担心，阿宁，从今往后，遇到任何难事，都有我在！}}\n{{旁白|数日后……}}\n{{对话|旅店老板|不好了，不好了！凌使君，不好了！|头像=狗绒绒·黑影}}\n{{对话|旅店老板|似乎是锦帆寨的贼狗知道你在查他们，刚才袭击了我们旅店……你恰好外出，他们就抓走了你的朋友！|头像=狗绒绒·黑影}}\n{{对话|凌统|！！知道他们往哪里去了吗？！}}\n{{对话|旅店老板|那边……|头像=狗绒绒·黑影}}\n{{对话|旅店老板|啊，急匆匆的就去了……不带点帮手吗……|头像=狗绒绒·黑影}}\n{{对话|旅店老板|……|头像=狗绒绒·黑影}}\n{{对话|旅店老板|嘻嘻……嘻嘻嘻嘻……哈哈哈哈哈哈哈！！！|头像=狗绒绒·黑影}}\n{{对话|甘宁|呼，这个面具闷死了……快去吧，快去吧……嘿嘿嘿……快去吧……}}\n{{对话|甘宁|……我已经迫不及待了，嗷呜——}}\n{{对话|锦帆寨贼狗|唔啊！|头像=狗绒绒·凶狠}}\n{{对话|锦帆寨刀兵|嗷呜好痛——|头像=狗绒绒·凶狠2}}\n{{对话|凌统|受死吧！}}\n{{对话|锦帆寨贼狗|看……看看这是谁？！|头像=狗绒绒·凶狠}}\n{{对话|甘宁|呜……呜呜……不要杀我呜呜……|头像=狗绒绒·甘宁}}\n{{对话|凌统|卑鄙汪……呃！}}\n{{对话|锦帆寨刀兵|趁机偷袭！！！|头像=狗绒绒·凶狠2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|{{旁白|}}|1}}\n{{嵌套分歧|尾}}\n{{对话|凌统|……|头像=狗绒绒·凌统}}\n{{对话|凌统|…………唔……|头像=狗绒绒·凌统}}\n{{对话|甘宁|凌统，凌统你醒了吗？|头像=狗绒绒·甘宁}}\n{{对话|凌统|……呃……被关起来了……阿宁你没事吧？|头像=狗绒绒·凌统}}\n{{对话|甘宁|我偷来了钥匙！守卫喝醉了，我放你出来，我们一起逃吧！|头像=狗绒绒·甘宁}}\n{{对话|凌统|你有见到我的剑吗？那把淡红色的剑……|头像=狗绒绒·凌统}}\n{{对话|凌统|我不能抛下它……不行，阿宁你先逃吧，我留下来找我的兵器！|头像=狗绒绒·凌统}}\n{{对话|甘宁|守卫很快就会醒的！|头像=狗绒绒·甘宁}}\n{{对话|凌统|剑士不能丢下自己的兵器……打开牢门就好了，别管我，你先逃吧！|头像=狗绒绒·凌统}}\n{{对话|甘宁|我一个狗，打不过外面的那些恶犬……|头像=狗绒绒·甘宁}}\n{{对话|凌统|……|头像=狗绒绒·凌统}}\n{{对话|凌统|……也是……不能不管你，以后……以后再回来找斩桃夭吧……|头像=狗绒绒·凌统}}\n{{对话|凌统|……对不起！要让你在这种地方多待一阵了……|头像=狗绒绒·凌统}}\n{{对话|凌统|逃到这里，应该安全了。}}\n{{对话|凌统|快下山回家吧，我要回去找兵器。}}\n{{对话|甘宁|……我说啊，凌统。其实，这个地方能存在这么久，是有道理的。}}\n{{对话|凌统|锦帆寨？这种贼窝，存在一天，百姓就会受苦一天！你怎么会突然有这种念头！}}\n{{对话|甘宁|哎？毕竟，虽然打劫杀犬，但是，如果居民想买凶杀犬又不想脏自己的爪爪，如果官员想清除政敌又想伪装成劫道……}}\n{{对话|甘宁|而且只要锦帆寨在，他们还能以便宜价格买到私盐。外面的赋税徭役太重了，也需要可以投奔的地方……}}\n{{对话|甘宁|当不了良民还能落草为寇嘛！弱肉强食也比当流民活活饿死要好，你说呢？}}\n{{对话|甘宁|所以啊，明明只要官府发兵，或者百姓们团结成民兵就能剿灭的贼窝，还可以一年一年存在本地……}}\n{{对话|凌统|……你怎么会……说这些话？}}\n{{对话|甘宁|汪？汪汪？是我装的太好了，汪？}}\n{{对话|甘宁|真的不留下吗？你身手很好，可以成为我的左右爪的……封你为并肩寨主也未尝不可汪……真的不留下吗？}}\n{{对话|凌统|居然是你……}}\n{{对话|甘宁|把那些狗带上来。}}\n{{对话|锦帆寨贼狗|是！哈哈哈……}}\n{{对话|江东百姓|啊啊……凌少侠……救命……啊啊……|头像=狗绒绒·青年男2}}\n{{对话|甘宁|这些都是一路上招待过你、替你指过路的大好狗哦，你真的不愿意为了他们留下吗？}}\n{{对话|凌统|放开他们，我们堂堂正正决战。}}\n{{对话|甘宁|真的吗？好……}}\n{{对话|甘宁|好个屁啊！杀了！——哈哈哈哈哈哈哈！我这么好客可是很难得的！你别想走——|头像=狗绒绒·甘宁}}\n{{对话|甘宁|一起留在地狱里吧。呵呵。}}\n{{对话-尾}}\n\n==犬都掌故·叁==\n{{对话-头}}\n{{对话|马超|哦哦……这就是洛阳吗……}}\n{{对话|马超|好小的地方哈哈哈，董贼就住这么小的地方？}}\n{{对话|马腾|……你疯了吗？为什么这么称呼他？}}\n{{对话|马超|刚才听见路边有狗这么喊啊，好新鲜！}}\n{{对话|马腾|前面就到了……进去之后记不住官位就直呼其名吧，反正都是西凉犬，无所谓。}}\n{{对话|马超|呼……这边七绕八绕，把老爹跟丢了。}}\n{{对话|马超|这里是哪……阿，阿嚏！}}\n{{对话|？？？|啊！|头像=狗绒绒·董白}}\n{{对话|？？？|你是谁……没听过的声音……|头像=狗绒绒·董白}}\n{{对话|马超|我是来见董卓的，知道他在哪吗？}}\n{{对话|？？？|……大胆，这里就是爹爹的住处了。快退出去！|头像=狗绒绒·董白}}\n{{对话|马超|好香啊……董卓住的地方点那么多熏香啊、阿、阿嚏！}}\n{{对话|马超|你是他孩子？这么小只？边牧不应该很大只的吗？你……哈哈哈……你像只吉娃娃！唔……}}\n{{旁白|董白打了一下马超}}\n{{对话|马超|拿什么砸我啊……琉璃珠子？}}\n{{对话|董白|拿进来，还给我。}}\n{{对话|马超|嗷呜，语气很傲嘛。你这只吉娃娃，老子能一口一……}}\n{{对话|马超|……只……}}\n{{对话|马超|……□，你这是在里面做什么？腌老爹吗？牛啊小子！}}\n{{对话|董白|那边的香料，替我拿过来。}}\n{{对话|马超|他都死臭流水了，还能吃吗？}}\n{{对话|董白|把你的狗嘴闭紧。啊！}}\n{{旁白|马超打了董白一下}}\n{{对话|马超|……都说了一口一个，没长耳朵吗？嗯？}}\n{{对话|马超|不过好轻啊，咬在嘴里跟咬了只猫一样。}}\n{{对话|董白|他死了，我现在全权替他发号施令。你叫马超对吗？}}\n{{对话|董白|……李叔叔和郭叔叔不会听我的话，吕布有二心，张辽瞻前顾后，你爹爹马腾有异心……}}\n{{对话|董白|所以，今天才召了你来，超哥。}}\n{{对话|马超|哇，直接就喊哥了？那你就是我兄弟了！兄弟！}}\n{{对话|董白|吵……啊啊啊啊啊啊！！！！}}\n{{旁白|马超打了董白一下}}\n{{对话|马超|兄弟就是要吃的哈哈哈——吃了你，董卓的部曲就都是我的了！！！}}\n{{对话|董白|没……没有我，西凉军犬不可能……不可能听命于你！咳……咳咳……}}\n{{对话|马超|对哦。}}\n{{对话|董白|……联手怎么样？眼下我们已经入主朝廷了，吃掉那个草包天子，不过是转眼的事。}}\n{{对话|董白|不过，事先要对付的，是那只广陵的臭狐狸……}}\n{{对话|飞快的闪了一下}}\n{{对话|马超|呼……打完了，劲啊！}}\n{{对话|董白|吵死了。超哥。}}\n{{对话|马超|不出声跟死了有什么两样？打雷的时候不也是轰隆隆的吗？}}\n{{对话|马超|而且我可能快要死了……族里的巫师说看见了老子的死兆，哈哈哈！}}\n{{对话|董白|……要死了还那么高兴吗？}}\n{{旁白}}\n{{对话|马超|生死对西凉犬来说有什么两样吗？你不也不怕死吗？}}\n{{对话|马超|你死了就能看见东西了，飞到牛王的太阳边，什么都能看得很清楚。}}\n{{对话|董白|我至少死在你后面。你这种狗是要下地狱了，不会飞到牛王身边。}}\n{{对话|马超|我觉得我会死在你后面。再说，我下地狱，你是我兄弟，你也要下地狱啊。}}\n{{对话|董白|我才不会呢。呵呵，出生到现在，我可是一个狗都没有杀过。}}\n{{对话|马超|哎？对哦，你没有握过刀……}}\n{{对话|马超|那你死了不是很无聊吗，你身边所有西凉犬按照罪孽都得下地狱，只有你一个狗在牛王那边飞。}}\n{{对话|董白|哈……哈哈哈……你要这么担心的话……}}\n{{对话|董白|那就帮我把全天下先变成地狱吧，超哥。}}\n{{对话|董白|把牛王也拉下地狱！把马腾也拉下地狱！把太阳月亮天下生灵都拉下地狱！}}\n{{对话|马超|下地狱！劲啊——}}\n{{对话|董白|哈哈哈——劲！}}\n{{对话|马超|你太小声了，再大声点——劲啊！！！}}\n{{对话|董白|劲啊——咳……咳咳咳……}}\n{{对话|董白|算了，吵死了。}}\n{{对话-尾}}\n\n==犬都掌故·肆==\n{{对话-头}}\n{{对话|老者|……你在找什么？|头像=狗绒绒·老年男}}\n{{对话|？？？|唔……找有趣的书，汪汪。}}\n{{对话|老者|……有趣的书？|头像=狗绒绒·老年男}}\n{{对话|？？？|嗯。}}\n{{对话|老者|……年轻犬，你叫什么？|头像=狗绒绒·老年男}}\n{{对话|？？？|我吗？老爹叫我“张小羊角”。不过，我不喜欢这个名字。}}\n{{对话|？？？|他太崇拜张角了汪……什么事都想模仿张角，连自己和我们的名字都是。汪。}}\n{{对话|老者|……你识字吗？你在我的书架上挑来挑去，是真的在找书吗？|头像=狗绒绒·老年男}}\n{{对话|？？？|嗯，不过这些我都读过了。在别的士族的府邸里。}}\n{{对话|老者|你有读到过有趣的书吗？|头像=狗绒绒·老年男}}\n{{对话|？？？|读到过哦！有两卷很邪、很邪的书，我印象很深刻。}}\n{{对话|？？？|一卷是《商君书》，一卷是《盐铁论》。}}\n{{对话|老者|……|头像=狗绒绒·老年男}}\n{{对话|老者|哈……哈哈哈……|头像=狗绒绒·老年男}}\n{{对话|？？？|哈哈哈哈哈……}}\n{{对话|？？？|好了，你的书架上没有我没看过的书了……这座城太小了，只有你们这一家士族。}}\n{{对话|？？？|燕子，可以动手了。啊……一个都不用留，都推进大锅里吧。汪。}}\n{{嵌套分歧|头}}\n{{嵌套分歧|{{旁白|}}|1}}\n{{嵌套分歧|尾}}\n{{旁白|……很多年后……}}\n{{对话|戏学|哈欠……绣衣楼的书房真好睡汪。}}\n{{对话|戏学|哎呀，是判官，真是回廊上的稀客汪。}}\n{{对话|满宠|偷的东西，交出来。}}\n{{对话|戏学|人家、人家偷东西了嗷呜？是污蔑呜……唔噗——}}\n{{旁白|满宠打了戏学一下。}}\n{{对话|满宠|找到了。蛇骨磨牙棒。}}\n{{对话|戏学|蛇骨可是禁品汪！呵呵……你竟敢私藏这种违禁物……}}\n{{对话|戏学|与其被人家上报，不如……我们二犬联手如何？我听说，判官也是贫苦出身呢……}}\n{{对话|戏学|你如今是陛下的心腹，能接触到许多不得了的秘密。这些秘密送去袁氏，可以换不少荣华富贵呢……}}\n{{对话|满宠|……}}\n{{对话|满宠|那，袁氏的秘密，是不是能换更多？}}\n{{对话|满宠|……感兴趣吗？感兴趣的话，跟我去一个地方吧。}}\n{{对话|戏学|……好黑，还有股腥味……鱼腥味吗？}}\n{{对话|满宠|……}}\n{{对话|戏学|地上是什么……脆脆的、薄薄的……像是死皮……还有小动物的骨头……}}\n{{对话|满宠|………………}}\n{{对话|戏学|…………前面，是什么的声音？}}\n{{对话|戏学|…………！！！！！！！}}\n{{对话|满宠|……可惜。意识到危险，逃跑了。}}\n{{对话|？？？|废物……|头像=狗绒绒·黑影}}\n{{对话|满宠|有种自己去找吃的，没了犬皮的蛇。}}\n{{旁白|很多年前……}}\n{{对话|满宠|……没有……力气了……|头像=狗绒绒·满宠}}\n{{对话|？？？|好饿……没想到这里这么冷……再不吃些东西……就要冬眠了嘶……|头像=狗绒绒·黑影}}\n{{对话|？？？|啊，是快死的狗，既然这样……嘿咻，嘿咻……|头像=狗绒绒·黑影}}\n{{对话|？？？|呼，还是露出本尊比较舒服……嘴巴能张到极点，一口吞……唔噗！|头像=狗绒绒·黑影}}\n{{对话|满宠|我还没死呢……不过，是快死了看见了幻觉吗……居然是……蛇……|头像=狗绒绒·满宠}}\n{{对话|？？？|啊啊啊我的新皮！啊啊啊——|头像=狗绒绒·黑影}}\n{{对话|侍从|袁遗公子！袁遗公子！|头像=狗绒绒·少年}}\n{{对话|袁遗|把这个忤逆死狗拖回去！我要让他生不如死嘶！|头像=狗绒绒·黑影}}\n{{对话|满宠|呱唧呱唧呱唧……嗝，饱了。}}\n{{对话|袁遗|哼哼，终于长了点肉，这样吃起来的口感会……唔噗！|头像=狗绒绒·黑影}}\n{{对话|袁遗|啊啊啊我的新皮——|头像=狗绒绒·黑影}}\n{{对话|满宠|都第几次了，没用的蛇。}}\n{{对话|满宠|不过，袁氏居然是蛇族……这么多代，一直混迹在犬都吗？}}\n{{对话|袁遗|又不是我们想跟你们这群猫绒绒的玩意混居！蛇族栖息需要的树林都被坚壁清野了啊嘶！|头像=狗绒绒·黑影}}\n{{对话|满宠|这应该是最高机密吧？不灭口吗？}}\n{{对话|袁遗|你这只癞皮狗说出去的话谁会信，嘶。听好了，因为你和我的一位故友长得很像，所以我大发慈悲饶你一命。|头像=狗绒绒·黑影}}\n{{对话|袁遗|不过等你再养肥一点，说不定还是会忍不住……唔噗！……啊啊啊你这条卑劣的癞皮狗——|头像=狗绒绒·黑影}}\n{{对话|数年后……}}\n{{对话|满宠|……居然失火了。}}\n{{对话|侍从|怎么会……怎么会突然着火的……一定是汝南那边干的！|头像=狗绒绒·少年}}\n{{对话|侍从|公子还在冬眠！怎么办……怎么办……|头像=狗绒绒·少年}}\n{{对话|袁遗|……呼……呼……嘶……|头像=狗绒绒·黑影}}\n{{对话|袁遗|冰冰凉凉的……嘶……|头像=狗绒绒·黑影}}\n{{对话|满宠|哦，醒了吗？}}\n{{对话|满宠|这个山窟是以前流浪狗喜欢补充水分的地方。阴冷潮湿，但很适合烧焦的蛇。}}\n{{对话|袁遗|……这样活着有什么意义……嘶……|头像=狗绒绒·黑影}}\n{{对话|满宠|没有啊。活着本来就没有意义。}}\n{{对话|满宠|我要找新工作去了。如果新主人喜欢蛇皮包包，你就有用处了。}}\n{{嵌套分歧|头}}\n{{嵌套分歧|{{旁白|}}|1}}\n{{嵌套分歧|尾}}\n{{对话|戏学|这个那个汪，这个那个汪……}}\n{{对话|我|哦哦……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|戏学|殿下不生气吗！判官居然在勾结异族！殿下救我……呜呜……}}\n{{对话|我|知道哦，不过因为蛇皮包包……不不不因为需要一些能拿来要写政敌的筹码，所以问题不大……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|啊，哭着走了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|满宠|……他告状了吗？}}\n{{对话|我|作为友人，你又成功给我添了一堆麻烦狐……唉，蛇皮包包……算了，养护起来太难了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|满宠|听见了吗？外面传来那个戏学在散播消息的喊声了。}}\n{{对话|我|狐狐，听见了狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|满宠|呼、呼，反正本来就要他泄露出去，呼。}}\n{{对话|我|这样能引出一些东西狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|满宠|呼。}}\n{{对话|我|不要模仿我的口癖狐！而且发音还很不标准！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|满宠|呼。}}\n{{对话-尾}}\n\n==犬都掌故·伍==\n{{对话-头}}\n{{对话|祢衡|嘻……}}\n{{对话|徐庶|正平？正平？}}\n{{对话|祢衡|嘻嘻嘻——唔啊！}}\n{{对话|徐庶|哎哎正平你醒了？！你、你能认得出师父吗？你清醒了吗？}}\n{{对话|祢衡|……吼……}}\n{{对话|祢衡|——是师傅吼喽！！！}}\n{{旁白|片刻后……}}\n{{对话|祢衡|原来我在绒绒密窟里疯了吗……}}\n{{对话|徐庶|嗯嗯！那天你出现在山门外，一会儿昏迷一会儿疯疯癫癫，大家都被你吓死了……}}\n{{对话|祢衡|那师弟呢？师弟怎么样了？}}\n{{对话|徐庶|小宝……变成神了。她托梦给下面，让小狗送来了能让你恢复的猴族壁画残片。}}\n{{对话|祢衡|……}}\n{{对话|祢衡|哈哈哈哈哈啥？}}\n{{对话|徐庶|正平，你已经沉睡几百年了。}}\n{{对话|徐庶|神明已经变了，犬神、猫神都不在了，现在的神明是你师弟。}}\n{{对话|祢衡|………………}}\n{{对话|祢衡|——啥？！！！！！}}\n{{旁白|虽然很震撼，不过还是尽量接受了现实……}}\n{{对话|祢衡|哼哼！既然老子又行了，那就要下山行侠仗义去喽——}}\n{{对话|祢衡|下山！！！}}\n{{对话|徐庶|露水情缘！！！}}\n{{对话|祢衡|……师父，大侠下山不会喊这些儿女情长的，喊得都是替天行道吼喽。}}\n{{对话|徐庶|哎呀天道现在是你师弟了不用我们操心，露水情缘！！！}}\n{{对话|黄月英|汪。一边喊着奇怪的话一边走远了，汪。}}\n{{对话|黄月英|……啥子叫替天行道呢？神格只有一半汪。}}\n{{对话|？？？|神格，只有一半？|头像=狗绒绒·黑影}}\n{{对话|黄月英|和你说话好累哦，你直接敲敲她的骨头叫来问呗。}}\n{{对话|？？？|敲敲……|头像=狗绒绒·黑影}}\n{{对话|安期|什么事？|头像=狗绒绒·安期}}\n{{对话|？？？|噫对不起我没想到真的敲来了而且这也太快了啊啊——|头像=狗绒绒·黑影}}\n{{对话|安期|哦，神格啊。神格被左慈撕开了，分成了两份，放在阴阳天道里。}}\n{{对话|安期|他一直很疯的。你们俩被软禁在隐鸢阁那么多年，还没明白？}}\n{{对话|黄月英|啥子叫软禁？}}\n{{对话|安期|……}}\n{{对话|？？？|啊，就好像是二哥以前跟我讲故事，一般反转都在名门正派的掌门其实是大魔头……|头像=狗绒绒·黑影}}\n{{对话|安期|隐鸢阁或者仙门也不算名门正派吧。他一开始来的时候，其实门内大多数都是东蜀派。}}\n{{对话|安期|他拉着一堆西蜀派，把东蜀杀到角落里，过了几代又给东蜀派杀西蜀派的权力，帮他制衡西蜀派。}}\n{{对话|安期|搞了一大堆莫名其妙的门规，怎么解释都随他。他自己就天天闭关，装作什么都不管。}}\n{{对话|黄月英|哦哦，好折腾哦。}}\n{{对话|安期|嗯嗯，还好他没在凡间当周天子，不然能把狗折腾死。}}\n{{对话|安期|现在龙脉也被截断了，神格也被撕裂了，巫和仙的时代已经彻底结束了。}}\n{{旁白}}\n{{对话|祢衡|……师父……}}\n{{对话|徐庶|啥子……}}\n{{对话|祢衡|我好饿哦……体内的神没有了，身体又开始重新会困了。}}\n{{对话|徐庶|啊哈哈，这不是好事吗？说明活了呀。}}\n{{对话|祢衡|师父……}}\n{{对话|祢衡|你说师弟在天上，能看见我们吗？}}\n{{对话|徐庶|能的，能的。}}\n{{对话|祢衡|她会托梦给我们吗？}}\n{{对话|徐庶|要的，要的。}}\n{{对话|祢衡|好！今晚不熬夜，争取早睡梦见师弟！}}\n{{对话|祢衡|不过，师弟会给我托什么梦呢……梦里会不会有很多超——甜的桃子呢吼喽……}}\n{{对话|徐庶|……}}\n{{对话|徐庶|其实，我没有梦见过你师弟。隐鸢阁里有一种说法……}}\n{{对话|徐庶|这世上所有生灵，其实都已经等于活在你师弟的梦里了。}}\n{{对话-尾}}"
+}

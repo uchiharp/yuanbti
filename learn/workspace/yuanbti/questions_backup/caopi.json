@@ -1,0 +1,89 @@
+[
+  {
+    "id": "q_caopi_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "曹丕",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "邺城",
+    "text": "你的父亲对你和弟弟都颇为器重，但明眼人都看得出弟弟更得父亲偏爱。朝中大臣也纷纷站队。你内心焦虑，表面却不动声色。面对父亲的新考验，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "按自己的方式应对，不刻意讨好",
+        "scores": {
+          "S4": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在大臣面前展现谦逊，暗中筹谋",
+        "scores": {
+          "S4": 3,
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "精心营造「忠厚稳重」的形象，滴水不漏",
+        "scores": {
+          "S4": 4,
+          "S6": 3,
+          "S2": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自曹丕的密探故事——他深谙隐忍之道，善于在人前维持完美面具。"
+  },
+  {
+    "id": "q_caopi_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "曹丕",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "邺城",
+    "text": "绣衣楼中一位密探违反纪律，按规矩应当严惩。但此密探是楼主极为倚重之人，且此次违规事出有因。作为负责纪律的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "法外施恩，看在楼主的面子上从轻处理",
+        "scores": {
+          "S10": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "按规矩处罚，但暗中帮他弥补过失",
+        "scores": {
+          "S10": 3,
+          "S6": 2.5,
+          "S1": 2.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "铁面无私，规矩面前人人平等",
+        "scores": {
+          "S10": 4,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "曹丕治军严格，重秩序与法度，即便亲近之人触犯规矩也不徇私。"
+  }
+]

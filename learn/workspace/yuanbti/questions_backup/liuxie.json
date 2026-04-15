@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q_liuxie_1",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "刘协",
+    "source_story": "许县·天子召见广陵王",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "刘协端坐于案后，目光直视来人——「广陵王既然来了，为何不来见朕。」语气平静却不容回避。他顿了顿：「你是绣衣校尉，直属于天子的人。」若你是这位年轻的天子，面对被曹操架空的朝廷，你会如何对待绣衣楼——",
+    "options": [
+      {
+        "label": "A",
+        "text": "绣衣楼是朕仅存的倚仗，必须牢牢攥在手中。",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "虽无力直接号令，但以天子之名笼络人心，徐图恢复。",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "曹操在旁虎视，不如装作不在意，暗中联络即可。",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "刘协虽为天子，实为傀儡，但他从未放弃对权力的渴望——以绣衣楼为暗线，试图在夹缝中重掌天下。"
+  }
+]

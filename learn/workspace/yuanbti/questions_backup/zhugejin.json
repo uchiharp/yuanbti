@@ -1,0 +1,310 @@
+[
+  {
+    "id": "q_zhugejin_1",
+    "dimension": "S2",
+    "cross_dimension": "S5",
+    "type": "story_known",
+    "source_character": "诸葛瑾",
+    "source_story": "阿诞失踪",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "弟弟阿诞失踪后诸葛瑾从温文尔雅的长兄变成了另一个人——「呵呵……呵呵呵……阿诞不在了。」面对至亲的失踪你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "崩溃失控无法维持日常",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "表面强撑内心煎熬",
+        "scores": {
+          "S2": 3.5,
+          "S4": 2.5,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "冷静下来制定寻找计划",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "那个礼貌到卑微的人会嘶吼「住手」，会亲手杀人。"
+  },
+  {
+    "id": "q_zhugejin_2",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "诸葛瑾",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "父亲去世后诸葛瑾签下过继书——把祖业田地坞堡都送给叔父一脉，只为了让弟弟读完学宫。如果你是他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "毫不犹豫地签弟弟的未来比什么都重要",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "签但内心会非常痛苦，值得深思",
+        "scores": {
+          "S8": 3.5,
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "寻找其他方式不一定非要放弃祖业",
+        "scores": {
+          "S8": 2.5,
+          "S3": 3.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "做的每一个决定都是对的，但正确的决定不意味着好的结果。"
+  },
+  {
+    "id": "q_zhugejin_3",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在宴会上需要向不熟的贵公子借钱。你的做法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在心里排练八百遍开口时还是结巴",
+        "scores": {
+          "S4": 4,
+          "S7": 1
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "找借口绕弯子比如「最近手头有点紧」",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接开口借就借不借拉倒，值得深思",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "诸葛瑾借钱排练八百遍还不敢开口——「公瑾，我也没钱了……等等我在说什么！」"
+  },
+  {
+    "id": "q_zhugejin_4",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "诸葛瑾",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "为了找回弟弟诸葛瑾不惜杀人、伪造文书、冒充细作。如果你被迫突破底线去保护至亲？",
+    "options": [
+      {
+        "label": "A",
+        "text": "做事后会非常自责",
+        "scores": {
+          "S6": 3.5,
+          "S2": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "做但尽量减少伤害",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "毫不犹豫地做事后也不后悔",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "诸葛瑾的底线突破条件极其单一且强烈——只为了弟弟。"
+  },
+  {
+    "id": "q_zhugejin_5",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「噫————————！！！」被声响吓到尖叫。你会如何评价？",
+    "options": [
+      {
+        "label": "A",
+        "text": "很正常谁都有被吓到的时候",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有点丢人但可以理解",
+        "scores": {
+          "S7": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "太不体面了应该控制住自己",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "诸葛瑾是全角色最不锋芒的人之一。零攻击性。"
+  },
+  {
+    "id": "q_zhugejin_6",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "诸葛瑾",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「殿下既然回来了，听我一言，早日归隐山林。」说出这句话的人对权力是什么态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "彻底远离权力追求平静",
+        "scores": {
+          "S9": 2,
+          "S1": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "利用权力但不沉迷",
+        "scores": {
+          "S9": 3.5,
+          "S1": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "权力是保护在乎之人的工具",
+        "scores": {
+          "S9": 4,
+          "S1": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "诸葛瑾对权力毫无兴趣。"
+  },
+  {
+    "id": "q_zhugejin_7",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "诸葛瑾",
+    "source_story": "许都任职",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "诸葛瑾在许都暗地里帮广陵王伪造文书开沛国关隘，明知风险仍全力去做。如果你是他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "既然答应了就全力以赴",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "评估风险后再决定做到",
+        "scores": {
+          "S5": 2.5,
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "太危险了不应该做",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "诸葛瑾只在弟弟相关时爆发行动力。对殿下的帮助则是被动的忠诚。"
+  },
+  {
+    "id": "q_zhugejin_8",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「把祖业田地坞堡都送给叔父。」",
+        "scores": {
+          "S3": 2,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「身为长喵，我会想办法的。」",
+        "scores": {
+          "S3": 3,
+          "S4": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "A是诸葛瑾为弟弟放弃一切的决绝；B是他用玩笑包装咬牙坚持的日常。"
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "title": "模板:恋念-语音",
+  "category": "恋念之音",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "我div style\"margintop 80px;\"span style\"marginleft 50px;padding0 15px;color fff;textshadow0 0 20px;boxshadow edc26d 0 0 20px ;borderradius 50%;background edc26d5c;\" ——&nbsp;我 &nbsp;——/spandiv style\"boxshadow 10px 10px 50px;padding 2px;border edc26d 1px solid;borderradius 50px;\"div style\"position relative;backgroundcolor rgba(255, 253, 240, 0.512);borderradius 50px;\"span style\"position absolute;bottom 8px;left 10px;\"内廷绣罗内廷绣罗江东乔影江东乔影default广陵王.png110pxlink/spandiv style\"padding 10px;paddingleft100px;color 573218;\"/div/div/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "default"
+    },
+    {
+      "type": "narration",
+      "text": "divdiv style\"width 200px;margin auto;\"200pxlink/divdiv style\"margintop 50px;boxshadow 10px 10px 50px;padding 2px;border edc26d 1px solid;borderradius 50px;\"div style\"position relative;backgroundcolor rgba(255, 253, 240, 0.512);borderradius 50px;\"span style\"positionabsolute;top25px;right10px;;padding0 15px;color fff;textshadow0 0 20px;boxshadow edc26d 0 0 20px ;borderradius 50%;background edc26d5c;\"——&nbsp;&nbsp;——/spandiv style\"displayflex;padding 10px;paddingleft20px;paddingright 35px;color 573218;\"span style\"displayflex;alignitems center;padding 10px 15px 10px 5px;\"/span/div/div/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "头恋念之音恋念之音div style\"color ffe2a9;fontsize30px;fontweight bold;margin auto;textalign center;padding 10px 10px 50px;textshadow 0 0 10px 333;\"——◆通话中◆——/div分类恋念之音"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "此模版是在原本模板恋念的基础上进行魔改，增加了语音功能。"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "在电话之前请先加上头部"
+    },
+    {
+      "type": "narration",
+      "text": "电话内容模板："
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "效果"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "一般的情况"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E6%81%8B%E5%BF%B5-%E8%AF%AD%E9%9F%B3",
+  "crawled_at": "2026-04-12T22:06:35.226360",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}\n|我=<div style=\"margin-top: 80px;\"><span style=\"margin-left: 50px;padding:0 15px;color: #fff;text-shadow:0 0 20px;box-shadow: #edc26d 0 0 20px ;border-radius: 50%;background: #edc26d5c;\"> ——&nbsp;我 &nbsp;——</span><div style=\"box-shadow: -10px -10px 50px;padding: 2px;border: #edc26d 1px solid;border-radius: 50px;\"><div style=\"position: relative;background-color: rgba(255, 253, 240, 0.512);border-radius: 50px;\"><span style=\"position: absolute;bottom: -8px;left: -10px;\">[[file:{{#switch:{{{4|}}}|内廷绣罗=内廷绣罗|江东乔影=江东乔影|#default=广陵王}}-{{{3|}}}.png|110px|link=]]</span><div style=\"padding: 10px;padding-left:100px;color: #573218;\">{{{2|}}}</div></div></div></div>\n|#default=\n<div><div style=\"width: 200px;margin: auto;\">{{#if:{{{3|}}}|[[file:{{{1|}}}-心纸君-{{{3|}}}.png|200px|link=]]|}}</div><div style=\"margin-top: 50px;box-shadow: -10px -10px 50px;padding: 2px;border: #edc26d 1px solid;border-radius: 50px;\"><div style=\"position: relative;background-color: rgba(255, 253, 240, 0.512);border-radius: 50px;\"><span style=\"position:absolute;top:-25px;right:10px;;padding:0 15px;color: #fff;text-shadow:0 0 20px;box-shadow: #edc26d 0 0 20px ;border-radius: 50%;background: #edc26d5c;\">——&nbsp;{{{1|}}}&nbsp;——</span><div style=\"display:flex;padding: 10px;padding-left:20px;padding-right: 35px;color: #573218;\">{{#if:{{{语音|}}}|<span style=\"display:flex;align-items: center;padding: 10px 15px 10px 5px;\">{{Mp3|{{{语音}}}}}</span>}}{{{2|}}}</div></div></div></div>\n|头={{面包屑|{{#if:{{{2|}}}|{{{2|}}}|}}|恋念之音|{{#if:{{{2|}}}|{{{2|}}}-恋念之音|}}}}<div style=\"color: #ffe2a9;font-size:30px;font-weight: bold;margin: auto;text-align: center;padding: 10px 10px 50px;text-shadow: 0 0 10px #333;\">——◆通话中◆——</div>[[分类:恋念之音]]\n}}</includeonly><noinclude>\n==使用方法==\n此模版是在原本[[模板:恋念]]的基础上进行魔改，增加了语音功能。\n<pre>\n在电话之前请先加上头部\n{{恋念-语音|头|男主}}\n电话内容模板：\n{{恋念-语音|名字|内容|(表情如果有变化则填写没有变化则不填|语音=（名字+句子前两个字/如一样就前五个字，不含标点符号）}}\n</pre>\n==效果==\n<pre>\n{{恋念-语音|头|男主}}\n{{恋念-语音|袁基|袁基不说话|语音=}}\n{{恋念-语音|袁基|袁基在说话|正常|语音=梅子露-味道}}\n</pre>\n===一般的情况===\n{{恋念-语音|头|男主}}\n{{恋念-语音|袁基|袁基不说话|语音=}}\n{{恋念-语音|袁基|袁基在说话：测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试|正常|语音=梅子露-味道}}\n</noinclude>"
+}

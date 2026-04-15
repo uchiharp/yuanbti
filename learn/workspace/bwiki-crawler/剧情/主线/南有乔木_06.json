@@ -1,0 +1,68 @@
+{
+  "title": "南有乔木/06",
+  "category": "主线剧情",
+  "characters": [
+    "农妇",
+    "地痞",
+    "小贩",
+    "百姓",
+    "阿蝉"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "人来了没啊？等半天了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "农妇",
+      "text": "听说是个绝世美人，笑起来和花似的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小贩",
+      "text": "是啊，而且一顿饭能吃五只蹄膀呢！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "嗨呀，那真的只有孙家养的起了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "地痞",
+      "text": "你们腿折了啊？走不动道就滚开，别耽误大爷看热闹。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "没有折。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "地痞",
+      "text": "你们——唔啊啊我的腿！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "腿折断的样子是这样的。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8D%97%E6%9C%89%E4%B9%94%E6%9C%A8/06",
+  "crawled_at": "2026-04-12T21:56:34.663789",
+  "raw_wikitext": "{{对话-头}}\n{{旁白|从寿春郊外赶赴城门}}\n{{对话|百姓|人来了没啊？等半天了。}}\n{{对话|农妇|听说是个绝世美人，笑起来和花似的！}}\n{{对话|小贩|是啊，而且一顿饭能吃五只蹄膀呢！}}\n{{对话|百姓|嗨呀，那真的只有孙家养的起了！}}\n{{对话|地痞|你们腿折了啊？走不动道就滚开，别耽误大爷看热闹。}}\n{{对话|阿蝉|没有折。}}\n{{对话|地痞|你们——唔啊啊我的腿！}}\n{{旁白|战斗（地痞）}}\n{{对话|阿蝉|腿折断的样子是这样的。}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

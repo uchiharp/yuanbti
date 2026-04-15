@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_zhangzhongjing_01",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张仲景",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "长沙",
+    "text": "你坐堂行医时，一个衣衫褴褛的老人来看病，身无分文。排队的人催促你赶走他。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "按规矩来，先看有诊金的人",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "先给他看，但告诉他下次要带诊金",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "优先诊治，还自掏腰包给他抓药",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自张仲景的密探故事——他坐堂行医不分贫富，常为贫苦百姓免费诊治。"
+  },
+  {
+    "id": "q_zhangzhongjing_02",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "权贵之人身患重病，请你去诊治。你发现他若继续服用某味「名贵补药」反而会加重病情，但这味药是他最信任的方士开的。他会迁怒于你。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "只说自己的方子，不提补药的事",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "委婉建议停药，但不强求",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直言相告那补药有害，必须停用",
+        "scores": {
+          "S6": 4,
+          "S10": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张仲景行医以治病救人为唯一原则，不畏权贵，不避风险。"
+  }
+]

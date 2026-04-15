@@ -1,0 +1,29 @@
+{
+  "title": "丹书白马/14",
+  "category": "主线剧情",
+  "characters": [
+    "刘辩",
+    "蛾使"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "楼主，真的要留他活路吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你身边的人，怎么都凶神恶煞的？",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%B9%E4%B9%A6%E7%99%BD%E9%A9%AC/14",
+  "crawled_at": "2026-04-12T21:52:49.994774",
+  "raw_wikitext": "{{对话-头}}\n{{对话|蛾使|楼主，真的要留他活路吗？}}\n{{对话|刘辩|你身边的人，怎么都凶神恶煞的？}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

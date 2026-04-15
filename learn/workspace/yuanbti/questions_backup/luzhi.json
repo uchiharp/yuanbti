@@ -1,0 +1,80 @@
+[
+  {
+    "id": "q_luzhi_01",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "卢植",
+    "source_story": null,
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "洛阳",
+    "text": "你是朝中大儒，皇帝受佞臣蛊惑欲下一道有违祖制的旨意。百官噤声不语。你若上书直谏，轻则被贬，重则身陷囹圄。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "明哲保身，沉默不语，值得深思",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "联合几位同僚联名上书，分担风险",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "独自上书直谏，哪怕粉身碎骨",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自卢植的密探故事——他师从太尉陈球、大儒马融，为人刚正不阿。"
+  },
+  {
+    "id": "q_luzhi_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "天下大乱，礼崩乐坏。有学生问你：既然秩序已失，我们为何还要守礼？你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "承认现实，教学生顺应时局求生",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "告诉学生，守住礼义就是守住自己",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以身作则，在最乱的世道里做最守礼的人",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "卢植是东汉末年大儒的代表，即便乱世也不放弃对礼法与秩序的坚守。"
+  }
+]

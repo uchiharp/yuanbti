@@ -1,0 +1,654 @@
+{
+  "title": "水村酒旗风/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "刘辩心纸君",
+    "我",
+    "野猫"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "正是二月初倒春寒的天气，没想到此处牡丹竟已开放。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "哼哼，是本教主法力无边，下了一道咒便令牡丹提前盛开一一唔、别摘！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "原来是彩绢扎成的花。手艺不错，哪儿找的匠人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "村中的信徒，家传手艺……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "要填满整片花田，想必费了不少工夫，教主果然法力无边呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "脸颊泛红，眼圈也泛红……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "呜哇——！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "绢花烧成飞灰了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "你笑什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "噗……想起以前祢衡骗你，在藤花架下能听到牵牛和织女说悄悄话……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "最后什么也没听见，第二日却得了风寒……都怪那个衰人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "你小时候也太好骗了，师兄说什么都信，不像现在……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "现在么……旁人是骗不了我的，我只心甘情愿被你蒙骗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "我几时蒙骗过你……唔……慢些……留件中衣，天还冷着……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "不冷……掌心很热……还有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "野猫",
+      "text": "喵嗷——喵嗷嗷——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "哪来的野猫？去、不许偷看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "炸毛了呢，两只猫猫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "痒……有碎发……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "我拢一拢……别动，再挽得紧一些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "还有衣袖，多卷两道，免得被酒沾湿……好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "先尝尝这坛清酤吧，不易醉人，可以多饮两杯一一怎么这样盯着我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "欣赏这位当垆卖酒的美人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "我才不是文君……要是我们私奔了，也该是你养我才对嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "嗯，那私奔的时候记得把小酒坛子也带上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "带上他干嘛？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "等我们日后坐吃山空、囊中羞涩，就让小酒坛子表演当街吃作业……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "外面这些都是窖龄一年的新酒，三年和五年的酒存放在山洞深处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "至于五年以上的，就要移到下层地窖中封藏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "这两坛酒呢？看坛口的泥封，应该有些年头了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "这就是五十年的陈酿，留到今天刚好是启坛的吉日。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "窖藏了五十年之久，真要在今日开启么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "酒酿出来终归是给人喝的，启封吧一一"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "似有若无的酒香……呃，酒坛，好像是空的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "坛底有个洞？？那酒液不是早就没了……快打开另一坛看看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "这坛倒是满的，就是闻起来……有点酸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "酸？我尝尝——呸呸呸、是老陈醋！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "眼神有些飘忽……是不是喝醉了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "怎么会，我清醒得很，我还记得怎么施法念咒呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "天地自然……八方威神……灵宝、灵宝符命……呜、好疼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "醉得口齿不清，都咬到舌头了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "我没醉，我还能踏罡步呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "九气青天上……日月星斗真……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "歪七扭八，走得不成直线。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "罡、罡步本来就、不是直线……天地、水官帝……云雷一一啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "呼、差点没接住你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "广陵王，我好像真的喝醉了……我正在飞耶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "确实醉的不轻……飞吧，反正有我抱着你呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "醒酒了么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "头晕……还有些口渴……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "此处泉水看着还算干净，应该能喝？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "嗯……可以喝，村人都是在此取水酿酒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "手边也没有容器……我回去酒坊借个杯盏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "渴得厉害……你就用手掬一捧来吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "……给。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "好甜、好甜……再来些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "慢慢喝，小心呛着。嘶——别咬……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "手指，也好甜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "冷……好冷……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "谁叫你非要去捞水里的月亮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "是你说“月轮皎皎”，我才去捞的……我不喜欢你望着月亮出神的样子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "你只要看着我就好，别去流连什么天上月、水中月……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "嘘，不要指着月亮说话，它会听见的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "那我们小声些……可是月亮会看见的……怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "没关系，有浮云遮住月亮，它看不见的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "即使这样……唔……它也……看不见吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "它看不见的……嗯、要轻点……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩心纸君",
+      "text": "头像=刘辩小纸人",
+      "emotion": "那这样呢？还有如此……这般……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-小纸人",
+      "emotion": "帷帐拉上了一一忘掉月亮，专心些。"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "地点一·早春花田"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(198, 123, 136, 0.7); border none; padding 5px; borderradius 10px; color e0d7d5;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0d7d5;\"绢花如何？牡丹又如何？燃作灰烬后别无二致。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "地点二·藤花架"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(198, 123, 136, 0.7); border none; padding 5px; borderradius 10px; color e0d7d5;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0d7d5;\"任由藤花如瀑布，淹没你我。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "地点三·清酤酒坊"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(198, 123, 136, 0.7); border none; padding 5px; borderradius 10px; color e0d7d5;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0d7d5;\"不喜欢听那些私奔故事，都是假的。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "地点四·醇酿酒窖"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(198, 123, 136, 0.7); border none; padding 5px; borderradius 10px; color e0d7d5;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0d7d5;\"失落得久一些，那双抚慰的手便会多停留些。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "地点五·天师醮坛"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(198, 123, 136, 0.7); border none; padding 5px; borderradius 10px; color e0d7d5;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0d7d5;\"依偎在怀中时，心跳变得很近，很近。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "地点六·甘冽清泉"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(198, 123, 136, 0.7); border none; padding 5px; borderradius 10px; color e0d7d5;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0d7d5;\"干渴深入骨髓，饮尽泉水也无用。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "地点七·酣梦画舫"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"padding 10px; fontfamily 楷体; textalign center; fontsize 15px;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"backgroundcolor rgba(198, 123, 136, 0.7); border none; padding 5px; borderradius 10px; color e0d7d5;\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"fontfamily 楷体; fontsize 15px; color e0d7d5;\"就这样一起沉眠吧，就像月亮再也不会升起。/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "centerfont class'zhuxiancolor'a href\"top\" 回到顶部/a/font/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".zhuxiancolor a"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbolder;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily\"Times New Roman\",Georgia,Serif;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius6px;backgrounde0cba7;"
+    },
+    {
+      "type": "narration",
+      "text": "padding6px 15px 6px 15px ;"
+    },
+    {
+      "type": "narration",
+      "text": "border2px solid e0cba7;"
+    },
+    {
+      "type": "narration",
+      "text": "color5B3619;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%B0%B4%E6%9D%91%E9%85%92%E6%97%97%E9%A3%8E/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:06:03.809520",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|水村酒旗风/活动玩法}}{{背景图片|{{filepath:水村酒旗风背景.png}}}}\n[[分类:活动剧情]]\n__TOC__\n\n==地点一·早春花田==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(198, 123, 136, 0.7); border: none; padding: 5px; border-radius: 10px; color: #e0d7d5;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0d7d5;\">绢花如何？牡丹又如何？燃作灰烬后别无二致。</div>\n    </div>\n</div>\n\n{{水村酒旗风|本教主法力无边！}}{{水村酒旗风|当、当然是真的……}}{{水村酒旗风|你快说我什么都好！}}{{水村酒旗风|也就布置了五日……}}{{水村酒旗风|呜哇——！}}\n{{对话-头}}\n{{对话|我|正是二月初倒春寒的天气，没想到此处牡丹竟已开放。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|哼哼，是本教主法力无边，下了一道咒便令牡丹提前盛开一一唔、别摘！|头像=刘辩小纸人}}\n{{对话|我|原来是彩绢扎成的花。手艺不错，哪儿找的匠人？|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|村中的信徒，家传手艺……|头像=刘辩小纸人}}\n{{对话|我|要填满整片花田，想必费了不少工夫，教主果然法力无边呀。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|……|头像=刘辩小纸人}}\n{{对话|我|脸颊泛红，眼圈也泛红……|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|呜哇——！|头像=刘辩小纸人}}\n{{对话|我|绢花烧成飞灰了……|头像=内廷绣罗-小纸人}}\n{{对话-尾}}\n\n==地点二·藤花架==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(198, 123, 136, 0.7); border: none; padding: 5px; border-radius: 10px; color: #e0d7d5;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0d7d5;\">任由藤花如瀑布，淹没你我。</div>\n    </div>\n</div>\n{{水村酒旗风|藤花，落了满身……}}{{水村酒旗风|七夕时再来这里吧？}}{{水村酒旗风|一会儿就不冷了……}}{{水村酒旗风|你的掌心……很热……}}{{水村酒旗风|哪来的野猫？去！}}\n{{对话-头}}\n{{对话|刘辩心纸君|你笑什么？|头像=刘辩小纸人}}\n{{对话|我|噗……想起以前祢衡骗你，在藤花架下能听到牵牛和织女说悄悄话……|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|最后什么也没听见，第二日却得了风寒……都怪那个衰人！|头像=刘辩小纸人}}\n{{对话|我|你小时候也太好骗了，师兄说什么都信，不像现在……|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|现在么……旁人是骗不了我的，我只心甘情愿被你蒙骗……|头像=刘辩小纸人}}\n{{对话|我|我几时蒙骗过你……唔……慢些……留件中衣，天还冷着……|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|不冷……掌心很热……还有……|头像=刘辩小纸人}}\n{{对话|野猫|喵嗷——喵嗷嗷——}}\n{{对话|刘辩心纸君|哪来的野猫？去、不许偷看！|头像=刘辩小纸人}}\n{{对话|我|炸毛了呢，两只猫猫。|头像=内廷绣罗-小纸人}}\n{{对话-尾}}\n\n==地点三·清酤酒坊==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(198, 123, 136, 0.7); border: none; padding: 5px; border-radius: 10px; color: #e0d7d5;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0d7d5;\">不喜欢听那些私奔故事，都是假的。</div>\n    </div>\n</div>\n{{水村酒旗风|头发散开了……}}{{水村酒旗风|要对饮清酤么？}}{{水村酒旗风|私奔……当然想过。}}{{水村酒旗风|你要养我，说好的。}}{{水村酒旗风|别惦记小酒坛子了。}}\n{{对话-头}}\n{{对话|刘辩心纸君|痒……有碎发……|头像=刘辩小纸人}}\n{{对话|我|我拢一拢……别动，再挽得紧一些。|头像=内廷绣罗-小纸人}}\n{{对话|我|还有衣袖，多卷两道，免得被酒沾湿……好了。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|先尝尝这坛清酤吧，不易醉人，可以多饮两杯一一怎么这样盯着我？|头像=刘辩小纸人}}\n{{对话|我|欣赏这位当垆卖酒的美人。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|我才不是文君……要是我们私奔了，也该是你养我才对嘛……|头像=刘辩小纸人}}\n{{对话|我|嗯，那私奔的时候记得把小酒坛子也带上。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|带上他干嘛？|头像=刘辩小纸人}}\n{{对话|我|等我们日后坐吃山空、囊中羞涩，就让小酒坛子表演当街吃作业……|头像=内廷绣罗-小纸人}}\n{{对话-尾}}\n\n==地点四·醇酿酒窖==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(198, 123, 136, 0.7); border: none; padding: 5px; border-radius: 10px; color: #e0d7d5;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0d7d5;\">失落得久一些，那双抚慰的手便会多停留些。</div>\n    </div>\n</div>\n{{水村酒旗风|呜，五十年的佳酿……}}{{水村酒旗风|老陈醋好酸啊！}}{{水村酒旗风|嗝、再来一坛！}}{{水村酒旗风|借酒浇愁……呜呜……}}{{水村酒旗风|不会还有空酒坛吧？}}\n{{对话-头}}\n{{对话|刘辩心纸君|外面这些都是窖龄一年的新酒，三年和五年的酒存放在山洞深处。|头像=刘辩小纸人}}\n{{对话|刘辩心纸君|至于五年以上的，就要移到下层地窖中封藏。|头像=刘辩小纸人}}\n{{对话|我|这两坛酒呢？看坛口的泥封，应该有些年头了。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|这就是五十年的陈酿，留到今天刚好是启坛的吉日。|头像=刘辩小纸人}}\n{{对话|我|窖藏了五十年之久，真要在今日开启么？|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|酒酿出来终归是给人喝的，启封吧一一|头像=刘辩小纸人}}\n{{对话|我|似有若无的酒香……呃，酒坛，好像是空的。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|坛底有个洞？？那酒液不是早就没了……快打开另一坛看看！|头像=刘辩小纸人}}\n{{对话|我|这坛倒是满的，就是闻起来……有点酸。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|酸？我尝尝——呸呸呸、是老陈醋！|头像=刘辩小纸人}}\n{{对话-尾}}\n\n==地点五·天师醮坛==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(198, 123, 136, 0.7); border: none; padding: 5px; border-radius: 10px; color: #e0d7d5;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0d7d5;\">依偎在怀中时，心跳变得很近，很近。</div>\n    </div>\n</div>\n\n{{水村酒旗风|没醉，我没、没醉……}}{{水村酒旗风|这就是罡、罡步——}}{{水村酒旗风|飞起来了耶！}}{{水村酒旗风|抱紧点，再抱紧些。}}{{水村酒旗风|你也飞，我们一起……}}\n{{对话-头}}\n{{对话|我|眼神有些飘忽……是不是喝醉了？|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|怎么会，我清醒得很，我还记得怎么施法念咒呢！|头像=刘辩小纸人}}\n{{对话|刘辩心纸君|天地自然……八方威神……灵宝、灵宝符命……呜、好疼！|头像=刘辩小纸人}}\n{{对话|我|醉得口齿不清，都咬到舌头了。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|我没醉，我还能踏罡步呢！|头像=刘辩小纸人}}\n{{对话|刘辩心纸君|九气青天上……日月星斗真……|头像=刘辩小纸人}}\n{{对话|我|歪七扭八，走得不成直线。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|罡、罡步本来就、不是直线……天地、水官帝……云雷一一啊！|头像=刘辩小纸人}}\n{{对话|我|呼、差点没接住你……|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|广陵王，我好像真的喝醉了……我正在飞耶……|头像=刘辩小纸人}}\n{{对话|我|确实醉的不轻……飞吧，反正有我抱着你呢。|头像=内廷绣罗-小纸人}}\n{{对话-尾}}\n\n==地点六·甘冽清泉==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(198, 123, 136, 0.7); border: none; padding: 5px; border-radius: 10px; color: #e0d7d5;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0d7d5;\">干渴深入骨髓，饮尽泉水也无用。</div>\n    </div>\n</div>\n\n{{水村酒旗风|头晕……我醉了？}}{{水村酒旗风|水……好渴啊……}}{{水村酒旗风|手指……是甜的。}}{{水村酒旗风|我还要……}}{{水村酒旗风|好想吃掉……}}\n{{对话-头}}\n{{对话|我|醒酒了么？|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|头晕……还有些口渴……|头像=刘辩小纸人}}\n{{对话|我|此处泉水看着还算干净，应该能喝？|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|嗯……可以喝，村人都是在此取水酿酒。|头像=刘辩小纸人}}\n{{对话|我|手边也没有容器……我回去酒坊借个杯盏。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|渴得厉害……你就用手掬一捧来吧……|头像=刘辩小纸人}}\n{{对话|我|……给。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|好甜、好甜……再来些。|头像=刘辩小纸人}}\n{{对话|我|慢慢喝，小心呛着。嘶——别咬……|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|手指，也好甜……|头像=刘辩小纸人}}\n{{对话-尾}}\n\n==地点七·酣梦画舫==\n<div style=\"padding: 10px; font-family: 楷体; text-align: center; font-size: 15px;\">\n    <div style=\"background-color: rgba(198, 123, 136, 0.7); border: none; padding: 5px; border-radius: 10px; color: #e0d7d5;\">\n        <div style=\"font-family: 楷体; font-size: 15px; color: #e0d7d5;\">就这样一起沉眠吧，就像月亮再也不会升起。</div>\n    </div>\n</div>\n\n{{水村酒旗风|好冷啊，抱着我……}}{{水村酒旗风|月亮听见了吗？}}{{水村酒旗风|我会专心的……}}{{水村酒旗风|月亮看见了吗？}}{{水村酒旗风|别看月亮……}}\n{{对话-头}}\n{{对话|刘辩心纸君|冷……好冷……|头像=刘辩小纸人}}\n{{对话|我|谁叫你非要去捞水里的月亮。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|是你说“月轮皎皎”，我才去捞的……我不喜欢你望着月亮出神的样子……|头像=刘辩小纸人}}\n{{对话|刘辩心纸君|你只要看着我就好，别去流连什么天上月、水中月……|头像=刘辩小纸人}}\n{{对话|我|嘘，不要指着月亮说话，它会听见的。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|那我们小声些……可是月亮会看见的……怎么办？|头像=刘辩小纸人}}\n{{对话|我|没关系，有浮云遮住月亮，它看不见的。|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|即使这样……唔……它也……看不见吗？|头像=刘辩小纸人}}\n{{对话|我|它看不见的……嗯、要轻点……|头像=内廷绣罗-小纸人}}\n{{对话|刘辩心纸君|那这样呢？还有如此……这般……|头像=刘辩小纸人}}\n{{对话|我|帷帐拉上了一一忘掉月亮，专心些。|头像=内廷绣罗-小纸人}}\n{{对话-尾}}\n\n<br>\n<center><font class='zhuxiancolor'><a href=\"#top\" >回到顶部</a></font></center>\n{{#css:\n.zhuxiancolor a {\nfont-weight:bolder;\nfont-family:\"Times New Roman\",Georgia,Serif;\nborder-radius:6px;background:#e0cba7;\npadding:6px 15px 6px 15px ;\nborder:2px solid #e0cba7;\ncolor:#5B3619;\n}\n}}"
+}

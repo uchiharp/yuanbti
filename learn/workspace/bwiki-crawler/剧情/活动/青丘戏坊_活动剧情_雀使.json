@@ -1,0 +1,441 @@
+{
+  "title": "青丘戏坊/活动剧情/雀使",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "雀使"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "正在核对梳理看到听到的信息，有些计簿和事实差距实在太大，要不要重新整理一下呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "是我脑子里的算盘在响，楼主怎么听到的？正在算花销和预算差，之前的账……是不是也能用青丘戏坊的发票平？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "听到丝竹声有些恍惚，好像回到了在家的时候。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "万一我喝醉后做了不好的事，请务必不要告诉我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "楼主……楼主……我真的，工作压力好大啊！再给雀部招点人吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "再多来几局，我就能总结出楼主出拳的规律。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "可以趁楼主喝酒提一些需求吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "我工作压力一点都不大，我非常喜欢工作，请楼主让我负责更多的事项。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "想找回丢失的记忆吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "每一个认识的人，都为那块缺憾怅然若失，只有我不知道那是什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "有时候，会生出一段无名火，但也不知道是冲谁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "想调职去其他部门吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "有这个想法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "我认为轮岗深耕，有利于提升四部协作效率，突破个人能力壁垒，培养复合型思维，推动工作精细化发展。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "我也想试试更多的、没做过的事……也包括成为死士。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最喜欢的上司是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "楼主，请不要为难打工人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "下属不是楼主与傅副官 “飞云飞云爸爸妈妈你最喜欢谁”的一环。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "但是……哈……说来有点不好意思，如果楼主不是楼主，这里就和其他地方没区别，我也不会想留在绣衣楼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最喜欢的同僚是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "飞云绣球。加班时摸一把毛绒绒，好像命都续上了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=q版-雀使",
+      "emotion": "请务必让飞云绣球多多坐班。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头雀使brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''雀使'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"初见对话&水榭戏台/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"水榭戏台/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px应援火把应援火把"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"……抱歉楼主，下意识用茶水把火浇灭了，密档室禁止明火。……平账例外。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px手持幅巾手持幅巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"醒目，成本低，可以加入绣衣楼周边计划。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px千里镜千里镜"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"晚上想用它看星星，楼主要不要一起去屋顶上？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鼓掌拍鼓掌拍"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"谢谢楼主鼓励，回去后我将认真复盘，邀请密探对满意度进行打分，保证下一次做得更好。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px耳塞（青丘戏坊）耳塞"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"正准备换一副新的，楼主是许愿池里的亲王吧！…………去掉吧。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援扇应援扇"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"奇怪，和青丘的商务中有这一款吗，我怎么不记得……楼主，我要去找坊主对一下帐。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px瓜子瓜子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"瓜子总比想像中消耗更快，不管提前预备多少都很难有余量。虽然有些费解，但用户需求是这样的，拥抱变化。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px铃鼓铃鼓"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"团建时各位密探都要有参与感，就算不会唱歌跳舞演奏百戏，也要手摇铃鼓组成气氛组。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px号筒号筒"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我不记得团建采购清单里有号筒……楼主哪里弄来的赞助？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具（青丘戏坊）博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"首先是数术理论，全部算熟后就要推测对手性格……游戏？什么游戏？有输赢的不能叫游戏。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰饮子（青丘戏坊）冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"运来的冰消耗比预计更快，正在和青丘戏坊协商要不要再采购一批。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼（青丘戏坊）糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"可以外带吗？想给没来的同僚们打包一点回去，小丹一定会喜欢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px果子露紫果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"喝酒的密探请和我报备，切勿酒后驾马。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px果盘（青丘戏坊）果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好幸福，楼里的下午茶如果有这个标准就……就……不会就要入不敷出了吧……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px投壶投壶"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"之前楼里要求文官加强身体锻炼，场地有限，大家都在院子里投壶。过了一段时间，所有人的肩颈和膝盖都出了点问题……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px赏钱赏钱"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我会存起来的……存起来做什么？不记得了……只记得，很久前和人约好要存钱。/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"想找回丢失的记忆吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao想调职去其他部门吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao最喜欢的上司是？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao最喜欢的同僚是？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%9D%92%E4%B8%98%E6%88%8F%E5%9D%8A/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%9B%80%E4%BD%BF",
+  "crawled_at": "2026-04-12T22:04:35.337305",
+  "raw_wikitext": "{{面包屑|2025活动剧情|青丘戏坊/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:青丘戏坊背景.png}}}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/蛾使|蛾使}}\n{{板块|按钮|青丘戏坊/活动剧情/眭固|眭固}}\n{{板块|按钮|青丘戏坊/活动剧情/雀使|雀使}}\n{{板块|按钮|青丘戏坊/活动剧情/第五天|第五天}}\n{{板块|按钮|青丘戏坊/活动剧情/许攸|许攸}}\n{{板块|按钮|青丘戏坊/活动剧情/许曼|许曼}}\n{{板块|按钮|青丘戏坊/活动剧情/鲁肃|鲁肃}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/戏学|戏学}}\n{{板块|按钮|青丘戏坊/活动剧情/张燕|张燕}}\n{{板块|按钮|青丘戏坊/活动剧情/吕蒙|吕蒙}}\n{{板块|按钮|青丘戏坊/活动剧情/张仲景|张仲景}}\n{{板块|按钮|青丘戏坊/活动剧情/张郃|张郃}}\n{{板块|按钮|青丘戏坊/活动剧情/张飞|张飞}}\n{{板块|按钮|青丘戏坊/活动剧情/华佗|华佗}}\n</center>{{JS|Qiantao.js}}[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-雀使.png|100px|团建密探小头-雀使]]<br><br>\n'''雀使'''\n</center>\n='''<span style=\"color:#a06051\">初见对话&水榭戏台</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|雀使|团建日也算公务日，请假要走流程。|头像=q版-雀使|语音=雀使-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">水榭戏台</p>\n|\n{{对话-头}}\n{{对话语音|雀使|……想起以前在家学习雅乐……|头像=q版-雀使|语音=雀使-水榭戏台}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#a06051\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:应援火把.png|30px|应援火把]][[应援火把|应援火把]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=应援火把|对应援火把的喜好=讨厌|语音=|性格标签=防火意识|语音内容=……抱歉楼主，下意识用茶水把火浇灭了，密档室禁止明火。……平账例外。}}</nowiki>\">……抱歉楼主，下意识用茶水把火浇灭了，密档室禁止明火。……平账例外。</span>\n|| {{色块|命盘蓝|防火意识}}\n| [[file:手持幅巾.png|30px|手持幅巾]][[手持幅巾|手持幅巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=手持幅巾|对手持幅巾的喜好=|语音=|性格标签=/|语音内容=醒目，成本低，可以加入绣衣楼周边计划。}}</nowiki>\">醒目，成本低，可以加入绣衣楼周边计划。</span>\n|| /\n|-\n|[[file:千里镜.png|30px|千里镜]][[千里镜|千里镜]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=千里镜|对千里镜的喜好=|语音=|性格标签=/|语音内容=晚上想用它看星星，楼主要不要一起去屋顶上？}}</nowiki>\">晚上想用它看星星，楼主要不要一起去屋顶上？</span>\n|| /\n|[[file:鼓掌拍.png|30px|鼓掌拍]][[鼓掌拍|鼓掌拍]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=鼓掌拍|对鼓掌拍的喜好=|语音=|性格标签=又在卷|语音内容=谢谢楼主鼓励，回去后我将认真复盘，邀请密探对满意度进行打分，保证下一次做得更好。}}</nowiki>\">谢谢楼主鼓励，回去后我将认真复盘，邀请密探对满意度进行打分，保证下一次做得更好。</span>\n||{{色块|命盘红|又在卷}}\n|-\n|[[file:耳塞（青丘戏坊）.png|30px|耳塞（青丘戏坊）]][[耳塞（青丘戏坊）|耳塞]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=耳塞（青丘戏坊）|对耳塞（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=正准备换一副新的，楼主是许愿池里的亲王吧！…………去掉吧。}}</nowiki>\">正准备换一副新的，楼主是许愿池里的亲王吧！…………去掉吧。</span>\n|| /\n| [[file:应援扇.png|30px|应援扇]][[应援扇|应援扇]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=应援扇|对应援扇的喜好=|语音=|性格标签=/|语音内容=奇怪，和青丘的商务中有这一款吗，我怎么不记得……楼主，我要去找坊主对一下帐。}}</nowiki>\">奇怪，和青丘的商务中有这一款吗，我怎么不记得……楼主，我要去找坊主对一下帐。</span>\n|| /\n|-\n| [[file:瓜子.png|30px|瓜子]][[瓜子|瓜子]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=瓜子|对瓜子的喜好=|语音=|性格标签=/|语音内容=瓜子总比想像中消耗更快，不管提前预备多少都很难有余量。虽然有些费解，但用户需求是这样的，拥抱变化。}}</nowiki>\">瓜子总比想像中消耗更快，不管提前预备多少都很难有余量。虽然有些费解，但用户需求是这样的，拥抱变化。</span>\n|| /\n| [[file:铃鼓.png|30px|铃鼓]][[铃鼓|铃鼓]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=铃鼓|对铃鼓的喜好=|语音=|性格标签=/|语音内容=团建时各位密探都要有参与感，就算不会唱歌跳舞演奏百戏，也要手摇铃鼓组成气氛组。}}</nowiki>\">团建时各位密探都要有参与感，就算不会唱歌跳舞演奏百戏，也要手摇铃鼓组成气氛组。</span>\n|| /\n|-\n| [[file:号筒.png|30px|号筒]][[号筒|号筒]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=号筒|对号筒的喜好=|语音=|性格标签=/|语音内容=我不记得团建采购清单里有号筒……楼主哪里弄来的赞助？}}</nowiki>\">我不记得团建采购清单里有号筒……楼主哪里弄来的赞助？</span>\n|| /\n| [[file:博具（青丘戏坊）.png|30px|博具（青丘戏坊）]][[博具（青丘戏坊）|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=博具（青丘戏坊）|对博具（青丘戏坊）的喜好=|语音=|性格标签=好胜|语音内容=首先是数术理论，全部算熟后就要推测对手性格……游戏？什么游戏？有输赢的不能叫游戏。}}</nowiki>\">首先是数术理论，全部算熟后就要推测对手性格……游戏？什么游戏？有输赢的不能叫游戏。</span>\n|| {{色块|绿|好胜}}\n|-\n|[[file:冰饮子（青丘戏坊）.png|30px|冰饮子（青丘戏坊）]][[冰饮子（青丘戏坊）|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=冰饮子（青丘戏坊）|对冰饮子（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=运来的冰消耗比预计更快，正在和青丘戏坊协商要不要再采购一批。}}</nowiki>\">运来的冰消耗比预计更快，正在和青丘戏坊协商要不要再采购一批。</span>\n|| /\n|[[file:糕饼（青丘戏坊）.png|30px|糕饼（青丘戏坊）]][[糕饼（青丘戏坊）|糕饼]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=糕饼（青丘戏坊）|对糕饼（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=可以外带吗？想给没来的同僚们打包一点回去，小丹一定会喜欢。}}</nowiki>\">可以外带吗？想给没来的同僚们打包一点回去，小丹一定会喜欢。</span>\n|| /\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:果子露-紫.png|30px|果子露-紫]][[果子露（青丘戏坊）|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=果子露（青丘戏坊）|对果子露（青丘戏坊）的喜好=讨厌|语音=|性格标签=/|语音内容=喝酒的密探请和我报备，切勿酒后驾马。}}</nowiki>\">喝酒的密探请和我报备，切勿酒后驾马。</span>\n|| /\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:果盘（青丘戏坊）.png|30px|果盘（青丘戏坊）]][[果盘（青丘戏坊）|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=果盘（青丘戏坊）|对果盘（青丘戏坊）的喜好=喜欢|语音=|性格标签=责任心|语音内容=好幸福，楼里的下午茶如果有这个标准就……就……不会就要入不敷出了吧……}}</nowiki>\">好幸福，楼里的下午茶如果有这个标准就……就……不会就要入不敷出了吧……</span>\n|| {{色块|命盘蓝|责任心}}\n|-\n| [[file:投壶.png|30px|投壶]][[投壶|投壶]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=投壶|对投壶的喜好=|语音=|性格标签=/|语音内容=之前楼里要求文官加强身体锻炼，场地有限，大家都在院子里投壶。过了一段时间，所有人的肩颈和膝盖都出了点问题……}}</nowiki>\">之前楼里要求文官加强身体锻炼，场地有限，大家都在院子里投壶。过了一段时间，所有人的肩颈和膝盖都出了点问题……</span>\n|| /\n| [[file:赏钱.png|30px|赏钱]][[赏钱|赏钱]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=雀使|喜好物品=赏钱|对赏钱的喜好=|语音=|性格标签=/|语音内容=我会存起来的……存起来做什么？不记得了……只记得，很久前和人约好要存钱。}}</nowiki>\">我会存起来的……存起来做什么？不记得了……只记得，很久前和人约好要存钱。</span>\n|| /\n|}\n\n='''<span style=\"color:#a06051\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|雀使|正在核对梳理看到听到的信息，有些计簿和事实差距实在太大，要不要重新整理一下呢。|头像=q版-雀使}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|雀使|是我脑子里的算盘在响，楼主怎么听到的？正在算花销和预算差，之前的账……是不是也能用青丘戏坊的发票平？|头像=q版-雀使}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|雀使|听到丝竹声有些恍惚，好像回到了在家的时候。|头像=q版-雀使}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#a06051\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|雀使|万一我喝醉后做了不好的事，请务必不要告诉我。|头像=q版-雀使}}\n{{旁白|雀使喝下一杯果子露}}\n{{对话|雀使|楼主……楼主……我真的，工作压力好大啊！再给雀部招点人吧……|头像=q版-雀使}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|雀使|再多来几局，我就能总结出楼主出拳的规律。|头像=q版-雀使}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|雀使|可以趁楼主喝酒提一些需求吗？|头像=q版-雀使}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|雀使|我工作压力一点都不大，我非常喜欢工作，请楼主让我负责更多的事项。|头像=q版-雀使}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#a06051\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">想找回丢失的记忆吗？</div>\n{{对话-头}}\n{{对话|我|想找回丢失的记忆吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|雀使|每一个认识的人，都为那块缺憾怅然若失，只有我不知道那是什么……|头像=q版-雀使}}\n{{对话|雀使|有时候，会生出一段无名火，但也不知道是冲谁。|头像=q版-雀使}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>想调职去其他部门吗？</div>\n{{对话-头}}\n{{对话|我|想调职去其他部门吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|雀使|有这个想法。|头像=q版-雀使}}\n{{对话|雀使|我认为轮岗深耕，有利于提升四部协作效率，突破个人能力壁垒，培养复合型思维，推动工作精细化发展。|头像=q版-雀使}}\n{{对话|雀使|我也想试试更多的、没做过的事……也包括成为死士。|头像=q版-雀使}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>最喜欢的上司是？</div>\n{{对话-头}}\n{{对话|我|最喜欢的上司是？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|雀使|楼主，请不要为难打工人。|头像=q版-雀使}}\n{{对话|雀使|下属不是楼主与傅副官 “飞云飞云爸爸妈妈你最喜欢谁”的一环。|头像=q版-雀使}}\n{{对话|雀使|但是……哈……说来有点不好意思，如果楼主不是楼主，这里就和其他地方没区别，我也不会想留在绣衣楼。|头像=q版-雀使}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>最喜欢的同僚是？</div>\n{{对话-头}}\n{{对话|我|最喜欢的同僚是？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|雀使|飞云绣球。加班时摸一把毛绒绒，好像命都续上了。|头像=q版-雀使}}\n{{对话|雀使|请务必让飞云绣球多多坐班。|头像=q版-雀使}}\n{{对话-尾}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情/第五天|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

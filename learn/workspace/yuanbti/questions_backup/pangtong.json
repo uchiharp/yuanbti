@@ -1,0 +1,89 @@
+[
+  {
+    "id": "q_pangtong_1",
+    "dimension": "S8",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "庞统",
+    "source_story": "落凤坡",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "庞统虽貌不惊人，却胸怀锦绣。面对旁人的嘲笑与轻视——",
+    "options": [
+      {
+        "label": "A",
+        "text": "以牙还牙，让他们见识自己的厉害",
+        "scores": {
+          "S8": 1,
+          "S7": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "一笑置之，用实力说话",
+        "scores": {
+          "S8": 3,
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "反以温和的态度待他们，以德化人",
+        "scores": {
+          "S8": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "庞统选择：大智若愚，以温和掩饰锋芒。"
+  },
+  {
+    "id": "q_pangtong_2",
+    "dimension": "S10",
+    "cross_dimension": "S1",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「天下有道则见，无道则隐。」面对乱世——",
+    "options": [
+      {
+        "label": "A",
+        "text": "乱世出英雄，正是大显身手之时",
+        "scores": {
+          "S10": 1,
+          "S1": 4,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "待价而沽，择明主而仕",
+        "scores": {
+          "S10": 3,
+          "S1": 3,
+          "S3": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "道之不存，不如归隐山林",
+        "scores": {
+          "S10": 5,
+          "S1": 1,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "庞统虽出山辅佐刘备，内心始终有归隐之意。"
+  }
+]

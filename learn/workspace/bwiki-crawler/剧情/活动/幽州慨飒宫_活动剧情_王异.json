@@ -1,0 +1,429 @@
+{
+  "title": "幽州慨飒宫/活动剧情/王异",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "王异"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "呼……爽。筋骨都展开了，呼，呼……再热一点就好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "比一比谁能泡更久?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "温泉晚上的水雾更浓了，很适合藏匿埋伏......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "拿酒来，我要烈的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "酒气不够，马上就散了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "哈哈哈......继续！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "到你喝了，来，倒满！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "可以，有点派头！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "战斗时会听别人指挥吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "有的指挥是让你赢的，有的指挥是让你去给人垫背的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "打仗要带脑子和胆子，若只有一个就必死无疑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "得过最大的一笔意外之财是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "有个和你一样的汉家宗室，跟我打了一架，叽叽歪歪说什么我也懒得听，结果他就把产业送我了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "他那柄剑不错。你认识他吗？知道他出门回府的途径吗？哪天等他落单……毁尸灭迹的地方我都想好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "打过最艰苦的仗是哪一次？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "第一次攻城。当时还不太了解砍人要用多少力气、一把刀可以砍多久。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "到最后前锋的兵器全耗损完了，损失惨重啊。现在不会再犯类似的错误了，兵欲利其战，必先利其器<ref>《论语·魏灵公》：“工欲善其事，必先利其器。居是邦也，事其大夫之贤者，友其士之仁者。”</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "如何处理兵士之间的矛盾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "小事要慎管，大事要严管，月阴营也是军营，女人拿到战刀铁甲之后也是杀人的兵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=温泉-王异-Q版",
+      "emotion": "她们哗变起来，能更快把我剥成肉末。天黑哗变，天亮时你就不见了。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头王异brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''王异'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "classyuantable1 style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px温泉蛋温泉蛋"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"怎么半生不熟……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px澡豆澡豆"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这可是奢侈品，平时行军时很需要。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鬃刷鬃刷"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"力度轻了痒，力度重了更痒。拿回去给阿昭刷砚台吧。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"要帮我篦一篦头发吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px熏炉熏炉"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这香味闻着头晕，还不如硫磺味好闻。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px陶搓石陶搓石"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"搓着还算过瘾，只是搓到伤口了……呃……/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px糕饼糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"太甜了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"素色的布巾最不耐用……/span"
+    },
+    {
+      "type": "narration",
+      "text": "不耐用"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px冰块冰块"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"都是小伤，没什么感觉，冰敷一会就消肿了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "镇伤止痛"
+    },
+    {
+      "type": "narration",
+      "text": "30px海盐海盐"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"虽然是粗盐，品质还过得去……搓澡用的？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px博具博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"博戏对我来说只有两种结局，要么我赢，要么我抢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "全都拿来"
+    },
+    {
+      "type": "narration",
+      "text": "30px牛乳牛乳"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好香……拼死打仗攒战利品就是为了这样享受。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px炙肉拼盘炙肉拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"羊羔肉美味！虽然火候有些过了，也还算鲜嫩。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"一边泡澡一边喝酒，容易醉死过去啊./span"
+    },
+    {
+      "type": "narration",
+      "text": "30px木鸭木鸭"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"可以给彭彭，不过活鸭子她还能拔两根毛来玩，木雕鸭子....../span"
+    },
+    {
+      "type": "narration",
+      "text": "彭彭不玩"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"果盘！方才热得喉咙发干，差点要喝温泉水。/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"战斗时会听别人指挥吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao得过最大的一笔意外之财是什么？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao打过最艰苦的仗是哪一次？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao如何处理兵士之间的矛盾？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BD%E5%B7%9E%E6%85%A8%E9%A3%92%E5%AE%AB/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E7%8E%8B%E5%BC%82",
+  "crawled_at": "2026-04-12T22:09:23.032848",
+  "raw_wikitext": "{{面包屑|活动剧情|幽州慨飒宫/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:幽州慨飒宫背景.png}}}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/鸢使|鸢使}}\n{{板块|按钮|幽州慨飒宫/活动剧情/崔烈|崔烈}}\n{{板块|按钮|幽州慨飒宫/活动剧情/楼班|楼班}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨阜|杨阜}}\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|阿蝉}}\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|王异}}\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|史子眇}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|陈登}}\n{{板块|按钮|幽州慨飒宫/活动剧情/刘繇|刘繇}}\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|孙尚香}}\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|程昱}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨修|杨修}}\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|徐庶}}\n{{板块|按钮|幽州慨飒宫/活动剧情/张闿|张闿}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-王异.png|100px|团建密探小头-王异]]<br><br>\n'''王异'''\n</center>\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=yuantable1 style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签\n|-\n| [[file:温泉蛋.png|30px|温泉蛋]][[温泉蛋|温泉蛋]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=温泉蛋|对温泉蛋的喜好=|语音=|性格标签=/|语音内容=怎么半生不熟……}}</nowiki>\">怎么半生不熟……</span>\n||/\n| [[file:澡豆.png|30px|澡豆]][[澡豆|澡豆]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=澡豆|对澡豆的喜好=|语音=|性格标签=/|语音内容=这可是奢侈品，平时行军时很需要。}}</nowiki>\">这可是奢侈品，平时行军时很需要。</span>\n||/\n|-\n| [[file:鬃刷.png|30px|鬃刷]][[鬃刷|鬃刷]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=鬃刷|对鬃刷的喜好=|语音=|性格标签=/|语音内容=力度轻了痒，力度重了更痒。拿回去给阿昭刷砚台吧。}}</nowiki>\">力度轻了痒，力度重了更痒。拿回去给阿昭刷砚台吧。</span>\n||/\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=要帮我篦一篦头发吗？}}</nowiki>\">要帮我篦一篦头发吗？</span>\n||/\n|-\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:熏炉.png|30px|熏炉]][[熏炉|熏炉]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=熏炉|对熏炉的喜好=讨厌|语音=|性格标签=/|语音内容=这香味闻着头晕，还不如硫磺味好闻。}}</nowiki>\">这香味闻着头晕，还不如硫磺味好闻。</span>\n|| /\n| [[file:陶搓石.png|30px|陶搓石]][[陶搓石|陶搓石]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=陶搓石|对陶搓石的喜好=|语音=|性格标签=/|语音内容=搓着还算过瘾，只是搓到伤口了……呃……}}</nowiki>\">搓着还算过瘾，只是搓到伤口了……呃……</span>\n||/\n|-\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:糕饼.png|30px|糕饼]][[糕饼|糕饼]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=糕饼|对糕饼的喜好=讨厌|语音=|性格标签=/|语音内容=太甜了......}}</nowiki>\">太甜了......</span>\n||/\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=素巾|对素巾的喜好=讨厌|语音=|性格标签=不耐用|语音内容=素色的布巾最不耐用……}}</nowiki>\">素色的布巾最不耐用……</span>\n||不耐用\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:冰块.png|30px|冰块]][[冰块|冰块]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=冰块|对冰块的喜好=喜欢|语音=|性格标签=镇伤止痛|语音内容=都是小伤，没什么感觉，冰敷一会就消肿了。}}</nowiki>\">都是小伤，没什么感觉，冰敷一会就消肿了。</span>\n||镇伤止痛\n| [[file:海盐.png|30px|海盐]][[海盐|海盐]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=海盐|对海盐的喜好=|语音=|性格标签=/|语音内容=虽然是粗盐，品质还过得去……搓澡用的？}}</nowiki>\">虽然是粗盐，品质还过得去……搓澡用的？</span>\n|| /\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:博具.png|30px|博具]][[博具|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=博具|对博具的喜好=喜欢|语音=|性格标签=全都拿来|语音内容=博戏对我来说只有两种结局，要么我赢，要么我抢。}}</nowiki>\">博戏对我来说只有两种结局，要么我赢，要么我抢。</span>\n||全都拿来\n| [[file:牛乳.png|30px|牛乳]][[牛乳|牛乳]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=牛乳|对牛乳的喜好=|语音=|性格标签=/|语音内容=好香……拼死打仗攒战利品就是为了这样享受。}}</nowiki>\">好香……拼死打仗攒战利品就是为了这样享受。</span>\n|| /\n|-\n| [[file:炙肉拼盘.png|30px|炙肉拼盘]][[炙肉拼盘|炙肉拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=炙肉拼盘|对炙肉拼盘的喜好=|语音=|性格标签=/|语音内容=羊羔肉美味！虽然火候有些过了，也还算鲜嫩。}}</nowiki>\">羊羔肉美味！虽然火候有些过了，也还算鲜嫩。</span>\n|| /\n| [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=果子露|对果子露的喜好=|语音=|性格标签=/|语音内容=一边泡澡一边喝酒，容易醉死过去啊。}}</nowiki>\">一边泡澡一边喝酒，容易醉死过去啊.</span>\n|| /\n|-\n| [[file:木鸭.png|30px|木鸭]][[木鸭|木鸭]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=木鸭|对木鸭的喜好=|语音=|性格标签=彭彭不玩|语音内容=可以给彭彭，不过活鸭子她还能拔两根毛来玩，木雕鸭子......}}</nowiki>\">可以给彭彭，不过活鸭子她还能拔两根毛来玩，木雕鸭子......</span>\n||彭彭不玩\n| [[file:果盘.png|30px|果盘]][[果盘|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=王异|喜好物品=果盘|对果盘的喜好=|语音=|性格标签=/|语音内容=果盘！方才热得喉咙发干，差点要喝温泉水。}}</nowiki>\">果盘！方才热得喉咙发干，差点要喝温泉水。</span>\n|| /\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|王异|呼……爽。筋骨都展开了，呼，呼……再热一点就好了。|头像=温泉-王异-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|王异|比一比谁能泡更久?|头像=温泉-王异-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|王异|温泉晚上的水雾更浓了，很适合藏匿埋伏......|头像=温泉-王异-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|王异|拿酒来，我要烈的。|头像=温泉-王异-Q版}}\n{{旁白|【王异喝下一杯果子露】}}\n{{对话|王异|酒气不够，马上就散了。|头像=温泉-王异-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|王异|哈哈哈......继续！|头像=温泉-王异-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|王异|到你喝了，来，倒满！|头像=温泉-王异-Q版}}\n{{旁白|【我喝下一杯果子露。】}}\n{{对话|王异|可以，有点派头！|头像=温泉-王异-Q版}}\n{{对话-尾}}\n<br>\n|}\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">战斗时会听别人指挥吗？</div>\n{{对话-头}}\n{{对话|我|战斗时会听别人指挥吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|王异|有的指挥是让你赢的，有的指挥是让你去给人垫背的。|头像=温泉-王异-Q版}}\n{{对话|王异|打仗要带脑子和胆子，若只有一个就必死无疑。|头像=温泉-王异-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>得过最大的一笔意外之财是什么？</div>\n{{对话-头}}\n{{对话|我|得过最大的一笔意外之财是什么？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|王异|有个和你一样的汉家宗室，跟我打了一架，叽叽歪歪说什么我也懒得听，结果他就把产业送我了。|头像=温泉-王异-Q版}}\n{{对话|王异|他那柄剑不错。你认识他吗？知道他出门回府的途径吗？哪天等他落单……毁尸灭迹的地方我都想好了。|头像=温泉-王异-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>打过最艰苦的仗是哪一次？</div>\n{{对话-头}}\n{{对话|我|打过最艰苦的仗是哪一次？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|王异|第一次攻城。当时还不太了解砍人要用多少力气、一把刀可以砍多久。|头像=温泉-王异-Q版}}\n{{对话|王异|到最后前锋的兵器全耗损完了，损失惨重啊。现在不会再犯类似的错误了，兵欲利其战，必先利其器<ref>《论语·魏灵公》：“工欲善其事，必先利其器。居是邦也，事其大夫之贤者，友其士之仁者。”</ref>。|头像=温泉-王异-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>如何处理兵士之间的矛盾？</div>\n{{对话-头}}\n{{对话|我|如何处理兵士之间的矛盾？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|王异|小事要慎管，大事要严管，月阴营也是军营，女人拿到战刀铁甲之后也是杀人的兵。|头像=温泉-王异-Q版}}\n{{对话|王异|她们哗变起来，能更快把我剥成肉末。天黑哗变，天亮时你就不见了。|头像=温泉-王异-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

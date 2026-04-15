@@ -1,0 +1,447 @@
+{
+  "title": "青丘戏坊/活动剧情/张仲景",
+  "category": "活动剧情",
+  "characters": [
+    "张仲景",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "戏文里那些借尸还魂、起死回生，都不符合医学常识，但诈尸倒是有可能的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "偶尔身在喧闹之中，内心反而会安宁平静。……前提是华佗没有过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "有灯罩吗？那边蜉蝣扑灯，死了一大片。虽然只是朝生暮死的小虫，但多活一个时辰也是好的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "赢了你喝酒，输了我喝酒，那为何要猜拳，不直接喝酒？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "今日不必看顾病人，可以略饮几口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "最好的结果。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "若今日免不了多饮，我这有些舒肝经的丸药……用酒送服吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "纵酒伤肝，不必强饮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "平时怎么外食？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "能不外食就不外食，如果不得不外食，尽量食韭、木芝、苍耳等物，及时清洁肠胃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "有时忙到昏头，会随便吃一些——史君送来的食物，能吃的那种。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "虽然食材可能会吃死人，但至少史君料理得很干净。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "华佗医术如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "不是正统为医之道，救人与杀人只在他一念之间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "他服食巫血过甚，谁知晓他何时神思清醒、何时狂性大发？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "不过，只是医道不同，他为人……算了，没什么。只要不在本座眼前行医，都随他去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "手套多久洗一次？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "一次性的。每一个时辰换一次。所以我每次出门都要乘自己的车，因为要带成箱的手套。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "……你的表情，不会真信了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "抱歉，我是跟左君学的冷笑话，好像……也学到了不太好笑的毛病……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "翳部最近忙吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "难得清闲，所以我才有闲暇来这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=q版-张仲景",
+      "emotion": "不对！不能说这些话，学医很忌讳说 “最近还行、挺好、不错、不累……”"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头张仲景brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''张仲景'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"初见对话&水榭戏台/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"水榭戏台/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援火把应援火把"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不用了，谢谢，室内光线很充足……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px手持幅巾手持幅巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"也是锦旗吗？医庐中已经挂着许多锦旗了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px千里镜千里镜"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"此物略做调整，或许可用于医道。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px鼓掌拍鼓掌拍"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"哄年幼的病人时应该用得上……看我干什么，你去找左君哄。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px耳塞（青丘戏坊）耳塞"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"确实需要这个……呼，清净多了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援扇应援扇"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"……好凉。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px瓜子瓜子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"飞唾里有病气，不要总是聚众嗑瓜子。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px铃鼓铃鼓"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"耳朵疼，像一百个祢衡、华佗围着我唱山歌。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px号筒号筒"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"别喊，我听得见，只是以为用意念回复过你了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px博具（青丘戏坊）博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"……骰子响起来很吵。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰饮子（青丘戏坊）冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"身体很热不要立即喝冰饮，喉、心、胃、血，都会有损伤。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼（青丘戏坊）糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"你和刘辩抢过我的糕饼，抢完还强词夺理，说我看上去喝露水就能活。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px果子露紫果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不喝。对身体不好。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘（青丘戏坊）果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"医者建议你多吃蔬果，其实也不代表医者喜欢吃蔬果。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px投壶投壶"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"医者当然要手稳。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px赏钱赏钱"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不，不用给我……钱被太多人摸过了。谁知道上个碰钱的人碰过什么！/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"平时怎么外食？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao华佗医术如何？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao手套多久洗一次？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao翳部最近忙吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%9D%92%E4%B8%98%E6%88%8F%E5%9D%8A/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%BC%A0%E4%BB%B2%E6%99%AF",
+  "crawled_at": "2026-04-12T22:04:55.640962",
+  "raw_wikitext": "{{面包屑|2025活动剧情|青丘戏坊/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:青丘戏坊背景.png}}}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/蛾使|蛾使}}\n{{板块|按钮|青丘戏坊/活动剧情/眭固|眭固}}\n{{板块|按钮|青丘戏坊/活动剧情/雀使|雀使}}\n{{板块|按钮|青丘戏坊/活动剧情/第五天|第五天}}\n{{板块|按钮|青丘戏坊/活动剧情/许攸|许攸}}\n{{板块|按钮|青丘戏坊/活动剧情/许曼|许曼}}\n{{板块|按钮|青丘戏坊/活动剧情/鲁肃|鲁肃}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/戏学|戏学}}\n{{板块|按钮|青丘戏坊/活动剧情/张燕|张燕}}\n{{板块|按钮|青丘戏坊/活动剧情/吕蒙|吕蒙}}\n{{板块|按钮|青丘戏坊/活动剧情/张仲景|张仲景}}\n{{板块|按钮|青丘戏坊/活动剧情/张郃|张郃}}\n{{板块|按钮|青丘戏坊/活动剧情/张飞|张飞}}\n{{板块|按钮|青丘戏坊/活动剧情/华佗|华佗}}\n</center>{{JS|Qiantao.js}}[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-张仲景.png|100px|团建密探小头-张仲景]]<br><br>\n'''张仲景'''\n</center>\n='''<span style=\"color:#a06051\">初见对话&水榭戏台</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|张仲景|……好吵，想找个安静的地方看脉案。|头像=q版-张仲景|语音=张仲景-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">水榭戏台</p>\n|\n{{对话-头}}\n{{对话语音|张仲景|……想起以前在家学习雅乐……好久没碰过琴了。|头像=q版-张仲景|语音=张仲景-水榭戏台}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#a06051\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签\n|-\n| [[file:应援火把.png|30px|应援火把]][[应援火把|应援火把]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=应援火把|对应援火把的喜好=|语音=|性格标签=/|语音内容=不用了，谢谢，室内光线很充足……}}</nowiki>\">不用了，谢谢，室内光线很充足……</span>\n|| /\n| [[file:手持幅巾.png|30px|手持幅巾]][[手持幅巾|手持幅巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=手持幅巾|对手持幅巾的喜好=|语音=|性格标签=/|语音内容=也是锦旗吗？医庐中已经挂着许多锦旗了。}}</nowiki>\">也是锦旗吗？医庐中已经挂着许多锦旗了。</span>\n|| /\n|-\n|[[file:千里镜.png|30px|千里镜]][[千里镜|千里镜]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=千里镜|对千里镜的喜好=|语音=|性格标签=/|语音内容=此物略做调整，或许可用于医道。}}</nowiki>\">此物略做调整，或许可用于医道。</span>\n|| /\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:鼓掌拍.png|30px|鼓掌拍]][[鼓掌拍|鼓掌拍]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=鼓掌拍|对鼓掌拍的喜好=喜欢|语音=|性格标签=/|语音内容=哄年幼的病人时应该用得上……看我干什么，你去找左君哄。}}</nowiki>\">哄年幼的病人时应该用得上……看我干什么，你去找左君哄。</span>\n||/\n|-\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:耳塞（青丘戏坊）.png|30px|耳塞（青丘戏坊）]][[耳塞（青丘戏坊）|耳塞]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=耳塞（青丘戏坊）|对耳塞（青丘戏坊）的喜好=喜欢|语音=|性格标签=/|语音内容=确实需要这个……呼，清净多了。}}</nowiki>\">确实需要这个……呼，清净多了。</span>\n|| /\n| [[file:应援扇.png|30px|应援扇]][[应援扇|应援扇]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=应援扇|对应援扇的喜好=|语音=|性格标签=/|语音内容=……好凉。}}</nowiki>\">……好凉。</span>\n|| /\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:瓜子.png|30px|瓜子]][[瓜子|瓜子]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=瓜子|对瓜子的喜好=讨厌|语音=|性格标签=/|语音内容=飞唾里有病气，不要总是聚众嗑瓜子。}}</nowiki>\">飞唾里有病气，不要总是聚众嗑瓜子。</span>\n|| /\n| [[file:铃鼓.png|30px|铃鼓]][[铃鼓|铃鼓]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=铃鼓|对铃鼓的喜好=|语音=|性格标签=/|语音内容=耳朵疼，像一百个祢衡、华佗围着我唱山歌。}}</nowiki>\">耳朵疼，像一百个祢衡、华佗围着我唱山歌。</span>\n|| /\n|-\n| [[file:号筒.png|30px|号筒]][[号筒|号筒]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=号筒|对号筒的喜好=|语音=|性格标签=已读不回|语音内容=别喊，我听得见，只是以为用意念回复过你了。}}</nowiki>\">别喊，我听得见，只是以为用意念回复过你了。</span>\n|| {{色块|命盘红|已读不回}}\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:博具（青丘戏坊）.png|30px|博具（青丘戏坊）]][[博具（青丘戏坊）|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=博具（青丘戏坊）|对博具（青丘戏坊）的喜好=讨厌|语音=|性格标签=/|语音内容=……骰子响起来很吵。}}</nowiki>\">……骰子响起来很吵。</span>\n|| /\n|-\n|[[file:冰饮子（青丘戏坊）.png|30px|冰饮子（青丘戏坊）]][[冰饮子（青丘戏坊）|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=冰饮子（青丘戏坊）|对冰饮子（青丘戏坊）的喜好=|语音=|性格标签=无法反驳|语音内容=身体很热不要立即喝冰饮，喉、心、胃、血，都会有损伤。}}</nowiki>\">身体很热不要立即喝冰饮，喉、心、胃、血，都会有损伤。</span>\n|| {{色块|绿|无法反驳}}\n|[[file:糕饼（青丘戏坊）.png|30px|糕饼（青丘戏坊）]][[糕饼（青丘戏坊）|糕饼]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=糕饼（青丘戏坊）|对糕饼（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=你和刘辩抢过我的糕饼，抢完还强词夺理，说我看上去喝露水就能活。}}</nowiki>\">你和刘辩抢过我的糕饼，抢完还强词夺理，说我看上去喝露水就能活。</span>\n|| /\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:果子露-紫.png|30px|果子露-紫]][[果子露（青丘戏坊）|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=果子露（青丘戏坊）|对果子露（青丘戏坊）的喜好=讨厌|语音=|性格标签=/|语音内容=不喝。对身体不好。}}</nowiki>\">不喝。对身体不好。</span>\n|| /\n|[[file:果盘（青丘戏坊）.png|30px|果盘（青丘戏坊）]][[果盘（青丘戏坊）|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=果盘（青丘戏坊）|对果盘（青丘戏坊）的喜好=|语音=|性格标签=医者建议|语音内容=医者建议你多吃蔬果，其实也不代表医者喜欢吃蔬果。}}</nowiki>\">医者建议你多吃蔬果，其实也不代表医者喜欢吃蔬果。</span>\n|| {{色块|命盘蓝|医者建议}}\n|-\n| [[file:投壶.png|30px|投壶]][[投壶|投壶]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=投壶|对投壶的喜好=|语音=|性格标签=/|语音内容=医者当然要手稳。}}</nowiki>\">医者当然要手稳。</span>\n|| /\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:赏钱.png|30px|赏钱]][[赏钱|赏钱]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=张仲景|喜好物品=赏钱|对赏钱的喜好=讨厌|语音=|性格标签=洁癖|语音内容=不，不用给我……钱被太多人摸过了。谁知道上个碰钱的人碰过什么！}}</nowiki>\">不，不用给我……钱被太多人摸过了。谁知道上个碰钱的人碰过什么！</span>\n|| {{色块|命盘蓝|洁癖}}\n|}\n\n='''<span style=\"color:#a06051\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|张仲景|戏文里那些借尸还魂、起死回生，都不符合医学常识，但诈尸倒是有可能的。|头像=q版-张仲景}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|张仲景|偶尔身在喧闹之中，内心反而会安宁平静。……前提是华佗没有过来。|头像=q版-张仲景}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|张仲景|有灯罩吗？那边蜉蝣扑灯，死了一大片。虽然只是朝生暮死的小虫，但多活一个时辰也是好的。|头像=q版-张仲景}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#a06051\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|张仲景|赢了你喝酒，输了我喝酒，那为何要猜拳，不直接喝酒？|头像=q版-张仲景}}\n{{旁白|张仲景喝下一杯果子露}}\n{{对话|张仲景|今日不必看顾病人，可以略饮几口。|头像=q版-张仲景}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|张仲景|最好的结果。|头像=q版-张仲景}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|张仲景|若今日免不了多饮，我这有些舒肝经的丸药……用酒送服吗？|头像=q版-张仲景}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|张仲景|纵酒伤肝，不必强饮。|头像=q版-张仲景}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#a06051\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">平时怎么外食？</div>\n{{对话-头}}\n{{对话|我|平时怎么外食？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张仲景|能不外食就不外食，如果不得不外食，尽量食韭、木芝、苍耳等物，及时清洁肠胃。|头像=q版-张仲景}}\n{{对话|张仲景|有时忙到昏头，会随便吃一些——史君送来的食物，能吃的那种。|头像=q版-张仲景}}\n{{对话|张仲景|虽然食材可能会吃死人，但至少史君料理得很干净。|头像=q版-张仲景}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>华佗医术如何？</div>\n{{对话-头}}\n{{对话|我|华佗医术如何？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张仲景|不是正统为医之道，救人与杀人只在他一念之间。|头像=q版-张仲景}}\n{{对话|张仲景|他服食巫血过甚，谁知晓他何时神思清醒、何时狂性大发？|头像=q版-张仲景}}\n{{对话|张仲景|不过，只是医道不同，他为人……算了，没什么。只要不在本座眼前行医，都随他去。|头像=q版-张仲景}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>手套多久洗一次？</div>\n{{对话-头}}\n{{对话|我|手套多久洗一次？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张仲景|一次性的。每一个时辰换一次。所以我每次出门都要乘自己的车，因为要带成箱的手套。|头像=q版-张仲景}}\n{{对话|张仲景|……你的表情，不会真信了吧？|头像=q版-张仲景}}\n{{对话|张仲景|抱歉，我是跟左君学的冷笑话，好像……也学到了不太好笑的毛病……|头像=q版-张仲景}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>翳部最近忙吗？</div>\n{{对话-头}}\n{{对话|我|翳部最近忙吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|张仲景|难得清闲，所以我才有闲暇来这里。|头像=q版-张仲景}}\n{{对话|张仲景|不对！不能说这些话，学医很忌讳说 “最近还行、挺好、不错、不累……”|头像=q版-张仲景}}\n{{对话-尾}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情/张郃|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

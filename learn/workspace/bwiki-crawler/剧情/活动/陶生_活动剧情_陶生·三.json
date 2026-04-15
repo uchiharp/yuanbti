@@ -1,0 +1,493 @@
+{
+  "title": "陶生/活动剧情/陶生·三",
+  "category": "活动剧情",
+  "characters": [
+    "孙尚香",
+    "孙权",
+    "孙策",
+    "孙策？？？",
+    "我",
+    "蒯越",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……呼……好热……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……你醒了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "被热醒的……冰盆早化了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "哥，你们醒了吗？外面出事了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "唔卜见惹？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "所有人的侍从、侍卫、亲卫都不见了？士氏那堆府兵呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "哈欠……好困……这是什么吓唬我们小门小户的新法子吗？孙将军开恩啊，我哥可经不起吓。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "不要胡乱攀扯……说不定只是今晨换班的人睡迷了，来迟了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "我们那几个随从可能怠慢活计，但士氏的家奴和府兵没主人首肯，是绝不敢擅离的吧？啊，江陵太守来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "蒯越，你的人呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "……内外都找了，没有找到。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "看我干嗦磨？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……是不是你想给谁下马威，故意来这么一出？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "要是我这么干，我能先把自己弟弟吓死。你忘了他昨晚……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "啊啊不要说了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "丢人。他因为太害怕，走出去没多远就把蜡烛吹了，再原路折返回纸门另一端，等时候差不多了再把蜡烛点起来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "再说了，这次是真的因为不想死板应酬，才喊人一块玩这个的，没想过给谁下马威。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "也是……没有必要的事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "那士燮呢？他的随从府兵最多，全部消失了，他没有出来找吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……兄长……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "交趾那边的人，说不定每天睡到下午才醒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……兄长！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊怎么了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "阿香刚才叫醒你们后，想去把众人都召集起来，结果她出了外院，到现在都没回来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "外面怎样了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……有人搞事情啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "这不是一夜之间能完成的事……至少在曲阿，没有人能做到。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "是不是你的繇哥在跟你里应外合？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "等等！他昨夜没有出去过！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "繇哥年前就被你赶出曲阿了，怎么可能再做什么？！再说眼下吴郡在叛乱，何必故弄玄虚，直接行刺不好吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "都冷静点！……手先松开，孙策！孙策！……这样吧，我们分头行动。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "愿意走的，我们试着穿过那些陶人离开老宅。不愿意走的，就先等在这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我和你出去，出去找阿香。阿权留下，万一阿香还留在宅邸里，能有个照应。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "我也一起出去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "使君不是病着吗？万一陶人有危险，你连逃生之力都没有。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "留下来的，现在是诸葛兄弟和孙二公子，士燮下落不明。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "他们是兄弟，如将军所说，诸葛诞策划了阴谋，邢我孤身在此，难道二公子就有能力保住我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "相反，殿下和将军身负刀兵，且绝无理由暗害众人。那么，跟你们走才是最安全的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "……阿诞，他说的有道理，不如，我们也离开这里吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "哈，万一待会儿孙策将军和什么混战起来，我二人手无寸铁，死都不知道怎么死的。我们留下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……里面是什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策，蒯越没有跟上……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……你有听见他的动静吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有。完全不知道什么时候消失的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "蒯越！蒯越——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "蒯……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策？？？",
+      "text": "头像=黑人影",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……不可能……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……？！！谁——"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·三'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E4%B8%89",
+  "crawled_at": "2026-04-12T22:07:01.000981",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·三'''=\n</center>\n\n{{对话-头}}\n{{旁白|【次日】}}\n{{旁白|【寝室】}}\n{{对话|我|……呼……好热……|头像=广陵王-疲惫}}\n{{对话|孙策|……你醒了吗？|头像=孙策}}\n{{对话|我|被热醒的……冰盆早化了。|头像=广陵王-微笑}}\n{{旁白|我从榻上起身。寻常民居制式的老宅中，寝室并不阔大。从榻上直接能看见门边的冰盆。}}\n{{旁白|心理|守夜的侍从，没有来换过冰盆吗？}}\n{{旁白|【内院】}}\n{{对话|孙尚香|哥，你们醒了吗？外面出事了。}}\n{{对话|孙策|唔卜见惹？|头像=孙策}}\n{{对话|我|所有人的侍从、侍卫、亲卫都不见了？士氏那堆府兵呢？|头像=广陵王-惊讶}}\n{{旁白|我们在井边刷牙漱洗，外面来来往往的，都是此次受邀的宾客，众人茫然地在这座老宅中寻找自己的随从。}}\n{{旁白|所有人的侍从、府兵加起来将近两百余人。原有专门的安排和值守，但一夜之间，这些人凭空消失。}}\n{{对话|诸葛诞|哈欠……好困……这是什么吓唬我们小门小户的新法子吗？孙将军开恩啊，我哥可经不起吓。}}\n{{对话|诸葛瑾|不要胡乱攀扯……说不定只是今晨换班的人睡迷了，来迟了。|头像=诸葛瑾}}\n{{对话|诸葛诞|我们那几个随从可能怠慢活计，但士氏的家奴和府兵没主人首肯，是绝不敢擅离的吧？啊，江陵太守来了。}}\n{{对话|我|蒯越，你的人呢？|头像=广陵王-挑眉}}\n{{对话|蒯越|……内外都找了，没有找到。|头像=蒯越}}\n{{旁白|我看了眼孙策，他也坦然看着我，手上刷牙也没停。}}\n{{对话|孙策|看我干嗦磨？}}\n{{对话|我|……是不是你想给谁下马威，故意来这么一出？|头像=广陵王-严肃}}\n{{对话|孙策|我？}}\n{{旁白|他漱掉嘴里的牙药，擦了把脸。}}\n{{对话|孙策|要是我这么干，我能先把自己弟弟吓死。你忘了他昨晚……}}\n{{对话|孙权|啊啊不要说了！|头像=孙权}}\n{{对话|孙策|丢人。他因为太害怕，走出去没多远就把蜡烛吹了，再原路折返回纸门另一端，等时候差不多了再把蜡烛点起来。}}\n{{对话|孙策|再说了，这次是真的因为不想死板应酬，才喊人一块玩这个的，没想过给谁下马威。}}\n{{对话|我|也是……没有必要的事……|头像=广陵王-微笑}}\n{{对话|我|那士燮呢？他的随从府兵最多，全部消失了，他没有出来找吗？|头像=广陵王-挑眉}}\n{{对话|孙权|……兄长……|头像=孙权}}\n{{对话|蒯越|交趾那边的人，说不定每天睡到下午才醒。|头像=蒯越}}\n{{对话|孙权|……兄长！|头像=孙权}}\n{{对话|孙策|啊怎么了？}}\n{{对话|孙权|阿香刚才叫醒你们后，想去把众人都召集起来，结果她出了外院，到现在都没回来。|头像=孙权}}\n{{旁白|心理|是的……阿香离开的时间太久了。}}\n{{旁白|虽然宾客众多，但众人过夜的客舍基本都在一处，这处宅院占地也不算大，没有必要找邢么久。}}\n{{旁白|【外院】}}\n{{旁白|清晨的薄雾中，连鸟鸣声都无。孙策攀上围墙看向外面，皱起了眉头。}}\n{{对话|我|外面怎样了？|头像=广陵王-严肃}}\n{{旁白|我也攀上围墙。在雾中，我见到了……}}\n{{旁白|——“人影”。}}\n{{旁白|陶人，密密麻麻、占据了所有视野的陶人，宛如军阵般包围在老宅之外，所有陶人都面朝老宅，宛如正在注视我们。}}\n{{对话|孙策|……有人搞事情啊。|头像=孙策}}\n{{对话|我|这不是一夜之间能完成的事……至少在曲阿，没有人能做到。|头像=广陵王-摇头}}\n{{旁白|【内院】}}\n{{旁白|话音未落，孙策跳下围墙，快步冲向诸葛诞，揪起衣襟——}}\n{{对话|孙策|是不是你的繇哥在跟你里应外合？}}\n{{对话|诸葛瑾|等等！他昨夜没有出去过！|头像=诸葛瑾}}\n{{对话|诸葛诞|繇哥年前就被你赶出曲阿了，怎么可能再做什么？！再说眼下吴郡在叛乱，何必故弄玄虚，直接行刺不好吗？！|头像=诸葛诞}}\n{{对话|我|都冷静点！……手先松开，孙策！孙策！……这样吧，我们分头行动。|头像=广陵王-生气}}\n{{对话|我|愿意走的，我们试着穿过那些陶人离开老宅。不愿意走的，就先等在这里。|头像=广陵王-严肃}}\n{{对话|孙策|我和你出去，出去找阿香。阿权留下，万一阿香还留在宅邸里，能有个照应。}}\n{{对话|蒯越|我也一起出去吧。|头像=蒯越}}\n{{对话|孙策|使君不是病着吗？万一陶人有危险，你连逃生之力都没有。}}\n{{对话|蒯越|留下来的，现在是诸葛兄弟和孙二公子，士燮下落不明。|头像=蒯越}}\n{{对话|蒯越|他们是兄弟，如将军所说，诸葛诞策划了阴谋，邢我孤身在此，难道二公子就有能力保住我？|头像=蒯越}}\n{{对话|蒯越|相反，殿下和将军身负刀兵，且绝无理由暗害众人。那么，跟你们走才是最安全的。|头像=蒯越}}\n{{对话|诸葛瑾|……阿诞，他说的有道理，不如，我们也离开这里吧？|头像=诸葛瑾}}\n{{对话|诸葛诞|哈，万一待会儿孙策将军和什么混战起来，我二人手无寸铁，死都不知道怎么死的。我们留下。|头像=诸葛诞}}\n{{旁白|就这样，我们兵分两路。}}\n{{旁白|我、孙策、蒯越步出院门，穿过那些密密麻麻的无尽陶人，寻找真相和孙尚香的下落。}}\n{{旁白|诸葛兄弟、孙权留在老宅之中……}}\n{{旁白|道路、林间……无穷无尽的陶人，站满了视野所及之处，以及茫茫浓雾之中。}}\n{{旁白|我们艰难在陶人之间的缝隙中穿过，他不耐地重重将身前的陶人推倒。一人高的陶俑倾倒在后方陶人上，发出陶碎的沙响。}}\n{{对话|孙策|……里面是什么？}}\n{{旁白|从碎裂的陶人中涌出的，是一汪腥气的血水。它流淌满地，或许是腥味的缘故，四周雾气中的飞虫登时被吸引，徘徊在血水之上。}}\n{{旁白|他踢开那些碎陶片，浑然不惧地踏了过去。我回头想看蒯越有没有跟上，然而……}}\n{{旁白|心理|……不见了？}}\n{{对话|我|孙策，蒯越没有跟上……|头像=广陵王-严肃}}\n{{对话|孙策|……你有听见他的动静吗？}}\n{{对话|我|没有。完全不知道什么时候消失的。|头像=广陵王-摇头}}\n{{旁白|我们不禁沿着原路回头走了几步。高大的陶人汇成的海中，四顾茫茫，辨不清方向与所在。}}\n{{旁白|一霎那，我仿佛觉得，我们渺小得像方才徘徊于血水上的飞虫。}}\n{{对话|我|蒯越！蒯越——|头像=广陵王-生气}}\n{{旁白|没有人。}}\n{{旁白|我的声音在陶人之间回荡，回应我的，只有陶人们不变的神情。忽然，我看见了蒯越的身影——}}\n{{对话|我|蒯……|头像=广陵王-严肃}}\n{{旁白|他，或者说，它，正在看我。}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{旁白|和蒯越面目相似的陶人，带着诡谲死寂的微笑，微微侧头面朝我。我退后了半步，却撞到了什么……}}\n{{旁白|——我的身后，应该是空的才对。}}\n{{对话|我|……为什么……|头像=广陵王-严肃}}\n{{对话|孙策？？？|……|头像=黑人影}}\n{{旁白|下一瞬，我挤入左边陶人之间的空隙，逃离此处。雾气掩盖两具陶人的身影，不管我怎么呼唤，都没有任何声音回应我。}}\n{{旁白|我穿过无数个陶人，它们的目光仿佛都在追逐我的仓惶。不知跑了多久，在无尽绝望的逃亡中，天色渐渐暗沉……}}\n{{旁白|落日中，我再次看见了远处孙氏老宅的屋檐影子。}}\n{{对话|我|……不可能……|头像=广陵王-生气}}\n{{旁白|三具尸体，倒落在外院和内院。}}\n{{旁白|诸葛诞和诸葛瑾死在外院，而孙权死在内院的廊上。事发时，他应该毫无防备，颈部中刀。}}\n{{旁白|他出事后，诸葛诞立刻拉起诸葛瑾逃亡，但没能逃掉，两人都是背后中刀，倒在外院。}}\n{{旁白|心理|是谁干的？暗处还有人？是阿香？}}\n{{旁白|心理|假如阿香还在宅邸中，诸葛诞偷袭孙权，孙尚香再出手……不，武器痕迹不对，她不用这样的重战刀。}}\n{{旁白|心理|士燮呢?更不可能……三名死者的伤痕都来自重战刀的致命一击，是老手，士燮的手上连握刀的茧子都没有。}}\n{{旁白|我朝内院搜去。士燮的住处幽暗无声，器具布置整齐有序，看起来没有发生过混战。}}\n{{旁白|心理|……不对。}}\n{{旁白|我转过身，重新回到这间布置有序的客舍。它太整齐了，整齐得就像尚未有人住进去过……}}\n{{旁白|而且，它的整齐太让我熟悉了。就像是……}}\n{{旁白|心理|……王府内室平时的布置。}}\n{{旁白|寝具摆放的习惯、木案靠的位置、竹简叠放的层次……}}\n{{旁白|地席的铺设、常服在衣架上的叠挂、薰笼的收纳……仿佛是来自广陵王府的侍从，在孙氏老宅，替交趾太守布置了一遍房间。}}\n{{旁白|我猛地扯下墙上的挂帘——}}\n{{旁白|心理|果然。}}\n{{旁白|被掩盖的血迹。}}\n{{旁白|泼洒的、干涸的血迹，遍布整片墙壁。拉开麻编地席，全屋的地面儿乎全是血迹。血迹一路蔓延，指向了角落里的衣箱……}}\n{{旁白|我打开了衣箱。浓烈的血腥气汹涌而出，里面的绫罗绸缎皆被血浸泡再干涸，凝固成泥浆般的存在。}}\n{{旁白|一层又一层的泥浆下……}}\n{{旁白|……如婴孩般蜷缩的身躯……}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|……？！！谁——|头像=广陵王-惊讶}}\n{{旁白|身后的杀意在这一瞬暴起，我的觉察慢了半步，回过头时，我看见了扑面而来的刀光，以及……}}\n{{旁白|——以及一个绝不该出现在这里的人。}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·四|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

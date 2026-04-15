@@ -1,0 +1,429 @@
+{
+  "title": "幽州慨飒宫/活动剧情/阿蝉",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "阿蝉"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "很舒服，但……楼主可以拉着我的手吗？水有点深……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "啊！刚刚水动了一下......差点溅到眼睛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "想听我唱歌？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "没有孟起叔的酒辣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "很好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "不能和楼主一起赢吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "哎？是我罚了楼主酒吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "为什么会想来泡温泉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "名册上有我，而且楼主来了，我就来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "这样和楼主待在一起，很安心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "会用哪三个词形容自己？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "我……词……形容……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "……嗯……活泼……不对吗？家里人总这么说……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "收到过最喜欢的礼物是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "烤肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "哦哦，还有上次楼主遇刺后，文远叔送来的刺客人头。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "是否对未来充满信心？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "不……人越来越多，楼里越来越吵……以后楼主每次外出，可以都带上我吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=温泉-阿蝉-Q版",
+      "emotion": "啊，不包括江东。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头阿蝉brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''阿蝉'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "classyuantable1 style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px温泉蛋温泉蛋"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"夏天把蛋埋在沙子里，味道和这个很像。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px澡豆澡豆"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"留香很久，侦查潜伏时会被发现。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鬃刷鬃刷"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"似乎有点软，有硬些的吗?/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好，我每天都会用的/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px熏炉熏炉"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好像在哪里闻过这种香气，很安心的感觉....../span"
+    },
+    {
+      "type": "narration",
+      "text": "暖呼呼"
+    },
+    {
+      "type": "narration",
+      "text": "30px陶搓石陶搓石"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好精巧……西凉都是随便捡一块石头。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好浓郁的奶香，是西域的点心吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "叔来过"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好柔软……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰块冰块"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好凉快……如果能随身携带就好了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px海盐海盐"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"很清爽，喜欢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px博具博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"为什么要玩这个？楼主想要什么，直接告诉我就好。/span"
+    },
+    {
+      "type": "narration",
+      "text": "都给楼主"
+    },
+    {
+      "type": "narration",
+      "text": "30px牛乳牛乳"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好熟悉……文远叔也要我用这个洗脸。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px炙肉拼盘炙肉拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好香……/span"
+    },
+    {
+      "type": "narration",
+      "text": "星星眼"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"喝酒后泡浴容易头晕....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px木鸭木鸭"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这个，能做什么？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好，一起吃。/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"为什么会想来泡温泉？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao会用哪三个词形容自己？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao收到过最喜欢的礼物是什么？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao是否对未来充满信心？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BD%E5%B7%9E%E6%85%A8%E9%A3%92%E5%AE%AB/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%98%BF%E8%9D%89",
+  "crawled_at": "2026-04-12T22:09:02.645014",
+  "raw_wikitext": "{{面包屑|活动剧情|幽州慨飒宫/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:幽州慨飒宫背景.png}}}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/鸢使|鸢使}}\n{{板块|按钮|幽州慨飒宫/活动剧情/崔烈|崔烈}}\n{{板块|按钮|幽州慨飒宫/活动剧情/楼班|楼班}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨阜|杨阜}}\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|阿蝉}}\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|王异}}\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|史子眇}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|陈登}}\n{{板块|按钮|幽州慨飒宫/活动剧情/刘繇|刘繇}}\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|孙尚香}}\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|程昱}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨修|杨修}}\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|徐庶}}\n{{板块|按钮|幽州慨飒宫/活动剧情/张闿|张闿}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-阿蝉.png|100px|团建密探小头-阿蝉]]<br><br>\n'''阿蝉'''\n</center>\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=yuantable1 style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签\n|-\n| [[file:温泉蛋.png|30px|温泉蛋]][[温泉蛋|温泉蛋]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=温泉蛋|对温泉蛋的喜好=|语音=|性格标签=/|语音内容=夏天把蛋埋在沙子里，味道和这个很像。}}</nowiki>\">夏天把蛋埋在沙子里，味道和这个很像。</span>\n||/\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:澡豆.png|30px|澡豆]][[澡豆|澡豆]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=澡豆|对澡豆的喜好=讨厌|语音=|性格标签=/|语音内容=留香很久，侦查潜伏时会被发现。}}</nowiki>\">留香很久，侦查潜伏时会被发现。</span>\n||/\n|-\n| [[file:鬃刷.png|30px|鬃刷]][[鬃刷|鬃刷]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=鬃刷|对鬃刷的喜好=|语音=|性格标签=/|语音内容=似乎有点软，有硬些的吗?}}</nowiki>\">似乎有点软，有硬些的吗?</span>\n||/\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=好，我每天都会用的}}</nowiki>\">好，我每天都会用的</span>\n||/\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:熏炉.png|30px|熏炉]][[熏炉|熏炉]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=熏炉|对熏炉的喜好=喜欢|语音=|性格标签=暖呼呼|语音内容=好像在哪里闻过这种香气，很安心的感觉......}}</nowiki>\">好像在哪里闻过这种香气，很安心的感觉......</span>\n||暖呼呼\n| [[file:陶搓石.png|30px|陶搓石]][[陶搓石|陶搓石]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=陶搓石|对陶搓石的喜好=|语音=|性格标签=/|语音内容=好精巧……西凉都是随便捡一块石头。}}</nowiki>\">好精巧……西凉都是随便捡一块石头。</span>\n||/\n|-\n| [[file:糕饼.png|30px|糕饼]][[糕饼|糕饼]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=糕饼|对糕饼的喜好=|语音=|性格标签=叔来过|语音内容=好浓郁的奶香，是西域的点心吗？}}</nowiki>\">好浓郁的奶香，是西域的点心吗？</span>\n||叔来过\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=素巾|对素巾的喜好=喜欢|语音=|性格标签=/|语音内容=好柔软……}}</nowiki>\">好柔软……</span>\n|| /\n|-\n|[[file:冰块.png|30px|冰块]][[冰块|冰块]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=冰块|对冰块的喜好=|语音=|性格标签=/|语音内容=好凉快……如果能随身携带就好了。}}</nowiki>\">好凉快……如果能随身携带就好了。</span>\n|| /\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:海盐.png|30px|海盐]][[海盐|海盐]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=海盐|对海盐的喜好=喜欢|语音=|性格标签=/|语音内容=很清爽，喜欢。}}</nowiki>\">很清爽，喜欢。</span>\n|| /\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:博具.png|30px|博具]][[博具|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=博具|对博具的喜好=喜欢|语音=|性格标签=都给楼主|语音内容=为什么要玩这个？楼主想要什么，直接告诉我就好。}}</nowiki>\">为什么要玩这个？楼主想要什么，直接告诉我就好。</span>\n||都给楼主\n| [[file:牛乳.png|30px|牛乳]][[牛乳|牛乳]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=牛乳|对牛乳的喜好=|语音=|性格标签=/|语音内容=好熟悉……文远叔也要我用这个洗脸。}}</nowiki>\">好熟悉……文远叔也要我用这个洗脸。</span>\n|| /\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:炙肉拼盘.png|30px|炙肉拼盘]][[炙肉拼盘|炙肉拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=炙肉拼盘|对炙肉拼盘的喜好=喜欢|语音=|性格标签=星星眼|语音内容=好香……}}</nowiki>\">好香……</span>\n||星星眼\n| [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=果子露|对果子露的喜好=|语音=|性格标签=/|语音内容=喝酒后泡浴容易头晕......}}</nowiki>\">喝酒后泡浴容易头晕......</span>\n|| /\n|-\n| [[file:木鸭.png|30px|木鸭]][[木鸭|木鸭]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=木鸭|对木鸭的喜好=|语音=|性格标签=/|语音内容=这个，能做什么？}}</nowiki>\">这个，能做什么？</span>\n|| /\n| [[file:果盘.png|30px|果盘]][[果盘|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=阿蝉|喜好物品=果盘|对果盘的喜好=|语音=|性格标签=/|语音内容=好，一起吃。}}</nowiki>\">好，一起吃。</span>\n|| /\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|阿蝉|很舒服，但……楼主可以拉着我的手吗？水有点深……|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|阿蝉|啊！刚刚水动了一下......差点溅到眼睛。|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|阿蝉|想听我唱歌？|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|阿蝉|好。|头像=温泉-阿蝉-Q版}}\n{{旁白|【阿蝉喝下一杯果子露】}}\n{{对话|阿蝉|没有孟起叔的酒辣。|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|阿蝉|很好。|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|阿蝉|不能和楼主一起赢吗？|头像=温泉-阿蝉-Q版}}\n{{旁白|【我喝下一杯果子露。】}}\n{{对话|阿蝉|哎？是我罚了楼主酒吗？|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n<br>\n|}\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">为什么会想来泡温泉？</div>\n{{对话-头}}\n{{对话|我|为什么会想来泡温泉？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|阿蝉|名册上有我，而且楼主来了，我就来了。|头像=温泉-阿蝉-Q版}}\n{{对话|阿蝉|这样和楼主待在一起，很安心。|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>会用哪三个词形容自己？</div>\n{{对话-头}}\n{{对话|我|会用哪三个词形容自己？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|阿蝉|我……词……形容……|头像=温泉-阿蝉-Q版}}\n{{对话|阿蝉|……嗯……活泼……不对吗？家里人总这么说……|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>收到过最喜欢的礼物是什么？</div>\n{{对话-头}}\n{{对话|我|收到过最喜欢的礼物是什么？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|阿蝉|烤肉。|头像=温泉-阿蝉-Q版}}\n{{对话|阿蝉|哦哦，还有上次楼主遇刺后，文远叔送来的刺客人头。|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>是否对未来充满信心？</div>\n{{对话-头}}\n{{对话|我|是否对未来充满信心？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|阿蝉|不……人越来越多，楼里越来越吵……以后楼主每次外出，可以都带上我吗？|头像=温泉-阿蝉-Q版}}\n{{对话|阿蝉|啊，不包括江东。|头像=温泉-阿蝉-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

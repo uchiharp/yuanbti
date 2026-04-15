@@ -1,0 +1,3285 @@
+{
+  "title": "鸢记·山可崩/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "中年方士",
+    "亲卫",
+    "侍女",
+    "华佗",
+    "县尉",
+    "史子眇",
+    "司马徽",
+    "士兵",
+    "士官",
+    "妇人",
+    "姚盛",
+    "姚长老",
+    "孙矶",
+    "孙矶的声音",
+    "少年",
+    "山贼乙",
+    "山贼甲",
+    "工兵乙",
+    "工兵甲",
+    "左慈",
+    "左慈的声音",
+    "幼童",
+    "张仲景",
+    "我",
+    "杜营",
+    "燕乙",
+    "男人",
+    "百姓乙",
+    "百姓甲",
+    "翳部弟子",
+    "翳部弟子乙",
+    "翳部弟子甲",
+    "葛洪",
+    "蛾使甲",
+    "郭解",
+    "隐鸢女弟子",
+    "隐鸢弟子",
+    "隐鸢弟子甲",
+    "隐鸢长老",
+    "隐鸢阁侍者",
+    "雀使甲",
+    "饥民",
+    "饥民乙",
+    "饥民甲"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "雀使甲",
+      "text": "半个月了，每天都是这样的山路，什么时候才是个头啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使甲",
+      "text": "头像=蛾使",
+      "emotion": "想要头还不简单？昨天被山石砸到的监军，整个身子都没了，就剩个头。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "好了，少说几句，都看着路，小心落石。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "殿下，前方山路仍有落石，是否先勒马等候落石平息？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "还是尽快通过吧，此地不宜久留。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工兵甲",
+      "text": "头像=士兵",
+      "emotion": "又山崩了！快躲！别靠近山壁！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "殿下小心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "完了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工兵乙",
+      "text": "头像=副将",
+      "emotion": "这是……什么……我是出现幻觉了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工兵甲",
+      "text": "头像=士兵",
+      "emotion": "落石变成雪了？！仙人！是西蜀的仙人显灵了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "过来吧，已经安全了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊料到我今天会到？等很久了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "没有很久。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "……啊？明明从昨晚开始……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "抄经三千遍，你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "益州的山脉经常山崩，我记得从前也遇到过一次。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "益州地下有龙脉，常有地动。今年格外严重。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "上一次崩成这样，还是三百多年前了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "隐鸢阁的仙人，一直都在推演龙脉地动的规律，可有进展？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你觉得它有规律吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "天道无常，万事万物，不一定皆有规律。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你错了。万事万物，都有它的规律。无非是已被参透，还是未被参透。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "仙人是得道之人，也无法参透万物规律吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾连你都参不透，谈何万物？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好了，在前面的亭子歇息片刻吧。接下来，你想去广汉郡赈灾，还是回隐鸢阁？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "刚才收到了益州据点的传信，那边情况尚好。我们先去隐鸢阁吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "怎会如此？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "师尊，那是我以前住的寝殿吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "是。你还认得出？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "阁中已在计较重修之事。这段时间，你宿在云帝宫就是。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可是，云帝宫看上去也很惨，不像是还能住人的样子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "唔……那就随吾一同回梅墓闭关。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不要啊！我不想睡在那个光秃秃冷冰冰的山洞里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "万物芸芸各归其根<ref>僧宗密《原人论》：“万灵蠢蠢，皆有其本。万物芸芸，各归其根。未有无根本而有枝末者也。”</ref>，无形之物才能长久，不要被有形之物迷惑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可是我好不容易能回来长住……我们还是尽快把寝室修好吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "祸莫大于不知足，咎莫大于欲得<ref>老子《道德经》“罪莫大于可欲，祸莫大于不知足，咎莫大于欲得。故知足之足，常足矣。”</ref>，洞天有何不好？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你就是想要那个住不腻的寝宫。一时修不好的，放弃吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "洞天……洞天里太冷了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "………………师尊，我这几天不能受寒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……那确实太冷了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "所以我还是先住云帝宫，一边想办法修我以前住的寝殿，如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "隐鸢阁的效率太慢了，等这些神仙磨完，要几百年才能把我的寝殿修好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你想指挥？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "绣衣楼只修了一个月就修完了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "让我看看……地基好像没损毁，都柱的底座也……！！！师尊？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "不要太过担心，左君只是疲惫过度。但何时能醒，暂时还不可知。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "西蜀的龙脉有波动，引发山崩。他为了压制龙脉，耗费了许多力量。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "原来如此……多谢张医圣，我先陪着师尊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "翳部在山外还有事，本座先告退了，请。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "……临走前，有句话嘱咐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "隐鸢阁内部局势复杂……并不太平。你要小心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "小憩了片刻，已经天黑了啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "来人。传晚膳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子",
+      "text": "头像=美型文官",
+      "emotion": "殿下唤人？弟子在膳房中煎药，来得晚了些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你是何人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子",
+      "text": "头像=美型文官",
+      "emotion": "弟子是翳部的人，张首座交待了要盯着药的火候，弟子不敢怠慢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "劳烦你了。你可知宫中其他侍从去了何处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子",
+      "text": "头像=美型文官",
+      "emotion": "应是随张首座下山行医了。阁主一向不喜欢太多人伺候，殿内的侍从很少。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……我明白了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你下去吧，好好煎药，不要误了时辰。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "殿下，洗漱吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你是云帝宫的侍女？我没见过你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "以前的侍女在山崩中负伤了，我临时过来替她。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你把水盆、妆奁和食案都拿到寝殿来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "……可是……殿下不需要换晨服吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我在殿内换。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊是世外之人，百无禁忌，我不避讳，你更不必在意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "……是，我明白了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "殿下，那午膳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "一样，放在门口就好。再给我带一笼雀鸟过来，我一个人待着太闷了，想有些声响。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊？师尊，你没事了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……抱歉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "…………吾病了，抱歉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我会照顾你的，放心吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……不，你离开这里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "他们……会趁虚而入……离开……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "……终于打开了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "……广陵王不在吗？……只有左慈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "！！！是稻草……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……山道坍塌了，师尊还在昏迷，没办法带他离开。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "心纸君也失效了，看来隐鸢阁里有人对它做了禁锢的术……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢女弟子",
+      "text": "头像=平民女",
+      "emotion": "殿下！阁主醒了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯，他好多了。我带他去高处透透气。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢女弟子",
+      "text": "头像=平民女",
+      "emotion": "长老让医官去云帝宫了，想看看阁主的状况！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢女弟子",
+      "text": "头像=平民女",
+      "emotion": "殿下？殿下——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "…………！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "原来躲在上……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "咳咳……咳咳……师尊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢女弟子",
+      "text": "头像=平民女",
+      "emotion": "里面还有人吗？快出来！我们来救火了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢女弟子",
+      "text": "头像=平民女",
+      "emotion": "殿下，你没……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢长老",
+      "text": "头像=老年男",
+      "emotion": "左慈必死无疑，不必留广陵王，杀了他！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子甲",
+      "text": "头像=黑人影",
+      "emotion": "可是张仲景他们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢长老",
+      "text": "头像=老年男",
+      "emotion": "他们都被调走了，此地根本没有左慈的人！轻而易举！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢长老",
+      "text": "头像=老年男",
+      "emotion": "我真不明白，之前几次宫变是怎么失败的？仙的力量，将为我们所……唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……什么叫此地没有左慈的人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "本王，不是人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢长老",
+      "text": "头像=老年男",
+      "emotion": "唔……杀……给我杀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子甲",
+      "text": "头像=黑人影",
+      "emotion": "师父！火……你看火里！！！火里有人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢长老",
+      "text": "头像=老年男",
+      "emotion": "怎么可能？！他是装病引我们出来吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "妖祥，开阵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杜营",
+      "text": "头像=摊贩",
+      "emotion": "殿下！我是此次修葺工事的负责人，山水郎杜营。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杜营",
+      "text": "头像=摊贩",
+      "emotion": "啊哈哈哈！早就听说过阁主有个十全十美的弟子，今日还是第一次见！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "从前还未见过前辈呢，不知前辈在何处修行？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杜营",
+      "text": "头像=摊贩",
+      "emotion": "我们山水郎一派，平时都是四处云游、行侠仗义，很少回隐鸢阁的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杜营",
+      "text": "头像=摊贩",
+      "emotion": "听说隐鸢阁在山崩中损失惨重，大家都回来帮忙了。只是缺少建材，没法动工。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈别心忧，本王可自行出资，购买建材。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杜营",
+      "text": "头像=摊贩",
+      "emotion": "和谁买没关系，是运建材的路被堵住了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杜营",
+      "text": "头像=摊贩",
+      "emotion": "上山门有两条路。有一条能通车的大路，被山崩砸毁了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杜营",
+      "text": "头像=摊贩",
+      "emotion": "另一条是窄小步道，现在被姚长老的人看住，说是搬运危险，不许我们运建材。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "姚长老也太小心了……这样，我去找他谈谈，尽量开放步道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "左君，不是我们要刁难你的徒弟，实在是年轻人做事有欠考量。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "她希望你开放步道用来运建材，为何不行？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "本王的寝室被山石砸毁，本王自行出资修葺，为何不行？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "敢问殿下的建材从何处来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "从山下来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "通向阁内的山道损毁了，要从山下运建材，只能让人一担一担挑上来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "人都来给殿下运建材了，谁去修车道呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我可以从山下雇佣力夫，不占用楼内人力。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "哎呀，哎呀，左君，你听听！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾没听出什么异常。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "我们可是隐鸢阁，是仙门！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "且不说门内有多少天机，就说山路陡峭，万一民夫有死伤，算谁的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "姚长老这话，未免杞人忧天！蜀地的力夫惯是熟悉山路搬运的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "哎呀，左君，你再听听，年轻人气盛，不拿人命当命啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你说什……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "这话传出去，仙门的名声怎么办？你我的老脸往哪放？还有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好了，先到此打住。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你的担忧吾知晓了，吾会让她再斟酌此事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "师尊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "他分明就是没事找事，我修寝室，到底妨碍他什么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "他们是阁中的老人了，不必正面顶撞他。等清出那条车道，吾再调人帮你修。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "那要多久？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "两年……到五年吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……我不想下次回来，还赖在师尊的云帝宫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "云帝宫何处不好？你在隐鸢阁长大，十之三四待在云帝宫。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……史子眇说得对，孩子长大了，都喜欢一个人住……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不是！云帝宫哪里都好，可是……可是我就是替师尊不平！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "师尊明明是一阁之主，可那些老人仗着资历，什么都不愿听从……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你啊……学会拿吾当刀使了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……那师尊愿不愿意让我使一使呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……呵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "翳部每日都需将药材运上山，若你自己的路子走不通，便去问问张仲景。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "二十车建材混在一百车药草里，张首座能否令看守山门的使者将建材放进来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "看守步道的人说，不管运什么，都得去找姚长老开门条。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……张仲景，你是我师尊的副手，直属于阁主的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你帮我把东西弄上来，姓姚的若刁难你，自有我师尊给你做主。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "本座问心无愧，何须别人为我做主？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那更好说了！替我搬建材，没有伤到任何人，何必听姚长老的莫名规定？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "他的莫名规定，不止这一个。他还向左君提议，要将整个隐鸢阁迁回灵山。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "这些老人不喜欢隐鸢阁入世太深。运山外的东西进来，他们是不会同意的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "张首座，别忘了，你要药材。我对隐鸢阁这些勾心斗角没兴趣，你帮我，才有药材。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-欣喜",
+      "emotion": "一百车药材呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "……明日，本座替你去和姚盛交涉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "阁主，今天张首座出事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "他很少生事。怎么了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "张首座去向姚长老要搬运建材的许可，姚长老问张首座是否要参加重修寝室。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "张首座说是，姚长老说张首座有这样的心思，十分让人感动……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "所以他答应了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢弟子",
+      "text": "头像=黑人影",
+      "emotion": "所以他派张首座去帮山水郎和灰浆了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "师尊，张首座是你的副手，姚长老这是故意让你难堪吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好好说话，少来这套。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "帮吾传张仲景来。吾和他谈一下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "今日之事，你心中可有什么疑问？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "弟子心中确有疑问。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "今日，姚盛安排我去和灰浆。我试了七种比例，想找到最好的比例。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "找到了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "找到了。要加糯米浆，这样粘合才能坚固持久。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "没事了，你回去吧。你做事一向认真。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好了……拿你没办法。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "上山的路，还有第三条。只不过是野路，几乎难以行走，常年封闭。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "有路就能开路！我该去找谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "少见，少见，你这孩子竟然来找小仙谈生意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "你要用什么来换呢……是你这次带来的美人，还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "前辈不肯好好与我谈生意，我就将美人送去水镜先生处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "你啊，明明在打那条山路的主意，心里着急，嘴上还不肯服软。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那前辈想让我服什么样的软呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "姚盛那老东西嫌西蜀不好，想搬去灵山那鸟不拉屎的地方……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "只是小仙也嫌西蜀不好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "小仙喜欢广陵，你肯不肯割爱？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈请看，这一处如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "唔，还真大方……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈想挑哪处是哪处，小辈绝不皱眉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "嗯……就这一处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "成交！从此这里便是前辈的了。云雀，拿契约和文书来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "左君！说好割地给我，广陵王竟然只割了一块五步见方的地，哪有这样的道理？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "是前辈自己看错了舆图的例尺，怎么能怪我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚盛",
+      "text": "头像=黑人影",
+      "emotion": "左君，你可要评评理，广陵王居然私运建材上山！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "姚长老只说不让从那条步道运建材，又没说不许从其他路运建材上山！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "广陵王，左君在吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "张仲景，你终于来了！来帮我！这些人就是想通过修宫室这件事争权！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "不，本座是来汇报糯米浆添加的比例……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "长途跋涉，我有些累了………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "那就先休息吧，你休息的地方，已经收拾出来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "哎呀——这是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "幼童",
+      "text": "头像=路人小孩",
+      "emotion": "哇啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "这是谁的孩子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "兴许是西蜀山崩，史子眇从山外捡来的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "看来像是饿了……我带着孩子去寻史君吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢阁侍者",
+      "text": "头像=美型文官",
+      "emotion": "大事……出大事了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢阁侍者",
+      "text": "头像=美型文官",
+      "emotion": "见过左君，见过殿下……出大事了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "何事？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢阁侍者",
+      "text": "头像=美型文官",
+      "emotion": "事关仙门清誉，葛洪仙君请二位至议事堂一叙。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "葛洪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "非去不可吗？吾昨夜有些头痛，让她代吾去吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢阁侍者",
+      "text": "头像=美型文官",
+      "emotion": "真的是大事！各位长老、天师、天官都去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "葛洪，你大清早便要众人聚在此处，究竟所为何事？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "左君知道，我是出了名的疼徒弟。徒弟看到不得了的事，我要为他做主。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "徒儿，上来吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "我要告发翳部首座·张仲景秽乱仙门！不是好人！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "阁规森严，不得信口雌黄。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "我要是有半句谎话——呃……我看一眼提示……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "天打雷劈。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姚长老",
+      "text": "头像=黑人影",
+      "emotion": "雷劈是小概率的事，谁又说的准，岂能以此赌誓？看来华佗不是真心发誓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "那我用全家的性命起誓……不对，我家里死到没人了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "那我就用张仲景全家的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "我家也没人了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "啊对，你家也都没了。那就用我师父……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "小仙的家人都没有了哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……别看吾。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "怎么搞的？满堂的人都凑不齐一对父母？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "我用水镜先生司马徽的全族起誓！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马徽",
+      "text": "头像=司马徽",
+      "emotion": "咳咳咳咳咳咳！为什么是我？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "咳！言归正传！华佗，你说张仲景秽乱仙门，那奸夫是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "是我！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "师尊是不是头疼？我给你揉揉……啊，华佗！张首座如何与你秽乱仙门？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "我与张仲景看到别人秽乱仙门！见者有份。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "好了，请他下去吧，别再说了，吾不是很在乎……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "小仙在乎！隐鸢阁内部竟如此藏污纳垢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "华佗，说说细节！你们看到谁和谁在秽乱仙门？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "你与水镜先生啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马徽",
+      "text": "头像=司马徽",
+      "emotion": "咳咳咳咳咳……噗……咳咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "兔子，他们两个在看两只兔子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "华佗，到底是谁教你这样说话的？你连秽乱的“秽”怎么写都不知道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗",
+      "emotion": "我当然会写啊！会写的“会”！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……嗯。若无旁事，今日就散了吧，吾真的不想再听……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "事涉仙门清誉，左君，还是仔细些好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "葛洪前辈不跟水镜先生回去看兔子吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "看完我的人证再说！来人，把人证带上来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "郭解，你虽是隐鸢阁除名弟子，但我知道，你对隐鸢阁一片忠心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "你看见了什么，听到了什么，现在都可说清楚。若不否认，便是默认。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "张仲景秽乱仙门，奸夫是华佗，此事可是你亲眼所见？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "你也知道阁规森严，决心站出来检举二人，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "左君，郭解全都默认了。人证在此，左君还要偏袒张仲景吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾头痛，散了吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-欣喜",
+      "emotion": "可是我还没听够，我不想走……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "…………………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "等等，我还有证据！来人！把证据抱上来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "这个孩子，就是张仲景秽乱仙门的证据。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "……嗯？又说到我了吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "……为什么是兔子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "是啊，师父，为什么张仲景能生出兔子？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=张仲景",
+      "emotion": "我是人，不可能生出兔子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "这么多人里只有我师父和兔子沾边，难道兔子是我师父生的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子甲",
+      "text": "头像=黑人影",
+      "emotion": "原来如此，不愧是葛君前辈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "师尊，葛君前辈生了一窝兔子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……吾的头好痛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "人与人不可能生出兔子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子甲",
+      "text": "头像=黑人影",
+      "emotion": "听闻葛洪仙君的原身是兔子，会不会这样就可以生出兔子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "风马牛不相及，马与牛不会相诱，人与兔子也不可生出兔子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子乙",
+      "text": "头像=黑人影",
+      "emotion": "道理我都懂，所以为什么葛洪仙君与水镜先生会生出兔子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "人与人、人与兔子都不能生出兔子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子甲",
+      "text": "头像=黑人影",
+      "emotion": "所以为什么他们能生出这么多颜色不同的兔子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "他们不能生出兔子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "将兔子都带走，今天之事就到这里吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "左君！此事若不一探究竟，隐鸢阁仙门声誉何在？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……你还想如何一探究竟？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "将兔子血与张仲景的血刺在同一器皿内，滴血认亲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "谁的血都能跟兔子的血相融。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子甲",
+      "text": "头像=黑人影",
+      "emotion": "所以葛洪仙君与水镜先生的血也可以和兔子相融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "够了！——张仲景，此事容不得你狡辩！史子眇，将盆拿来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "来了来了……啊，孩子们都在呀？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "史君好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "稚川让我来送盆，是要做什么呀？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "滴血认亲！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "噢噢！好热闹，隐鸢阁好久没有这么热闹了。左君脸色怎么不好？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……头痛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "我不可能生出兔子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子乙",
+      "text": "头像=黑人影",
+      "emotion": "兔子是葛洪仙君和水镜先生的，是不是应该先验他们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "有道理！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "逆徒！你敢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "师父昨夜说，不管遇到什么阻拦，一定要做成此事，坐实张仲景秽乱仙门。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "正是！华佗，事态紧急，切不可违逆师父。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……别煽风点火。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "广陵王，你听见你师父的话了吗？不要煽风点——啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗",
+      "emotion": "啊！相融了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好了。葛君将这窝兔子带出去好生将养，散了吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "不可能！这水有问题，滴进谁的血都会相融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "但是……华佗的血没有相融欸！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "华佗常年服用巫血，血液有异，不会溶于水，也不会与常人血液相融。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "常年服用巫血的人很罕见，你们一定要仔细观看。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "翳部弟子乙",
+      "text": "头像=黑人影",
+      "emotion": "是，可是弟子还是不明白，为何葛君会生出兔子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "这水有问题！你们来看，盆中不是水，盆中是水银。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "……咦，原来是水银？是我倒错了么。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……看不清，好像是水银。让年轻人来看看吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "幼童",
+      "text": "头像=路人小孩",
+      "emotion": "哇——！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "哪里来的孩子呀？这么小。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "今日清晨在门前捡的，原来不是史君带回来的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "交给我吧，小孩子孤零零的太可怜了……孩子，不哭，我给你做点心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾的头好痛……闹够了就全散了吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "且慢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "——方天水镜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "我原本不想拿出此物，但如今要自证清白，也顾不得那么多了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "秽乱仙门者，另有其人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=华佗",
+      "emotion": "这是秽乱之事吗？等等，大家都看到了？师父！我要告发所有人秽乱仙门！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "到此为止。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "今日之事，吾不追究，再有不愿善罢甘休者，视同此镜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "先去郡城吧。赈灾要紧，我也能快些回朝中复命。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好。吾陪你去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工兵甲",
+      "text": "头像=士兵",
+      "emotion": "还有活口！快来帮忙！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工兵乙",
+      "text": "头像=副将",
+      "emotion": "不行！石头上有泥沙，太滑了，搭把手，我扛不住了——呃——！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "求求你，救救……孩子……孩子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "随行的医官人数完全不够……益州本地的医者和方士呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "太守也死了，几个文官都不知该如何是好。我们需要本地士族协助召集医官。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "士族的宅邸坚固，家中也有存粮和药品。灾难发生后，他们大多选择了闭户。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "贵人，求你救救她，求你救救我女儿！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "你、你是仙人，我看到了……求你把我的命拿走……让孩子活着，求求你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "师尊，她……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……她走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "世上没有以命换命的术法。请节哀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "仙人，你把我也送走吧……她还那么小，路上不能没有人照顾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你已经尽力了。该休息片刻了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "从雒阳一路赶来，路上可还顺利？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "还好……因为灾情严重，驿馆守官都给了我最快的车马。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "眼下青乌一片，你在路上没歇息好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没办法，毕竟是赶路嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "天晚了。大半日滴水未进，你该去用膳，用完早些歇息。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……我吃不下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "史书上写“山崩杀人，死十万”，奏书上也这么写，大家都这么写，我也习以为常。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "但是真正亲眼看到了，还是感到惊骇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "上位者怀有仁心，就会有不忍；有不忍之心，就会行不忍之政。<ref>《孟子·公孙丑上》：“人皆有不忍人之心。先王有不忍人之心，斯有不忍人之政矣。以不忍之心，行不忍之政，治天下可运之掌上。”</ref>",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "人活在乱世，必须被当作人来对待过，才会有活下去的念头。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……我真的能让他们想继续活下去吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "很多人都因为你而活了下去，不必怀疑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "去休息吧。他们应该已经将房间收拾好了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "今天的事务还是很多啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "今日从何处开始？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "县尉说，昨日有饥民哄抢施粥棚，担心今日还会故态复萌。我想带人去看看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民",
+      "text": "头像=难民",
+      "emotion": "什么时候才施粥啊？你们是不是把粮食私藏了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "头像=男文人",
+      "emotion": "殿下来了！殿下要替我们做主！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……所以，从后天开始就断粮了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "县尉",
+      "text": "赈灾粮已入蜀，但是山路坍塌，难以运输。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "县尉",
+      "text": "城里有个叫吴送的粮商，本来答应卖粮给我们，但突然出了事故。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "事故？什么事故？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "县尉",
+      "text": "他女儿被山贼绑架，山贼向他勒索了一大批的粮食……所以，他没粮食能卖了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "……你信他？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "县尉",
+      "text": "殿下，他、他女儿都被绑架了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "山崩之后，本地大户都闭户不出、严防死守，无论昼夜都有府兵把守。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "而山贼平时根本不敢进城，如何知道他府中的布局？如何突破府兵？可见是扯谎！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你信他？是真的信他了，还是说，你和他之间……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "隐鸢阁的义粮到了，快要开始施粥了，出去看看吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "方才在帐中，你失态了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……一时情急，没能权衡利弊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "人皆是逐利的。他就算跟吴氏勾结，故意囤积粮食抬高粮价，也是常情。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你若是揭穿他，手上可有能顶替他的官员？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "所以我理解师尊方才叩案之举，没有再说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士兵",
+      "text": "头像=西凉军丁",
+      "emotion": "混账东西！你居然敢偷粮？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年",
+      "text": "头像=少年",
+      "emotion": "放开我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士兵",
+      "text": "头像=西凉军丁",
+      "emotion": "城中有令，趁乱偷抢者杀无赦，把他拖下去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年",
+      "text": "头像=少年",
+      "emotion": "杀我可以，我的尸体还能吃，你把我杀了，分给我的弟弟妹妹吃吧！求你了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民甲",
+      "text": "头像=难民",
+      "emotion": "那不是小燕乙吗？他也是饿得不行了吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民乙",
+      "text": "头像=黑人影",
+      "emotion": "不是都说吴送的粮给了山贼吗，你们去杀了山贼，不就有粮了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "灾后人心浮动，极易生乱。若百姓变乱民，你和你的工兵够他们吃几口？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可他还是个孩子。孩子就是这样，饿了就会找吃的。他没有错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "就算百姓变乱民，乱民也没有错。错的是贪污义粮的官员，是囤积居奇的大户。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "但是，本王早已下过严令，谁敢趁乱偷盗，被抓住就是死罪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "削发代牺牲，你就当受过死罪了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "罪人已死。来人，调集附近兵马，围剿山贼。你也一起加入。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "燕乙",
+      "text": "头像=少年",
+      "emotion": "啊……是！是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊看出了什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "位在东南，不见天日。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "不见天日？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "燕乙",
+      "text": "头像=少年",
+      "emotion": "我记得有一伙山贼盘踞在四顶山，贼寨在山谷底下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "燕乙",
+      "text": "头像=少年",
+      "emotion": "从前吴云姐姐跟我们说过四顶山谷下的贼寨，但大家都以为是编的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "吴云？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "燕乙",
+      "text": "头像=少年",
+      "emotion": "就是粮商吴送的女儿！吴送为富不仁，可吴云姐姐对我们都很好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "她为何知道贼寨的事？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "她可是富商家的女公子……燕乙，你带路，带我们去四顶山谷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "燕乙",
+      "text": "头像=少年",
+      "emotion": "就是这了……不过我不知道贼寨的入口在哪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "山谷下确实有火光，还有炊烟的味道。士官，能派斥候去找入口吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "不必。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "有虫子！好多虫子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼乙",
+      "text": "头像=山贼乙",
+      "emotion": "快跑！有妖怪啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士官",
+      "text": "头像=副将",
+      "emotion": "那边就是贼寨的入口！给我杀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "怎么有官兵？！是吴送反悔了吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼乙",
+      "text": "头像=山贼乙",
+      "emotion": "肯定是他反悔了！混账！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "看起来吴送、县尉、山贼，三方是勾结在一起的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "别打了，别打了！我们投降！粮袋就在那，我们没动过！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "真的都在这……工官，去调力夫和货车，我们要尽快把粮食运回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "燕乙",
+      "text": "头像=少年",
+      "emotion": "等一下！吴云姐姐呢？他们不是说姐姐被绑架了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "这里没有其他活人了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "那、那个女人……她、她那天藏在运粮的车里过来的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "她想把粮食偷回去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "燕乙",
+      "text": "头像=少年",
+      "emotion": "然后呢？你们……你们对姐姐做了什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "不关我的事！粮食是吴送亲自送来的，他见那女的从车里钻出来，两人吵了起来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "她应该想让父亲把粮食送回城里。那吴送呢？他是把女儿强行抓回去了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "是这里，对吗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "……对……对……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "头像=山贼甲",
+      "emotion": "吴送拿米袋捂死了她……然后……把她埋在这了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "死者众多，大灾之后易有瘟疫。我担心驱疫的药草供应不上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "莫要离山侧太近，仔细落石。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "都说仙人乘风上九霄，扶摇九万里。师尊，仙人真的能飞吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "可以。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "飞飞看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不行。开启阵法，容易引发新的山崩。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "路也太难走了，运药材的车要怎么……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "…………我……在哪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "别动。你头部受了伤。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你坠落崖下，吾勉强护住了你。有人途经崖底，带吾们到了一处营地。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾已用术法将你的五脏复位，还须再躺几日才能起身。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年方士",
+      "text": "头像=贵族中年男",
+      "emotion": "伤者醒了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你来做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年方士",
+      "text": "头像=贵族中年男",
+      "emotion": "啊我、我来看看伤者有没有什么需要……我拿了些止血的药汤！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "拿出去。她没事了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……师尊……他是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙矶",
+      "text": "头像=贵族中年男",
+      "emotion": "我叫孙矶，是个云游的方士。你的伤还要休养，就在我这安心住下吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓甲",
+      "text": "头像=黑人影",
+      "emotion": "放药了！能动的来这边排队，不能动的别急，一会挨床送。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓乙",
+      "text": "头像=黑人影",
+      "emotion": "不许偷吃干粮，喝完药半个时辰后才能吃东西！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓甲",
+      "text": "头像=黑人影",
+      "emotion": "欸？那个伤者也能起身了！快，来喝点水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "多谢……各位都住在附近吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓乙",
+      "text": "头像=黑人影",
+      "emotion": "是啊，一山崩，什么都没了，还好有孙神仙收留我们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "怎么出来了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "来了蜀地这么久，都没见过这么好的太阳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "晒一会就回去，你刚能起身，不能在外面待太久。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "今夜好好休息。吾明天傍晚便带你回城中。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "城中的众人肯定急疯了，是要尽快回去了……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好了，进去休息吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊，孙神仙回来了，我想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾代你谢过他了。风大了，回去罢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……师尊，你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "吾无事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈的声音",
+      "text": "框=左慈",
+      "emotion": "你还有什么遗言要留下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙矶的声音",
+      "text": "我知道早有这一天。遗言……就不必了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈的声音",
+      "text": "框=左慈",
+      "emotion": "一己之私，百条人命。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈的声音",
+      "text": "框=左慈",
+      "emotion": "你的死罪难免，但仍有善念，吾可让你无痛无苦地走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙矶的声音",
+      "text": "……既然如此，多谢左君慈悲。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙矶的声音",
+      "text": "……那么，是今夜吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……该睡觉了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "师尊，他……和你有恩怨吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "我的腿很疼，疼得睡不着。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "躺回去，吾来看一下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……是受寒了。把这个药吃了，再喝些安神汤，好好休息。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "隐鸢阁有许多往事……不堪的往事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "这些不堪与你无关。不必挂怀",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "……师尊，一个人的功过，到底应该如何评定呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我不过问他从前的罪行，只是他如今也救了许多人，也救了我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "因为他救了你，所以吾没有立刻杀他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那被他救了的那些人，和从前被他害死的那些人，他们的性命，又要如何权衡？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你今夜想同吾论道吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我许久没和师尊论道了。从前，我们真的讨论过人命的价值。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "一条命和两条命，哪边比较贵重？如果是两条命，那生命就是有价的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可如果生命有价，那么世间所有的决断，都应该遵从多数的利益。可世道又不是这样的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "“价”又是什么？你想用什么来作为衡量人命的价？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "这是无道之道，故而圣人说，天地不仁，以万物为刍狗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "在道之中，万物无贵贱，无价格，不生不灭。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "既然万物在道法之下不生不灭，师尊今日杀灭他，杀灭的又是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "诡辩。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可是师尊杀灭他，被他收留的人失去照拂，死路一条。师尊是否也杀灭了他们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "所以，万物无贵贱。他们的生死，只是一股又一股“道”的涌动。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "既然万物无贵贱，师尊为何没在见到他的时候立刻杀他？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "因为他救了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我赢了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "是，你赢了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "看看在他改过自新的份上，等流民安置完，吾会将他带回隐鸢阁，关进思过洞。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……万物无贵贱，呵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "有些人，终究还是凌驾于万物之上的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我担心山崩毁坏堤坝，引发洪水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "这次山崩如此严重，古蜀国的堤坝竟然没太多磨损。真是了不起。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "因为它们上面凝聚着仙人的术。古蜀国的仙人，杜荆子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我读过她的传说。据说杜荆子喜欢古蜀国的的山水，定居蜀地，很受子民爱戴。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "她时常施用术法帮助子民，后来杜荆子在本地仙解，魂归此地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "她的确在此处仙解。风中还能感应到她的术。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "真的？如何能感应到……等等，师尊，船为什么在江面打转？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不对——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾在此处，莫要担忧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "心纸君都不能用了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "此处或许有阵法禁制。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "师尊，这是何处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "山崩引发了地动，江面出现漩涡，将吾们吸入了江下的空洞。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你昏迷的时候，吾查看了附近情况。这里应是古蜀国的遗迹。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……你声音不对劲，你受伤了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不必担心吾。退后些，吾要试着解开术的禁制。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你待在这，是不是比我还要难受？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "不必担心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这里的术，对仙人的伤害很大吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "这次，你不羡慕仙人的力量了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "大部分凡人都羡慕仙人之力，比如说，古蜀国的国主。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "杜荆子庇护他的子民，他会羡慕，也是理所当然。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "只是，羡慕会渐渐地变质。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "是咒语……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "嗯，你还记得古巫的咒语，吾很欣慰",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可是，这个咒语……是囚禁仙人的咒语。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "建造这间石室的人，在借天地之力，将仙人囚禁在此地？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "这里就是所谓的……杜荆子仙解之地。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "她被活活囚禁至死。她的仙力也永远留在了古蜀国，为国主取用。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "我们得出去，师尊不能留在这种地方！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你很容易离开——只要杀了吾，囚室就会放你走。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾死后，囚室中的术会将你视作来取用仙力的国主，解除禁锢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你，带刀了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我不会这样做！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "没关系，吾带了。只是怕吾的兵刃你用不惯……啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……吾说笑的。你来益州后，一直闷闷不乐……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不好笑！这个笑话一点都不好笑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好，吾以后不说了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "抱紧吾。留在这里的术已经被削弱得差不多了，准备离开吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "出口打开了？在哪里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "哪里都是。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这又是个不好笑的笑话吗？哈哈哈……可是又有点好笑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "无一物……开阵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……………………师尊……我们……出来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "是，出来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "你下次……可以先提醒我一下吗？比如……比如整条江水都会被抽干……之类的……"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "分类鸢记"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%B8%A2%E8%AE%B0%C2%B7%E5%B1%B1%E5%8F%AF%E5%B4%A9/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:10:23.237327",
+  "raw_wikitext": "{{面包屑|活动剧情|男主鸢记|左慈-鸢记}}\n{{JS|Qiantao.js}}\n{{对话-头}}\n{{旁白|【西蜀山道】}}\n{{对话|雀使甲|半个月了，每天都是这样的山路，什么时候才是个头啊……}}\n{{对话|蛾使甲|想要头还不简单？昨天被山石砸到的监军，整个身子都没了，就剩个头。|头像=蛾使}}\n{{对话|亲卫|好了，少说几句，都看着路，小心落石。|头像=帅武将}}\n{{对话|亲卫|殿下，前方山路仍有落石，是否先勒马等候落石平息？|头像=帅武将}}\n{{对话|我|还是尽快通过吧，此地不宜久留。|头像=广陵王-摇头}}\n{{旁白|近日西蜀山崩，我奉命至益州赈灾。眼前的蜀道蜿蜒，仿佛巨蟒盘山。}}\n{{对话|工兵甲|又山崩了！快躲！别靠近山壁！|头像=士兵}}\n{{对话|亲卫|殿下小心！|头像=帅武将}}\n{{旁白|天色乍黑，一块巨大的山石转瞬落了下来，直直冲我们砸落——}}\n{{对话|亲卫|完了！|头像=帅武将}}\n{{对话|我|……！|头像=广陵王-微笑}}\n{{对话|工兵乙|这是……什么……我是出现幻觉了吗……|头像=副将}}\n{{对话|工兵甲|落石变成雪了？！仙人！是西蜀的仙人显灵了！|头像=士兵}}\n{{旁白|若干细碎的冰雪缓缓飘下。一道雪白的身影伫立前方，蝶影正和雪影一起消散……}}\n{{对话|左慈|过来吧，已经安全了。}}\n{{对话|我|师尊料到我今天会到？等很久了吗？|头像=广陵王-微笑}}\n{{对话|左慈|没有很久。}}\n{{对话|隐鸢弟子|……啊？明明从昨晚开始……|头像=黑人影}}\n{{对话|左慈|抄经三千遍，你。}}\n{{旁白|弟子一脸欲哭无泪；我挽住师尊的手，和他一起走向前方……}}\n{{旁白|【益州平原】}}\n{{对话|我|益州的山脉经常山崩，我记得从前也遇到过一次。|头像=广陵王-微笑}}\n{{对话|左慈|益州地下有龙脉，常有地动。今年格外严重。}}\n{{对话|左慈|上一次崩成这样，还是三百多年前了。}}\n{{对话|我|隐鸢阁的仙人，一直都在推演龙脉地动的规律，可有进展？|头像=广陵王-严肃}}\n{{对话|左慈|你觉得它有规律吗？}}\n{{对话|我|天道无常，万事万物，不一定皆有规律。|头像=广陵王-摇头}}\n{{对话|左慈|你错了。万事万物，都有它的规律。无非是已被参透，还是未被参透。}}\n{{对话|我|仙人是得道之人，也无法参透万物规律吗？|头像=广陵王-微笑}}\n{{旁白|左慈抬手，将我不知何时落下的碎发别在我耳后。宽广的袖襟内，隐约有白梅的香气。|}}\n{{对话|左慈|吾连你都参不透，谈何万物？}}\n{{对话|左慈|好了，在前面的亭子歇息片刻吧。接下来，你想去广汉郡赈灾，还是回隐鸢阁？}}\n\n{{嵌套分歧|头}}\n{{嵌套分歧|隐鸢阁|1}}\n{{嵌套分歧|广汉郡|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|刚才收到了益州据点的传信，那边情况尚好。我们先去隐鸢阁吧。|头像=广陵王-严肃}}\n\n{{旁白|【隐鸢阁】}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|…………|头像=广陵王-严肃}}\n{{对话|我|怎会如此？！|头像=广陵王-惊讶}}\n{{旁白|隐鸢阁，成了一片废墟。}}\n{{旁白|除了几间老宫室还在，其他的地方，几乎被夷为平地。}}\n{{对话|我|师尊，那是我以前住的寝殿吗……|头像=广陵王-严肃}}\n{{对话|左慈|是。你还认得出？}}\n{{对话|左慈|阁中已在计较重修之事。这段时间，你宿在云帝宫就是。}}\n{{对话|我|可是，云帝宫看上去也很惨，不像是还能住人的样子……|头像=广陵王-严肃}}\n{{对话|左慈|唔……那就随吾一同回梅墓闭关。}}\n{{对话|我|不要啊！我不想睡在那个光秃秃冷冰冰的山洞里！|头像=广陵王-摇头}}\n{{旁白|——洞天“梅墓”，师尊常年闭关的山洞……除了山洞，别无一物。}}\n{{旁白|左慈带着我向洞天走去，不知为什么，带着一种一往无前绝不回头的气势。}}\n{{对话|左慈|万物芸芸各归其根<ref>僧宗密《原人论》：“万灵蠢蠢，皆有其本。万物芸芸，各归其根。未有无根本而有枝末者也。”</ref>，无形之物才能长久，不要被有形之物迷惑。}}\n{{对话|我|可是我好不容易能回来长住……我们还是尽快把寝室修好吧！|头像=广陵王-严肃}}\n{{对话|左慈|祸莫大于不知足，咎莫大于欲得<ref>老子《道德经》“罪莫大于可欲，祸莫大于不知足，咎莫大于欲得。故知足之足，常足矣。”</ref>，洞天有何不好？}}\n{{对话|左慈|你就是想要那个住不腻的寝宫。一时修不好的，放弃吧。}}\n{{对话|我|洞天……洞天里太冷了！|头像=广陵王-难过}}\n{{对话|我|………………师尊，我这几天不能受寒。|头像=广陵王-难过}}\n{{旁白|左慈停下了脚步，沉思片刻。}}\n{{对话|左慈|……那确实太冷了。}}\n{{对话|我|所以我还是先住云帝宫，一边想办法修我以前住的寝殿，如何？|头像=广陵王-点头}}\n{{旁白|左慈神色平静，盯着我看了许久，然后垂下了双眸。}}\n{{对话|左慈|好。}}\n{{旁白|心理|终于说服师尊了……接下来就是修寝殿！}}\n{{旁白|心理|要重修寝室，我准备——}}\n\n{{嵌套分歧|头}}\n{{嵌套分歧|查看寝室废墟|1}}\n{{嵌套分歧|立刻着手修建|2}}\n{{嵌套分歧|有困难先睡觉|3}}\n{{嵌套分歧|尾}}\n\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|我拽着左慈的袖角向废墟走去。}}\n{{对话|我|隐鸢阁的效率太慢了，等这些神仙磨完，要几百年才能把我的寝殿修好。|头像=广陵王-严肃}}\n{{对话|左慈|你想指挥？}}\n{{对话|我|绣衣楼只修了一个月就修完了！|头像=广陵王-点头}}\n{{对话|我|让我看看……地基好像没损毁，都柱的底座也……！！！师尊？！|头像=广陵王-惊讶}}\n{{旁白|毫无预兆，师尊昏了过去，摔倒在地。}}\n\n{{旁白|【云帝宫】}}\n{{对话|张仲景|不要太过担心，左君只是疲惫过度。但何时能醒，暂时还不可知。}}\n{{对话|张仲景|西蜀的龙脉有波动，引发山崩。他为了压制龙脉，耗费了许多力量。}}\n{{对话|我|原来如此……多谢张医圣，我先陪着师尊。|头像=广陵王-严肃}}\n{{对话|张仲景|翳部在山外还有事，本座先告退了，请。}}\n{{对话|我|请。|头像=广陵王-微笑}}\n{{旁白|张仲景走向殿门，不知为何，又停下脚步。}}\n{{对话|张仲景|……临走前，有句话嘱咐。|头像=张仲景}}\n{{对话|张仲景|隐鸢阁内部局势复杂……并不太平。你要小心。|头像=张仲景}}\n\n{{旁白|【云帝宫】}}\n{{对话|我|小憩了片刻，已经天黑了啊。|头像=广陵王-阴沉}}\n{{对话|我|来人。传晚膳。|头像=广陵王-微笑}}\n{{旁白|我的声音回荡在云帝宫钟，无人应答。}}\n{{旁白|不知何时起，宫殿中空无一人。过了一会，响起了脚步声。}}\n{{对话|翳部弟子|殿下唤人？弟子在膳房中煎药，来得晚了些。|头像=美型文官}}\n{{对话|我|你是何人？|头像=广陵王-严肃}}\n{{对话|翳部弟子|弟子是翳部的人，张首座交待了要盯着药的火候，弟子不敢怠慢。|头像=美型文官}}\n{{对话|我|劳烦你了。你可知宫中其他侍从去了何处？|头像=广陵王-微笑}}\n{{对话|翳部弟子|应是随张首座下山行医了。阁主一向不喜欢太多人伺候，殿内的侍从很少。|头像=美型文官}}\n{{对话|我|……我明白了。|头像=广陵王-点头}}\n{{对话|我|你下去吧，好好煎药，不要误了时辰。|头像=广陵王-微笑}}\n{{旁白|他应了一声，退了下去。}}\n{{旁白|我注视着他离去的方向，眉头微微皱起。}}\n{{旁白|心理|这个时辰煎药……煎完了就是子时，谁会在子时喝药？}}\n{{旁白|我挪近师尊的榻边，轻轻握住了他的手，一夜未眠。}}\n\n{{旁白|【云帝宫】}}\n{{旁白|心理|……天亮了。}}\n{{对话|侍女|殿下，洗漱吧。|头像=侍女}}\n{{对话|我|你是云帝宫的侍女？我没见过你。|头像=广陵王-严肃}}\n{{对话|侍女|以前的侍女在山崩中负伤了，我临时过来替她。|头像=侍女}}\n{{对话|我|你把水盆、妆奁和食案都拿到寝殿来。|头像=广陵王-严肃}}\n{{对话|侍女|……可是……殿下不需要换晨服吗？|头像=侍女}}\n{{对话|我|我在殿内换。|头像=广陵王-严肃}} \n{{旁白|侍女目光中露出诧异，在我和左慈之间转了转。}}\n{{对话|我|师尊是世外之人，百无禁忌，我不避讳，你更不必在意。|头像=广陵王-微笑}}\n{{对话|侍女|……是，我明白了。|头像=侍女}}\n{{旁白|片刻后，她把洗漱用具和妆奁一样一样搬进来，我示意她不必侍奉，关门退下即可。}}\n{{对话|侍女|殿下，那午膳……|头像=侍女}}\n{{对话|我|一样，放在门口就好。再给我带一笼雀鸟过来，我一个人待着太闷了，想有些声响。|头像=广陵王-微笑}}\n{{旁白|她退下了，但是，之后没有再送什么雀鸟过来。}}\n{{旁白|心理|是忘了。还是……}}\n{{旁白|心理|——还是不想给我用来试毒的动物？}}\n{{对话|左慈|唔……|头像=左慈}}\n{{对话|我|师尊？师尊，你没事了吗？|头像=广陵王-微笑}}\n{{对话|左慈|……抱歉……|头像=左慈}}\n{{对话|左慈|…………吾病了，抱歉。|头像=左慈}}\n{{对话|我|我会照顾你的，放心吧。|头像=广陵王-微笑}}\n{{对话|左慈|……不，你离开这里……|头像=左慈}}\n{{对话|左慈|他们……会趁虚而入……离开……|头像=左慈}}\n{{旁白|他太过虚弱，又合上双眼，沉睡下去……}}\n\n{{旁白|【云帝宫】}}\n{{旁白|深夜。}}\n{{旁白|有人试图从外面推开殿门。}}\n{{旁白|他有钥匙，钥匙在锁里疯狂扭动，却无法推开门。因为，我用门闩从里面卡死了门。}}\n{{旁白|片刻后……}}\n{{对话|隐鸢弟子|……终于打开了……|头像=黑人影}}\n{{对话|隐鸢弟子|……广陵王不在吗？……只有左慈……|头像=黑人影}}\n{{旁白|男人走到榻边，突然拔刀刺入被褥——}}\n{{对话|隐鸢弟子|！！！是稻草……|头像=黑人影}}\n{{旁白|他没有任何犹豫，立刻离开了云帝宫寝殿；我蹲在房梁上，静静看着他离开……}}\n\n{{旁白|【隐鸢阁】}}\n{{对话|我|……山道坍塌了，师尊还在昏迷，没办法带他离开。|头像=广陵王-严肃}}\n{{对话|我|心纸君也失效了，看来隐鸢阁里有人对它做了禁锢的术……|头像=广陵王-严肃}}\n{{对话|隐鸢女弟子|殿下！阁主醒了吗？|头像=平民女}}\n{{对话|我|嗯，他好多了。我带他去高处透透气。|头像=广陵王-点头}}\n{{对话|隐鸢女弟子|长老让医官去云帝宫了，想看看阁主的状况！|头像=平民女}}\n{{对话|隐鸢女弟子|殿下？殿下——|头像=平民女}}\n{{旁白|我装作没听见，继续带师尊待在山势高处，确认下方的地形。}}\n{{旁白|心理|隐鸢阁内，有人想杀师尊。}}\n\n{{旁白|【云帝宫】}}\n{{旁白|心理|……好困}}\n{{旁白|心理|想睡觉……第三天了吗？我最高的记录，是几天不吃不睡？}}\n{{对话|我|……|头像=广陵王-阴沉}}\n{{对话|我|…………！|头像=广陵王-惊讶}}\n{{旁白|过度的困倦，让我险些在瞬间睡下去，跌落房梁——}}\n{{旁白|这时，一个人影闯入了云帝宫，听见了上方的声响！}}\n{{对话|隐鸢弟子|原来躲在上……呃！|头像=黑人影}}\n{{旁白|不待他说完，我自房梁跃下，一刀解决此人；突然，落雨一般的声音在殿外响起……}}\n{{旁白|紧接着便是极其呛鼻的火油味！}}\n{{旁白|心理|他们居然纵火！}}\n{{旁白|他们不知以何物助燃，火势大得骇人。横梁被烧断，接二连三砸下——}}\n{{对话|我|咳咳……咳咳……师尊！|头像=广陵王-微笑}}\n{{旁白|心理|师尊还在房梁上！}}\n{{对话|隐鸢女弟子|里面还有人吗？快出来！我们来救火了！|头像=平民女}}\n\n{{旁白|【隐鸢阁】}}\n{{旁白|我从烟雾中冲出，火场外人影重重，都诧异地看着我。}}\n{{对话|隐鸢女弟子|殿下，你没……呃……|头像=平民女}}\n{{旁白|她话音未落，我的短刀已没入她腹部；她倒落在地，松开了手里的匕首。}}\n{{对话|隐鸢长老|左慈必死无疑，不必留广陵王，杀了他！|头像=老年男}}\n{{对话|隐鸢弟子甲|可是张仲景他们……|头像=黑人影}}\n{{对话|隐鸢长老|他们都被调走了，此地根本没有左慈的人！轻而易举！|头像=老年男}}\n{{对话|隐鸢长老|我真不明白，之前几次宫变是怎么失败的？仙的力量，将为我们所……唔噗！|头像=老年男}}\n{{旁白|我丢开和杀手搏斗中卷刃的短刀，冲到他面前，给了他一拳。}}\n{{对话|我|……什么叫此地没有左慈的人？|头像=广陵王-严肃}}\n{{对话|我|本王，不是人吗？|头像=广陵王-严肃}}\n{{对话|隐鸢长老|唔……杀……给我杀……|头像=老年男}}\n{{对话|隐鸢弟子甲|师父！火……你看火里！！！火里有人！|头像=黑人影}}\n{{对话|隐鸢长老|怎么可能？！他是装病引我们出来吗？！|头像=老年男}}\n{{旁白|所有人都愕然望着烈火中的云帝宫。}}\n{{旁白|火光冲天，一个人影慢慢走出火海。烈火淬过他的银发和皮肤，仿佛诞生于烈火的雪。}}\n{{旁白|没有人说话，他的声音，涤荡夜色——}}\n{{对话|左慈|妖祥，开阵。|头像=左慈}}\n{{旁白|千刀万箭与我擦身而过，扫平前面所有魍魉魑魅……}}\n{{旁白|胜负，在一瞬间结束。地上，只有一排又一排被拉得几长的血色人影。}}\n{{旁白|恭喜达成结局【激变】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|【隐鸢阁】}}\n{{旁白|我刚将要重修寝室的事传了出去，就有个健硕的壮汉拜见。}}\n{{对话|杜营|殿下！我是此次修葺工事的负责人，山水郎杜营。|头像=摊贩}}\n{{对话|杜营|啊哈哈哈！早就听说过阁主有个十全十美的弟子，今日还是第一次见！|头像=摊贩}}\n{{对话|我|从前还未见过前辈呢，不知前辈在何处修行？|头像=广陵王-微笑}}\n{{对话|杜营|我们山水郎一派，平时都是四处云游、行侠仗义，很少回隐鸢阁的。|头像=摊贩}}\n{{对话|杜营|听说隐鸢阁在山崩中损失惨重，大家都回来帮忙了。只是缺少建材，没法动工。|头像=摊贩}}\n{{对话|我|前辈别心忧，本王可自行出资，购买建材。|头像=广陵王-微笑}}\n{{对话|杜营|和谁买没关系，是运建材的路被堵住了。|头像=摊贩}}\n{{对话|杜营|上山门有两条路。有一条能通车的大路，被山崩砸毁了。|头像=摊贩}}\n{{对话|杜营|另一条是窄小步道，现在被姚长老的人看住，说是搬运危险，不许我们运建材。|头像=摊贩}}\n{{对话|我|姚长老也太小心了……这样，我去找他谈谈，尽量开放步道。|头像=广陵王-严肃}}\n\n{{旁白|【云帝宫】}}\n{{对话|姚盛|左君，不是我们要刁难你的徒弟，实在是年轻人做事有欠考量。|头像=黑人影}}\n{{对话|左慈|她希望你开放步道用来运建材，为何不行？}}\n{{对话|我|本王的寝室被山石砸毁，本王自行出资修葺，为何不行？|头像=广陵王-严肃}}\n{{对话|姚盛|敢问殿下的建材从何处来？|头像=黑人影}}\n{{对话|我|从山下来。|头像=广陵王-严肃}}\n{{对话|姚盛|通向阁内的山道损毁了，要从山下运建材，只能让人一担一担挑上来。|头像=黑人影}}\n{{对话|姚盛|人都来给殿下运建材了，谁去修车道呢？|头像=黑人影}}\n{{对话|我|我可以从山下雇佣力夫，不占用楼内人力。|头像=广陵王-严肃}}\n{{对话|姚盛|哎呀，哎呀，左君，你听听！|头像=黑人影}}\n{{对话|左慈|吾没听出什么异常。}}\n{{对话|姚盛|我们可是隐鸢阁，是仙门！|头像=黑人影}}\n{{对话|姚盛|且不说门内有多少天机，就说山路陡峭，万一民夫有死伤，算谁的？|头像=黑人影}}\n{{对话|我|姚长老这话，未免杞人忧天！蜀地的力夫惯是熟悉山路搬运的……|头像=广陵王-摇头}}\n{{对话|姚盛|哎呀，左君，你再听听，年轻人气盛，不拿人命当命啊。|头像=黑人影}}\n{{对话|我|你说什……|头像=广陵王-严肃}}\n{{对话|姚盛|这话传出去，仙门的名声怎么办？你我的老脸往哪放？还有……|头像=黑人影}}\n{{对话|左慈|好了，先到此打住。}}\n{{对话|左慈|你的担忧吾知晓了，吾会让她再斟酌此事。}}\n{{对话|我|师尊！|头像=广陵王-愤怒}}\n{{旁白|左慈无奈地拍了拍我的手，摇头不语；姚盛与几位长老向左慈见了礼，施然离去。}}\n{{对话|我|他分明就是没事找事，我修寝室，到底妨碍他什么了？|头像=广陵王-愤怒}}\n{{对话|左慈|他们是阁中的老人了，不必正面顶撞他。等清出那条车道，吾再调人帮你修。}}\n{{对话|我|那要多久？|头像=广陵王-阴沉}}\n{{对话|左慈|两年……到五年吧。}}\n{{对话|我|……我不想下次回来，还赖在师尊的云帝宫。|头像=广陵王-难过}}\n{{对话|左慈|云帝宫何处不好？你在隐鸢阁长大，十之三四待在云帝宫。}}\n{{对话|左慈|……史子眇说得对，孩子长大了，都喜欢一个人住……}}\n{{对话|我|不是！云帝宫哪里都好，可是……可是我就是替师尊不平！|头像=广陵王-摇头}}\n{{对话|我|师尊明明是一阁之主，可那些老人仗着资历，什么都不愿听从……|头像=广陵王-难过}}\n{{旁白|左慈静静望着我，半是无奈，半是失笑。}}\n{{对话|左慈|你啊……学会拿吾当刀使了。}}\n{{对话|我|……那师尊愿不愿意让我使一使呀？|头像=广陵王-难过}}\n{{对话|左慈|……呵。}}\n{{对话|左慈|翳部每日都需将药材运上山，若你自己的路子走不通，便去问问张仲景。}}\n\n{{旁白|【隐鸢阁】}}\n{{对话|我|二十车建材混在一百车药草里，张首座能否令看守山门的使者将建材放进来？|头像=广陵王-微笑}}\n{{对话|张仲景|看守步道的人说，不管运什么，都得去找姚长老开门条。}}\n{{对话|我|……张仲景，你是我师尊的副手，直属于阁主的。|头像=广陵王-严肃}}\n{{对话|我|你帮我把东西弄上来，姓姚的若刁难你，自有我师尊给你做主。|头像=广陵王-严肃}}\n{{对话|张仲景|本座问心无愧，何须别人为我做主？}}\n{{对话|我|那更好说了！替我搬建材，没有伤到任何人，何必听姚长老的莫名规定？|头像=广陵王-严肃}}\n{{对话|张仲景|他的莫名规定，不止这一个。他还向左君提议，要将整个隐鸢阁迁回灵山。}}\n{{对话|张仲景|这些老人不喜欢隐鸢阁入世太深。运山外的东西进来，他们是不会同意的。}}\n{{对话|我|张首座，别忘了，你要药材。我对隐鸢阁这些勾心斗角没兴趣，你帮我，才有药材。|头像=广陵王-冷笑}}\n{{对话|我|一百车药材呢……|头像=广陵王-欣喜}}\n{{旁白|张仲景的眼角微微动了，喉结动了动，转开眼神。}}\n{{对话|张仲景|……明日，本座替你去和姚盛交涉。}}\n\n{{旁白|【云帝宫】}}\n{{对话|隐鸢弟子|阁主，今天张首座出事了。|头像=黑人影}}\n{{对话|左慈|他很少生事。怎么了？}}\n{{旁白|弟子看看我，又看看左慈，有点犹豫。}}\n{{对话|隐鸢弟子|张首座去向姚长老要搬运建材的许可，姚长老问张首座是否要参加重修寝室。|头像=黑人影}}\n{{对话|隐鸢弟子|张首座说是，姚长老说张首座有这样的心思，十分让人感动……|头像=黑人影}}\n{{对话|我|所以他答应了？|头像=广陵王-惊讶}}\n{{对话|隐鸢弟子|所以他派张首座去帮山水郎和灰浆了。|头像=黑人影}}\n{{旁白|左慈本来在廊下闭目趺坐，此时睁开双眼，揉了揉太阳穴。}}\n{{对话|我|师尊，张首座是你的副手，姚长老这是故意让你难堪吗？|头像=广陵王-严肃}}\n{{对话|左慈|好好说话，少来这套。}}\n{{对话|我|……唔……|头像=广陵王-难过}}\n{{对话|左慈|帮吾传张仲景来。吾和他谈一下。}}\n\n{{旁白|【云帝宫】}}\n{{旁白|张仲景端着和灰浆的木盆，站在庭中。}}\n{{旁白|心理|对！就是这样！让师尊亲眼看到你有多狼狈，狠狠告姚长老一状！}}\n{{对话|左慈|今日之事，你心中可有什么疑问？}}\n{{对话|张仲景|弟子心中确有疑问。|头像=张仲景}}\n{{旁白|心理|快！把姚盛如何盛气凌人的事讲一遍！告状啊张仲景！阁主站在你这边！ }}\n{{对话|张仲景|今日，姚盛安排我去和灰浆。我试了七种比例，想找到最好的比例。|头像=张仲景}}\n{{对话|左慈|找到了吗？}}\n{{对话|张仲景|找到了。要加糯米浆，这样粘合才能坚固持久。|头像=张仲景}}\n{{对话|左慈|……}}\n{{对话|左慈|没事了，你回去吧。你做事一向认真。}}\n{{旁白|张仲景端起一盆灰浆，毅然决然走出了院门。我拽着左慈的袖子，把他袖角都揉皱了。}}\n{{对话|左慈|好了……拿你没办法。}}\n{{对话|左慈|上山的路，还有第三条。只不过是野路，几乎难以行走，常年封闭。}}\n{{对话|我|有路就能开路！我该去找谁？|头像=广陵王-微笑}}\n\n{{旁白|【隐鸢阁】}}\n{{对话|葛洪|少见，少见，你这孩子竟然来找小仙谈生意。|头像=葛洪}}\n{{旁白|葛洪带着温柔的微笑，斜眼打量着我。}}\n{{旁白|心理|隐鸢阁内部，各方势力都在争权。姚盛代表的是老一辈的隐世派，而葛洪……}}\n{{旁白|心理|他是隐鸢阁入世派的头目。}}\n{{对话|葛洪|你要用什么来换呢……是你这次带来的美人，还是……|头像=葛洪}}\n{{对话|我|前辈不肯好好与我谈生意，我就将美人送去水镜先生处。|头像=广陵王-冷笑}}\n{{对话|葛洪|你啊，明明在打那条山路的主意，心里着急，嘴上还不肯服软。|头像=葛洪}}\n{{对话|我|那前辈想让我服什么样的软呢？|头像=广陵王-微笑}}\n{{对话|葛洪|姚盛那老东西嫌西蜀不好，想搬去灵山那鸟不拉屎的地方……|头像=葛洪}}\n{{对话|葛洪|只是小仙也嫌西蜀不好……|头像=葛洪}}\n{{旁白|葛洪挑着自己的指甲，吹了口气。}}\n{{对话|葛洪|小仙喜欢广陵，你肯不肯割爱？|头像=葛洪}}\n{{旁白|我向雀使点了点头，雀使拿来一张广陵地形图，摊在院中，占了半个庭院。}}\n{{对话|我|前辈请看，这一处如何？|头像=广陵王-微笑}}\n{{对话|葛洪|唔，还真大方……|头像=葛洪}}\n{{对话|我|前辈想挑哪处是哪处，小辈绝不皱眉。|头像=广陵王-微笑}}\n{{对话|葛洪|嗯……就这一处。|头像=葛洪}}\n{{对话|我|成交！从此这里便是前辈的了。云雀，拿契约和文书来。|头像=广陵王-眯眼笑}}\n{{旁白|——交易达成。当夜，建材便从葛洪控制的山道里运上了山。}}\n\n{{旁白|【云帝宫】}}\n{{对话|葛洪|左君！说好割地给我，广陵王竟然只割了一块五步见方的地，哪有这样的道理？|头像=葛洪}}\n{{对话|我|是前辈自己看错了舆图的例尺，怎么能怪我？|头像=广陵王-冷笑}}\n{{对话|姚盛|左君，你可要评评理，广陵王居然私运建材上山！|头像=黑人影}}\n{{对话|我|姚长老只说不让从那条步道运建材，又没说不许从其他路运建材上山！|头像=广陵王-冷笑}}\n{{旁白|师尊声称闭关，我挡在石门入口处，一夫当关。}}\n{{对话|张仲景|广陵王，左君在吗？}}\n{{对话|我|张仲景，你终于来了！来帮我！这些人就是想通过修宫室这件事争权！|头像=广陵王-眯眼笑}}\n{{对话|张仲景|不，本座是来汇报糯米浆添加的比例……}}\n{{对话|我|………………|头像=广陵王-无语}}\n{{旁白|——一旬后。}}\n{{旁白|在无数势力的拉扯和争权之中，山水郎顺利修完了我的寝殿……}}\n{{旁白|据说修葺时用的灰浆是张仲景亲手制成，坚固异常，可保千年不倒。}}\n{{旁白|恭喜达成结局【通途】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|长途跋涉，我有些累了………|头像=广陵王-阴沉}}\n{{对话|左慈|那就先休息吧，你休息的地方，已经收拾出来了。}}\n\n{{旁白|【云帝宫】}}\n{{对话|侍女|哎呀——这是……|头像=侍女}}\n{{对话|幼童|哇啊啊……|头像=路人小孩}}\n{{对话|我|这是谁的孩子？|头像=广陵王-惊讶}}\n{{旁白|我们正在用早膳，忽然一个幼童从门外爬了进来。}}\n{{对话|左慈|兴许是西蜀山崩，史子眇从山外捡来的。}}\n{{对话|我|看来像是饿了……我带着孩子去寻史君吧！|头像=广陵王-微笑}}\n{{对话|隐鸢阁侍者|大事……出大事了！|头像=美型文官}}\n{{对话|隐鸢阁侍者|见过左君，见过殿下……出大事了！|头像=美型文官}}\n{{对话|左慈|何事？}}\n{{对话|隐鸢阁侍者|事关仙门清誉，葛洪仙君请二位至议事堂一叙。|头像=美型文官}}\n{{对话|左慈|葛洪……}}\n{{对话|左慈|非去不可吗？吾昨夜有些头痛，让她代吾去吧。}}\n{{对话|隐鸢阁侍者|真的是大事！各位长老、天师、天官都去了！|头像=美型文官}}\n{{旁白|事态似乎很紧急。我索性抱起那个孩子，随师尊一起前往议事堂……}}\n\n{{旁白|【议事堂】}}\n{{旁白|我们到的时候，议事堂内众人已经落座。}}\n{{旁白|葛洪坐在堂中，见到师尊到来，也不过微微欠了欠身。}}\n{{旁白|心理|好全的人……各部长老齐全，张仲景也带着几个翳部弟子坐在堂中，连久病的司马徽都来了。}}\n{{旁白|师尊坐上了主座，不知是否是错觉，我仿佛听到师尊重重叹了一声气。}}\n{{对话|左慈|葛洪，你大清早便要众人聚在此处，究竟所为何事？}}\n{{对话|葛洪|左君知道，我是出了名的疼徒弟。徒弟看到不得了的事，我要为他做主。|头像=葛洪}}\n{{对话|葛洪|徒儿，上来吧！|头像=葛洪}}\n{{旁白|华佗从人群中走出，走到中间。}}\n{{旁白|他拧着眉头，噗通一声跪了下来，举起右手三根手指。}}\n{{对话|华佗|我要告发翳部首座·张仲景秽乱仙门！不是好人！}}\n{{对话|我|……？|头像=广陵王-惊讶}}\n{{对话|张仲景|……？|头像=张仲景}}\n{{对话|左慈|阁规森严，不得信口雌黄。|头像=左慈}}\n{{对话|华佗|我要是有半句谎话——呃……我看一眼提示……}}\n{{旁白|张仲景皱了皱眉。华佗看向葛洪，葛洪做了个下劈的手势。}}\n{{对话|华佗|天打雷劈。}}\n{{对话|姚长老|雷劈是小概率的事，谁又说的准，岂能以此赌誓？看来华佗不是真心发誓。|头像=黑人影}}\n{{对话|华佗|那我用全家的性命起誓……不对，我家里死到没人了……}}\n{{对话|华佗|那我就用张仲景全家的……}}\n{{对话|张仲景|我家也没人了。|头像=张仲景}}\n{{对话|华佗|啊对，你家也都没了。那就用我师父……}}\n{{对话|葛洪|小仙的家人都没有了哦！|头像=葛洪}}\n{{对话|左慈|……别看吾。}}\n{{对话|华佗|怎么搞的？满堂的人都凑不齐一对父母？！}}\n{{旁白|华佗在堂中环顾一周……最后，停在了司马徽身上。}}\n{{对话|华佗|我用水镜先生司马徽的全族起誓！}}\n{{对话|司马徽|咳咳咳咳咳咳！为什么是我？！|头像=司马徽}}\n{{对话|葛洪|咳！言归正传！华佗，你说张仲景秽乱仙门，那奸夫是谁？|头像=葛洪}}\n{{对话|华佗|是我！}}\n{{旁白|满座寂静。}}\n{{对话|左慈|……呼……}}\n{{对话|我|师尊是不是头疼？我给你揉揉……啊，华佗！张首座如何与你秽乱仙门？|头像=广陵王-汗颜}}\n{{对话|华佗|我与张仲景看到别人秽乱仙门！见者有份。}}\n{{对话|左慈|好了，请他下去吧，别再说了，吾不是很在乎……|头像=左慈}}\n{{对话|葛洪|小仙在乎！隐鸢阁内部竟如此藏污纳垢！|头像=葛洪}}\n{{对话|葛洪|华佗，说说细节！你们看到谁和谁在秽乱仙门？|头像=葛洪}}\n{{对话|华佗|你与水镜先生啊。}}\n{{对话|葛洪|……|头像=葛洪}}\n{{对话|司马徽|咳咳咳咳咳……噗……咳咳咳……|头像=司马徽}}\n{{旁白|我递了手巾给司马徽擦掉嘴角的血。}}\n{{对话|华佗|兔子，他们两个在看两只兔子……}}\n{{旁白|堂中响起嗡嗡喧哗之声，各位长老眼中都闪出奇异的光彩。}}\n{{对话|左慈|华佗，到底是谁教你这样说话的？你连秽乱的“秽”怎么写都不知道。}}\n{{对话|华佗|我当然会写啊！会写的“会”！|头像=华佗}}\n{{对话|左慈|……嗯。若无旁事，今日就散了吧，吾真的不想再听……}}\n{{对话|葛洪|事涉仙门清誉，左君，还是仔细些好。|头像=葛洪}}\n{{对话|我|葛洪前辈不跟水镜先生回去看兔子吗？|头像=广陵王-冷笑}}\n{{对话|葛洪|看完我的人证再说！来人，把人证带上来！|头像=葛洪}}\n{{旁白|一个身着羽衣的白发少女突然被推了上来，满面迷茫。}}\n{{对话|葛洪|郭解，你虽是隐鸢阁除名弟子，但我知道，你对隐鸢阁一片忠心。|头像=葛洪}}\n{{对话|郭解|……}}\n{{对话|葛洪|你看见了什么，听到了什么，现在都可说清楚。若不否认，便是默认。|头像=葛洪}}\n{{对话|郭解|……}}\n{{对话|葛洪|张仲景秽乱仙门，奸夫是华佗，此事可是你亲眼所见？|头像=葛洪}}\n{{对话|郭解|……}}\n{{对话|葛洪|你也知道阁规森严，决心站出来检举二人，对吗？|头像=葛洪}}\n{{对话|郭解|……}}\n{{对话|葛洪|左君，郭解全都默认了。人证在此，左君还要偏袒张仲景吗？|头像=葛洪}}\n{{旁白|左慈揉着头颅，挥了挥手。}}\n{{对话|左慈|吾头痛，散了吧。}}\n{{对话|我|可是我还没听够，我不想走……|头像=广陵王-欣喜}}\n{{对话|左慈|…………………………}}\n{{对话|葛洪|等等，我还有证据！来人！把证据抱上来！|头像=葛洪}}\n{{旁白|一个弟子步履匆忙抱着一个襁褓进来，把襁褓放在地上。}}\n{{对话|葛洪|这个孩子，就是张仲景秽乱仙门的证据。|头像=葛洪}}\n{{对话|张仲景|……嗯？又说到我了吗……}}\n{{旁白|突然，襁褓动——白色，黑色，灰色，杂色……襁褓中跳出了十几只兔子。}}\n{{对话|葛洪|……为什么是兔子……|头像=葛洪}}\n{{对话|华佗|是啊，师父，为什么张仲景能生出兔子？}}\n{{对话|张仲景|我是人，不可能生出兔子。|头像=张仲景}}\n{{对话|华佗|这么多人里只有我师父和兔子沾边，难道兔子是我师父生的？}}\n{{对话|翳部弟子甲|原来如此，不愧是葛君前辈。|头像=黑人影}}\n{{对话|我|师尊，葛君前辈生了一窝兔子？|头像=广陵王-惊讶}}\n{{对话|左慈|……吾的头好痛。|头像=左慈}}\n{{对话|张仲景|人与人不可能生出兔子。}}\n{{对话|翳部弟子甲|听闻葛洪仙君的原身是兔子，会不会这样就可以生出兔子？|头像=黑人影}}\n{{对话|张仲景|风马牛不相及，马与牛不会相诱，人与兔子也不可生出兔子。}}\n{{对话|翳部弟子乙|道理我都懂，所以为什么葛洪仙君与水镜先生会生出兔子？|头像=黑人影}}\n{{对话|张仲景|人与人、人与兔子都不能生出兔子。}}\n{{对话|翳部弟子甲|所以为什么他们能生出这么多颜色不同的兔子？|头像=黑人影}}\n{{对话|张仲景|他们不能生出兔子。}}\n{{旁白|我和众人一起望向葛洪，葛洪正在拼命将兔子甩出袖子。}}\n{{对话|左慈|将兔子都带走，今天之事就到这里吧。}}\n{{对话|葛洪|左君！此事若不一探究竟，隐鸢阁仙门声誉何在？|头像=葛洪}}\n{{对话|左慈|……你还想如何一探究竟？}}\n{{对话|葛洪|将兔子血与张仲景的血刺在同一器皿内，滴血认亲。|头像=葛洪}}\n{{对话|张仲景|谁的血都能跟兔子的血相融。}}\n{{对话|翳部弟子甲|所以葛洪仙君与水镜先生的血也可以和兔子相融？|头像=黑人影}}\n{{对话|葛洪|够了！——张仲景，此事容不得你狡辩！史子眇，将盆拿来。|头像=葛洪}}\n{{对话|史子眇|来了来了……啊，孩子们都在呀？}}\n{{对话|我|史君好！|头像=广陵王-眯眼笑}}\n{{对话|史子眇|稚川让我来送盆，是要做什么呀？}}\n{{对话|我|滴血认亲！|头像=广陵王-眯眼笑}}\n{{对话|史子眇|噢噢！好热闹，隐鸢阁好久没有这么热闹了。左君脸色怎么不好？}}\n{{对话|左慈|……头痛。|头像=左慈}}\n{{旁白|史子眇端着盆走了上来，华佗抓过一只兔子，将兔子血滴入了盆中，又几步奔向张仲景。}}\n{{对话|张仲景|我不可能生出兔子。}}\n{{对话|翳部弟子乙|兔子是葛洪仙君和水镜先生的，是不是应该先验他们？|头像=黑人影}}\n{{对话|华佗|有道理！}}\n{{旁白|司马徽原本将双手藏在袖中，但久病体弱，终于没有拗过华佗，被刺破了手指。}}\n{{旁白|华佗端着盆，转向了葛洪。}}\n{{对话|葛洪|逆徒！你敢！|头像=葛洪}}\n{{对话|华佗|师父昨夜说，不管遇到什么阻拦，一定要做成此事，坐实张仲景秽乱仙门。}}\n{{对话|我|正是！华佗，事态紧急，切不可违逆师父。|头像=广陵王-点头}} \n{{对话|左慈|……别煽风点火。}}\n{{对话|葛洪|广陵王，你听见你师父的话了吗？不要煽风点——啊！|头像=葛洪}}\n{{对话|华佗|啊！相融了！|头像=华佗}}\n{{旁白|华佗拿起手中的盆，向在座众人展示。}}\n{{对话|左慈|好了。葛君将这窝兔子带出去好生将养，散了吧……}}\n{{对话|葛洪|不可能！这水有问题，滴进谁的血都会相融！|头像=葛洪}}\n{{旁白|葛洪拉过华佗，刺破华佗的手指，将血滴入盆中。}}\n{{对话|我|但是……华佗的血没有相融欸！|头像=广陵王-惊讶}}\n{{旁白|张仲景回过头，转向翳部弟子。}}\n{{对话|张仲景|华佗常年服用巫血，血液有异，不会溶于水，也不会与常人血液相融。}}\n{{对话|张仲景|常年服用巫血的人很罕见，你们一定要仔细观看。}}\n{{对话|翳部弟子乙|是，可是弟子还是不明白，为何葛君会生出兔子？|头像=黑人影}}\n{{对话|葛洪|这水有问题！你们来看，盆中不是水，盆中是水银。|头像=葛洪}}\n{{对话|史子眇|……咦，原来是水银？是我倒错了么。}}\n{{对话|左慈|……看不清，好像是水银。让年轻人来看看吧。|头像=左慈}}\n{{对话|幼童|哇——！！！|头像=路人小孩}}\n{{旁白|一直被我安置在座位后的孩子突然哭了，我连忙拍拍他。}}\n{{对话|史子眇|哪里来的孩子呀？这么小。}}\n{{对话|我|今日清晨在门前捡的，原来不是史君带回来的吗？|头像=广陵王-惊讶}}\n{{对话|史子眇|交给我吧，小孩子孤零零的太可怜了……孩子，不哭，我给你做点心。}}\n{{旁白|史子眇一边哄着孩子，一边离开了议事堂。}}\n{{对话|左慈|吾的头好痛……闹够了就全散了吧……}}\n{{对话|葛洪|且慢！|头像=葛洪}}\n{{旁白|葛洪从司马徽手中争抢一面巴掌大小的镜子，司马徽病弱无力，终于还是被葛洪抢到了。}}\n{{对话|葛洪|——方天水镜！|头像=葛洪}}\n{{对话|葛洪|我原本不想拿出此物，但如今要自证清白，也顾不得那么多了……|头像=葛洪}}\n{{对话|葛洪|秽乱仙门者，另有其人！|头像=葛洪}}\n{{旁白|水镜光芒大盛，众人眼前出现一道湖水屏风，屏风上左慈的身影清晰可见。}}\n{{旁白|过了一会，水中画面波动，闪出一角衣袂，正露出了我袍上的夔龙纹……}}\n{{对话|左慈|……|头像=左慈}}\n{{对话|我|……|头像=广陵王-无语}}\n{{对话|华佗|这是秽乱之事吗？等等，大家都看到了？师父！我要告发所有人秽乱仙门！|头像=华佗}}\n{{旁白|下一刻，水镜化为万千碎片，落在堂中。}}\n{{对话|左慈|到此为止。}}\n{{对话|左慈|今日之事，吾不追究，再有不愿善罢甘休者，视同此镜。}}\n{{旁白|恭喜达成结局【兔孕】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|先去郡城吧。赈灾要紧，我也能快些回朝中复命。|头像=广陵王-严肃}}\n{{对话|左慈|好。吾陪你去。}}\n\n{{旁白|【广汉郡】}}\n{{旁白|入目所见，一片狼藉。}}\n{{旁白|广汉郡着眼处全是残垣瓦砾，看不到一丝生气。}}\n{{对话|工兵甲|还有活口！快来帮忙！|头像=士兵}}\n{{对话|工兵乙|不行！石头上有泥沙，太滑了，搭把手，我扛不住了——呃——！|头像=副将}}\n{{对话|妇人|求求你，救救……孩子……孩子……|头像=平民母亲}}\n{{对话|我|随行的医官人数完全不够……益州本地的医者和方士呢？|头像=广陵王-严肃}}\n{{对话|亲卫|太守也死了，几个文官都不知该如何是好。我们需要本地士族协助召集医官。|头像=帅武将}}\n{{对话|亲卫|士族的宅邸坚固，家中也有存粮和药品。灾难发生后，他们大多选择了闭户。|头像=帅武将}}\n{{旁白|我正在布棚中查看本地士族的名册，一个妇人抱着孩子，撞开侍卫冲到我面前。}}\n{{对话|妇人|贵人，求你救救她，求你救救我女儿！|头像=平民母亲}}\n{{对话|妇人|你、你是仙人，我看到了……求你把我的命拿走……让孩子活着，求求你……|头像=平民母亲}}\n{{对话|我|师尊，她……|头像=广陵王-严肃}}\n{{对话|左慈|……她走了。}}\n{{对话|左慈|世上没有以命换命的术法。请节哀。}}\n{{旁白|妇人怔怔低下头，紧紧盯着孩子。师尊伸出手，阖上了孩子的双目。}}\n{{对话|妇人|仙人，你把我也送走吧……她还那么小，路上不能没有人照顾……|头像=平民母亲}}\n{{旁白|妇人挣扎着跪拜左慈，脏污与血迹都蹭在了左慈的白袍上。}}\n{{旁白|侍卫想将她拉走，我摇了摇头，阻止了。}}\n{{对话|左慈|你已经尽力了。该休息片刻了。}}\n{{旁白|他的手轻抚在妇人的头顶，沾染了她蓬乱枯发上的血。她的神色很快变得平静，沉沉睡去………}}\n{{旁白|日暮，郡城中渐渐黑了下来，士官正在收兵回营。一片萧索中，天上下起了小雨。}}\n{{对话|左慈|从雒阳一路赶来，路上可还顺利？}}\n{{对话|我|还好……因为灾情严重，驿馆守官都给了我最快的车马。|头像=广陵王-严肃}}\n{{对话|左慈|眼下青乌一片，你在路上没歇息好。}}\n{{对话|我|没办法，毕竟是赶路嘛……|头像=广陵王-摇头}}\n{{对话|左慈|天晚了。大半日滴水未进，你该去用膳，用完早些歇息。}}\n{{对话|我|……我吃不下。|头像=广陵王-严肃}}\n{{对话|我|史书上写“山崩杀人，死十万”，奏书上也这么写，大家都这么写，我也习以为常。|头像=广陵王-严肃}}\n{{对话|我|但是真正亲眼看到了，还是感到惊骇。|头像=广陵王-严肃}}\n{{对话|左慈|上位者怀有仁心，就会有不忍；有不忍之心，就会行不忍之政。<ref>《孟子·公孙丑上》：“人皆有不忍人之心。先王有不忍人之心，斯有不忍人之政矣。以不忍之心，行不忍之政，治天下可运之掌上。”</ref>}}\n{{对话|左慈|人活在乱世，必须被当作人来对待过，才会有活下去的念头。}}\n{{对话|我|……我真的能让他们想继续活下去吗？|头像=广陵王-难过}}\n{{对话|左慈|很多人都因为你而活了下去，不必怀疑。}}\n{{旁白|夜风微凉。他将披风替我披上，系上带子。}}\n{{对话|左慈|去休息吧。他们应该已经将房间收拾好了。}}\n\n{{旁白|【营帐】}}\n{{旁白|郡城受山崩影响严重，还有许多事要做。}}\n{{对话|我|今天的事务还是很多啊……|头像=广陵王-严肃}}\n{{对话|左慈|今日从何处开始？}}\n\n{{嵌套分歧|头}}\n{{嵌套分歧|规范现场秩序|1}}\n{{嵌套分歧|避免灾后瘟疫|2}}\n{{嵌套分歧|检查附近水利|3}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|县尉说，昨日有饥民哄抢施粥棚，担心今日还会故态复萌。我想带人去看看。|头像=广陵王-微笑}}\n{{对话|饥民|什么时候才施粥啊？你们是不是把粮食私藏了？！|头像=难民}}\n{{对话|男人|殿下来了！殿下要替我们做主！|头像=男文人}}\n{{旁白|帐外喧闹，我们在军帐中看着赤字惊人的粮食计簿，都胆战心惊。}}\n{{对话|我|……所以，从后天开始就断粮了？|头像=广陵王-惊讶}}\n{{对话|县尉|赈灾粮已入蜀，但是山路坍塌，难以运输。}}\n{{对话|县尉|城里有个叫吴送的粮商，本来答应卖粮给我们，但突然出了事故。}}\n{{对话|我|事故？什么事故？|头像=广陵王-严肃}}\n{{对话|县尉|他女儿被山贼绑架，山贼向他勒索了一大批的粮食……所以，他没粮食能卖了。}}\n{{对话|我|……你信他？|头像=广陵王-愤怒}}\n{{对话|县尉|殿下，他、他女儿都被绑架了……}}\n{{对话|我|山崩之后，本地大户都闭户不出、严防死守，无论昼夜都有府兵把守。|头像=广陵王-愤怒}}\n{{对话|我|而山贼平时根本不敢进城，如何知道他府中的布局？如何突破府兵？可见是扯谎！|头像=广陵王-愤怒}}\n{{对话|我|你信他？是真的信他了，还是说，你和他之间……|头像=广陵王-严肃}}\n{{旁白|突然，一直静默不语的师尊用手指叩了叩案几，打断了我的话。}}\n{{对话|左慈|隐鸢阁的义粮到了，快要开始施粥了，出去看看吧。|头像=左慈}}\n\n{{旁白|【广汉郡】}}\n{{对话|左慈|方才在帐中，你失态了。}}\n{{对话|我|……一时情急，没能权衡利弊。|头像=广陵王-严肃}}\n{{对话|左慈|人皆是逐利的。他就算跟吴氏勾结，故意囤积粮食抬高粮价，也是常情。}}\n{{对话|左慈|你若是揭穿他，手上可有能顶替他的官员？}}\n{{对话|我|所以我理解师尊方才叩案之举，没有再说。|头像=广陵王-摇头}}\n{{对话|士兵|混账东西！你居然敢偷粮？！|头像=西凉军丁}}\n{{对话|少年|放开我！|头像=少年}}\n{{旁白|我转头，只见士兵将一个瘦弱的少年压在地上，少年手中紧紧抓着一把菰米。}}\n{{对话|士兵|城中有令，趁乱偷抢者杀无赦，把他拖下去！|头像=西凉军丁}}\n{{对话|少年|杀我可以，我的尸体还能吃，你把我杀了，分给我的弟弟妹妹吃吧！求你了！！！|头像=少年}}\n{{旁白|等着放粥的民众向这边看来，指指点点。我皱了皱眉头。}}\n{{对话|饥民甲|那不是小燕乙吗？他也是饿得不行了吧……|头像=难民}}\n{{对话|饥民乙|不是都说吴送的粮给了山贼吗，你们去杀了山贼，不就有粮了吗？|头像=黑人影}}\n{{旁白|心理|这些百姓都彼此认识……是否开个特例……}}\n{{对话|左慈|灾后人心浮动，极易生乱。若百姓变乱民，你和你的工兵够他们吃几口？}}\n{{对话|我|可他还是个孩子。孩子就是这样，饿了就会找吃的。他没有错。|头像=广陵王-严肃}}\n{{对话|我|就算百姓变乱民，乱民也没有错。错的是贪污义粮的官员，是囤积居奇的大户。|头像=广陵王-严肃}}\n{{对话|我|但是，本王早已下过严令，谁敢趁乱偷盗，被抓住就是死罪。|头像=广陵王-严肃}}\n{{旁白|我站到他面前，抓起他的头发，然后拔刀出鞘，割下了他的一束头发。}}\n{{对话|我|削发代牺牲，你就当受过死罪了。|头像=广陵王-严肃}}\n{{对话|我|罪人已死。来人，调集附近兵马，围剿山贼。你也一起加入。|头像=广陵王-严肃}}\n{{对话|燕乙|啊……是！是！|头像=少年}}\n{{旁白|心理|众人都认为粮食在山贼处，攻打山贼，至少能缓解一时的矛盾……}}\n{{旁白|心理|而且，山贼没有在灾后大肆劫掠，说明寨中必有存粮。}}\n\n{{旁白|【山间】}}\n{{旁白|左慈从袖中掷出三枚铜钱，在地上掷了六次。众人是围观，大气都不敢出一声。}}\n{{对话|我|师尊看出了什么？|头像=广陵王-微笑}}\n{{对话|左慈|位在东南，不见天日。}}\n{{对话|我|不见天日？|头像=广陵王-惊讶}}\n{{对话|燕乙|我记得有一伙山贼盘踞在四顶山，贼寨在山谷底下。|头像=少年}}\n{{对话|燕乙|从前吴云姐姐跟我们说过四顶山谷下的贼寨，但大家都以为是编的。|头像=少年}}\n{{对话|我|吴云？|头像=广陵王-惊讶}}\n{{对话|燕乙|就是粮商吴送的女儿！吴送为富不仁，可吴云姐姐对我们都很好！|头像=少年}}\n{{对话|左慈|她为何知道贼寨的事？}}\n{{对话|我|她可是富商家的女公子……燕乙，你带路，带我们去四顶山谷。|头像=广陵王-微笑}}\n\n{{旁白|【四顶山谷】}}\n{{对话|燕乙|就是这了……不过我不知道贼寨的入口在哪。|头像=少年}}\n{{对话|我|山谷下确实有火光，还有炊烟的味道。士官，能派斥候去找入口吗？|头像=广陵王-微笑}}\n{{对话|左慈|不必。|头像=左慈}}\n{{旁白|师尊穿过人群，站在山谷边缘，向着贼寨的方向伸出手……}}\n{{对话|山贼甲|有虫子！好多虫子！|头像=山贼甲}}\n{{对话|山贼乙|快跑！有妖怪啊！|头像=山贼乙}}\n{{旁白|嗡嗡声从地下涌出，虫群如乌云飞窜出来；惊慌的山贼争先恐后从洞口爬出，拍打身体。}}\n{{对话|士官|那边就是贼寨的入口！给我杀！|头像=副将}}\n{{对话|山贼甲|怎么有官兵？！是吴送反悔了吗？！|头像=山贼甲}}\n{{对话|山贼乙|肯定是他反悔了！混账！|头像=山贼乙}}\n{{对话|我|看起来吴送、县尉、山贼，三方是勾结在一起的。|头像=广陵王-严肃}}\n{{旁白|起因应是吴送和县尉想囤积粮食，哄抬粮价。}}\n{{旁白|但他们又怕百姓生乱打劫粮仓，于是，就先把粮食交给山贼保管。}}\n{{对话|山贼甲|别打了，别打了！我们投降！粮袋就在那，我们没动过！|头像=山贼甲}}\n\n{{旁白|【存粮处】}}\n{{旁白|被捉了活口的山贼被反绑着替我们带路。他们挖了个地窖，用来藏粮食。}}\n{{对话|我|真的都在这……工官，去调力夫和货车，我们要尽快把粮食运回去。|头像=广陵王-惊讶}}\n{{对话|燕乙|等一下！吴云姐姐呢？他们不是说姐姐被绑架了吗？|头像=少年}}\n{{旁白|我看向师尊，师尊摇了摇头。}}\n{{对话|左慈|这里没有其他活人了。}}\n{{对话|山贼甲|那、那个女人……她、她那天藏在运粮的车里过来的……|头像=山贼甲}}\n{{对话|山贼甲|她想把粮食偷回去……|头像=山贼甲}}\n{{对话|燕乙|然后呢？你们……你们对姐姐做了什么？！|头像=少年}}\n{{对话|山贼甲|不关我的事！粮食是吴送亲自送来的，他见那女的从车里钻出来，两人吵了起来……|头像=山贼甲}}\n{{对话|我|她应该想让父亲把粮食送回城里。那吴送呢？他是把女儿强行抓回去了吗？|头像=广陵王-阴沉}}\n{{旁白|忽然，师尊走向了粮仓深处。他看着某个方向，眸色无悲无喜。}}\n{{对话|左慈|是这里，对吗。}}\n{{对话|山贼甲|……对……对……|头像=山贼甲}}\n{{对话|山贼甲|吴送拿米袋捂死了她……然后……把她埋在这了。|头像=山贼甲}}\n{{旁白|——日出之前，我们运出了所有的粮食。}}\n{{旁白|人们挖出了吴云的遗骸。燕乙背着她，回到了郡城……}}\n{{旁白|恭喜达成结局【米祸】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|死者众多，大灾之后易有瘟疫。我担心驱疫的药草供应不上。|头像=广陵王-严肃}}\n\n{{旁白|【山道】}}\n{{对话|左慈|莫要离山侧太近，仔细落石。}}\n{{对话|我|都说仙人乘风上九霄，扶摇九万里。师尊，仙人真的能飞吗？|头像=广陵王-微笑}}\n{{对话|左慈|可以。}}\n{{对话|我|飞飞看！|头像=广陵王-微笑}}\n{{对话|左慈|不行。开启阵法，容易引发新的山崩。}}\n{{对话|我|路也太难走了，运药材的车要怎么……呃！|头像=广陵王-难受}}\n{{旁白|我的头被砸中了。}}\n{{旁白|也许是石块，也许是断木……它措不及防从高处坠落，击中了我的头侧。}}\n{{对话|我|……|头像=广陵王-难受}}\n{{对话|我|…………我……在哪……|头像=广陵王-难受}}\n{{对话|左慈|别动。你头部受了伤。}}\n{{对话|左慈|你坠落崖下，吾勉强护住了你。有人途经崖底，带吾们到了一处营地。}}\n{{旁白|我勉力动了动，随即，身体的剧痛袭来。}}\n{{对话|左慈|吾已用术法将你的五脏复位，还须再躺几日才能起身。}}\n{{对话|中年方士|伤者醒了吗？|头像=贵族中年男}}\n{{旁白|一位面目和蔼的中年人走了进来，关切地看向我。不知为何，师尊的表情森冷了下去。}}\n{{对话|左慈|你来做什么？}}\n{{对话|中年方士|啊我、我来看看伤者有没有什么需要……我拿了些止血的药汤！|头像=贵族中年男}}\n{{对话|左慈|拿出去。她没事了。}}\n{{对话|我|……师尊……他是……|头像=广陵王-惊讶}}\n{{对话|孙矶|我叫孙矶，是个云游的方士。你的伤还要休养，就在我这安心住下吧。|头像=贵族中年男}}\n\n{{旁白|【小村】}}\n{{旁白|我在床上躺足了七日，才能勉强起身。}}\n{{旁白|心理|暖意透着窗纸映进来了，好想出去看看啊……}}\n{{旁白|我摸着屋墙，一点一点挪至门前，倚在廊下的栏杆旁。}}\n{{旁白|这座宁静的小村中种着不知名的花树，阳光透过花树缝隙洒下，正晒在栏杆上。}}\n{{对话|百姓甲|放药了！能动的来这边排队，不能动的别急，一会挨床送。|头像=黑人影}}\n{{对话|百姓乙|不许偷吃干粮，喝完药半个时辰后才能吃东西！|头像=黑人影}}\n{{对话|百姓甲|欸？那个伤者也能起身了！快，来喝点水。|头像=黑人影}}\n{{对话|我|多谢……各位都住在附近吗？|头像=广陵王-点头}}\n{{对话|百姓乙|是啊，一山崩，什么都没了，还好有孙神仙收留我们。|头像=黑人影}}\n{{旁白|院中忙忙碌碌，有人在煮药，有人在替伤者换药……我看着这个场景，微微出神。}}\n{{旁白|忽然，一件外袍罩在我肩上，左慈站在我身侧，轻轻扶住了我。}}\n{{对话|左慈|怎么出来了？}}\n{{对话|我|来了蜀地这么久，都没见过这么好的太阳。|头像=广陵王-微笑}}\n{{对话|左慈|晒一会就回去，你刚能起身，不能在外面待太久。}}\n{{对话|左慈|今夜好好休息。吾明天傍晚便带你回城中。}}\n{{对话|我|城中的众人肯定急疯了，是要尽快回去了……咳咳……|头像=广陵王-难受}}\n{{对话|左慈|好了，进去休息吧。}}\n{{对话|我|师尊，孙神仙回来了，我想……|头像=广陵王-微笑}}\n{{对话|左慈|吾代你谢过他了。风大了，回去罢。}}\n{{旁白|他直接扶起我，向室内走去。我回头看向远处的孙矶，他微笑着对我摆了摆手。}}\n{{旁白|一片落叶飘过我耳畔，花瓣一分为二，似被尖锐的利器割破……}}\n{{对话|我|……师尊，你……|头像=广陵王-惊讶}}\n{{对话|左慈|吾无事。|头像=左慈}}\n{{旁白|心理|师尊慍怒时，杀意就会这样外泄……}}\n\n{{旁白|【住处】}}\n{{旁白|心理|睡不着……腿还在痛……}}\n{{对话|左慈的声音|你还有什么遗言要留下？|框=左慈}}\n{{旁白|心理|……师尊的声音？他在和谁说话？}}\n{{对话|孙矶的声音|我知道早有这一天。遗言……就不必了。}}\n{{对话|左慈的声音|一己之私，百条人命。|框=左慈}}\n{{对话|左慈的声音|你的死罪难免，但仍有善念，吾可让你无痛无苦地走。|框=左慈}}\n{{对话|孙矶的声音|……既然如此，多谢左君慈悲。}}\n{{对话|孙矶的声音|……那么，是今夜吗？}}\n{{旁白|忽然，对话停止了；下一刻房门打开，左慈站在门外看着我，眼神无奈。}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|左慈|……该睡觉了。}}\n{{对话|我|师尊，他……和你有恩怨吗？|头像=广陵王-严肃}}\n{{旁白|他没有回答我，只是摇了摇头。}}\n{{对话|我|我的腿很疼，疼得睡不着。|头像=广陵王-难受}}\n{{对话|左慈|躺回去，吾来看一下。}}\n{{对话|左慈|……是受寒了。把这个药吃了，再喝些安神汤，好好休息。}}\n{{旁白|我低下头，左慈带着凉意的手指将我落下的鬓发别向耳后。}}\n{{对话|左慈|隐鸢阁有许多往事……不堪的往事。}}\n{{对话|左慈|这些不堪与你无关。不必挂怀}}\n{{对话|我|……师尊，一个人的功过，到底应该如何评定呢？|头像=广陵王-阴沉}}\n{{对话|我|我不过问他从前的罪行，只是他如今也救了许多人，也救了我。|头像=广陵王-严肃}}\n{{对话|左慈|因为他救了你，所以吾没有立刻杀他。}}\n{{对话|我|那被他救了的那些人，和从前被他害死的那些人，他们的性命，又要如何权衡？|头像=广陵王-严肃}}\n{{对话|左慈|你今夜想同吾论道吗？}}\n{{对话|我|我许久没和师尊论道了。从前，我们真的讨论过人命的价值。|头像=广陵王-点头}}\n{{对话|我|一条命和两条命，哪边比较贵重？如果是两条命，那生命就是有价的。|头像=广陵王-严肃}}\n{{对话|我|可如果生命有价，那么世间所有的决断，都应该遵从多数的利益。可世道又不是这样的。|头像=广陵王-严肃}}\n{{对话|左慈|“价”又是什么？你想用什么来作为衡量人命的价？}}\n{{对话|左慈|这是无道之道，故而圣人说，天地不仁，以万物为刍狗。}}\n{{对话|左慈|在道之中，万物无贵贱，无价格，不生不灭。}}\n{{旁白|我怔了片刻，忽然笑了。}}\n{{对话|我|既然万物在道法之下不生不灭，师尊今日杀灭他，杀灭的又是什么？|头像=广陵王-微笑}}\n{{对话|左慈|诡辩。}}\n{{对话|我|可是师尊杀灭他，被他收留的人失去照拂，死路一条。师尊是否也杀灭了他们？|头像=广陵王-严肃}}\n{{对话|左慈|所以，万物无贵贱。他们的生死，只是一股又一股“道”的涌动。}}\n{{对话|我|既然万物无贵贱，师尊为何没在见到他的时候立刻杀他？|头像=广陵王-严肃}}\n{{对话|左慈|因为他救了……}}\n{{旁白|他顺势说出、又被硬生生咽回的话，成了另一种诡辩。}}\n{{对话|我|我赢了！|头像=广陵王-微笑}}\n{{对话|左慈|……}}\n{{对话|左慈|是，你赢了。}}\n{{对话|左慈|看看在他改过自新的份上，等流民安置完，吾会将他带回隐鸢阁，关进思过洞。}}\n{{旁白|他替我盖上被子，轻轻拍了拍，叹了口气。}}\n{{对话|左慈|……万物无贵贱，呵……}}\n{{对话|左慈|有些人，终究还是凌驾于万物之上的。}}\n{{旁白|恭喜达成结局【神仙】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|我担心山崩毁坏堤坝，引发洪水。|头像=广陵王-严肃}}\n\n{{旁白|【古蜀沟渠】}}\n{{旁白|我与师尊泛舟江面，检查江上堤坝的情况}}\n{{对话|我|这次山崩如此严重，古蜀国的堤坝竟然没太多磨损。真是了不起。|头像=广陵王-惊讶}}\n{{对话|左慈|因为它们上面凝聚着仙人的术。古蜀国的仙人，杜荆子。}}\n{{对话|我|我读过她的传说。据说杜荆子喜欢古蜀国的的山水，定居蜀地，很受子民爱戴。|头像=广陵王-微笑}}\n{{对话|我|她时常施用术法帮助子民，后来杜荆子在本地仙解，魂归此地。|头像=广陵王-微笑}}\n{{对话|左慈|她的确在此处仙解。风中还能感应到她的术。}}\n{{对话|我|真的？如何能感应到……等等，师尊，船为什么在江面打转？！|头像=广陵王-惊讶}}\n{{对话|左慈|不对——}}\n{{对话|我|呃——|头像=广陵王-惊讶}}\n{{旁白|江面情况骤变，我们的小舟，被巨大的漩涡转眼搅碎！}}\n{{旁白|惊涛骇浪，将我们吞入水中……}}\n\n{{旁白|【无名之地】}}\n{{旁白|我张开双眼，眼前一片漆黑，只能慌乱地在身旁摸索。很快，熟悉的手掌包住了我的手。}}\n{{对话|左慈|吾在此处，莫要担忧。}}\n{{对话|我|心纸君都不能用了……|头像=广陵王-严肃}}\n{{对话|左慈|此处或许有阵法禁制。}}\n{{对话|我|师尊，这是何处？|头像=广陵王-严肃}}\n{{对话|左慈|山崩引发了地动，江面出现漩涡，将吾们吸入了江下的空洞。}}\n{{对话|左慈|你昏迷的时候，吾查看了附近情况。这里应是古蜀国的遗迹。}}\n{{对话|我|……你声音不对劲，你受伤了？|头像=广陵王-严肃}}\n{{对话|左慈|不必担心吾。退后些，吾要试着解开术的禁制。}}\n{{旁白|师尊唤出仙胎灵蝶，但灵蝶刚被唤出，便枯萎凋雾，从师尊的肩上滚落下去……}}\n{{旁白|在转瞬的微光下，我看到他的雪发已经失去光泽。}}\n{{对话|我|你待在这，是不是比我还要难受？|头像=广陵王-严肃}}\n{{对话|左慈|不必担心。}}\n{{对话|我|这里的术，对仙人的伤害很大吗？|头像=广陵王-严肃}}\n{{旁白|他又唤出一只灵蝶，让我看清他的眼眸。里面带着笑意，似是抚慰。}}\n{{对话|左慈|这次，你不羡慕仙人的力量了吗？}}\n{{对话|左慈|大部分凡人都羡慕仙人之力，比如说，古蜀国的国主。}}\n{{对话|我|杜荆子庇护他的子民，他会羡慕，也是理所当然。|头像=广陵王-点头}}\n{{对话|左慈|只是，羡慕会渐渐地变质。}}\n{{旁白|他握着我的手，将手掌贴在石壁上，上面有斑驳的刻画，刻着古蜀的巫文。}}\n{{对话|我|是咒语……|头像=广陵王-惊讶}}\n{{对话|左慈|嗯，你还记得古巫的咒语，吾很欣慰}}\n{{对话|我|可是，这个咒语……是囚禁仙人的咒语。|头像=广陵王-严肃}}\n{{对话|我|建造这间石室的人，在借天地之力，将仙人囚禁在此地？|头像=广陵王-严肃}}\n{{对话|左慈|这里就是所谓的……杜荆子仙解之地。}}\n{{对话|左慈|她被活活囚禁至死。她的仙力也永远留在了古蜀国，为国主取用。}}\n{{对话|我|我们得出去，师尊不能留在这种地方！|头像=广陵王-生气}}\n{{对话|左慈|你很容易离开——只要杀了吾，囚室就会放你走。}}\n{{对话|我|……什么？！|头像=广陵王-惊讶}}\n{{对话|左慈|吾死后，囚室中的术会将你视作来取用仙力的国主，解除禁锢。}}\n{{对话|左慈|你，带刀了吗？ }}\n{{对话|我|我不会这样做！|头像=广陵王-摇头}}\n{{对话|左慈|没关系，吾带了。只是怕吾的兵刃你用不惯……啊……}}\n{{旁白|他话音刚落便被我抱住。我紧紧抱着他，不愿松开。}}\n{{旁白|漫长寂静之中，他苦笑一声，拥住了我，回应了这个拥抱。}}\n{{对话|左慈|……吾说笑的。你来益州后，一直闷闷不乐……}}\n{{对话|我|不好笑！这个笑话一点都不好笑！|头像=广陵王-摇头}}\n{{对话|左慈|好，吾以后不说了。}}\n{{对话|左慈|抱紧吾。留在这里的术已经被削弱得差不多了，准备离开吧。}}\n{{对话|我|出口打开了？在哪里？|头像=广陵王-惊讶}}\n{{对话|左慈|哪里都是。}}\n{{对话|我|这又是个不好笑的笑话吗？哈哈哈……可是又有点好笑……|头像=广陵王-微笑}}\n{{旁白|他垂眸望着我，双唇难得噙着明显的笑意。}}\n{{对话|左慈|无一物……开阵。}}\n\n{{旁白|【古蜀沟渠】}}\n{{对话|我|…………|头像=广陵王-惊讶}}\n{{对话|我|……………………师尊……我们……出来了……|头像=广陵王-微笑}}\n{{对话|左慈|是，出来了。}}\n{{对话|我|你下次……可以先提醒我一下吗？比如……比如整条江水都会被抽干……之类的……|头像=广陵王-无语}}\n{{旁白|在仙家触器“无一物”的阵法下，囚室轰然破碎。而囚室之上的整片江水，也瞬间被抽干。}}\n{{旁白|江水化作水龙被抽上高空，又化为甘霖落下……}}\n{{旁白|干涸的河床上，有几条小渔船和货船搁置；人们呆滞地看着这一幕，甚至无人注意到我们……}}\n{{旁白|恭喜达成结局【江竭】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n[[分类:活动剧情]]\n[[分类:鸢记]]"
+}

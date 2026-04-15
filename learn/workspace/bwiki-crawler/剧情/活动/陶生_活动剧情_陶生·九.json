@@ -1,0 +1,529 @@
+{
+  "title": "陶生/活动剧情/陶生·九",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙权",
+    "孙策",
+    "我",
+    "甘宁",
+    "荀彧",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "搞什么……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你敢动一下，我就剁了你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……谁是杀人者，自己站出来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "其实……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "没你什么事！谁杀的蒯越，自己站出来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我妹妹在哪里？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "老子对你妹没兴趣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你是被她追来这里的，一定想伺机报复。你对她做了什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "谁知道你妹妹会不会是那个被陶人选中的杀人者？杀人者逃逸，还有个哥哥提着刀替她封口。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我妹妹若是，她何必隐瞒此事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "谁说得准呢？孙策你好杀人，说不定就是想换个法子杀人，找点乐子？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "先不要内讧了。首先，“孙尚香是杀人者”这一点可以先记下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你敢怀疑我妹妹？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……孙策，你先坐下。坐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "既然“孙尚香是杀人者”可以被记下，那请替我记一条。“蒯越是杀人者”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……胡言乱语。他不是死者吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他可以自杀吧？先隐藏孙尚香的行踪，然后再自杀。如果杀人者是蒯越和孙尚香中的任意一人，那眼前的局面就截然不同。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "是的……假设蒯越是杀人者，杀人者自杀，但游戏没有结束。那么，今夜陶人会选定新的杀人者吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "如果孙尚香是，那杀人者还在。她也必须回来参加今夜的游戏，陶人才会告诉她今夜的目标。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我不明白，如果陶人想杀的不止一人，为什么不直接全在第一夜就告诉被选定的杀人者？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那样的话，又何必一夜只杀二人？一夜之间全杀完、迅速完成陶人的愿望，继而实现自己的愿望不好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "是的。没必要多留时间给众人推测，增加暴露的风险。只是，还有一种更极端的情况……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……如果是那种情况， 那么之前推测的条件就悉数不成立了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "什么情况？为什么会不成立？你们怎么不说话了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "简单来说，若蒯越是杀人者，杀人者死，游戏仍不结束，那么接下来我们就要寻找新的让游戏结束的方式。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "然后，若孙尚香或其他人是杀人者，那就要把此人找出来……杀掉，来看游戏是否会结束。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "……不是一夜就会结束的吗……要一直杀下去吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "那如果还有一种情况呢？蒯越和孙尚香都不是杀人者，而是死者。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "一夜杀二人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "管他一夜杀几个人呢，今夜选我，我就全杀了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你说什么？再说一遍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "这种程度的话都让你不爽了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不。我不是在质问。是真的想再听一遍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……管他一夜杀几个人呢，今夜选我，我就全杀了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "原来如此……我明白了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "不是，你们到底明白什么了？！我妹妹下落有思绪了吗？说说啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，如果是你被陶人选中了，让你今夜杀蒯越，你会怎么做？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……那就……杀蒯越啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不，你不要被我们推测出的规则限制住了。你今夜入户杀人，杀完人，第二天邻居就会发现……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那就只能都灭口了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……对啊，为什么要等着被一群人发现？除了你、阿香和阿权，把其他人都杀了不就死无对证了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "终究还是“武力”啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "哈，是啊。以这个思路，有人约可以排除嫌疑了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "是我、兄长和广陵王吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "不。是殿下、孙策将军和甘宁。唯有三位，可在一夜之间杀尽可能多的人却不杀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "对剩下的软脚蟹来说，杀人恐怕很难吧？几位公子哥怕是连只鸡都没杀过。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "哈哈哈……看来果然昨夜是你妹妹杀了蒯越，换做其他软脚蟹动手，杀人的动静估计比杀猪都大。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "说起来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我昨夜在室内，透过门缝，看见陶人夜游。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "如果陶人会协助杀人者杀人，那么确实可能令人死得无声无息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "是从我们寝室前经过的？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……对，是在孙权来之前。我看见了，但怕你冲动追出去，没跟你说。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "或许有陶人会协助杀人者杀死当夜的目标，也仅限于杀当夜的目标……不然，杀人者就可凭借陶人，一夜杀死尽可能多的人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那阿香更不可能是杀人者了啊。她昨夜在见蒯越，两人都在客舍。抬手就能杀了，何必还要等什么陶人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "这个揣测太牵强了。有可能仅仅只是时机上的巧合……不如先将孙尚香的身分和下落暂时搁置，容后再议吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "诸位各自回去休整，等夜里再聚，如何？"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·九'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E4%B9%9D",
+  "crawled_at": "2026-04-12T22:06:52.713805",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·九'''=\n</center>\n\n{{对话-头}}\n{{旁白|【主屋】}}\n{{旁白|死寂的室内，孙权忐忑地抬头，看向兄长。}}\n{{旁白|和我回到主屋后，孙策将弟弟拉到了自己身后，勒令其他人立刻坐下。他绕着室内缓缓踱步，目光如刀刃般滑过每个人的脖颈。}}\n{{对话|甘宁|搞什么……}}\n{{对话|孙策|你敢动一下，我就剁了你。|头像=孙策}}\n{{对话|孙策|……谁是杀人者，自己站出来。|头像=孙策}}\n{{对话|诸葛瑾|其实……|头像=诸葛瑾}}\n{{对话|孙策|没你什么事！谁杀的蒯越，自己站出来！|头像=孙策}}\n{{旁白|室内又暂时陷入死寂；随后，孙策停下了脚步，站在了甘宁身后。}}\n{{对话|孙策|……我妹妹在哪里？}}\n{{对话|甘宁|老子对你妹没兴趣。|头像=甘宁}}\n{{对话|孙策|你是被她追来这里的，一定想伺机报复。你对她做了什么？}}\n{{旁白|心理|蒯越死了。孙尚香失踪。}}\n{{旁白|心理|死法和之前士燮的死法一样，浸泡在血水之中……}}\n{{对话|甘宁|谁知道你妹妹会不会是那个被陶人选中的杀人者？杀人者逃逸，还有个哥哥提着刀替她封口。}}\n{{对话|孙策|我妹妹若是，她何必隐瞒此事？|头像=孙策}}\n{{对话|甘宁|谁说得准呢？孙策你好杀人，说不定就是想换个法子杀人，找点乐子？}}\n{{对话|荀彧|先不要内讧了。首先，“孙尚香是杀人者”这一点可以先记下。|头像=荀彧}}\n{{对话|孙策|你敢怀疑我妹妹？！|头像=孙策}}\n{{对话|我|……孙策，你先坐下。坐。|头像=广陵王-严肃}}\n{{对话|我|既然“孙尚香是杀人者”可以被记下，那请替我记一条。“蒯越是杀人者”。|头像=广陵王-严肃}}\n{{对话|士燮|……胡言乱语。他不是死者吗？|头像=士燮}}\n{{对话|我|他可以自杀吧？先隐藏孙尚香的行踪，然后再自杀。如果杀人者是蒯越和孙尚香中的任意一人，那眼前的局面就截然不同。|头像=广陵王-严肃}}\n{{对话|荀彧|是的……假设蒯越是杀人者，杀人者自杀，但游戏没有结束。那么，今夜陶人会选定新的杀人者吗？|头像=荀彧}}\n{{对话|荀彧|如果孙尚香是，那杀人者还在。她也必须回来参加今夜的游戏，陶人才会告诉她今夜的目标。|头像=荀彧}}\n{{对话|孙策|……我不明白，如果陶人想杀的不止一人，为什么不直接全在第一夜就告诉被选定的杀人者？|头像=孙策}}\n{{对话|我|那样的话，又何必一夜只杀二人？一夜之间全杀完、迅速完成陶人的愿望，继而实现自己的愿望不好吗？|头像=广陵王-严肃}}\n{{对话|荀彧|是的。没必要多留时间给众人推测，增加暴露的风险。只是，还有一种更极端的情况……|头像=荀彧}}\n{{对话|我|……如果是那种情况， 那么之前推测的条件就悉数不成立了。|头像=广陵王-点头}}\n{{旁白|心理|“被选中的杀人者不止一人”。}}\n{{对话|孙策|什么情况？为什么会不成立？你们怎么不说话了？}}\n{{旁白|我和荀彧换了眼神，没有说出口。}}\n{{对话|士燮|简单来说，若蒯越是杀人者，杀人者死，游戏仍不结束，那么接下来我们就要寻找新的让游戏结束的方式。}}\n{{对话|士燮|然后，若孙尚香或其他人是杀人者，那就要把此人找出来……杀掉，来看游戏是否会结束。}}\n{{对话|诸葛瑾|……不是一夜就会结束的吗……要一直杀下去吗……|头像=诸葛瑾}}\n{{对话|士燮|那如果还有一种情况呢？蒯越和孙尚香都不是杀人者，而是死者。}}\n{{对话|诸葛诞|一夜杀二人吗？|头像=诸葛诞}}\n{{对话|甘宁|管他一夜杀几个人呢，今夜选我，我就全杀了。|头像=甘宁}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|你说什么？再说一遍。|头像=广陵王-挑眉}}\n{{对话|甘宁|这种程度的话都让你不爽了吗？|头像=甘宁}}\n{{对话|我|不。我不是在质问。是真的想再听一遍。|头像=广陵王-摇头}}\n{{对话|甘宁|……管他一夜杀几个人呢，今夜选我，我就全杀了。|头像=甘宁}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|！！！|头像=广陵王-生气}}\n{{对话|荀彧|原来如此……我明白了！|头像=荀彧}}\n{{对话|孙策|不是，你们到底明白什么了？！我妹妹下落有思绪了吗？说说啊！|头像=孙策}}\n{{对话|我|孙策，如果是你被陶人选中了，让你今夜杀蒯越，你会怎么做？|头像=广陵王-微笑}}\n{{对话|孙策|……那就……杀蒯越啊。|头像=孙策}}\n{{对话|我|不，你不要被我们推测出的规则限制住了。你今夜入户杀人，杀完人，第二天邻居就会发现……|头像=广陵王-摇头}}\n{{对话|孙策|那就只能都灭口了。|头像=孙策}}\n{{对话|孙策|……对啊，为什么要等着被一群人发现？除了你、阿香和阿权，把其他人都杀了不就死无对证了？|头像=孙策}}\n{{对话|我|终究还是“武力”啊。|头像=广陵王-微笑}}\n{{对话|荀彧|哈，是啊。以这个思路，有人约可以排除嫌疑了。|头像=荀彧}}\n{{对话|孙权|是我、兄长和广陵王吗？|头像=孙权}}\n{{对话|荀彧|不。是殿下、孙策将军和甘宁。唯有三位，可在一夜之间杀尽可能多的人却不杀。|头像=荀彧}}\n{{对话|甘宁|对剩下的软脚蟹来说，杀人恐怕很难吧？几位公子哥怕是连只鸡都没杀过。|头像=甘宁}}\n{{对话|甘宁|哈哈哈……看来果然昨夜是你妹妹杀了蒯越，换做其他软脚蟹动手，杀人的动静估计比杀猪都大。|头像=甘宁}}\n{{对话|我|说起来……|头像=广陵王-挑眉}}\n{{旁白|心理|此前的回溯中，虽然已经知道陶人会协助杀人，但暂时还是先不要公布回溯之事……一是没有说服力，二是会引发混乱……}}\n{{对话|我|……我昨夜在室内，透过门缝，看见陶人夜游。|头像=广陵王-微笑}}\n{{对话|我|如果陶人会协助杀人者杀人，那么确实可能令人死得无声无息。|头像=广陵王-微笑}}\n{{对话|孙策|是从我们寝室前经过的？！}}\n{{对话|我|……对，是在孙权来之前。我看见了，但怕你冲动追出去，没跟你说。}}\n{{对话|我|或许有陶人会协助杀人者杀死当夜的目标，也仅限于杀当夜的目标……不然，杀人者就可凭借陶人，一夜杀死尽可能多的人。}}\n{{对话|孙策|那阿香更不可能是杀人者了啊。她昨夜在见蒯越，两人都在客舍。抬手就能杀了，何必还要等什么陶人？}}\n{{对话|荀彧|这个揣测太牵强了。有可能仅仅只是时机上的巧合……不如先将孙尚香的身分和下落暂时搁置，容后再议吧。|头像=荀彧}}\n{{对话|我|诸位各自回去休整，等夜里再聚，如何？|头像=广陵王-微笑}}\n{{旁白|借荀彧的卷轴，记下的一些脉络……}}\n{{旁白|陶人会在试胆过程中选中一人，用“遂愿”引诱此人，杀死今夜陶人选择的目标。}}\n{{旁白|一夜的目标人数暂无法确定。虽然之前几次回溯中死者都是一人，但这次出现了一死一失踪的情况。}}\n{{旁白|陶人会协助杀人者杀人。他人介入陶人的夜游，自己也会成为陶人。但陶人协助杀害的对象仅限于当夜的目标。}}\n{{旁白|强行阻拦杀人的结果暂时不明。但根据上一条，可能会同样得到“同化为陶人”之类的惩罚。}}\n{{旁白|结束游戏的方式暂时不明。此前，作为杀人者的蒯越曾被陶人同化以及死于火中，但我仍然发生了回溯……}}\n{{旁白|或者，是我结束游戏的方式不明？}}\n{{旁白|我在死亡时会进入回溯……之前的记忆并不会消失。看眼下局势，其他人似乎并没有之前的记忆。}}\n{{旁白|孙尚香消失，生死下落不明。}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·十|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

@@ -1,0 +1,538 @@
+{
+  "title": "密探留音/文丑",
+  "category": "密探留音",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "广陵王殿下，好久不见。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "可能之后很久都不会见到了，派门中有些……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "小小的骚乱。呵呵……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我们搬来墨山有段时日了，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "越搬越远，墨山估计也待不久，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "战火蔓延，没有一处安生地方。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我们在墨山上开垦了田地，颜良很细心地照料着，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "昨天刚种了个什么瓜，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "就是傅融给的种子里的一种。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "院子外是鱼塘，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "太阳下山时能看到成群飞舞的蜉蝣。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "殿下见过蜉蝣吗？也许没有注意过吧。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "一种生在水边的有翅小虫，纤细漂亮，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "长大后会飞离水面，不吃不喝，交配完就死。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "成片成片的死，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "灰霜一样在水面和地面落上厚厚一层。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "是不是很无趣的生物？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "无害也无益，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "不知道为什么生，也不知道为什么死，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "除了繁衍后代，没有任何生存的目的与意义。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "……听上去比我之前那支蜉蝣军好一些，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "都是朝生暮死，至少它们能避开许多人间的苦难。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "脱离了蜉蝣军，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "死亡并没有变得很遥远，烦恼跟着增多，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "墨家门徒们也出现了分歧。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "哈哈……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "还是有很多人按耐不住自己的心里的小欲望，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "过不惯粗茶淡饭的日子。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "毕竟，黄金啊、丝绸啊、葡萄荔枝美玉白璧，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "宅邸美人，官位权势，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "可是许多人终其一生追逐的。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "墨家除暴之念，若不够坚定，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "便会轻易被这些浮华之物腐蚀。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "一部分门徒生了避世不出的想法，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "把偃甲术用在农具上，造了米碓、水车和犁具。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "另一部分人坐不住，想下山惩恶除暴，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "阻止不义之战，把武器改造得越发凶悍。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "还有一部分呢……就想把我们卖给那些军阀。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "凌统来了，带了些情报过来。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "有人向黄祖出卖了我们，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "这个军阀对墨家的战力很感兴趣。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "也许，我们又要开始迁居了。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "就算自尽，也不可沦为他人满足私欲的兵器。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我们与他们迟早有一场恶战。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "希望颜良种的瓜，能在这之前长熟……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "殿下还记得自己说过的那句“仁者无敌”吗？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "当“仁者”很难吧，昼夜劳心，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "神容都憔悴了，看得人心疼。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "哈……每次回想，会不自觉笑起来，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "真是可爱的发言。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "古往今来，从不乏把“仁爱”挂在嘴边的人，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "仁爱有等级之分有亲疏之别……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "“仁者无敌”……听上去真不靠谱。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "无敌的仁者，干掉所有的敌人之后，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "先得封赏手下吧？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "于是，原本被人抢走土地的人，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "反过来抢走别人的土地。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "原本不愿为人家奴的人，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "反过来拥有了成千上万的家奴。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "更别提仁者本身了。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "哪个仁者成就了霸业之后，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "还是自己砍柴自己烧洗澡水？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "需要柴火的时候，嘴上喊着仁者无敌。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "等坐上王位了，柴火就可以一把火烧了，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "哪朝哪代不是如此呢？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "人嘛，需要别人支持的时候，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "就会拍着别人的肩膀喊挚友。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "不需要了，就是一群新鲜的肥肉。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我不抱希望，殿下。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我很早之前，就对人没有任何希望了。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我的师父，是一位墨家游侠。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "他要往扬州去，途径了颜氏府邸。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "他姓虞，身边有他的儿子同行。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "父子俩原要渡江去江东见程普先生，向剑炉问剑。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "程普先生十年开一炉，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "那年现世的是一把桃花色的剑。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "剑选择了凌统，真有眼光，不，剑光。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "是吧，凌统？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "师父来府上时，给下人们讲墨家十论，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "他说官无常贵，民无终贱，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "要让饥者得食，寒者得衣，劳者得息。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "这些话传了出去，家主很不安，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "认为是邪说，将人赶走了。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "师父带着孩子，在县外三里的梧桐树下讲学。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "颜良会送我们去那，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "寻一个出去踏青的借口，避免府中起疑。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "有一次，他旁听了。回去的路上，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "他问，这些人真的没有撒谎吗，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "为了宣扬“有能则举之，无能则下之”的尚贤之论，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "造了尧舜禅让的上古美谈，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "可谁又知道，尧舜禹是怎么承接的？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "颜良很少会质疑别人，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "但如果连他都听出不对了，那就说明肯定有问题。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "其实动动脑子就知道了，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "贵族们宁可将沃田荒废，也不给饥民种植，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "商贾宁可让豆子烂在谷仓，也不施舍给穷人，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "更何况天下？怎么可能会有天子将天下拱手送人？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "想想就知道是假的，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "但门徒们愿意相信，并为此舍生忘死。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "人啊，终究只想听见自己想听见的，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "相信自己想相信的……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我见惯了媚上欺下的小人，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "见惯了虚伪势利的贵族，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "不相信世上会有利益之外的真理，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "却总是……被这些话吸引。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "是报复心作祟吗？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "还是真的被更伟大的东西感召了？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "若两者混杂，则墨心不纯粹，只是乱民之心而已。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "若纯有一者，我却……抛却不下对上位者的恨意。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我有时会想，倘若有一天，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "殿下走到了至高的那个位置，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "真的会和原先的那些人不一样吗？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "殿下能容许墨家的存在吗？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "容许在你的权力与律法之外，有人越位执行公义？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "还是说，会将我们奉为显学呢？brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我啊，距离真正的钜子还远远不足。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我会因为私仇和颜良争执……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "他提出想回乡祭拜父母的时候，我感受到了……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "暴怒。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "……令我自己都感到恐惧的暴怒，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "像一团烈火，轰然烧去了理智。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "明明过去了那么久……明明……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "他们也是他的至亲。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我满嘴的仁爱，却连包容他人的天性都做不到。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "我在暴怒失控时……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "对他说了不好的话，也说了双亲……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "……brbr"
+    },
+    {
+      "type": "narration",
+      "text": "抱歉，说了多余的话。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "一个连怒火都控制不了、任凭怒火烧伤至亲的人，brbr"
+    },
+    {
+      "type": "narration",
+      "text": "实在是……没有资格要求别人什么。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "好了，就说到这吧。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "凌统要下山了，我们去送送他。brbr"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2%E7%95%99%E9%9F%B3/%E6%96%87%E4%B8%91",
+  "crawled_at": "2026-04-12T22:45:03.348100",
+  "raw_wikitext": "{{密探留音|头|文丑}}\n{{密探留音|文丑|01|开始}}\n广陵王殿下，好久不见。<br><br>\n可能之后很久都不会见到了，派门中有些……<br><br>\n小小的骚乱。呵呵……<br><br>\n我们搬来墨山有段时日了，<br><br>\n越搬越远，墨山估计也待不久，<br><br>\n战火蔓延，没有一处安生地方。<br><br>\n我们在墨山上开垦了田地，颜良很细心地照料着，<br><br>\n昨天刚种了个什么瓜，<br><br>\n就是傅融给的种子里的一种。<br><br>\n院子外是鱼塘，<br><br>\n太阳下山时能看到成群飞舞的蜉蝣。<br><br>\n殿下见过蜉蝣吗？也许没有注意过吧。<br><br>\n一种生在水边的有翅小虫，纤细漂亮，<br><br>\n长大后会飞离水面，不吃不喝，交配完就死。<br><br>\n成片成片的死，<br><br>\n灰霜一样在水面和地面落上厚厚一层。<br><br>\n是不是很无趣的生物？<br><br>\n无害也无益，<br><br>\n不知道为什么生，也不知道为什么死，<br><br>\n除了繁衍后代，没有任何生存的目的与意义。<br><br>\n……听上去比我之前那支蜉蝣军好一些，<br><br>\n都是朝生暮死，至少它们能避开许多人间的苦难。<br><br>\n脱离了蜉蝣军，<br><br>\n死亡并没有变得很遥远，烦恼跟着增多，<br><br>\n墨家门徒们也出现了分歧。<br><br>\n哈哈……<br><br>\n还是有很多人按耐不住自己的心里的小欲望，<br><br>\n过不惯粗茶淡饭的日子。<br><br>\n毕竟，黄金啊、丝绸啊、葡萄荔枝美玉白璧，<br><br>\n宅邸美人，官位权势，<br><br>\n可是许多人终其一生追逐的。<br><br>\n墨家除暴之念，若不够坚定，<br><br>\n便会轻易被这些浮华之物腐蚀。<br><br>\n一部分门徒生了避世不出的想法，<br><br>\n把偃甲术用在农具上，造了米碓、水车和犁具。<br><br>\n另一部分人坐不住，想下山惩恶除暴，<br><br>\n阻止不义之战，把武器改造得越发凶悍。<br><br>\n还有一部分呢……就想把我们卖给那些军阀。<br><br>\n凌统来了，带了些情报过来。<br><br>\n有人向黄祖出卖了我们，<br><br>\n这个军阀对墨家的战力很感兴趣。<br><br>\n也许，我们又要开始迁居了。<br><br>\n就算自尽，也不可沦为他人满足私欲的兵器。<br><br>\n我们与他们迟早有一场恶战。<br><br>\n希望颜良种的瓜，能在这之前长熟……<br><br>\n{{密探留音|文丑|01|结束}}\n{{密探留音|文丑|02|开始}}\n殿下还记得自己说过的那句“仁者无敌”吗？<br><br>\n当“仁者”很难吧，昼夜劳心，<br><br>\n神容都憔悴了，看得人心疼。<br><br>\n哈……每次回想，会不自觉笑起来，<br><br>\n真是可爱的发言。<br><br>\n古往今来，从不乏把“仁爱”挂在嘴边的人，<br><br>\n仁爱有等级之分有亲疏之别……<br><br>\n“仁者无敌”……听上去真不靠谱。<br><br>\n无敌的仁者，干掉所有的敌人之后，<br><br>\n先得封赏手下吧？<br><br>\n于是，原本被人抢走土地的人，<br><br>\n反过来抢走别人的土地。<br><br>\n原本不愿为人家奴的人，<br><br>\n反过来拥有了成千上万的家奴。<br><br>\n更别提仁者本身了。<br><br>\n哪个仁者成就了霸业之后，<br><br>\n还是自己砍柴自己烧洗澡水？<br><br>\n需要柴火的时候，嘴上喊着仁者无敌。<br><br>\n等坐上王位了，柴火就可以一把火烧了，<br><br>\n哪朝哪代不是如此呢？<br><br>\n人嘛，需要别人支持的时候，<br><br>\n就会拍着别人的肩膀喊挚友。<br><br>\n不需要了，就是一群新鲜的肥肉。<br><br>\n我不抱希望，殿下。<br><br>\n我很早之前，就对人没有任何希望了。<br><br>\n我的师父，是一位墨家游侠。<br><br>\n他要往扬州去，途径了颜氏府邸。<br><br>\n他姓虞，身边有他的儿子同行。<br><br>\n父子俩原要渡江去江东见程普先生，向剑炉问剑。<br><br>\n程普先生十年开一炉，<br><br>\n那年现世的是一把桃花色的剑。<br><br>\n剑选择了凌统，真有眼光，不，剑光。<br><br>\n是吧，凌统？<br><br>\n师父来府上时，给下人们讲墨家十论，<br><br>\n他说官无常贵，民无终贱，<br><br>\n要让饥者得食，寒者得衣，劳者得息。<br><br>\n这些话传了出去，家主很不安，<br><br>\n认为是邪说，将人赶走了。<br><br>\n师父带着孩子，在县外三里的梧桐树下讲学。<br><br>\n颜良会送我们去那，<br><br>\n寻一个出去踏青的借口，避免府中起疑。<br><br>\n有一次，他旁听了。回去的路上，<br><br>\n他问，这些人真的没有撒谎吗，<br><br>\n为了宣扬“有能则举之，无能则下之”的尚贤之论，<br><br>\n造了尧舜禅让的上古美谈，<br><br>\n可谁又知道，尧舜禹是怎么承接的？<br><br>\n颜良很少会质疑别人，<br><br>\n但如果连他都听出不对了，那就说明肯定有问题。<br><br>\n其实动动脑子就知道了，<br><br>\n贵族们宁可将沃田荒废，也不给饥民种植，<br><br>\n商贾宁可让豆子烂在谷仓，也不施舍给穷人，<br><br>\n更何况天下？怎么可能会有天子将天下拱手送人？<br><br>\n想想就知道是假的，<br><br>\n但门徒们愿意相信，并为此舍生忘死。<br><br>\n人啊，终究只想听见自己想听见的，<br><br>\n相信自己想相信的……<br><br>\n我见惯了媚上欺下的小人，<br><br>\n见惯了虚伪势利的贵族，<br><br>\n不相信世上会有利益之外的真理，<br><br>\n却总是……被这些话吸引。<br><br>\n是报复心作祟吗？<br><br>\n还是真的被更伟大的东西感召了？<br><br>\n若两者混杂，则墨心不纯粹，只是乱民之心而已。<br><br>\n若纯有一者，我却……抛却不下对上位者的恨意。<br><br>\n我有时会想，倘若有一天，<br><br>\n殿下走到了至高的那个位置，<br><br>\n真的会和原先的那些人不一样吗？<br><br>\n殿下能容许墨家的存在吗？<br><br>\n容许在你的权力与律法之外，有人越位执行公义？<br><br>\n还是说，会将我们奉为显学呢？<br><br>\n我啊，距离真正的钜子还远远不足。<br><br>\n我会因为私仇和颜良争执……<br><br>\n他提出想回乡祭拜父母的时候，我感受到了……<br><br>\n暴怒。<br><br>\n……令我自己都感到恐惧的暴怒，<br><br>\n像一团烈火，轰然烧去了理智。<br><br>\n明明过去了那么久……明明……<br><br>\n他们也是他的至亲。<br><br>\n我满嘴的仁爱，却连包容他人的天性都做不到。<br><br>\n我在暴怒失控时……<br><br>\n对他说了不好的话，也说了双亲……<br><br>\n……<br><br>\n抱歉，说了多余的话。<br><br>\n一个连怒火都控制不了、任凭怒火烧伤至亲的人，<br><br>\n实在是……没有资格要求别人什么。<br><br>\n好了，就说到这吧。<br><br>\n凌统要下山了，我们去送送他。<br><br>\n{{密探留音|文丑|02|结束}}\n{{密探留音|尾}}"
+}

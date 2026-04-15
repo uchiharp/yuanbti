@@ -1,0 +1,84 @@
+[
+  {
+    "id": "q_sunshangxiang_1",
+    "dimension": "S5",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "孙尚香",
+    "source_story": "江东之虎",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "孙尚香自幼习武，性情刚烈，从不甘于闺阁之中。面对兄长要将她许配联姻的安排——",
+    "options": [
+      {
+        "label": "A",
+        "text": "虽然心有不甘，但为家族大局只能顺从",
+        "scores": {
+          "S5": 1,
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "表面答应，暗中继续习武，保留自己的锋芒",
+        "scores": {
+          "S5": 3,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "当面拒绝，自己的命运只能由自己决定",
+        "scores": {
+          "S5": 5,
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙尚香的选择：以弓刀为伴，誓不做笼中鸟。"
+  },
+  {
+    "id": "q_sunshangxiang_2",
+    "dimension": "S7",
+    "cross_dimension": "S5",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「宁可枝头抱香死，何曾吹落北风中。」你更认同哪种处世态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "顺势而为，活着才有翻盘的机会",
+        "scores": {
+          "S7": 1,
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "该低头时低头，但骨子里不能丢",
+        "scores": {
+          "S7": 3,
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "宁可粉身碎骨，也不弯腰低头",
+        "scores": {
+          "S7": 5,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙尚香正是这般宁折不弯之人。"
+  }
+]

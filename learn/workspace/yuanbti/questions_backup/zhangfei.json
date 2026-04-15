@@ -1,0 +1,331 @@
+[
+  {
+    "id": "q_zhangfei_1",
+    "dimension": "S5",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "张飞",
+    "source_story": "华胥叛逃",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "「大哥留下的指令里不包括投降。」张飞面对绝境时绝对执行。如果你是张飞？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不投降执行命令到最后一刻",
+        "scores": {
+          "S5": 5,
+          "S10": 4,
+          "S9": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "在执行和变通之间找平衡",
+        "scores": {
+          "S5": 3.5,
+          "S8": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "活下去比死守命令更重要",
+        "scores": {
+          "S5": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张飞：绝对服从，杀人如报数字，从不偏离任务。"
+  },
+  {
+    "id": "q_zhangfei_2",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张飞",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「一个人头五十万，十颗人头四百八十万，三十颗人头一千两百万。行吗？」如果你接到一个报酬丰厚的刺杀任务？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先谈价钱再动手这是职业",
+        "scores": {
+          "S3": 5,
+          "S5": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先了解目标再决定接不接",
+        "scores": {
+          "S3": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "钱不重要看任务是否值得",
+        "scores": {
+          "S3": 2,
+          "S6": 1,
+          "S1": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张飞的佣金精确到个位。揭不开锅就去打工，零面子包袱。"
+  },
+  {
+    "id": "q_zhangfei_3",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张飞",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「以后凭借这张画票，我可以给你画像，免费。」在张飞的世界里「免费」就是最大善意。你会怎么表达在意？",
+    "options": [
+      {
+        "label": "A",
+        "text": "送一样自己最擅长的事",
+        "scores": {
+          "S2": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "默默保护对方不言语",
+        "scores": {
+          "S2": 1,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "直接说出口即使很笨拙",
+        "scores": {
+          "S2": 3,
+          "S7": 2,
+          "S5": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "「免费画像」就是张飞的告白，「让他睡吧」就是他的温柔。"
+  },
+  {
+    "id": "q_zhangfei_4",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张飞",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我的佣金很贵。是职业，不是爱好。」张飞对职业身份有明确边界。你在工作中？",
+    "options": [
+      {
+        "label": "A",
+        "text": "严格遵守职业规范和边界",
+        "scores": {
+          "S10": 5,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "基本遵守但必要时灵活处理",
+        "scores": {
+          "S10": 3.5,
+          "S5": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "规矩是死的人是活的",
+        "scores": {
+          "S10": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张飞是秩序的化身——职业守则、契约精神、精确数字。"
+  },
+  {
+    "id": "q_zhangfei_5",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你是绣衣楼密探，白天卖画为生。有人问你画值多少钱你怎么回答？",
+    "options": [
+      {
+        "label": "A",
+        "text": "报一个精确到个位的数字",
+        "scores": {
+          "S4": 4,
+          "S3": 5,
+          "S9": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "说一个大概的价格，值得关注",
+        "scores": {
+          "S4": 3,
+          "S7": 2,
+          "S3": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "画无价不卖，这说明了一",
+        "scores": {
+          "S4": 2,
+          "S6": 1,
+          "S3": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张飞：「一共五十万七千金。」精确到个位。"
+  },
+  {
+    "id": "q_zhangfei_6",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我在塔上早已算好落点，你掉在此处不会死，会断零到六根骨头。」面对这种精密计算你的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "佩服这种精确到残忍的专业性",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "太冷酷了人不是数字",
+        "scores": {
+          "S1": 2,
+          "S8": 4,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "有用就行不必在意方式",
+        "scores": {
+          "S1": 3.5,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张飞冷静到精确计算断骨数量。"
+  },
+  {
+    "id": "q_zhangfei_7",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张飞",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你看你们说话的样子，我以为你跟他睡过。」张飞的直接到了冒犯的程度。如果你的朋友对你说这种话？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接怼回去",
+        "scores": {
+          "S7": 4,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "笑笑不说话",
+        "scores": {
+          "S7": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "认真解释澄清",
+        "scores": {
+          "S7": 3,
+          "S4": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张飞：毒舌但不刻薄，直白到令人窒息。"
+  },
+  {
+    "id": "q_zhangfei_8",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「让他睡吧。他很累了。」",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「原来你不欣赏我的画。」",
+        "scores": {
+          "S8": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "两句话都是张飞极罕见的柔软——前者是唯一的温柔，后者是被否定时微妙的在意。"
+  }
+]

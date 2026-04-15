@@ -1,0 +1,197 @@
+[
+  {
+    "id": "warmup_01",
+    "warmup": true,
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你初入绣衣楼，收到一封没有署名的密信。信中写道：「今夜子时，城东仓库有异动。」你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不动声色，先查清寄件人的底细再决定",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "带上人马，按时去城东仓库一探究竟",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "先派一个探子去确认情况，自己坐镇绣衣楼",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这只是一道热身题，不计入你的最终得分。先感受一下答题方式吧——绣衣楼的每一步，都需要谨慎。"
+  },
+  {
+    "id": "warmup_02",
+    "warmup": true,
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼中，一位共事多日的密探即将离开，众人设宴饯行。他举杯对你说：「多谢殿下这些年的照拂。」你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "拍拍他的肩：「珍重。日后有难，绣衣楼的大门还为你开着。」",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "微微颔首：「一路顺风。江湖再见。\"，值得深思",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "笑了笑，举杯回敬：「去吧，别回头。你的路还长。\"",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "热身题，不计分。离别时你怎么表达——是滔滔不舍，还是淡然一别？"
+  },
+  {
+    "id": "warmup_03",
+    "warmup": true,
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼截获一份情报：敌方将在城中纵火嫁祸于你。要化解此局，最快的方法是提前除掉纵火者，但他只是一个被胁迫的普通百姓。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "在他行动前将其秘密控制，既阻止纵火又不伤其性命",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "让他动手，然后当场揭穿嫁祸，以此反击敌人",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "设法联系他的家人，用利害关系说服他放弃行动",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "热身题，不计分。底线在哪里——是一步都不能越，还是看代价够不够小？"
+  },
+  {
+    "id": "warmup_04",
+    "warmup": true,
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼的密探会议上，有人提出一个你认为是漏洞百出的计划。众人却纷纷附和。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直言不讳：「这个计划有致命缺陷，谁同意谁去送死。」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "会后单独找提出者，委婉指出问题所在，值得深思",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "当众提出疑问但不点名：「这个方案的某个环节",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "热身题，不计分。锋芒是藏在鞘里还是直出鞘——你的风格是什么？"
+  },
+  {
+    "id": "warmup_05",
+    "warmup": true,
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "朝廷新颁了一道对你极为不利的政令，若遵守则绣衣楼将损失大半情报网。但抗旨的后果可能牵连整个广陵。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "表面遵从，暗中用各种合法手段规避，保全情报网",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "上书朝廷，据理力争，通过正规渠道请求修改",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "拖延执行，同时寻找合适的政治时机再行动",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "热身题，不计分。规则是束缚还是武器——你如何与秩序共处？"
+  }
+]

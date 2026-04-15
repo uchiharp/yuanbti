@@ -1,0 +1,2853 @@
+{
+  "title": "鸢记·华宵/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "东光楼伙计",
+    "乞儿",
+    "亲卫",
+    "仆人",
+    "侍女",
+    "凶悍少年",
+    "刘辩",
+    "华服青年",
+    "古董摊贩",
+    "壮汉",
+    "奇怪的侍卫",
+    "女官",
+    "孩童",
+    "宗正",
+    "客人",
+    "宫门尉",
+    "家仆",
+    "我",
+    "拾荒孩子",
+    "流氓",
+    "烤鱼贩子",
+    "男人",
+    "盗贼",
+    "竹筒饭摊贩",
+    "草编摊贩",
+    "蛾使",
+    "西凉军官",
+    "货郎",
+    "贵族子弟",
+    "车夫",
+    "饥民",
+    "饥饿的妇人"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "宫门尉",
+      "text": "头像=副将",
+      "emotion": "查验无误，是广陵王的符传。广陵王离宫，打开宫门锁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今夜是十五，不用挂宵行旗，马车直接回绣衣楼吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "是。车夫，驾车过来接引！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "……等等，你是谁？来的时候没见有你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "奇怪的侍卫",
+      "text": "头像=黑人影",
+      "emotion": "我是新来的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "胡扯！最近哪有什么新来的侍卫？把头抬起来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "…………！！！等一下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "本王知道他，他是新来的……快点上车，你也一起上车！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……到底在想什么啊，陛下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "宫里闷得要死，都快把人闷到发疯了。我听说你进宫，还以为是来见我的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我有其他公务需要进宫。今天太晚了，我以为陛下已经睡了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "朕什么时辰睡，广陵王不知道吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "都、都在干什么呢？不许偷听，继续赶车！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "他们都不让我出崇德殿，我想去达兰林看看都不行……真的要疯了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那就少喝些酒啊，你这都是在发酒疯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你又取笑我！赐你个欺君之罪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "“欺负”的“欺”吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你还知道啊？你再欺负我，我可要拿天子的样子欺负回去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "亲卫，把马车调头。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "有样东西不当心被本王从宫里带出来了，得立刻还回……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "别！不许调头，我好不容易混出来的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我是为了陛下好。如今各地战乱频发，都城涌进了不少灾民，治安混乱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "再加上董卓的西凉军进驻城内，四处人心惶惶。你在宫外出了意外，我怎么和内廷交代？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你跟他们交代什么？给我交代就行。我就是想看看夜市，不做别的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "夜市是鱼龙混杂的地方，陛下若一定要看，我们就隔着街看个热闹，看完了就回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这不是有你亲自保护我吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "再说，还有什么比宫中更凶险、更可怕的地方吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "停车。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "陛下，你看那边的男人，他在墙角小解。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "还要去吗？夜市遍地都是这样的人哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……你去哪？站住！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "头像=屠夫",
+      "emotion": "……你、你干啥？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "头像=屠夫",
+      "emotion": "小哥别这样，俺、俺、俺被人盯着，有点尿不出……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "带着你的这团肉，到我看不见的地方去方便。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "头像=屠夫",
+      "emotion": "哎、哎……好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "给我回来！万一他打你怎么办？你刚刚离他那么近，他一伸手就能碰到你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "朕是天子，有天命庇护。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "你别像个街头流氓一样逞凶斗狠！什么都不必说了，我送陛下回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "朕要去逛夜市。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那臣立刻就发布急令，以藏匿盗贼的名义强行关了夜市。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "那边的流氓，你们要打架吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凶悍少年",
+      "text": "头像=少年",
+      "emotion": "啥？脑子坏了吧？你是来找碴的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……臣认输了。陛下可以去夜市，只是不许再去做危险的事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我就知道，还是广陵王心疼我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我们手拉手去夜市吧？我早就想这样正大光明走在外面了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "臣现在穿的是男装。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "去马车里换一套女装。我又不是没见过你换装。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "陛下喝醉了，在说醉话。今天他说的话，一个字都不许说出去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "是！属下一定守口如瓶！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "宫外鱼龙混杂，为了安全，陛下要全都听我的，不可以到处乱走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我哪次不听你的？……那是什么？我去看看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……蟾蜍上长着灵芝，是祥瑞？——广陵王，街上有人在卖祥瑞！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "只是用纸糊和竹针做的假货而已……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "连祥瑞都敢假造？这是死罪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "你是来挑事的吗？！管好你的烂嘴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "你敢顶嘴？——啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你放肆！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "找死——兄弟们，有人挑事，给他点颜色看看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "他们真的敢打我吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "亲卫，将这些人统统拿下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "我们……我们可是有西凉军当靠山的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "伪造祥瑞乃是重罪，谁给你当靠山都没用。带走，交给廷尉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "什么事？吵吵闹闹的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "叔父！叔父救我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "你是……广陵王？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "既然认出本王，就请将人犯交过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "……依我看，你才是人犯。这小子冒充广陵王，给我拿下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "你们都疯魔了吗？给我退……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "大胆！我是天子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "哈……哈哈哈哈！好笑！不仅来了个冒充广陵王的，还来了个敢冒充天子的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "这下真的可以直接丢进死牢了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "不得无礼，这是广陵王府的符……你做什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "我看你这符传也像假的，索性替你一劈二！——还等什么？把这两人带走，严刑拷问！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这里好黑……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "董卓，去死，董卓，去死……董卓……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "小声点，别被人发现了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……我们肯定会没事的，对吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "他们再怎么样也不至于真的敢对我们动刑……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "别怕。我在这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "如果我们被分开怎么办？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯……那我先把你丢下，自己逃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "广陵王好狠的心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还以为你会坚持不下去呢，就像从前一样哭哭闹闹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……你在这。只要你在我身边，我总能坚持下去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那如果我们真的要分开呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "就算分开，你也一定是站在我这边的。只要你是我的人，就总会回到我身边。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "这可……不一定啊。比如说……陈留王。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "提协弟做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "绣衣楼是直属于天子的密探机构，又不是直属于……刘辩的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "自从我登基，他每次见你，都像是装作没见到似的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他也是为了避嫌。陈留王很聪明，他知道自己差一点坐到你的位置上，日后容易引人疑心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你对我说实话。我们从小一起长大，如果是他当天子，你还会这么对我吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果是那样，你就会和现在的他一样，对我形同陌路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我才不会！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "你会。在那个情景下，你绝对不敢多看一眼“天子之剑”。多看一眼就是觊觎，就是僭越。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "你会装作没见到我，别人问起，你会说你对我不熟。渐渐的，你还会提防我、厌恶我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "那，我再问一句。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "如果我死了，协弟当天子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "陛下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……你会效命于他吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这话，臣当没听见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我没有让你暗查过协弟，从来没有。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对。绣衣楼从未暗查过陈留王。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……但这也没有用，对不对？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "他心里对我警惕了。芥蒂一旦有了，只会越来越大，变成压在心里的巨石。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我和他之间的问题，早已不是我愿不愿意效忠他，而是他敢不敢接受我的效忠。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "楼主。是我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……总算来了……外面安全吗？我要护送陛下离开这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "都已经被买通了。片刻后，牢内的烛火会熄灭，楼主听见三声狗叫之后，就可以往外面走。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "终于出来了……里面好脏，你看我的袖子！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "要不然，陛下回牢里，替他们打扫打扫？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "大胆，竟敢笑话朕！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "臣有罪，臣愿立刻马上现在随陛下回宫请罪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "看在今夜你护驾有功，赦你无罪。城里还有哪好玩的？带我去！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "置之死地而后生！我们再去夜市如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "对啊！我们可以正大光明从那骗子面前经过！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "买光他隔壁摊位所有的东西，独独不买他的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "陛下请客。你带了多少钱？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "钱？钱要怎么带？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "……弄个碗，往街边一坐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "好，全听广陵王的，就算你要在集市上把我卖了也无妨。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我倒是想卖，也得有人敢买啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "就算是个酒囊饭袋，也是值几个钱的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "不信的话，你卖卖看，保证不出一个时辰就有人要了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "哪有天子满口“钱”啊、“卖”啊的？……真是的，这话说的和先帝似的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这是什么，还挺好看的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "古董摊贩",
+      "text": "头像=黑人影",
+      "emotion": "这位公子，手轻点，这可是乌孙古董，别给我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "古董摊贩",
+      "text": "头像=黑人影",
+      "emotion": "哎哎哎，你摔碎了我摊位上的东西，得赔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "放手！不许碰我！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "先把手放开，我们会给你钱的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "真是无礼！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "人家还觉得倒霉呢，被你毛手毛脚打破了东西。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我不过就看看嘛，谁知道那么脆，碎片还差点划伤我的手呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "你算了吧，你躲得比谁都快。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "怎么胳膊肘往外拐……你看！那又是什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "草编摊贩",
+      "text": "头像=黑人影",
+      "emotion": "公子，这是茅草编的蚂蚱，这个是螳螂，公子看上哪个了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我记得这个！小时候你跟仙者们下山玩，从山下带回来一个！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "都多久的事了，你还记得呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "当然记得……这种草编，可还有别的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "草编摊贩",
+      "text": "头像=黑人影",
+      "emotion": "你喜欢什么，我可以给你编出来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "龙能编吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "草编摊贩",
+      "text": "头像=黑人影",
+      "emotion": "……啊……啊？这……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是“笼”！笼子的笼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "好啊，你们还敢来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是你啊……想不到吧，你的靠山不管用了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "真是看不出啊，你居然还有个西凉军官当靠山。不过他应该回去歇息了，没他，你能行？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "对付你这个细胳膊细腿的玩意，我单手就行！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "这么厉害，你当什么货郎啊？当将军啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "该不会是有隐疾，所以进不了军编户吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流氓",
+      "text": "头像=山贼甲",
+      "emotion": "大哥，你的摊子——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "我的摊子？……可恶！！！小贼，站住！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "哈！刘辩快跑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "好沉！他肯定骗了不少钱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "陛下第一次“赚”钱，打算怎么花？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我也不知道！这些钱能做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "边跑边想！快跑，他追上来了！哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "折腾大半夜，想必陛下也饿了，城中东光楼酒菜最好，不如在那用一餐吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "朕听说过，那里是雒阳最好的酒楼，从前是父皇的产业？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是啊。灵帝还是很会赚钱的。你最爱的美酒，那里应有尽有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "小心，别凑那么近看喷火。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这里人好多，我们坐哪里？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "雅座都坐满了，得想些办法……你去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我喜欢那边那个雅座，看百戏的视野好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "他们都吃完了，可以让座位了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "客人",
+      "text": "头像=黑人影2",
+      "emotion": "呃……我们还没吃完……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "盘子都空了，怎么没吃完？既然吃完了，为何还占着座位？让开。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "客人",
+      "text": "头像=黑人影2",
+      "emotion": "你谁啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "抱歉！他喝醉了，实在抱歉！——店家，这座的餐费我来结。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "客人",
+      "text": "头像=黑人影2",
+      "emotion": "我们能在东光楼雅座吃饭，差你这点钱吗？我们今天就坐在这坐到天亮！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我一定要那个位置。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……一定要？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "一定要。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……好吧，稍微等一下。我去找人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宗正",
+      "text": "头像=贵族老年男",
+      "emotion": "广陵王殿下也来了东光楼？不知雅座何处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "来得不巧，已经没位置了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宗正",
+      "text": "头像=贵族老年男",
+      "emotion": "那不如与我们同席？都是同僚，不必客气。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "陛下只想要那个雅座，宗正认识那边的客人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宗正",
+      "text": "头像=贵族老年男",
+      "emotion": "你们谁认识那边的人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贵族子弟",
+      "text": "头像=贵族中年男",
+      "emotion": "那是陈留周氏的人，我认识他们次席的少年……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宗正",
+      "text": "头像=贵族老年男",
+      "emotion": "拿着我的名牒，去给人家打个招呼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宗正",
+      "text": "头像=贵族老年男",
+      "emotion": "办好了，他们马上就走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这个位置果然舒服，朕的眼光没错。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "抢人位置赶人走，怎么感觉今晚我们像在雒阳欺男霸女一样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "有什么关系？菜牌让我看看，都有什么酒菜？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "珍珠米煨白鸭，红糟黄花鱼……从头到尾各来一份吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "陛下如此豪爽，请问，带钱了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这不是有你吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "臣的俸禄微薄，恐怕供不起陛下如此开销啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "可是朕为什么吃饭要付钱？普天之下莫非王土<ref>《诗经·小雅·北山》：“溥天之下，莫非王土；率土之滨，莫非王臣。大夫不均，我从事独贤。”</ref>，日月所照皆为臣妾<ref>班彪《奏议答北匈奴》：“汉秉威信，总率万国，日月所照，皆为臣妾。”</ref>……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "待会儿等店家把陶砂锅扣我们头上的时候，陛下可以把这段话再念一遍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "那怎么办？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "结账时就直接翻窗跑啊，欺男霸女嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "开玩笑的。宗正替我们签单了，这席的饭费由他请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我还以为你会把我留在这里洗碗，我再可怜巴巴地等你攒钱来赎我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "结果左等右等你不来，是你不想要我了，直接回宫扶持协……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "再说下去，臣就不敢吃饭了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "就算我想把你抵押在这，谁敢用你做工？怕不是没两天，后厨的盘子就全都被你打碎了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "到时候他们看我太败家，没准就把我扔街上了，你就可以把我捡回去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "想得倒美，你怎么知道人家不会反手把你卖去挖地宫？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "挖地宫是什么？好玩吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "……哪天有机会带你挖一挖。你……你肯定喜欢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "和宫里的口味差不多……为什么那么多人来吃？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "民间都向往宫廷口味，你吃腻了，他们觉得是绝味。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "早知道就不来那么大的酒楼吃饭了……那边的路边摊卖的是什么？花花绿绿的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "估计拿薯粉做的点心，加上花花绿绿的染料，捏成可爱的样子卖给小孩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……陛下，吃这个很幼稚的，而且不好吃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……嗯？你怎么知道不好吃？……你吃过。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "也不知道带一个给你的天子……哼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "那个，那个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那块匾是先帝钦赐给东光楼的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "怪不得，一看就是父皇的笔迹……这家店那么难吃，我要把匾收回去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "东光楼伙计",
+      "text": "头像=摊贩",
+      "emotion": "你们……你们是谁啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你看我们扛的梯子，我们是来修屋檐的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "东光楼伙计",
+      "text": "头像=摊贩",
+      "emotion": "没听老板说啊……算了算了，你们快修啊。别影响到客人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "好、好重！快走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "东光楼伙计",
+      "text": "头像=摊贩",
+      "emotion": "哎哎！两个骗子！有人偷了咱们的御匾！抬着匾逃了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "哈哈哈……你跑前面！快跑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "既然是难得出来……不妨带你去尝尝小食零嘴吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "好啊！宫里来来回回就那么几道菜，味道千篇一律，我早就吃腻了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不过要找个干净点的摊子，可不能吃出事情……那个怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这是什么鱼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "烤鱼贩子",
+      "text": "头像=屠夫",
+      "emotion": "就是小杂鱼，客人要一串吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你的忌口有哪些鱼？我记得食官手上有个卷轴，里面记着你的几百个忌口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "烤鱼贩子",
+      "text": "头像=屠夫",
+      "emotion": "二位买不买啊？不买也别挡着别的客人嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩童",
+      "text": "头像=路人小孩",
+      "emotion": "我要两串！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "要不算了吧……换一家。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "那是竹子吗？他把竹子放在锅里煮？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是竹筒饭，煮出来的饭食带有竹子的清香。试试？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我要尝尝！替我拿两个。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "竹筒饭摊贩",
+      "text": "头像=黑人影",
+      "emotion": "公子请，小心烫着。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "饭里的，是虫子吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "唔……民间的小食里经常有虫子混进去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好了好了，不吃就不吃。我们换一家。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "到目前为止，你吃进嘴里的只有一块糖饼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "那个也不好吃，干巴巴的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "怎么那么多人跟着我们啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "都是乞儿。你一路走一路买，一路买一路丢，他们今天的饭都指望你了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "那就多买点，我看看能跟多少人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "怎么跟舞龙似的，后面跟着长长一串人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这才叫真龙天子呀。你看，那边又是什么？好大的蒸汽。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是蒸笼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好了，蒸笼天子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "啊……走不动了。脚好痛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "所以才找个摊子带你坐下歇息呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "可是这个坐垫好硬，是干草编的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "垫着吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你的东西，我才不舍得呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "不知道为什么，今夜你的眼睛格外漂亮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是夜市的灯火吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "宫灯下的你，和此时此地的你，真的不一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "凑近些……让我看你看得更清楚些……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乞儿",
+      "text": "头像=路人小孩",
+      "emotion": "蒸笼！蒸笼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "拾荒孩子",
+      "text": "头像=黑人影",
+      "emotion": "蒸笼天子！哈哈哈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "和孩子计较什么……换个地方吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "他们笑话我！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那你怎么办？治他们罪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乞儿",
+      "text": "头像=路人小孩",
+      "emotion": "呦呦呦，蒸笼天子要把我们都蘸醋吃了！——唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "抓住你了！我要把你丢到达兰林的老虎园里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "哈哈……你快把他放下来，小心他吐你口水！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乞儿",
+      "text": "头像=路人小孩",
+      "emotion": "吐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "主人，他沐浴完了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他没闹吧？安神茶有让他喝下去吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "头像=宫女",
+      "emotion": "殿下，他……他就这样睡着了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "呼……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……疯玩了一夜，太累了吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "呼……好困……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "睡吧。我陪着你呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "呼……晚安，广陵王……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……晚安。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "他们没追上来……我们接下来去哪玩？出城吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "出城……出城也好，人少一些，你也能少惹事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "好，那我们坐马车出城。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "马车停靠在另一头了，我不敢放你再经过那段摊位了，我们得走去城门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "远吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不远，走两柱香的时间就到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "要走那么久？我走不动。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "那我叫城门尉来，调一台施幡车过来，运你回宫？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "不要回宫！我走。两柱香……我应该走得动。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "城外若是人烟稀少，那我们就算突然想要一起私奔也都不会被阻拦了，对吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "听听这话，真是没个皇帝样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "要皇帝样做什么？我今天只想做你的刘辩。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "今天不谈什么皇帝亲王，只有你和我，就像回到小时候那样……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "小时候？小时候的你，可是能和我一起在蜀山爬上爬下的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……别蹲在地上了，快起来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我走不动了，脚好痛……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "刚才可能有人在这个墙角呕吐或者小便。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我的脚磨破了，怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "谁让你穿着宫里的鞋子就出来了？这种鞋子走不了路的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还私奔呢，估计连洛水畔都没到，就要哭着闹着回宫了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我们买一台车吧？那边的那台车还算体面。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我去问问……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "请问，这台马车的主人是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "公子有什么事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我有一位好友身体不适，我想买下这台马车，送他回府休息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "此事需与主人商量。请公子稍等。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "家仆",
+      "text": "头像=侍从",
+      "emotion": "我家主人答应了。不过不是这台车，稍后有人会引来另一台车，给公子送来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……“送”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "家仆",
+      "text": "头像=侍从",
+      "emotion": "是，送给公子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "可否请问这家主人的身份？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "家仆",
+      "text": "头像=侍从",
+      "emotion": "我家主人是汝南袁氏二公子，袁绍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "袁氏的车，还真是舒服啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "毕竟是四世三公，随手拿来送人的车都是上等马车。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你见过袁绍吗？他的名声，这几年在士族间流传很广。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我只见过袁隗和袁基，两个说话阴阳怪气、罗里吧嗦的人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "啊……广陵王，车里有六博盒子！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "陛下想玩六博？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "打发时间嘛。陪我玩一把。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我选一六二枭，轮到你了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我……一三二兕。你掷骰子吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "三兕很少出的，你是不是在让着我？……啊！骰子——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "停车！没有骰子就没法玩了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我去找。你在车里坐着。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你找得到骰子吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "好像掉到草丛里去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "袁氏的车夫，你去帮她找。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "做什么呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我想试试驾车！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "六艺也是我自小学习的，别小看你的皇帝陛下啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "陛下还是歇歇吧，驾车很难，好不容易出来一趟，可别摔个鼻青脸肿的回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "驾！……驾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "要不下车和我们一起找骰子？驾车的马都很温驯，很难驱动的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我就不信我连两匹马都号令不了！驾……驾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "别丢人现眼了，下车透口气吧？马的味道多难闻啊。人家都在笑你呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "你替我盯着，那个车夫要是敢笑，我回去就定他的罪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "它们要怎样才肯走啊？驾？驾……呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "刘辩！勒紧缰绳！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "刘辩？！刘辩！你回我一声！刘辩——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "刘辩！醒醒，能听得到我说话吗？醒醒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "……好痛……咳……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "先别动。手脚都有知觉吗？有撞到头吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "浑身都在痛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我的手……是不是要断了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有，只是擦伤了一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "可是我好疼……你看，胳膊红了一大片。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "就知道不能让你驾车，还好只是些皮肉伤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我要是摔坏了，你怎么办？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我还能怎么办？只能落草为寇去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "既然我那么紧要，你为什么盯着马车看？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "马车坏了，我们怎么回去？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "走回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "走？不是有马吗？为什么不能骑马回去？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "且不说马背上没有马鞍，就算有，我也不敢让你骑马。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "幸好，这里离城不远。不然可真回不去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "回不去就回不去，坐牢似的皇宫，谁稀罕……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "现在，终于只有我们两人了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "只要你能在我身边，别说摔一次，摔十次我也是乐意的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "摔十次……哈哈哈哈……十次……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你笑什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "摔十次……哈哈哈……你就从刘辩……摔成刘饼了……哈哈哈……啊！别挠我！哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我就算摔成饼，你也是里面那团馅！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "臣才不和陛下一起摔成泥呢！哈哈哈……哈哈哈！别挠了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我不能玩，我要盯着附近的动静。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "为何？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "出了雒阳，城外很可能有盗贼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我们又没带很多钱财，盗贼何必打劫我们？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "他们要，就给他们好了，都是无所谓的东西。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那些家伙可不是给钱就能打发的……还是小心些为上，事出突然，我没来得及安排护卫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这里的河水可真清啊，比皇宫里的池塘不知道好多少。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "池塘又不是活水，不能这么比。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我想洗洗头发，你帮我一把。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "但是，今天不是天子洗沐的日子啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我知道。就是因为忍无可忍了，才想在宫外把头发洗了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这里风大，洗完头发万一得风寒了怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "洗个头发哪里需要那么多人前呼后拥的？要是洗个头就能死人，天下人早就死光了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……你实在想洗，只准洗发尾，不能把头都泡到水里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "马匹走远了……我去把马牵回来，你在水边小心些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "放开我！你是谁？要做什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗贼",
+      "text": "头像=强盗",
+      "emotion": "哈哈哈，这家伙肯定能卖个好价钱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "放开！放开我——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "别碰我！滚！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗贼",
+      "text": "头像=强盗",
+      "emotion": "我要把你的头发扯下来！你的头发能卖个好价钱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗贼",
+      "text": "头像=强盗",
+      "emotion": "别乱动！识相点！——操，你敢踹我？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "松手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗贼",
+      "text": "头像=强盗",
+      "emotion": "你又是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他是尊贵之人，不能见血污。拿着这块玉佩，从我们眼前消失。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗贼",
+      "text": "头像=强盗",
+      "emotion": "两个白面小子，爷爷我还能怕你们不成？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "真不要吗？这块玉佩，够你衣食无忧一年。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "不许送他这个！这是我送你的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "血……头发上都是这家伙的血……我刚洗完的头发！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "头再低一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "唔……皂角水弄眼睛里了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "野皂角很辣眼睛的。闭上眼睛，别揉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "你要不要也冲洗一下？我待会替你洗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不用，我没沾到血。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "这家伙真是狂妄，竟敢在祭坛的神佛面前行凶。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "他们不怕报应的吗？不是说百姓最信这种神神鬼鬼的东西吗……咳咳！呸呸……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "少说几句，皂角都进嘴巴里了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "……我有点不安。你刚才神前杀人，会不会被神明责罚啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你相信这个？你是肉身的天子，它是泥塑的神像，你不责罚，它责罚什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "谁说我不罚你？你居然……居然把那个玉佩送他！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "那是我亲自从少府里替你选出来的美玉……咳！呸呸……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好了，嘴巴闭上，想喝皂角水吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "用我的外套，把头发裹一裹吧。你要是着凉，事情就严重了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "不用，这样就挺好……你要是担心，就去拜拜神像，让神佛保佑我不要着凉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "刚才要是他打赢了，我们会被怎么样？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这就得看陛下有多敢想了。但臣建议，想到士可杀不可辱这一步就可以了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不然再往后想，就是烤熟、生吃、熬成肉糜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我本来还有点饿的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这样就好。不然回去的途中路过夜市，你肯定要偷偷买零食吃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……你就不喜欢吃民间的零食？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这对我们来说可是“奢侈品”。那群礼官和食官难得盯不住我们，想吃什么吃什么。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "吃多了也就那样吧。装作爱吃这些东西，至少能让手下人觉得我亲切。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "那你到底爱不爱吃？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "难得出来，身边没有眼线，你就只想玩六博？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "那么，朕就恭敬不如从命了……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "等我回去，一定让他们把路好好修一修！居然有这样坑坑洼洼的路……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "修桥补路可是肥差，若是陛下想修路，想必百姓和太仆寺皆会感激天子恩德。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "谁稀罕他们的感恩戴德……罢了，父皇的小金库花得快差不多了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "好像平稳些了，我们继续吧……呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "车夫",
+      "text": "头像=男文人",
+      "emotion": "二位，还要再往前吗？前面……有流民。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥饿的妇人",
+      "text": "头像=平民母亲",
+      "emotion": "贵人……求你给点吃的吧……我的孩子饿了三天了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "饿了三天？那他……………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这个小孩已经……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘！我知道，我知道……这个戒指和玉环给你，你给孩子买些吃的吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥饿的妇人",
+      "text": "头像=平民母亲",
+      "emotion": "谢谢贵人，谢谢贵人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "他们一动不动……啊，有个人还在动，在啃地上的土……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "别看，进车里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "给他们弄点吃的吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你不给，还能离开这。你给了，就不一定出的去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥饿的妇人",
+      "text": "头像=平民母亲",
+      "emotion": "啊啊啊！求你们不要抢！我要给孩子买吃的！求你们不要抢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "施粥了！施粥了！我家主人施粥了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民",
+      "text": "头像=难民",
+      "emotion": "有善人施粥！快去啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "想喝粥的人都上那些板车，上车了就能吃到东西！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "他们都上车了……这家人要把他们拉去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "这就不知道了。如果陛下在意，我回去让绣衣楼调查……唔？马车怎么停了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "车夫",
+      "text": "头像=男文人",
+      "emotion": "石块把车轴卡住了，可能得修一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "刘辩？……！！！刘辩？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮汉",
+      "text": "头像=屠夫",
+      "emotion": "男的上那边去，女的留在这。小孩都交给我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "男丁五口，十二口，三十口……妇人十六口……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "老的和病的都单独挑出来，还能卖去菜铺。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮汉",
+      "text": "头像=屠夫",
+      "emotion": "站住！那个红衣服的人想逃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他不是流民，只是因为好奇才跟在后面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我只是想看看你们是干什么的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "口说无凭。我们怎么知道你不是来抢人的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这是我们的符传，我们是编户民。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "我只看见你的符传。他的呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "我才不用那种东……唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "我再问一遍，这个红衣男人的符传呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮汉",
+      "text": "头像=屠夫",
+      "emotion": "没有符传，就不是编户民，是流民！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "你放肆！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我们都是广陵王府的礼官，如果我们没有回去，殿下一定会过问！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "好笑，什么良民会深夜出现在流民营地里？给我拿下他们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮汉",
+      "text": "头像=屠夫",
+      "emotion": "呃啊！——头儿，他真的敢动手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=刘辩",
+      "emotion": "不过几条走狗罢了，她怎会输给你们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "少狐假虎威，躲远点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华服青年",
+      "text": "头像=美型文官",
+      "emotion": "你们，谁能拿下他们，谁今晚就能吃他们的一口肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥饿的妇人",
+      "text": "头像=平民母亲",
+      "emotion": "别这样，乡亲们，他是好人，放他们走……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……阿蝉，听得见吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……动手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥饿的妇人",
+      "text": "头像=平民母亲",
+      "emotion": "呵呵……呵呵呵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……她一直跟着我们的马车。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……这不是你的错。我会保护你的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥饿的妇人",
+      "text": "头像=平民母亲",
+      "emotion": "呵呵……哈哈哈……夫君……孩子……父亲……兄长……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥饿的妇人",
+      "text": "头像=平民母亲",
+      "emotion": "都没了…哈哈……都没了……哈哈……"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "分类鸢记"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%B8%A2%E8%AE%B0%C2%B7%E5%8D%8E%E5%AE%B5/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:10:18.973216",
+  "raw_wikitext": "{{JS|Qiantao.js}}\n{{面包屑|刘辩|男主鸢记|刘辩-鸢记}}\n{{对话-头}}\n{{旁白|【南端门】}}\n{{对话|宫门尉|查验无误，是广陵王的符传。广陵王离宫，打开宫门锁。|头像=副将}}\n{{对话|我|今夜是十五，不用挂宵行旗，马车直接回绣衣楼吧。|头像=广陵王-微笑}}\n{{对话|亲卫|是。车夫，驾车过来接引！|头像=帅武将}}\n{{旁白|伴随马辔悬铃的声响，我的车马沿着宫墙缓缓驶来。侍从们搬来脚蹬，扶我上车……}}\n{{对话|亲卫|……等等，你是谁？来的时候没见有你！|头像=帅武将}}\n{{对话|奇怪的侍卫|我是新来的……|头像=黑人影|框=刘辩}}\n{{对话|亲卫|胡扯！最近哪有什么新来的侍卫？把头抬起来！|头像=帅武将}}\n{{对话|我|……？|头像=广陵王-惊讶}}\n{{对话|我|…………！！！等一下！|头像=广陵王-生气}}\n{{对话|我|本王知道他，他是新来的……快点上车，你也一起上车！|头像=广陵王-严肃}}\n{{旁白|【马车】}}\n{{对话|我|……到底在想什么啊，陛下。|头像=广陵王-无语}}\n{{旁白|这个“奇怪侍卫”艰难地脱掉头盔和布甲，怨气冲冲地瞪着我。}}\n{{对话|刘辩|宫里闷得要死，都快把人闷到发疯了。我听说你进宫，还以为是来见我的。}}\n{{对话|我|我有其他公务需要进宫。今天太晚了，我以为陛下已经睡了。|头像=广陵王-摇头}}\n{{对话|刘辩|朕什么时辰睡，广陵王不知道吗？}}\n{{旁白|我感到马车行进的速度慢了，严厉地清了清嗓子。}}\n{{对话|亲卫|都、都在干什么呢？不许偷听，继续赶车！|头像=帅武将}}\n{{对话|刘辩|他们都不让我出崇德殿，我想去达兰林看看都不行……真的要疯了。}}\n{{对话|我|那就少喝些酒啊，你这都是在发酒疯。|头像=广陵王-严肃}}\n{{对话|刘辩|你又取笑我！赐你个欺君之罪。}}\n{{对话|我|“欺负”的“欺”吗？|头像=广陵王-无语}}\n{{对话|刘辩|你还知道啊？你再欺负我，我可要拿天子的样子欺负回去了。}}\n{{旁白|我静静望着他，微微一笑。}}\n{{对话|我|亲卫，把马车调头。|头像=广陵王-严肃}}\n{{对话|我|有样东西不当心被本王从宫里带出来了，得立刻还回……|头像=广陵王-严肃}}\n{{对话|刘辩|别！不许调头，我好不容易混出来的！}}\n{{旁白|他扑到我身前，紧紧攥住我的衣袖和饰带。马车一震，他就跟着一震，生怕马车真的调头回去。}}\n{{对话|我|我是为了陛下好。如今各地战乱频发，都城涌进了不少灾民，治安混乱。|头像=广陵王-微笑}}\n{{对话|我|再加上董卓的西凉军进驻城内，四处人心惶惶。你在宫外出了意外，我怎么和内廷交代？|头像=广陵王-摇头}}\n{{对话|刘辩|你跟他们交代什么？给我交代就行。我就是想看看夜市，不做别的。}}\n{{旁白|心理|今夜是十五，十五会暂停宵禁、大开夜市，他应该就是想看夜市……}}\n{{对话|我|不行。|头像=广陵王-摇头}}\n{{对话|我|夜市是鱼龙混杂的地方，陛下若一定要看，我们就隔着街看个热闹，看完了就回去。|头像=广陵王-严肃}}\n{{对话|刘辩|这不是有你亲自保护我吗？}}\n{{对话|刘辩|再说，还有什么比宫中更凶险、更可怕的地方吗？}}\n{{旁白|我深吸一口气，面无表情拉开车帘，看着路边。}}\n{{对话|我|停车。|头像=广陵王-严肃}}\n{{对话|我|陛下，你看那边的男人，他在墙角小解。|头像=广陵王-严肃}}\n{{对话|刘辩|呃……}}\n{{对话|我|还要去吗？夜市遍地都是这样的人哦。|头像=广陵王-冷笑}}\n{{对话|我|……你去哪？站住！|头像=广陵王-惊讶}}\n{{旁白|【雒阳】}}\n{{旁白|刘辩跳下车，跑向那个男人，定定站在他身边。}}\n{{对话|男人|……你、你干啥？|头像=屠夫}}\n{{对话|刘辩|……}}\n{{对话|男人|小哥别这样，俺、俺、俺被人盯着，有点尿不出……|头像=屠夫}}\n{{对话|刘辩|带着你的这团肉，到我看不见的地方去方便。}}\n{{对话|男人|哎、哎……好。|头像=屠夫}}\n{{旁白|男人提着裤子，惊恐地跑到屋后去了……}}\n{{对话|我|给我回来！万一他打你怎么办？你刚刚离他那么近，他一伸手就能碰到你！|头像=广陵王-愤怒}}\n{{对话|刘辩|朕是天子，有天命庇护。}}\n{{对话|我|你别像个街头流氓一样逞凶斗狠！什么都不必说了，我送陛下回去。|头像=广陵王-愤怒}}\n{{对话|刘辩|朕要去逛夜市。}}\n{{对话|我|那臣立刻就发布急令，以藏匿盗贼的名义强行关了夜市。|头像=广陵王-严肃}}\n{{旁白|气氛一时僵持，我们瞪着彼此，谁也不让步。突然，刘辩移开目光，走向街对面一群喧哗少年。}}\n{{对话|刘辩|那边的流氓，你们要打架吗？}}\n{{对话|凶悍少年|啥？脑子坏了吧？你是来找碴的吗？|头像=少年}}\n{{旁白|心理|他到底喝了多少酒，发这样的酒疯？！}}\n{{旁白|在流氓围住他之前，我一把将他扯上马车，命令车夫驾车，离开此处……}}\n{{旁白|【夜市】}}\n{{对话|我|……臣认输了。陛下可以去夜市，只是不许再去做危险的事。|头像=广陵王-摇头}}\n{{对话|刘辩|我就知道，还是广陵王心疼我。}}\n{{对话|刘辩|我们手拉手去夜市吧？我早就想这样正大光明走在外面了！}}\n{{对话|我|臣现在穿的是男装。|头像=广陵王-摇头}}\n{{对话|刘辩|去马车里换一套女装。我又不是没见过你换装。}}\n{{旁白|我瞥了眼亲卫和侍从们，逼迫他们把惊恐的眼神挪回去。}}\n{{对话|我|陛下喝醉了，在说醉话。今天他说的话，一个字都不许说出去。|头像=广陵王-严肃}}\n{{对话|亲卫|是！属下一定守口如瓶！|头像=帅武将}}\n{{对话|我|宫外鱼龙混杂，为了安全，陛下要全都听我的，不可以到处乱走。|头像=广陵王-严肃}}\n{{对话|刘辩|我哪次不听你的？……那是什么？我去看看！|头像=刘辩}}\n{{对话|刘辩|……蟾蜍上长着灵芝，是祥瑞？——广陵王，街上有人在卖祥瑞！}}\n{{对话|我|只是用纸糊和竹针做的假货而已……|头像=广陵王-无语}}\n{{对话|刘辩|连祥瑞都敢假造？这是死罪。|头像=刘辩}}\n{{对话|货郎|你是来挑事的吗？！管好你的烂嘴！|头像=摊贩}}\n{{对话|刘辩|你敢顶嘴？——啊！|头像=刘辩}}\n{{旁白|那人抄起装着蟾蜍的水盆，冲着刘辩就泼了过去；我连忙赶去，想将刘辩拽到身后。}}\n{{旁白|刘辩挣开我的手，抓起蟾蜍背上的灵芝，对着那人的脸甩了过去。}}\n{{对话|刘辩|你放肆！}}\n{{对话|货郎|找死——兄弟们，有人挑事，给他点颜色看看！|头像=摊贩}}\n{{旁白|附近四五个壮汉立刻丢下手上的东西，杀气腾腾挽袖子冲了过来；刘辩终于怕了，缩到我身后。}}\n{{对话|刘辩|他们真的敢打我吗？|头像=刘辩}}\n{{嵌套分歧|头}}\n{{嵌套分歧|留在原地|1}}\n{{嵌套分歧|逃跑|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|亲卫，将这些人统统拿下！|头像=广陵王-严肃}}\n{{对话|货郎|我们……我们可是有西凉军当靠山的！|头像=摊贩}}\n{{对话|我|伪造祥瑞乃是重罪，谁给你当靠山都没用。带走，交给廷尉。|头像=广陵王-严肃}}\n{{对话|西凉军官|什么事？吵吵闹闹的。|头像=副将}}\n{{对话|货郎|叔父！叔父救我！|头像=摊贩}}\n{{旁白|一支西凉巡兵与我们对峙，挡住了我们的去路。}}\n{{对话|西凉军官|你是……广陵王？|头像=副将}}\n{{对话|我|既然认出本王，就请将人犯交过来。|头像=广陵王-严肃}}\n{{对话|西凉军官|……依我看，你才是人犯。这小子冒充广陵王，给我拿下！|头像=副将}}\n{{对话|刘辩|你们都疯魔了吗？给我退……呃！|头像=刘辩}}\n{{旁白|他话音未落，一个西凉军从旁边冲出来架住了他。我连忙阻拦，却被更多西凉军拽住。}}\n{{对话|刘辩|大胆！我是天子！|头像=刘辩}}\n{{对话|西凉军官|……|头像=副将}}\n{{对话|货郎|……|头像=摊贩}}\n{{对话|西凉军官|哈……哈哈哈哈！好笑！不仅来了个冒充广陵王的，还来了个敢冒充天子的！|头像=副将}}\n{{对话|西凉军官|这下真的可以直接丢进死牢了！|头像=副将}}\n{{对话|亲卫|不得无礼，这是广陵王府的符……你做什么？！|头像=帅武将}}\n{{对话|西凉军官|我看你这符传也像假的，索性替你一劈二！——还等什么？把这两人带走，严刑拷问！|头像=副将}}\n{{旁白|【死牢】}}\n{{对话|刘辩|这里好黑……}}\n{{对话|刘辩|董卓，去死，董卓，去死……董卓……}}\n{{对话|我|小声点，别被人发现了。|头像=广陵王-严肃}}\n{{对话|刘辩|……我们肯定会没事的，对吧？}}\n{{对话|刘辩|他们再怎么样也不至于真的敢对我们动刑……}}\n{{对话|我|别怕。我在这。|头像=广陵王-严肃}}\n{{对话|刘辩|如果我们被分开怎么办？}}\n{{对话|我|嗯……那我先把你丢下，自己逃。|头像=广陵王-点头}}\n{{对话|刘辩|广陵王好狠的心。}}\n{{旁白|他举袖掩面似要落泪，我看着他笑出声。}}\n{{对话|我|还以为你会坚持不下去呢，就像从前一样哭哭闹闹……|头像=广陵王-微笑}}\n{{对话|刘辩|……你在这。只要你在我身边，我总能坚持下去。}}\n{{对话|我|那如果我们真的要分开呢？|头像=广陵王-严肃}}\n{{对话|刘辩|就算分开，你也一定是站在我这边的。只要你是我的人，就总会回到我身边。}}\n{{对话|我|这可……不一定啊。比如说……陈留王。|头像=广陵王-摇头}}\n{{对话|刘辩|提协弟做什么？}}\n{{对话|我|绣衣楼是直属于天子的密探机构，又不是直属于……刘辩的。|头像=广陵王-严肃}}\n{{旁白|他愣了一下，迅速明白过来，眼神冷了下去。}}\n{{对话|刘辩|自从我登基，他每次见你，都像是装作没见到似的……}}\n{{对话|我|他也是为了避嫌。陈留王很聪明，他知道自己差一点坐到你的位置上，日后容易引人疑心。|头像=广陵王-严肃}}\n{{对话|刘辩|你对我说实话。我们从小一起长大，如果是他当天子，你还会这么对我吗？}}\n{{对话|我|如果是那样，你就会和现在的他一样，对我形同陌路。|头像=广陵王-严肃}}\n{{对话|刘辩|我才不会！}}\n{{对话|我|你会。在那个情景下，你绝对不敢多看一眼“天子之剑”。多看一眼就是觊觎，就是僭越。|头像=广陵王-摇头}}\n{{对话|我|你会装作没见到我，别人问起，你会说你对我不熟。渐渐的，你还会提防我、厌恶我……|头像=广陵王-难过}}\n{{对话|刘辩|……}}\n{{对话|刘辩|那，我再问一句。}}\n{{对话|刘辩|如果我死了，协弟当天子……}}\n{{对话|我|陛下！|头像=广陵王-惊讶}}\n{{对话|刘辩|……你会效命于他吗？}}\n{{对话|我|这话，臣当没听见。|头像=广陵王-严肃}}\n{{旁白|我们静了片刻。远处，不知何处的牢中传来犯人撕心裂肺的惨叫。}}\n{{对话|刘辩|我没有让你暗查过协弟，从来没有。}}\n{{对话|我|对。绣衣楼从未暗查过陈留王。|头像=广陵王-点头}}\n{{对话|刘辩|……但这也没有用，对不对？}}\n{{对话|我|他心里对我警惕了。芥蒂一旦有了，只会越来越大，变成压在心里的巨石。|头像=广陵王-点头}}\n{{对话|我|我和他之间的问题，早已不是我愿不愿意效忠他，而是他敢不敢接受我的效忠。|头像=广陵王-严肃}}\n{{旁白|有靠近的脚步声，我们都安静下来。脚步声停在我们牢前，然后是开锁的声音。}}\n{{对话|蛾使|楼主。是我。}}\n{{对话|我|……总算来了……外面安全吗？我要护送陛下离开这。|头像=广陵王-严肃}}\n{{对话|蛾使|都已经被买通了。片刻后，牢内的烛火会熄灭，楼主听见三声狗叫之后，就可以往外面走。}}\n{{旁白|【雒阳】}}\n{{旁白|片刻后……}}\n{{对话|刘辩|终于出来了……里面好脏，你看我的袖子！}}\n{{对话|我|要不然，陛下回牢里，替他们打扫打扫？|头像=广陵王-微笑}}\n{{对话|刘辩|大胆，竟敢笑话朕！}}\n{{对话|我|臣有罪，臣愿立刻马上现在随陛下回宫请罪。|头像=广陵王-微笑}}\n{{对话|刘辩|看在今夜你护驾有功，赦你无罪。城里还有哪好玩的？带我去！}}\n{{嵌套分歧|头}}\n{{嵌套分歧|去夜市|1}}\n{{嵌套分歧|去东光楼|2}}\n{{嵌套分歧|去小吃街|3}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|置之死地而后生！我们再去夜市如何？|头像=广陵王-微笑}}\n{{对话|刘辩|对啊！我们可以正大光明从那骗子面前经过！}}\n{{对话|刘辩|买光他隔壁摊位所有的东西，独独不买他的！}}\n{{对话|我|陛下请客。你带了多少钱？|头像=广陵王-惊讶}}\n{{对话|刘辩|钱？钱要怎么带？}}\n{{对话|我|……弄个碗，往街边一坐……|头像=广陵王-冷笑}}\n{{对话|刘辩|好，全听广陵王的，就算你要在集市上把我卖了也无妨。}}\n{{对话|我|我倒是想卖，也得有人敢买啊。|头像=广陵王-摇头}}\n{{对话|刘辩|就算是个酒囊饭袋，也是值几个钱的！}}\n{{对话|刘辩|不信的话，你卖卖看，保证不出一个时辰就有人要了。}}\n{{对话|我|哪有天子满口“钱”啊、“卖”啊的？……真是的，这话说的和先帝似的……|头像=广陵王-无语}}\n{{旁白|集市人来人往，串街的货郎，摆摊的商贩，吆喝嘈杂，热闹非常。}}\n{{对话|刘辩|这是什么，还挺好看的。}}\n{{对话|古董摊贩|这位公子，手轻点，这可是乌孙古董，别给我……|头像=黑人影}}\n{{旁白|陶盘从刘辩手中滑落，摔得四分五裂。}}\n{{对话|古董摊贩|哎哎哎，你摔碎了我摊位上的东西，得赔！|头像=黑人影}}\n{{对话|刘辩|放手！不许碰我！}}\n{{对话|我|先把手放开，我们会给你钱的。|头像=广陵王-严肃}}\n{{旁白|我拉开了那名摊贩的手，拿了些碎金子给他做赔偿，拉着刘辩离开。}}\n{{对话|刘辩|真是无礼！}}\n{{对话|我|人家还觉得倒霉呢，被你毛手毛脚打破了东西。|头像=广陵王-无语}}\n{{对话|刘辩|我不过就看看嘛，谁知道那么脆，碎片还差点划伤我的手呢。}}\n{{对话|我|你算了吧，你躲得比谁都快。|头像=广陵王-无语}}\n{{对话|刘辩|怎么胳膊肘往外拐……你看！那又是什么？}}\n{{对话|草编摊贩|公子，这是茅草编的蚂蚱，这个是螳螂，公子看上哪个了？|头像=黑人影}}\n{{旁白|刘辩看着这些小孩喜欢的草编，眼神倏的亮了起来。}}\n{{对话|刘辩|我记得这个！小时候你跟仙者们下山玩，从山下带回来一个！}}\n{{对话|我|都多久的事了，你还记得呀？|头像=广陵王-微笑}}\n{{对话|刘辩|当然记得……这种草编，可还有别的吗？}}\n{{对话|草编摊贩|你喜欢什么，我可以给你编出来。|头像=黑人影}}\n{{对话|刘辩|龙能编吗？}}\n{{对话|草编摊贩|……啊……啊？这……呃……|头像=黑人影}}\n{{对话|我|是“笼”！笼子的笼！|头像=广陵王-严肃}}\n{{旁白|我拽了拽刘辩，对小贩挤出笑脸。}}\n{{对话|货郎|好啊，你们还敢来？|头像=摊贩}}\n{{对话|我|是你啊……想不到吧，你的靠山不管用了。|头像=广陵王-严肃}}\n{{旁白|那人踹开旁边的摊位，气势汹汹朝我们走来。}}\n{{对话|我|真是看不出啊，你居然还有个西凉军官当靠山。不过他应该回去歇息了，没他，你能行？|头像=广陵王-冷笑}}\n{{对话|货郎|对付你这个细胳膊细腿的玩意，我单手就行！|头像=摊贩}}\n{{对话|我|这么厉害，你当什么货郎啊？当将军啊。|头像=广陵王-冷笑}}\n{{对话|我|该不会是有隐疾，所以进不了军编户吧……|头像=广陵王-冷笑}}\n{{旁白|周围一片哄笑，男人目露凶光，拔出短刀朝我走来。}}\n{{旁白|我笑盈盈望着他，一步步往后退。忽然……}}\n{{对话|流氓|大哥，你的摊子——|头像=山贼甲}}\n{{对话|货郎|我的摊子？……可恶！！！小贼，站住！|头像=摊贩}}\n{{旁白|——他一直在注意我，没发现刘辩偷偷绕到了他的摊子后面，把他摊子上的钱袋子拿走了。}}\n{{对话|我|哈！刘辩快跑！|头像=广陵王-眯眼笑}}\n{{对话|刘辩|好沉！他肯定骗了不少钱！|头像=刘辩}}\n{{对话|我|陛下第一次“赚”钱，打算怎么花？|头像=广陵王-眯眼笑}}\n{{对话|刘辩|我也不知道！这些钱能做什么？|头像=刘辩}}\n{{对话|我|边跑边想！快跑，他追上来了！哈哈……|头像=广陵王-眯眼笑}}\n{{旁白|我拉着他穿过灯火璀璨的夜市，身后追逐叫骂，我们却完全不觉得有何疲惫……}}\n{{旁白|恭喜达成结局【效盗跖】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头|显示=2}}\n{{对话|我|折腾大半夜，想必陛下也饿了，城中东光楼酒菜最好，不如在那用一餐吧。|头像=广陵王-微笑}}\n{{对话|刘辩|朕听说过，那里是雒阳最好的酒楼，从前是父皇的产业？}}\n{{对话|我|是啊。灵帝还是很会赚钱的。你最爱的美酒，那里应有尽有。|头像=广陵王-点头}}\n{{旁白|【东光楼】}}\n{{旁白|今夜停了宵禁，酒楼宾客满座，舞姬和百戏人看得人眼花缭乱。}}\n{{对话|我|小心，别凑那么近看喷火。|头像=广陵王-严肃}}\n{{对话|刘辩|这里人好多，我们坐哪里？}}\n{{对话|我|雅座都坐满了，得想些办法……你去哪？|头像=广陵王-严肃}}\n{{对话|刘辩|我喜欢那边那个雅座，看百戏的视野好。}}\n{{旁白|他直接冲着雅座走去。雅座里还有客人在，见他站在旁边，都不明所以。}}\n{{对话|刘辩|他们都吃完了，可以让座位了。}}\n{{对话|客人|呃……我们还没吃完……|头像=黑人影2}}\n{{对话|刘辩|盘子都空了，怎么没吃完？既然吃完了，为何还占着座位？让开。}}\n{{对话|客人|你谁啊？|头像=黑人影2}}\n{{对话|我|抱歉！他喝醉了，实在抱歉！——店家，这座的餐费我来结。|头像=广陵王-汗颜}}\n{{对话|客人|我们能在东光楼雅座吃饭，差你这点钱吗？我们今天就坐在这坐到天亮！|头像=黑人影2}}\n{{旁白|我拉着刘辩要走，他不情不愿。}}\n{{对话|刘辩|我一定要那个位置。}}\n{{对话|我|……一定要？|头像=广陵王-严肃}}\n{{对话|刘辩|一定要。}}\n{{对话|我|……好吧，稍微等一下。我去找人。|头像=广陵王-严肃}}\n{{旁白|心理|让我看看……那边的雅座里，好像是认识的朝官？}}\n{{旁白|我牵着刘辩走过去。围帘后，果然是老宗正。}}\n{{对话|宗正|广陵王殿下也来了东光楼？不知雅座何处？|头像=贵族老年男}}\n{{对话|我|来得不巧，已经没位置了。|头像=广陵王-摇头}}\n{{对话|宗正|那不如与我们同席？都是同僚，不必客气。|头像=贵族老年男}}\n{{旁白|我苦笑着凑到他耳边，低语了几句。宗正脸色瞬间变了，朝着刘辩行了大礼。}}\n{{旁白|席间其他人虽然不明所以，但也跟着行了礼。刘辩摆了摆手。}}\n{{对话|我|陛下只想要那个雅座，宗正认识那边的客人吗？|头像=广陵王-严肃}}\n{{对话|宗正|你们谁认识那边的人？|头像=贵族老年男}}\n{{对话|贵族子弟|那是陈留周氏的人，我认识他们次席的少年……|头像=贵族中年男}}\n{{对话|宗正|拿着我的名牒，去给人家打个招呼。|头像=贵族老年男}}\n{{旁白|片刻后，去打招呼的年轻人回来了。他在宗正身边轻语几句，宗正点头}}\n{{对话|宗正|办好了，他们马上就走。|头像=贵族老年男}}\n{{旁白|片刻后……}}\n{{对话|刘辩|这个位置果然舒服，朕的眼光没错。}}\n{{对话|我|抢人位置赶人走，怎么感觉今晚我们像在雒阳欺男霸女一样……|头像=广陵王-无语}}\n{{对话|刘辩|有什么关系？菜牌让我看看，都有什么酒菜？}}\n{{对话|刘辩|珍珠米煨白鸭，红糟黄花鱼……从头到尾各来一份吧。}}\n{{对话|我|陛下如此豪爽，请问，带钱了吗？|头像=广陵王-冷笑}}\n{{对话|刘辩|这不是有你吗？}}\n{{对话|我|臣的俸禄微薄，恐怕供不起陛下如此开销啊。|头像=广陵王-摇头}}\n{{对话|刘辩|可是朕为什么吃饭要付钱？普天之下莫非王土<ref>《诗经·小雅·北山》：“溥天之下，莫非王土；率土之滨，莫非王臣。大夫不均，我从事独贤。”</ref>，日月所照皆为臣妾<ref>班彪《奏议答北匈奴》：“汉秉威信，总率万国，日月所照，皆为臣妾。”</ref>……}}\n{{对话|我|待会儿等店家把陶砂锅扣我们头上的时候，陛下可以把这段话再念一遍。|头像=广陵王-严肃}}\n{{对话|刘辩|那怎么办？}}\n{{对话|我|结账时就直接翻窗跑啊，欺男霸女嘛。|头像=广陵王-严肃}}\n{{旁白|他探头看窗外的高度，似乎跃跃欲试。我拉住他。}}\n{{对话|我|开玩笑的。宗正替我们签单了，这席的饭费由他请。|头像=广陵王-微笑}}\n{{对话|刘辩|我还以为你会把我留在这里洗碗，我再可怜巴巴地等你攒钱来赎我。}}\n{{对话|刘辩|结果左等右等你不来，是你不想要我了，直接回宫扶持协……唔！}}\n{{旁白|我夹起一块炙肉，塞进他嘴里。}}\n{{对话|我|再说下去，臣就不敢吃饭了。|头像=广陵王-摇头}}\n{{对话|我|就算我想把你抵押在这，谁敢用你做工？怕不是没两天，后厨的盘子就全都被你打碎了。|头像=广陵王-无语}}\n{{对话|刘辩|到时候他们看我太败家，没准就把我扔街上了，你就可以把我捡回去了。}}\n{{对话|我|想得倒美，你怎么知道人家不会反手把你卖去挖地宫？|头像=广陵王-无语}}\n{{对话|刘辩|挖地宫是什么？好玩吗？}}\n{{对话|我|……哪天有机会带你挖一挖。你……你肯定喜欢。|头像=广陵王-冷笑}}\n{{旁白|饭菜一道道被送上来，带着诱人的菜香。刘辩难得见到宫外餐饮，立刻拿起了筷子。}}\n{{对话|刘辩|和宫里的口味差不多……为什么那么多人来吃？}}\n{{对话|我|民间都向往宫廷口味，你吃腻了，他们觉得是绝味。|头像=广陵王-微笑}}\n{{对话|刘辩|早知道就不来那么大的酒楼吃饭了……那边的路边摊卖的是什么？花花绿绿的。}}\n{{对话|我|估计拿薯粉做的点心，加上花花绿绿的染料，捏成可爱的样子卖给小孩。|头像=广陵王-微笑}}\n{{对话|我|……陛下，吃这个很幼稚的，而且不好吃。|头像=广陵王-微笑}}\n{{对话|刘辩|……嗯？你怎么知道不好吃？……你吃过。}}\n{{对话|刘辩|也不知道带一个给你的天子……哼。}}\n{{旁白|说说笑笑间，时间已至后半夜。街上的夜市渐渐散了，我们也打算离开东光楼。}}\n{{旁白|经过楼下那块“国色天香”的牌匾时，刘辩突然停下脚步，拼命给我使眼色。}}\n{{对话|刘辩|那个，那个……|头像=刘辩}}\n{{对话|我|那块匾是先帝钦赐给东光楼的。|头像=广陵王-微笑}}\n{{对话|刘辩|怪不得，一看就是父皇的笔迹……这家店那么难吃，我要把匾收回去！|头像=刘辩}}\n{{旁白|【雒阳】}}\n{{对话|东光楼伙计|你们……你们是谁啊？|头像=摊贩}}\n{{对话|我|你看我们扛的梯子，我们是来修屋檐的。|头像=广陵王-微笑}}\n{{对话|东光楼伙计|没听老板说啊……算了算了，你们快修啊。别影响到客人。|头像=摊贩}}\n{{旁白|我和刘辩对视一眼，立刻爬上木梯，将那块灵帝亲笔的“国色天香”摘了下来……}}\n{{对话|刘辩|好、好重！快走！|头像=刘辩}}\n{{对话|东光楼伙计|哎哎！两个骗子！有人偷了咱们的御匾！抬着匾逃了！|头像=摊贩}}\n{{对话|刘辩|哈哈哈……你跑前面！快跑！|头像=刘辩}}\n{{旁白|我们一前一后抬着画，在路人诧异的目光中穿过长街，跑向了宫门……}}\n{{旁白|恭喜达成结局【窃墨宝】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|既然是难得出来……不妨带你去尝尝小食零嘴吧？|头像=广陵王-微笑}}\n{{对话|刘辩|好啊！宫里来来回回就那么几道菜，味道千篇一律，我早就吃腻了。}}\n{{对话|我|不过要找个干净点的摊子，可不能吃出事情……那个怎么样？|头像=广陵王-严肃}}\n{{旁白|某个烤鱼的摊子上传来阵阵食物的飘香，高亢的吆喝声入耳，让人听着就觉心向往之。}}\n{{对话|我|这是什么鱼？|头像=广陵王-微笑}}\n{{对话|烤鱼贩子|就是小杂鱼，客人要一串吗？|头像=屠夫}}\n{{对话|我|你的忌口有哪些鱼？我记得食官手上有个卷轴，里面记着你的几百个忌口。|头像=广陵王-微笑}}\n{{对话|烤鱼贩子|二位买不买啊？不买也别挡着别的客人嘛。|头像=屠夫}}\n{{对话|孩童|我要两串！|头像=路人小孩}}\n{{旁白|摊贩应了一声，挥手赶走鱼堆边的猫。刘辩见鱼被猫舔过，不由后退半步。}}\n{{对话|刘辩|要不算了吧……换一家。}}\n{{对话|刘辩|那是竹子吗？他把竹子放在锅里煮？}}\n{{对话|我|是竹筒饭，煮出来的饭食带有竹子的清香。试试？|头像=广陵王-点头}}\n{{对话|刘辩|我要尝尝！替我拿两个。}}\n{{对话|竹筒饭摊贩|公子请，小心烫着。|头像=黑人影}}\n{{旁白|我替他拆开热腾腾的竹筒，露出里面金色的稻米。刘辩的眼睛瞬间亮了……然而又暗了下去。}}\n{{对话|刘辩|饭里的，是虫子吗？}}\n{{对话|我|唔……民间的小食里经常有虫子混进去。|头像=广陵王-严肃}}\n{{对话|刘辩|……}}\n{{对话|我|好了好了，不吃就不吃。我们换一家。|头像=广陵王-微笑}}\n{{旁白|一路走走停停，他看到什么都想要试一试尝一尝。但买了一堆。没吃几口。}}\n{{对话|我|到目前为止，你吃进嘴里的只有一块糖饼。|头像=广陵王-无语}}\n{{对话|刘辩|那个也不好吃，干巴巴的……}}\n{{对话|刘辩|怎么那么多人跟着我们啊？}}\n{{对话|我|都是乞儿。你一路走一路买，一路买一路丢，他们今天的饭都指望你了。|头像=广陵王-微笑}}\n{{对话|刘辩|那就多买点，我看看能跟多少人。}}\n{{对话|我|怎么跟舞龙似的，后面跟着长长一串人……|头像=广陵王-无语}}\n{{对话|刘辩|这才叫真龙天子呀。你看，那边又是什么？好大的蒸汽。}}\n{{对话|我|是蒸笼……|头像=广陵王-微笑}}\n{{旁白|我直接买了一叠蒸笼点心，塞到他手里。}}\n{{对话|我|好了，蒸笼天子。|头像=广陵王-微笑}}\n{{旁白|【小吃摊】}}\n{{对话|刘辩|啊……走不动了。脚好痛。}}\n{{对话|我|所以才找个摊子带你坐下歇息呀。|头像=广陵王-点头}}\n{{对话|刘辩|可是这个坐垫好硬，是干草编的……}}\n{{旁白|我叹了口气，脱下外套塞给他。}}\n{{对话|我|垫着吧。|头像=广陵王-无语}}\n{{对话|刘辩|你的东西，我才不舍得呢。}}\n{{旁白|反正也在民间，周围都是累得、醉得横七竖八的人。他也从善如流，枕在我的腿上。}}\n{{对话|刘辩|不知道为什么，今夜你的眼睛格外漂亮。|头像=刘辩}}\n{{对话|我|是夜市的灯火吧……|头像=广陵王-微笑}}\n{{对话|刘辩|宫灯下的你，和此时此地的你，真的不一样。|头像=刘辩}}\n{{对话|刘辩|凑近些……让我看你看得更清楚些……|头像=刘辩}}\n{{对话|乞儿|蒸笼！蒸笼！|头像=路人小孩}}\n{{对话|拾荒孩子|蒸笼天子！哈哈哈！|头像=黑人影}}\n{{旁白|旖旎气氛被瞬间打断，刘辩坐起身，狠狠瞪着他们。我忍着笑拉住他。}}\n{{对话|我|和孩子计较什么……换个地方吧。|头像=广陵王-严肃}}\n{{对话|刘辩|他们笑话我！}}\n{{对话|我|那你怎么办？治他们罪？|头像=广陵王-微笑}}\n{{对话|乞儿|呦呦呦，蒸笼天子要把我们都蘸醋吃了！——唔啊！|头像=路人小孩}}\n{{对话|刘辩|抓住你了！我要把你丢到达兰林的老虎园里！|头像=刘辩}}\n{{对话|我|哈哈……你快把他放下来，小心他吐你口水！|头像=广陵王-眯眼笑}}\n{{对话|乞儿|吐！|头像=路人小孩}}\n{{旁白|【绣衣楼】}}\n{{对话|侍女|主人，他沐浴完了。|头像=宫女}}\n{{对话|我|他没闹吧？安神茶有让他喝下去吗？|头像=广陵王-严肃}}\n{{旁白|屏风后，两位年长稳重的女官在给他梳理头发。室内很暖，因为担心他着凉。}}\n{{旁白|忽然，女官的动作停了，面露诧异。}}\n{{对话|女官|殿下，他……他就这样睡着了。|头像=宫女}}\n{{对话|刘辩|呼……呼……呼……|头像=刘辩}}\n{{对话|我|……疯玩了一夜，太累了吧。|头像=广陵王-微笑}}\n{{旁白|我让她们退下，坐到了刘辩身边。他累极了，勉强睁开一只眼睛，往我这边挪了挪。}}\n{{对话|刘辩|呼……好困……}}\n{{对话|我|睡吧。我陪着你呢。|头像=广陵王-微笑}}\n{{对话|刘辩|呼……晚安，广陵王……}}\n{{对话|我|……晚安。|头像=广陵王-微笑}}\n{{旁白|月明星稀，夜市散了，雒阳渐渐恢复寂静。}}\n{{旁白|在绣衣楼中，我们相依偎着，沉沉睡去……}}\n{{旁白|恭喜达成结局【步笼阿】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|我向侍卫们打了个手势，示意他们拦住这群人，然后带着刘辩混入夜市人群，向城门的方向走去。}}\n{{对话|刘辩|他们没追上来……我们接下来去哪玩？出城吗？}}\n{{对话|我|出城……出城也好，人少一些，你也能少惹事。|头像=广陵王-点头}}\n{{对话|刘辩|好，那我们坐马车出城。}}\n{{对话|我|马车停靠在另一头了，我不敢放你再经过那段摊位了，我们得走去城门。|头像=广陵王-摇头}}\n{{对话|刘辩|远吗？}}\n{{对话|我|不远，走两柱香的时间就到了。|头像=广陵王-摇头}}\n{{对话|我|……怎么了？|头像=广陵王-严肃}}\n{{旁白|刘辩停下脚步，呆呆地看着我。}}\n{{对话|刘辩|要走那么久？我走不动。}}\n{{对话|我|那我叫城门尉来，调一台施幡车过来，运你回宫？|头像=广陵王-无语}}\n{{对话|刘辩|不要回宫！我走。两柱香……我应该走得动。}}\n{{旁白|他咬着嘴唇，硬是跟上了我的步伐。}}\n{{旁白|【城门】}}\n{{对话|刘辩|城外若是人烟稀少，那我们就算突然想要一起私奔也都不会被阻拦了，对吗？}}\n{{对话|我|听听这话，真是没个皇帝样。|头像=广陵王-摇头}}\n{{对话|刘辩|要皇帝样做什么？我今天只想做你的刘辩。}}\n{{对话|刘辩|今天不谈什么皇帝亲王，只有你和我，就像回到小时候那样……}}\n{{对话|我|小时候？小时候的你，可是能和我一起在蜀山爬上爬下的。|头像=广陵王-微笑}}\n{{对话|我|……别蹲在地上了，快起来。|头像=广陵王-微笑}}\n{{对话|刘辩|我走不动了，脚好痛……}}\n{{对话|我|刚才可能有人在这个墙角呕吐或者小便。|头像=广陵王-微笑}}\n{{旁白|他一脸恶心从墙角起身，艰难挪到我身边，把下巴搁在我肩头，眼睛湿漉漉的。}}\n{{对话|刘辩|我的脚磨破了，怎么办？|头像=刘辩}}\n{{对话|我|谁让你穿着宫里的鞋子就出来了？这种鞋子走不了路的。|头像=广陵王-微笑}}\n{{对话|我|还私奔呢，估计连洛水畔都没到，就要哭着闹着回宫了。|头像=广陵王-微笑}}\n{{对话|刘辩|我们买一台车吧？那边的那台车还算体面。}}\n{{对话|我|我去问问……|头像=广陵王-微笑}}\n{{旁白|街头的民宅前，一辆锦布马车停在院门口，两名家仆挑着灯笼，安静地收拾车具。}}\n{{对话|我|请问，这台马车的主人是谁？|头像=广陵王-微笑}}\n{{对话|仆人|公子有什么事吗？|头像=侍从}}\n{{对话|我|我有一位好友身体不适，我想买下这台马车，送他回府休息。|头像=广陵王-微笑}}\n{{对话|仆人|此事需与主人商量。请公子稍等。|头像=侍从}}\n{{旁白|心理|看仆人的谈吐气质，这绝不是普通人家……}}\n{{旁白|须臾，有两个气质相似的锦衣身影从内院步出，似乎是来坐车的。家仆上前行礼，与其中一人说了几句……}}\n{{旁白|片刻后，家仆来到我面前回话。}}\n{{对话|家仆|我家主人答应了。不过不是这台车，稍后有人会引来另一台车，给公子送来的。|头像=侍从}}\n{{对话|我|……“送”？|头像=广陵王-惊讶}}\n{{对话|家仆|是，送给公子。|头像=侍从}}\n{{对话|我|可否请问这家主人的身份？|头像=广陵王-微笑}}\n{{对话|家仆|我家主人是汝南袁氏二公子，袁绍。|头像=侍从}}\n{{旁白|【雒阳城外】}}\n{{旁白|十五的夜，城门可供出入。我和刘辩坐在车中，松了口气。}}\n{{对话|刘辩|袁氏的车，还真是舒服啊……}}\n{{对话|我|毕竟是四世三公，随手拿来送人的车都是上等马车。|头像=广陵王-微笑}}\n{{对话|我|你见过袁绍吗？他的名声，这几年在士族间流传很广。|头像=广陵王-微笑}}\n{{对话|刘辩|我只见过袁隗和袁基，两个说话阴阳怪气、罗里吧嗦的人。}}\n{{对话|刘辩|啊……广陵王，车里有六博盒子！}}\n{{对话|我|陛下想玩六博？|头像=广陵王-惊讶}}\n{{对话|刘辩|打发时间嘛。陪我玩一把。}}\n{{嵌套分歧|头}}\n{{嵌套分歧|陪他玩|1}}\n{{嵌套分歧|不想玩|2}}\n{{嵌套分歧|说笑|3}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|刘辩|我选一六二枭，轮到你了。|头像=刘辩}}\n{{对话|我|我……一三二兕。你掷骰子吧。|头像=广陵王-严肃}}\n{{对话|刘辩|三兕很少出的，你是不是在让着我？……啊！骰子——|头像=刘辩}}\n{{旁白|马车颠簸了一下。六博盒盖上的骰子被震了出去，从车帘缝隙掉出了马车。}}\n{{对话|刘辩|停车！没有骰子就没法玩了……|头像=刘辩}}\n{{对话|我|我去找。你在车里坐着。|头像=广陵王-严肃}}\n{{旁白|【郊外】}}\n{{旁白|刘辩从车里钻了出来，兴奋地望着官道两旁的景色，眼神明亮。}}\n{{对话|刘辩|你找得到骰子吗？}}\n{{对话|我|好像掉到草丛里去了……|头像=广陵王-严肃}}\n{{对话|刘辩|袁氏的车夫，你去帮她找。}}\n{{旁白|车夫是袁绍随马车一起借给我们的，途中一直沉默。听见刘辩的命命，他也没有回答，只是安静点头。}}\n{{旁白|然而，就在车夫下车之后，我就见到刘辩挪到了车夫的位置上，小心翼翼伸手去够缰绳……}}\n{{对话|我|做什么呢？|头像=广陵王-严肃}}\n{{对话|刘辩|我想试试驾车！|头像=刘辩}}\n{{对话|我|你？|头像=广陵王-惊讶}}\n{{对话|刘辩|六艺也是我自小学习的，别小看你的皇帝陛下啊。|头像=刘辩}}\n{{对话|我|陛下还是歇歇吧，驾车很难，好不容易出来一趟，可别摔个鼻青脸肿的回去。|头像=广陵王-严肃}}\n{{对话|刘辩|驾！……驾！|头像=刘辩}}\n{{旁白|两匹马纹丝不动。}}\n{{对话|我|要不下车和我们一起找骰子？驾车的马都很温驯，很难驱动的。|头像=广陵王-微笑}}\n{{对话|刘辩|我就不信我连两匹马都号令不了！驾……驾！|头像=刘辩}}\n{{旁白|两匹马晃晃脑袋，低头嚼着路边的草叶。我身边沉默的车夫憋不住笑出了声。}}\n{{对话|我|别丢人现眼了，下车透口气吧？马的味道多难闻啊。人家都在笑你呢。|头像=广陵王-眯眼笑}}\n{{对话|刘辩|你替我盯着，那个车夫要是敢笑，我回去就定他的罪。|头像=刘辩}}\n{{旁白|我也忍不住笑了，从袖中取出一枚白金币，悄悄塞给那车夫。}}\n{{对话|刘辩|它们要怎样才肯走啊？驾？驾……呃！！！|头像=刘辩}}\n{{旁白|突然，左边的马被草丛里的小虫惊到了，无措地向前奔去；马车顿时飞驰而出，冲下官道——}}\n{{对话|我|刘辩！勒紧缰绳！|头像=广陵王-严肃}}\n{{旁白|来不及了，随着一声巨大的响声，马车冲下坡道，坠入河岸——}}\n{{旁白|【河边】}}\n{{对话|我|刘辩？！刘辩！你回我一声！刘辩——|头像=广陵王-惊讶}}\n{{旁白|马车在河水中侧翻，固定马匹的车辔断了，两匹马在水边漫步。}}\n{{对话|我|刘辩！醒醒，能听得到我说话吗？醒醒！|头像=广陵王-严肃}}\n{{旁白|他倒在浅滩边，浑身湿透。我呼唤了他很久，他才微微转醒……}}\n{{对话|刘辩|……好痛……咳……咳咳……|头像=刘辩}}\n{{对话|我|先别动。手脚都有知觉吗？有撞到头吗？|头像=广陵王-严肃}}\n{{对话|刘辩|浑身都在痛……|头像=刘辩}}\n{{对话|刘辩|我的手……是不是要断了？|头像=刘辩}}\n{{对话|我|没有，只是擦伤了一点。|头像=广陵王-摇头}}\n{{对话|刘辩|可是我好疼……你看，胳膊红了一大片。|头像=刘辩}}\n{{对话|我|就知道不能让你驾车，还好只是些皮肉伤。|头像=广陵王-严肃}}\n{{旁白|我伸手扶了他起来，他紧紧抱着我，不肯松开。}}\n{{对话|刘辩|我要是摔坏了，你怎么办？}}\n{{对话|我|我还能怎么办？只能落草为寇去了。|头像=广陵王-微笑}}\n{{对话|刘辩|既然我那么紧要，你为什么盯着马车看？}}\n{{旁白|他掰着我的下巴，把我的脸掰了回来，强迫我看着他。}}\n{{对话|刘辩|马车坏了，我们怎么回去？}}\n{{对话|我|走回去。|头像=广陵王-微笑}}\n{{对话|刘辩|走？不是有马吗？为什么不能骑马回去？}}\n{{对话|我|且不说马背上没有马鞍，就算有，我也不敢让你骑马。|头像=广陵王-摇头}}\n{{对话|我|幸好，这里离城不远。不然可真回不去了。|头像=广陵王-微笑}}\n{{对话|刘辩|回不去就回不去，坐牢似的皇宫，谁稀罕……}}\n{{旁白|水一滴一滴落在我的肩上，他紧紧拥着我，把头埋进我的肩窝。}}\n{{对话|刘辩|现在，终于只有我们两人了。}}\n{{对话|刘辩|只要你能在我身边，别说摔一次，摔十次我也是乐意的。}}\n{{对话|我|摔十次……哈哈哈哈……十次……|头像=广陵王-微笑}}\n{{对话|刘辩|你笑什么？}}\n{{对话|我|摔十次……哈哈哈……你就从刘辩……摔成刘饼了……哈哈哈……啊！别挠我！哈哈哈……|头像=广陵王-眯眼笑}}\n{{对话|刘辩|我就算摔成饼，你也是里面那团馅！|头像=刘辩}}\n{{对话|我|臣才不和陛下一起摔成泥呢！哈哈哈……哈哈哈！别挠了！|头像=广陵王-微笑}}\n{{旁白|清浅的河水染湿衣衫，我们的身影，在水波倒影中支离破碎。}}\n{{旁白|玩得累了，我们在水边挨近坐着。夜风微凉贴着湿润的身躯，好像两片碎在一起的月光。}}\n{{旁白|恭喜达成结局【水中月】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头|显示=2}}\n{{对话|我|我不能玩，我要盯着附近的动静。|头像=广陵王-摇头}}\n{{对话|刘辩|为何？}}\n{{对话|我|出了雒阳，城外很可能有盗贼。|头像=广陵王-严肃}}\n{{对话|刘辩|我们又没带很多钱财，盗贼何必打劫我们？}}\n{{旁白|我伸手拽了拽他的衣襟，华美的宫装上环佩叮当。}}\n{{对话|刘辩|他们要，就给他们好了，都是无所谓的东西。}}\n{{对话|我|那些家伙可不是给钱就能打发的……还是小心些为上，事出突然，我没来得及安排护卫。|头像=广陵王-严肃}}\n{{旁白|【河边】}}\n{{旁白|不多时，马车停在了一条小河边。}}\n{{旁白|河流平缓，夹岸有柳树垂绦，河面被月色照射出粼粼的金光。}}\n{{对话|刘辩|这里的河水可真清啊，比皇宫里的池塘不知道好多少。}}\n{{对话|我|池塘又不是活水，不能这么比。|头像=广陵王-微笑}}\n{{对话|刘辩|我想洗洗头发，你帮我一把。}}\n{{对话|我|但是，今天不是天子洗沐的日子啊……|头像=广陵王-微笑}}\n{{对话|刘辩|我知道。就是因为忍无可忍了，才想在宫外把头发洗了。}}\n{{对话|我|这里风大，洗完头发万一得风寒了怎么办？|头像=广陵王-严肃}}\n{{对话|刘辩|洗个头发哪里需要那么多人前呼后拥的？要是洗个头就能死人，天下人早就死光了。}}\n{{对话|我|……你实在想洗，只准洗发尾，不能把头都泡到水里。|头像=广陵王-严肃}}\n{{旁白|河水潺潺有声。刘辩在水边坐下，我替他卸去环佩珠宝，小心翼翼将那漫长的乌发放入水中。}}\n{{对话|我|马匹走远了……我去把马牵回来，你在水边小心些。|头像=广陵王-微笑}}\n{{旁白|两匹马沿着河水走出了太远，我快步跟上，想将它们牵回来；然而没走出两步，身后突然传来惊呼……}}\n{{对话|刘辩|放开我！你是谁？要做什么？！|头像=刘辩}}\n{{对话|盗贼|哈哈哈，这家伙肯定能卖个好价钱！|头像=强盗}}\n{{对话|刘辩|放开！放开我——|头像=刘辩}}\n{{旁白|【废祭坛】}}\n{{对话|刘辩|别碰我！滚！|头像=刘辩}}\n{{对话|盗贼|我要把你的头发扯下来！你的头发能卖个好价钱！|头像=强盗}}\n{{旁白|我策马追着他们，追到了一处废弃的民间祭坛外。}}\n{{对话|盗贼|别乱动！识相点！——操，你敢踹我？！|头像=强盗}}\n{{对话|我|松手。|头像=广陵王-严肃}}\n{{对话|盗贼|你又是谁？|头像=强盗}}\n{{对话|我|他是尊贵之人，不能见血污。拿着这块玉佩，从我们眼前消失。|头像=广陵王-严肃}}\n{{对话|盗贼|两个白面小子，爷爷我还能怕你们不成？|头像=强盗}}\n{{对话|我|真不要吗？这块玉佩，够你衣食无忧一年。|头像=广陵王-严肃}}\n{{对话|刘辩|不许送他这个！这是我送你的！|头像=刘辩}}\n{{旁白|盗贼抄起斧头向我劈来。我的精铁长剑劈断斧柄，贯穿了他的咽喉。}}\n{{对话|我|没事吧？|头像=广陵王-微笑}}\n{{对话|刘辩|血……头发上都是这家伙的血……我刚洗完的头发！|头像=刘辩}}\n{{旁白|片刻后……}}\n{{对话|我|头再低一点。|头像=广陵王-微笑}}\n{{对话|刘辩|唔……皂角水弄眼睛里了。|头像=刘辩}}\n{{对话|我|野皂角很辣眼睛的。闭上眼睛，别揉了。|头像=广陵王-微笑}}\n{{旁白|我舀起一瓢水，继续替他冲洗长发。}}\n{{对话|刘辩|你要不要也冲洗一下？我待会替你洗。|头像=刘辩}}\n{{对话|我|不用，我没沾到血。|头像=广陵王-摇头}}\n{{对话|刘辩|这家伙真是狂妄，竟敢在祭坛的神佛面前行凶。|头像=刘辩}}\n{{对话|刘辩|他们不怕报应的吗？不是说百姓最信这种神神鬼鬼的东西吗……咳咳！呸呸……|头像=刘辩}}\n{{对话|我|少说几句，皂角都进嘴巴里了。|头像=广陵王-微笑}}\n{{对话|刘辩|……我有点不安。你刚才神前杀人，会不会被神明责罚啊？|头像=刘辩}}\n{{对话|我|你相信这个？你是肉身的天子，它是泥塑的神像，你不责罚，它责罚什么？|头像=广陵王-严肃}}\n{{对话|刘辩|谁说我不罚你？你居然……居然把那个玉佩送他！|头像=刘辩}}\n{{对话|刘辩|那是我亲自从少府里替你选出来的美玉……咳！呸呸……|头像=刘辩}}\n{{对话|我|好了，嘴巴闭上，想喝皂角水吗？|头像=广陵王-微笑}}\n{{旁白|片刻后，我替他把乌发上的血污洗净。刘辩坐在祭台上拧头发，拧了许久，发尾还在滴水。}}\n{{对话|我|用我的外套，把头发裹一裹吧。你要是着凉，事情就严重了。|头像=广陵王-微笑}}\n{{对话|刘辩|不用，这样就挺好……你要是担心，就去拜拜神像，让神佛保佑我不要着凉。}}\n{{旁白|刘辩拉着我，向王母像拜了拜。}}\n{{对话|刘辩|刚才要是他打赢了，我们会被怎么样？}}\n{{对话|我|这就得看陛下有多敢想了。但臣建议，想到士可杀不可辱这一步就可以了。|头像=广陵王-严肃}}\n{{对话|我|不然再往后想，就是烤熟、生吃、熬成肉糜……|头像=广陵王-摇头}}\n{{对话|刘辩|我本来还有点饿的……}}\n{{对话|我|这样就好。不然回去的途中路过夜市，你肯定要偷偷买零食吃。|头像=广陵王-微笑}}\n{{对话|刘辩|……你就不喜欢吃民间的零食？}}\n{{对话|刘辩|这对我们来说可是“奢侈品”。那群礼官和食官难得盯不住我们，想吃什么吃什么。}}\n{{对话|我|吃多了也就那样吧。装作爱吃这些东西，至少能让手下人觉得我亲切。|头像=广陵王-微笑}}\n{{对话|刘辩|那你到底爱不爱吃？}}\n{{对话|我|这嘛……|头像=广陵王-微笑}}\n{{旁白|一路说说笑笑，我们走回河岸边，乘着马车开始了归途……}}\n{{旁白|恭喜达成结局【浣青丝】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|难得出来，身边没有眼线，你就只想玩六博？|头像=广陵王-冷笑}}\n{{旁白|我注视着他，手指卷住了他的头发，把它握在掌心把玩。}}\n{{对话|刘辩|那么，朕就恭敬不如从命了……啊！|头像=刘辩}}\n{{旁白|地上的坑洼碎石，让马车颠簸得厉害。我们跌在车厢里，不由显出几分狼狈。}}\n{{对话|刘辩|等我回去，一定让他们把路好好修一修！居然有这样坑坑洼洼的路……}}\n{{对话|我|修桥补路可是肥差，若是陛下想修路，想必百姓和太仆寺皆会感激天子恩德。|头像=广陵王-微笑}}\n{{对话|刘辩|谁稀罕他们的感恩戴德……罢了，父皇的小金库花得快差不多了。}}\n{{对话|刘辩|好像平稳些了，我们继续吧……呃！}}\n{{旁白|马车又颠簸了一下。驾车人是随着马车被袁氏一起送给我们的，不知为何，他勒马停车。}}\n{{对话|车夫|二位，还要再往前吗？前面……有流民。|头像=男文人}}\n{{对话|饥饿的妇人|贵人……求你给点吃的吧……我的孩子饿了三天了……|头像=平民母亲}}\n{{对话|刘辩|饿了三天？那他……………………}}\n{{旁白|刘辩看见她怀里孩子的模样，突然安静了。}}\n{{对话|我|嘘……|头像=广陵王-严肃}}\n{{对话|刘辩|这个小孩已经……}}\n{{对话|我|嘘！我知道，我知道……这个戒指和玉环给你，你给孩子买些吃的吧。|头像=广陵王-严肃}}\n{{对话|饥饿的妇人|谢谢贵人，谢谢贵人！|头像=平民母亲}}\n{{旁白|心理|得尽快折返，前面的景色越发荒凉了……}}\n{{对话|刘辩|他们一动不动……啊，有个人还在动，在啃地上的土……}}\n{{对话|我|别看，进车里。|头像=广陵王-摇头}}\n{{对话|刘辩|给他们弄点吃的吧？}}\n{{对话|我|你不给，还能离开这。你给了，就不一定出的去。|头像=广陵王-严肃}}\n{{对话|饥饿的妇人|啊啊啊！求你们不要抢！我要给孩子买吃的！求你们不要抢！|头像=平民母亲}}\n{{旁白|从缝隙往外看去，能看到那名妇人被人哄抢玉器；刘辩想凑过来看，我把他的头按了回去。}}\n{{对话|华服青年|施粥了！施粥了！我家主人施粥了！|头像=美型文官}}\n{{对话|饥民|有善人施粥！快去啊！|头像=难民}}\n{{对话|华服青年|想喝粥的人都上那些板车，上车了就能吃到东西！|头像=美型文官}}\n{{对话|刘辩|他们都上车了……这家人要把他们拉去哪？|头像=刘辩}}\n{{对话|我|这就不知道了。如果陛下在意，我回去让绣衣楼调查……唔？马车怎么停了？|头像=广陵王-摇头}}\n{{对话|车夫|石块把车轴卡住了，可能得修一下。|头像=男文人}}\n{{旁白|我跳下车，确认了车轴的状况。并不是如何严重的问题，车夫熟稔地将车轮前后转动，清理碎石。}}\n{{旁白|心理|应该没问题了……尽快离开这里吧。}}\n{{对话|我|刘辩？……！！！刘辩？！！|头像=广陵王-惊讶}}\n{{旁白|就在修车的一会儿功夫里，刘辩，从马车里失踪了。}}\n{{旁白|【郊野】}}\n{{对话|壮汉|男的上那边去，女的留在这。小孩都交给我。|头像=屠夫}}\n{{对话|华服青年|男丁五口，十二口，三十口……妇人十六口……|头像=美型文官}}\n{{对话|华服青年|老的和病的都单独挑出来，还能卖去菜铺。|头像=美型文官}}\n{{对话|壮汉|站住！那个红衣服的人想逃！|头像=屠夫}}\n{{旁白|我跟着他们来到深林中，正撞见刘辩被他们发现。我立刻上前，将人护在身后。}}\n{{对话|我|他不是流民，只是因为好奇才跟在后面。|头像=广陵王-严肃}}\n{{对话|刘辩|我只是想看看你们是干什么的。|头像=刘辩}}\n{{对话|华服青年|口说无凭。我们怎么知道你不是来抢人的？|头像=美型文官}}\n{{对话|我|这是我们的符传，我们是编户民。|头像=广陵王-严肃}}\n{{对话|华服青年|我只看见你的符传。他的呢？|头像=美型文官}}\n{{对话|刘辩|我才不用那种东……唔！|头像=刘辩}}\n{{旁白|我捂住他的嘴。符传是证明良民身份的凭证，这些人明显是人口贩子，四处转卖流离失所的难民。}}\n{{旁白|至于卖去军中还是卖作其他用途，就不得而知了。}}\n{{对话|华服青年|我再问一遍，这个红衣男人的符传呢？|头像=美型文官}}\n{{对话|壮汉|没有符传，就不是编户民，是流民！|头像=屠夫}}\n{{对话|刘辩|你放肆！|头像=刘辩}}\n{{旁白|对面的人都围了过来。这群人把我当作抢生意的，不打算放我走。}}\n{{旁白|心理|亮身份会有用吗？……这些人会相信我们的身份吗？}}\n{{旁白|心理|不，也许只会起到反效果，让他们决意要杀人灭口……}}\n{{旁白|两个男人已经举着棍棒杀了过来。我把刘辩护在身后，长剑出鞘。}}\n{{对话|我|我们都是广陵王府的礼官，如果我们没有回去，殿下一定会过问！|头像=广陵王-微笑}}\n{{对话|华服青年|好笑，什么良民会深夜出现在流民营地里？给我拿下他们！|头像=美型文官}}\n{{对话|壮汉|呃啊！——头儿，他真的敢动手！|头像=屠夫}}\n{{对话|刘辩|不过几条走狗罢了，她怎会输给你们？|头像=刘辩}}\n{{对话|我|少狐假虎威，躲远点。|头像=广陵王-严肃}}\n{{旁白|虽然手下被我砍翻两名，但华服青年脸上的冷笑丝毫不变。他转过身，看向后面的那些流民。}}\n{{对话|华服青年|你们，谁能拿下他们，谁今晚就能吃他们的一口肉。|头像=美型文官}}\n{{旁白|顷刻间，流民中还有力气的人都站了出来，跟那些人一起围向我们。}}\n{{对话|饥饿的妇人|别这样，乡亲们，他是好人，放他们走……啊！|头像=平民母亲}}\n{{旁白|在人群面前，妇人像棵枯草被推倒在地。人群越来越近，看着我们的眼神，宛如看见了肉食。}}\n{{旁白|我只能无声叹息。}}\n{{对话|我|……阿蝉，听得见吗？|头像=广陵王-严肃}}\n{{旁白|深夜风声之中，似有寒蝉凄鸣。}}\n{{对话|我|……动手。|头像=广陵王-严肃}}\n{{旁白|在日出前，我们洗净身上的血污，回到了雒阳城。}}\n{{对话|饥饿的妇人|呵呵……呵呵呵……|头像=平民母亲}}\n{{对话|刘辩|……她一直跟着我们的马车。}}\n{{对话|我|……这不是你的错。我会保护你的。|头像=广陵王-严肃}}\n{{对话|饥饿的妇人|呵呵……哈哈哈……夫君……孩子……父亲……兄长……|头像=平民母亲}}\n{{对话|饥饿的妇人|都没了…哈哈……都没了……哈哈……|头像=平民母亲}}\n{{旁白|马车进入城门，身后细细袅袅的哭笑声，终于还是被夜市的余韵所掩盖……}}\n{{旁白|恭喜达成结局【人情恶】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n[[分类:活动剧情]]\n[[分类:鸢记]]"
+}

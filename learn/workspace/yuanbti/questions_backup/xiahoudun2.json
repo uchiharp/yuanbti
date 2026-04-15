@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_xiahoudun2_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "夏侯惇",
+    "source_story": null,
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "军情紧急，你必须在半日内穿越三百里山路送达军令。中途遇到暴雨，山路泥泞难行，你的坐骑已力竭。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "找地方避雨休息，等天晴再赶路",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "放慢速度继续走，安全第一",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "弃马步行，冒雨连夜赶路",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自夏侯渊的密探故事——他以行军神速闻名，三日五百里不是传说。"
+  },
+  {
+    "id": "q_xiahoudun2_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "夏侯渊",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼接到情报，有内鬼泄露行动计划。线索指向你最信任的副手。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先暗中观察，不冤枉好人",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直接问他对质，看他如何解释",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "按军法办事，不论是谁先控制",
+        "scores": {
+          "S10": 4,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "夏侯渊治军严明，法不阿贵，即便是亲信也一视同仁。"
+  }
+]

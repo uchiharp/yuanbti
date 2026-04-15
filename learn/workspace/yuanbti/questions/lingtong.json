@@ -1,0 +1,197 @@
+[
+  {
+    "id": "凌统_s5_01",
+    "type": "classic",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "凌统",
+    "text": "凌统发现锦帆寨的水贼为祸百姓，说「这种贼窝，存在一天，百姓就会受苦一天」。他二话不说要去讨贼。",
+    "options": [
+      {
+        "label": "A",
+        "text": "拦住他，说「先收集情报再行动」",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "压制冲动，延缓行动→S5:1"
+      },
+      {
+        "label": "B",
+        "text": "跟他说「我帮你一起」",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接响应行动号召，并肩作战→S5:5"
+      },
+      {
+        "label": "C",
+        "text": "点头，让他去但提醒注意安全",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "支持但不亲身介入→S5:3"
+      }
+    ],
+    "reveal": "「锦帆寨？这种贼窝，存在一天，百姓就会受苦一天！」「快下山回家吧，我要回去找兵器。」——凌统侠义心切"
+  },
+  {
+    "id": "凌统_s6_03",
+    "type": "angst",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "凌统",
+    "text": "凌统在战乱中遇到倒在地上的陌生人，二话不说背起来。他说「我带你去前方的村子疗伤」，自己身上也有伤。",
+    "options": [
+      {
+        "label": "A",
+        "text": "帮他分担，接过那个人",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动分担他的善良代价，共守底线→S6:5"
+      },
+      {
+        "label": "B",
+        "text": "说「你先处理自己的伤」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "关心他但未直接帮助陌生人→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "说「战场上管不了所有人」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "劝他降低底线，放弃弱者→S6:1"
+      }
+    ],
+    "reveal": "「你没事吧？需要帮忙吗？还活着。但是伤得很重……忍一忍，嘿咻……背起来。我带你去前方的村子疗伤。」——凌统路遇伤者"
+  },
+  {
+    "id": "凌统_s2_04",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "凌统",
+    "text": "凌统提到孙策和殿下交好时的那场战斗，说「给殿下添麻烦了」——但他笑着的。他一直记得你。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「不是麻烦，是缘分」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "正面回应情感，拉近关系→S2:5"
+      },
+      {
+        "label": "B",
+        "text": "摆摆手说「都过去了」",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "淡化过去，回避情感连接→S2:1"
+      },
+      {
+        "label": "C",
+        "text": "笑着说「下次再添麻烦我也不介意」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "用玩笑间接表达关心→S2:3"
+      }
+    ],
+    "reveal": "「哈哈……原来如此。给殿下添麻烦了。」——凌统在朝歌之战中与广陵王的互动"
+  },
+  {
+    "id": "lingtong_s8_1",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "lingtong",
+    "text": "凌统低着头说「给殿下添麻烦了」他的声音很轻。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说哪里的话你做得很好了",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "温柔地安慰和肯定→S8:5"
+      },
+      {
+        "label": "B",
+        "text": "说没事注意下次别再犯",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "安慰但有要求→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "说确实有点麻烦不过算了",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接指出麻烦不够温柔→S8:1"
+      }
+    ],
+    "reveal": "凌统是个自尊心很强但很认真的人。"
+  },
+  {
+    "id": "lingtong_sup2_01",
+    "type": "angst",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "凌统",
+    "text": "凌统双腿不便坐在轮椅上，有人提起他父亲的事，他只说：「热孝在身，本不该离开倚庐。私人仇怨，与此次战事调停无关。」他把所有情绪都压在那句「无关」里。你怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "点头说先生说得对，那我们谈正事吧",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "顺着他的话翻篇不提，不触碰他的底线→S6:1"
+      },
+      {
+        "label": "B",
+        "text": "说谈完正事若有空，可以聊聊令尊",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "尊重他的边界但留个口子，适度试探他的底线→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "说热孝在身就别逞强了，累了就说，不用硬撑",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接打破他的硬撑让他不用再装没事，底线弹性大→S6:5"
+      }
+    ],
+    "reveal": "凌统说「私人仇怨与战事无关」的时候，声音平静得不像在说自己父亲的仇。他不是放下了，是把所有锋芒都收进了轮椅里。"
+  }
+]

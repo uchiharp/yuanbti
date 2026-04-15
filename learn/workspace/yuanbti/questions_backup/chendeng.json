@@ -1,0 +1,985 @@
+[
+  {
+    "id": "q_chendeng_01",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "猫神宴",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「下一世，当些没心事的动物吧。」陈登用童话消解生死，这说明他的温柔是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "逃避现实的软弱，值得关注",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看透一切之后的温柔选择",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "想安慰别人但不知道怎么说",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登的温柔不是天真，是清醒到极致后的慈悲。"
+  },
+  {
+    "id": "q_chendeng_02",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "结盟分析",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「今日晚生代表陈氏登门，对世子来说，既是福，也是祸。」主动向广陵王暴露结盟的风险，这说明陈登？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不够专业不该说风险",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "权谋是工具不是目的",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在试探广陵王的反应",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登的权谋是工具不是目的。"
+  },
+  {
+    "id": "q_chendeng_03",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "为百姓挡刀",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「我不会让你们这样做的……谁都……谁都不许带走百姓的钱！咳……咳咳」为百姓挡刀咳到失声，陈登的底线？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太冲动了不顾身体",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "底线很硬宁死不退",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "为你在底线上凿了个洞",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "陈登底线很硬，但为你在上面凿了个洞。"
+  },
+  {
+    "id": "q_chendeng_04",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "猫活动",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「小鱼来，嘬嘬嘬嘬嘬」猫活动中陈登彻底放飞变成钓鱼狂魔。这说明他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的就是喜欢钓鱼",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在乱世中唯一的纯真时刻",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "故意装可爱讨好别人",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "猫活动是陈登真正的未被乱世污染的自我。"
+  },
+  {
+    "id": "q_chendeng_05",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "河狸寓言",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「他变一只河狸每天咬个不停……我呢就当一棵树吧。被咬断了变成浮木飘在水面上。」陈登用这个寓言说明什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "他很佛系不在乎被消耗",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "愿意被身边的人消耗只",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "对命运的无奈接受",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登愿意被消耗，只要能晒太阳就好。"
+  },
+  {
+    "id": "q_chendeng_06",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "穿越建议",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「主公应该回去。回到七年前，才能改变这一切。」用最冷静的语气说出最疯狂的建议，这说明陈登？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，已经失去了理智",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "精神上极其果断，",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在试探广陵王的反应",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登的行动风格——以最温和的语气做最决绝的事。"
+  },
+  {
+    "id": "q_chendeng_07",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "拥立表白",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「晚生支持拥立天子——但不是阙宣，而是广陵王。」用政治语言包装真心，陈登的感情？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的只是在分析政治局势",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "藏在主公和晚生称谓下的深情",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "借政治表态表达心意，",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈登的感情永远藏在称谓之间。"
+  },
+  {
+    "id": "q_chendeng_08",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "风雅代价",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「那些风雅之事是建立在何物之上？被夺取良田的饿殍……」陈登对金钱的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "讨厌富人，从中可以看出他的真实想法",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "出身士族但选择站在百姓一边",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "对财富与权力的捆绑关系有清醒认知",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登务实但不贪婪，清醒拒绝为金钱出卖底线。"
+  },
+  {
+    "id": "q_chendeng_09",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "陈登",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "一个人在公开场合温润从容游刃有余，私下疲惫脆弱看鱼发呆。你觉得这个人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "虚伪两面派，这说明了一些问题",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在用两副面孔应对不同的世界",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "三张脸都是真的——只是不同",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈登的双面性——每张脸都是真实的自己。"
+  },
+  {
+    "id": "q_chendeng_10",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "种树隐喻",
+    "route_hint": null,
+    "city_hint": "东阳",
+    "text": "「杏花树的话，只要人还在，总有一天可以重新种成树林的。」用种树隐喻重建关系，这是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太理想化了，这说明了一些问题",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "看透世事的平静中的温",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "拖延症的表现，这说明了一些问题",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "陈登用种树的方式重建——最温柔也最持久。"
+  },
+  {
+    "id": "q_chendeng_11",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "保护贤兄",
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「不许动他。」对贤兄的保护欲极强，两个字不容置疑。陈登的锋芒？",
+    "options": [
+      {
+        "label": "A",
+        "text": "平时温和但触及底线时瞬间变脸",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "藏在水底的刀不伤人但谁都知道它在",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "锋芒太弱不够用，值得关注",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "陈登的锋芒是藏在水底的刀。"
+  },
+  {
+    "id": "q_chendeng_12",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "陈登",
+    "source_story": "故人之痛",
+    "route_hint": null,
+    "city_hint": "东阳",
+    "text": "「这几年身边物是人非……故人走了许多……」全台词中最沉重的告白，陈登的情感？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在博同情，从中可以看出他的真",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "压抑到极致后终于流露，值得深思",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "正常的感伤，这说明了一些问题",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登的疲惫是真实的——他扛了太久。"
+  },
+  {
+    "id": "q_chendeng_13",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "陈登",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「好累啊殿下。想控制住人心之中的爱恨，真的好累啊……」对权力游戏的厌倦是真实的。你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "累了就休息吧，",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "站在权力场上心在河边",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "既然累为什么不退出",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登是清醒的厌倦者——善用权力但不追逐。"
+  },
+  {
+    "id": "q_chendeng_14",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "陈登",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "东阳",
+    "text": "「我心中有一时魔念，主公不必担心。」承认自己有阴暗面但选择不付诸行动，这说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "虚伪，有阴暗面还装好人，值得深思",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "底线硬到不需要靠消灭阴暗面来维持",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在试探对方能不能接受真实的自己",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈登的底线——不是不懂阴暗面，而是选择不付诸行动。"
+  },
+  {
+    "id": "q_chendeng_15",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "陈登",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "一个人自己扛着所有的苦不成为任何人的负担，你觉得这是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不需要别人关心，值得关注",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "最深的温柔——温柔到",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "逞强而已，从中可以看出他",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登的温柔——自己扛苦不成为负担。"
+  },
+  {
+    "id": "q_chendeng_16",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "陈登",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "「头有点晕……是地底太深了吗？」频繁的身体崩溃但从不让人担心，这说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "身体真的不好但不想让人担心",
+        "scores": {
+          "S5": 3,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "在用病弱博取同情，值得关注",
+        "scores": {
+          "S5": 2,
+          "S4": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "身体和精神的透支到了极限但",
+        "scores": {
+          "S5": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈登——咳着血给你铺路。"
+  },
+  {
+    "id": "q_chendeng_17",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人的一生，可真是短暂啊。」夜观星象时的感慨，你觉得这是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "消极悲观，从中可以",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看尽人事后的平静",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "文人惯有的伤春悲秋",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登的感慨——平静比崩溃更让人心疼。"
+  },
+  {
+    "id": "q_chendeng_18",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "面对士族豪强掠夺百姓财物，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "明哲保身不掺和，值得关注",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "咳到失声也要挡在百姓前面",
+        "scores": {
+          "S3": 3,
+          "S6": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "用政治手段制衡但不下场",
+        "scores": {
+          "S3": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈登会选B——底线不容退让。"
+  },
+  {
+    "id": "q_chendeng_19",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "绣衣楼举办宴会，大家都在社交。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "端着酒杯到处应酬",
+        "scores": {
+          "S4": 3.5,
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "找个安静角落看鱼发呆",
+        "scores": {
+          "S8": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "主动找需要帮助的人聊天",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登会选B——在热闹中寻找安静。"
+  },
+  {
+    "id": "q_chendeng_20",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "你生病了但有一个重要的会议必须参加。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "请假休息身体第一",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "吃了药去开会，",
+        "scores": {
+          "S4": 4,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "撑着开完会回来就倒下",
+        "scores": {
+          "S5": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈登——从不示弱于人前。"
+  },
+  {
+    "id": "q_chendeng_21",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "徐州",
+    "text": "朋友送你一条鱼作为礼物。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "谢谢收下找个时间做了吃",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "眼睛放光——可以拿去河",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "礼貌收下但不太在意",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "陈登——鱼是他灵魂的归宿。"
+  },
+  {
+    "id": "q_chendeng_22",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「下一世，当些没心事的动物吧。」",
+        "scores": {
+          "S8": 4,
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「只要人还在，总有一天可以重新种成树林的。」",
+        "scores": {
+          "S8": 4,
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都来自陈登——用温柔消解苦难。"
+  },
+  {
+    "id": "q_chendeng_23",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "陈登",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "东阳",
+    "text": "「就算是为我徇私吧。」用徇私二字将私人感情转化为正当理由，这说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "虚伪找借口，这说明了一些问题",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "对自己的保护色——连",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "真的只是在徇私，值得关注",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "陈登——用体制的语言表达最私人的感情。"
+  },
+  {
+    "id": "q_chendeng_24",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「读书是为了明理，不是为了显摆。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「读书是为了明理，不是为了显摆。」——你怎么看？",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「真正的聪明人懂得藏拙，只有蠢人才会处处表现。」——你认同吗？",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「知识本身没有用，用对了地方才有用。」——你的看法？",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "求知、藏锋、实用——三种对待智慧的态度。"
+  },
+  {
+    "id": "q_chendeng_25",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在绣衣楼的书房整理情报时，发现一份文件记载了你不该知道的事情。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你在绣衣楼的书房整理情报时，发现一份文件记载了你不该知道的事情。你——",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "广陵王让你去谈判一个棘手的同盟关系，对方是个出了名难缠的人。你——",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "一位年轻密探向你请教如何提高情报分析能力。你——",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "守密、策略、传承——文人密探的三种日常考验。"
+  },
+  {
+    "id": "q_chendeng_26",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「与其用刀剑解决问题，不如用一句话让对手自己放下武器。」",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「有些人不值得你费心思，但为了大局，你必须费心思。」",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "理想主义还是现实主义——陈登的答案从来都是后者。"
+  }
+]

@@ -1,0 +1,590 @@
+{
+  "title": "陶生/活动剧情/陶生·八",
+  "category": "活动剧情",
+  "characters": [
+    "众人",
+    "士燮",
+    "孙权",
+    "孙策",
+    "我",
+    "甘宁",
+    "荀彧",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "孙策？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策，别开门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "没事的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……毫无准备地出去会有危险。造成眼下局面的力量，不会任由我们在夜里自由行动。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "放心，我只是看看门外有什么。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "兄长！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你怎么来的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "是不是害怕了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "……阿香今夜不在，我听见门外有脚步声……从缝隙里，看见陶人们经过了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "等它们过去之后……我总觉得一个人待着太诡异了，就来找兄长了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "出息，孙家人还怕鬼？鬼怕我们还差不多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "呼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哈……好痒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "想吓你来着。真不怕鬼啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好杀人的人，鬼不敢近身。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "吹牛。还不是被缠上了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那你呢？你怕吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "活人都不怕，鬼算什么。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这次有宾客。我是主人，不能撂下他们。何况还有弟弟妹妹在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "若没有其他人，只有我和你，我们便一人一刀杀出去了。那才痛快。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "没事的，别那么紧张，你都快喘不过气了。啊，殿下来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "殿下和孙策将军都没事吗……太好了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "殿下，将军。平安无事就好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "只有你们几人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……问一下宾客用过早膳没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哦哦……吃了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "啊，是我带的特产……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "找了半天也只找到这个吃的。怎样？不许老子吃吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……不告而取。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "我哥的意思是可以吃，请，随意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……有人早起见过交趾太守他们吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "客舍那边早上很安静。因为彼此不熟悉，所以在下醒后只去见了子瑜学弟，未曾探望二位太守。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "呵呵……他可能死了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你们自己去看看就知道了。我早上饿了，就到处转了转。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "他的住处，看起来大战过一场。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "有些奇怪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嗯，没有血味。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "而且，虽然凌乱，但不像是搏斗造成的凌乱……怎么说呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你那边如果发现……唔啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "谁让你们进来的？！出去！给我出去！无礼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你为何躲在里面？众人在主屋没见到你，还以为你出事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "……我……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "…………没有随从……我不会穿衣梳头……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "……………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "这样……这样……嗯，好了。这玉冠可真是绝品，是传闻中的南越翠玉？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……哼。这个赏你了。这几日由你替我梳妆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "不许收！平日里不成模样的浪荡玩笑也就罢了，还真要为人奴婢吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "靠手艺活替人梳头讨生活不丢人，自己挣的钱和坞堡田庄上收的钱都是钱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "不、许、收！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "我可以啊。我当年还替老妈梳过头。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "离我远点！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "好了。既然无事了，就都先回主屋吧。我和孙策去看看蒯越那边。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我有点担心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "蒯越没有出现也就算了，为什么阿香也没有出现……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有打斗的痕迹化……但是，人不见了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "阿香？阿香——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "阿香！阿香你在哪？你回兄长一声——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "阿香！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·八'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E5%85%AB",
+  "crawled_at": "2026-04-12T22:06:48.655541",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·八'''=\n</center>\n\n{{对话-头}}\n{{旁白|【孙氏老宅】}}\n{{旁白|心理|它们是要去哪……}}\n{{旁白|数名陶人缓缓沿着回廊行进，去往客舍方向。我们尾随其后，并未刻意隐瞒行踪，它们也并不在意。}}\n{{旁白|心理|它们是要去杀人？还是单纯的徘徊？}}\n{{旁白|转眼已经抵达了客舍院门外。院门已经落了锁，但是它们伸手却推开了门——铜锁化作陶浆，沿着门板流淌在地。}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|我|孙策？|头像=广陵王-挑眉}}\n{{旁白|他转过头。幽暗雨夜下，陶色已经蔓延上了他的额角——}}\n{{旁白|心理|双脚动不了！}}\n{{旁白|陶土不知何时蔓延上我的双腿，拖住了身躯。它仿佛有生命般向上蜿蜒，转眼淹没了我的咽喉……}}\n{{旁白|最后的视野中，我看见自己手腕的内侧，浮现了陶片上的花鸟篆。}}\n{{旁白|【寝室】}}\n{{对话|我|咳……|头像=广陵王-难受}}\n{{旁白|我抬起头，孙策正在纸门前欲拉开纸门。闪电惊亮，门外现出人影——}}\n{{对话|我|孙策，别开门。|头像=广陵王-严肃}}\n{{对话|孙策|没事的。|头像=孙策}}\n{{旁白|心理|我们刚才尾随那些往客舍的陶人，但结果是自己被同化成了陶人……这是介入陶人的行踪的后果吗……}}\n{{对话|我|……毫无准备地出去会有危险。造成眼下局面的力量，不会任由我们在夜里自由行动。|头像=广陵王-严肃}}\n{{对话|孙策|放心，我只是看看门外有什么。}}\n{{旁白|纸门拉开了。下一刻，一道湿漉漉的人影从外面扑了进来——}}\n{{对话|我|！！！|头像=广陵王-惊讶}}\n{{对话|孙策|？！}}\n{{对话|孙权|兄长！|头像=孙权}}\n{{对话|孙策|你怎么来的……}}\n{{对话|孙权|……|头像=孙权}}\n{{对话|我|是不是害怕了？|头像=广陵王-挑眉}}\n{{旁白|他拿薄毯裹住自己，擦着头上的雨水。}}\n{{对话|孙权|……阿香今夜不在，我听见门外有脚步声……从缝隙里，看见陶人们经过了。}}\n{{对话|孙权|等它们过去之后……我总觉得一个人待着太诡异了，就来找兄长了。}}\n{{对话|孙策|出息，孙家人还怕鬼？鬼怕我们还差不多。|头像=孙策}}\n{{旁白|雨声如瀑。老宅略有些破旧的室内，能听见破瓦下的漏水声。}}\n{{旁白|孙权躺在软垫上睡去了。孙策横剑坐在门口，望着门外的雨影。}}\n{{对话|我|呼！|头像=广陵王-微笑}}\n{{对话|孙策|哈……好痒。}}\n{{对话|我|想吓你来着。真不怕鬼啊。|头像=广陵王-惊讶}}\n{{对话|孙策|好杀人的人，鬼不敢近身。}}\n{{对话|我|吹牛。还不是被缠上了。|头像=广陵王-挑眉}}\n{{对话|孙策|那你呢？你怕吗？}}\n{{对话|我|活人都不怕，鬼算什么。|头像=广陵王-摇头}}\n{{对话|孙策|这次有宾客。我是主人，不能撂下他们。何况还有弟弟妹妹在。}}\n{{对话|孙策|若没有其他人，只有我和你，我们便一人一刀杀出去了。那才痛快。}}\n{{旁白|我也横剑膝头，并肩坐下。这一夜除了雨声，再无其他。}}\n{{旁白|【次日】}}\n{{旁白|【主屋】}}\n{{对话|诸葛瑾|呼……呼……}}\n{{对话|诸葛诞|没事的，别那么紧张，你都快喘不过气了。啊，殿下来了。|头像=诸葛诞}}\n{{对话|诸葛瑾|殿下和孙策将军都没事吗……太好了。}}\n{{旁白|我们到的时候，主屋中只有寥寥数人。诸葛瑾神色苍白，见我们三人进来，稍稍有了好转。}}\n{{对话|荀彧|殿下，将军。平安无事就好。}}\n{{对话|孙策|只有你们几人吗？|头像=孙策}}\n{{对话|我|……问一下宾客用过早膳没有。|头像=广陵王-微笑}}\n{{对话|孙策|哦哦……吃了吗？|头像=孙策}}\n{{旁白|一声闷响，门被人从外面挤开了。甘宁拎着一串白薯，从外面晃了进来。}}\n{{对话|诸葛瑾|啊，是我带的特产……}}\n{{对话|甘宁|找了半天也只找到这个吃的。怎样？不许老子吃吗？|头像=甘宁}}\n{{对话|诸葛瑾|……不告而取。}}\n{{对话|诸葛诞|我哥的意思是可以吃，请，随意。|头像=诸葛诞}}\n{{旁白|心理|士燮、蒯越和孙尚香还没有来。}}\n{{对话|我|……有人早起见过交趾太守他们吗？|头像=广陵王-挑眉}}\n{{对话|荀彧|客舍那边早上很安静。因为彼此不熟悉，所以在下醒后只去见了子瑜学弟，未曾探望二位太守。}}\n{{对话|甘宁|呵呵……他可能死了。|头像=甘宁}}\n{{对话|孙策|……什么？|头像=孙策}}\n{{对话|甘宁|你们自己去看看就知道了。我早上饿了，就到处转了转。|头像=甘宁}}\n{{对话|甘宁|他的住处，看起来大战过一场。|头像=甘宁}}\n{{对话|孙策|？！|头像=孙策}}\n{{旁白|【士燮住处】}}\n{{旁白|心理|果然，这次第一名死者还是他……}}\n{{旁白|和上次略有不同。凌乱的室内仿佛被飓风扫过，衣箱倾倒，绫罗绸缎和交趾美玉散乱满地。}}\n{{旁白|我们入室时，孙策还踢到了门口倒落着玉壶，里面有残酒和果饮，应该是在士氏的行装里一起带来的。}}\n{{对话|孙策|有些奇怪……}}\n{{对话|我|嗯，没有血味。|头像=广陵王-微笑}}\n{{对话|孙策|而且，虽然凌乱，但不像是搏斗造成的凌乱……怎么说呢……}}\n{{旁白|他踢开地上纠缠的绸裳，地席干净整洁，没有血迹和皱褶。思索片刻后，他用眼神示意我去左边的廊门，自己则去右边的耳房。}}\n{{对话|孙策|你那边如果发现……唔啊——}}\n{{旁白|就在他扯开内室帘门的霎那，伴随叱喝声，一团金银珠宝从里面被砸了出来——}}\n{{对话|士燮|谁让你们进来的？！出去！给我出去！无礼！|头像=士燮}}\n{{旁白|他披头散发、衣着凌乱，死死拽着帘门不肯出来；孙策一把将人揪了出来，伴随惊呼声和帘门撕扯声，士燮被拖出了内室。}}\n{{对话|我|你为何躲在里面？众人在主屋没见到你，还以为你出事了。|头像=广陵王-挑眉}}\n{{旁白|心理|他没有死……是因为阿香看住了蒯越，让他避过了昨夜的杀机吗？}}\n{{对话|士燮|……我……}}\n{{对话|士燮|…………没有随从……我不会穿衣梳头……}}\n{{对话|众人|……………………}}\n{{对话|诸葛诞|这样……这样……嗯，好了。这玉冠可真是绝品，是传闻中的南越翠玉？}}\n{{对话|士燮|……哼。这个赏你了。这几日由你替我梳妆。|头像=士燮}}\n{{对话|诸葛瑾|不许收！平日里不成模样的浪荡玩笑也就罢了，还真要为人奴婢吗？！|头像=诸葛瑾}}\n{{对话|诸葛诞|靠手艺活替人梳头讨生活不丢人，自己挣的钱和坞堡田庄上收的钱都是钱。}}\n{{对话|诸葛瑾|不、许、收！|头像=诸葛瑾}}\n{{旁白|诸葛诞扁扁嘴，把翠玉冠放回了士燮的妆奁里。没等他放稳，甘宁的手又拿起了它。}}\n{{对话|甘宁|我可以啊。我当年还替老妈梳过头。}}\n{{对话|士燮|离我远点！|头像=士燮}}\n{{对话|我|好了。既然无事了，就都先回主屋吧。我和孙策去看看蒯越那边。|头像=广陵王-无语}}\n{{旁白|【蒯越住处】}}\n{{对话|孙策|……我有点担心。}}\n{{对话|孙策|蒯越没有出现也就算了，为什么阿香也没有出现……}}\n{{旁白|蒯越的住处很安静。室内的食案上还有酒盏，应该是两人昨夜夜谈时留下的。}}\n{{对话|我|没有打斗的痕迹化……但是，人不见了……|头像=广陵王-摇头}}\n{{对话|孙策|阿香？阿香——|头像=孙策}}\n{{旁白|他的声音穿过空荡的客舍，得不到回应。后面的喊声中带着颤抖，在这个诡谲的异象中，我第一次看见他慌了。}}\n{{旁白|心理|衣箱……还会是衣箱吗？}}\n{{旁白|我步向房间角落的衣箱。靠近时，一股淡淡的血气，从木箱缝隙中渗出……}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|孙策|阿香！阿香你在哪？你回兄长一声——}}\n{{旁白|我的手抚上箱子。木板下，仿佛有某种迅速逝去的温暖……}}\n{{对话|孙策|阿香！！！}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|孙策|……|头像=孙策}}\n{{旁白|——血水中，大多是颜色风雅而幽静的绢和罗……}}\n{{旁白|而蜷缩着浸泡在血污泥泞之中的是……}}\n{{旁白|心理|蒯越。}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·九|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

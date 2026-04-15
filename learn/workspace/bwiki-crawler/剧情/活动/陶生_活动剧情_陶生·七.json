@@ -1,0 +1,639 @@
+{
+  "title": "陶生/活动剧情/陶生·七",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙尚香",
+    "孙权",
+    "孙策",
+    "我",
+    "甘宁",
+    "荀彧",
+    "蒯越",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "殿下……无事吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "刚才说到，在下醒来后觉得异样，每日都将夜梦记于纸上……“残陶故事，平此怨恨。碎梦重圆，遂汝心愿”……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我在这附近也时常梦魇。我的梦里，陶人似乎给了更详尽的话语。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "怪不得你在船上还做噩梦了。梦见什么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "陶人将以“遂愿”为饵，诱宾客夜杀一人。“杀何人”，就是陶人所谓的愿望。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你们怎么能把梦记得那么清楚的，我都醒来就忘了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "当然是空口白话。抓一只陶人过来问个真伪啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你不能证明我和荀彧说的是真的，但也无法证明我们的话是假的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我有一言。今夜之后的试胆中，无论谁听见了陶人的愿望，都请告知众人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "就算听从陶人的愿望，一夜一夜杀下去，直到杀了所有人，陶人也不可能真正实现人心中的愿望的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "真的没关系吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "如今谁也离不开这里。如果他真的将人杀完，那就等于自己把自己彻底困死在了这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "人越多，越可能得出解法。就算真的一夜死一人，那也得需要有人死在自己前面，才更容易幸存下来，你说呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "何况此事过后，你也算和我与孙策将军有生死之交了，眼下你虽浪迹四海，但往后呢？有朝一日想招安投靠了呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "还是没人说吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我话摆在这里。现在说了，所有人替你谋划，众人齐心破局出去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "若是瞒着，瞒到最后，下场自己知道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "——我可以对荀氏先祖起誓，我没有见到陶人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "我们兄弟俩也都没有。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "兄长，我和阿香也要起誓吗？我没有看到。我可以对父亲起誓！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "我也没有，我看到了我肯定会说。我也可以对父亲起誓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那就只剩下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "哈，起誓？老子可以对全天下的死人起誓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "可笑。随口拿先祖起誓的人，反而是最可疑的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你不愿起誓吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "我士氏纵横交州，六世余烈，先祖之名岂是儿戏？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "孙策，没事的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "士燮太守，众人并非是将先祖之名视作儿戏，此为自证清白，心无亵渎之念，言辞亦无伪作，何来儿戏？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "但士氏有世家风骨，不愿以先祖之名起誓，也是情有可原。那，蒯越太守……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "我也可以向蒯氏先祖起誓。若先祖愿意庇护我的话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "明天若死人了，今天没起誓的几个，首当其冲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好了。既然今夜的游戏结束了，诸位早些回去歇息吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "鄙人有个问题。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "你的问题真多啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "既然有人可能被陶人蛊惑杀死他人，那所有人都不离开主屋，全在此过夜不就好了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "这样也好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "……但这样的代价，会不会是一夜一夜地拖延下去？这里的饮食资源……能够撑多久？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "学长不必担心！我带了些南阳山货来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "我也有个办法，一个个严刑拷打过去，拷问出谁见到了陶人。交给我吧，我最擅长这个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "彼此监视就会进展到彼此拷问，一旦开始肉刑，很快会演变成杀戮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你们确定要这样吗？在场众人，本人、孙氏兄妹、甘宁或有刀兵之力，其他人，与鱼肉无异。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "诸位回谒舍吧。紧闭门户，注意异响。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你是不是怀疑蒯越有问题？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……嗯。但是还没有证据。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "阿香，有个事交给你办。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "江陵太守蒯越和你师父有故交。你过去拜访一下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "明白，我把他盯死了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "殿下请留步。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……你先回去吧，我和他谈完了就回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "他安全吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不用担心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "殿下怀疑是蒯越吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……只是略有疑心。先生以为呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "有无可能……是孙策？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……殿下，请借一步说话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "咳……多谢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "朝廷的文书，随行装一起在水路上被甘宁所劫，不知去向，可能尽数毁于江水了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "但我知道文书的内容。此前吴郡许贡送密信于许都，诉孙策有拥兵自重之心。此番朝廷下令，应是命孙氏送质子入朝。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你担心孙策设局困人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "在下担心的是，有人借孙策设局困人，挑动许都与南地的局势。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "问过郭嘉了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "我不必问他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "只问其一不问其二，这不公平。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "正是为了天下的公平，才不必问他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "所以你来江东，他不知道。原定送文书的是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是一个需要买通甘宁来处理的人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你说，今夜会死人吗？如果阻拦行吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "而且，你为什么断定会一夜一夜的死人，而不是死了一个人之后，陶人实现愿望，并满足杀人者的愿望，结束一切？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "那就无需那么多人了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "万一是我们几个倒霉呢？你看，阿香、甘宁，荀彧都是后加入的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我需要确认一件事情。等最后这件事情确认完，大概就能推算出完整的规则了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "孙策？！"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·七'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E4%B8%83",
+  "crawled_at": "2026-04-12T22:06:58.416626",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·七'''=\n</center>\n\n{{对话-头}}\n{{旁白|【主屋】}}\n{{对话|我|呃——|头像=广陵王-疲惫}}\n{{旁白|心理|我……又回来了、}}\n{{旁白|众人惊讶地看向我。甘宁和荀彧也在。}}\n{{对话|荀彧|殿下……无事吧？}}\n{{对话|荀彧|刚才说到，在下醒来后觉得异样，每日都将夜梦记于纸上……“残陶故事，平此怨恨。碎梦重圆，遂汝心愿”……}}\n{{对话|我|我在这附近也时常梦魇。我的梦里，陶人似乎给了更详尽的话语。|头像=广陵王-严肃}}\n{{对话|孙策|怪不得你在船上还做噩梦了。梦见什么了？|头像=孙策}}\n{{旁白|我接过荀彧的卷宗，从袖中取出竹筒记笔，在濡湿的卷宗上续写。}}\n{{对话|我|陶人将以“遂愿”为饵，诱宾客夜杀一人。“杀何人”，就是陶人所谓的愿望。|头像=广陵王-微笑}}\n{{对话|孙策|你们怎么能把梦记得那么清楚的，我都醒来就忘了……}}\n{{对话|甘宁|当然是空口白话。抓一只陶人过来问个真伪啊。|头像=甘宁}}\n{{对话|我|你不能证明我和荀彧说的是真的，但也无法证明我们的话是假的。|头像=广陵王-微笑}}\n{{对话|我|我有一言。今夜之后的试胆中，无论谁听见了陶人的愿望，都请告知众人。|头像=广陵王-严肃}}\n{{对话|我|就算听从陶人的愿望，一夜一夜杀下去，直到杀了所有人，陶人也不可能真正实现人心中的愿望的。|头像=广陵王-严肃}}\n{{旁白|然后，便和上一轮一样。诸葛诞、孙策、我已经说完故事了，随后是蒯越、孙权、士燮、孙尚香、诸葛瑾、荀彧。}}\n{{旁白|轮到甘宁时，我让孙尚香替他松绑。}}\n{{对话|孙尚香|真的没关系吗？}}\n{{对话|我|如今谁也离不开这里。如果他真的将人杀完，那就等于自己把自己彻底困死在了这。|头像=广陵王-摇头}}\n{{对话|我|人越多，越可能得出解法。就算真的一夜死一人，那也得需要有人死在自己前面，才更容易幸存下来，你说呢？|头像=广陵王-挑眉}}\n{{对话|我|何况此事过后，你也算和我与孙策将军有生死之交了，眼下你虽浪迹四海，但往后呢？有朝一日想招安投靠了呢？|头像=广陵王-微笑}}\n{{对话|甘宁|……|头像=甘宁}}\n{{旁白|绳索解开了。这次，他没有暴起，胡乱说完了故事，独自带着烛火，出去绕行了主屋。}}\n{{旁白|然而……}}\n{{对话|孙策|还是没人说吗？}}\n{{旁白|众人沉默。和上次一样，没有人承认自己听说了陶人的愿望。}}\n{{对话|孙策|我话摆在这里。现在说了，所有人替你谋划，众人齐心破局出去。}}\n{{对话|孙策|若是瞒着，瞒到最后，下场自己知道。}}\n{{对话|荀彧|——我可以对荀氏先祖起誓，我没有见到陶人。|头像=荀彧}}\n{{旁白|心理|聪明。}}\n{{旁白|他当机立断开口，众人先是愣住，然后陆续反应过来。诸葛诞反应最快，也接着起誓。}}\n{{对话|诸葛诞|我们兄弟俩也都没有。}}\n{{对话|孙权|兄长，我和阿香也要起誓吗？我没有看到。我可以对父亲起誓！|头像=孙权}}\n{{对话|孙尚香|我也没有，我看到了我肯定会说。我也可以对父亲起誓。|头像=孙尚香}}\n{{对话|我|那就只剩下……|头像=广陵王-严肃}}\n{{对话|甘宁|哈，起誓？老子可以对全天下的死人起誓。|头像=甘宁}}\n{{旁白|心理|也是，这家伙的誓言毫无约束力。}}\n{{对话|士燮|可笑。随口拿先祖起誓的人，反而是最可疑的。}}\n{{对话|孙策|你不愿起誓吗？|头像=孙策}}\n{{对话|士燮|我士氏纵横交州，六世余烈，先祖之名岂是儿戏？！}}\n{{旁白|铿锵一声，孙策拔刀；他怒目而视，毫不退让。}}\n{{对话|我|孙策，没事的。|头像=广陵王-摇头}}\n{{对话|荀彧|士燮太守，众人并非是将先祖之名视作儿戏，此为自证清白，心无亵渎之念，言辞亦无伪作，何来儿戏？}}\n{{对话|荀彧|但士氏有世家风骨，不愿以先祖之名起誓，也是情有可原。那，蒯越太守……}}\n{{对话|蒯越|我也可以向蒯氏先祖起誓。若先祖愿意庇护我的话。|头像=蒯越}}\n{{对话|孙策|明天若死人了，今天没起誓的几个，首当其冲。|头像=孙策}}\n{{旁白|我拿胳膊顶了顶他。他舒了口气，微微收起凶相。}}\n{{对话|我|好了。既然今夜的游戏结束了，诸位早些回去歇息吧。|头像=广陵王-微笑}}\n{{对话|士燮|鄙人有个问题。}}\n{{对话|蒯越|你的问题真多啊。|头像=蒯越}}\n{{旁白|士燮瞪了他一眼，继续说。}}\n{{对话|士燮|既然有人可能被陶人蛊惑杀死他人，那所有人都不离开主屋，全在此过夜不就好了？}}\n{{对话|诸葛瑾|这样也好……|头像=诸葛瑾}}\n{{对话|荀彧|……但这样的代价，会不会是一夜一夜地拖延下去？这里的饮食资源……能够撑多久？|头像=荀彧}}\n{{对话|诸葛瑾|学长不必担心！我带了些南阳山货来！|头像=诸葛瑾}}\n{{对话|甘宁|我也有个办法，一个个严刑拷打过去，拷问出谁见到了陶人。交给我吧，我最擅长这个……|头像=甘宁}}\n{{对话|我|彼此监视就会进展到彼此拷问，一旦开始肉刑，很快会演变成杀戮。|头像=广陵王-严肃}}\n{{对话|我|你们确定要这样吗？在场众人，本人、孙氏兄妹、甘宁或有刀兵之力，其他人，与鱼肉无异。|头像=广陵王-挑眉}}\n{{对话|士燮|……}}\n{{对话|我|诸位回谒舍吧。紧闭门户，注意异响。|头像=广陵王-微笑}}\n{{旁白|众人陆续离开了主屋。孙策暗示我停一停。}}\n{{对话|孙策|你是不是怀疑蒯越有问题？}}\n{{对话|我|……嗯。但是还没有证据。|头像=广陵王-点头}}\n{{对话|孙策|阿香，有个事交给你办。}}\n{{对话|孙策|江陵太守蒯越和你师父有故交。你过去拜访一下。}}\n{{对话|孙尚香|明白，我把他盯死了。|头像=孙尚香}}\n{{旁白|【孙氏老宅】}}\n{{旁白|我们离开主屋，准备回寝室。身后，有人叫住了我。}}\n{{对话|荀彧|殿下请留步。}}\n{{对话|我|……你先回去吧，我和他谈完了就回去。|头像=广陵王-微笑}}\n{{对话|孙策|他安全吗？|头像=孙策}}\n{{对话|我|不用担心。|头像=广陵王-摇头}}\n{{旁白|孙策的身影消失在回廊尽头。我转过身，超荀彧颔首。}}\n{{对话|荀彧|殿下怀疑是蒯越吗？}}\n{{旁白|心理|开门见山。}}\n{{对话|我|……只是略有疑心。先生以为呢？|头像=广陵王-微笑}}\n{{对话|荀彧|……}}\n{{对话|荀彧|有无可能……是孙策？}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|荀彧|……殿下，请借一步说话。}}\n{{旁白|【耳房】}}\n{{对话|荀彧|咳……多谢。}}\n{{旁白|我点燃耳房中茶炉中的余炭，替他烧了一盏热汤。他苍白的脸微微有了血色。}}\n{{对话|荀彧|朝廷的文书，随行装一起在水路上被甘宁所劫，不知去向，可能尽数毁于江水了……}}\n{{对话|荀彧|但我知道文书的内容。此前吴郡许贡送密信于许都，诉孙策有拥兵自重之心。此番朝廷下令，应是命孙氏送质子入朝。}}\n{{对话|我|你担心孙策设局困人？|头像=广陵王-严肃}}\n{{对话|荀彧|在下担心的是，有人借孙策设局困人，挑动许都与南地的局势。}}\n{{对话|我|问过郭嘉了吗？|头像=广陵王-严肃}}\n{{对话|荀彧|我不必问他。}}\n{{旁白|是“不必问”，而非“没有问”。}}\n{{对话|我|只问其一不问其二，这不公平。|头像=广陵王-摇头}}\n{{对话|荀彧|正是为了天下的公平，才不必问他。}}\n{{对话|我|所以你来江东，他不知道。原定送文书的是谁？|头像=广陵王-挑眉}}\n{{旁白|他没有作答，放下茶盏，告辞离开。}}\n{{对话|我|是一个需要买通甘宁来处理的人吗？|头像=广陵王-严肃}}\n{{旁白|他离开了。回廊外唯有雨声，江东的雨季开始了。}}\n{{旁白|【寝室】}}\n{{对话|孙策|你说，今夜会死人吗？如果阻拦行吗？}}\n{{对话|孙策|而且，你为什么断定会一夜一夜的死人，而不是死了一个人之后，陶人实现愿望，并满足杀人者的愿望，结束一切？}}\n{{对话|我|那就无需那么多人了。|头像=广陵王-摇头}}\n{{对话|孙策|万一是我们几个倒霉呢？你看，阿香、甘宁，荀彧都是后加入的。}}\n{{对话|我|……我需要确认一件事情。等最后这件事情确认完，大概就能推算出完整的规则了。|头像=广陵王-微笑}}\n{{旁白|心理|第一，之前在士燮死后，游戏没有结束。}}\n{{旁白|心理|第二，孙尚香今晚会监视蒯越。如果蒯越是杀手，那等于成功阻拦。明天可以看到阻拦结果。如果不是……}}\n{{旁白|——那就说明，暗处还有一股力量，在操控着全局。从侍从消失的时间，到聆听陶人愿望的人选，到被选中杀害的对象……}}\n{{对话|我|孙策？！|头像=广陵王-惊讶}}\n{{旁白|正在思索间，孙策拉开了纸门。外面是茫茫暴雨夜，夜色凝沉，门外伫立着数道人影——}}\n{{旁白|陶人。}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·八|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

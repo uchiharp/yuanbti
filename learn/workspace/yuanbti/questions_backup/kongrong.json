@@ -1,0 +1,310 @@
+[
+  {
+    "id": "q_kongrong_1",
+    "dimension": "S10",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "孔融",
+    "source_story": "北海之困",
+    "route_hint": [
+      "平原线"
+    ],
+    "city_hint": "北海",
+    "text": "北海城中粮尽。有人劝孔融开仓放粮，他拒绝了——「一旦开仓，城中存粮余量就可能暴露出去。」如果你是他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "开仓放粮，百姓活着比守秘密重要",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不开仓，但想办法从外部筹粮",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坚决不开仓，秩序和战略不能因恻隐崩溃",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孔融选择了守秘密，哪怕百姓挨饿。"
+  },
+  {
+    "id": "q_kongrong_2",
+    "dimension": "S2",
+    "cross_dimension": "S10",
+    "type": "story_known",
+    "source_character": "孔融",
+    "source_story": "袁基真相",
+    "route_hint": null,
+    "city_hint": "平原",
+    "text": "发现袁基真相后孔融崩溃——「妖孽……不可能！不应该是这样的！」如果你发现毕生信仰的对象竟是另一副面孔？",
+    "options": [
+      {
+        "label": "A",
+        "text": "崩溃大哭无法接受",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "沉默许久独自消化",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "深吸一口气重新评估",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孔融彻底失控，儒生信仰大厦在一瞬间倒塌。"
+  },
+  {
+    "id": "q_kongrong_3",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孔融",
+    "source_story": "法度与人情",
+    "route_hint": [
+      "平原线"
+    ],
+    "city_hint": "平原",
+    "text": "一个为父报仇的杀人者被押上公堂。法度规定死罪，但孔融犹豫了——「死罪。念在他是为亲报仇，留其全尸。」你会如何判决？",
+    "options": [
+      {
+        "label": "A",
+        "text": "依法处置法不容情",
+        "scores": {
+          "S6": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "死罪可免但必须受罚",
+        "scores": {
+          "S6": 3.5,
+          "S10": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "法度之上还有天理人情",
+        "scores": {
+          "S6": 5,
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孔融最终说「你走吧」。理智与情感撕裂。"
+  },
+  {
+    "id": "q_kongrong_4",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孔融",
+    "source_story": "北海之困",
+    "route_hint": [
+      "平原线"
+    ],
+    "city_hint": "北海",
+    "text": "「只要交出官位，说不定就能得到粮食。」孔融心知这是唯一务实解法，但他拒绝了。如果你面临同样抉择？",
+    "options": [
+      {
+        "label": "A",
+        "text": "交出官位换粮百姓活着最重要",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "寻找第三条路，这说明了一些问题",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "宁可城破也不交官位气节不可丢",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "全角色最不务实的孔融：宁可城破也不做实际的事。"
+  },
+  {
+    "id": "q_kongrong_5",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「在朝上怒斥董卓的时候……没有害怕过。」面对强权，你更认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直言不讳哪怕面对刀斧",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "据理力争但注意措辞",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "暂时隐忍等待时机",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "A来自孔融在朝堂怒斥董卓的勇气。"
+  },
+  {
+    "id": "q_kongrong_6",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "孔融",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「百姓累了，不要再让一群失去田地的人，去杀另一群失去田地的人了。」说出这句话的人面对的是怎样的心境？",
+    "options": [
+      {
+        "label": "A",
+        "text": "继续坚持信念哪怕无人理解",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "放下执念先让身边的人活下来",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "疲惫归疲惫该做的事还是要做",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这句话来自孔融。他知道百姓要的是粮食不是经学。"
+  },
+  {
+    "id": "q_kongrong_7",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "广陵",
+    "city_hint": null,
+    "text": "你是绣衣楼密探，收到三封密信：尚书台催公文、太守求粮、旧友邀饮酒。你先拆哪封？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先拆公文公务为先",
+        "scores": {
+          "S1": 3.5,
+          "S10": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "先拆粮草百姓为先",
+        "scores": {
+          "S1": 2,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先拆旧友人情不可负",
+        "scores": {
+          "S1": 2,
+          "S8": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": null
+  },
+  {
+    "id": "q_kongrong_8",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「夜深了。我还有一些公文要批阅，",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「为何，我没有死在那天？」，值得深思",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "A是孔融刻意维持的儒者仪态；B是他在雪中求粮后最脆弱的自白。"
+  }
+]

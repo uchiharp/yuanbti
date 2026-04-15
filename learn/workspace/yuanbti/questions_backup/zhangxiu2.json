@@ -1,0 +1,88 @@
+[
+  {
+    "id": "q_zhangxiu2_1",
+    "dimension": "S4",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "张修",
+    "source_story": "五斗米道之争",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "张修与张鲁同为五斗米道教主，后张鲁夺取教权。若你辛辛苦苦建立的事业被亲近之人夺走——",
+    "options": [
+      {
+        "label": "A",
+        "text": "坦然放手，名利不过是过眼云烟",
+        "scores": {
+          "S4": 1,
+          "S1": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "表面隐忍，暗中积蓄力量等待时机",
+        "scores": {
+          "S4": 4,
+          "S1": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "当面对质，光明正大地讨回公道",
+        "scores": {
+          "S4": 2,
+          "S1": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张修在代号鸢中善于隐藏真意，以退为进。"
+  },
+  {
+    "id": "q_zhangxiu2_2",
+    "dimension": "S1",
+    "cross_dimension": "S4",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼接到线报：一位密探可能是敌方卧底，但证据不足。你负责处理此事——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接审问，打草惊蛇也无妨",
+        "scores": {
+          "S1": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "设局试探，不动声色地观察",
+        "scores": {
+          "S1": 4,
+          "S4": 4,
+          "S9": 5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "向上级汇报，等待指示再做打算",
+        "scores": {
+          "S1": 2,
+          "S4": 3,
+          "S9": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张修的处理方式：以静制动，让对手自露马脚。"
+  }
+]

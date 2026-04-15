@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_sunjian_1",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "孙坚",
+    "source_story": null,
+    "route_hint": [
+      "长沙线"
+    ],
+    "city_hint": "长沙",
+    "text": "江东猛虎身经百战，入洛阳宫时于枯井中得传国玉玺。一老臣跪阻于前：「此乃天子信物，将军若私藏，恐为天下所不容！」四周无人，怀中玉玺温热。你——",
+    "options": [
+      {
+        "label": "A",
+        "text": "收起玉玺，但对外绝不声张，先保命要紧。",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "坦然收下——天命所归，不取白不取。",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "犹豫片刻，决定先带回去再从长计议。",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这个场景来自孙坚的洛阳剧情——传国玉玺是天下权柄的象征，取与不取，皆为豪赌。"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "荀彧_s1_02",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "荀彧",
+    "text": "荀彧在陶生剧情中精准分析了朝廷文书的内容——孙策被要求送质子入朝。他说「有人借孙策设局困人，挑动许都与南地的局势」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "问他「你觉得谁在设局」",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动深入博弈分析，追问幕后→S1:5"
+      },
+      {
+        "label": "B",
+        "text": "说「先不管是谁，怎么应对」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "跳过分析直接求对策，务实但缺深度→S1:3"
+      },
+      {
+        "label": "C",
+        "text": "说「也许只是朝廷的正常操作」",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "不深究权谋，接受表面解释→S1:1"
+      }
+    ],
+    "reveal": "「在下担心的是，有人借孙策设局困人，挑动许都与南地的局势。」——荀彧敏锐的政治嗅觉"
+  },
+  {
+    "id": "荀彧_s6_03",
+    "type": "classic",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "荀彧",
+    "text": "荀彧说「正是为了天下的公平，才不必问他」。面对身份质疑，他坚持不因出身而区别对待。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「公平有时候也需要变通」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "建议为了效率放弃原则→S6:1"
+      },
+      {
+        "label": "B",
+        "text": "说「你说得对，但做起来很难」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "认同原则但承认现实困难→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "说「就按你说的做」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "完全支持他的原则立场→S6:5"
+      }
+    ],
+    "reveal": "「正是为了天下的公平，才不必问他。」——荀彧在陶生中坚持公平原则"
+  },
+  {
+    "id": "荀彧_s4_04",
+    "type": "daily",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "荀彧",
+    "text": "荀彧说「本来是来找几位学弟的，没想到今日楼内这么热闹」。他总用公事或社交理由包装自己的真实来意。",
+    "options": [
+      {
+        "label": "A",
+        "text": "不拆穿，顺着他的话说",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "配合对方的伪装，维持表面→S4:3"
+      },
+      {
+        "label": "B",
+        "text": "直接问「你其实是来找我的吧」",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "揭穿包装，直奔真实意图→S4:5"
+      },
+      {
+        "label": "C",
+        "text": "说「学弟们好像不在」就走了",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "按字面意思理解，错过暗示→S4:1"
+      }
+    ],
+    "reveal": "「本来是来找几位学弟的，没想到今日楼内这么热闹。」——荀彧的委婉来意"
+  },
+  {
+    "id": "荀彧_s3_05",
+    "type": "angst",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "荀彧",
+    "text": "朝歌之战中，你深夜外出，荀彧跟了上来。被质问时，他慌张地解释：“我……我听说老师深夜外出，担心老师在郊野遇险，便跟来了。”用一个拙劣的借口，藏住自己的心意。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「荀彧，你不需要借口」",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接撕掉借口，逼他面对真实动机→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "装作信了，「那我们一起去找老师」",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "配合谎言，不深究→S3:1"
+      },
+      {
+        "label": "C",
+        "text": "说「既然来了就一起走吧」",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "跳过动机，直接行动→S3:3"
+      }
+    ],
+    "reveal": "「我……我听说老师深夜外出，担心老师在郊野遇险，便跟来了。」——荀彧在朝歌之战中用老师当借口"
+  },
+  {
+    "id": "xunyu_s8_1",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "xunyu",
+    "text": "荀彧看到你站在风口立刻走过来「老师深夜外出担心老师在郊野遇险便跟来了」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说谢谢你的关心回去吧这里没什么事",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "接受关心但保持距离→S8:3"
+      },
+      {
+        "label": "B",
+        "text": "说这么晚了你怎么不在家待着",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "语气不够温柔→S8:1"
+      },
+      {
+        "label": "C",
+        "text": "说有你在我很安心",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接表达对陪伴的感激→S8:5"
+      }
+    ],
+    "reveal": "荀彧虽然平时很严肃，但对在乎的人会默默守在身后。"
+  }
+]

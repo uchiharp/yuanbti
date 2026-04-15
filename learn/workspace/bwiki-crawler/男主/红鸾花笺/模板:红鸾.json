@@ -1,0 +1,158 @@
+{
+  "title": "模板:红鸾",
+  "category": "红鸾花笺",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "头分类红鸾花笺红鸾花笺信笺匣/"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"envelopewrapper\" style\"width 100%;position relative;display flex;justifycontent center;\"divlink1106px/divdiv class\"envelopetitle\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"dxtext\" style\"position absolute;top0;overflow auto;padding 15% 5%;width 100%;height 100%;display flex;flexdirection column;\""
+    },
+    {
+      "type": "narration",
+      "text": "尾/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧div class\" message_q qt_fq \" datatype\"test\" datatest\"\" style\"overflow hidden;border 1px solid dab215;marginbottom 10px;width 100%;background feeeb0;borderradius 50px;\"span class\"tabpanel\" style\"width 100%;color 65371c;fontweight bold;background none;boxsizing borderbox;\"/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧头div class\"messagetabcontainer \" style\"flexwrap wrap;background none;displayflex;borderbottom 1px solid c9c9e6;padding 20px;\""
+    },
+    {
+      "type": "narration",
+      "text": "分歧尾/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧内容div class\"messageitem \" datatest\"\" style\"width 100%;margintop 5px;display block;display none;\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "分歧内容头div class\"messageitem \" datatest\"\" style\"width 100%;margintop 5px;display block;display none;\""
+    },
+    {
+      "type": "narration",
+      "text": "分歧内容尾/div"
+    },
+    {
+      "type": "narration",
+      "text": "defaultdiv style\"display flex;alignitems center;borderbottom dashed 2px  d4cdc7;padding 15px 0;color61391a;广陵王color 206138;background repeatinglineargradient(to right,0000,69a88045,69a88045,0000);\"link100px div style\"padding 20px;width 80%;\"/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "红鸾花笺"
+    },
+    {
+      "type": "narration",
+      "text": "此模板用于录入红鸾花笺内页内容"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "首先用模板的头尾包裹整个模板内容"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "...."
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "添加对话模板，写对应角色的名称"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "分歧：当红鸾花笺出现分歧选项时使用此模板，用法与模板嵌套分歧一模一样！！！一劳永逸"
+    },
+    {
+      "type": "narration",
+      "text": "下面更推荐使用嵌套分歧中的方法2录入"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "// 用于包裹住选项"
+    },
+    {
+      "type": "narration",
+      "text": "//用于div闭合包裹选项"
+    },
+    {
+      "type": "narration",
+      "text": "方法1"
+    },
+    {
+      "type": "narration",
+      "text": "//用于展示内容，紧跟在模板尾之后"
+    },
+    {
+      "type": "narration",
+      "text": "方法2"
+    },
+    {
+      "type": "narration",
+      "text": "嵌套一下"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "组合效果展示"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E7%BA%A2%E9%B8%BE",
+  "crawled_at": "2026-04-12T21:55:32.352977",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}\n|头=[[分类:红鸾花笺]]{{JS|rem.js}}{{CSS|Envelope.css}}{{面包屑|{{#if:{{{3|}}}|{{{3|}}}|}}|红鸾花笺|{{#if:{{{3|}}}|信笺匣/{{{3|}}}|}}}}\n<div class=\"envelope-wrapper\" style=\"width: 100%;position: relative;display: flex;justify-content: center;\"><div>[[File:短信背景.png|link=|1106px]]</div><div class=\"envelope-title\">{{{2}}}</div>\n<div class=\"dxtext\" style=\"position: absolute;top:0;overflow: auto;padding: 15% 5%;width: 100%;height: 100%;display: flex;flex-direction: column;\">\n|尾=</div></div>\n|分歧=<div class=\" message_q qt_fq \" data-type=\"test\" data-test=\"{{{3|}}}\" style=\"overflow: hidden;border: 1px solid #dab215;margin-bottom: 10px;width: 100%;background: #feeeb0;border-radius: 50px;\"><span class=\"tab-panel\" style=\"width: 100%;color: #65371c;font-weight: bold;background: none;box-sizing: border-box;\">{{{2|}}}</span></div>\n|分歧头=<div class=\"message-tab-container \" style=\"flex-wrap: wrap;background: none;display:flex;border-bottom: 1px solid #c9c9e6;padding: 20px;\">\n|分歧尾=</div>\n|分歧内容=<div class=\"message-item \" data-test=\"{{{3|}}}\" style=\"width: 100%;margin-top: 5px;{{#if:{{{显示|}}}|display: block;|display: none;}}\">{{{2|}}}</div>\n|分歧内容头=<div class=\"message-item \" data-test=\"{{{3|}}}\" style=\"width: 100%;margin-top: 5px;{{#if:{{{显示|}}}|display: block;|display: none;}}\">\n|分歧内容尾=</div>\n|#default=<div style=\"display: flex;align-items: center;border-bottom: dashed 2px  #d4cdc7;padding: 15px 0;color:#61391a;{{#ifeq:{{{1}}}|广陵王|color: #206138;background: repeating-linear-gradient(to right,#0000,#69a88045,#69a88045,#0000);|}}\">[[File:{{{1|}}}短信头像.png|link=|100px]] <div style=\"padding: 20px;width: 80%;\">{{{2|}}}</div></div>\n}}</includeonly><noinclude>\n==红鸾花笺==\n此模板用于录入红鸾花笺内页内容\n===使用方法===\n*首先用模板的头尾包裹整个模板内容\n<pre>\n{{红鸾|头|标题名称|男主名}}\n....\n{{红鸾|尾}}\n</pre>\n*添加对话模板，写对应角色的名称\n<pre>\n{{红鸾|名称|（输入的内容）}}\n{{红鸾|傅融|内容}}\n{{红鸾|刘辩|内容}}\n{{红鸾|袁基|内容}}\n{{红鸾|左慈|内容}}\n{{红鸾|孙策|内容}}\n{{红鸾|广陵王|内容}}\n</pre>\n*分歧：当红鸾花笺出现分歧选项时使用此模板，用法与[[模板:嵌套分歧]]一模一样！！！一劳永逸\n*下面更推荐使用嵌套分歧中的方法2录入\n<pre>\n{{红鸾|分歧头}} // 用于包裹住选项\n{{红鸾|分歧|选项1的内容|1（后面的数字用来表示这是第几个选项）}}\n{{红鸾|分歧|选项2的内容|2}}\n{{红鸾|分歧尾}} //用于div闭合包裹选项\n*方法1\n{{红鸾|分歧内容|内容1}} //用于展示内容，紧跟在模板|尾之后\n{{红鸾|分歧内容|内容2|显示=任意值，默认显示此内容}}\n*方法2\n{{红鸾|分歧内容头|显示=任意值，默认显示此内容}}嵌套一下{{分歧内容尾|内容尾}}\n</pre>\n\n\n==组合效果展示==\n<pre>\n{{红鸾|头|标题|男主}}\n{{红鸾|傅融|内容}}\n{{红鸾|刘辩|内容}}\n{{红鸾|袁基|内容}}\n{{红鸾|左慈|内容}}\n{{红鸾|孙策|内容}}\n{{红鸾|广陵王|内容}}\n\n{{红鸾|分歧头}}\n{{红鸾|分歧|test1|1}}\n{{红鸾|分歧|test2|2}}\n{{红鸾|分歧尾}}{{红鸾|分歧内容头|显示=1}}\n{{红鸾|广陵王|内容}}\n{{红鸾|傅融|内容}}\n{{红鸾|分歧内容尾}}{{红鸾|分歧内容头}}\n{{红鸾|广陵王|内容}}\n{{红鸾|孙策|内容}}\n{{红鸾|分歧内容尾}}\n\n{{红鸾|尾}}\n</pre>\n{{红鸾|头|标题|男主}}\n{{红鸾|傅融|内容}}\n{{红鸾|刘辩|内容}}\n{{红鸾|袁基|内容}}\n{{红鸾|左慈|内容}}\n{{红鸾|孙策|内容}}\n{{红鸾|广陵王|内容}}\n\n{{红鸾|分歧头}}\n{{红鸾|分歧|test1|1}}\n{{红鸾|分歧|test2|2}}\n{{红鸾|分歧尾}}{{红鸾|分歧内容头|显示=1}}\n{{红鸾|广陵王|内容}}\n{{红鸾|傅融|内容}}\n{{红鸾|分歧内容尾}}{{红鸾|分歧内容头}}\n{{红鸾|广陵王|内容}}\n{{红鸾|孙策|内容}}\n{{红鸾|分歧内容尾}}\n\n{{红鸾|尾}}\n</noinclude>"
+}

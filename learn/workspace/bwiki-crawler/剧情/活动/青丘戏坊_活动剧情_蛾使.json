@@ -1,0 +1,429 @@
+{
+  "title": "青丘戏坊/活动剧情/蛾使",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "蛾使"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "和小麻雀一起团建怎么不算公费约会呢？小麻雀知不知道不重要，单方面约会也是约会嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "嗝……好撑……不限量的自助取餐实在险恶，拼尽全力无法抵抗……不过，撑死总比饿死强。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "戏文里总在唱神神鬼鬼、因果报应，什么时候真能见到鬼就好了，我有很多事想问。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "这酒，好熟悉的味道……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "啊，是“小麻雀一杯倒”！她酒后……算了，反正她已经不记得了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "能不能把平局抹了？我杀人都没这么磨叽。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "赢了老板的感觉，爽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "等等，凭啥输了有酒喝，赢了没有？这规则有问题。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "希望云雀恢复记忆吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "我的希望是她平平安安，不要再受那么重的伤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "……这个就很实际啊！老板你行行好别外派她嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "为什么喜欢恶作剧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "好玩呗，看不惯大家一成不变地活着。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "哭啊，笑啊，多给点表情嘛，整天灰扑扑的没生气，和死人有什么区别？傅副官没事还翻个白眼呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "想过不当死士吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "没有，干别的我也不会。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "外面风气这么差，下行成什么样了，这种高薪工作可不好找，离开绣衣楼外面可是在下刀子啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "到底领了几份薪水？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "……四五六七份？是哪些楼主也知道的呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=q版-蛾使",
+      "emotion": "不挣点外快，还不上在楼里欠的钱，会被小麻雀傅副官混合双打的。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头蛾使brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''蛾使'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"初见对话&水榭戏台/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"水榭戏台/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援火把应援火把"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我来了，纵火任务吗？我上能行吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px手持幅巾手持幅巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"给我整两条，万一没钱吃饭了还可以拿来勒紧裤腰带。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px千里镜千里镜"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好清楚，全场都能看到。有几个密探凑得很近，楼主，干谁？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px鼓掌拍鼓掌拍"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"哈哈哈，我用这个和所有人都击了一遍掌。嗯，是啊，只是想和小麻雀击掌。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px耳塞（青丘戏坊）耳塞"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"下次和雀部对账的时候我能戴这个吗？他们话实在太多了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援扇应援扇"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我会唱应援曲，楼主你等我清清嗓子！……楼主别走啊！听我唱歌啊！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px瓜子瓜子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"最喜欢在楼里无所事事一边嗑瓜子一边听《霸道楼主俏副官》了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px铃鼓铃鼓"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"听到这个声音就想到西域都护府的皮牙子和烤馕，这是为绳么呢，碰友？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px号筒号筒"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我想到要喊什么了——楼主给我涨工资！！！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具（青丘戏坊）博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"刚刚右眼跳了，一定是……什么痉挛什么振跳吧。左眼？左眼跳财。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰饮子（青丘戏坊）冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"哇，很凉！比一觉醒来发现这个月工钱已经花光了可今天才是初七还要心凉。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px糕饼（青丘戏坊）糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"楼主别眨眼，一个呼吸的时间，还你一个干净的盘子……偶尔也会没有盘子！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px果子露紫果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"敬我天下第一好的老板一杯酒……亿亿亿杯酒！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px果盘（青丘戏坊）果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"肉呢……肉呢……怎么全是素的……我是来团建还是拜浮屠？上几回团建的人都和我说有海鲜啊！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px投壶投壶"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我看小麻雀投在了壶耳里，那我也投一支过去，和她穿在一起。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px赏钱赏钱"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"谢谢楼主！谢谢老板！嗯？不是？怎么还放紫星石凑数的？/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"希望云雀恢复记忆吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao为什么喜欢恶作剧？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao想过不当死士吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao到底领了几份薪水？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%9D%92%E4%B8%98%E6%88%8F%E5%9D%8A/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E8%9B%BE%E4%BD%BF",
+  "crawled_at": "2026-04-12T22:04:26.788145",
+  "raw_wikitext": "{{面包屑|2025活动剧情|青丘戏坊/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:青丘戏坊背景.png}}}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/蛾使|蛾使}}\n{{板块|按钮|青丘戏坊/活动剧情/眭固|眭固}}\n{{板块|按钮|青丘戏坊/活动剧情/雀使|雀使}}\n{{板块|按钮|青丘戏坊/活动剧情/第五天|第五天}}\n{{板块|按钮|青丘戏坊/活动剧情/许攸|许攸}}\n{{板块|按钮|青丘戏坊/活动剧情/许曼|许曼}}\n{{板块|按钮|青丘戏坊/活动剧情/鲁肃|鲁肃}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/戏学|戏学}}\n{{板块|按钮|青丘戏坊/活动剧情/张燕|张燕}}\n{{板块|按钮|青丘戏坊/活动剧情/吕蒙|吕蒙}}\n{{板块|按钮|青丘戏坊/活动剧情/张仲景|张仲景}}\n{{板块|按钮|青丘戏坊/活动剧情/张郃|张郃}}\n{{板块|按钮|青丘戏坊/活动剧情/张飞|张飞}}\n{{板块|按钮|青丘戏坊/活动剧情/华佗|华佗}}\n</center>{{JS|Qiantao.js}}[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-蛾使.png|100px|团建密探小头-蛾使]]<br><br>\n'''蛾使'''\n</center>\n='''<span style=\"color:#a06051\">初见对话&水榭戏台</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|蛾使|全场消费楼主买单？好耶！|头像=q版-蛾使|语音=蛾使-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">水榭戏台</p>\n|\n{{对话-头}}\n{{对话语音|蛾使|要不我给楼主表演个翻跟头吧？|头像=q版-蛾使|语音=蛾使-水榭戏台}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#a06051\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签\n|-\n| [[file:应援火把.png|30px|应援火把]][[应援火把|应援火把]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=应援火把|对应援火把的喜好=|语音=|性格标签=/|语音内容=我来了，纵火任务吗？我上能行吗？}}</nowiki>\">我来了，纵火任务吗？我上能行吗？</span>\n|| /\n| [[file:手持幅巾.png|30px|手持幅巾]][[手持幅巾|手持幅巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=手持幅巾|对手持幅巾的喜好=|语音=|性格标签=/|语音内容=给我整两条，万一没钱吃饭了还可以拿来勒紧裤腰带。}}</nowiki>\">给我整两条，万一没钱吃饭了还可以拿来勒紧裤腰带。</span>\n|| /\n|-\n| [[file:千里镜.png|30px|千里镜]][[千里镜|千里镜]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=千里镜|对千里镜的喜好=|语音=|性格标签=/|语音内容=好清楚，全场都能看到。有几个密探凑得很近，楼主，干谁？}}</nowiki>\">好清楚，全场都能看到。有几个密探凑得很近，楼主，干谁？</span>\n|| /\n|<sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:鼓掌拍.png|30px|鼓掌拍]][[鼓掌拍|鼓掌拍]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=鼓掌拍|对鼓掌拍的喜好=喜欢|语音=|性格标签=青葱|语音内容=哈哈哈，我用这个和所有人都击了一遍掌。嗯，是啊，只是想和小麻雀击掌。}}</nowiki>\">哈哈哈，我用这个和所有人都击了一遍掌。嗯，是啊，只是想和小麻雀击掌。</span>\n||{{色块|命盘红|青葱}}\n|-\n|[[file:耳塞（青丘戏坊）.png|30px|耳塞（青丘戏坊）]][[耳塞（青丘戏坊）|耳塞]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=耳塞（青丘戏坊）|对耳塞（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=下次和雀部对账的时候我能戴这个吗？他们话实在太多了。}}</nowiki>\">下次和雀部对账的时候我能戴这个吗？他们话实在太多了。</span>\n|| /\n| [[file:应援扇.png|30px|应援扇]][[应援扇|应援扇]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=应援扇|对应援扇的喜好=|语音=|性格标签=/|语音内容=我会唱应援曲，楼主你等我清清嗓子！……楼主别走啊！听我唱歌啊！}}</nowiki>\">我会唱应援曲，楼主你等我清清嗓子！……楼主别走啊！听我唱歌啊！</span>\n|| /\n|-\n| [[file:瓜子.png|30px|瓜子]][[瓜子|瓜子]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=瓜子|对瓜子的喜好=|语音=|性格标签=|语音内容=最喜欢在楼里无所事事一边嗑瓜子一边听《霸道楼主俏副官》了。}}</nowiki>\">最喜欢在楼里无所事事一边嗑瓜子一边听《霸道楼主俏副官》了。</span>\n|| /\n| [[file:铃鼓.png|30px|铃鼓]][[铃鼓|铃鼓]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=铃鼓|对铃鼓的喜好=|语音=|性格标签=/|语音内容=听到这个声音就想到西域都护府的皮牙子和烤馕，这是为绳么呢，碰友？}}</nowiki>\">听到这个声音就想到西域都护府的皮牙子和烤馕，这是为绳么呢，碰友？</span>\n|| /\n|-\n| [[file:号筒.png|30px|号筒]][[号筒|号筒]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=号筒|对号筒的喜好=|语音=|性格标签=/|语音内容=我想到要喊什么了——楼主给我涨工资！！！}}</nowiki>\">我想到要喊什么了——楼主给我涨工资！！！</span>\n|| /\n| [[file:博具（青丘戏坊）.png|30px|博具（青丘戏坊）]][[博具（青丘戏坊）|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=博具（青丘戏坊）|对博具（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=刚刚右眼跳了，一定是……什么痉挛什么振跳吧。左眼？左眼跳财。}}</nowiki>\">刚刚右眼跳了，一定是……什么痉挛什么振跳吧。左眼？左眼跳财。</span>\n|| /\n|-\n| [[file:冰饮子（青丘戏坊）.png|30px|冰饮子（青丘戏坊）]][[冰饮子（青丘戏坊）|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=冰饮子（青丘戏坊）|对冰饮子（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=哇，很凉！比一觉醒来发现这个月工钱已经花光了可今天才是初七还要心凉。}}</nowiki>\">哇，很凉！比一觉醒来发现这个月工钱已经花光了可今天才是初七还要心凉。</span>\n|| /\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:糕饼（青丘戏坊）.png|30px|糕饼（青丘戏坊）]][[糕饼（青丘戏坊）|糕饼]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=糕饼（青丘戏坊）|对糕饼（青丘戏坊）的喜好=喜欢|语音=|性格标签=/|语音内容=楼主别眨眼，一个呼吸的时间，还你一个干净的盘子……偶尔也会没有盘子！}}</nowiki>\">楼主别眨眼，一个呼吸的时间，还你一个干净的盘子……偶尔也会没有盘子！</span>\n|| /\n|-\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:果子露-紫.png|30px|果子露-紫]][[果子露（青丘戏坊）|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=果子露（青丘戏坊）|对果子露（青丘戏坊）的喜好=喜欢|语音=|性格标签=像一杯酒|语音内容=敬我天下第一好的老板一杯酒……亿亿亿杯酒！}}</nowiki>\">敬我天下第一好的老板一杯酒……亿亿亿杯酒！</span>\n|| {{色块|绿|像一杯酒}}\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:果盘（青丘戏坊）.png|30px|果盘（青丘戏坊）]][[果盘（青丘戏坊）|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=果盘（青丘戏坊）|对果盘（青丘戏坊）的喜好=讨厌|语音=|性格标签=食肉动物|语音内容=肉呢……肉呢……怎么全是素的……我是来团建还是拜浮屠？上几回团建的人都和我说有海鲜啊！}}</nowiki>\">肉呢……肉呢……怎么全是素的……我是来团建还是拜浮屠？上几回团建的人都和我说有海鲜啊！</span>\n|| {{色块|命盘蓝|食肉动物}}\n|-\n| [[file:投壶.png|30px|投壶]][[投壶|投壶]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=投壶|对投壶的喜好=|语音=|性格标签=/|语音内容=我看小麻雀投在了壶耳里，那我也投一支过去，和她穿在一起。}}</nowiki>\">我看小麻雀投在了壶耳里，那我也投一支过去，和她穿在一起。</span>\n|| /\n| [[file:赏钱.png|30px|赏钱]][[赏钱|赏钱]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=蛾使|喜好物品=赏钱|对赏钱的喜好=|语音=|性格标签=讨饭嫌馊|语音内容=谢谢楼主！谢谢老板！嗯？不是？怎么还放紫星石凑数的？}}</nowiki>\">谢谢楼主！谢谢老板！嗯？不是？怎么还放紫星石凑数的？</span>\n|| {{色块|命盘蓝|讨饭嫌馊}}\n|}\n\n='''<span style=\"color:#a06051\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|蛾使|和小麻雀一起团建怎么不算公费约会呢？小麻雀知不知道不重要，单方面约会也是约会嘛。|头像=q版-蛾使}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|蛾使|嗝……好撑……不限量的自助取餐实在险恶，拼尽全力无法抵抗……不过，撑死总比饿死强。|头像=q版-蛾使}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|蛾使|戏文里总在唱神神鬼鬼、因果报应，什么时候真能见到鬼就好了，我有很多事想问。|头像=q版-蛾使}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#a06051\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|蛾使|这酒，好熟悉的味道……|头像=q版-蛾使}}\n{{旁白|蛾使喝下一杯果子露}}\n{{对话|蛾使|啊，是“小麻雀一杯倒”！她酒后……算了，反正她已经不记得了。|头像=q版-蛾使}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|蛾使|能不能把平局抹了？我杀人都没这么磨叽。|头像=q版-蛾使}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|蛾使|赢了老板的感觉，爽！|头像=q版-蛾使}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|蛾使|等等，凭啥输了有酒喝，赢了没有？这规则有问题。|头像=q版-蛾使}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#a06051\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">希望云雀恢复记忆吗？</div>\n{{对话-头}}\n{{对话|我|希望云雀恢复记忆吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|蛾使|我的希望是她平平安安，不要再受那么重的伤。|头像=q版-蛾使}}\n{{对话|蛾使|……这个就很实际啊！老板你行行好别外派她嘛……|头像=q版-蛾使}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>为什么喜欢恶作剧？</div>\n{{对话-头}}\n{{对话|我|为什么喜欢恶作剧？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|蛾使|好玩呗，看不惯大家一成不变地活着。|头像=q版-蛾使}}\n{{对话|蛾使|哭啊，笑啊，多给点表情嘛，整天灰扑扑的没生气，和死人有什么区别？傅副官没事还翻个白眼呢。|头像=q版-蛾使}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>想过不当死士吗？</div>\n{{对话-头}}\n{{对话|我|想过不当死士吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|蛾使|没有，干别的我也不会。|头像=q版-蛾使}}\n{{对话|蛾使|外面风气这么差，下行成什么样了，这种高薪工作可不好找，离开绣衣楼外面可是在下刀子啊。|头像=q版-蛾使}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>到底领了几份薪水？</div>\n{{对话-头}}\n{{对话|我|到底领了几份薪水？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|蛾使|……四五六七份？是哪些楼主也知道的呀。|头像=q版-蛾使}}\n{{对话|蛾使|不挣点外快，还不上在楼里欠的钱，会被小麻雀傅副官混合双打的。|头像=q版-蛾使}}\n{{对话-尾}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情/眭固|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

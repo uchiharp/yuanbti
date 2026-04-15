@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_liubao_01",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "刘豹",
+    "source_story": null,
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "你掌管一方部族，南方大势力遣使来谈和亲。和亲意味着你的部族将沦为附庸，但拒绝可能招来兵祸。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "接受和亲，保全部族安全，值得深思",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "提出对等条件，在保持独立的前提下结盟",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拒绝和亲，宁可一战也不失去自主权",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自刘豹的密探故事——他作为匈奴部族首领，权力意识极强。"
+  },
+  {
+    "id": "q_liubao_02",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你的部族遭遇天灾，牲畜大量死亡。有人提议趁周边部落也受灾时出兵掠夺以度过难关。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "同意，活下去是第一要务",
+        "scores": {
+          "S3": 2,
+          "S5": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "只取必需之物，不伤人命",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拒绝掠夺，想办法通过贸",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "刘豹虽身处草原，却有超越蛮荒的眼光和底线。"
+  }
+]

@@ -1,0 +1,3805 @@
+{
+  "title": "鸢记·围城/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "亲卫",
+    "仆人",
+    "使者",
+    "侍卫",
+    "侍女",
+    "军医",
+    "力夫",
+    "士族青年",
+    "壮妇",
+    "壮汉",
+    "妇人",
+    "妇兵",
+    "孙氏士兵",
+    "孙策",
+    "孩子的叫声",
+    "孩童",
+    "定儿",
+    "小若",
+    "少女",
+    "屋主",
+    "广陵士兵",
+    "广陵尉",
+    "府兵",
+    "弓手",
+    "张氏子弟",
+    "我",
+    "文士",
+    "文士甲",
+    "文官",
+    "斥候",
+    "柳氏子弟",
+    "柳氏家主",
+    "男人",
+    "病弱妇人",
+    "百姓",
+    "盗墓贼",
+    "盾兵",
+    "老人",
+    "老妇人",
+    "花商",
+    "袁术士兵",
+    "袁氏军官",
+    "袁氏骑兵",
+    "袁绍",
+    "许攸",
+    "货郎",
+    "铁匠",
+    "长矛兵"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "消息传回，邓氏和窦氏都不愿出兵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他们都在等，等战局明朗，再从我和袁术之间选择一个站队。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……江东那边呢？艨艟有动静吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "清晨的时候，有斥候见到艨艟离岸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "殿下，袁术那边的使者出阵了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "广陵王！献城投降，尚可保全性命。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "此战有江东孙氏协助，不出一日，便可……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "殿下如何决断？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "战。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "东阳和小沛会有援军。一定会。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "恕末将多言，城中存粮、兵力，皆难以支撑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……我不会走。派人去申明亭<ref>明清两代在各方用以张贴榜文、“申明教化”而建的亭子。</ref>，向百姓传话，本王不会离开广陵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "孙氏的兵马来了！广陵王，你的末路到了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "末将来迟！江东孙策来助袁术将军一臂之力！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "孙策，你来得好！袁术将军命你为先锋军，拿下广陵，重重有赏！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我与广陵王有故交，可以先行劝降。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "若能兵不血刃拿下广陵，军功更高！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好，那末将就上了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "弓箭手，预备。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "别打别打！我有话要对你说，不要放箭！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "……殿、殿下，那是孙将军……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "所以？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "所以是不是……谨慎些？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "谨慎些，瞄准他的头。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "别别别，你好歹和我谈一谈啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "开城门！我要到城中和广陵王当面谈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "孙策，太危险了，他要是把城门一关，你们不就有去无回了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我对袁术将军的忠心超过生死，末将去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "呜呜……孙将军，我一定会把你的英勇如实汇报给袁术将军的……你安心去吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "殿下不可！若他使诈，骗开城门，袁术大军一涌而上，当如何是好？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "放绳子下来，我们自己爬上去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "放绳子，让他们上来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "呼……见你一面真不容易。弓手小哥，你们东西放一放行不行？别那么紧张啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这么多箭对着我，万一谁手滑……唔啊啊！☐的谁啊？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "弓手",
+      "text": "头像=黑人影",
+      "emotion": "不好意思不好意思，手滑了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你要说什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我是来帮你的！帮你守城！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "孙策！你和将军曾歃血为盟！你背信弃义！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "放屁。和袁术喝酒的是我爹，又不是我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=黑人影",
+      "emotion": "那你就准备和这座破城一起灰飞烟灭吧！给我——唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "早就看你不顺眼了，天天在袁术耳朵边吹风……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏军官",
+      "text": "孙策杀了使者！快去回报袁术将军，准备攻城！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嘿嘿，来啊来啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……你这一下子，可把我议和的路都断了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啥？你原来打算和他议和？那咋办……别急别急，我看看……我射他哪了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "正中眉心，孙将军好弓法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊哈……啊哈……啊哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不说笑了。原本也没打算议和……你既然来帮我，那就别喊累啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "打仗我可是熟练工！眼前什么事最要紧？我帮你一起去办！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "眼前最紧要的事吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "唔啊……被砸得好惨。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "南城门的外门碎了，护城河里面都是投石。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他挺常干这种事的。不怕不怕，有我在呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "广陵的物资还够吧？药啊、存粮啊、盐铁啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "尚可。你做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我把外套脱了去帮忙，他们慢死了，笨手笨脚。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "少主你说谁笨手笨脚呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你你你就是你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩童",
+      "text": "头像=路人小孩",
+      "emotion": "快看，孙将军一个人举起了两根木头！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "好厉害啊，要练多久能练成这样啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "嘿嘿……那首歌怎么唱来着？孙策是一个魁梧的男子……后面忘了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "快给我一碗，干了半天活，肚子都饿扁了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力夫",
+      "text": "头像=屠夫",
+      "emotion": "俺们习惯吃这口味了，孙将军吃不惯的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我吃的惯，我娘说我从小没长舌头，啥都咽得下去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮妇",
+      "text": "头像=平民母亲",
+      "emotion": "哈哈哈……孙将军真可爱！说亲了没有？我可是广陵金牌媒人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "没说没说……不不不也不算没说……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮妇",
+      "text": "头像=平民母亲",
+      "emotion": "到底说没说？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嘿嘿，我……嘿嘿……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力夫",
+      "text": "头像=屠夫",
+      "emotion": "俺听俺闺女说孙将军喜欢咱们殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮妇",
+      "text": "头像=平民母亲",
+      "emotion": "哦，好这一口啊……所以人家是咱们广陵的王妃啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊对，广陵王妃就是我！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "真敢认……来人，去库房里取王妃的礼服，给孙将军披上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我为什么要穿王妃服？我又不是吕蒙！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "你连女装都不敢穿，还敢说喜欢我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……你……你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "就一次机会，穿不穿？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "穿穿穿。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "真的有密道……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "文书上都没记载啊……殿下来了！殿下，情报属实，民居里真的发现了一条密道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "确认过通往何处吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "屋主",
+      "text": "头像=摊贩",
+      "emotion": "房子是我刚买的，我我我也不知道啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "投石机砸得地动山摇，才让这条密道露出来的吧……这条地道的入口好小啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这条地道不一定是通的，有可能挖到一半放弃了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "而且，万一是通向袁术军中，一伸头就……咔。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "这看着像个盗洞……牢里有个盗墓贼，不如提他过来看看？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你看看这条地道，能不能挖出城。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "头像=情报贩子",
+      "emotion": "这……这……地洞许久不曾下人，须得……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不挖完不许出来。好啦，让他慢慢挖着吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "殿下，将军，袁术准备攻城了！城内两大士族叛乱，要拿殿下去向袁术投诚！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "不能开城门！你们这是献城叛逆！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏子弟",
+      "text": "头像=美型文官",
+      "emotion": "这仗本来就不用打，袁氏四世三公，这样的家族做主广陵，难道是坏事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "广陵王逐权，却要把我们卷进去！我们听柳氏和张氏的，他们是本地最大的两家士族！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张氏子弟",
+      "text": "头像=黑人影",
+      "emotion": "谁坐镇广陵，他一样都是亲王，我们凭什么为他死？！开城门，迎袁氏！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "货郎",
+      "text": "头像=摊贩",
+      "emotion": "对啊，城里就这点人怎么打？……啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这种家伙，放在城里也是祸害。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "冷静些，他们都是本地最大的士族豪强。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "士族的脖子就是铁打的吗？一样一刀一个。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏子弟",
+      "text": "头像=美型文官",
+      "emotion": "孙策，你以为这里是你江东？在徐州杀士族，你异想天……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "喂！那个卖货的，拿点针线，把他脑袋身子缝起来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你说，咱们带着他的全尸，是去跟他家谈，还是直接打？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "……这，是什么意思？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "本王是来和柳氏谈的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "你带着我族子的尸身，来和我谈？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你不想谈，就打呗。你猜我为啥在这？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "够了，孙策。你噤声。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "柳家主，请节哀顺变。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "你们杀的人，你们让我节哀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那为何不说他献城投敌，其罪当诛？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "袁氏四世三公，人心所向，我们螳臂当车，只是徒增伤亡！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你如此心向袁氏，是本王平日有不贤之处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "殿下的王位是世代的王位，谁入主广陵与殿下何干？只需袖手坐享王族的供奉便是了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "汉室都成了什么模样，亲王何必对权力念念不忘？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "你放肆！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你平日对他们太好了。这要放在江东，他已经在城头当挂件了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "孙策，这里不是江东！这里的士族不怕你一个寒门竖……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "我累了。孙策，替我代笔，写封战书。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哪有纸笔啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "我说，你写。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "柳氏家主",
+      "text": "头像=贵族老年男",
+      "emotion": "啊啊啊——放……啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "王命在此，天道煌煌<ref>汉佚名《春秋纬元命苞》：“天道煌煌，非一帝之功。王者赫赫，非一家之常。顺命者存，逆命者亡。”</ref>。袁氏宵小，无礼犯禁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "柳氏叛逆，无德无才。献城求荣，罪当诛灭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "“诛灭”……“灭”怎么写来着？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不重要。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "今日，本王向柳氏及张氏宣战，不死不休。派人去申明亭，向城中军民公布此事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "所以“灭（滅）”到底怎么写来着？“减”？“诚”？……噢噢想起来了！是三点水的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=摊贩",
+      "emotion": "殿下要和本地的两大士族宣战？这……内忧外患，能行吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "花商",
+      "text": "头像=平民母亲",
+      "emotion": "袁术还在攻城呢，哪能自己内讧啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "不宣战，难道等他们把城献出去吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你们应该都听说，本王向本地两大士族宣战之事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这并非不智之举，是深思熟虑的决定。士族豪强把持地方、鱼肉百姓，本王不能让他们为所欲为。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文士甲",
+      "text": "头像=男文人",
+      "emotion": "殿下，既然知道士族豪强把持地方实权，为何要与他们为敌？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文士甲",
+      "text": "头像=男文人",
+      "emotion": "士族门阀坐拥天下，数代如此。如今袁术从外攻城，殿下无力御敌，还要与士族宣战，是为荒唐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "荒唐吗？你们以为呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……我以为，这世上有三种人。第一种人，他们的认知，只能认知到“我”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他们只知道自己要如何，要吃，要睡，要获利，要凌驾于他人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "第二种人，他们能认知到“他”。他们开始能理解别人想要什么，理解别人的欲求与苦难。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他们就可以预测他人的行为，战胜那些只能认知到“我”的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "而最后一种人，他们能认知到……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "——“道”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他们能看见道之所向，天下万物俱在道中，生死枯荣俱在道中。袁术无道，他必败。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "请诸君站在“道”的这边，站在我的身边，守住广陵，抵御袁氏，摆脱士族！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文士甲",
+      "text": "头像=男文人",
+      "emotion": "袁术十万大军，广陵一座孤城，殿下满嘴清谈又有何用？清谈能谈来天兵天将吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "两万是精兵，很精贵的，他舍不得拿来攻城；三万是小兵，挡在前面当肉盾的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "还有几万，要么是腿上绑绳子的军奴，要么是被抓壮丁的百姓。这堆人加起来，一共十万。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "诸位觉得，袁术若打下广陵，会善待这座城吗？不会，他只会坚壁清野。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你们会哀恸、嚎啕，他听不见的，因为他只能认知他自己的欲望，最终被欲望焚尽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=摊贩",
+      "emotion": "我们就是乱世中的草芥，我们的哭声谁能听见？不过是换个人跪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我能。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这乱世中所有的哭声，我都能听见！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我吃的米来自你们，我穿的衣来自你们。你们的悲苦和冀望，日夜都在我的耳边。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孤城后是我们每个人的生活和尊严，凭什么跪？凭什么拱手让人践踏？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "今日广陵没有“上下一心”。今日，是万众一心！守住家园，你的膝盖就不必对任何人下跪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "我们会守住广陵的，但殿下不能留下！如果城破，他们一定会把殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我不会走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果我死，请诸君见证我的死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "身死魂灭何足惧，我的白骨会变成一座丰碑。乱世中每个流离失所的人，只要望到这座碑——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他们就会知道，他们找到了家。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "大道不灭，仁者无敌<ref>《孟子·梁惠王上》：“彼夺其民时，使不得耕耨以养其父母。父母冻饿，兄弟妻子离散，彼陷溺其民，王往而征之，夫谁与王敌？故曰：‘仁者无敌。’王请勿疑！”</ref>。广陵在此，孤城不破！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……听动静，应该已经开始攻城了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "广陵的士兵在守城，百姓阻止士族破坏守城……我守着你，挺好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我只让你一人护卫我，你会恨我吗，孙策？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我为什么要恨你？人手不足嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "今夜，两大士族的府兵一定会倾巢而出。一波去破坏守城，一波……来杀我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "怕我为你而死？我不怕。我只怕死得憋屈，大丈夫为心上人死，死得坦坦荡荡，我不怕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "对了对了，你在申明亭说的，那个什么认知啊、“我”啊“他”啊……我在哪一层啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你能认知你自己想要什么吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……我是说……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我可以什么都不要，只要你好好活着。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……那，你知道我想要什么吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我不知道。每个人的脑子都是闭着的壳，我也看不见大家脑子里的字呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你想告诉我的时候，自然就会告诉我。你不想告诉我的事，我也不想知道。哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府兵",
+      "text": "只有一个人守着广陵王，杀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "过线者，死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哈……还没上头呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "别出来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "老子今夜可是能为心上人去死的，你要是出来了……我……就☐☐没面子啦！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "如果我守住你活过了今晚，你要答应我一件事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "把那套什么广陵王妃的礼服，照我的尺寸改改……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "老子□□□要穿着那套玩意儿，一辈子站你身边！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "院子这片地方，长了好多青草啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是被血染过的地方吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "孙将军那夜到底杀了多少人呀？我听人说，杀了三十个？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "不是，我听人说是七十个！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，你还记得吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这哪记得呀？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好像砍到五十个人的时候换了把刀，又过了五十个又换了一把……换了四五把？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "然后我们冲去两处士族宅邸，你是不是又换了七八把刀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "记不得了，那天我到最后都看不清东西了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "啊！缝补师傅出来了，补好了补好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "广陵王妃的礼服，修补好了！百姓们都等着看呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "唔啊？！我不要！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不行！你自己说要穿的！把他按住，套上去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "不要啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "孙将军别挣扎了，全城百姓都等着观礼呢！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "放我走啊啊——我不要当广陵小葱花啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不必慌乱，袁术是仓促攻城。按兵不动，观察局势。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=绣衣楼密探",
+      "emotion": "南边有一支袁绍的骑兵。袁术应是恐惧袁绍攻来，故而仓促攻城。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……袁绍和袁术这对兄弟，正在内斗吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对，本来还只是台面下争一争，现在是台面上开打了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁绍驻兵何处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=绣衣楼密探",
+      "emotion": "南方五十里的翠柳营，一直在观望袁术军的动静。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "头像=情报贩子",
+      "emotion": "唔啊啊！呼、呼……挖通了！密道是通往南方翠柳营的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "原来如此……你想乔装出城，去袁绍那边和他联手……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁绍优柔寡断，我当面与他陈述利害，他才会下定决心出兵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "别别别！你不熟悉袁氏，我可在他们手下吃够苦头了。这群人没心没肺的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他们就是想等你和袁术打到两败俱伤，再美滋滋捡漏，不可能出兵帮你的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "等到了袁绍军营，我自有办法。你得和我一起去——通过那条密道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "没问题。城外有袁术的斥候兵，我多带几个人一起护卫你去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我想乔装成平民百姓，避开正面交战。我们……伪装夫妇怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好呀好呀好呀！我们装订婚的还是新婚的还是老夫老妻？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "随你呀，你想要哪种？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "各来一种行不行？就是订婚到新婚到老夫老妻……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "老夫老妻之后可就没有啦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "呃……那老夫老妻了再离异再二婚再老夫老妻。咱们扮个七婚的，拿七遍份子钱！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "流水席从江东摆到江北，每次吃三天三夜，尚香仲谋听见我们再婚摆酒，直接蹲地上吐！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……怎么了？你怎么不太高兴啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……好啦，别板着脸了。不是你提议的吗？七婚的老夫老妻，份子钱拿到手软。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "跟我说说话呀？该不会是嘴巴黏住了吧……哎！小心裙摆！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "………………………………□。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "噗……噗呸……我嘴巴都被口脂黏住了！为啥是我女装啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "别抱怨了，快去翠柳营吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们都七婚了我还不能抱怨两句吗……呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "看了符传，的确是广陵王没错。你深夜乔装前来，是想劝我出兵攻打袁术吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "……还有，你身边的这位女眷是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "二公子见笑了，这位是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "等等。他……有点眼熟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "总觉得在哪见过这人，在哪呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "咳，我……奴家是、是广陵小葱花哦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "什么怪名字……不对，我要再想想……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸",
+      "emotion": "本初你别盯着人家女眷看了，你是脸盲，看一天都想不起来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "郭奉孝你闭嘴，我才不是脸盲！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=许攸",
+      "emotion": "我是许攸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "……咳，抱歉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "袁术围攻广陵，与我无干系，我无意出兵……不行！我太在意了，这女人到底是谁啊？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "广陵小葱花哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "看起来不是普通身份的女子，太过魁梧了，莫非是男扮女……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "奴家天生壮硕，母亲生我时吃尽了苦头，生了七天七夜！呜……娘，我一定好好孝顺你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "头像=袁绍",
+      "emotion": "……我的母亲生我时也受尽苦楚……抱歉，勾起葱淑女的伤心事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "等等，她的脖子上，是喉结吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不是！是福相！此女天生带有大富大贵之相，故而本王常年将她带在身边，逢凶化吉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "没名没份地带在身边吗？哼，还以为广陵王殿下是什么正人君子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "谁说没名没份？我可是广陵王妃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "长公子？长公子？……二公子！长公子在屏风后旁听，听着听着突然昏倒了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "呼，总算换回来了……我就说吧，袁氏的人八百个心眼子，才不可能白帮你呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "意料之中。我也没指望他帮我，就是想让他知道我被袁术逼到走投无路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "为啥？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "因为……这样一来，袁术的人夜袭他军营的时候，他就不会怀疑是我和袁术联手了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哦哦哦！原来如此！不过袁术的人今晚会夜袭他的军营？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "对。袁绍本来在观望犹豫，若袁术主动挑衅，他出兵的可能性就会大增。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哦哦哦！原来如此！不过袁术的人在哪啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "………………啊？我？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你是袁术忠心耿耿的爪牙，假意投靠我，被我识破后又来突袭袁绍，不是很合理吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "上吧，葱花王妃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "成功了同居，失败了同坟！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏骑兵",
+      "text": "头像=士兵",
+      "emotion": "抓住孙策等人！别让他们跑了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，前面没路了，是悬崖！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "什么没路？悬崖就是路！我小时候蹦来跳去不知道多少次了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我可没试过在悬崖两头跳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我抱你跳过去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "别闹！重量根本不一样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你那么轻，别担心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "闭上眼睛！抱稳了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "殿下，孙将军让人从江对岸送了点东西来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "广陵经历大战，百废待兴，若是金银财物，直接分发给将士们吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "这次真的只是个小匣子，使者说了，要殿下亲自打开的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……哈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "葱花？孙将军为什么要送一盒葱花过来呀？真奇怪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "全力守城。挺过这一波，我们要预备反攻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁术军的攻势，比想象中的要弱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他手下其实没几个真能打仗的，攻城又是个技术活。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "但是，我太熟悉这家伙了，他不会轻易退兵的，肯定在憋什么损招。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "对面的暗桩传消息回来了……被你说中了，他派人在桃娘河上游徘徊，疑似要引水灌城。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不用怕。广陵的地势在这片地方是偏高的，淹不掉。但就是援兵的路被截断了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "看，水过来了。有水，我就有办法……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵士兵",
+      "text": "头像=黑人影",
+      "emotion": "桃娘河要把广陵淹了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "不可能！桃娘河是广陵的父母河，绝不会淹了广陵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力夫",
+      "text": "头像=屠夫",
+      "emotion": "怎么办……西面都是水，附近都是袁术兵，逃都没地方逃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那是……信鸽？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是。都是从袁术军方向飞来的信鸽。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "它腿上绑着什么……啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……是劝降书。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵士兵",
+      "text": "头像=黑人影",
+      "emotion": "“广陵今已无生路……缚得贼王及孙贼者，赏千金”……呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这种蛊惑人心的玩意竟敢念出来？舌头不想要了？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵士兵",
+      "text": "头像=黑人影",
+      "emotion": "将、将军饶命……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "今夜严加守卫，小心有人动了歪心思。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "少主，若是城中哗变，我们的人数太少了，无法应对。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "又不是没经历过哗变，怕什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "城中今夜很可能要哗变，你留在外面不安全。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "绣衣楼有可以藏身的密室吗？你先进去避一避，我来替你守着。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "你也在劝降书上，我们的处境都一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我十二岁就遇见过军队哗变了，轻车熟路，别担心我！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我是广陵王。若是他们发现我不见了，人心便全散了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那……你应该有替身吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "你知道我为何不用替身吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "殿下，城中人心已向袁氏，请殿下献城投降，顺应局势吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "本王没看出来什么人心所向，继续守城。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=摊贩",
+      "emotion": "我们愿意追随殿下！广陵若是易主，袁术绝不会像殿下一样对待我们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文士",
+      "text": "头像=文官",
+      "emotion": "愚民！你们懂什么？袁氏四世三公，跟随袁氏才是正道！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那你去跟啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "袁术就在城门外。你认他做主人，若是忠心，就该不顾生死地投奔他啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嘴上说着要投袁术，身体又一动不敢动，该说你是贱呢还是贱呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文士",
+      "text": "头像=文官",
+      "emotion": "你……你在扬州的暴行，我们都知道！你以为靠威胁就能收服人心的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "广陵王和孙氏为伍，本就是对士族割席！既然如此，士族何必要站在广陵王这边？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我替她问你们一句话，你们是哪边的人？广陵，还是袁氏？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "说话！我数到三，若不表态，就视你们是袁氏的内奸，杀无赦！三、二——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文士",
+      "text": "头像=文官",
+      "emotion": "广……广陵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他表态了，你呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "……广陵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "媚上欺下，贱人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "你们士族门阀的认知，并不比百姓高。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "百姓尚且知道要追随体恤他们的人，知道要追随仁义，追随“道”，你们却只见一个利字。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "哈，认知？这群人可是连字都不识！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "认知的高低，和识字与否无关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策说得对，媚上欺下，见利忘义，士族的认知不过如此，你们掌握实权，人间才成了乱世。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "广陵王这话真是好笑！从来都是上行下效，汉室成了什么样，下面才成了什么样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "啧啧啧，你看，所以本王才说，你们的认知低得可怜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你们只见汉室熹微，不见数代幼帝早夭、无力主政，以至于宦官、外戚弄权，军阀四起。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "汉室熹微了，你们便将所有的错推在汉室身上，不是欺下又是什么？！贱、人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "那又是谁让袁氏成了四世三公，不也是汉室吗？殿下既然以为汉室没错，那袁氏也没错！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "府兵，今日广陵士族与这昏王割席！给我杀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "绣衣楼蛾部、广陵军士听令，刀刃之外，皆是死敌！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=摊贩",
+      "emotion": "帮殿下，杀士族！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你站在高处！下面所有的事情交给我！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "本王和你们站在一起。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "今夜为本王而死的每一个人，本王都会记住他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我如果为你死了，你就会一辈子记住我？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "会。以后每年寒食节，我都会去你睡着的地方，好好哭半个时辰的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "只哭半个时辰？！……算了算了，别伤心过度也好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=美型文官",
+      "emotion": "看！城楼要塌了！袁术要攻进来了！昏王撑不了太久！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "所以我说啊，你们士族的认知，太低了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哈，天天待在豪宅里，已经不知天高地厚了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "和水在一起出现的东西叫什么，你们，知道吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁术士兵",
+      "text": "头像=黑人影",
+      "emotion": "那……那是……是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "有水的地方，就有船。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "江东艨艟，给我撞——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力夫",
+      "text": "头像=屠夫",
+      "emotion": "今天可以把这边的洞都补完吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮妇",
+      "text": "头像=平民母亲",
+      "emotion": "别想了，补不完，被艨艟撞出那——么大一个洞，没塌就算不错了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "怎么还没补完啊……我明明让他们控制力道的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "先去清点存粮吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "咱们要不要先去砍两个士官？存粮计簿肯定有短缺，这群人几乎没有不做假账的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你不砍他们，等你去查存粮，他们可能直接一把火把粮仓烧了，来个死无对证。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你看城门下面的是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……啊，插得歪歪斜斜的，还以为是两个稻草人呢！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "禽兽！滚开！你再敢碰我一下试试？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "头像=屠夫",
+      "emotion": "现在一片大乱，你叫破喉咙也不会有人来的！啊……你敢砍我？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "殿下在此，不得喧哗！都让开！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "头像=屠夫",
+      "emotion": "她叔叔收了我一大袋粟，把她卖给我了，她是我买的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "都还没开始打呢，就卖儿卖女了？你爹和叔叔呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "没有！是他趁着城中大乱哄抢我家！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你这边现在是怎么说？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "城中戒严，盗贼行径，一律斩立决。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这么奢侈？不充军？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "头像=屠夫",
+      "emotion": "呃……对、对啊，我可以当兵守……呃啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "新刀。刀鞘有点卡手，拔刀慢了点。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "省点力气啊，明天就开打了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "城东王母庙收容妇孺，你可前去暂避。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "我才不怕……我爹从前是丹阳兵，我还帮他把俘虏的人头挂上马鞍！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哎，你跟我妹妹好像！让她也来守城吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "殿下，我可以的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "她不是士兵，没有经过训练。让这些孩子去守城，伤亡太大了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=平民女",
+      "emotion": "若是城破，苟活性命又有何用？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "若是无人存活，留一座空城又有何用？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "去王母庙吧。守城的事交给尉官和士兵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "明天估计西门受创最严重。连夜加固内门，糯米浆固化的时间也来不及……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "无论如何，先死守三天。你那边还有援军吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "白浪营的中军准备集结渡江，黄盖伯伯也给了我不少人……估计七日。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你在做什么呀？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "给你的旧刀做个标记，免得你拔新刀拔不出来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好呀好呀，你给我打个大——点的，醒目点的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对对对，扯大点打个蝴蝶结。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……你真的要用打着蝴蝶结的刀吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "蝴蝶越大砍人越狠，来，替我铠甲上也打几个。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "孙将军，你走起路来身上好像有一堆扑棱蛾子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "羡慕啊？嫉妒啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "殿、殿下！属下也要！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "好，好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "呃，殿下，末将也……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长矛兵",
+      "text": "头像=士兵",
+      "emotion": "殿下殿下，我要那个红色的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "蓝色的看起来比较稳重，我要蓝色的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "都几岁了！幼稚！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "我十四了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我十二岁就上战场啦，你得喊我一声老前辈。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "孙前辈保佑我能活过二十……不，三十！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好，保佑你一路做到左将军！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "左将军是我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哎呀，那时候你早就封侯了，可以卸甲归田、颐养天年了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "等广陵尉颐养天年的那天，广陵四方应该也没有战乱了吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那我要找人建一座跨江的桥，这样来找你就方便多了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "那我去江东看望姐姐和姐夫也方便多了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=绣衣楼密探",
+      "emotion": "殿下，将军！袁术先锋深夜突袭南门和水门！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……诸位，各就各位吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "战时武备是重中之重，不可生乱。孙策，我们亲自去驻守武库。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "弓手",
+      "text": "头像=黑人影",
+      "emotion": "凭什么不能修？现在是打仗，我弓角坏了，你不给我修？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "这……这就没办法嘛，打仗了物资短缺，没材料我就没法修啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "为何都围在这？出什么事了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "弓手",
+      "text": "头像=黑人影",
+      "emotion": "殿下，这铁匠本是负责修理武备的，可他推三阻四……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "哎哎哎，咱俩有理说理，现在没有能修武备的铁，我也没办法啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "要是有更多的铁就好了，我记得你这有一台游火铁箱，可以把融化的铁水投出去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "一烧一大片，连云梯上包裹的牛皮都能点着。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "铁水泼出去就收不回来了，现在没有这么多铁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "以前我爹打完仗，也是这样往家里赶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他总会带回一些有趣的小东西，迫不及待带回来给我们玩。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "有其父必有其子，你带回来的那堆东西，也确实“有趣”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你喜欢，我就……嗯？怎么了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘，看那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……这老东西，肯定有问题。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "爹，我回来休息一会儿，家里没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "我听他们都在说，坏了的武器没法修了，铺子里没铁了吗？可是我记得……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "嘘！广陵那么多铁匠铺子，又不是少了我们一家就停转了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "你也是，打起来的时候小心些，别冲那么前面，装装样子就成了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "打来打去，无非换一个人当广陵王，和咱们小老百姓有何关系？那些铁可是我家的老本。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "殿下与我们上下一心，我们怎能——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "什么“上下一心”？你是个打铁匠的儿子，他们是世代的王侯，他就是靠你们为他卖命！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "你帮他守下广陵，他还能给你个将军？得了吧，战功哪轮得到你？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这老头子扰乱军心……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "这才是常态，知道他还有铁就好，大不了再给他加价。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你拨给他的钱都是平时的三倍了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那孙将军再支援一点？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "给你的给你的！钱嘛，一句话的事。但把钱给这种人，我心里就不爽了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "不爽也不可说出来……城南有号角声，看来是告急了，我们快去吧，别管那个铁匠了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "弓箭手退后，刀兵上！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "损失如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "亡十七人，伤一十二人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "顶住，无论如何不能正面交接战！城内的兵太少了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "有投石！！！躲避！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "盾碎了……趁第二波投石没有装完，都到低处躲避！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策，你的右臂……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "断了。替我随便扎一扎，之后再找军医……哎，打个蝴蝶结呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "什么时候了还有空纠结这个！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "好好好不纠结——快跑！第二波来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "唔……这下彻底碎了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "把右臂护住！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "反正都断了，无所谓！我再带人去一趟城楼，护送工兵过来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盾兵",
+      "text": "头像=少年",
+      "emotion": "呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "他昨夜听见了儿子的死讯，就这样呆呆坐在门口，一整天没动过了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "我们找来其他的铁匠替他，他也没有反应……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我知道了……让新来的铁匠尽快修补武备，袁术那边已经快准备好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "云梯又架起来了……末将也看见了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "棉卷点上火往下丢！水烧沸了就浇下去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇兵",
+      "text": "头像=平民母亲",
+      "emotion": "把铁桶往下倒！倒完了立刻去接新的沸水！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策，水门的外门被撞木打破了，拨给副将一支火矛兵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们的人还有多少？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "还有三十余人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "都带铁器派去守水门，拿烧红的矛往外刺！——呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策，孙策！抓住我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……蝴蝶……蝴蝶变成……红色了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……地上……是不是在震？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我看不清东西，那是什么的影子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "那个影子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "是……游火铁箱？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "啊啊啊……啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇兵",
+      "text": "头像=平民母亲",
+      "emotion": "我来帮你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "来帮他一起推！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "这是……是我们家所有的铁了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=屠夫",
+      "emotion": "广陵！这是我给你所有的铁了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "是那边吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "不是，是另一头吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我记得是中间？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我记得让你给兄弟们睡觉的地方扎了标记啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "雨打风吹的，可能丢了吧……哎呦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这都能丢？！让你扎紧点的！这下回去怎么和他们家眷交代？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "好了好了，别吵到人家。就一起拜了吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "可别连袁氏的人一起拜了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "你啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我们去粮仓，防止出事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "昨晚的伤亡都记在计簿里了。然后是城墙和外门的破损……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "昨晚我带人重新清点了存粮，大概还有三十日左右。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊……对，三十日。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "把粮食分好，按每日严格分配。不必担心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "只有十日的量了，得想办法……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "我在东门外设法开辟后勤粮道，但袁术也意识到了，这几天都在派轻骑试探。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我是这样想的，我以兵换兵，让程将军那边出精锐骑兵，强行冲一条道出来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "时间？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "用快船分批运人，马匹问东海借，最快十四天就能到。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "要差四天…只要饿到第三天，整座城就会垮掉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我说，要是这次我们把广陵守下来，要不要一起联手给袁术打回去？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "以后再说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哼……每次你说“以后再说”，就没有以后了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "以后，就是指合适的时候，只要我还在，我的许诺永远有效。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "还是你很着急我履约，然后离开我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不是这个意思……啊，我明白了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你也想跟我长长久久在一起，所以才会做一个很长的约定？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嘿嘿，我还以为，只有我一个人在想我们的以后……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……真是弄不懂，你到底是想太少还是想太多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不管我想多想少，每次都是你想得太多，总把我当成坏人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你不坏吗？要按手上的人命来算，地宫往下挖十八层都找不到你的名字。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那就再挖十八层。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "只要你在上面，我的名字就算埋在一百八十层，都会爬上来找你的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "站住！小贼往哪里跑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子的叫声",
+      "text": "啊！放开我！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老妇人",
+      "text": "头像=老年女",
+      "emotion": "就是她！这个小贼偷了我的米袋！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "壮汉",
+      "text": "头像=屠夫",
+      "emotion": "她昨日还钻狗洞进来，偷了我的胡饼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "这么小，竟是个惯盗……啊，见过殿下，见过将军。属下抓到一个小贼，如何处置？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "戒严时期一切从严！惯盗还被抓现行，长几颗脑袋？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "病弱妇人",
+      "text": "头像=路人母亲",
+      "emotion": "将军，求你放过我的定儿！她都是为了我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "松手！军令如山，无论老幼！她犯了罪就该伏法！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "病弱妇人",
+      "text": "头像=路人母亲",
+      "emotion": "那我替她死！她父亲走得早，无人教养，她不懂道理……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……那个，你怎么想？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "年幼而孤，念在她还不懂事，罚她舂米一日。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……唔……什么动静……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "…………你要去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "把你弄醒啦？我想到白天的事，有点睡不着……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……很晚了，孙策。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我是不是有点矫情啊？这世上没了爹的孩子多了去了……但我睡不着。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "定儿",
+      "text": "头像=路人小孩",
+      "emotion": "娘，你好些了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "病弱妇人",
+      "text": "头像=路人母亲",
+      "emotion": "……娘就是……担心你。城里兵荒马乱的，你还乱跑……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "病弱妇人",
+      "text": "头像=路人母亲",
+      "emotion": "定儿，怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "定儿",
+      "text": "头像=路人小孩",
+      "emotion": "……没、没什么！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你要笑就笑吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你……是不是想孙坚将军了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不知怎么的，那天的情景，回想起来的时候，感觉很模糊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "父亲当年离开前，拉着我们俩的手，说………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……哎呀！战时不想这个！忘掉忘掉！三二一……忘掉了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你再等等，只要再过十四天……不，十三天，援军就会到了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "其实护运粮草的兵力并不少，只是城门处的袁术兵力太盛，无法靠近。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "原本只要把粮食从出城密道运进来就可以，但密道被投石毁了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "没有其他路吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你看那，那边是水门方向，水下有条暗渠，从那里下去，可以通向外面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "但是出入口实在太窄。我们找了身形最瘦的密探，只能过去一个头，肩膀都会卡住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "只能是孩子体型……但要让一个孩子穿过外面游荡的乱军，实在太难了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这个暗渠的出口很隐蔽，周围也无甚标记，靠心纸君传信很难说清。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "明明只要一个人出去和运粮辎重接头，再把他们带到暗渠出入口，让粮食顺水飘进来就行……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "侏儒呢？城中有这样的人吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有找到。就算有，对方也不一定愿意站出来冒险……谁在那？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "小心投石车！盾兵顶上去！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "工兵队呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "被埋了！我让第二支工兵队出动！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇兵",
+      "text": "头像=平民母亲",
+      "emotion": "往下刺！别让他们上云梯！火油呢？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "攻势弱了……他们是要退了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不是！我听见撞木车的声音了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "都从城头下来！是撞——呃！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "病弱妇人",
+      "text": "头像=路人母亲",
+      "emotion": "定儿……定儿你在哪？！定儿！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "殿下，暗渠那边有东西飘了进来！是粮食！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "定儿",
+      "text": "头像=路人小孩",
+      "emotion": "再玩一次！再玩一次！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好！嘿啉！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "定儿",
+      "text": "头像=路人小孩",
+      "emotion": "哈哈哈……还不够高！……哎呦！伤口裂开了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "裂开就裂开，你胆大包天，伤口裂了算啥？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "别闹了，快让医师看看。人家可算是孙府的小女公子了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "定儿",
+      "text": "头像=路人小孩",
+      "emotion": "嘿嘿！孙将军亲口答应的，我如果扛过去，就认我做义妹！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "你穿过乱军的时候，身上中了两箭，你母亲差点哭瞎了。好好休息，早点养好伤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "定儿",
+      "text": "头像=路人小孩",
+      "emotion": "避命！孙将军，再玩一次抛高高！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这次我把你抛到屋顶上！嘿！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我得去军医那里。药品的储备似乎短缺很大。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军医",
+      "text": "头像=男文人",
+      "emotion": "情况就是这样……城中的伤药、丸药储备都有短缺，草药也运不进来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "有其他的土方法吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军医",
+      "text": "头像=男文人",
+      "emotion": "都说了喝符水没用，但病急乱投医，他们都顾不上了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "祈福要是有用的话，要士卒干嘛。人定胜天，我才不求这些木雕泥塑呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "王母……求你救救我的孩子……求你救救他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你的孩子受伤了？……是外伤，得要用药。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "药？……没有药了……求求王母……求求王母……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他的肩背，是被投石砸伤的……敷金疮药试试吧，我这里有一瓶。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "她浑浑噩噩的。给她药的人是你，她说不定还在拜西王母……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不如直接拜你。你往神台上一坐，比王母还灵验。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他们愿意找王母做安慰，也是一件好事，总比拜些奇怪的东西要好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "有道理，我应该让江东士族也相信王母能帮他们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这样他们就不会整天搞事了，会直接睡在王母庙里，早晚磕头求老天把我收了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "城中出现了瘈疭？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军医",
+      "text": "头像=男文人",
+      "emotion": "对，孙将军应该知道……金疮瘈疭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "战时军中常见的疮病，很凶险的，天越热，这种伤病越多。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……有可能变成瘟疫吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军医",
+      "text": "头像=男文人",
+      "emotion": "再蔓延下去，就说不准了。城中药品告竭，情况……真的越来越差。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你怎么样？还坚持得住吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "……别说出去，不能让人知道……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "如果还有金疮药……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有“如果”。那天的我，总是会把药给她的……换做是你，你也会。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我会是因为我没脑子，你会是因为……因为什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……因为她是广陵的百姓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "……她也想活在更好的地方，但是我没做到……我欠了所有人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "带人撤回巷中准备交接战！孙氏的人护送她回去！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "少主，你怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我用不着担心，尽快护送她回去，然后过来支援！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……我没事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……我还能……继续守着……我不能往后退……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "没有命就什么都没有了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他们可以不畏死，我可以不畏死，因为我们是武人，是用命换战功的。你不是。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我不能丢下你们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……哈，我们的命啊，就是用来……丢来丢去的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我来这之前就已经想好了，我可以为你死。只要能让你活下去，我什么都愿意做。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "把她护送回去，立刻！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "孙策……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "还等什么？快！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏士兵",
+      "text": "头像=士兵",
+      "emotion": "殿下不要乱动了，殿下伤得太重，真的不能再硬撑了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "啊啊啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军医",
+      "text": "头像=男文人",
+      "emotion": "按住殿下！殿下，失礼了，我知道这很痛，但是必须把腐肉切掉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "啊！！！啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军医",
+      "text": "头像=男文人",
+      "emotion": "咬着布，别咬到舌头……孙将军呢？孙将军今夜在哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "孙将军昨夜想杀出城，去抢敌方的军医辎重，也受了伤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "刚才有夜袭，他强撑着带人去守水门了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军医",
+      "text": "头像=男文人",
+      "emotion": "殿下的伤口发炎了，烧得很严重，再这样下去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我回来了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "求你了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "求你了……不要死……求你了……我什么都愿意……求你不要死……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我这一生，不曾信过你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我求你救她……只要你能救她，我便拿所有的寿数供奉你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "杀人者孙策，犯过口业杀戮，屡教不改……今夜自知罪孽深重，乞求王母显灵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "…………求你显灵…………求你显灵啊……显灵啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "显灵啊！！！那么多人拜你，你不是神吗？！显灵啊！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "………………孙……策…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我没有办法了……我想救你，你不要死，求求你不要死……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对不起……对不起，是我没有用……对不起……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我从没拜过神，我这样拜是不是没有用……王母不帮我……是我害了你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "…………请拿着这个。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这是……金疮药？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你不是拿去给你孩子用了吗？为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "……他走了，药没有用完。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "他最后说，让我来谢谢你们。我来了。给二位磕个头，我就也要走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "援军到了！东阳和江东的援军到了！"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "分类鸢记"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%B8%A2%E8%AE%B0%C2%B7%E5%9B%B4%E5%9F%8E/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:10:24.989412",
+  "raw_wikitext": "{{面包屑|孙策|男主鸢记|孙策-鸢记}}\n{{JS|Qiantao.js}}\n{{对话-头}}\n{{旁白|【城楼】}}\n{{旁白|阴云沉沉，战旗猎猎。我望着城下的袁术大军。}}\n{{对话|侍卫|消息传回，邓氏和窦氏都不愿出兵。|头像=绣衣楼密探}}\n{{对话|我|他们都在等，等战局明朗，再从我和袁术之间选择一个站队。|头像=广陵王-微笑}}\n{{对话|我|……江东那边呢？艨艟有动静吗？|头像=广陵王-严肃}}\n{{对话|侍卫|清晨的时候，有斥候见到艨艟离岸。|头像=绣衣楼密探}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|侍卫|殿下，袁术那边的使者出阵了。|头像=绣衣楼密探}}\n{{旁白|使者骑着马靠近城门，手中展着战书。}}\n{{对话|使者|广陵王！献城投降，尚可保全性命。|头像=黑人影}}\n{{对话|使者|此战有江东孙氏协助，不出一日，便可……呃！|头像=黑人影}}\n{{旁白|一支箭镞钉在他脚边。我把长弓还给守卫，面无表情。}}\n{{对话|广陵尉|殿下如何决断？}}\n{{对话|我|战。|头像=广陵王-严肃}}\n{{对话|我|东阳和小沛会有援军。一定会。|头像=广陵王-严肃}}\n{{对话|广陵尉|恕末将多言，城中存粮、兵力，皆难以支撑。|头像=帅武将}}\n{{对话|我|……我不会走。派人去申明亭<ref>明清两代在各方用以张贴榜文、“申明教化”而建的亭子。</ref>，向百姓传话，本王不会离开广陵。|头像=广陵王-摇头}}\n{{对话|使者|孙氏的兵马来了！广陵王，你的末路到了！|头像=黑人影}}\n{{旁白|号角声由远及近，战旗招摇，金甲熠熠生辉——}}\n{{对话|孙策|末将来迟！江东孙策来助袁术将军一臂之力！|头像=孙策}}\n{{对话|使者|孙策，你来得好！袁术将军命你为先锋军，拿下广陵，重重有赏！|头像=黑人影}}\n{{对话|孙策|我与广陵王有故交，可以先行劝降。|头像=孙策}}\n{{对话|使者|若能兵不血刃拿下广陵，军功更高！|头像=黑人影}}\n{{对话|孙策|好，那末将就上了！|头像=孙策}}\n{{旁白|袁术军让开一条路，孙策带着自己的人马，缓缓靠近城门。}}\n{{对话|我|弓箭手，预备。|头像=广陵王-微笑}}\n{{对话|孙策|别打别打！我有话要对你说，不要放箭！|头像=孙策}}\n{{对话|广陵尉|……殿、殿下，那是孙将军……|头像=帅武将}}\n{{对话|我|所以？|头像=广陵王-微笑}}\n{{对话|广陵尉|所以是不是……谨慎些？|头像=帅武将}}\n{{对话|我|谨慎些，瞄准他的头。|头像=广陵王-点头}}\n{{对话|孙策|别别别，你好歹和我谈一谈啊！|头像=孙策}}\n{{旁白|孙策到了城下，摘下头盔，抬头望着我。}}\n{{对话|孙策|开城门！我要到城中和广陵王当面谈！|头像=孙策}}\n{{对话|使者|孙策，太危险了，他要是把城门一关，你们不就有去无回了？|头像=黑人影}}\n{{对话|孙策|我对袁术将军的忠心超过生死，末将去了。|头像=孙策}}\n{{对话|使者|呜呜……孙将军，我一定会把你的英勇如实汇报给袁术将军的……你安心去吧……|头像=黑人影}}\n{{旁白|城上所有人都看着我，等待我的决断。}}\n{{对话|广陵尉|殿下不可！若他使诈，骗开城门，袁术大军一涌而上，当如何是好？|头像=帅武将}}\n{{对话|孙策|放绳子下来，我们自己爬上去！|头像=孙策}}\n{{对话|我|放绳子，让他们上来。|头像=广陵王-微笑}}\n{{旁白|片刻后，孙策与他的人手沿绳而上，站上了城楼。}}\n{{对话|孙策|呼……见你一面真不容易。弓手小哥，你们东西放一放行不行？别那么紧张啊！}}\n{{对话|孙策|这么多箭对着我，万一谁手滑……唔啊啊！☐的谁啊？！}}\n{{对话|弓手|不好意思不好意思，手滑了……|头像=黑人影}}\n{{对话|我|你要说什么？|头像=广陵王-严肃}}\n{{对话|孙策|我是来帮你的！帮你守城！}}\n{{对话|使者|孙策！你和将军曾歃血为盟！你背信弃义！|头像=黑人影}}\n{{对话|孙策|放屁。和袁术喝酒的是我爹，又不是我。}}\n{{对话|使者|那你就准备和这座破城一起灰飞烟灭吧！给我——唔啊！|头像=黑人影}}\n{{旁白|孙策一箭射中了他，满意地哼了一声。}}\n{{对话|孙策|早就看你不顺眼了，天天在袁术耳朵边吹风……}}\n{{对话|袁氏军官|孙策杀了使者！快去回报袁术将军，准备攻城！}}\n{{对话|孙策|嘿嘿，来啊来啊。}}\n{{对话|我|……你这一下子，可把我议和的路都断了。|头像=广陵王-无语}}\n{{对话|孙策|啥？你原来打算和他议和？那咋办……别急别急，我看看……我射他哪了……}}\n{{对话|广陵尉|正中眉心，孙将军好弓法。|头像=帅武将}}\n{{对话|孙策|啊哈……啊哈……啊哈哈……}}\n{{对话|我|不说笑了。原本也没打算议和……你既然来帮我，那就别喊累啊。|头像=广陵王-严肃}}\n{{对话|孙策|打仗我可是熟练工！眼前什么事最要紧？我帮你一起去办！}}\n{{对话|我|眼前最紧要的事吗……|头像=广陵王-挑眉}}\n{{嵌套分歧|头}}\n{{嵌套分歧|加固城防|1}}\n{{嵌套分歧|确保存粮|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孙策|唔啊……被砸得好惨。}}\n{{对话|我|南城门的外门碎了，护城河里面都是投石。|头像=广陵王-严肃}}\n{{对话|孙策|他挺常干这种事的。不怕不怕，有我在呢。}}\n{{旁白|城墙破损之处极多，工兵正带着力夫一起修城墙。}}\n{{旁白|孙策对他带来的亲兵说了几句，就让这些人一起去帮忙了。}}\n{{对话|孙策|广陵的物资还够吧？药啊、存粮啊、盐铁啊……}}\n{{对话|我|尚可。你做什么？|头像=广陵王-挑眉}}\n{{对话|孙策|我把外套脱了去帮忙，他们慢死了，笨手笨脚。}}\n{{对话|孙氏士兵|少主你说谁笨手笨脚呢？|头像=士兵}}\n{{对话|孙策|你你你就是你！|头像=孙策}}\n{{对话|孩童|快看，孙将军一个人举起了两根木头！|头像=路人小孩}}\n{{对话|少女|好厉害啊，要练多久能练成这样啊……|头像=平民女}}\n{{对话|孙策|嘿嘿……那首歌怎么唱来着？孙策是一个魁梧的男子……后面忘了。|头像=孙策}}\n{{旁白|时至中午，壮妇们推着粥车到了城楼下。孙策他们也从高处一个个跳下来，看着热腾腾的粥锅。}}\n{{对话|孙策|快给我一碗，干了半天活，肚子都饿扁了。}}\n{{对话|力夫|俺们习惯吃这口味了，孙将军吃不惯的。|头像=屠夫}}\n{{对话|孙策|我吃的惯，我娘说我从小没长舌头，啥都咽得下去。}}\n{{对话|壮妇|哈哈哈……孙将军真可爱！说亲了没有？我可是广陵金牌媒人！|头像=平民母亲}}\n{{对话|孙策|没说没说……不不不也不算没说……}}\n{{对话|壮妇|到底说没说？|头像=平民母亲}}\n{{对话|孙策|嘿嘿，我……嘿嘿……}}\n{{对话|力夫|俺听俺闺女说孙将军喜欢咱们殿下。|头像=屠夫}}\n{{对话|壮妇|哦，好这一口啊……所以人家是咱们广陵的王妃啊……|头像=平民母亲}}\n{{对话|孙策|啊对，广陵王妃就是我！}}\n{{对话|我|真敢认……来人，去库房里取王妃的礼服，给孙将军披上。|头像=广陵王-无语}}\n{{对话|孙策|我为什么要穿王妃服？我又不是吕蒙！}}\n{{对话|我|你连女装都不敢穿，还敢说喜欢我？|头像=广陵王-冷笑}}\n{{对话|孙策|……你……你……}}\n{{对话|我|就一次机会，穿不穿？|头像=广陵王-微笑}}\n{{对话|孙策|穿穿穿。}}\n{{旁白|【民宅】}}\n{{对话|侍卫|真的有密道……|头像=绣衣楼密探}}\n{{对话|文官|文书上都没记载啊……殿下来了！殿下，情报属实，民居里真的发现了一条密道。|头像=文官}}\n{{对话|我|确认过通往何处吗？|头像=广陵王-严肃}}\n{{对话|屋主|房子是我刚买的，我我我也不知道啊……|头像=摊贩}}\n{{对话|孙策|投石机砸得地动山摇，才让这条密道露出来的吧……这条地道的入口好小啊。}}\n{{旁白|工兵下去探看，没多久就退回。下面的支架已经塌了，无法前行。}}\n{{对话|孙策|这条地道不一定是通的，有可能挖到一半放弃了。}}\n{{对话|孙策|而且，万一是通向袁术军中，一伸头就……咔。}}\n{{对话|侍卫|这看着像个盗洞……牢里有个盗墓贼，不如提他过来看看？|头像=绣衣楼密探}}\n{{旁白|片刻后，一个身形瘦小的男子跟在士兵身后进来，贼眉鼠眼，左右乱看。}}\n{{对话|孙策|你看看这条地道，能不能挖出城。}}\n{{对话|盗墓贼|这……这……地洞许久不曾下人，须得……啊！|头像=情报贩子}}\n{{旁白|他还未说完，孙策抬脚将他踹了下去。}}\n{{对话|孙策|不挖完不许出来。好啦，让他慢慢挖着吧。}}\n{{对话|广陵尉|殿下，将军，袁术准备攻城了！城内两大士族叛乱，要拿殿下去向袁术投诚！|头像=帅武将}}\n{{嵌套分歧|头}}\n{{嵌套分歧|处理叛乱|1}}\n{{嵌套分歧|等待汇报|2}}\n{{嵌套分歧|策划反攻|3}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|【广陵】}}\n{{对话|广陵尉|不能开城门！你们这是献城叛逆！|头像=帅武将}}\n{{对话|柳氏子弟|这仗本来就不用打，袁氏四世三公，这样的家族做主广陵，难道是坏事吗？|头像=美型文官}}\n{{对话|老人|广陵王逐权，却要把我们卷进去！我们听柳氏和张氏的，他们是本地最大的两家士族！|头像=老年男}}\n{{对话|张氏子弟|谁坐镇广陵，他一样都是亲王，我们凭什么为他死？！开城门，迎袁氏！|头像=黑人影}}\n{{对话|货郎|对啊，城里就这点人怎么打？……啊啊！|头像=摊贩}}\n{{旁白|孙策拔刀就向他们走去，正在对峙的两拨人都往后退了几步。}}\n{{对话|孙策|这种家伙，放在城里也是祸害。}}\n{{对话|我|冷静些，他们都是本地最大的士族豪强。|头像=广陵王-摇头}}\n{{对话|孙策|士族的脖子就是铁打的吗？一样一刀一个。}}\n{{对话|柳氏子弟|孙策，你以为这里是你江东？在徐州杀士族，你异想天……|头像=美型文官}}\n{{旁白|人头飞了出去，滚落出去很远。}}\n{{对话|孙策|喂！那个卖货的，拿点针线，把他脑袋身子缝起来。}}\n{{对话|孙策|你说，咱们带着他的全尸，是去跟他家谈，还是直接打？}}\n{{旁白|【柳氏府邸】}}\n{{对话|柳氏家主|……这，是什么意思？|头像=贵族老年男}}\n{{对话|我|本王是来和柳氏谈的。|头像=广陵王-严肃}}\n{{对话|柳氏家主|你带着我族子的尸身，来和我谈？|头像=贵族老年男}}\n{{对话|孙策|你不想谈，就打呗。你猜我为啥在这？}}\n{{对话|我|够了，孙策。你噤声。|头像=广陵王-严肃}}\n{{旁白|孙策扁扁嘴，挪了挪，坐回我身后。我正襟危坐，向对座行了正礼。}}\n{{对话|我|柳家主，请节哀顺变。|头像=广陵王-微笑}}\n{{对话|柳氏家主|你们杀的人，你们让我节哀？|头像=贵族老年男}}\n{{对话|我|那为何不说他献城投敌，其罪当诛？|头像=广陵王-严肃}}\n{{对话|柳氏家主|袁氏四世三公，人心所向，我们螳臂当车，只是徒增伤亡！|头像=贵族老年男}}\n{{对话|我|你如此心向袁氏，是本王平日有不贤之处？|头像=广陵王-严肃}}\n{{对话|柳氏家主|殿下的王位是世代的王位，谁入主广陵与殿下何干？只需袖手坐享王族的供奉便是了！|头像=贵族老年男}}\n{{对话|柳氏家主|汉室都成了什么模样，亲王何必对权力念念不忘？|头像=贵族老年男}}\n{{对话|我|你放肆！！！|头像=广陵王-愤怒}}\n{{旁白|伴随一声痛呼，孙策把男人踹倒在地。}}\n{{对话|孙策|你平日对他们太好了。这要放在江东，他已经在城头当挂件了。}}\n{{对话|柳氏家主|孙策，这里不是江东！这里的士族不怕你一个寒门竖……啊！|头像=贵族老年男}}\n{{旁白|他挨了结结实实的一拳，鼻子流出鲜血；室内的人慌成一团，纷纷向外逃去。}}\n{{对话|我|我累了。孙策，替我代笔，写封战书。|头像=广陵王-阴沉}}\n{{对话|孙策|哪有纸笔啊？}}\n{{旁白|我手指地上满脸是血的男人，再指指一旁的宽大白纱屏风——}}\n{{对话|我|我说，你写。|头像=广陵王-阴沉}}\n{{对话|柳氏家主|啊啊啊——放……啊啊啊——|头像=贵族老年男}}\n{{旁白|孙策提着男人的脖子，将他的脸按在屏风上，写下血色的潦草战书。}}\n{{对话|我|王命在此，天道煌煌<ref>汉佚名《春秋纬元命苞》：“天道煌煌，非一帝之功。王者赫赫，非一家之常。顺命者存，逆命者亡。”</ref>。袁氏宵小，无礼犯禁。|头像=广陵王-严肃}}\n{{对话|我|柳氏叛逆，无德无才。献城求荣，罪当诛灭。|头像=广陵王-严肃}}\n{{对话|孙策|“诛灭”……“灭”怎么写来着？|头像=孙策}}\n{{对话|我|不重要。|头像=广陵王-摇头}}\n{{旁白|响亮的咚一声，他捋家主的头狠按在屏风上，留下团分不清笔画的红花绽放。}}\n{{旁白|我起身，在众人惊恐目光中走向门口。孙策丢开昏死的男人，跟随在我身侧。}}\n{{对话|我|今日，本王向柳氏及张氏宣战，不死不休。派人去申明亭，向城中军民公布此事。|头像=广陵王-严肃}}\n{{对话|孙策|所以“灭（滅）”到底怎么写来着？“减”？“诚”？……噢噢想起来了！是三点水的！|头像=孙策}}\n{{旁白|【申明亭】}}\n{{对话|百姓|殿下要和本地的两大士族宣战？这……内忧外患，能行吗？|头像=摊贩}}\n{{对话|花商|袁术还在攻城呢，哪能自己内讧啊。|头像=平民母亲}}\n{{对话|少女|不宣战，难道等他们把城献出去吗？|头像=平民女}}\n{{旁白|我站上申明亭的高台，披着亲王的常服。需由二人抬起衣摆，我才能披着沉重的常服迈过台阶。}}\n{{对话|我|你们应该都听说，本王向本地两大士族宣战之事了。|头像=广陵王-严肃}}\n{{对话|我|这并非不智之举，是深思熟虑的决定。士族豪强把持地方、鱼肉百姓，本王不能让他们为所欲为。|头像=广陵王-严肃}}\n{{对话|文士甲|殿下，既然知道士族豪强把持地方实权，为何要与他们为敌？|头像=男文人}}\n{{对话|文士甲|士族门阀坐拥天下，数代如此。如今袁术从外攻城，殿下无力御敌，还要与士族宣战，是为荒唐！|头像=男文人}}\n{{旁白|我抬手，阻止了要捉拿他的武士。}}\n{{对话|我|荒唐吗？你们以为呢？|头像=广陵王-严肃}}\n{{旁白|百姓被我的目光触及，有的点头，有的否认，也有的唯唯诺诺。}}\n{{对话|我|……我以为，这世上有三种人。第一种人，他们的认知，只能认知到“我”。|头像=广陵王-严肃}}\n{{对话|我|他们只知道自己要如何，要吃，要睡，要获利，要凌驾于他人。|头像=广陵王-严肃}}\n{{对话|我|第二种人，他们能认知到“他”。他们开始能理解别人想要什么，理解别人的欲求与苦难。|头像=广陵王-严肃}}\n{{对话|我|他们就可以预测他人的行为，战胜那些只能认知到“我”的人。|头像=广陵王-严肃}}\n{{对话|我|而最后一种人，他们能认知到……|头像=广陵王-严肃}}\n{{旁白|所有人的目光随着我的手指，看向头顶的苍穹。}}\n{{对话|我|——“道”。|头像=广陵王-严肃}}\n{{对话|我|他们能看见道之所向，天下万物俱在道中，生死枯荣俱在道中。袁术无道，他必败。|头像=广陵王-严肃}}\n{{对话|我|请诸君站在“道”的这边，站在我的身边，守住广陵，抵御袁氏，摆脱士族！|头像=广陵王-严肃}}\n{{对话|文士甲|袁术十万大军，广陵一座孤城，殿下满嘴清谈又有何用？清谈能谈来天兵天将吗？！|头像=男文人}}\n{{对话|孙策|两万是精兵，很精贵的，他舍不得拿来攻城；三万是小兵，挡在前面当肉盾的。}}\n{{对话|孙策|还有几万，要么是腿上绑绳子的军奴，要么是被抓壮丁的百姓。这堆人加起来，一共十万。}}\n{{对话|我|诸位觉得，袁术若打下广陵，会善待这座城吗？不会，他只会坚壁清野。|头像=广陵王-严肃}}\n{{对话|我|你们会哀恸、嚎啕，他听不见的，因为他只能认知他自己的欲望，最终被欲望焚尽！|头像=广陵王-严肃}}\n{{对话|百姓|我们就是乱世中的草芥，我们的哭声谁能听见？不过是换个人跪！|头像=摊贩}}\n{{对话|我|我能。|头像=广陵王-严肃}}\n{{对话|我|这乱世中所有的哭声，我都能听见！|头像=广陵王-严肃}}\n{{旁白|日薄西山，血色残阳笼罩孤城，将每个人的双眼都染得明亮。}}\n{{对话|我|我吃的米来自你们，我穿的衣来自你们。你们的悲苦和冀望，日夜都在我的耳边。|头像=广陵王-严肃}}\n{{对话|我|孤城后是我们每个人的生活和尊严，凭什么跪？凭什么拱手让人践踏？！|头像=广陵王-生气}}\n{{对话|我|今日广陵没有“上下一心”。今日，是万众一心！守住家园，你的膝盖就不必对任何人下跪！|头像=广陵王-生气}}\n{{对话|少女|我们会守住广陵的，但殿下不能留下！如果城破，他们一定会把殿下……|头像=平民女}}\n{{对话|我|我不会走。|头像=广陵王-严肃}}\n{{旁白|台下，孙策的目光转向我，似是也想说什么，却欲言又止。}}\n{{对话|我|如果我死，请诸君见证我的死。|头像=广陵王-严肃}}\n{{对话|我|身死魂灭何足惧，我的白骨会变成一座丰碑。乱世中每个流离失所的人，只要望到这座碑——|头像=广陵王-严肃}}\n{{对话|我|他们就会知道，他们找到了家。|头像=广陵王-严肃}}\n{{旁白|日沉月升。日月同空的短暂微光，将我们的身影涤荡如河流。}}\n{{对话|我|大道不灭，仁者无敌<ref>《孟子·梁惠王上》：“彼夺其民时，使不得耕耨以养其父母。父母冻饿，兄弟妻子离散，彼陷溺其民，王往而征之，夫谁与王敌？故曰：‘仁者无敌。’王请勿疑！”</ref>。广陵在此，孤城不破！|头像=广陵王-生气}}\n{{旁白|【广陵王府】}}\n{{对话|孙策|……听动静，应该已经开始攻城了。}}\n{{对话|孙策|广陵的士兵在守城，百姓阻止士族破坏守城……我守着你，挺好。}}\n{{旁白|月下回廊，他坐在纸门后的外廊。似曾相识的场景，让我们都有些感慨。}}\n{{对话|我|我只让你一人护卫我，你会恨我吗，孙策？|头像=广陵王-微笑}}\n{{对话|孙策|我为什么要恨你？人手不足嘛。|头像=孙策}}\n{{旁白|心理|大部分人手都得去城门那边，防止士族的人里应外合打开城门……}}\n{{对话|我|今夜，两大士族的府兵一定会倾巢而出。一波去破坏守城，一波……来杀我。|头像=广陵王-摇头}}\n{{对话|孙策|怕我为你而死？我不怕。我只怕死得憋屈，大丈夫为心上人死，死得坦坦荡荡，我不怕。|头像=孙策}}\n{{对话|孙策|对了对了，你在申明亭说的，那个什么认知啊、“我”啊“他”啊……我在哪一层啊？|头像=孙策}}\n{{对话|我|你能认知你自己想要什么吗？|头像=广陵王-严肃}}\n{{对话|孙策|你。|头像=孙策}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|……我是说……|头像=广陵王-摇头}}\n{{对话|孙策|我可以什么都不要，只要你好好活着。}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|……那，你知道我想要什么吗？|头像=广陵王-微笑}}\n{{对话|孙策|我不知道。每个人的脑子都是闭着的壳，我也看不见大家脑子里的字呀。}}\n{{对话|孙策|你想告诉我的时候，自然就会告诉我。你不想告诉我的事，我也不想知道。哈……}}\n{{旁白|轻笑中，我听见了刀出鞘的破风声。月色染白的纸门上，瞬间红梅一枝。}}\n{{对话|府兵|只有一个人守着广陵王，杀。}}\n{{对话|孙策|过线者，死。}}\n{{旁白|红梅满屏，滤出一片鲜亮的月，天地如燃。}}\n{{旁白|远方地动山摇，是攻城云梯与喊杀声；我独坐案前，一支飞箭穿过纸门，钉在我的腿边。}}\n{{对话|我|孙策，如何？|头像=广陵王-微笑}}\n{{对话|孙策|哈……还没上头呢！|头像=孙策}}\n{{旁白|一片弧形的血海在庭中蔓延，府兵们的尸身倒在他划出的线外。不知谁的血泼洒入室，沾染我的衣袖。}}\n{{对话|孙策|别出来！|头像=孙策}}\n{{对话|孙策|老子今夜可是能为心上人去死的，你要是出来了……我……就☐☐没面子啦！！！|头像=孙策}}\n{{旁白|一声铿锵，孙策的刀砍折了。他的右臂中了刀，用左臂夺过敌人的兵刃，再战。}}\n{{对话|孙策|如果我守住你活过了今晚，你要答应我一件事！|头像=孙策}}\n{{对话|我|你说。|头像=广陵王-微笑}}\n{{对话|孙策|把那套什么广陵王妃的礼服，照我的尺寸改改……|头像=孙策}}\n{{对话|孙策|老子□□□要穿着那套玩意儿，一辈子站你身边！！！|头像=孙策}}\n{{旁白|【广陵王府】}}\n{{旁白|在援军抵达、袁术退兵的一个月后……}}\n{{对话|侍女|院子这片地方，长了好多青草啊。|头像=宫女}}\n{{对话|我|是被血染过的地方吧。|头像=广陵王-微笑}}\n{{对话|侍女|孙将军那夜到底杀了多少人呀？我听人说，杀了三十个？|头像=宫女}}\n{{对话|仆人|不是，我听人说是七十个！|头像=侍从}}\n{{对话|我|孙策，你还记得吗？|头像=广陵王-微笑}}\n{{对话|孙策|这哪记得呀？}}\n{{旁白|他从内室晃出来，满身都是纱布，弥漫着药味。}}\n{{对话|孙策|好像砍到五十个人的时候换了把刀，又过了五十个又换了一把……换了四五把？}}\n{{对话|我|然后我们冲去两处士族宅邸，你是不是又换了七八把刀？|头像=广陵王-挑眉}}\n{{对话|孙策|记不得了，那天我到最后都看不清东西了……}}\n{{对话|侍女|啊！缝补师傅出来了，补好了补好了！|头像=宫女}}\n{{旁白|女孩子们欢欢喜喜冲进缝补室，抬出了一大口衣箱子……}}\n{{对话|侍女|广陵王妃的礼服，修补好了！百姓们都等着看呢！|头像=宫女}}\n{{对话|孙策|唔啊？！我不要！|头像=孙策}}\n{{对话|我|不行！你自己说要穿的！把他按住，套上去！|头像=广陵王-严肃}}\n{{对话|孙策|不要啊啊啊——|头像=孙策}}\n{{对话|侍女|孙将军别挣扎了，全城百姓都等着观礼呢！！！|头像=宫女}}\n{{对话|孙策|放我走啊啊——我不要当广陵小葱花啊——|头像=孙策}}\n{{旁白|恭喜达成结局【大道】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头|显示=2}}\n{{对话|我|不必慌乱，袁术是仓促攻城。按兵不动，观察局势。|头像=广陵王-摇头}}\n{{旁白|片刻后，斥候再度来报，袁术的攻城似是临时起意，已经有退意了。}}\n{{对话|斥候|南边有一支袁绍的骑兵。袁术应是恐惧袁绍攻来，故而仓促攻城。|头像=绣衣楼密探}}\n{{对话|我|……袁绍和袁术这对兄弟，正在内斗吧。|头像=广陵王-严肃}}\n{{对话|孙策|对，本来还只是台面下争一争，现在是台面上开打了。}}\n{{对话|我|袁绍驻兵何处？|头像=广陵王-微笑}}\n{{对话|斥候|南方五十里的翠柳营，一直在观望袁术军的动静。|头像=绣衣楼密探}}\n{{旁白|心理|袁绍应是想趁袁术攻城时从后方发动攻势，只是还在观望……}}\n{{对话|盗墓贼|唔啊啊！呼、呼……挖通了！密道是通往南方翠柳营的！|头像=情报贩子}}\n{{旁白|【广陵王府】}}\n{{对话|孙策|原来如此……你想乔装出城，去袁绍那边和他联手……}}\n{{对话|我|袁绍优柔寡断，我当面与他陈述利害，他才会下定决心出兵。|头像=广陵王-微笑}}\n{{对话|孙策|别别别！你不熟悉袁氏，我可在他们手下吃够苦头了。这群人没心没肺的！}}\n{{对话|孙策|他们就是想等你和袁术打到两败俱伤，再美滋滋捡漏，不可能出兵帮你的。}}\n{{对话|我|等到了袁绍军营，我自有办法。你得和我一起去——通过那条密道。|头像=广陵王-微笑}}\n{{对话|孙策|没问题。城外有袁术的斥候兵，我多带几个人一起护卫你去。}}\n{{对话|我|我想乔装成平民百姓，避开正面交战。我们……伪装夫妇怎么样？|头像=广陵王-严肃}}\n{{旁白|他的眼睛瞬间亮了，小鸡啄米似的点头，甩得辫子乱飞。}}\n{{对话|孙策|好呀好呀好呀！我们装订婚的还是新婚的还是老夫老妻？}}\n{{对话|我|随你呀，你想要哪种？|头像=广陵王-冷笑}}\n{{对话|孙策|各来一种行不行？就是订婚到新婚到老夫老妻……}}\n{{对话|我|老夫老妻之后可就没有啦。|头像=广陵王-微笑}}\n{{对话|孙策|呃……那老夫老妻了再离异再二婚再老夫老妻。咱们扮个七婚的，拿七遍份子钱！}}\n{{对话|孙策|流水席从江东摆到江北，每次吃三天三夜，尚香仲谋听见我们再婚摆酒，直接蹲地上吐！}}\n{{旁白|心理|……那是得吃伤了……}}\n{{旁白|我让侍从下去安排服饰。等装扮完了，我们就从那条密道偷偷出城……}}\n{{旁白|【城郊】}}\n{{对话|我|……怎么了？你怎么不太高兴啊？|头像=广陵王-微笑}}\n{{对话|我|……好啦，别板着脸了。不是你提议的吗？七婚的老夫老妻，份子钱拿到手软。|头像=广陵王-微笑}}\n{{对话|我|跟我说说话呀？该不会是嘴巴黏住了吧……哎！小心裙摆！|头像=广陵王-微笑}}\n{{对话|孙策|………………………………□。|头像=孙策}}\n{{旁白|孙策提着裙摆，面色如丧考妣，沉默地跟着我。}}\n{{对话|孙策|噗……噗呸……我嘴巴都被口脂黏住了！为啥是我女装啊？|头像=孙策}}\n{{对话|我|别抱怨了，快去翠柳营吧……|头像=广陵王-微笑}}\n{{对话|孙策|我们都七婚了我还不能抱怨两句吗……呜……|头像=孙策}}\n{{旁白|说说闹闹间，我们向南而去。途中遇到几次袁术的士兵，但都没有在意我们。}}\n{{旁白|深夜，我们抵达了翠柳营……}}\n{{旁白|【翠柳营主帐】}}\n{{对话|袁绍|看了符传，的确是广陵王没错。你深夜乔装前来，是想劝我出兵攻打袁术吧？}}\n{{对话|袁绍|……还有，你身边的这位女眷是……}}\n{{对话|我|二公子见笑了，这位是……|头像=广陵王-微笑}}\n{{对话|袁绍|等等。他……有点眼熟……}}\n{{旁白|袁绍眯着眼睛盯着孙策，神色微变……}}\n{{对话|袁绍|总觉得在哪见过这人，在哪呢……}}\n{{对话|孙策|咳，我……奴家是、是广陵小葱花哦……|头像=孙策}}\n{{对话|袁绍|什么怪名字……不对，我要再想想……}}\n{{对话|许攸|本初你别盯着人家女眷看了，你是脸盲，看一天都想不起来的。|头像=许攸}}\n{{对话|袁绍|郭奉孝你闭嘴，我才不是脸盲！}}\n{{对话|许攸|我是许攸。|头像=许攸}}\n{{对话|袁绍|……咳，抱歉。}}\n{{旁白|他低头喝了口酒，假装无事发生。}}\n{{对话|袁绍|袁术围攻广陵，与我无干系，我无意出兵……不行！我太在意了，这女人到底是谁啊？！}}\n{{对话|孙策|广陵小葱花哦！|头像=孙策}}\n{{对话|许攸|看起来不是普通身份的女子，太过魁梧了，莫非是男扮女……}}\n{{对话|孙策|奴家天生壮硕，母亲生我时吃尽了苦头，生了七天七夜！呜……娘，我一定好好孝顺你……|头像=孙策}}\n{{对话|袁绍|……我的母亲生我时也受尽苦楚……抱歉，勾起葱淑女的伤心事了。|头像=袁绍}}\n{{对话|许攸|等等，她的脖子上，是喉结吗？}}\n{{对话|我|不是！是福相！此女天生带有大富大贵之相，故而本王常年将她带在身边，逢凶化吉。|头像=广陵王-摇头}}\n{{对话|许攸|没名没份地带在身边吗？哼，还以为广陵王殿下是什么正人君子……}}\n{{对话|孙策|谁说没名没份？我可是广陵王妃！|头像=孙策}}\n{{旁白|一声轻响，袁绍身后的屏风后似乎有什么倒地的声音。}}\n{{对话|小若|长公子？长公子？……二公子！长公子在屏风后旁听，听着听着突然昏倒了！}}\n{{旁白|袁绍匆忙中断议事，带人去照顾兄长；我们被晾在这里，无人过问。}}\n{{旁白|【翠柳宫】}}\n{{对话|孙策|呼，总算换回来了……我就说吧，袁氏的人八百个心眼子，才不可能白帮你呢。}}\n{{对话|我|意料之中。我也没指望他帮我，就是想让他知道我被袁术逼到走投无路。|头像=广陵王-点头}}\n{{对话|孙策|为啥？}}\n{{对话|我|因为……这样一来，袁术的人夜袭他军营的时候，他就不会怀疑是我和袁术联手了呀。|头像=广陵王-微笑}}\n{{对话|孙策|哦哦哦！原来如此！不过袁术的人今晚会夜袭他的军营？}}\n{{对话|我|对。袁绍本来在观望犹豫，若袁术主动挑衅，他出兵的可能性就会大增。|头像=广陵王-微笑}}\n{{对话|孙策|哦哦哦！原来如此！不过袁术的人在哪啊？}}\n{{旁白|我看着他，他看着我。}}\n{{对话|孙策|………………啊？我？}}\n{{对话|我|你是袁术忠心耿耿的爪牙，假意投靠我，被我识破后又来突袭袁绍，不是很合理吗？|头像=广陵王-微笑}}\n{{旁白|我把兵器塞给他，拍了拍他的肩膀。}}\n{{对话|我|上吧，葱花王妃。|头像=广陵王-微笑}}\n{{对话|孙策|成功了同居，失败了同坟！}}\n{{旁白|【郊外】}}\n{{对话|袁氏骑兵|抓住孙策等人！别让他们跑了！|头像=士兵}}\n{{对话|我|孙策，前面没路了，是悬崖！|头像=广陵王-微笑}}\n{{对话|孙策|什么没路？悬崖就是路！我小时候蹦来跳去不知道多少次了！|头像=孙策}}\n{{旁白|事成，袁氏的骑兵追着我们，逐渐接近一处高崖……}}\n{{对话|我|我可没试过在悬崖两头跳……|头像=广陵王-严肃}}\n{{对话|孙策|我抱你跳过去！|头像=孙策}}\n{{对话|我|别闹！重量根本不一样！|头像=广陵王-严肃}}\n{{对话|孙策|你那么轻，别担心！|头像=孙策}}\n{{旁白|眼前已经滔滔江水，怒涛发出轰鸣奔流向前，就连巨石落在水中，都会瞬间被吞噬。}}\n{{对话|孙策|闭上眼睛！抱稳了——|头像=孙策}}\n{{旁白|骏马嘶鸣。月光清冷，倒影身后森寒刀光；江风猎猎呼啸，我突然变得很轻，被他稳稳护在双臂间……}}\n{{旁白|【广陵王府】}}\n{{旁白|袁术被袁绍突袭，不得不退兵的一个月后……}}\n{{对话|侍女|殿下，孙将军让人从江对岸送了点东西来。|头像=宫女}}\n{{对话|我|广陵经历大战，百废待兴，若是金银财物，直接分发给将士们吧。|头像=广陵王-微笑}}\n{{对话|侍女|这次真的只是个小匣子，使者说了，要殿下亲自打开的。|头像=宫女}}\n{{旁白|我接过那个小匣子，难得的轻，看来不是奇怪的金银财宝。}}\n{{对话|我|……哈。|头像=广陵王-惊讶}}\n{{对话|侍女|葱花？孙将军为什么要送一盒葱花过来呀？真奇怪……|头像=宫女}}\n{{旁白|恭喜达成结局【葱花】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头|显示=3}}\n{{对话|我|全力守城。挺过这一波，我们要预备反攻。|头像=广陵王-严肃}}\n{{旁白|【城头】}}\n{{对话|我|袁术军的攻势，比想象中的要弱。|头像=广陵王-严肃}}\n{{对话|孙策|他手下其实没几个真能打仗的，攻城又是个技术活。}}\n{{对话|孙策|但是，我太熟悉这家伙了，他不会轻易退兵的，肯定在憋什么损招。}}\n{{旁白|有一团黑影从空中翩然而下，落在我的肩头，是传递战报的绣云鸢。}}\n{{对话|我|对面的暗桩传消息回来了……被你说中了，他派人在桃娘河上游徘徊，疑似要引水灌城。|头像=广陵王-微笑}}\n{{对话|孙策|不用怕。广陵的地势在这片地方是偏高的，淹不掉。但就是援兵的路被截断了……}}\n{{对话|孙策|看，水过来了。有水，我就有办法……}}\n{{旁白|一片流水从高地流下，渐渐汇聚在广陵四周。守城的士兵也见到了，纷纷慌乱起来。}}\n{{对话|广陵士兵|桃娘河要把广陵淹了！|头像=黑人影}}\n{{对话|广陵尉|不可能！桃娘河是广陵的父母河，绝不会淹了广陵！|头像=帅武将}}\n{{对话|力夫|怎么办……西面都是水，附近都是袁术兵，逃都没地方逃……|头像=屠夫}}\n{{对话|孙策|那是……信鸽？}}\n{{对话|我|是。都是从袁术军方向飞来的信鸽。|头像=广陵王-微笑}}\n{{旁白|随着广陵被河水合围，信鸽群飞向广陵，数百只信鸽落在城中各处，有一只也落在了我的面前……}}\n{{对话|孙策|它腿上绑着什么……啊！}}\n{{对话|我|……是劝降书。|头像=广陵王-严肃}}\n{{对话|广陵士兵|“广陵今已无生路……缚得贼王及孙贼者，赏千金”……呃！！！|头像=黑人影}}\n{{对话|孙策|这种蛊惑人心的玩意竟敢念出来？舌头不想要了？！}}\n{{对话|广陵士兵|将、将军饶命……|头像=黑人影}}\n{{旁白|孙策推开他，随我下了城楼；街上的人们见了我们，神色有几分诡异。}}\n{{旁白|心理|百姓多不识字，但劝降书的内容应该已经传开了……}}\n{{对话|孙策|今夜严加守卫，小心有人动了歪心思。}}\n{{对话|孙氏士兵|少主，若是城中哗变，我们的人数太少了，无法应对。|头像=士兵}}\n{{对话|孙策|又不是没经历过哗变，怕什么？}}\n{{旁白|他让孙氏的亲兵下去安排护卫，带我走到僻静处，确认左右无人……}}\n{{对话|孙策|城中今夜很可能要哗变，你留在外面不安全。}}\n{{对话|孙策|绣衣楼有可以藏身的密室吗？你先进去避一避，我来替你守着。}}\n{{对话|我|你也在劝降书上，我们的处境都一样。|头像=广陵王-摇头}}\n{{对话|孙策|我十二岁就遇见过军队哗变了，轻车熟路，别担心我！}}\n{{对话|我|我是广陵王。若是他们发现我不见了，人心便全散了。|头像=广陵王-严肃}}\n{{对话|孙策|那……你应该有替身吧？}}\n{{对话|我|你知道我为何不用替身吗？|头像=广陵王-摇头}}\n{{旁白|心理|若是替身作为广陵王被当众处死，从此，他们便可说，这世上真的没有广陵王了。}}\n{{旁白|【广陵】}}\n{{旁白|城中申明亭，我扶剑而坐。远处攻城的声响宛如隆隆滚雷，不绝于耳。}}\n{{旁白|——但我必须坐在这。为了让所有人看到我还在，为了稳住人心。}}\n{{对话|士族青年|殿下，城中人心已向袁氏，请殿下献城投降，顺应局势吧！|头像=美型文官}}\n{{对话|我|本王没看出来什么人心所向，继续守城。|头像=广陵王-严肃}}\n{{对话|百姓|我们愿意追随殿下！广陵若是易主，袁术绝不会像殿下一样对待我们！|头像=摊贩}}\n{{对话|文士|愚民！你们懂什么？袁氏四世三公，跟随袁氏才是正道！|头像=文官}}\n{{对话|孙策|那你去跟啊。}}\n{{旁白|孙策拔出战刀，指向城门。}}\n{{对话|孙策|袁术就在城门外。你认他做主人，若是忠心，就该不顾生死地投奔他啊。}}\n{{对话|孙策|嘴上说着要投袁术，身体又一动不敢动，该说你是贱呢还是贱呢？}}\n{{对话|文士|你……你在扬州的暴行，我们都知道！你以为靠威胁就能收服人心的吗？|头像=文官}}\n{{对话|士族青年|广陵王和孙氏为伍，本就是对士族割席！既然如此，士族何必要站在广陵王这边？！|头像=美型文官}}\n{{对话|孙策|我替她问你们一句话，你们是哪边的人？广陵，还是袁氏？}}\n{{对话|孙策|说话！我数到三，若不表态，就视你们是袁氏的内奸，杀无赦！三、二——}}\n{{对话|文士|广……广陵……|头像=文官}}\n{{对话|士族青年|……|头像=美型文官}}\n{{对话|孙策|他表态了，你呢？}}\n{{旁白|士族迫于寒刃，缓缓后退一步。}}\n{{对话|士族青年|……广陵。|头像=美型文官}}\n{{对话|孙策|媚上欺下，贱人。}}\n{{对话|我|你们士族门阀的认知，并不比百姓高。|头像=广陵王-摇头}}\n{{对话|我|百姓尚且知道要追随体恤他们的人，知道要追随仁义，追随“道”，你们却只见一个利字。|头像=广陵王-严肃}}\n{{对话|士族青年|哈，认知？这群人可是连字都不识！|头像=美型文官}}\n{{对话|我|认知的高低，和识字与否无关。|头像=广陵王-严肃}}\n{{对话|我|孙策说得对，媚上欺下，见利忘义，士族的认知不过如此，你们掌握实权，人间才成了乱世。|头像=广陵王-严肃}}\n{{对话|士族青年|广陵王这话真是好笑！从来都是上行下效，汉室成了什么样，下面才成了什么样！|头像=美型文官}}\n{{对话|我|啧啧啧，你看，所以本王才说，你们的认知低得可怜。|头像=广陵王-无语}}\n{{对话|我|你们只见汉室熹微，不见数代幼帝早夭、无力主政，以至于宦官、外戚弄权，军阀四起。|头像=广陵王-严肃}}\n{{对话|我|汉室熹微了，你们便将所有的错推在汉室身上，不是欺下又是什么？！贱、人。|头像=广陵王-严肃}}\n{{对话|士族青年|那又是谁让袁氏成了四世三公，不也是汉室吗？殿下既然以为汉室没错，那袁氏也没错！|头像=美型文官}}\n{{对话|士族青年|府兵，今日广陵士族与这昏王割席！给我杀！|头像=美型文官}}\n{{旁白|士族门阀的府兵白刃出鞘，悉数指向我。}}\n{{对话|我|绣衣楼蛾部、广陵军士听令，刀刃之外，皆是死敌！|头像=广陵王-严肃}}\n{{对话|百姓|帮殿下，杀士族！！！|头像=摊贩}}\n{{旁白|长夜喧嚣，城头火光冲天，长街血流成河。我身穿广陵王袍站在申明亭高台，垂落在地的衣摆吸尽鲜血。}}\n{{旁白|心理|王袍……真是沉重。}}\n{{旁白|饮尽鲜血的华服，沉重得像是铁铸一般。我步下台阶，一只手护在我身前。}}\n{{对话|孙策|你站在高处！下面所有的事情交给我！}}\n{{对话|我|本王和你们站在一起。|头像=广陵王-摇头}}\n{{对话|我|今夜为本王而死的每一个人，本王都会记住他。|头像=广陵王-严肃}}\n{{对话|孙策|我如果为你死了，你就会一辈子记住我？}}\n{{对话|我|会。以后每年寒食节，我都会去你睡着的地方，好好哭半个时辰的。|头像=广陵王-点头}}\n{{对话|孙策|只哭半个时辰？！……算了算了，别伤心过度也好。}}\n{{旁白|他重重握紧了我的手，把我护在身后，刀刃向外杀去——}}\n{{对话|士族青年|看！城楼要塌了！袁术要攻进来了！昏王撑不了太久！！！|头像=美型文官}}\n{{对话|我|所以我说啊，你们士族的认知，太低了。|头像=广陵王-摇头}}\n{{对话|孙策|哈，天天待在豪宅里，已经不知天高地厚了！}}\n{{对话|孙策|和水在一起出现的东西叫什么，你们，知道吗？}}\n{{旁白|下一刻，一个高耸的黑影出现在城外——}}\n{{旁白|它太过高大，笼罩了攻城的军队和城楼；所有人看到它的出现，都目瞪口呆……}}\n{{对话|袁术士兵|那……那是……是……|头像=黑人影}}\n{{对话|孙策|有水的地方，就有船。}}\n{{对话|孙策|江东艨艟，给我撞——}}\n{{旁白|沿着桃娘河水而来的艨艟战船宛如山峦，挟带着千钧之势冲上岸，碾杀城下的袁术军——}}\n{{旁白|【城头】}}\n{{旁白|袁术退兵一个月后……}}\n{{对话|力夫|今天可以把这边的洞都补完吧？|头像=屠夫}}\n{{对话|壮妇|别想了，补不完，被艨艟撞出那——么大一个洞，没塌就算不错了。|头像=平民母亲}}\n{{对话|孙策|怎么还没补完啊……我明明让他们控制力道的！|头像=孙策}}\n{{旁白|袁术撤退，不过，被艨艟撞碎的城墙，怕是还需要些时日来修补……}}\n{{旁白|恭喜达成结局【重负】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|先去清点存粮吧。|头像=广陵王-微笑}}\n{{对话|孙策|咱们要不要先去砍两个士官？存粮计簿肯定有短缺，这群人几乎没有不做假账的。}}\n{{对话|孙策|你不砍他们，等你去查存粮，他们可能直接一把火把粮仓烧了，来个死无对证。}}\n{{对话|我|你看城门下面的是什么？|头像=广陵王-微笑}}\n{{对话|孙策|……啊，插得歪歪斜斜的，还以为是两个稻草人呢！}}\n{{旁白|【广陵】}}\n{{对话|少女|禽兽！滚开！你再敢碰我一下试试？！|头像=平民女}}\n{{对话|男人|现在一片大乱，你叫破喉咙也不会有人来的！啊……你敢砍我？！|头像=屠夫}}\n{{对话|亲卫|殿下在此，不得喧哗！都让开！|头像=帅武将}}\n{{对话|男人|她叔叔收了我一大袋粟，把她卖给我了，她是我买的！|头像=屠夫}}\n{{对话|孙策|都还没开始打呢，就卖儿卖女了？你爹和叔叔呢？}}\n{{对话|少女|没有！是他趁着城中大乱哄抢我家！|头像=平民女}}\n{{对话|孙策|你这边现在是怎么说？}}\n{{对话|我|城中戒严，盗贼行径，一律斩立决。|头像=广陵王-严肃}}\n{{对话|孙策|这么奢侈？不充军？}}\n{{对话|男人|呃……对、对啊，我可以当兵守……呃啊！|头像=屠夫}}\n{{旁白|雪练般的刀光亮起，划过男人的脖颈，鲜血飞溅。}}\n{{对话|孙策|新刀。刀鞘有点卡手，拔刀慢了点。}}\n{{旁白|男人歪倒在地，少女面无惧色，对着他重重踢了两脚。}}\n{{对话|孙策|省点力气啊，明天就开打了。}}\n{{对话|我|城东王母庙收容妇孺，你可前去暂避。|头像=广陵王-微笑}}\n{{对话|少女|我才不怕……我爹从前是丹阳兵，我还帮他把俘虏的人头挂上马鞍！|头像=平民女}}\n{{对话|孙策|哎，你跟我妹妹好像！让她也来守城吧？}}\n{{对话|少女|殿下，我可以的！|头像=平民女}}\n{{对话|我|她不是士兵，没有经过训练。让这些孩子去守城，伤亡太大了。|头像=广陵王-严肃}}\n{{对话|少女|若是城破，苟活性命又有何用？|头像=平民女}}\n{{对话|我|若是无人存活，留一座空城又有何用？|头像=广陵王-摇头}}\n{{旁白|我拍了拍她的头，示意她往东面去。}}\n{{对话|我|去王母庙吧。守城的事交给尉官和士兵。|头像=广陵王-微笑}}\n{{旁白|【绣衣楼】}}\n{{对话|孙策|明天估计西门受创最严重。连夜加固内门，糯米浆固化的时间也来不及……}}\n{{对话|我|无论如何，先死守三天。你那边还有援军吗？|头像=广陵王-严肃}}\n{{对话|孙策|白浪营的中军准备集结渡江，黄盖伯伯也给了我不少人……估计七日。}}\n{{对话|孙策|你在做什么呀？}}\n{{旁白|我拉着一段锦带，在他的刀柄上打了个结。}}\n{{对话|我|给你的旧刀做个标记，免得你拔新刀拔不出来。|头像=广陵王-严肃}}\n{{对话|孙策|好呀好呀，你给我打个大——点的，醒目点的。}}\n{{对话|孙策|对对对，扯大点打个蝴蝶结。}}\n{{对话|我|……你真的要用打着蝴蝶结的刀吗？|头像=广陵王-无语}}\n{{对话|孙策|蝴蝶越大砍人越狠，来，替我铠甲上也打几个。}}\n{{对话|侍卫|孙将军，你走起路来身上好像有一堆扑棱蛾子。|头像=绣衣楼密探}}\n{{对话|孙策|羡慕啊？嫉妒啊？}}\n{{对话|侍卫|殿、殿下！属下也要！|头像=绣衣楼密探}}\n{{对话|我|好，好……|头像=广陵王-无语}}\n{{旁白|我叹了口气，苦笑着替他也扎上。}}\n{{对话|广陵尉|呃，殿下，末将也……|头像=帅武将}}\n{{对话|长矛兵|殿下殿下，我要那个红色的！|头像=士兵}}\n{{对话|盾兵|蓝色的看起来比较稳重，我要蓝色的。|头像=少年}}\n{{对话|孙策|都几岁了！幼稚！}}\n{{对话|盾兵|我十四了！|头像=少年}}\n{{旁白|心理|……才十四岁吗……}}\n{{对话|孙策|我十二岁就上战场啦，你得喊我一声老前辈。}}\n{{对话|盾兵|孙前辈保佑我能活过二十……不，三十！|头像=少年}}\n{{对话|孙策|好，保佑你一路做到左将军！}}\n{{对话|广陵尉|左将军是我！|头像=帅武将}}\n{{对话|孙策|哎呀，那时候你早就封侯了，可以卸甲归田、颐养天年了。}}\n{{对话|我|等广陵尉颐养天年的那天，广陵四方应该也没有战乱了吧。|头像=广陵王-点头}}\n{{对话|孙策|那我要找人建一座跨江的桥，这样来找你就方便多了。}}\n{{对话|盾兵|那我去江东看望姐姐和姐夫也方便多了……|头像=少年}}\n{{对话|斥候|殿下，将军！袁术先锋深夜突袭南门和水门！|头像=绣衣楼密探}}\n{{对话|我|……诸位，各就各位吧。|头像=广陵王-严肃}}\n{{旁白|说笑声停滞了。兵荒马乱的深夜，只有人们拿起各自的兵器、离开庭中的声响。}}\n{{旁白|【广陵】}}\n{{旁白|心理|守城战中，城中极易生乱。那我们要先去……}}\n{{嵌套分歧|头}}\n{{嵌套分歧|武库|1}}\n{{嵌套分歧|粮仓|2}}\n{{嵌套分歧|军医处|3}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|战时武备是重中之重，不可生乱。孙策，我们亲自去驻守武库。|头像=广陵王-严肃}}\n{{旁白|【武库】}}\n{{对话|弓手|凭什么不能修？现在是打仗，我弓角坏了，你不给我修？|头像=黑人影}}\n{{对话|铁匠|这……这就没办法嘛，打仗了物资短缺，没材料我就没法修啊！|头像=屠夫}}\n{{对话|我|为何都围在这？出什么事了？|头像=广陵王-惊讶}}\n{{对话|弓手|殿下，这铁匠本是负责修理武备的，可他推三阻四……|头像=黑人影}}\n{{对话|铁匠|哎哎哎，咱俩有理说理，现在没有能修武备的铁，我也没办法啊！|头像=屠夫}}\n{{旁白|【广陵】}}\n{{对话|孙策|要是有更多的铁就好了，我记得你这有一台游火铁箱，可以把融化的铁水投出去。}}\n{{对话|孙策|一烧一大片，连云梯上包裹的牛皮都能点着。}}\n{{对话|我|铁水泼出去就收不回来了，现在没有这么多铁。|头像=广陵王-摇头}}\n{{旁白|街上气氛紧绷，许多步履匆匆的人来来去去，向各自的目的地赶去。}}\n{{对话|孙策|以前我爹打完仗，也是这样往家里赶。}}\n{{对话|孙策|他总会带回一些有趣的小东西，迫不及待带回来给我们玩。}}\n{{对话|我|有其父必有其子，你带回来的那堆东西，也确实“有趣”。|头像=广陵王-无语}}\n{{对话|孙策|你喜欢，我就……嗯？怎么了？}}\n{{对话|我|嘘，看那……|头像=广陵王-严肃}}\n{{旁白|心理|我们走后，那个铁匠一直在门口张望}}\n{{对话|孙策|……这老东西，肯定有问题。}}\n{{旁白|【武库】}}\n{{对话|盾兵|爹，我回来休息一会儿，家里没事吧？|头像=少年}}\n{{对话|盾兵|我听他们都在说，坏了的武器没法修了，铺子里没铁了吗？可是我记得……|头像=少年}}\n{{对话|铁匠|嘘！广陵那么多铁匠铺子，又不是少了我们一家就停转了。|头像=屠夫}}\n{{对话|铁匠|你也是，打起来的时候小心些，别冲那么前面，装装样子就成了。|头像=屠夫}}\n{{旁白|围墙外，我拉住差点冲出去的孙策，向他摇摇头。}}\n{{对话|铁匠|打来打去，无非换一个人当广陵王，和咱们小老百姓有何关系？那些铁可是我家的老本。|头像=屠夫}}\n{{对话|盾兵|殿下与我们上下一心，我们怎能——|头像=少年}}\n{{对话|铁匠|什么“上下一心”？你是个打铁匠的儿子，他们是世代的王侯，他就是靠你们为他卖命！|头像=屠夫}}\n{{对话|铁匠|你帮他守下广陵，他还能给你个将军？得了吧，战功哪轮得到你？|头像=屠夫}}\n{{对话|孙策|这老头子扰乱军心……}}\n{{对话|我|这才是常态，知道他还有铁就好，大不了再给他加价。|头像=广陵王-摇头}}\n{{对话|孙策|你拨给他的钱都是平时的三倍了……}}\n{{对话|我|那孙将军再支援一点？|头像=广陵王-微笑}}\n{{对话|孙策|给你的给你的！钱嘛，一句话的事。但把钱给这种人，我心里就不爽了！}}\n{{对话|我|不爽也不可说出来……城南有号角声，看来是告急了，我们快去吧，别管那个铁匠了。|头像=广陵王-无语}}\n{{旁白|【城南】}}\n{{对话|孙策|弓箭手退后，刀兵上！}}\n{{对话|我|损失如何？|头像=广陵王-严肃}}\n{{对话|侍卫|亡十七人，伤一十二人。|头像=绣衣楼密探}}\n{{对话|孙策|顶住，无论如何不能正面交接战！城内的兵太少了！}}\n{{对话|广陵尉|有投石！！！躲避！！！|头像=帅武将}}\n{{对话|孙策|呃——|头像=孙策}}\n{{旁白|乱石从城头盖下，地动天摇；他扯过一面皮盾，将我护在下方。}}\n{{对话|孙策|盾碎了……趁第二波投石没有装完，都到低处躲避！|头像=孙策}}\n{{对话|我|孙策，你的右臂……|头像=广陵王-严肃}}\n{{对话|孙策|断了。替我随便扎一扎，之后再找军医……哎，打个蝴蝶结呀。|头像=孙策}}\n{{对话|我|什么时候了还有空纠结这个！|头像=广陵王-无语}}\n{{对话|孙策|好好好不纠结——快跑！第二波来了！|头像=孙策}}\n{{旁白|又是一阵地动山摇，他架着半碎的盾，带我冲往安全的方向。}}\n{{对话|孙策|唔……这下彻底碎了……|头像=孙策}}\n{{对话|我|把右臂护住！|头像=广陵王-生气}}\n{{对话|孙策|反正都断了，无所谓！我再带人去一趟城楼，护送工兵过来。}}\n{{旁白|我们看着他与数名盾兵冲往工兵们暂时躲避的地方，这时，第三波投石从高空坠落——}}\n{{对话|盾兵|呃！！！|头像=少年}}\n{{旁白|一个瘦小的身影顶着破碎的铁盾，迎着那阵石雨而上，护住了身后的人们。}}\n{{旁白|落石巨响之中，铁盾彻底破碎的声音，轻如落叶。}}\n{{旁白|【武库】}}\n{{对话|铁匠|……|头像=屠夫}}\n{{对话|广陵尉|他昨夜听见了儿子的死讯，就这样呆呆坐在门口，一整天没动过了。|头像=帅武将}}\n{{对话|广陵尉|我们找来其他的铁匠替他，他也没有反应……|头像=帅武将}}\n{{对话|我|我知道了……让新来的铁匠尽快修补武备，袁术那边已经快准备好了。|头像=广陵王-微笑}}\n{{对话|广陵尉|云梯又架起来了……末将也看见了。|头像=帅武将}}\n{{旁白|心理|西门那边的号角响了……好像能听见擂鼓声。快开始了吧……}}\n{{旁白|【西门】}}\n{{对话|孙策|棉卷点上火往下丢！水烧沸了就浇下去！|头像=孙策}}\n{{对话|妇兵|把铁桶往下倒！倒完了立刻去接新的沸水！|头像=平民母亲}}\n{{对话|我|孙策，水门的外门被撞木打破了，拨给副将一支火矛兵！|头像=广陵王-生气}}\n{{旁白|箭矢下落如雨，一批士兵阵亡马上有另一批补上。上空的云是灰黄的，和地上的黄沙一个颜色。}}\n{{对话|孙策|我们的人还有多少？！|头像=孙策}}\n{{对话|孙氏士兵|还有三十余人。|头像=士兵}}\n{{对话|孙策|都带铁器派去守水门，拿烧红的矛往外刺！——呃！|头像=孙策}}\n{{旁白|一块投石中的碎石重重打在他右眼上，孙策整个人坠下木梯，摔在下方的尸堆上。}}\n{{旁白|灰黄的云不见了，取而代之的，是遮天蔽地的黑色石影……}}\n{{对话|我|孙策，孙策！抓住我！|头像=广陵王-生气}}\n{{对话|孙策|……蝴蝶……蝴蝶变成……红色了……|头像=孙策}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{旁白|地上，有很多湿漉漉的、红色的……“蝴蝶”。}}\n{{旁白|好像黑色石雨后，满地逶迤的红蝶。}}\n{{对话|孙策|……地上……是不是在震？|头像=孙策}}\n{{对话|孙策|我看不清东西，那是什么的影子……|头像=孙策}}\n{{对话|我|那个影子……|头像=广陵王-惊讶}}\n{{旁白|巨大的器械，正被一个身影缓缓推过长街。灰石从上面簌簌落下，代表它在武库里尘封的年岁……}}\n{{对话|我|是……游火铁箱？|头像=广陵王-惊讶}}\n{{对话|铁匠|啊啊啊……啊——|头像=屠夫}}\n{{对话|妇兵|我来帮你！|头像=平民母亲}}\n{{对话|侍卫|来帮他一起推！！！|头像=绣衣楼密探}}\n{{旁白|游火铁箱边汇聚的人越来越多，众人合力将巨大的器械推向城门。}}\n{{旁白|铁匠攀上车上云梯，拉动铁索，游火铁箱发出隆隆巨响。巨箱向下打开，涌出的，是赤红的铁浆——}}\n{{旁白|敌军、云梯……铁水泼溅之处无一幸免。四周弥漫着一股焦糊味道，随惨叫声一同浮起。}}\n{{对话|铁匠|这是……是我们家所有的铁了……|头像=屠夫}}\n{{对话|铁匠|广陵！这是我给你所有的铁了——|头像=屠夫}}\n{{旁白|无数支箭簇落在他的身上，他坠落下去，落入城下的漫漫烟尘……}}\n{{旁白|【城郊】}}\n{{旁白|一个月后……}}\n{{对话|孙策|是那边吗？}}\n{{对话|孙氏士兵|不是，是另一头吧？|头像=士兵}}\n{{对话|我|我记得是中间？|头像=广陵王-微笑}}\n{{旁白|战事结束后的某日，我们出城祭拜。孙策围着山坡找了一圈，没找到他给江东士兵做的标记。}}\n{{对话|孙策|我记得让你给兄弟们睡觉的地方扎了标记啊。}}\n{{对话|孙氏士兵|雨打风吹的，可能丢了吧……哎呦！|头像=士兵}}\n{{对话|孙策|这都能丢？！让你扎紧点的！这下回去怎么和他们家眷交代？}}\n{{对话|我|好了好了，别吵到人家。就一起拜了吧。|头像=广陵王-摇头}}\n{{对话|孙策|可别连袁氏的人一起拜了……}}\n{{对话|我|你啊……|头像=广陵王-无语}}\n{{旁白|我带着他们放下祭品和香炉。春风吹拂青绿山坡，无数白色的蝴蝶飞舞而出，散入春色……}}\n{{旁白|恭喜达成结局【游火】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头|显示=2}}\n{{对话|我|我们去粮仓，防止出事。|头像=广陵王-严肃}}\n{{对话|广陵尉|昨晚的伤亡都记在计簿里了。然后是城墙和外门的破损……|头像=帅武将}}\n{{对话|我|昨晚我带人重新清点了存粮，大概还有三十日左右。|头像=广陵王-严肃}}\n{{对话|孙策|啊……对，三十日。}}\n{{对话|我|把粮食分好，按每日严格分配。不必担心。|头像=广陵王-微笑}}\n{{旁白|广陵尉离去后，他挨到我身边。}}\n{{对话|孙策|只有十日的量了，得想办法……}}\n{{对话|我|我在东门外设法开辟后勤粮道，但袁术也意识到了，这几天都在派轻骑试探。|头像=广陵王-阴沉}}\n{{对话|孙策|我是这样想的，我以兵换兵，让程将军那边出精锐骑兵，强行冲一条道出来。}}\n{{对话|我|时间？|头像=广陵王-挑眉}}\n{{对话|孙策|用快船分批运人，马匹问东海借，最快十四天就能到。}}\n{{对话|我|要差四天…只要饿到第三天，整座城就会垮掉。|头像=广陵王-阴沉}}\n{{旁白|广陵尉正和工官在调度粮食，百姓相信食物还很充足，民心安定，脸上并无多少阴霾。}}\n{{对话|孙策|我说，要是这次我们把广陵守下来，要不要一起联手给袁术打回去？}}\n{{对话|我|以后再说。|头像=广陵王-摇头}}\n{{对话|孙策|哼……每次你说“以后再说”，就没有以后了。}}\n{{对话|我|以后，就是指合适的时候，只要我还在，我的许诺永远有效。|头像=广陵王-无语}}\n{{对话|我|还是你很着急我履约，然后离开我？|头像=广陵王-严肃}}\n{{对话|孙策|不是这个意思……啊，我明白了！}}\n{{对话|孙策|你也想跟我长长久久在一起，所以才会做一个很长的约定？}}\n{{对话|孙策|嘿嘿，我还以为，只有我一个人在想我们的以后……}}\n{{对话|我|……真是弄不懂，你到底是想太少还是想太多。|头像=广陵王-摇头}}\n{{对话|孙策|不管我想多想少，每次都是你想得太多，总把我当成坏人。}}\n{{对话|我|你不坏吗？要按手上的人命来算，地宫往下挖十八层都找不到你的名字。|头像=广陵王-微笑}}\n{{旁白|孙策望着我，忍不住笑了。}}\n{{对话|孙策|那就再挖十八层。}}\n{{对话|孙策|只要你在上面，我的名字就算埋在一百八十层，都会爬上来找你的。}}\n{{对话|侍卫|站住！小贼往哪里跑！|头像=绣衣楼密探}}\n{{对话|孩子的叫声|啊！放开我！}}\n{{旁白|侍卫拎着一个挣扎不已的孩童，从民居中步出。}}\n{{对话|老妇人|就是她！这个小贼偷了我的米袋！|头像=老年女}}\n{{对话|壮汉|她昨日还钻狗洞进来，偷了我的胡饼！|头像=屠夫}}\n{{对话|侍卫|这么小，竟是个惯盗……啊，见过殿下，见过将军。属下抓到一个小贼，如何处置？|头像=绣衣楼密探}}\n{{对话|孙策|戒严时期一切从严！惯盗还被抓现行，长几颗脑袋？}}\n{{对话|病弱妇人|将军，求你放过我的定儿！她都是为了我！|头像=路人母亲}}\n{{对话|侍卫|松手！军令如山，无论老幼！她犯了罪就该伏法！|头像=绣衣楼密探}}\n{{对话|病弱妇人|那我替她死！她父亲走得早，无人教养，她不懂道理……|头像=路人母亲}}\n{{对话|孙策|……那个，你怎么想？}}\n{{对话|我|年幼而孤，念在她还不懂事，罚她舂米一日。|头像=广陵王-摇头}}\n{{旁白|【广陵王府】}}\n{{对话|我|……唔……什么动静……|头像=广陵王-严肃}}\n{{对话|我|…………你要去哪？|头像=广陵王-严肃}}\n{{对话|孙策|把你弄醒啦？我想到白天的事，有点睡不着……}}\n{{对话|我|……很晚了，孙策。|头像=广陵王-严肃}}\n{{对话|孙策|我是不是有点矫情啊？这世上没了爹的孩子多了去了……但我睡不着。}}\n{{旁白|我叹了口气，无奈地披衣坐起，陪他去找那个孩子。}}\n{{旁白|【广陵】}}\n{{对话|定儿|娘，你好些了吗？|头像=路人小孩}}\n{{对话|病弱妇人|……娘就是……担心你。城里兵荒马乱的，你还乱跑……咳咳……|头像=路人母亲}}\n{{旁白|定儿替母亲拍着背，突然看见了窗外的我们，愣住了。}}\n{{对话|病弱妇人|定儿，怎么了？|头像=路人母亲}}\n{{对话|定儿|……没、没什么！|头像=路人小孩}}\n{{旁白|她接住孙策抛进去的米袋，小心翼翼藏到角落里。}}\n{{对话|孙策|你要笑就笑吧……}}\n{{对话|我|你……是不是想孙坚将军了？|头像=广陵王-严肃}}\n{{对话|孙策|不知怎么的，那天的情景，回想起来的时候，感觉很模糊……}}\n{{对话|孙策|父亲当年离开前，拉着我们俩的手，说………………}}\n{{对话|孙策|…………}}\n{{对话|孙策|……哎呀！战时不想这个！忘掉忘掉！三二一……忘掉了！}}\n{{旁白|他拍着自己的脑袋，长长舒了口气。}}\n{{对话|孙策|你再等等，只要再过十四天……不，十三天，援军就会到了。}}\n{{对话|我|其实护运粮草的兵力并不少，只是城门处的袁术兵力太盛，无法靠近。|头像=广陵王-严肃}}\n{{对话|我|原本只要把粮食从出城密道运进来就可以，但密道被投石毁了。|头像=广陵王-严肃}}\n{{对话|孙策|没有其他路吗？}}\n{{对话|我|你看那，那边是水门方向，水下有条暗渠，从那里下去，可以通向外面。|头像=广陵王-严肃}}\n{{对话|我|但是出入口实在太窄。我们找了身形最瘦的密探，只能过去一个头，肩膀都会卡住。|头像=广陵王-摇头}}\n{{旁白|孙策在自己身上比划了一下。}}\n{{对话|孙策|只能是孩子体型……但要让一个孩子穿过外面游荡的乱军，实在太难了。}}\n{{对话|我|这个暗渠的出口很隐蔽，周围也无甚标记，靠心纸君传信很难说清。|头像=广陵王-严肃}}\n{{对话|孙策|明明只要一个人出去和运粮辎重接头，再把他们带到暗渠出入口，让粮食顺水飘进来就行……}}\n{{对话|孙策|侏儒呢？城中有这样的人吗？}}\n{{对话|我|没有找到。就算有，对方也不一定愿意站出来冒险……谁在那？！|头像=广陵王-摇头}}\n{{旁白|附近院墙旁似乎有什么东西动了一下，不知是人还是猫。}}\n{{旁白|【西门】}}\n{{对话|孙策|小心投石车！盾兵顶上去！}}\n{{对话|我|工兵队呢？|头像=广陵王-严肃}}\n{{对话|广陵尉|被埋了！我让第二支工兵队出动！|头像=帅武将}}\n{{对话|妇兵|往下刺！别让他们上云梯！火油呢？！|头像=平民母亲}}\n{{旁白|从清晨开始的攻城，已经持续到了中午。}}\n{{对话|我|攻势弱了……他们是要退了吗？|头像=广陵王-惊讶}}\n{{对话|孙策|不是！我听见撞木车的声音了！}}\n{{对话|孙策|都从城头下来！是撞——呃！！！}}\n{{旁白|一时地动天摇，巨大的撞木开始撞击城门——}}\n{{旁白|全城都能听见巨响，人们四散奔逃。一片混乱中，一道熟悉的哭喊声穿过人群……}}\n{{对话|病弱妇人|定儿……定儿你在哪？！定儿！！！|头像=路人母亲}}\n{{旁白|沙尘弥漫，他们的身影渐渐模糊不清……}}\n{{对话|广陵尉|殿下，暗渠那边有东西飘了进来！是粮食！|头像=帅武将}}\n{{旁白|——有人和辎重接应上了。}}\n{{旁白|【广陵王府】}}\n{{旁白|一个月后……}}\n{{对话|定儿|再玩一次！再玩一次！|头像=路人小孩}}\n{{对话|孙策|好！嘿啉！}}\n{{对话|定儿|哈哈哈……还不够高！……哎呦！伤口裂开了！|头像=路人小孩}}\n{{旁白|在援军抵达、袁术退兵后，广陵已在缓缓地恢复生息。}}\n{{对话|孙策|裂开就裂开，你胆大包天，伤口裂了算啥？}}\n{{对话|我|别闹了，快让医师看看。人家可算是孙府的小女公子了。|头像=广陵王-无语}}\n{{对话|定儿|嘿嘿！孙将军亲口答应的，我如果扛过去，就认我做义妹！|头像=路人小孩}}\n{{对话|我|你穿过乱军的时候，身上中了两箭，你母亲差点哭瞎了。好好休息，早点养好伤。|头像=广陵王-摇头}}\n{{对话|定儿|避命！孙将军，再玩一次抛高高！|头像=路人小孩}}\n{{对话|孙策|这次我把你抛到屋顶上！嘿！}}\n{{旁白|我苦笑一声，无奈摇头……}}\n{{旁白|恭喜达成结局【孤胆】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头|显示=3}}\n{{对话|我|我得去军医那里。药品的储备似乎短缺很大。|头像=广陵王-微笑}}\n{{对话|军医|情况就是这样……城中的伤药、丸药储备都有短缺，草药也运不进来。|头像=男文人}}\n{{对话|我|有其他的土方法吗？|头像=广陵王-微笑}}\n{{旁白|军医无奈摇头，指了指左边——一堆伤员跪在王母像面前，求神明保佑。}}\n{{对话|军医|都说了喝符水没用，但病急乱投医，他们都顾不上了。|头像=男文人}}\n{{旁白|【王母庙外】}}\n{{旁白|回去的途中，我们路过了王母庙。拜神的人挤满了院中，庙里传来嘈杂的祈求声。}}\n{{对话|孙策|祈福要是有用的话，要士卒干嘛。人定胜天，我才不求这些木雕泥塑呢。}}\n{{旁白|我们正说着话，一个人影突然撞到了孙策身边。这个人浑然不觉，还在喃喃自语。}}\n{{对话|妇人|王母……求你救救我的孩子……求你救救他……|头像=平民母亲}}\n{{对话|孙策|你的孩子受伤了？……是外伤，得要用药。}}\n{{对话|妇人|药？……没有药了……求求王母……求求王母……|头像=平民母亲}}\n{{旁白|她抱着昏迷的孩子，试图挤进人群。}}\n{{对话|我|他的肩背，是被投石砸伤的……敷金疮药试试吧，我这里有一瓶。|头像=广陵王-微笑}}\n{{旁白|我把药给了她，妇人接过瓷瓶，神色怔怔的，好像还在梦里似的。}}\n{{旁白|【广陵王府】}}\n{{旁白|回到王府，他还在聊刚才的女人。}}\n{{对话|孙策|她浑浑噩噩的。给她药的人是你，她说不定还在拜西王母……}}\n{{对话|孙策|不如直接拜你。你往神台上一坐，比王母还灵验。}}\n{{对话|我|他们愿意找王母做安慰，也是一件好事，总比拜些奇怪的东西要好。|头像=广陵王-微笑}}\n{{对话|孙策|有道理，我应该让江东士族也相信王母能帮他们。}}\n{{对话|孙策|这样他们就不会整天搞事了，会直接睡在王母庙里，早晚磕头求老天把我收了。}}\n{{旁白|今夜的突袭结束了，伤亡尚在预料之中。}}\n{{旁白|王府的院子借给军医收治伤员，哀鸣整夜，我一夜未眠。}}\n{{旁白|【书房】}}\n{{对话|我|城中出现了瘈疭？|头像=广陵王-惊讶}}\n{{对话|军医|对，孙将军应该知道……金疮瘈疭。|头像=男文人}}\n{{对话|孙策|战时军中常见的疮病，很凶险的，天越热，这种伤病越多。}}\n{{对话|我|……有可能变成瘟疫吗？|头像=广陵王-严肃}}\n{{对话|军医|再蔓延下去，就说不准了。城中药品告竭，情况……真的越来越差。|头像=男文人}}\n{{旁白|三日后，广陵的药品告竭。城中出现金疮瘈疭，伤亡越来越多。}}\n{{旁白|军医退下了。待室内安静下来，我长长松了一口气……}}\n{{对话|孙策|你怎么样？还坚持得住吗？}}\n{{对话|我|……别说出去，不能让人知道……呃……|头像=广陵王-阴沉}}\n{{旁白|我臂上的纱布一圈一圈地褪下，露出血肉模糊的伤口，是流矢造成的箭伤。}}\n{{对话|孙策|如果还有金疮药……}}\n{{对话|我|没有“如果”。那天的我，总是会把药给她的……换做是你，你也会。|头像=广陵王-摇头}}\n{{对话|孙策|我会是因为我没脑子，你会是因为……因为什么？}}\n{{对话|我|……因为她是广陵的百姓。|头像=广陵王-严肃}}\n{{对话|我|……她也想活在更好的地方，但是我没做到……我欠了所有人。|头像=广陵王-阴沉}}\n{{旁白|【广陵】}}\n{{旁白|第七日，暴雨。}}\n{{旁白|今夜的攻城战格外惨烈，暴雨连夜，本就残破的城楼在加速崩塌。}}\n{{对话|孙策|带人撤回巷中准备交接战！孙氏的人护送她回去！}}\n{{对话|孙氏士兵|少主，你怎么办？|头像=士兵}}\n{{对话|孙策|我用不着担心，尽快护送她回去，然后过来支援！}}\n{{对话|我|……我没事……|头像=广陵王-摇头}}\n{{对话|我|……我还能……继续守着……我不能往后退……|头像=广陵王-严肃}}\n{{旁白|暴雨中，投石不断轰击城楼的巨响震耳欲聋；孙策扳住我的双肩，眼神在雨中坚韧如刀。}}\n{{对话|孙策|没有命就什么都没有了。}}\n{{对话|孙策|他们可以不畏死，我可以不畏死，因为我们是武人，是用命换战功的。你不是。}}\n{{对话|我|我不能丢下你们……|头像=广陵王-摇头}}\n{{对话|孙策|……哈，我们的命啊，就是用来……丢来丢去的！}}\n{{对话|孙策|我来这之前就已经想好了，我可以为你死。只要能让你活下去，我什么都愿意做。}}\n{{对话|孙策|把她护送回去，立刻！}}\n{{对话|孙氏士兵|是！|头像=士兵}}\n{{对话|我|孙策……|头像=广陵王-阴沉}}\n{{对话|孙策|还等什么？快！}}\n{{对话|孙氏士兵|殿下不要乱动了，殿下伤得太重，真的不能再硬撑了！|头像=士兵}}\n{{对话|我|孙策！！！|头像=广陵王-生气}}\n{{旁白|数名士兵将我护在中间，带离前线；雨夜中，孙策的身影越来越远……}}\n{{旁白|【广陵王府】}}\n{{对话|我|啊啊啊！！！|头像=广陵王-难受}}\n{{对话|军医|按住殿下！殿下，失礼了，我知道这很痛，但是必须把腐肉切掉！|头像=男文人}}\n{{对话|我|啊！！！啊！！！|头像=广陵王-难受}}\n{{对话|军医|咬着布，别咬到舌头……孙将军呢？孙将军今夜在哪？|头像=男文人}}\n{{对话|侍卫|孙将军昨夜想杀出城，去抢敌方的军医辎重，也受了伤……|头像=绣衣楼密探}}\n{{对话|侍卫|刚才有夜袭，他强撑着带人去守水门了。|头像=绣衣楼密探}}\n{{对话|我|……呼……呼……|头像=广陵王-难受}}\n{{对话|军医|殿下的伤口发炎了，烧得很严重，再这样下去……|头像=男文人}}\n{{旁白|心理|……他们在……说什么……}}\n{{旁白|心理|…………………………}}\n{{旁白|心理|已经……听不清了……}}\n{{旁白|【不明之地】}}\n{{对话|我|……|头像=广陵王-阴沉}}\n{{旁白|不知昏睡多久。不知今夕何夕。}}\n{{旁白|黑暗中，仿佛听见了孙策的声音……}}\n{{对话|孙策|……我回来了……}}\n{{对话|我|…………|头像=广陵王-微笑}}\n{{旁白|心理|……我……在哪……他……把我带去哪里了……}}\n{{对话|孙策|求你了……}}\n{{对话|孙策|求你了……不要死……求你了……我什么都愿意……求你不要死……}}\n{{旁白|雪亮的电光闪过，照亮了高处神像的慈悲面容……}}\n{{旁白|我被他裹在温暖的毯子里。他紧拥着我，跪拜在王母座下。}}\n{{对话|孙策|……我这一生，不曾信过你……}}\n{{对话|孙策|我求你救她……只要你能救她，我便拿所有的寿数供奉你……}}\n{{旁白|我躺在王母神像座下，高耸的神像，替我挡去雨水。}}\n{{旁白|孙策跪在座前，双手奉着战刀，向王母跪拜下去……}}\n{{对话|孙策|杀人者孙策，犯过口业杀戮，屡教不改……今夜自知罪孽深重，乞求王母显灵……}}\n{{对话|孙策|…………求你显灵…………求你显灵啊……显灵啊……}}\n{{对话|孙策|显灵啊！！！那么多人拜你，你不是神吗？！显灵啊！！！}}\n{{对话|我|………………孙……策…………|头像=广陵王-阴沉}}\n{{对话|孙策|我没有办法了……我想救你，你不要死，求求你不要死……}}\n{{旁白|雨水下，雷光照亮他满是泪水的脸。他的声音被哭声卷得支离破碎，像是一地的碎刃。}}\n{{对话|孙策|对不起……对不起，是我没有用……对不起……}}\n{{旁白|他丢开刀紧紧抱住我，嚎啕大哭。}}\n{{对话|孙策|我从没拜过神，我这样拜是不是没有用……王母不帮我……是我害了你……|头像=孙策}}\n{{旁白|越过他的肩膀，我看见雨中有一个模糊的瘦削人影……她是那么瘦弱，仿佛梦境中的幻影。}}\n{{对话|妇人|…………请拿着这个。|头像=平民母亲}}\n{{对话|孙策|这是……金疮药？|头像=孙策}}\n{{对话|孙策|你不是拿去给你孩子用了吗？为什么……|头像=孙策}}\n{{对话|妇人|……他走了，药没有用完。|头像=平民母亲}}\n{{对话|妇人|他最后说，让我来谢谢你们。我来了。给二位磕个头，我就也要走了。|头像=平民母亲}}\n{{旁白|暴雨声声，她无声无息消失于夜色。随后，雨停了。}}\n{{旁白|雨水流过王母的脸庞，汇聚在眼下，宛如泪痕；远方，传来了悠远的号角……}}\n{{对话|广陵尉|援军到了！东阳和江东的援军到了！|头像=帅武将}}\n{{旁白|恭喜达成结局【拜神】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n[[分类:活动剧情]]\n[[分类:鸢记]]"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_gongsunzan_1",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "公孙瓒",
+    "source_story": null,
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": "幽州",
+    "text": "白马将军驻守幽州边塞多年，与乌桓骑兵反复交锋。朝中有人上书弹劾他拥兵自重、杀良冒功。传旨使者来到军营，宣读罢免诏书。将士们怒目而视，只等一声令下。你——",
+    "options": [
+      {
+        "label": "A",
+        "text": "接旨谢恩，交出兵权，回京自证清白。",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "当场翻脸，把使者赶出去，与朝廷决裂。",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "表面接旨，暗中联络旧部，伺机东山再起。",
+        "scores": {
+          "S7": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这个场景来自公孙瓒的幽州线——白马将军的性格刚烈直率，但锋芒太露往往招致杀身之祸。"
+  }
+]

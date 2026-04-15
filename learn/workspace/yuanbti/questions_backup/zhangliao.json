@@ -1,0 +1,940 @@
+[
+  {
+    "id": "q_zhangliao_01",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "西凉炮仗",
+    "route_hint": null,
+    "city_hint": "西凉",
+    "text": "「想变成狐狸围脖吗？！要不是看在你是我最大的军功我今天就扒了你的皮！」张辽说话方式的特点？",
+    "options": [
+      {
+        "label": "A",
+        "text": "嘴太臭了，从中可以看出他的真实想法",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "越在乎的人说话越难听，值得深思",
+        "scores": {
+          "S7": 5,
+          "S8": 4,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "真的讨厌对方，这说明了一些问题",
+        "scores": {
+          "S7": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张辽——把温度藏在暴骂和行动里。"
+  },
+  {
+    "id": "q_zhangliao_02",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "雁门托付",
+    "route_hint": null,
+    "city_hint": "雁门",
+    "text": "「回……带她的骨骸……回去……西凉的孩子……不能死在没有太阳的地方……」濒死时的牵挂说明了什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的很爱阿蝉，这说明了一些问题",
+        "scores": {
+          "S8": 4,
+          "S2": 3.5,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "西凉老父亲唯一的软肋",
+        "scores": {
+          "S8": 5,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在交代后事，这说明了一些问题",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——濒死时终于不再骂人，露出了最柔软的东西。"
+  },
+  {
+    "id": "q_zhangliao_03",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "不赌原则",
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「我们武将把命押在马背上，不是让你们拿去赌的。」张辽的底线？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太固执进任何人的劝",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "铁血不赌——在人人都",
+        "scores": {
+          "S6": 2,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "军人特有的原则感",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽的底线——不能拿武将的命去赌。"
+  },
+  {
+    "id": "q_zhangliao_04",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "骑兵指挥",
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「左右分阵，避开正面！」「重骑兵速度不够，我们应该能甩——」张辽的行动风格？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，展现出色的军事素养",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "骑兵指挥官人格——快",
+        "scores": {
+          "S5": 4,
+          "S6": 3.5,
+          "S10": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "，行动缺少深思熟虑",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——宁可做错也不站着不动。"
+  },
+  {
+    "id": "q_zhangliao_05",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "边市谈判",
+    "route_hint": null,
+    "city_hint": "边市",
+    "text": "「十日之内凑齐十万人，我就是你心善的文远叔叔；凑不齐，我就是把你剥皮抽筋的鬼。」张辽的商业逻辑？",
+    "options": [
+      {
+        "label": "A",
+        "text": "很会做生意，这说明了一些问题",
+        "scores": {
+          "S3": 3.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "军火商人——用武力做，值得深思",
+        "scores": {
+          "S3": 4,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在吓唬人，从中可以看出他的真",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——从军火生意做到三方利润谈判。"
+  },
+  {
+    "id": "q_zhangliao_06",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "嘴硬否认",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「没有哼！！！」否认不舍离开广陵王。这层面具？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太明显了谁都能看穿，值得深思",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "薄到所有人都能看穿但还是要说",
+        "scores": {
+          "S4": 3,
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "真的不在乎，这说明了一些问题",
+        "scores": {
+          "S4": 2,
+          "S6": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张辽——骂骂咧咧即全部。"
+  },
+  {
+    "id": "q_zhangliao_07",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "对吕布暴怒",
+    "route_hint": null,
+    "city_hint": "下邳",
+    "text": "「你有管过她吗？你有喂她吃过一口饭吗！」对吕奉先直接掀桌，张辽对权力的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "以下犯上，从中可以看出他的真",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "敬而不媚——认军令敬，值得深思",
+        "scores": {
+          "S9": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "真的生气了，这说明了一些问题",
+        "scores": {
+          "S9": 4,
+          "S4": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张辽——对权力保持清醒的距离。"
+  },
+  {
+    "id": "q_zhangliao_08",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "骑兵战术",
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「骑兵对战的本质就是对冲，谁的战马更快更高大、更快稳住身形调转马头，开始第二波冲锋，谁就能胜。」张辽的秩序感？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，展现出色的军事素养",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "军人本分——军事化的",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在炫耀展示自己",
+        "scores": {
+          "S10": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——军人本分的秩序感。"
+  },
+  {
+    "id": "q_zhangliao_09",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "管小孩吃饭",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「小孩子吃饭别挑食。」对广陵王的关心方式是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，关心方式过于直接",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "西凉老父亲的唯一温柔方式",
+        "scores": {
+          "S2": 3.5,
+          "S8": 3,
+          "S7": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "，把对方当小孩看",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——不会说我在乎你，只会说小孩子吃饭别挑食。"
+  },
+  {
+    "id": "q_zhangliao_10",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「话里包着话的结果很可能是脑袋被包进自己肚子里。」一个人说话不绕弯子。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太直了容易得罪人",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直来直去的军人性格",
+        "scores": {
+          "S1": 2.5,
+          "S9": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在警告对方，",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——把所有情绪写在脸上的军人。"
+  },
+  {
+    "id": "q_zhangliao_11",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「起来！醒了就别赖在拉车上！」行动风格粗暴但有效。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太凶了，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "典型骑兵指挥官——没，值得深思",
+        "scores": {
+          "S5": 4,
+          "S9": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在发泄情绪，这说明了一些问题",
+        "scores": {
+          "S5": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张辽——遇到问题直接动手解决。"
+  },
+  {
+    "id": "q_zhangliao_12",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "一个人宁可独自借粮、宁可分道扬镳也不愿跟着军阀豪赌。你觉得这个人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太固执进任何人的劝",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "底线很硬——一旦触碰",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "，坚守自己的底线",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——底线弹性极低，但阿蝉是唯一的例外。"
+  },
+  {
+    "id": "q_zhangliao_13",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "阿蝉托付",
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「拜托你了……阿蝉……喜欢晒太阳……带她回北方……」张辽将最珍视的人托付给他人时，是怎样的状态？",
+    "options": [
+      {
+        "label": "A",
+        "text": "强忍悲痛，用命令的语气掩饰请求",
+        "scores": {
+          "S8": 4,
+          "S4": 3.5,
+          "S7": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "放下所有伪装，第一次露出哀求的样子",
+        "scores": {
+          "S8": 5,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "冷静安排后事，尽量不动声色",
+        "scores": {
+          "S8": 3,
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——一个从不求人的人，为你托付了全部的柔软。"
+  },
+  {
+    "id": "q_zhangliao_14",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "严舆判断",
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「严舆看似莽夫，实际多疑，我倒戈太快，他不可能不怀疑。」张辽对局势的判断体现了什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直觉敏锐但不善布局，靠本能行事",
+        "scores": {
+          "S1": 2.5,
+          "S5": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "粗中有细，能看穿表象下的暗流",
+        "scores": {
+          "S1": 3.5,
+          "S10": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "经验丰富，从实战中磨出来的判断力",
+        "scores": {
+          "S1": 3,
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——粗中有细的骑兵将领，判断力来自无数次生死考验。"
+  },
+  {
+    "id": "q_zhangliao_15",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "灭口决断",
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「灭口还要理由吗？我现在想把你们统统灭口，回三辅投奔马腾。」面临暴露风险时，张辽的反应是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻动了杀心，行动快过思考",
+        "scores": {
+          "S5": 5,
+          "S7": 4,
+          "S6": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "嘴上说得狠，实际还在权衡利弊",
+        "scores": {
+          "S5": 3.5,
+          "S1": 3,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "冷静评估后选择最优撤退方案",
+        "scores": {
+          "S5": 3,
+          "S1": 2.5,
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——危险来临时，第一反应永远是行动而非犹豫。"
+  },
+  {
+    "id": "q_zhangliao_16",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "春秋大梦",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「乖，继续做你的春秋大梦吧，死孩子。」用嘲讽掩饰关心。这种面具的厚度如何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "薄如蝉翼，每个字都在说反话",
+        "scores": {
+          "S4": 2,
+          "S8": 3.5,
+          "S7": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "中等厚度，习惯性用攻击性语言包裹善意",
+        "scores": {
+          "S4": 3,
+          "S8": 3,
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "厚到连自己都信了，确实只是在嘲讽",
+        "scores": {
+          "S4": 4,
+          "S8": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张辽——骂你死孩子，是因为怕你真的出事。"
+  },
+  {
+    "id": "q_zhangliao_17",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张辽",
+    "source_story": "不理解安逸",
+    "route_hint": null,
+    "city_hint": "关中",
+    "text": "「……我真的弄不懂你们……明明只要待在温暖的府邸里就好，明明只要……待在锦衣玉食里就好……」张辽说这话时的情感是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "羡慕却不承认，用不解来掩饰向往",
+        "scores": {
+          "S2": 4,
+          "S4": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "真心困惑，他的人生里没有安逸这个选项",
+        "scores": {
+          "S2": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在讽刺养尊处优的人不懂疾苦",
+        "scores": {
+          "S2": 2,
+          "S7": 3.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张辽——不是不懂安逸，是觉得那不属于自己的世界。"
+  },
+  {
+    "id": "q_zhangliao_18",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我不想孤注一掷，所以我才来了关中。我到了关中，才发现这里都是疯子。」面对一群赌徒般的同僚，你的立场是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "跟着赌一把，乱世中不冒险就没有出路",
+        "scores": {
+          "S6": 2,
+          "S5": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "守住自己的节奏，赌徒迟早会输光一切",
+        "scores": {
+          "S6": 4,
+          "S10": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "表面配合实则留后路，不拒绝也不投入",
+        "scores": {
+          "S6": 3,
+          "S1": 3.5,
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这话来自张辽——在全是赌徒的关中，他是唯一清醒的人。"
+  },
+  {
+    "id": "q_zhangliao_19",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「次次都这样说！你把这孩子捡回来，有管过她吗？你有喂她吃过一口饭吗！」面对上位者的失职，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "当面质问，该骂就骂，管他是谁",
+        "scores": {
+          "S9": 4,
+          "S7": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "忍住怒气，私下找机会委婉提醒",
+        "scores": {
+          "S9": 2,
+          "S4": 3,
+          "S1": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "先替上位者解决问题，之后再算账",
+        "scores": {
+          "S9": 3,
+          "S5": 3.5,
+          "S10": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽对吕布说这话——在场的所有人都愣住了。"
+  },
+  {
+    "id": "q_zhangliao_20",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「三方平分边市的利润？这跟原来谈的数额差异有点大。」作为谈判者，面对临时变卦你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "当场翻脸，不守规矩就别谈了",
+        "scores": {
+          "S3": 2,
+          "S7": 4,
+          "S6": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "重新算账，用数字把对方逼回原价",
+        "scores": {
+          "S3": 4,
+          "S1": 3,
+          "S10": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "先稳住局面，暗地里找其他买家",
+        "scores": {
+          "S3": 3,
+          "S1": 3.5,
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽在边市谈判中展现了军人少有的商业头脑。"
+  },
+  {
+    "id": "q_zhangliao_21",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你是绣衣楼新来的密探，张辽负责带你熟悉军务。第一天他就说：「重骑兵需要生铁补铠甲，经过黄金市集的时候，去找突加喀速的家族。」你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻记下所有细节，不懂就问清楚",
+        "scores": {
+          "S10": 4,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先大略记住，到了地方再随机应变",
+        "scores": {
+          "S10": 2.5,
+          "S5": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "暗中记下但不动声色，回去整理成册",
+        "scores": {
+          "S10": 3.5,
+          "S1": 3,
+          "S4": 2.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张辽带新人的方式——上来就是实战，不给你适应的时间。"
+  },
+  {
+    "id": "q_zhangliao_22",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "在绣衣楼的饭桌上，张辽对你说：「吃饭时候不能说话，大人没教过你吗？没教养。」你的反应是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "低头闭嘴乖乖吃饭，不跟他顶嘴",
+        "scores": {
+          "S7": 2,
+          "S9": 3,
+          "S10": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "回一句'你也没教过我啊'，当面怼回去",
+        "scores": {
+          "S7": 4,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "笑一笑继续吃，知道他是关心才啰嗦",
+        "scores": {
+          "S7": 3,
+          "S8": 3.5,
+          "S4": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张辽——骂你没教养的方式，就是最笨拙的关心。"
+  },
+  {
+    "id": "q_zhangliao_23",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": "张辽",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「乖，继续做你的春秋大梦吧，死孩子。」",
+        "scores": {
+          "S8": 3.5,
+          "S7": 3.5,
+          "S4": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「保住了命，还不道谢？」",
+        "scores": {
+          "S8": 2,
+          "S7": 4,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "A来自张辽对广陵王的宠溺，B来自张辽对下属的傲娇。同一张嘴，温度完全不同。"
+  }
+]

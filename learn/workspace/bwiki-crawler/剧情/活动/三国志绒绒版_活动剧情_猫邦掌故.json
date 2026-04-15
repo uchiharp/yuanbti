@@ -1,0 +1,2035 @@
+{
+  "title": "三国志绒绒版/活动剧情/猫邦掌故",
+  "category": "活动剧情",
+  "characters": [
+    "“董奉”",
+    "仙者",
+    "令狐茂",
+    "众学喵",
+    "侍从",
+    "剑仙",
+    "叔父",
+    "士燮",
+    "孔融",
+    "张绣",
+    "张邈",
+    "母亲",
+    "石邑公主",
+    "程昱",
+    "荀彧",
+    "荀攸",
+    "葛洪",
+    "董奉",
+    "讲师",
+    "诸葛瑾",
+    "诸葛诞",
+    "贾诩",
+    "郭嘉",
+    "陈登",
+    "马商",
+    "马腾",
+    "马驹",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "哎……又受伤了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "这也是没有办法的事，毕竟长兄是花灯会首席嘛。长兄的付出，我都有好好记在心里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "需要休息？可是，这次要处理的事情很棘爪喵，再坚持一下吧，长兄。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "……那是什么眼神喵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "被喊了几声长兄，也不能忘记自己是家奴吧？是因为我们兄弟之间的感情深厚，我才以长兄之礼对待你的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "不要辜负我啊……好了，把药茶喝了，明天日出之前，解决杨氏的那几个遗孤。早点回来，还能赶上吃早茶哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……又梦见了，喵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "肚子饿了，找找有些什么能吃的吧……最近在下雨，旧伤又开始痛了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "雨季，夏天……呼……又困了，可是睡下去，很容易梦见旧事……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "长兄来了？今年快到荔枝季了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "你想和小张他们去捡荔枝吗？我很喜欢长兄酿的荔枝酒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "要去吗？……哎呀……想起来了。还没把你的双腿接上呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "毕竟你勾结杨氏出卖士氏机密的案子还没有查清，暂时不能让你乱跑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "每个猫都怀疑你的清白，但我从内心深处可是坚定相信长兄的忠诚的。放心吧，总有一天会查清的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "真的不去捡荔枝吗？错过荔枝季太可惜了。对了，我有个主意！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "听我说……这样……再那样……啊哈哈，是不是很有趣？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "上钩了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "又是枯木！……说真的，不如我下水帮你抓吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "无论是风速还是流速都堪称完美，今天一定能钓到大鱼——喝——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "“董奉”",
+      "text": "咳……咳咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "……这河狸吗？钓鱼佬。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "吱吱……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……唔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "呼，终于醒了吱，你这个午觉睡了好久吱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "孟卓……屋里什么味道，好香……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "我在炖紫苏鱼汤！雪雪白热腾腾的紫苏鱼汤喵！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "雨季湿气重，猫很容易犯困的，紫苏对身体有好处。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……谢谢喵。这是元龙钓的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "你可别小看小陈，你屋里所有的家具都是他钓上来的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "哼哼！钓鱼佬什么都能钓得到！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "啊啊汤锅开了！贤兄你帮忙热酒，我去看着鱼汤！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "去吧去吧吱……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "眼睛和腿有觉得好些吗？小陈这几天其实心里特别难受。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……我没事……抱歉，让他担心了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "其实我不说，你也许就不知道，也许就不会担心。但我还是说给你听了，知道为什么吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "唔，不知道哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "我对你的过往没兴趣。怎么说呢，因为无论你过往是谁、做过什么、为何流离此地，都是在我布局之外的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "我唯一在意的，是你会不会在我的布局之内，做些更极端的决断。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "一眼一足，叫做极端？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "……你整个猫几乎少四分之一了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "啊，我明白了喵。“告诉这个猫陈登很担心他，让他愧疚！让他下次不要再做这种事！……这样我就可以不用告诉他我也很担心他！”",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "哎哟哟，真会给自己脸上贴金吱吱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "有金吗？贴在哪都可以哦。谢谢金主。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "贴……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……哎？这是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "面具。阿超没别的特长，就是喜欢做些奇怪的小手工。我让他给你做了个世上最——丑的面具。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "哈……哈哈哈……真的好丑……哈哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "鱼汤好了！贤兄，君异，开饭！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马驹",
+      "text": "吁……吁……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "哇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "姐姐，我真的可以养它吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "母亲",
+      "text": "头像=猫绒绒·青年女2",
+      "emotion": "嗯，可以咪。只要把先生的功课都完成了，我们就养它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "哇……它、它看上去好小，真的驮得动我吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马商",
+      "text": "头像=猫绒绒·青年男2",
+      "emotion": "这是今年出生的最小的马驹，不过因为是西凉马，最小也会比寻常的马匹高大。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "母亲",
+      "text": "头像=猫绒绒·青年女2",
+      "emotion": "没关系的……我们阿和以后会学富五车，成为太学的博士，不需要上战场打仗的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马商",
+      "text": "头像=猫绒绒·青年男2",
+      "emotion": "哦……哦哦！居然是读书猫，在这里读书可不常见，太有志气了！这样，这匹马……我送你们了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "哎——？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马商",
+      "text": "头像=猫绒绒·青年男2",
+      "emotion": "给它起个名字吧！等以后你扬名立万了，可别忘了大叔啊，哈哈哈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "那……那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "侏侏之修<ref>扬雄《太玄经·童》：“修侏侏，比于朱儒。测曰：侏侏之修，无可为也。”</ref>……就叫它“侏侏”吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "今年有一位新学子，从西凉考入了辟雍。何等勤学刻苦，你们皆要效之慕之。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众学喵",
+      "text": "是。谨遵夫子教训。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "辟雍学宫……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "往后数年，就要在这里呜哇——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "咳……咳咳……今天摔得……没那么痛嘛……我是不是压到什么了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "这位……这位学长……呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "哎呀，是新来的学弟吗？怎么扁扁的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "郭嘉！翘课翻墙压伤学弟，记大过！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "犬都的酒，先生喝不惯吗？还是因为背叛了猫邦，内心忐忑？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……因为……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "因为你们这群蠢狗一直在舔我！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "头像=狗绒绒·马腾",
+      "emotion": "对不住，看见猫就忍不住吧嗒吧嗒吧嗒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "吧嗒吧嗒吧嗒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "喵呜啊啊啊啊啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "呼……终于把那群蠢狗甩开了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……连一杯酒都没有清静地喝完呜哇——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "糟、糟了……又压到什么了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "郭奉孝？！你为什么在这——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "唔哦哦，是……嗝……是小红淑女呀……嗝……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "滚下去！酒蒙子猫！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=猫绒绒·郭嘉",
+      "emotion": "呼呼，没想到会在这里遇到呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "还以为你叛逃猫邦之后会在这里被做成猫肉罐头，不过看现在的样子，学弟混得不错嘛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "说这种话的时候不要盯着我的荷包。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "呜呜……我也没想到犬都的最低消费那么贵……呜呜……捏捏………啊好饱满的荷包……能替我埋单吗文和……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "一个猫就敢混进犬都……还是说，你也有接应。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "喝一杯我就回答你……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "……哎，不想喝就不喝嘛，怎么拿酒泼猫呢……舔舔，舔舔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "唔啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=猫绒绒·荀彧",
+      "emotion": "怎么能直接拿酒泼猫……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "不许碰西凉猫的牛王！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "不就是个牛头骨嘛，只是在学宫里从未见过……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=猫绒绒·荀彧",
+      "emotion": "别再说了奉孝，快向文和道歉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "文和？文和？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "啊，摔门走了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "啊，落了好多花……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "哎呀，刚刚和小红淑女约了在此地幽会，可是时辰到了，明月高悬，小红淑女在哪里呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "那学长慢慢等，我先回避了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "真可惜，我还想和小红淑女探讨《均输调盈方<ref>桑弘羊提出“均输”政策，各地的实物赋税不再统一运往首都，而是部分运送到价高地卖出。由此衍生出诸多算术、策论题。</ref>》十七卷的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "居然偷我的策论？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "好多错别字唉……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "哪里有？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "这里，这里……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "哪里？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "就在这里哦小红淑……唔噗——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "……好……痛……鼻子……被打塌了……呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "学长们迟到了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "文和居然到得最早…你真的想好了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "说不定学弟只是来给我们送行的？……啊，射猎装都换好了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "说了这个时辰在此汇合，离开学宫，同往壶关的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "路途很远哦，学长们可拨不出精力照顾学弟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "我不会给学长们添麻烦的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "既然决定了，那……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "那就最后看看学宫花树，然后，出发去壶关。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……唔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "天亮了吗……昨晚什么时辰喝醉的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "算了……先回住处吧。嘿咻……嘿咻……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "站稳了……犬族的家具也太高了，一不当心就摔下去了喵……唔啊！谁在这里放的盒子？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……是书箱啊……为什么摆在这？里面是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……《均输调盈方》，全是错别字。呵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仙者",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "啊，有猫活着爬上山门了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "头像=猫绒绒·令狐茂",
+      "emotion": "……呼……呼……呼……呃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "头像=猫绒绒·令狐茂",
+      "emotion": "……我是来……求仙……的……蜀国……王子……茂……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "啊，是绝世美猫呢，虽然快冻死了。让小仙来温暖王子殿下兔―—",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……吃下去，就可以成仙吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "没错兔。这可是一位大仙的仙胎。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "当然，你们不是兽仙，吃下仙胎后，能不能成功还要看仙缘。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "兽仙？前辈是兽仙？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "兔兔~",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "猫吃下仙胎会变成仙猫。那反过来呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "仙猫……吃掉猫？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "哈哈哈……真是个单纯的孩子。是“仙胎吃掉猫”。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "我原来可是兔族的神哦，快要被磨灭的时候，吃掉了一个逃离饥荒的孩子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "……虽然放弃了神躯和神格，但是，至少留存下来了。好了，快喝吧。喝吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……喝。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "啊啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "头像=猫绒绒·令狐茂",
+      "emotion": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "石邑公主",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "呼……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "石邑公主",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "□□□无礼仙门□□居然需要本宫□□亲自来找……呃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……冻昏在山门外了啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仙者",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "那也是没办法的事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "剑仙",
+      "text": "头像=猫绒绒·青年女2",
+      "emotion": "不这样的话，茂君就彻底失权了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仙者",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "眼下正和东蜀开战呢……左君绝不会让副手失权的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "剑仙",
+      "text": "头像=猫绒绒·青年女2",
+      "emotion": "啊、啊……茂君来了……啊哈哈……那、那我们先走了！哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "哎呀，王子走投无路了呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "我从来没有想要什么，又何必惶恐。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "这种话骗骗自已就行了，兔。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "蜀国数百年前送你上山，无非就是在仙门做交易，王子修仙，仙门就要庇护山下的蜀国风调雨顺。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "而仙门一切和山外的事务，也都可以通过你去办成。王子嘛，哪里都得给三分颜面。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "然而古蜀国灭亡了，你就尴尬了。山外的事务，你搞不定了，山门内的事务，同样没你说话的份。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "都已经入仙门了，还需要那么重的权欲？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "生灵之所以贪慕权势，是因为……权势，是好东西兔。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "你应该听说了吧？左君没有反对公主的要求，只要你点头，你就能重新成为仙门在山外的权柄。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "没兴趣。她自已都是个快要倒台的公主，和她结盟能得到多少权力？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "兔兔~嘴硬。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "而且她也只是和你一样，见色起意吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "兔兔~嘴硬。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "我今日会去回禀左君，拒绝此事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "——她死定了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "长生塔、东蜀、观星台三处推演，都能见到她的死星。她的命数已耗尽了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……付出足够的代价，仙门未必不能为她改命。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "……茂君。听我一言，这是你最后的机会了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "很寂寞吧，那么小，就被迫穿着沉重的礼服，冒雪上山，从此清修……太可怜了，太可怜了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "没有同龄的友人，没有欢愉，没有希望……从前尚能得到蜀国的消息，如今，简直是在熬日子兔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……住口……妖孽。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "——谁是妖孽呀？嗯？羽化失败的才是妖孽吧？要不是我给了你紫石，你就要活活痛死了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "看看你的眼睛，已经被紫石异化了。左君早就看出来了。你再不思变，你就要……走上你师父的老路了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……我只是……一时多用了些。我只是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "时辰是不是快到了？左君应该在云帝宫了。你不是要去回绝此事的吗？可以去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……对，我一定会回绝此事的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "不需要公主的助力……也不需要你的紫石……我没事的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……我会没事的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "叔父",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "荀攸，过来，见你的小叔叔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=猫绒绒·荀攸",
+      "emotion": "哎……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=猫绒绒·荀彧",
+      "emotion": "喵呜？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=猫绒绒·荀攸",
+      "emotion": "……好小只……肉垫软软的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "考上了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……哦。意料之中。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "离开学还有三个月，走水路很近，不用急着收拾行李。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "要带很多行李去吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "不用，日常起居所需，学宫里都有……带些睡得习惯的被子，衣物也尽可能多带。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "钱不用带太多，平时只是偶尔花些零钱，大项都是记账，然后年末送回族中的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "啊，有一样东西要多带，胡粉。虽然会发放让学生们保持仪容的化妆品，但你的毛色太白了，用不了学宫的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "那我会上你的课吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "会，我教农商通论、桑弘氏经典、八政<ref>《尚书·宏范》：“八政：一曰食，二曰货，三曰祀，四曰司空，五曰司徒，六曰司寇，七曰宾，八曰师。”有他说。</ref>。大概第一年后半年就会有我的课了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "虽然感觉不必担心，但还是事先说好，在学宫里还是不要随意说我们的亲缘。别的学生会不满的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "还有，带几方颍川的好墨去吧。学宫发的墨有些涩。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "其他的……其他的没什么，你沉着稳重，孔呼噜子会很喜欢你的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "今年入学的学子，交上卷子都很优秀喵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "啊，那是你的族亲吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "是。按辈分，是在下的小叔叔。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "王佐之才。难怪策论风格很像，被你指点过吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "会在族中补课，但绝无透题之事……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "我知道。你的猫品绝对可靠。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "……今年，你该晋升了。我算过考核，年轻的讲师中，你应该是考绩最优的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "哪里，呼噜子过誉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "时辰到了，学生们要午休了。在下先回值更室了。呼噜子今日应该是休沐，请早些回府歇息。学宫诸事交由在下便是。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "嗯，辛苦小荀老师了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "这是学宫附近的路观图。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……我……要这个做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "这可是历代师生总结出的经验。哪里可以抄近路，哪里可以避开宵禁……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "哈……哪里的酒好喝、小食好吃，这张路观图上都有。虽然你不会逃课，但背面还有哪个老师的课可以翘……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "哈哈……谢谢小荀老师。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……对了，再过一阵，说不定会有些好消息……会有些腊赐吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "拿到了晋升的腊赐，我们去雒阳酒楼庆……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "讲师",
+      "text": "头像=猫绒绒·老年男",
+      "emotion": "小小小小小荀老师不好了——午休出出出出出事了——那个那个那个江东来的学生把把把寿张张氏的孟卓给拍扁了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……说得太快了……扁？孟卓的尾巴本来就是扁的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "讲师",
+      "text": "头像=猫绒绒·老年男",
+      "emotion": "脑袋！是脑袋——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……………………………………………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "内容=<div style=\"word-break: break-all;line-break: anywhere;overflow-wrap: break-word;\">！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div><!-- 表达了小荀老师的震惊之情 -->",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "呃——————————————",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "啊！……做、做噩梦了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "都已经过去了啊……没事……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "可能是刚到许都任职，还有些水土不服……心神不宁的。抱歉，文若，能替我取些安神药来吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "稍等，我这就去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "安神药……安神药是放在……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "真是的……中午医师都不在，只能自己慢慢找了……安神药……安神药……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……嗯？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "这不是荀尚书吗？怎么亲自来北宫所了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "我只是来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……你袖子上，挂着的是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "……哎呀，没注意。一只猫爪子……呵呵。 是假的，假的，毛绒做的猫爪玩具。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……………………你……呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "今天是个不错的机会香料的味道很淡肉质也刚刚好关键是我饿了能邀请你去我的小厨房里做客吗刚刚用过的厨房柴火还没有熄灭哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "可以吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "会是什么做法？炙肉？白煮？腌制？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "这个嘛……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "当年对文和……你是怎么做的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "哎呀……咽口水。要看看当年的菜谱吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=猫绒绒·荀攸",
+      "emotion": "——能把头转过来，让我看看你在说些什么吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "……小荀老师来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=猫绒绒·荀攸",
+      "emotion": "文若，过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "不要激动不要激动……能把我脖子上的剑挪开吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "呼……其实，当年你动心了吧，荀彧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "那个时候，你犹豫过的。一旦动过心了，你终有一日会提出交易。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "邪魔之猫。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "小荀老师如果想做交易也可以。我一直想试试猫耳朵……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……他……死了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=猫绒绒·荀攸",
+      "emotion": "没有，我避开了要害。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=猫绒绒·程昱",
+      "emotion": "咳……哈哈……真是和外表不同的反差喵。呼……我对你握剑的右爪也很感兴趣……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=猫绒绒·程昱",
+      "emotion": "这就走了吗？不带上这个？——安神药。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "长兄，长兄喵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "唔！……抱歉，睡着了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……起来！点孝烛！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "啊啊铛铛！……哎，不是在戏坊啊……我梦见自己登台了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "二哥，你说，父亲在泉下能看见我们吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "能看见哦，就是视角有点奇怪喵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "你在对孩子说什么呢？！……好了，到叩拜的时辰了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "拜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "喂……喂……阿瑾。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "阿——瑾……唔啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……闭嘴，敬畏！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "…………就是问问你，家里还剩下多少钱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……闭嘴。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "这可不是开玩笑的，这次父亲的葬礼可是把压箱底的鎏金器具都拿出去了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "快要过冬了，柴火怎么办？棉服怎么办？还有，弟弟的学费、笔墨纸砚、族中节庆应酬……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "闭嘴……身为长喵，我会想办法的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "呼……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "他睡着了我才敢问你。家里真的快山穷水尽了。依我看，之前老家的那座田庄……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "那是祖业，你疯了吗？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "唔喵？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "啊没事没事！继续睡继续睡……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……火腿都吃完了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "快出来！你是公子，在膳房里像什么样子！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "都快穷到去道边讨饭了还管那个？……你的外套呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……破了，拿去缝补了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……你该不会为了弟弟的学费，把它卖了吧？没钱就不要嘴硬喵，我去想办法！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "舔舔毛、舔舔爪……铛铛！当红艺猫阿休闪亮登场！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "你这是什么妆容快卸掉父亲的葬礼还没结東你想让诸葛氏沦为全琅琊的笑柄吗？！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "舔舔舔舔——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "啊啊我刚画完的妆不要舔——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "不想让我出去演百戏挣钱，你倒是放下身段去借钱啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "钱钱钱……哪有书香门第家的公子满嘴都是钱的？你的气节呢？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "气节能当冻干吃吗？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "诸、葛、诞——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "啊啊二位公子！不要打……不要打了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……呜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "呜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "你怎么想的，居然抓我的脸……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……阿瑾？很痛吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "…………………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……哭了啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……好啦，好了喵……天塌下来还有我在呢喵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "你顶个什么用……呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "兄弟合爪，其力断筋！铛铛，当红艺猫阿休闪亮登场！客猫，想看什么百戏？来一段抓钱舞吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "哈哈……噗哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "笑了可就要打赏了哦，吱富宝到账~慷慨——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "哈哈……这个不许出去演，好丢猫！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "私人包场吗？那价格要翻倍喵——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "怎么样！笑一笑是不是好多了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……嗯。可是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "可是……你不可能永远在江湖上飘啊飘的……你还是我弟弟，是诸葛氏的二公子啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "我们可以一起在江湖上飘呀。等弟弟学成了，就一起浪迹江湖！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……阿诞。我们……去投靠叔父吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "把祖业、田地、坞堡都送给叔父，挂名在他那一脉。这样，至少弟弟有钱读完学宫，家里能够过冬。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "这种事，我出面去聊吧？下跪磕头，抱着长辈的后腿喵喵哭……我擅长啊，我又没有气节……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……不用了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "这是过继书，我昨天已经去了，磕过头了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……………………………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……好了，这已经不是我们的宅子了。虽然叔父还允许我们住着，但是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "………………收拾行李，准备迁居吧。不用担心，我会照顾大家的。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "猫邦掌故·壹"
+    },
+    {
+      "type": "narration",
+      "text": "'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''"
+    },
+    {
+      "type": "narration",
+      "text": "猫邦掌故·贰"
+    },
+    {
+      "type": "narration",
+      "text": "猫邦掌故·叁"
+    },
+    {
+      "type": "narration",
+      "text": "猫邦掌故·肆"
+    },
+    {
+      "type": "narration",
+      "text": "猫邦掌故·伍"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%9B%BD%E5%BF%97%E7%BB%92%E7%BB%92%E7%89%88/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E7%8C%AB%E9%82%A6%E6%8E%8C%E6%95%85",
+  "crawled_at": "2026-04-12T22:05:21.348278",
+  "raw_wikitext": "[[分类:活动剧情]]{{回到顶部|头}}{{面包屑|2025活动剧情|三国志绒绒版/活动玩法}}{{背景图片|{{filepath:}}}}\n__TOC__\n{{板块|按钮|三国志绒绒版/活动剧情|导入}}\n{{板块|按钮|三国志绒绒版/活动剧情/猫邦纪事|猫邦纪事}}\n{{板块|按钮|三国志绒绒版/活动剧情/猫邦掌故|猫邦掌故}}\n{{板块|按钮|三国志绒绒版/活动剧情/犬都纪事|犬都纪事}}\n{{板块|按钮|三国志绒绒版/活动剧情/犬都掌故|犬都掌故}}\n{{JS|Qiantao.js}}\n==猫邦掌故·壹==\n{{对话-头}}\n{{对话|士燮|哎……又受伤了吗？|头像=猫绒绒·黑影}}\n{{对话|士燮|这也是没有办法的事，毕竟长兄是花灯会首席嘛。长兄的付出，我都有好好记在心里……|头像=猫绒绒·黑影}}\n{{对话|士燮|需要休息？可是，这次要处理的事情很棘爪喵，再坚持一下吧，长兄。|头像=猫绒绒·黑影}}\n{{对话|士燮|……那是什么眼神喵……|头像=猫绒绒·黑影}}\n{{对话|士燮|被喊了几声长兄，也不能忘记自己是家奴吧？是因为我们兄弟之间的感情深厚，我才以长兄之礼对待你的。|头像=猫绒绒·黑影}}\n{{对话|士燮|不要辜负我啊……好了，把药茶喝了，明天日出之前，解决杨氏的那几个遗孤。早点回来，还能赶上吃早茶哦。|头像=猫绒绒·黑影}}\n{{旁白}}\n{{对话|董奉|……}}\n{{对话|董奉|……又梦见了，喵。}}\n{{对话|董奉|肚子饿了，找找有些什么能吃的吧……最近在下雨，旧伤又开始痛了……}}\n{{对话|董奉|雨季，夏天……呼……又困了，可是睡下去，很容易梦见旧事……呼……}}\n{{旁白}}\n{{对话|士燮|长兄来了？今年快到荔枝季了。|头像=猫绒绒·黑影}}\n{{对话|士燮|你想和小张他们去捡荔枝吗？我很喜欢长兄酿的荔枝酒。|头像=猫绒绒·黑影}}\n{{对话|士燮|要去吗？……哎呀……想起来了。还没把你的双腿接上呢……|头像=猫绒绒·黑影}}\n{{对话|士燮|毕竟你勾结杨氏出卖士氏机密的案子还没有查清，暂时不能让你乱跑……|头像=猫绒绒·黑影}}\n{{旁白|'''{{颜色|橙|…………我没有…………}}'''}}\n{{对话|士燮|每个猫都怀疑你的清白，但我从内心深处可是坚定相信长兄的忠诚的。放心吧，总有一天会查清的……|头像=猫绒绒·黑影}}\n{{旁白|'''{{颜色|橙|……我没有……你只是……}}'''}}\n{{旁白|'''{{颜色|橙|你只是想找个理由杀我灭口……在杀我之前，像猫杀鸟一样折磨取乐罢了……}}'''}}\n{{对话|士燮|真的不去捡荔枝吗？错过荔枝季太可惜了。对了，我有个主意！|头像=猫绒绒·黑影}}\n{{对话|士燮|听我说……这样……再那样……啊哈哈，是不是很有趣？|头像=猫绒绒·黑影}}\n{{旁白|'''{{颜色|橙|……}}'''}}\n{{旁白|'''{{颜色|橙|……我不想死……至少不想这样被折磨死……}}'''}}\n{{旁白|'''{{颜色|橙|……逃吧。士壹。}}'''}}\n{{旁白}}\n{{对话|陈登|上钩了！|头像=猫绒绒·陈登}}\n{{对话|张邈|又是枯木！……说真的，不如我下水帮你抓吧？|头像=狸绒·张邈}}\n{{对话|陈登|无论是风速还是流速都堪称完美，今天一定能钓到大鱼——喝——|头像=猫绒绒·陈登}}\n{{对话|“董奉”|咳……咳咳……}}\n{{对话|张邈|……这河狸吗？钓鱼佬。|头像=狸绒·张邈}}\n{{旁白}}\n{{对话|张邈|吱吱……}}\n{{对话|董奉|……唔……}}\n{{对话|张邈|呼，终于醒了吱，你这个午觉睡了好久吱。}}\n{{对话|董奉|孟卓……屋里什么味道，好香……}}\n{{对话|陈登|我在炖紫苏鱼汤！雪雪白热腾腾的紫苏鱼汤喵！}}\n{{对话|陈登|雨季湿气重，猫很容易犯困的，紫苏对身体有好处。}}\n{{对话|董奉|……谢谢喵。这是元龙钓的吗？}}\n{{对话|张邈|你可别小看小陈，你屋里所有的家具都是他钓上来的。}}\n{{对话|陈登|哼哼！钓鱼佬什么都能钓得到！}}\n{{对话|陈登|啊啊汤锅开了！贤兄你帮忙热酒，我去看着鱼汤！}}\n{{对话|张邈|去吧去吧吱……}}\n{{对话|张邈|……}}\n{{对话|张邈|眼睛和腿有觉得好些吗？小陈这几天其实心里特别难受。}}\n{{对话|董奉|……我没事……抱歉，让他担心了。}}\n{{对话|张邈|其实我不说，你也许就不知道，也许就不会担心。但我还是说给你听了，知道为什么吗？}}\n{{对话|董奉|唔，不知道哦。}}\n{{对话|张邈|……}}\n{{对话|董奉|……}}\n{{对话|张邈|我对你的过往没兴趣。怎么说呢，因为无论你过往是谁、做过什么、为何流离此地，都是在我布局之外的。}}\n{{对话|张邈|我唯一在意的，是你会不会在我的布局之内，做些更极端的决断。}}\n{{对话|董奉|一眼一足，叫做极端？}}\n{{对话|张邈|……你整个猫几乎少四分之一了。}}\n{{对话|董奉|啊，我明白了喵。“告诉这个猫陈登很担心他，让他愧疚！让他下次不要再做这种事！……这样我就可以不用告诉他我也很担心他！”}}\n{{对话|张邈|哎哟哟，真会给自己脸上贴金吱吱。}}\n{{对话|董奉|有金吗？贴在哪都可以哦。谢谢金主。}}\n{{对话|张邈|贴……}}\n{{对话|董奉|……哎？这是……}}\n{{对话|张邈|面具。阿超没别的特长，就是喜欢做些奇怪的小手工。我让他给你做了个世上最——丑的面具。}}\n{{对话|董奉|哈……哈哈哈……真的好丑……哈哈哈……}}\n{{对话|陈登|鱼汤好了！贤兄，君异，开饭！}}\n{{对话-尾}}\n\n==猫邦掌故·贰==\n{{对话-头}}\n{{对话|马驹|吁……吁……}}\n{{对话|贾诩|哇……|头像=猫绒绒·黑影}}\n{{对话|贾诩|姐姐，我真的可以养它吗？|头像=猫绒绒·黑影}}\n{{对话|母亲|嗯，可以咪。只要把先生的功课都完成了，我们就养它。|头像=猫绒绒·青年女2}}\n{{对话|贾诩|哇……它、它看上去好小，真的驮得动我吗？|头像=猫绒绒·黑影}}\n{{对话|马商|这是今年出生的最小的马驹，不过因为是西凉马，最小也会比寻常的马匹高大。|头像=猫绒绒·青年男2}}\n{{对话|母亲|没关系的……我们阿和以后会学富五车，成为太学的博士，不需要上战场打仗的。|头像=猫绒绒·青年女2}}\n{{对话|马商|哦……哦哦！居然是读书猫，在这里读书可不常见，太有志气了！这样，这匹马……我送你们了！|头像=猫绒绒·青年男2}}\n{{对话|贾诩|哎——？！|头像=猫绒绒·黑影}}\n{{对话|马商|给它起个名字吧！等以后你扬名立万了，可别忘了大叔啊，哈哈哈！|头像=猫绒绒·青年男2}}\n{{对话|贾诩|那……那……|头像=猫绒绒·黑影}}\n{{对话|贾诩|侏侏之修<ref>扬雄《太玄经·童》：“修侏侏，比于朱儒。测曰：侏侏之修，无可为也。”</ref>……就叫它“侏侏”吧！|头像=猫绒绒·黑影}}\n{{对话|孔融|今年有一位新学子，从西凉考入了辟雍。何等勤学刻苦，你们皆要效之慕之。|头像=猫绒绒·孔融}}\n{{对话|众学喵|是。谨遵夫子教训。}}\n{{对话|贾诩|辟雍学宫……}}\n{{对话|贾诩|往后数年，就要在这里呜哇——}}\n{{对话|郭嘉|咳……咳咳……今天摔得……没那么痛嘛……我是不是压到什么了……}}\n{{对话|贾诩|这位……这位学长……呜……}}\n{{对话|郭嘉|哎呀，是新来的学弟吗？怎么扁扁的……}}\n{{对话|孔融|郭嘉！翘课翻墙压伤学弟，记大过！|头像=猫绒绒·孔融}}\n{{旁白| }}\n{{对话|贾诩|……}}\n{{对话|张绣|犬都的酒，先生喝不惯吗？还是因为背叛了猫邦，内心忐忑？|头像=狗绒绒·张绣}}\n{{对话|贾诩|……因为……}}\n{{对话|贾诩|因为你们这群蠢狗一直在舔我！！！}}\n{{对话|马腾|对不住，看见猫就忍不住吧嗒吧嗒吧嗒……|头像=狗绒绒·马腾}}\n{{对话|张绣|吧嗒吧嗒吧嗒……|头像=狗绒绒·张绣}}\n{{对话|贾诩|喵呜啊啊啊啊啊——}}\n{{对话|贾诩|呼……终于把那群蠢狗甩开了。}}\n{{对话|贾诩|……连一杯酒都没有清静地喝完呜哇——}}\n{{对话|郭嘉|糟、糟了……又压到什么了……}}\n{{对话|贾诩|郭奉孝？！你为什么在这——}}\n{{对话|郭嘉|唔哦哦，是……嗝……是小红淑女呀……嗝……}}\n{{对话|贾诩|滚下去！酒蒙子猫！}}\n{{对话|郭嘉|呼呼，没想到会在这里遇到呢。|头像=猫绒绒·郭嘉}}\n{{对话|郭嘉|还以为你叛逃猫邦之后会在这里被做成猫肉罐头，不过看现在的样子，学弟混得不错嘛。}}\n{{对话|贾诩|说这种话的时候不要盯着我的荷包。}}\n{{对话|郭嘉|呜呜……我也没想到犬都的最低消费那么贵……呜呜……捏捏………啊好饱满的荷包……能替我埋单吗文和……}}\n{{对话|贾诩|一个猫就敢混进犬都……还是说，你也有接应。}}\n{{对话|郭嘉|喝一杯我就回答你……唔！}}\n{{对话|郭嘉|……哎，不想喝就不喝嘛，怎么拿酒泼猫呢……舔舔，舔舔……}}\n{{对话|贾诩|……}}\n{{旁白| }}\n{{对话|郭嘉|唔啊！}}\n{{对话|荀彧|怎么能直接拿酒泼猫……|头像=猫绒绒·荀彧}}\n{{对话|贾诩|不许碰西凉猫的牛王！}}\n{{对话|郭嘉|不就是个牛头骨嘛，只是在学宫里从未见过……唔！}}\n{{对话|荀彧|别再说了奉孝，快向文和道歉！|头像=猫绒绒·荀彧}}\n{{对话|荀彧|文和？文和？}}\n{{对话|郭嘉|啊，摔门走了……}}\n{{旁白| }}\n{{对话|贾诩|……}}\n{{对话|贾诩|啊，落了好多花……}}\n{{对话|郭嘉|哎呀，刚刚和小红淑女约了在此地幽会，可是时辰到了，明月高悬，小红淑女在哪里呢……}}\n{{对话|贾诩|那学长慢慢等，我先回避了。}}\n{{对话|郭嘉|真可惜，我还想和小红淑女探讨《均输调盈方<ref>桑弘羊提出“均输”政策，各地的实物赋税不再统一运往首都，而是部分运送到价高地卖出。由此衍生出诸多算术、策论题。</ref>》十七卷的……}}\n{{对话|贾诩|居然偷我的策论？！}}\n{{对话|郭嘉|好多错别字唉……}}\n{{对话|贾诩|哪里有？}}\n{{对话|郭嘉|这里，这里……}}\n{{对话|贾诩|哪里？}}\n{{对话|郭嘉|就在这里哦小红淑……唔噗——}}\n{{对话|郭嘉|……好……痛……鼻子……被打塌了……呜……}}\n{{旁白|数年后}}\n{{对话|贾诩|……}}\n{{对话|贾诩|学长们迟到了。}}\n{{对话|荀彧|文和居然到得最早…你真的想好了吗？}}\n{{对话|郭嘉|说不定学弟只是来给我们送行的？……啊，射猎装都换好了……}}\n{{对话|贾诩|说了这个时辰在此汇合，离开学宫，同往壶关的。}}\n{{对话|郭嘉|路途很远哦，学长们可拨不出精力照顾学弟……}}\n{{对话|贾诩|我不会给学长们添麻烦的。}}\n{{对话|荀彧|既然决定了，那……}}\n{{对话|郭嘉|那就最后看看学宫花树，然后，出发去壶关。}}\n{{旁白| }}\n{{对话|贾诩|……唔……}}\n{{对话|贾诩|天亮了吗……昨晚什么时辰喝醉的……}}\n{{对话|贾诩|算了……先回住处吧。嘿咻……嘿咻……}}\n{{对话|贾诩|站稳了……犬族的家具也太高了，一不当心就摔下去了喵……唔啊！谁在这里放的盒子？！}}\n{{对话|贾诩|……是书箱啊……为什么摆在这？里面是……}}\n{{对话|贾诩|……}}\n{{对话|贾诩|…………}}\n{{对话|贾诩|……《均输调盈方》，全是错别字。呵。}}\n{{对话-尾}}\n\n==猫邦掌故·叁==\n{{对话-头}}\n{{旁白|【猫邦·山洞】}}\n{{旁白|数百年前……}}\n{{对话|仙者|啊，有猫活着爬上山门了。|头像=猫绒绒·青年男}}\n{{对话|令狐茂|……呼……呼……呼……呃。|头像=猫绒绒·令狐茂}}\n{{对话|令狐茂|……我是来……求仙……的……蜀国……王子……茂……|头像=猫绒绒·令狐茂}}\n{{对话|葛洪|啊，是绝世美猫呢，虽然快冻死了。让小仙来温暖王子殿下兔―—}}\n{{旁白|……}}\n{{对话|令狐茂|……吃下去，就可以成仙吗？}}\n{{对话|葛洪|没错兔。这可是一位大仙的仙胎。}}\n{{对话|葛洪|当然，你们不是兽仙，吃下仙胎后，能不能成功还要看仙缘。}}\n{{对话|令狐茂|兽仙？前辈是兽仙？}}\n{{对话|葛洪|兔兔~}}\n{{对话|葛洪|猫吃下仙胎会变成仙猫。那反过来呢？}}\n{{对话|令狐茂|仙猫……吃掉猫？}}\n{{对话|葛洪|哈哈哈……真是个单纯的孩子。是“仙胎吃掉猫”。}}\n{{对话|令狐茂|……}}\n{{对话|葛洪|我原来可是兔族的神哦，快要被磨灭的时候，吃掉了一个逃离饥荒的孩子。}}\n{{对话|葛洪|……虽然放弃了神躯和神格，但是，至少留存下来了。好了，快喝吧。喝吧……}}\n{{对话|令狐茂|……喝。}}\n{{对话|令狐茂|……}}\n{{对话|令狐茂|啊啊……}}\n{{对话|令狐茂|啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊——|头像=猫绒绒·令狐茂}}\n{{旁白|……}}\n{{旁白|数百年后……}}\n{{对话|石邑公主|呼……呼……呼……|头像=猫绒绒·黑影}}\n{{对话|石邑公主|□□□无礼仙门□□居然需要本宫□□亲自来找……呃。|头像=猫绒绒·黑影}}\n{{对话|令狐茂|……冻昏在山门外了啊。}}\n{{旁白|……}}\n{{旁白|一段时日后……}}\n{{对话|仙者|那也是没办法的事……|头像=猫绒绒·青年男}}\n{{对话|剑仙|不这样的话，茂君就彻底失权了吧？|头像=猫绒绒·青年女2}}\n{{对话|仙者|眼下正和东蜀开战呢……左君绝不会让副手失权的。|头像=猫绒绒·青年男}}\n{{对话|令狐茂|……}}\n{{对话|剑仙|啊、啊……茂君来了……啊哈哈……那、那我们先走了！哈哈……|头像=猫绒绒·青年女2}}\n{{对话|令狐茂|……}}\n{{对话|葛洪|哎呀，王子走投无路了呢。}}\n{{对话|令狐茂|我从来没有想要什么，又何必惶恐。}}\n{{对话|葛洪|这种话骗骗自已就行了，兔。}}\n{{对话|葛洪|蜀国数百年前送你上山，无非就是在仙门做交易，王子修仙，仙门就要庇护山下的蜀国风调雨顺。}}\n{{对话|葛洪|而仙门一切和山外的事务，也都可以通过你去办成。王子嘛，哪里都得给三分颜面。}}\n{{对话|葛洪|然而古蜀国灭亡了，你就尴尬了。山外的事务，你搞不定了，山门内的事务，同样没你说话的份。}}\n{{对话|令狐茂|都已经入仙门了，还需要那么重的权欲？}}\n{{对话|葛洪|生灵之所以贪慕权势，是因为……权势，是好东西兔。}}\n{{对话|葛洪|你应该听说了吧？左君没有反对公主的要求，只要你点头，你就能重新成为仙门在山外的权柄。}}\n{{对话|令狐茂|没兴趣。她自已都是个快要倒台的公主，和她结盟能得到多少权力？}}\n{{对话|葛洪|兔兔~嘴硬。}}\n{{对话|令狐茂|而且她也只是和你一样，见色起意吧？}}\n{{对话|葛洪|兔兔~嘴硬。}}\n{{对话|令狐茂|我今日会去回禀左君，拒绝此事。}}\n{{对话|葛洪|——她死定了。}}\n{{对话|令狐茂|……}}\n{{对话|葛洪|长生塔、东蜀、观星台三处推演，都能见到她的死星。她的命数已耗尽了。}}\n{{对话|令狐茂|……付出足够的代价，仙门未必不能为她改命。}}\n{{对话|葛洪|……茂君。听我一言，这是你最后的机会了。}}\n{{对话|葛洪|很寂寞吧，那么小，就被迫穿着沉重的礼服，冒雪上山，从此清修……太可怜了，太可怜了……}}\n{{对话|葛洪|没有同龄的友人，没有欢愉，没有希望……从前尚能得到蜀国的消息，如今，简直是在熬日子兔……}}\n{{对话|令狐茂|……住口……妖孽。}}\n{{对话|葛洪|——谁是妖孽呀？嗯？羽化失败的才是妖孽吧？要不是我给了你紫石，你就要活活痛死了。}}\n{{对话|令狐茂|………………}}\n{{对话|葛洪|看看你的眼睛，已经被紫石异化了。左君早就看出来了。你再不思变，你就要……走上你师父的老路了。}}\n{{对话|令狐茂|……我只是……一时多用了些。我只是……}}\n{{对话|葛洪|时辰是不是快到了？左君应该在云帝宫了。你不是要去回绝此事的吗？可以去了。}}\n{{对话|令狐茂|……对，我一定会回绝此事的。}}\n{{对话|令狐茂|不需要公主的助力……也不需要你的紫石……我没事的。}}\n{{对话|令狐茂|……我会没事的。}}\n{{对话-尾}}\n\n==猫邦掌故·肆==\n{{对话-头}}\n{{对话|叔父|荀攸，过来，见你的小叔叔。|头像=猫绒绒·青年男}}\n{{对话|荀攸|哎……？|头像=猫绒绒·荀攸}}\n{{对话|荀彧|喵呜？|头像=猫绒绒·荀彧}}\n{{对话|荀攸|……好小只……肉垫软软的。|头像=猫绒绒·荀攸}}\n{{旁白|许多年后……}}\n{{对话|荀彧|考上了。}}\n{{对话|荀攸|……哦。意料之中。}}\n{{对话|荀攸|离开学还有三个月，走水路很近，不用急着收拾行李。}}\n{{对话|荀彧|要带很多行李去吗？}}\n{{对话|荀攸|不用，日常起居所需，学宫里都有……带些睡得习惯的被子，衣物也尽可能多带。}}\n{{对话|荀攸|钱不用带太多，平时只是偶尔花些零钱，大项都是记账，然后年末送回族中的。}}\n{{对话|荀攸|啊，有一样东西要多带，胡粉。虽然会发放让学生们保持仪容的化妆品，但你的毛色太白了，用不了学宫的。}}\n{{对话|荀彧|那我会上你的课吗？}}\n{{对话|荀攸|会，我教农商通论、桑弘氏经典、八政<ref>《尚书·宏范》：“八政：一曰食，二曰货，三曰祀，四曰司空，五曰司徒，六曰司寇，七曰宾，八曰师。”有他说。</ref>。大概第一年后半年就会有我的课了。}}\n{{对话|荀攸|虽然感觉不必担心，但还是事先说好，在学宫里还是不要随意说我们的亲缘。别的学生会不满的。}}\n{{对话|荀攸|还有，带几方颍川的好墨去吧。学宫发的墨有些涩。}}\n{{对话|荀攸|其他的……其他的没什么，你沉着稳重，孔呼噜子会很喜欢你的。}}\n{{旁白}}\n{{对话|孔融|今年入学的学子，交上卷子都很优秀喵……}}\n{{对话|孔融|啊，那是你的族亲吗？}}\n{{对话|荀攸|是。按辈分，是在下的小叔叔。}}\n{{对话|孔融|王佐之才。难怪策论风格很像，被你指点过吧？}}\n{{对话|荀攸|会在族中补课，但绝无透题之事……}}\n{{对话|孔融|我知道。你的猫品绝对可靠。}}\n{{对话|孔融|……今年，你该晋升了。我算过考核，年轻的讲师中，你应该是考绩最优的。}}\n{{对话|荀攸|哪里，呼噜子过誉。}}\n{{对话|荀攸|时辰到了，学生们要午休了。在下先回值更室了。呼噜子今日应该是休沐，请早些回府歇息。学宫诸事交由在下便是。}}\n{{对话|孔融|嗯，辛苦小荀老师了。}}\n{{旁白}}\n{{对话|荀攸|这是学宫附近的路观图。}}\n{{对话|荀彧|……我……要这个做什么？}}\n{{对话|荀攸|这可是历代师生总结出的经验。哪里可以抄近路，哪里可以避开宵禁……}}\n{{对话|荀攸|哈……哪里的酒好喝、小食好吃，这张路观图上都有。虽然你不会逃课，但背面还有哪个老师的课可以翘……}}\n{{对话|荀彧|哈哈……谢谢小荀老师。}}\n{{对话|荀攸|……对了，再过一阵，说不定会有些好消息……会有些腊赐吧……}}\n{{对话|荀攸|拿到了晋升的腊赐，我们去雒阳酒楼庆……}}\n{{对话|讲师|小小小小小荀老师不好了——午休出出出出出事了——那个那个那个江东来的学生把把把寿张张氏的孟卓给拍扁了！|头像=猫绒绒·老年男}}\n{{对话|荀攸|……说得太快了……扁？孟卓的尾巴本来就是扁的……}}\n{{对话|讲师|脑袋！是脑袋——|头像=猫绒绒·老年男}}\n{{对话|荀攸|……………………………………………………}}\n{{对话|荀攸|内容=<div style=\"word-break: break-all;line-break: anywhere;overflow-wrap: break-word;\">！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div><!-- 表达了小荀老师的震惊之情 -->}}\n{{旁白| }}\n{{对话|荀攸|呃——————————————}}\n{{对话|荀彧|啊！……做、做噩梦了吗？}}\n{{对话|荀攸|……}}\n{{对话|荀攸|都已经过去了啊……没事……}}\n{{对话|荀攸|可能是刚到许都任职，还有些水土不服……心神不宁的。抱歉，文若，能替我取些安神药来吗……}}\n{{对话|荀彧|稍等，我这就去。}}\n{{旁白}}\n{{对话|荀彧|安神药……安神药是放在……}}\n{{对话|荀彧|真是的……中午医师都不在，只能自己慢慢找了……安神药……安神药……}}\n{{对话|荀彧|……嗯？}}\n{{对话|程昱|这不是荀尚书吗？怎么亲自来北宫所了？}}\n{{对话|荀彧|我只是来……}}\n{{对话|荀彧|……你袖子上，挂着的是……}}\n{{对话|程昱|……哎呀，没注意。一只猫爪子……呵呵。 是假的，假的，毛绒做的猫爪玩具。}}\n{{对话|荀彧|……………………你……呃！}}\n{{对话|程昱|今天是个不错的机会香料的味道很淡肉质也刚刚好关键是我饿了能邀请你去我的小厨房里做客吗刚刚用过的厨房柴火还没有熄灭哦。}}\n{{对话|荀彧|……}}\n{{对话|程昱|可以吗？}}\n{{对话|荀彧|会是什么做法？炙肉？白煮？腌制？}}\n{{对话|程昱|这个嘛……}}\n{{对话|荀彧|当年对文和……你是怎么做的？}}\n{{对话|程昱|哎呀……咽口水。要看看当年的菜谱吗？}}\n{{对话|荀攸|——能把头转过来，让我看看你在说些什么吗？|头像=猫绒绒·荀攸}}\n{{对话|程昱|……小荀老师来了。}}\n{{对话|荀攸|文若，过来。|头像=猫绒绒·荀攸}}\n{{对话|程昱|不要激动不要激动……能把我脖子上的剑挪开吗？}}\n{{对话|程昱|呼……其实，当年你动心了吧，荀彧。}}\n{{对话|程昱|那个时候，你犹豫过的。一旦动过心了，你终有一日会提出交易。}}\n{{对话|荀攸|邪魔之猫。}}\n{{对话|程昱|小荀老师如果想做交易也可以。我一直想试试猫耳朵……唔！}}\n{{对话|荀彧|！！！}}\n{{对话|荀彧|……他……死了吗？}}\n{{对话|荀攸|没有，我避开了要害。|头像=猫绒绒·荀攸}}\n{{对话|程昱|咳……哈哈……真是和外表不同的反差喵。呼……我对你握剑的右爪也很感兴趣……呼……|头像=猫绒绒·程昱}}\n{{对话|程昱|这就走了吗？不带上这个？——安神药。|头像=猫绒绒·程昱}}\n{{对话-尾}}\n\n==猫邦掌故·伍==\n{{对话-头}}\n{{对话|诸葛瑾|……呼……呼……}}\n{{对话|？？？|长兄，长兄喵……|头像=猫绒绒·黑影}}\n{{对话|诸葛瑾|唔！……抱歉，睡着了。}}\n{{对话|诸葛诞|呼……呼……}}\n{{对话|诸葛瑾|……起来！点孝烛！}}\n{{对话|诸葛诞|啊啊铛铛！……哎，不是在戏坊啊……我梦见自己登台了……}}\n{{旁白|……}}\n{{对话|？？？|二哥，你说，父亲在泉下能看见我们吗？|头像=猫绒绒·黑影}}\n{{对话|诸葛诞|能看见哦，就是视角有点奇怪喵。}}\n{{对话|诸葛瑾|你在对孩子说什么呢？！……好了，到叩拜的时辰了。}}\n{{对话|诸葛诞|拜……}}\n{{对话|诸葛诞|喂……喂……阿瑾。}}\n{{对话|诸葛诞|阿——瑾……唔啊！}}\n{{对话|诸葛瑾|……闭嘴，敬畏！}}\n{{对话|诸葛诞|…………就是问问你，家里还剩下多少钱。}}\n{{对话|诸葛瑾|……闭嘴。}}\n{{对话|诸葛诞|这可不是开玩笑的，这次父亲的葬礼可是把压箱底的鎏金器具都拿出去了……}}\n{{对话|诸葛诞|快要过冬了，柴火怎么办？棉服怎么办？还有，弟弟的学费、笔墨纸砚、族中节庆应酬……}}\n{{对话|诸葛瑾|闭嘴……身为长喵，我会想办法的。}}\n{{对话|？？？|呼……呼……呼……|头像=猫绒绒·黑影}}\n{{对话|诸葛诞|他睡着了我才敢问你。家里真的快山穷水尽了。依我看，之前老家的那座田庄……}}\n{{对话|诸葛瑾|那是祖业，你疯了吗？！}}\n{{对话|？？？|唔喵？|头像=猫绒绒·黑影}}\n{{对话|诸葛诞|啊没事没事！继续睡继续睡……}}\n{{旁白}}\n{{对话|诸葛诞|……火腿都吃完了……}}\n{{对话|诸葛瑾|快出来！你是公子，在膳房里像什么样子！}}\n{{对话|诸葛诞|都快穷到去道边讨饭了还管那个？……你的外套呢？}}\n{{对话|诸葛瑾|……破了，拿去缝补了。}}\n{{对话|诸葛诞|……你该不会为了弟弟的学费，把它卖了吧？没钱就不要嘴硬喵，我去想办法！}}\n{{对话|诸葛诞|舔舔毛、舔舔爪……铛铛！当红艺猫阿休闪亮登场！}}\n{{对话|诸葛瑾|你这是什么妆容快卸掉父亲的葬礼还没结東你想让诸葛氏沦为全琅琊的笑柄吗？！！}}\n{{对话|诸葛瑾|舔舔舔舔——}}\n{{对话|诸葛诞|啊啊我刚画完的妆不要舔——}}\n{{对话|诸葛诞|不想让我出去演百戏挣钱，你倒是放下身段去借钱啊！}}\n{{对话|诸葛瑾|钱钱钱……哪有书香门第家的公子满嘴都是钱的？你的气节呢？！}}\n{{对话|诸葛诞|气节能当冻干吃吗？！}}\n{{对话|诸葛瑾|诸、葛、诞——}}\n{{对话|侍从|啊啊二位公子！不要打……不要打了！|头像=猫绒绒·黑影}}\n{{旁白|……}}\n{{对话|诸葛诞|……呜。}}\n{{对话|诸葛瑾|呜。}}\n{{对话|诸葛诞|你怎么想的，居然抓我的脸……}}\n{{对话|诸葛瑾|……}}\n{{对话|诸葛瑾|…………}}\n{{对话|诸葛诞|……阿瑾？很痛吗？}}\n{{对话|诸葛瑾|…………………………}}\n{{对话|诸葛诞|……哭了啊……}}\n{{对话|诸葛诞|……好啦，好了喵……天塌下来还有我在呢喵。}}\n{{对话|诸葛瑾|你顶个什么用……呜……}}\n{{对话|诸葛诞|兄弟合爪，其力断筋！铛铛，当红艺猫阿休闪亮登场！客猫，想看什么百戏？来一段抓钱舞吗？}}\n{{对话|诸葛瑾|……}}\n{{对话|诸葛瑾|哈哈……噗哈哈……}}\n{{对话|诸葛诞|笑了可就要打赏了哦，吱富宝到账~慷慨——}}\n{{对话|诸葛瑾|哈哈……这个不许出去演，好丢猫！}}\n{{对话|诸葛诞|私人包场吗？那价格要翻倍喵——}}\n{{对话|诸葛诞|怎么样！笑一笑是不是好多了？}}\n{{对话|诸葛瑾|……嗯。可是……}}\n{{对话|诸葛瑾|可是……你不可能永远在江湖上飘啊飘的……你还是我弟弟，是诸葛氏的二公子啊。}}\n{{对话|诸葛诞|我们可以一起在江湖上飘呀。等弟弟学成了，就一起浪迹江湖！}}\n{{对话|诸葛瑾|……阿诞。我们……去投靠叔父吧？}}\n{{对话|诸葛瑾|把祖业、田地、坞堡都送给叔父，挂名在他那一脉。这样，至少弟弟有钱读完学宫，家里能够过冬。}}\n{{对话|诸葛诞|这种事，我出面去聊吧？下跪磕头，抱着长辈的后腿喵喵哭……我擅长啊，我又没有气节……}}\n{{对话|诸葛瑾|……不用了。}}\n{{对话|诸葛瑾|这是过继书，我昨天已经去了，磕过头了。}}\n{{对话|诸葛诞|……………………………………}}\n{{对话|诸葛瑾|……好了，这已经不是我们的宅子了。虽然叔父还允许我们住着，但是……}}\n{{对话|诸葛瑾|………………收拾行李，准备迁居吧。不用担心，我会照顾大家的。}}\n{{对话-尾}}\n "
+}

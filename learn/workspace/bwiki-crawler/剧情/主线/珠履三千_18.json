@@ -1,0 +1,47 @@
+{
+  "title": "珠履三千/18",
+  "category": "主线剧情",
+  "characters": [
+    "丹阳兵",
+    "丹阳军官",
+    "关羽",
+    "张辽"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "关羽",
+      "text": "头像=关羽",
+      "emotion": "左翼骑兵，与西凉军合围——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽",
+      "emotion": "见风使舵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "丹阳兵",
+      "text": "头像=水军乙",
+      "emotion": "幽州兵反水了，快逃啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "丹阳军官",
+      "text": "头像=副将",
+      "emotion": "不许退、不许退！给我死守阵线，谁敢退后一步，我就砍了他！"
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    },
+    {
+      "type": "narration",
+      "text": "天命何处行动贰"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E7%8F%A0%E5%B1%A5%E4%B8%89%E5%8D%83/18",
+  "crawled_at": "2026-04-12T21:57:54.328523",
+  "raw_wikitext": "{{JS|Qiantao.js}}\n[[分类:主线剧情]]\n==天命何处-行动贰==\n{{对话-头}}\n{{对话|关羽|左翼骑兵，与西凉军合围——|头像=关羽}}\n{{对话|张辽|见风使舵。|头像=张辽}}\n{{对话|丹阳兵|幽州兵反水了，快逃啊！|头像=水军乙}}\n{{对话|丹阳军官|不许退、不许退！给我死守阵线，谁敢退后一步，我就砍了他！|头像=副将}}\n{{对话-尾}}"
+}

@@ -1,0 +1,262 @@
+{
+  "title": "模板:传唤",
+  "category": "密探传唤",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly分类密探传唤css"
+    },
+    {
+      "type": "narration",
+      "text": ".panelbodypadding0"
+    },
+    {
+      "type": "narration",
+      "text": ".yuantable1width100%;backgroundcolorrgba(255, 255, 255, 0.4); bordercollapse collapse;"
+    },
+    {
+      "type": "narration",
+      "text": ".yuantable1  tbody  trlastchild  thfirstchild"
+    },
+    {
+      "type": "narration",
+      "text": "borderbottomleftradius 10px;"
+    },
+    {
+      "type": "narration",
+      "text": ".yuantable1  tbody  trlastchild  thlastchild"
+    },
+    {
+      "type": "narration",
+      "text": "borderbottomrightradius 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle传唤span style\"position absolute;right 5px;fontsize 14px;\"▼展开全部▼/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"backgroundfff\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"display inlineflex;width100%;flexwrapwrap;paddingright30px;color633719;fontsize12px\"div style\"width300px\"30px喜欢的礼物：、@&nbsp;&nbsp;nowiki /nowiki/divdiv style\"width500px\"30px不喜欢礼物：、@&nbsp;&nbsp;nowiki /nowiki/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "//"
+    },
+    {
+      "type": "narration",
+      "text": "class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "//"
+    },
+    {
+      "type": "narration",
+      "text": "class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "!信赖值!!语音&nbsp; &nbsp;&nbsp;&nbsp;放大文字这是临时图片，正式图制作中"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;信赖值语音+1/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "!colspan2 style\"margin10px 30px;borderradius0 0 10px 10px;\""
+    },
+    {
+      "type": "narration",
+      "text": "//"
+    },
+    {
+      "type": "narration",
+      "text": "class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "//!出现新的类型参考这个复制"
+    },
+    {
+      "type": "narration",
+      "text": "//!出现新的类型参考这个复制"
+    },
+    {
+      "type": "narration",
+      "text": "//"
+    },
+    {
+      "type": "narration",
+      "text": "class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "//"
+    },
+    {
+      "type": "narration",
+      "text": "class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;贺词+1/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "//"
+    },
+    {
+      "type": "narration",
+      "text": "class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/tdtd/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"margin10px 30px;\"密探语音的上传是一项巨大工程，编辑部人力有限，会在的前提下，陆续更新。brbr如果殿下有意愿一起来建设上传，请阅读'''span style\"borderbottom1.5px 9a83b3 dashed\"上传规则、录入帮助'''/span，遇到任何问题可以在放大文字Wiki反馈催更群：945258792群、span style\"borderbottom1.5px 9a83b3 dashed\"/span内或者微博/小红书账号进行询问，会尽快给殿下们解答。/divdiv style\"position absolute; bottom10px; right10px;zindex0; width110px; height auto;margintop30px;.pngdisplaynone\"右link言事章/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "11! 如果存在出场语音字段超过11个"
+    },
+    {
+      "type": "narration",
+      "text": "! 那么是第13个"
+    },
+    {
+      "type": "narration",
+      "text": "! 没有（隐密），那么输出传唤台词，是第8个"
+    },
+    {
+      "type": "narration",
+      "text": "!  1"
+    },
+    {
+      "type": "narration",
+      "text": "! class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "胜利&nbsp;&nbsp;胜利酣战过后，切忌贪凉。"
+    },
+    {
+      "type": "narration",
+      "text": "失败&nbsp;&nbsp;失败……交给我吧，让他们都消失……"
+    },
+    {
+      "type": "narration",
+      "text": "急诊&nbsp;&nbsp;急诊我只救得了这一次。"
+    },
+    {
+      "type": "narration",
+      "text": "援护&nbsp;&nbsp;援护病患不可逞强。"
+    },
+    {
+      "type": "narration",
+      "text": "突破&nbsp;&nbsp;突破人以天地之气生，这下确实更顺畅了。"
+    },
+    {
+      "type": "narration",
+      "text": "修为1&nbsp;&nbsp;修为1看了几卷医书，眼睛有些酸了。"
+    },
+    {
+      "type": "narration",
+      "text": "修为2&nbsp;&nbsp;修为2继续坐诊吧。"
+    },
+    {
+      "type": "narration",
+      "text": "化极&nbsp;&nbsp;化极病为木，工为标。"
+    },
+    {
+      "type": "narration",
+      "text": "觉醒&nbsp;&nbsp;觉醒能在满山杏林之中，与友人为伴，安度余生，却也遥不可及"
+    },
+    {
+      "type": "narration",
+      "text": "送礼1&nbsp;&nbsp;送礼1殿下慷慨，我也为殿下准备了熏浴用的药包。"
+    },
+    {
+      "type": "narration",
+      "text": "送礼2&nbsp;&nbsp;送礼2不必专门为我备礼，带些药材便可。"
+    },
+    {
+      "type": "narration",
+      "text": "传唤台词1&nbsp;&nbsp;传唤台词1殿下是有不适？"
+    },
+    {
+      "type": "narration",
+      "text": "传唤台词2&nbsp;&nbsp;传唤台词2桂枝三两，芍药三两，甘草二两，自己不适就饮下，有人让你不适就泼过去。"
+    },
+    {
+      "type": "narration",
+      "text": "出场&nbsp;&nbsp;出场杏林济世，悬壶救生。"
+    },
+    {
+      "type": "narration",
+      "text": "队长技&nbsp;&nbsp;队长技千万保护好要害。"
+    },
+    {
+      "type": "narration",
+      "text": "技能&nbsp;&nbsp;技能时间差不多了哦。"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E4%BC%A0%E5%94%A4",
+  "crawled_at": "2026-04-12T21:53:01.828193",
+  "raw_wikitext": "<includeonly>[[分类:密探传唤]]{{#css:\n.panel-body{padding:0}\n.yuantable1{width:100%;background-color:rgba(255, 255, 255, 0.4); border-collapse: collapse; }\n.yuantable1 > tbody > tr:last-child > th:first-child {\n  border-bottom-left-radius: 10px;\n}\n.yuantable1 > tbody > tr:last-child > th:last-child {\n  border-bottom-right-radius: 10px;\n}\n}}\n<div class=drop-down-wrap>\n<div class=wrap-title>\n<div class=title>{{{姓名}}}-传唤<span style=\"position: absolute;right: 5px;font-size: 14px;\">▼展开全部▼</span></div>\n<div class=\"glyphicon icon-arrow-plus\"></div>\n</div>\n<div class=wrap-content style=\"background:#fff\">\n<div style=\"display: inline-flex;width:100%;flex-wrap:wrap;padding-right:30px;color:#633719;font-size:12px\"><div style=\"width:300px\">[[文件:橙脸.png|30px]]喜欢的礼物：{{#arraymap:{{{喜欢礼物}}}|、|@|{{道具ask|@}}&nbsp;&nbsp;|<nowiki> </nowiki>}}</div><div style=\"width:500px\">[[文件:蓝脸.png|30px]]不喜欢礼物：{{#arraymap:{{{不喜欢礼物|无}}}|、|@|{{道具ask|@}}&nbsp;&nbsp;|<nowiki> </nowiki>}}</div></div>\n{{折叠面板|开始|主框=1}}\n{{折叠面板|标题=常规语音|选项=1|主框=1|样式=warning|展开=是}}\n{{#arraydefine:常规|{{{常规}}}|/}}{{#arraydefine:常规语音|{{{常规语音}}}|/}}\n{|class='yuantable1'\n{{#loop:序号1|0|{{#arraysize:常规}}|<tr><td>{{#arrayindex:常规|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#arrayindex:常规|{{#var:序号1}}}}}}</td><td>{{#arrayindex:常规语音|{{#var:序号1}}}}</td></tr>}}\n|-\n|}\n{{折叠面板|内容结束}}\n{{折叠面板|标题=信赖值|选项=2|主框=2|样式=warning|隐藏={{#ifeq:{{{信赖值}}}|无|是|否}}}}\n{{#arraydefine:信赖值|{{{信赖值}}}|/}}{{#arraydefine:信赖值语音|{{{信赖值语音}}}|/}}\n{|class='yuantable1' \n!信赖值!!语音&nbsp; &nbsp;&nbsp;&nbsp;{{文字转图|信赖值奖励|120px|600px|默认文字={{颜色|#000|信赖值奖励}}|放大文字=这是临时图片，正式图制作中}}\n|-\t\n{{#loop:序号1|0|{{#arraysize:信赖值语音}}|<tr><td>{{#arrayindex:信赖值|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-信赖值语音{{#expr:{{#var:序号1}}+1}}}}</td><td>{{#arrayindex:信赖值语音|{{#var:序号1}}}}</td></tr>}}\n|-\n!colspan=2 style=\"margin:10px 30px;border-radius:0 0 10px 10px;\"|{{颜色|#FFFAF0|*信赖值3000解锁语音为传唤台词2}}\n|}\n{{折叠面板|内容结束}}\n{{折叠面板|标题=离魂|选项=3|主框=3|样式=warning|隐藏={{#ifeq:{{{离魂}}}|无|是|否}}}}\n{{#arraydefine:离魂|{{{离魂}}}|/}}{{#arraydefine:离魂语音|{{{离魂语音}}}|/}}\n{|class='yuantable1' \n{{#loop:序号1|0|{{#arraysize:离魂语音}}|<tr><td>{{#arrayindex:离魂|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#arrayindex:离魂|{{#var:序号1}}}}}}</td><td>{{#arrayindex:离魂语音|{{#var:序号1}}}}</td></tr>}}\n|-\n|}\n{{折叠面板|内容结束}}\n{{折叠面板|标题=玉门商店|选项=4|主框=4|样式=warning|隐藏={{#ifeq:{{{玉振}}}|无|是|否}}}}\n{{#arraydefine:玉振|{{{玉振}}}|/}}{{#arraydefine:玉振语音|{{{玉振语音}}}|/}}<!--出现新的类型参考这个复制\n -->{{#arraydefine:金声|{{{金声|}}}|/}}{{#arraydefine:金声语音|{{{金声语音|}}}|/}}<!--出现新的类型参考这个复制 \n -->{{#arraydefine:话题|{{{话题}}}|/}}{{#arraydefine:话题语音|{{{话题语音}}}|/}}\n{|class='yuantable1' \n{{#loop:序号1|0|{{#arraysize:玉振语音}}|<tr><td>{{#arrayindex:玉振|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#arrayindex:玉振|{{#var:序号1}}}}}}</td><td>{{#arrayindex:玉振语音|{{#var:序号1}}}}</td></tr>}}\n{{#loop:序号1|0|{{#arraysize:金声语音}}|<tr><td>{{#arrayindex:金声|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#arrayindex:金声|{{#var:序号1}}}}}}</td><td>{{#arrayindex:金声语音|{{#var:序号1}}}}</td></tr>}}\n{{#loop:序号1|0|{{#arraysize:话题语音}}|<tr><td>{{#arrayindex:话题|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#arrayindex:话题|{{#var:序号1}}}}}}</td><td>{{#arrayindex:话题语音|{{#var:序号1}}}}</td></tr>}}\n|-\n|}\n{{折叠面板|内容结束}}\n{{折叠面板|标题=乙巳|选项=5|主框=5|样式=warning|隐藏={{#ifeq:{{{乙巳}}}|无|是|否}}}}\n{{#arraydefine:乙巳|{{{乙巳}}}|/}}{{#arraydefine:乙巳语音|{{{乙巳语音}}}|/}}\n{|class='yuantable1' \n{{#loop:序号1|0|{{#arraysize:乙巳语音}}|<tr><td>{{#arrayindex:乙巳|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-贺词{{#expr:{{#var:序号1}}+1}}}}</td><td>{{#arrayindex:乙巳语音|{{#var:序号1}}}}</td></tr>}}\n|-\n|}\n{{折叠面板|内容结束}}<!--出现新的类型参考这个复制\n -->\n{{折叠面板|标题={{{活动语音1标题}}}|选项=6|主框=6|样式=warning|隐藏={{#if:{{{活动语音1标题|}}}||是}}}}\n{{#arraydefine:活动语音1|{{{活动语音1}}}|/}}{{#arraydefine:活动语音1名称|{{{活动语音1名称}}}|/}}\n {|class='yuantable1' \n{{#loop:序号1|0|{{#arraysize:活动语音1名称}}|<tr><td>{{#arrayindex:活动语音1名称|{{#var:序号1}}}}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#arrayindex:活动语音1名称|{{#var:序号1}}}}}}</td><td>{{#arrayindex:活动语音1|{{#var:序号1}}}}</td></tr>}}\n|-\n|}\n{{折叠面板|内容结束}}\n<div style=\"margin:10px 30px;\">密探语音的上传是一项巨大工程，编辑部人力有限，会在{{颜色|命盘紫|优先更新最新活动文字内容}}的前提下，陆续更新。<br><br>如果殿下有意愿一起来建设上传，请阅读'''<span style=\"border-bottom:1.5px #9a83b3 dashed\">[[密探语音上传规则|上传规则]]、[[模板:传唤|录入帮助]]'''</span>，遇到任何问题可以在{{文字转图|编辑部表情包-催更|50px|600px|默认文字={{颜色|命盘紫|编辑部}}|放大文字=Wiki反馈催更群：945258792}}群、<span style=\"border-bottom:1.5px #9a83b3 dashed\">[[Wiki讨论板|{{颜色|命盘紫|Wiki讨论板}}]]</span>内或者微博/小红书账号进行询问，会尽快给殿下们解答。</div><div style=\"position: absolute; bottom:-10px; right:-10px;z-index:0; width:110px; height: auto;margin-top:30px;{{#ifexist:文件:言事章-底-{{{姓名}}}.png||display:none}}\">[[文件:言事章-底-{{{姓名}}}.png|右|link=言事章]]</div>\n</div></div>\n{{#set:\n|出场语音=\n{{#if:{{#arraysize:常规语音}} > 11<!-- 如果存在出场语音字段超过11个 -->|\n  {{#invoke:String|unstrip|{{#arrayindex:常规语音|11}}}}<!-- 那么是第13个 -->|\n  {{#invoke:String|unstrip|{{#arrayindex:常规语音|7}}}}<!-- 没有（隐密），那么输出传唤台词，是第8个 -->\n}}\n<!-- {{#loop:序号1| {{#if:{{#arraysearch:常规|出场}}|{{#arraysearch:常规|出场}}|{{#arraysearch:常规|送礼1}} }}|1|{{#arrayindex:常规语音|{{#var:序号1}} }} }}  -->\n}}\n<!-- {|class='yuantable1'\n|-\n|胜利&nbsp;&nbsp;{{mp3|{{{姓名}}}-胜利}}||酣战过后，切忌贪凉。\n|-\n|失败&nbsp;&nbsp;{{mp3|{{{姓名}}}-失败}}||……交给我吧，让他们都消失……\n|-\n|急诊&nbsp;&nbsp;{{mp3|{{{姓名}}}-急诊}}||我只救得了这一次。\n|-\n|援护&nbsp;&nbsp;{{mp3|{{{姓名}}}-援护}}||病患不可逞强。\n|-\n|突破&nbsp;&nbsp;{{mp3|{{{姓名}}}-突破}}||人以天地之气生，这下确实更顺畅了。\n|-\n|修为1&nbsp;&nbsp;{{mp3|{{{姓名}}}-修为1}}||看了几卷医书，眼睛有些酸了。\n|-\n|修为2&nbsp;&nbsp;{{mp3|{{{姓名}}}-修为2}}||继续坐诊吧。\n|-\n|化极&nbsp;&nbsp;{{mp3|{{{姓名}}}-化极}}||病为木，工为标。\n|-\n|觉醒&nbsp;&nbsp;{{mp3|{{{姓名}}}-觉醒}}||能在满山杏林之中，与友人为伴，安度余生，却也遥不可及\n|-\n|送礼1&nbsp;&nbsp;{{mp3|{{{姓名}}}-送礼1}}||殿下慷慨，我也为殿下准备了熏浴用的药包。\n|-\n|送礼2&nbsp;&nbsp;{{mp3|{{{姓名}}}-送礼2}}||不必专门为我备礼，带些药材便可。\n|-\n|传唤台词1&nbsp;&nbsp;{{mp3|{{{姓名}}}-传唤台词1}}||殿下是有不适？\n|-\n|传唤台词2&nbsp;&nbsp;{{mp3|{{{姓名}}}-传唤台词2}}||桂枝三两，芍药三两，甘草二两，自己不适就饮下，有人让你不适就泼过去。\n|-\n|出场&nbsp;&nbsp;{{mp3|{{{姓名}}}-出场}}||杏林济世，悬壶救生。\n|-\n|队长技&nbsp;&nbsp;{{mp3|{{{姓名}}}-队长技}}||千万保护好要害。\n|-\n|技能&nbsp;&nbsp;{{mp3|{{{姓名}}}-技能}}||时间差不多了哦。\n|} -->\n</includeonly><noinclude>\n{{面包屑|编辑指南}}[[分类:模板]]{{模板说明}}\n</noinclude>"
+}

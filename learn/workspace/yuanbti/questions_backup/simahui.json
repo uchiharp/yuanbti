@@ -1,0 +1,89 @@
+[
+  {
+    "id": "q_simahui_01",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "司马徽",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "你是名满天下的隐士，两位枭雄同时派人请你出山辅佐。两人都许以高位厚禄，但你知道他们最终会互相为敌。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "谁也不帮，继续隐居不问世事",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "选择理念更合的一位，全力辅佐",
+        "scores": {
+          "S1": 3,
+          "S9": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "两边都保持联系，暗中布局让天",
+        "scores": {
+          "S1": 4,
+          "S9": 3.5,
+          "S4": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自司马徽的密探故事——他号称水镜先生，看似超然实则在幕后搅动风云。"
+  },
+  {
+    "id": "q_simahui_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人问你：乱世之中，规矩和秩序还有什么用？你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "「乱世中规矩确实无用，不如变通。」",
+        "scores": {
+          "S10": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「规矩是给守规矩的人留的退路。」",
+        "scores": {
+          "S10": 3,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「正因为是乱世，才更需有人守住规矩",
+        "scores": {
+          "S10": 4,
+          "S9": 3.5,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "司马徽表面随和，实则对秩序与纲常有深刻的理解与坚持。"
+  }
+]

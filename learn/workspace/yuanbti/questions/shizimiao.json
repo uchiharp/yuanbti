@@ -1,0 +1,197 @@
+[
+  {
+    "id": "史子眇_s6_04",
+    "type": "classic",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "史子眇",
+    "text": "史子眇在鬼城看到病患，立刻诊断「是长期饥饿，加上吃了太多不能克化的东西」。他坚持要救人，无视可能的危险。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「我帮你找药材」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "支持他的救人行为，共同坚守底线→S6:5"
+      },
+      {
+        "label": "B",
+        "text": "拉着他，「这里危险，我们先离开」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "劝他放弃救人优先自保→S6:1"
+      },
+      {
+        "label": "C",
+        "text": "说「诊断清楚就好，让其他人来处理」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "口头支持但不亲身介入→S6:3"
+      }
+    ],
+    "reveal": "「是长期饥饿，加上吃了太多不能克化的东西。鬼城与世隔绝，城中粮米短缺吗？」——史子眇的诊断"
+  },
+  {
+    "id": "史子眇_s3_05",
+    "type": "funny",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "史子眇",
+    "text": "土大概这样厚……」一边说一边比划。",
+    "options": [
+      {
+        "label": "A",
+        "text": "跟着他学种，边种边问细节",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "认真对待他的教学，务实好学→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "看着，但不动手",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "被动学习，不主动实践→S3:1"
+      },
+      {
+        "label": "C",
+        "text": "帮他一起种，但不问为什么",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "行动但不深究原理→S3:3"
+      }
+    ],
+    "reveal": "「这是红薯苗……然后这头朝上。土大概这样厚……」——史子眇教辩儿种地"
+  },
+  {
+    "id": "shizimiao_s10_1",
+    "type": "daily",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "shizimiao",
+    "text": "史子眇仔细地把你弄脏的衣摆擦干净然后叠好放在你手边。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说谢谢你每次都这么细心",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "肯定他遵守规矩细心照顾人的行为→S10:5"
+      },
+      {
+        "label": "B",
+        "text": "说不用那么麻烦我自己来",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "不反对但想自己来→S10:3"
+      },
+      {
+        "label": "C",
+        "text": "说你别管我的衣服了",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "拒绝他人的细心照顾→S10:1"
+      }
+    ],
+    "reveal": "史子眇是个安静但很细心的人，总是默默把事情做好。"
+  },
+  {
+    "id": "shizimiao_sup2_01",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "史子眇",
+    "text": "史子眇从怀里掏出一个夜明珠兔兔灯递给你：「你看，你小时候最喜欢的夜明珠兔兔灯！」灯光在黑暗中亮起来，照亮了他的脸。你怎么接？",
+    "options": [
+      {
+        "label": "A",
+        "text": "接过来点亮说谢谢，问他还留着呢",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "礼貌接受但不表露太多情绪，保持距离→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "捧着兔兔灯说这个我还以为早丢了，没想到你还留着",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "表达意外和一丝感动，温和地回应他的心意→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "把灯举到他面前说照照你的脸，让我看看这些年你变了多少",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "把灯反过来照亮他，表达「我在看你这个人」的温柔→S8:5"
+      }
+    ],
+    "reveal": "史子眇帮你修好了被毁的坟墓，还留着你小时候的兔兔灯。他守护的东西从来不是坟墓，是你整个成长过程。"
+  },
+  {
+    "id": "shizimiao_sup2_02",
+    "type": "angst",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "史子眇",
+    "text": "盗墓贼被抓后跪地求饶，史子眇转头对你说：「……可是，他在求饶啊。」又叹气：「杀一人，和杀全家毫无差别。」他明显不希望你处死这个人。你怎么决定？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说规矩就是规矩，偷陪葬就该按律处置",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "坚持法度不肯通融，底线坚硬不退让→S6:1"
+      },
+      {
+        "label": "B",
+        "text": "说那就罚他修墓赔钱，饶他一条命算了",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理既维护了法度又给了他活路，底线适度弹性→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "说就按先生说的办，法外容情这一次",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "完全接受他的建议破例从宽，底线弹性很大→S6:5"
+      }
+    ],
+    "reveal": "史子眇说「法虽无情，可是你作为上位者，也可法外容情」，他自己做不到的事，希望你做到。"
+  }
+]

@@ -1,0 +1,3136 @@
+{
+  "title": "傅融-约会/七载相逢",
+  "category": "约会",
+  "characters": [
+    "傅融",
+    "女艺人",
+    "妇人",
+    "小狗的声音",
+    "少年",
+    "张绣",
+    "张邈",
+    "我",
+    "曹军士兵",
+    "曹军斥候",
+    "满宠",
+    "百姓",
+    "绣球",
+    "董奉",
+    "蛾使",
+    "西凉骑兵",
+    "诸葛诞",
+    "阿蝉",
+    "陈登",
+    "雀使",
+    "飞云",
+    "飞云的声音",
+    "飞云？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "往北走？北边，曹军的力量可是很重的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "嗯……曹军势力在北方虽然强大，但北方天灾较少，曹操的领地几乎没有受到天灾摧残。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "深入后方，也可避免被卷入大战。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "那，要怎么去？分散冲关吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "绣衣楼的舆图中，有一条通往壶关的先秦古道。若它尚能通行，就能绕开驻军和关隘，抵达壶关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "北方啊……我可能很难适应。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "等等，壶关外面是打成一锅粥的并州哦，这群人到了那，连语言都不通吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "应该往蜀道走，徐州被攻破时，我听说有仙人开启了光武秘匣，带绣衣楼去蜀地避难了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "江关如今在曹军手上，那是入蜀最安稳的路……若是走山路入蜀，我们的辎重粮米都不够。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "太行山下，有一条龙脉流道。龙脉枯竭了，形成了一条贯通太行山脉的山中密道，密道外就是壶关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "从前，仙人在密道出入口设了机关法阵。我知道开启方式，只要能抵达那里，就能出关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "有话要同你说。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你不想去北方吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……嗯。看出来了啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "确实无法适应吧……毕竟在南方生活惯了，难以在北方生活。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "就在这里分道扬镳吧。你既然有决断、有路线，我也能对元龙安心了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那你去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "交趾。回我的故乡去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "就算是死，人也想死在故乡。我离乡太久了……终究是要回去的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "告辞，请。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "他走了？突然好没安全感。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "话说回来，出了壶关，去哪落脚？该不会真的要带这群人打匈奴吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "再往东，去幽州。涿鹿有先王旧部，与曹操两不相犯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那里幽远寒冷，远征无益，只要面上不叛，双方就暂安无事。我想将人托付给他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女艺人",
+      "text": "头像=民妇",
+      "emotion": "喂，喂，阿休，你看对面的山崖⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "鸢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "绣衣楼散了之后，还有那种鸢吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……只是寻常山林野鸢吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是我听错了，无事，继续前行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "再往北，就不能再换布匹了。沿途需要收集树绒，准备御寒之物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "让孩子们在扎营时去附近找可制火引之物⋯⋯唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "殿下，无事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……我没事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "先休息片刻吧？你的脸色看起来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "没……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "殿下！殿下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "好冷……她断腿的地方发炎了，身体其他地方都在发冷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "…………呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小狗的声音",
+      "text": "嘶哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小狗的声音",
+      "text": "嘶哈嘶哈嘶哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "…………………………飞云？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云？？？",
+      "text": "嗷呜！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "…………哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=飞云",
+      "emotion": "嘶哈嘶哈嘶哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-欣喜",
+      "emotion": "飞云！唔啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "唔啊啊——慢点！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "飞云！飞云！慢点！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "——傅融！让它们……啊啊让它们慢一点！傅融！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "怎么回事？你们不是应该去了西蜀吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……七年不见，不先补发一下这七年的工钱吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我把地图画给了诸葛诞，让他先带着大队人马走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "这么多人，不能在一个地方停下来，食物的消耗太快了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你知道那条密道？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "理文书时候见过记载。不过，他们到那里，估计找不到密道路口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……那时候估计我腿脚已经好了，轻骑上路，很快就能追上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你们不是应该在西蜀避战吗？为什么还留在关中？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "到了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "这是你的栖息地吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "傅副官回来了？哎，这是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嗯，找到了，绣球没看错。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "哎？！小麻雀！小麻雀小麻雀！朱羽朱羽！楼主回来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……当时送他们过了蜀道，休整了一阵。但是，还是有很多人想回来找你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "穿过战场时，损失了许多同僚。剩余的人最后驻扎在这处秘密据点，调查你的消息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "最近确实收到情报，说有自称广陵王之人重现徐州，傅副官于是外出探查……居然是真的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "还有多少能外出巡飞的绣云鸢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "只有绣球了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "哎？绣球？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣云鸢",
+      "emotion": "……咕咕叽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "能行吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没事……其实已经快好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "上来吧，我背你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "七年不见，人变这么好了呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……怕你一来一回，散个步天都亮了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这七年，你过得怎样？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "可惨了！被关在地牢里不见天日的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哪家地牢这么好，白吃白喝供你七年还不用你干活？这是地牢吗？介绍一下我搬去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈……哈哈哈哈……哪有那么好，我这不是拼命逃出来了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "逃出来了……然后呢？准备出关？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯，从壶关往外，曹军的力量就薄弱许多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我打算让他们去幽州，投靠简氏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……那位可不好相处。他和先王恩怨太重。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我可是无辜至极的小辈。大不了……他在我左脸也划一刀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……自身难保，还管那么多人吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "都是留在广陵的人，想找条活路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "人世和人性都无可救药，何必。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "无可救药是人世和人性自己的事，与我何干？做想做的事就是了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我一直没什么好说的啊，你从前不是总说我，脑子里不知道在想什么吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "说说你们吧，这些年，你们怎样了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……大部分人都出发去了蜀地。途中在战乱中流散了一批。文书烧了许多。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "蜀地也在打，龙脉崩散，天下大乱。我们抵达时，隐鸢阁的山门已经落下了。里面的人出不来，外面的人进不去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "很快到了冬天，出不来的人死了许多，进不去的人在石门外也死了许多，只要一会儿不动，雪就会把人压住。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "后来……总算有人从山门后逃了出来，不知为何，都已经疯了，好像里面有什么骇人的东西。还好，就在那时，益州牧派人来接引了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我们想回来找你。走到绵竹，玄蜂伤的太重……他体质特殊，那年，他的身体开始溃散了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我和天蛾换班背他。他越来越轻、越来越轻，体内出现的人也越来越少。后来，只剩下一点原本的人格，絮絮叨叨。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "说他想家乡了，想回云阳老家。我们还是第一次知道，玄蜂的本体是云阳人呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "后来就不用换班了。因为太轻了。他说云阳的村子，村里种了许多云阳花。当地人以为是特产。其实，是外面随处可见的玉簪花。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "但是，当地人很珍惜它们，小心栽培、晾晒，当成珍稀的护身符。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他们在玉簪花里装上云阳的土随身带着，玄蜂最后散尽了，只留下一串干花。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "剩下的人就是你见到的，天蛾、云雀和几名鸢使一起回来了。这里有几亩荒田，勉强能够维生。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "找到我之后，你们打算怎么做？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嗯？你是楼主，你问我这个？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还是要问呀。是“为了找一个结果而找”，还是“找到后希望一起回西蜀”，或者是“找到后重建绣衣楼”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "失去那么多人，我不能上来就说，傅融，你带上所有人跟我走，我想做这个那个。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你们想得到一个结果，然后停在这里隐居避战，还是想像以前一样，跟我离开这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "傅融……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "傅融？傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "真是的……傅融！……怎么闹起别扭来了……我明明在问你们的想法啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "傅……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "唔啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……你生气了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "就是生气了……我这不是回来了吗。回来之后……你想跟我走吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你这……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你这……不负责任的人……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "都是我的错，好了好了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这种认错一点都没有诚意！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那我给你叩首请罪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……倒也不用，把拖欠的工钱结一下就行。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "那，真的结了？结完后，就各奔东西？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……七年不见，回来就只想说这些，问我们想散伙还是接着干？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我要是用其他东西缠住你，岂不是很卑劣？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那种几年后重逢，掏出当年的情书，“哎，当年何等情深，如今竟凉薄了，竟连这点事都不愿帮我做”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "“这些年我可都在守着这段旧情啊，就连彼此送对方的信物、诗歌，都拿出来反复摩挲回味……”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "噗……哈哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈哈哈……不行！这一听就是玩弄他人情爱、打算始乱终弃的凉薄之人会说的话嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "信物什么的放箱子里就好了，诗歌什么的放心里记着就好，越是想在人前强调情深，动机就越是不纯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……把这种“不纯”强调着来体现自己动机很纯，感觉也很可疑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好了，好了……我这不是回来了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……有夜巡鹰。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我听见了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "追踪你的人近了，不能停留在这。我们该走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "曹军斥候那边应该已经得到楼主重现的消息了。虽然人群走了大军难以追赶的山道，但在几处平地仍会被截击。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "不能被他们预测出路线……在抵达山道之前，要设法引开追兵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=满宠",
+      "emotion": "你们想去哪里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=满宠",
+      "emotion": "追上他们，另一个人把行踪报回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呃……我当年就说不能信任这种来历不明不要工资的人吧？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "他要工资的！比你还……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他工资比我高？！！！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "……不，不是简单用工资衡量的……你还有……还有其他福利，比如楼里每年会发的月饼、密探生辰会发的手写卡和纪念瓷杯……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "楼主，那个月饼好难吃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "不要抱怨了，绣衣楼有编制！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=满宠",
+      "emotion": "才知道我俸禄比你高吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "走南山！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……想逃去扬州啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "回报曹丞相，绣衣余孽欲往扬州逃窜，派兵拦截。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……应该甩掉了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他们觉得我们会去扬州……如果南下，再想北上，就只能等濡须口今年的回流。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "坐实我们要去扬州之事，抵达濡须，改走水路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊……绣球和飞云回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "追兵暂时止步了……你怎么样？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "哈……没事，动了动，反而……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……没事。话说，飞云们一直都这么大啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……是之前那些小狗的后代了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "是吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "还有些在逃亡路上流散了，也许都在附近的山林中生活了吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "绣球，休息好了的话，去看一下诸葛诞那边走到哪了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……广陵已是废墟，不会有重兵把守。直接穿过广陵，去濡须渡口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "濡须渡口是野渡口，应该不会有大军驻扎的环境……但是到了北方，就到处都是重兵了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "算月份，到的时候北方已经入冬了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不好走啊……中间还有能补给的据点吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "据我所知，没有。就算有，也难以重新建立联系和信任。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "很多人，就像满宠一样，叛变投靠了曹操。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "人之常情嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "休整好了，就准备出发了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "……啊……看见了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "楼主！傅副官！看，我们回来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……回来了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……都是化掉的血肉……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "那家卖羊肉的食肆，阿蝉以前很喜欢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……啊……她好像经常巡街后就会独自来这里吃饭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "说不定……弄些烤羊肉，撒点孜然，能把她引回来？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈……啊啊，要是以前，真的是从没缺过孜然和白盐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你就没缺过东西，以前买东西都不问价钱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哪有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "有的有的。有次大家去重泉踏青春游，有个何氏女官的妆奁洒了。楼主刚好要跑马去莲勺，莲勺有市集。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嗯，想起来了。她说，我一日内就来回，给你带妆奁来。说着便策马去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "黄昏时又策马回来，真的买回了一套妆奁。我问，花了多少钱。她说，不记得了，就几十白金币吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "哈哈哈……那可真是一掷千金。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "何子好像后来是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "跳江了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "她不想去西蜀，也不想去其他地方，就自己走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……傅融。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我知道，这边原有一条出城密道，直接通往东陵山。 我带人去找。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "从高处看，对方在南城门外。是轻骑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "密道被碎石盖住了……云雀，辎重上的滑轴在哪？ 得把碎石运开。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "我去找。用滑轴的话……在这里、这里……还有那边，三个点打入铁钉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……天蛾！对方还有多少马步？天蛾！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃──"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "天蛾！还有多远？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "……太近了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "快蹲下！会被看见的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "天蛾！蹲下来！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "我知道他们去哪了！别杀我！我知道！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "我知道他们去哪了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "张绣将军，这人应该是绣衣楼的死士。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "死士，为何叛变？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "哈……这不是……主人落魄了嘛。养死士可是很花钱的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "少废话，他们去哪了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "这总得先说清楚吧。我卖了他们的行踪，你们也要替我保密，要不然，我以后怎么混……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "还有，还有，我饿了好几天了……求求你们，有没有吃的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "不要……弄出声响……小心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "他们……他们没有注意到这边……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "一点吃的就行……什么都可以……呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "找打吗？问你什么答什么！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "他们……他们往那边跑了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "派人去看看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "……那里似乎没有人气儿啊，小哥。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "……怎么会……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "把孩子们放出来，让它们跑动跑动吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "小哥，劳烦，你再指一遍方向。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "嗯？辛苦了，再为我的孩子们指一遍吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "我可是很少和年轻人这样轻声说话的，譬如子桓那孩子，神思敏锐，说大声了，怕惊骇了他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "主要是，我杀过他兄长，故而有些许心虚……啊，你知道我是怎么杀他兄长的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "……关我屁事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "快！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "飞云，往前面探路！ ……不知道前面的路有没有阻碍。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "火苗方向是稳定的，前面没有堵死，有出口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……云雀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "他还在外面……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "……不，没事的，没事的……继续走……没事的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你怎么不回家？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "弟弟让我回去，但是，我觉得，楼主可能还在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……等我们到了濡须，我们北上，你南下，回家乡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你的身体，已经无法再经历一次长途跋涉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "如果能死在路上，也很好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "我知道，楼主希望我活下去。傅融也劝过我，可是，我也是这样与他说的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "对我来说，绣衣楼更像家。如果和家人死在一起更好，那我宁可……和大家在一起。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你可以先回家，等一切安定了，我们再来找你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "……不。 不会了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "……我已经……有预感了。如果在这里分开，就不得再见了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军士兵",
+      "text": "头像=士兵",
+      "emotion": "找到了！在这里！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "有什么味道……是火油！！！ 快！出地道！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "呃──都快出来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=飞云",
+      "emotion": "汪！汪汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "着火了！都醒醒！往下风处走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "飞云！飞云！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "飞云呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "它们在附近夜巡，没有回来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "我们先……呃！小心！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "咳……傅融，你能看清方向吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "咳……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云的声音",
+      "text": "汪！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呼……咳……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……飞云？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……唔……你……没事吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我们……躲过了……还能走吗？得尽快去山阴，和其他人汇合。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……刚才，好像梦见飞云了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "下面好像有人在推船……他们到了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "快！还有一点就到了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "快！满宠！带人从下方绕过去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "你愣着做什么？快往前，别把山道堵住！──啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军士兵",
+      "text": "头像=士兵",
+      "emotion": "满宠，你做什么？！你要背叛吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "快走。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……密信上，明明只写了坐实我去扬州……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "……没办法。哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "就你一个朋友……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "记得来看我……记得把欠我的钱，都还清了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "……看，那边，好像是行进的队伍！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "真的！……人少了好多……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "毕竟路途漫长，沿途还要遭遇饥荒和战乱……变少了也难免吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "诸葛诞呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "诸葛诞他们呢？是中途离开了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……阿蝉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "一开始，是那名女子难产而亡？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "不知道，那时候我还没来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我找过来，已经开始打了。有人太饿了，想挖开女人的坟。诸葛诞不愿意。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我找过来了。把闹事的人杀了，带着其他人，去他们说的地方等你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这些年，你都在哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "唔……先是在关中找你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "吕布死后，文远叔留在曹操那边了，分开前，他想替我重新做个身份。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "但我想找你，我不信你死了，就带了些亲兵，去更远的地方找。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……找到颍川，颍川那边，有几位王府和绣衣楼从前的故人。文官和女官。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "先是去了文官家里。他说，他听到了你的下落，让我等几日。我等了。结果晚上的时候，他来找我喝酒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "他说，反正现在广陵王也不在了，你跟我了吧。他看我的眼神让我不舒服，我就把他全家杀了，去了下一家。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "下一家是那个姓吕的女官，从前和阿嬴、何子不太好。你失踪后，她就回家乡了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "晚膳的时候，她这样跟人介绍我。她说，这就是那个关外来的侍女，从前陪殿下睡过，得了高升。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "“还有两个侍女，学着她的样，一起去陪殿下睡，那时都很风光”。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "不知怎么的，她的话也让我不舒服。我就把她全家也杀了，继续去了下一家。不过，都没有殿下的消息。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "真是的，好歹留两个活口啊，至少也是宝贵的线人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "啊？我习惯不留活口的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "这种怎么可能压住消息？县里肯定知道那天去做客的是谁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "下次，你要派兵马在门口等着，另外再派两人，去县里的乡老那边打点好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "对，这样出了事，你就说是盗贼闯入府中杀人劫财，让乡老替你背书，全身而退。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "哦……哦哦……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他兄长……如今在哪？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……也在许县吧。他兄长的性格，去许县也好，能避开战乱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "大多数人还是避战的。不过，阿蝉……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯，毕竟是西凉人带大的孩子。世道一乱，杀性就翻涌出来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不是很好嘛？比以前自在多了，人都长高了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这两点有什么联系吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……说起来，你们差不多大，为什么她长高了，你就不长了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "我、我……我这不是，被这乱世压弯了腰吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那我们这些七年没领工资的呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……对哦，工资……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "听错了，肯定是听错了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "好冷……嘶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "尽量紧挨着走，护住火源。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这条密道太古老了……不知道壶关外是什么境地。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "混战。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……果然。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "关内关外都在混战。打了很久了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "马超叔败走后，并州就没有坐大的军阀了。想从壶关横穿去幽州，中间会遭遇很多混战。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "要安稳的路线，就必须绕道西河。但是，会遭遇大雪严冬。这些人，不可能熬过关外的冬。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "至于不安稳的路……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "──我们杀过去。杀到雁门关，再从雁门关杀去幽州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "文远叔的战友，大多留在本地。如果他们还活着、还认我，我就能让他们抵达幽州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "这里发现了一个军官的尸首！有铁甲！还有金饰！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年",
+      "text": "头像=平民少年",
+      "emotion": "我挖出来几匹死了的战马，马肉能不能割下来带走啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "能带走的马肉都带走。军官的头割下来，符牒也带上，也许到了下一处城池能领赏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "早些睡吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你不担心西凉人反复无常？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我说实话，这个境地下，如果对方想杀我们，那可真是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈……是啊。关上城门，让我们冻死在外面就是了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "睡不着吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "还剩下不到一半的人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……比预想中好了。我还以为，能活着抵达并州的，连三千人都不到。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果韩遂没有开门，今夜又要冻死几十人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……西凉人，可真是有意思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嗯。他当年是马超的义父，也从三辅打过徐州……降过曹操，转头又叛。西凉人……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈哈……反复无常的……他和马腾拜过把子，第一天磕的头，第二天就拔刀了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你说，阿蝉长大后，会不会也这样？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "什么“长大后”？阿蝉跟我们差不多吧。你怎么聊起她，总像是聊孩子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "操不完的心……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我是不是老了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哪有，傅副官算起账，还是全广陵最清爽大方的少年郎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "买不起房少年郎，买了房房又塌了少年郎，装修完住进去房子闹鬼少年郎……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "好惨啊，这世上少年郎要都这么惨，不如生下来就是小老头。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不！傅副官，小老头找不到好工作的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "过了三十五岁，老头傅融带着计簿，敲敲广陵王府的门……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你好……招工吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不招不招，人满了。只要刚刚弱冠、身体健康、辟雍毕业的精英哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "于是老头傅融带着计簿，再去敲敲隔壁绣衣楼的门……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你好……你这边总招工吧？招死士也行啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "哈哈哈哈……哈哈哈……你好歹报个其他岗位，死士待遇可高了……哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那……哈哈哈……那你这里招打杂的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "招啊，半年休沐一次，每天工作九个时辰……天尊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哈哈哈……哈哈……这是黑牢吗？还是集体骨灰盒？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……有次做梦，我梦见大家回广陵了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我们回到城门口，原来敌军撤退了，城里安然无恙，所有人都在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "阿蝉在街上骑着马晃，周群跟在后面，赔偿她不当心踩坏的摊子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "陈登在水渠边钓鱼，张邈不知道又惹到了谁，被追打了半条街，抬上了马车。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……陈登……陈登走的时候，安祥吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……嗯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "走得很安静，是在很深的夜里，睡梦里过去的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……梦中驾鹤，虽非寿终正寝，但也是善终。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他是好人，合该有善终、有人送、有人供奉纪念的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "好人……为什么不能长命百岁呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "山林里活下来的，都是能捕杀猎物的猛兽啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……可是，他这一世，没有做过一件恶事啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没有做过恶事，也会有人给他扣上各种恶事。世道就是这样……没办法……世道没什么好人坏人。到时候了，人就走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你记得，有次广陵民变。有人谣传，说你让人在王府里种紫薇和藤花，是行邪术，吸百姓寿数补自己的命格。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊……是伍丹她们踏青带回来的一些花草啊。不舍得丢，就种下了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "然后越传越邪，什么妖魔鬼怪都跳出来了。有说自己家有个表亲，在你府上当家奴被你凌虐死的，有说自家姐妹被你强占的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "再有说你派人去附近偷婴孩，炼长生不老丹的。还有个孕妇跑出来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈哈……记得，说怀了我的，被我始乱终弃，要我负责。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我说真是开眼了，你还有这能量？好危险的上司。再往下我就得怀了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "然后我真被编排怀了，说什么“亲王身边都是女扮男装的下属，回去关上书房就白日宣淫”。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好没意思，编来编去都是这些下三路的。就不能编个我在府里挖地窖，暗造刀兵九锡什么的嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那不成。人知道编排要挑软的捏。编点下三路的淫情，你若和他们计较，那是你被戳穿了急眼。要是编造反的，那可真会掉脑袋。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "后来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……后来，陈登出来替你说话……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "被人写了歌谣，说权贵两相护，陈氏子仗势，百姓苦难言……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我们都见惯了，这种事一波接一波，跟吃饭喝水一样。但是，陈登很难过……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……很难过。我从没见过他这么难过，把自己关在府里，关了几个月。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我记得张邈很生气，要拿人杀人。陈登说算了，说自己没事，不许拿人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是个自伤的善人啊……还觉得仆人劈柴生火辛苦，就去吃生食。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……这样的人，为什么不能长命百岁呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……夜深了。睡吧，傅融。明日一早，就要继续赶路了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "六千名重骑兵，应该足够穿过盂县……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "重骑兵消耗大，沿途物资稀缺，确实不能带太多。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "盂县的混战，不知道进展如何。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……绣球，还好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣云鸢",
+      "emotion": "……咕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "天太冷了……到我的斗篷下来吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……只要过了这一关，前面就是雁门。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "雁门有援军吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "有很多看着我长大的人。他们都留在了这里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他们若不认呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我们重逢的时候，我就认了你。牛王在天上的太阳中，它看在眼里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "牛王会告诉他们的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "那就赌一把。杀过盂县，去雁门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我们甚至可以留在雁门。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "雁门是个很好的地方。是文远叔长大的地方。夏天有牧场草原，冬天也有足够的存粮。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "雁门的老人会说南北八方的故事，会弹琵琶。它一年都是晴天，太阳很好，牛王一直看着我们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉骑兵",
+      "text": "头像=西凉军甲",
+      "emotion": "两列分阵，翼阵，准备冲锋！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我以前，一直喊你楼主。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "娅咪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉骑兵",
+      "text": "头像=西凉军甲",
+      "emotion": "杀──"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃──"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "啊啊啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……咳……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "阿蝉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "傅融！！！傅融！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "阿蝉他……傅融！傅融！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……我想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……我想……睡在……有太阳的地方……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-流泪",
+      "emotion": "不用睡，你不会睡的……傅融来了，他来了。阿蝉，傅融要来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-流泪",
+      "emotion": "傅融来了，大家都来了……我们骑马回广陵……阿蝉……你就在院子里……你想骑马去哪里都行……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……妹妹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……阿蝉？阿蝉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "…………傅融？傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "傅……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……阿蝉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "你要……带她走了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "找到……殿下……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "……殿下……找到殿下了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你们都……通过了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "很多人都通过了……不过，还是失散了许多……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……傅融呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……傅融呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "她真的……真的走不动了……太冷了，吃的已经不够了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "……我们的行囊，在穿过战场时，丢了很多……殿下……求你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "……求求你……求你……她得吃东西……她得吃东西才能活到雁门……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……我明白了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……绣球，飞吧。去雁门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣云鸢",
+      "emotion": "……咕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没事的。去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我会救她的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……我……不想见它死。我也不想见人死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我知道，孩子的性命，对母亲来说是更可贵的。人的性命，对世道来说是更可贵的……所以……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……喝吧。喝我的血吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……没关系的……没事的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我会救你们的……我不会丢下你们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……哎？回来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "主公──鱼啊鱼──"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "不要带着鱼上走廊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "嘿嘿，清爽哥气得在冒……呜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "踩到水滑倒了吧？活该。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "鱼──十五斤的花鲢──"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "小陈，不要带着鱼上走廊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊……是梦啊！原来都是噩梦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "楼主。外面好吵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我去让他们别遛那条鱼了……呜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你是……疯了吗……你疯了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你醒醒……你疯了才会……你醒醒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……傅融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "！！！你醒了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……我在哪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "雁门关！我们到雁门关了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "傅融带的队伍和我们走散了，却和雁门关的巡卫遇到了。雁门守将认识广陵这边的人派人来找我们了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "过了雁门关，就可以好好休息了……云雀他们先进城了，都没事……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……傅融……阿蝉她……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "有这么多人愿意继续去幽州？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嗯，除去一些想停在雁门的人，还有七成人想去涿鹿。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不过，之后的路就好走许多。雁门郡守是张辽过去的手下，同意我们在这里度过雪季。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "雪季……快要过去了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "还有一个月，就彻底过去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "今天从外面采买回来，雁门附近的草原都能见到绿色了，甚至还看见胆大的放牧人 。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我休养得差不多了，想出去透透气。我们去草原上吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今天不冷，绣球也好久没飞了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你跑慢点！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "真的！一点都不冷了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "难得这样安定下来，还有些不习惯……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若是彻底安定下来，你们想回广陵吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "人都不在了……就算回去也……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你呢？你回吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我回去的话，你跟我走吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不然呢？不等你把这七年欠的俸禄补齐，我就会像男鬼一样缠着你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我就算是死了，我的怨魂也会半夜在账房打算盘。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊……变成鬼了也想着加班啊。那个位置，白天人工作，晚上鬼工作……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是啊，我要提前给自己的鬼安排工位。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "所以……你会回广陵吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我会回去的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那，要重新招好多人手啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "傅副官要带新人带到秃头了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "啊啊……假发先做起来吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "回去的话，它会不会胖回从前的样子啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不至于吧，好不容易瘦身的，绣球！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣云鸢",
+      "emotion": "咕咕叽？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我……会回更远的地方。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……是吗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不是距离，而是时间。我有预感，我快要回去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那这里的你，果然已经……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……是啊，人的容貌，怎可能七年不改。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……能不走吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……不，说笑的。忘掉吧。七年前的我们，一定希望你在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……回去吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……再见了……"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·壹"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·贰"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·叁"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·肆"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·伍"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·陆"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·柒"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·捌"
+    },
+    {
+      "type": "narration",
+      "text": "雁门·玖"
+    },
+    {
+      "type": "narration",
+      "text": "不会"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%82%85%E8%9E%8D-%E7%BA%A6%E4%BC%9A/%E4%B8%83%E8%BD%BD%E7%9B%B8%E9%80%A2",
+  "crawled_at": "2026-04-12T22:13:35.855562",
+  "raw_wikitext": "{{回到顶部|头}}\n{{面包屑|2024活动剧情|七载相逢之秋/活动玩法}}{{背景图片|{{filepath:七载相逢之秋背景2.png}}}}[[分类:活动剧情]][[分类:约会]]\n__TOC__\n{{板块|按钮|七载重逢之秋/活动剧情|序章}}\n{{板块|按钮|刘辩-约会/七载相逢|刘辩线剧情}}\n{{板块|按钮|傅融-约会/七载相逢|傅融线剧情}}\n{{板块|按钮|袁基-约会/七载相逢|袁基线剧情}}\n{{板块|按钮|左慈-约会/七载相逢|左慈线剧情}}\n{{板块|按钮|孙策-约会/七载相逢|孙策线剧情}}\n{{板块|按钮|七载重逢之秋/活动剧情/尾声|尾声}}\n==雁门·壹==\n{{对话-头}}\n{{对话|诸葛诞|往北走？北边，曹军的力量可是很重的。}}\n{{对话|我|嗯……曹军势力在北方虽然强大，但北方天灾较少，曹操的领地几乎没有受到天灾摧残。|头像=广陵王-疲惫}}\n{{对话|我|深入后方，也可避免被卷入大战。|头像=广陵王-疲惫}}\n{{对话|董奉|那，要怎么去？分散冲关吗？}}\n{{对话|我|绣衣楼的舆图中，有一条通往壶关的先秦古道。若它尚能通行，就能绕开驻军和关隘，抵达壶关。|头像=广陵王-微笑}}\n{{对话|董奉|北方啊……我可能很难适应。}}\n{{对话|诸葛诞|等等，壶关外面是打成一锅粥的并州哦，这群人到了那，连语言都不通吧？|头像=诸葛诞}}\n{{对话|诸葛诞|应该往蜀道走，徐州被攻破时，我听说有仙人开启了光武秘匣，带绣衣楼去蜀地避难了。|头像=诸葛诞}}\n{{对话|我|江关如今在曹军手上，那是入蜀最安稳的路……若是走山路入蜀，我们的辎重粮米都不够。|头像=广陵王-疲惫}}\n{{对话|我|太行山下，有一条龙脉流道。龙脉枯竭了，形成了一条贯通太行山脉的山中密道，密道外就是壶关。|头像=广陵王-疲惫}}\n{{对话|我|从前，仙人在密道出入口设了机关法阵。我知道开启方式，只要能抵达那里，就能出关。|头像=广陵王-疲惫}}\n{{旁白|众人虽有迟疑，但大多同意了。转过头，我看见董奉的神色有些迟疑。}}\n{{旁白|入夜，赶了一日的路程后，众人都在坡高处睡了。我也漱洗完毕，准备睡下。}}\n{{对话|董奉|有话要同你说。}}\n{{对话|我|你不想去北方吗？|头像=广陵王-挑眉}}\n{{对话|董奉|……嗯。看出来了啊。}}\n{{对话|我|确实无法适应吧……毕竟在南方生活惯了，难以在北方生活。|头像=广陵王-微笑}}\n{{对话|董奉|就在这里分道扬镳吧。你既然有决断、有路线，我也能对元龙安心了。}}\n{{对话|我|那你去哪？|头像=广陵王-微笑}}\n{{对话|董奉|交趾。回我的故乡去。}}\n{{对话|董奉|就算是死，人也想死在故乡。我离乡太久了……终究是要回去的。}}\n{{旁白|他双手捧刀，向我拜了一拜。我也向他拜别，收下了他的匕首。}}\n{{对话|董奉|告辞，请。}}\n{{旁白|【古道】}}\n{{对话|诸葛诞|他走了？突然好没安全感。}}\n{{对话|诸葛诞|话说回来，出了壶关，去哪落脚？该不会真的要带这群人打匈奴吧？}}\n{{对话|我|再往东，去幽州。涿鹿有先王旧部，与曹操两不相犯。|头像=广陵王-微笑}}\n{{对话|我|那里幽远寒冷，远征无益，只要面上不叛，双方就暂安无事。我想将人托付给他。|头像=广陵王-微笑}}\n{{对话|女艺人|喂，喂，阿休，你看对面的山崖⋯⋯|头像=民妇}}\n{{旁白|对面山崖上，有黑衣斥候的人影一闪而过。}}\n{{旁白|心理|……曹军跟过来了吗……}}\n{{旁白|我们继续向衮州山道行进。这些山道虽然难行，但更难以行军，也少有守军关隘。}}\n{{旁白|心理|……好像有绣云鸢的声音……是我听错了吗？}}\n{{对话|我|鸢……|头像=广陵王-惊讶}}\n{{对话|诸葛诞|绣衣楼散了之后，还有那种鸢吗？}}\n{{对话|我|……只是寻常山林野鸢吧。|头像=广陵王-摇头}}\n{{对话|我|是我听错了，无事，继续前行。|头像=广陵王-微笑}}\n{{旁白|一日、二日……}}\n{{旁白|绕过了山下的关隘，众人靠着微薄的补给涉过山水。沿途偶尔有在山中隐居避战的平民或世家，能用布匹、白盐换取粮米菜蔬}}\n{{对话|我|再往北，就不能再换布匹了。沿途需要收集树绒，准备御寒之物。|头像=广陵王-微笑}}\n{{对话|我|让孩子们在扎营时去附近找可制火引之物⋯⋯唔……|头像=广陵王-微笑}}\n{{对话|百姓|殿下，无事吧？|头像=男文人}}\n{{对话|我|……我没事。|头像=广陵王-摇头}}\n{{对话|诸葛诞|先休息片刻吧？你的脸色看起来……}}\n{{对话|我|没……|头像=广陵王-疲惫}}\n{{对话|妇人|殿下！殿下！|头像=平民母亲}}\n{{对话|诸葛诞|好冷……她断腿的地方发炎了，身体其他地方都在发冷。|头像=诸葛诞}}\n{{旁白|心理|……腿……好痛……}}\n{{旁白|心理|是骨折的地方，发炎了吗……}}\n{{对话|我|…………呼……呼……|头像=广陵王-疲惫}}\n{{对话|小狗的声音|嘶哈……}}\n{{对话|小狗的声音|嘶哈嘶哈嘶哈……}}\n{{对话|我|…………………………飞云？|头像=广陵王-挑眉}}\n{{对话|飞云？？？|嗷呜！}}\n{{旁白|我睁开眼，湿漉漉的狗鼻子在拱我的脸。}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{对话|我|…………哎？|头像=广陵王-惊讶}}\n{{对话|飞云|嘶哈嘶哈嘶哈……|头像=飞云}}\n{{对话|我|飞云！唔啊！！！|头像=广陵王-欣喜}}\n{{旁白|一堆白白灰灰的狗狗从四面八方摇着尾巴扑到我身上，像一团云一样压在身上。}}\n{{旁白|一片混乱中，有人走近了，提着小狗的后脖子，一只一只将它们拎开⋯⋯}}\n{{对话|我|你……|头像=广陵王-惊讶}}\n{{旁白|他又把狗狗拎了回来，盖在我身上。}}\n{{旁白|【无名山村】}}\n{{对话|我|唔啊啊——慢点！|头像=广陵王-生气}}\n{{对话|我|飞云！飞云！慢点！|头像=广陵王-生气}}\n{{对话|我|——傅融！让它们……啊啊让它们慢一点！傅融！！！|头像=广陵王-生气}}\n{{旁白|一堆狗狗拖着竹车，我躺在车上，沿着水边，被一路拉进下游的山村。}}\n{{旁白|他走在前面，挑着装着野菜、小兽的竹篓，时不时回头瞥一眼。}}\n{{对话|我|怎么回事？你们不是应该去了西蜀吗？|头像=广陵王-惊讶}}\n{{对话|傅融|……七年不见，不先补发一下这七年的工钱吗？}}\n{{对话-尾}}\n\n==雁门·贰==\n{{对话-头}}\n{{旁白|【无名山村】}}\n{{对话|傅融|我把地图画给了诸葛诞，让他先带着大队人马走了。|头像=傅融}}\n{{对话|傅融|这么多人，不能在一个地方停下来，食物的消耗太快了。|头像=傅融}}\n{{对话|我|你知道那条密道？|头像=广陵王-惊讶}}\n{{对话|傅融|理文书时候见过记载。不过，他们到那里，估计找不到密道路口。|头像=傅融}}\n{{对话|我|……那时候估计我腿脚已经好了，轻骑上路，很快就能追上。|头像=广陵王-微笑}}\n{{对话|我|你们不是应该在西蜀避战吗？为什么还留在关中？|头像=广陵王-微笑}}\n{{对话|傅融|到了。}}\n{{旁白|狗狗拉的竹车突然急煞，我死死抱住一只飞云，避免滚下车。}}\n{{对话|我|这是你的栖息地吗……|头像=广陵王-惊讶}}\n{{对话|蛾使|傅副官回来了？哎，这是……|头像=蛾使}}\n{{对话|傅融|嗯，找到了，绣球没看错。}}\n{{对话|蛾使|哎？！小麻雀！小麻雀小麻雀！朱羽朱羽！楼主回来了！|头像=蛾使}}\n{{旁白|竹扉吱呀一声开了，身形瘦削的布衣少女从门后步出，难以置信地望着我。}}\n{{旁白|又是一阵轻响，一只绣云鸢落在竹车的把手上，目光沉静。}}\n{{对话|傅融|……当时送他们过了蜀道，休整了一阵。但是，还是有很多人想回来找你。}}\n{{对话|傅融|穿过战场时，损失了许多同僚。剩余的人最后驻扎在这处秘密据点，调查你的消息。|头像=傅融}}\n{{对话|雀使|最近确实收到情报，说有自称广陵王之人重现徐州，傅副官于是外出探查……居然是真的……}}\n{{对话|我|还有多少能外出巡飞的绣云鸢？|头像=广陵王-严肃}}\n{{对话|傅融|只有绣球了。}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|我|哎？绣球？|头像=广陵王-挑眉}}\n{{对话|绣球|……咕咕叽！|头像=绣云鸢}}\n{{对话|傅融|能行吗？|头像=傅融}}\n{{对话|我|没事……其实已经快好了。|头像=广陵王-微笑}}\n{{旁白|我拄着拐杖，慢慢步上山阶。他叹了口气，在前面蹲下身。}}\n{{对话|傅融|上来吧，我背你。|头像=傅融}}\n{{对话|我|七年不见，人变这么好了呀？|头像=广陵王-微笑}}\n{{对话|傅融|……怕你一来一回，散个步天都亮了。}}\n{{旁白|我从他身边步过。他也没强求，站起身跟了上来。}}\n{{对话|傅融|这七年，你过得怎样？}}\n{{对话|我|……|头像=广陵王-挑眉}}\n{{对话|我|可惨了！被关在地牢里不见天日的。|头像=广陵王-难过}}\n{{对话|傅融|哪家地牢这么好，白吃白喝供你七年还不用你干活？这是地牢吗？介绍一下我搬去。}}\n{{对话|我|哈……哈哈哈哈……哪有那么好，我这不是拼命逃出来了吗？|头像=广陵王-微笑}}\n{{对话|傅融|逃出来了……然后呢？准备出关？}}\n{{对话|我|嗯，从壶关往外，曹军的力量就薄弱许多。|头像=广陵王-点头}}\n{{对话|我|我打算让他们去幽州，投靠简氏。|头像=广陵王-微笑}}\n{{对话|傅融|……那位可不好相处。他和先王恩怨太重。}}\n{{对话|我|我可是无辜至极的小辈。大不了……他在我左脸也划一刀？|头像=广陵王-微笑}}\n{{旁白|月下，我们步过山林。从高处望下去，能看见另一座山间缓慢夜行的队伍。}}\n{{对话|傅融|……自身难保，还管那么多人吗？}}\n{{对话|我|都是留在广陵的人，想找条活路。|头像=广陵王-微笑}}\n{{对话|傅融|人世和人性都无可救药，何必。}}\n{{对话|我|无可救药是人世和人性自己的事，与我何干？做想做的事就是了。|头像=广陵王-微笑}}\n{{对话|我|我一直没什么好说的啊，你从前不是总说我，脑子里不知道在想什么吗。|头像=广陵王-微笑}}\n{{对话|我|说说你们吧，这些年，你们怎样了？|头像=广陵王-微笑}}\n{{对话|傅融|……大部分人都出发去了蜀地。途中在战乱中流散了一批。文书烧了许多。}}\n{{对话|傅融|蜀地也在打，龙脉崩散，天下大乱。我们抵达时，隐鸢阁的山门已经落下了。里面的人出不来，外面的人进不去。}}\n{{对话|傅融|很快到了冬天，出不来的人死了许多，进不去的人在石门外也死了许多，只要一会儿不动，雪就会把人压住。}}\n{{对话|傅融|后来……总算有人从山门后逃了出来，不知为何，都已经疯了，好像里面有什么骇人的东西。还好，就在那时，益州牧派人来接引了。}}\n{{旁白|他在月下摊开手掌，手上满是艳红的冻疮。}}\n{{对话|傅融|……我们想回来找你。走到绵竹，玄蜂伤的太重……他体质特殊，那年，他的身体开始溃散了。}}\n{{对话|傅融|我和天蛾换班背他。他越来越轻、越来越轻，体内出现的人也越来越少。后来，只剩下一点原本的人格，絮絮叨叨。}}\n{{对话|傅融|说他想家乡了，想回云阳老家。我们还是第一次知道，玄蜂的本体是云阳人呢。}}\n{{对话|傅融|后来就不用换班了。因为太轻了。他说云阳的村子，村里种了许多云阳花。当地人以为是特产。其实，是外面随处可见的玉簪花。}}\n{{对话|傅融|但是，当地人很珍惜它们，小心栽培、晾晒，当成珍稀的护身符。}}\n{{对话|傅融|他们在玉簪花里装上云阳的土随身带着，玄蜂最后散尽了，只留下一串干花。}}\n{{旁白|他在一处小小的坟冢边停下脚步。坟边立着一支黄竹，竹枝上，悬着那串玉簪花。}}\n{{对话|傅融|剩下的人就是你见到的，天蛾、云雀和几名鸢使一起回来了。这里有几亩荒田，勉强能够维生。}}\n{{对话|我|找到我之后，你们打算怎么做？|头像=广陵王-微笑}}\n{{对话|傅融|嗯？你是楼主，你问我这个？}}\n{{对话|我|还是要问呀。是“为了找一个结果而找”，还是“找到后希望一起回西蜀”，或者是“找到后重建绣衣楼”……|头像=广陵王-微笑}}\n{{对话|我|失去那么多人，我不能上来就说，傅融，你带上所有人跟我走，我想做这个那个。|头像=广陵王-微笑}}\n{{对话|我|你们想得到一个结果，然后停在这里隐居避战，还是想像以前一样，跟我离开这里？|头像=广陵王-微笑}}\n{{对话|傅融|……}}\n{{旁白|他一时没有回答，转开了眼眸。 风吹过玉簪花串，轻轻碰着竹竿。}}\n{{对话|我|傅融……|头像=广陵王-难过}}\n{{旁白|下一刻，他直接往前走去，脚步很快。}}\n{{对话|我|傅融？傅融！|头像=广陵王-生气}}\n{{旁白|我的唤声引来了村中的飞云。几只小狗扑腾着追上傅融，想咬住他的衣角。}}\n{{对话|我|真是的……傅融！……怎么闹起别扭来了……我明明在问你们的想法啊！|头像=广陵王-难过}}\n{{对话|我|傅……啊！|头像=广陵王-难受}}\n{{旁白|我一瘸一拐往前追，狗狗在我脚边不断跟着，险些站立不稳；他无奈回身来抓我，结果脚下一滑，被我一起带着滑下山阶……}}\n{{对话|傅融|唔啊啊！|头像=傅融}}\n{{旁白|一堆软软绵绵的飞云跟我们一起滚下去，刚下过雨，山地松软，倒是没摔伤，只是衣裳比较难看。一堆泥巴小狗爬起来甩身上的泥水，甩了我们一脸。}}\n{{对话|我|……你生气了？|头像=广陵王-微笑}}\n{{对话|傅融|……没有。|头像=傅融}}\n{{对话|我|就是生气了……我这不是回来了吗。回来之后……你想跟我走吗？|头像=广陵王-微笑}}\n{{旁白|他低下头，额头抵在我肩头，身躯不知因为怒意还是悲苦，在微微颤抖……}}\n{{对话|傅融|你这……}}\n{{对话|傅融|你这……不负责任的人……}}\n{{对话|我|都是我的错，好了好了……}}\n{{对话|傅融|这种认错一点都没有诚意！}}\n{{对话|我|那我给你叩首请罪？|头像=广陵王-微笑}}\n{{对话|傅融|……倒也不用，把拖欠的工钱结一下就行。}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|我|那，真的结了？结完后，就各奔东西？|头像=广陵王-挑眉}}\n{{旁白|他微微抬头，眸光瞥了我一霎，又垂落下去。}}\n{{对话|傅融|……七年不见，回来就只想说这些，问我们想散伙还是接着干？}}\n{{对话|我|我要是用其他东西缠住你，岂不是很卑劣？|头像=广陵王-微笑}}\n{{对话|我|那种几年后重逢，掏出当年的情书，“哎，当年何等情深，如今竟凉薄了，竟连这点事都不愿帮我做”……|头像=广陵王-微笑}}\n{{对话|我|“这些年我可都在守着这段旧情啊，就连彼此送对方的信物、诗歌，都拿出来反复摩挲回味……”|头像=广陵王-微笑}}\n{{对话|傅融|噗……哈哈哈……}}\n{{对话|我|哈哈哈……不行！这一听就是玩弄他人情爱、打算始乱终弃的凉薄之人会说的话嘛！|头像=广陵王-微笑}}\n{{对话|我|信物什么的放箱子里就好了，诗歌什么的放心里记着就好，越是想在人前强调情深，动机就越是不纯。|头像=广陵王-微笑}}\n{{对话|傅融|……把这种“不纯”强调着来体现自己动机很纯，感觉也很可疑。}}\n{{对话|我|好了，好了……我这不是回来了吗……|头像=广陵王-微笑}}\n{{旁白|我抱紧了他，他轻轻叹息着，依偎得更紧了些。}}\n{{旁白|心理|天上有夜巡鹰的影子？}}\n{{对话|我|……有夜巡鹰。|头像=广陵王-严肃}}\n{{对话|傅融|我听见了。}}\n{{旁白|下一刻，一道利影划过夜幕，凌空扑住那只鹰。两只猛禽在空中疯狂厮杀，飞速下坠，落入山林。}}\n{{旁白|片刻后，厮杀声轻了；绣球扑飞出林，停留在我肩上，白羽染满血红。}}\n{{对话|傅融|追踪你的人近了，不能停留在这。我们该走了。}}\n{{对话-尾}}\n\n==雁门·叁==\n{{对话-头}}\n{{旁白|【山林】}}\n{{对话|雀使|曹军斥候那边应该已经得到楼主重现的消息了。虽然人群走了大军难以追赶的山道，但在几处平地仍会被截击。}}\n{{对话|我|不能被他们预测出路线……在抵达山道之前，要设法引开追兵。|头像=广陵王-无语}}\n{{旁白|就在这时，几颗碎石子从高处滚落。我们抬起头，见到有人带着数名黑衣曹军斥候，在山上望下来。}}\n{{对话|满宠|你们想去哪里？|头像=满宠}}\n{{对话|满宠|追上他们，另一个人把行踪报回去。|头像=满宠}}\n{{对话|曹军斥候|是！|头像=伪装宾客}}\n{{对话|傅融|呃……我当年就说不能信任这种来历不明不要工资的人吧？！}}\n{{对话|我|他要工资的！比你还……|头像=广陵王-生气}}\n{{对话|傅融|……}}\n{{对话|傅融|他工资比我高？！！！！！}}\n{{对话|我|……不，不是简单用工资衡量的……你还有……还有其他福利，比如楼里每年会发的月饼、密探生辰会发的手写卡和纪念瓷杯……|头像=广陵王-汗颜}}\n{{对话|蛾使|楼主，那个月饼好难吃……|头像=蛾使}}\n{{对话|雀使|不要抱怨了，绣衣楼有编制！|头像=雀使}}\n{{对话|满宠|才知道我俸禄比你高吗？|头像=满宠}}\n{{旁白|我们策马奔过山道，摆脱上方的流矢投石。前方的古道出现了岔路，天蛾在前方开路，回头看向我。}}\n{{对话|我|走南山！|头像=广陵王-严肃}}\n{{对话|蛾使|是！|头像=蛾使}}\n{{对话|满宠|……想逃去扬州啊。}}\n{{对话|满宠|回报曹丞相，绣衣余孽欲往扬州逃窜，派兵拦截。}}\n{{对话|傅融|……应该甩掉了。}}\n{{对话|傅融|他们觉得我们会去扬州……如果南下，再想北上，就只能等濡须口今年的回流。}}\n{{对话|我|坐实我们要去扬州之事，抵达濡须，改走水路。|头像=广陵王-严肃}}\n{{对话|我|啊……绣球和飞云回来了。|头像=广陵王-微笑}}\n{{旁白|山林间，小狗一只接一只冒了出来，和我们汇合；天上，绣球降落在树枝上，轻声鸣叫。}}\n{{对话|傅融|追兵暂时止步了……你怎么样？}}\n{{对话|我|哈……没事，动了动，反而……|头像=广陵王-摇头}}\n{{旁白|剧烈的晕眩汹涌而来。我紧紧抓住傅融的手腕，强忍着没有倒下去。}}\n{{旁白|傅融没有喊出声引起他人注意，众人在四处戒备。只有小狗窝在我脚边察觉到了异常，发出担忧的声音。}}\n{{对话|我|……没事。话说，飞云们一直都这么大啊……|头像=广陵王-摇头}}\n{{对话|傅融|……是之前那些小狗的后代了。}}\n{{对话|我|是吗……|头像=广陵王-难过}}\n{{对话|傅融|还有些在逃亡路上流散了，也许都在附近的山林中生活了吧。}}\n{{对话|傅融|绣球，休息好了的话，去看一下诸葛诞那边走到哪了。}}\n{{旁白|绣云鸢无声腾飞，夜击九霄。我们沿着南山道，一边讨论路线，一边下山。}}\n{{对话|我|……广陵已是废墟，不会有重兵把守。直接穿过广陵，去濡须渡口。|头像=广陵王-严肃}}\n{{对话|傅融|濡须渡口是野渡口，应该不会有大军驻扎的环境……但是到了北方，就到处都是重兵了。}}\n{{对话|傅融|算月份，到的时候北方已经入冬了……}}\n{{对话|我|不好走啊……中间还有能补给的据点吗？|头像=广陵王-严肃}}\n{{对话|傅融|据我所知，没有。就算有，也难以重新建立联系和信任。}}\n{{对话|傅融|很多人，就像满宠一样，叛变投靠了曹操。}}\n{{对话|我|人之常情嘛……|头像=广陵王-微笑}}\n{{旁白|我看着一只断箭，那是刚才从满宠手中射在马鞍上的箭。}}\n{{对话|我|休整好了，就准备出发了。|头像=广陵王-微笑}}\n{{旁白|沿着陌生而熟悉的旧路，我们朝着曾经有着广陵城的废墟行进。}}\n{{旁白|起初，绣球还能探寻到诸葛诞带着民众的行踪在何处，渐渐的，双方的联络断了。}}\n{{旁白|我们只能心无旁骛走自己的路，并相信有重新汇合的那一日……}}\n{{对话-尾}}\n\n==雁门·肆==\n{{对话-头}}\n{{旁白|【一段时日后】}}\n{{对话|雀使|……啊……看见了……|头像=雀使}}\n{{对话|蛾使|楼主！傅副官！看，我们回来了！|头像=蛾使}}\n{{对话|傅融|……回来了……}}\n{{旁白|我们回到了广陵。}}\n{{旁白|【广陵】}}\n{{旁白|断壁残垣绵延不尽，倒塌的城楼下，还压着数不尽的白骨。}}\n{{旁白|白骨混杂，难以辨明敌我。长久在常旱和常雨之间异变的气候，让地面凝结了一层难以言喻的黏腻。}}\n{{对话|傅融|……都是化掉的血肉……}}\n{{旁白|众人在死寂中前行，灰飞烟灭的废墟，彻底不见往昔交通四方的繁华。}}\n{{旁白|这里曾是徐州和扬州往来的渡城，在和江东结盟通商后，甚至数年不曾有过战役。}}\n{{对话|雀使|那家卖羊肉的食肆，阿蝉以前很喜欢。|头像=雀使}}\n{{对话|我|……啊……她好像经常巡街后就会独自来这里吃饭。|头像=广陵王-微笑}}\n{{对话|傅融|说不定……弄些烤羊肉，撒点孜然，能把她引回来？}}\n{{对话|我|哈……啊啊，要是以前，真的是从没缺过孜然和白盐……|头像=广陵王-微笑}}\n{{对话|傅融|你就没缺过东西，以前买东西都不问价钱。}}\n{{对话|我|哪有。|头像=广陵王-微笑}}\n{{对话|蛾使|有的有的。有次大家去重泉踏青春游，有个何氏女官的妆奁洒了。楼主刚好要跑马去莲勺，莲勺有市集。|头像=蛾使}}\n{{对话|傅融|嗯，想起来了。她说，我一日内就来回，给你带妆奁来。说着便策马去了。}}\n{{对话|傅融|黄昏时又策马回来，真的买回了一套妆奁。我问，花了多少钱。她说，不记得了，就几十白金币吧。}}\n{{对话|蛾使|哈哈哈……那可真是一掷千金。|头像=蛾使}}\n{{对话|蛾使|何子好像后来是……|头像=蛾使}}\n{{对话|傅融|跳江了。}}\n{{对话|傅融|她不想去西蜀，也不想去其他地方，就自己走了。}}\n{{旁白|我们翻过碎石和尸骨，忽然，天上巡飞的绣球鸣了三声。}}\n{{旁白|心理|有追兵……}}\n{{对话|我|……傅融。|头像=广陵王-严肃}}\n{{对话|傅融|我知道，这边原有一条出城密道，直接通往东陵山。 我带人去找。}}\n{{旁白|东陵山下，便是直达濡须的冷僻古道。}}\n{{对话|蛾使|从高处看，对方在南城门外。是轻骑！|头像=蛾使}}\n{{对话|傅融|密道被碎石盖住了……云雀，辎重上的滑轴在哪？ 得把碎石运开。}}\n{{对话|雀使|我去找。用滑轴的话……在这里、这里……还有那边，三个点打入铁钉。|头像=雀使}}\n{{旁白|片刻后，铁索架在轴上。另一头的铁钉钉在落石上，被铁索缓缓拉动。}}\n{{对话|傅融|……天蛾！对方还有多少马步？天蛾！}}\n{{对话|蛾使|……|头像=蛾使}}\n{{旁白|他站在断墙头，对我们比了个“六”的手势。还有六百马步。}}\n{{旁白|心理|……时间不多了……}}\n{{对话|我|呃──|头像=广陵王-难受}}\n{{旁白|刺耳、沉重的声响……铁索绞进手心里，被血弄得打滑。}}\n{{对话|傅融|……呼……呼……}}\n{{对话|傅融|天蛾！还有多远？！}}\n{{对话|蛾使|……太近了。|头像=蛾使}}\n{{旁白|巨大的碎石块松动了。远处，他背对着我们，扶着断墙头上残破的旗杆。忽然，他松开了手，站了起来。}}\n{{对话|雀使|快蹲下！会被看见的！}}\n{{对话|雀使|天蛾！蹲下来！}}\n{{旁白|他没有听她的，反而扬起双臂，冲着追兵挥舞。}}\n{{对话|蛾使|我知道他们去哪了！别杀我！我知道！}}\n{{旁白|石块后，幽暗的密道入口显露出来。所有人用尽全力推开它，试着推出足以让一人通行的入口。}}\n{{旁白|追兵在他面前停下。为首者骑着宛城黑马，手持长枪，体型远比常人来得高大。}}\n{{对话|蛾使|我知道他们去哪了……}}\n{{对话|曹军斥候|张绣将军，这人应该是绣衣楼的死士。|头像=伪装宾客}}\n{{对话|张绣|死士，为何叛变？|头像=张绣}}\n{{对话|蛾使|哈……这不是……主人落魄了嘛。养死士可是很花钱的。}}\n{{对话|曹军斥候|少废话，他们去哪了？|头像=伪装宾客}}\n{{对话|蛾使|这总得先说清楚吧。我卖了他们的行踪，你们也要替我保密，要不然，我以后怎么混……}}\n{{对话|蛾使|还有，还有，我饿了好几天了……求求你们，有没有吃的……}}\n{{旁白|心理|快了……入口快要能通行了……}}\n{{对话|傅融|不要……弄出声响……小心……|头像=傅融}}\n{{对话|傅融|他们……他们没有注意到这边……|头像=傅融}}\n{{旁白|远处，天蛾还在与他们纠缠。}}\n{{对话|蛾使|一点吃的就行……什么都可以……呃！}}\n{{对话|曹军斥候|找打吗？问你什么答什么！|头像=伪装宾客}}\n{{对话|蛾使|他们……他们往那边跑了……}}\n{{对话|曹军斥候|派人去看看！|头像=伪装宾客}}\n{{旁白|他指了另一个方向。斥候点了几个人，正要翻过崎岖的碎石废墟，一道明亮的枪光拦在了他腰间，轻轻拍了拍，温柔地将他抵了回去。}}\n{{对话|张绣|……那里似乎没有人气儿啊，小哥。|头像=张绣}}\n{{对话|蛾使|……怎么会……}}\n{{对话|张绣|把孩子们放出来，让它们跑动跑动吧。|头像=张绣}}\n{{旁白|一阵铁笼开闸的森然声响，数条体型凶悍的北地猎犬自远处疾奔而来，盘踞在张绣身侧，望着天蛾。}}\n{{对话|张绣|小哥，劳烦，你再指一遍方向。|头像=张绣}}\n{{对话|蛾使|……}}\n{{对话|张绣|嗯？辛苦了，再为我的孩子们指一遍吧？|头像=张绣}}\n{{对话|张绣|我可是很少和年轻人这样轻声说话的，譬如子桓那孩子，神思敏锐，说大声了，怕惊骇了他……|头像=张绣}}\n{{对话|张绣|主要是，我杀过他兄长，故而有些许心虚……啊，你知道我是怎么杀他兄长的吗？|头像=张绣}}\n{{对话|蛾使|……关我屁事。}}\n{{旁白|下一瞬，他拔刀暴起，杀向张绣；同时，密道前的石块被移开了足以供一人同行的路──}}\n{{对话|傅融|快！|头像=傅融}}\n{{对话-尾}}\n\n==雁门·伍==\n{{对话-头}}\n{{旁白|【密道】}}\n{{对话|傅融|飞云，往前面探路！ ……不知道前面的路有没有阻碍。}}\n{{对话|我|火苗方向是稳定的，前面没有堵死，有出口。|头像=广陵王-严肃}}\n{{对话|我|……云雀？|头像=广陵王-挑眉}}\n{{对话|雀使|他还在外面……}}\n{{对话|雀使|……不，没事的，没事的……继续走……没事的……}}\n{{旁白|她比七年前消瘦许多，本就瘦削的身形，如今几乎病骨支离。}}\n{{对话|我|你怎么不回家？|头像=广陵王-微笑}}\n{{对话|雀使|弟弟让我回去，但是，我觉得，楼主可能还在。}}\n{{对话|我|……等我们到了濡须，我们北上，你南下，回家乡。|头像=广陵王-严肃}}\n{{对话|我|你的身体，已经无法再经历一次长途跋涉了。|头像=广陵王-严肃}}\n{{旁白|她抬起头，对我笑了笑，笑意很勉强。}}\n{{对话|雀使|如果能死在路上，也很好。}}\n{{对话|雀使|我知道，楼主希望我活下去。傅融也劝过我，可是，我也是这样与他说的……}}\n{{对话|雀使|对我来说，绣衣楼更像家。如果和家人死在一起更好，那我宁可……和大家在一起。}}\n{{对话|我|你可以先回家，等一切安定了，我们再来找你。|头像=广陵王-微笑}}\n{{对话|雀使|……不。 不会了。}}\n{{旁白|黑暗中，她的面容很平静，彻骨的平静。}}\n{{对话|雀使|……我已经……有预感了。如果在这里分开，就不得再见了。}}\n{{对话|曹军士兵|找到了！在这里！！！|头像=士兵}}\n{{旁白|心理|追过来了！}}\n{{对话|傅融|有什么味道……是火油！！！ 快！出地道！！！|头像=傅融}}\n{{旁白|火油被一桶接一桶倾倒入地道，四周顷刻间腾起刺鼻气味。我们不停将沿途碎石丢向后方，垒砌出减缓火油接近的沟壑。}}\n{{旁白|浓烟腾起。众人加快脚步远离身后火舌。有人摸索到了出口的位置，经年失修的密道出口，果然也被碎石和枯枝堆满。}}\n{{旁白|火焰在接近，我们用尽全力开凿那些阻碍物，风从缝隙外用处，希望就在咫尺之遥──}}\n{{对话|傅融|呃──都快出来！|头像=傅融}}\n{{旁白|密道里一团火光，追兵一时无法跟上。 我们已至东陵山，翻过山林，便是渡口。}}\n{{旁白|东陵山有三座山头，绵延漫长。}}\n{{旁白|在数次坚壁清野后，山上只余下寥落枯萎的残林。}}\n{{旁白|没有可供栖息之地，也没有能躲藏敌兵的掩护。数日的奔波之后，所有人精疲力尽……}}\n{{旁白|心理|……}}\n{{旁白|心理|…………}}\n{{对话|飞云|汪！汪汪！|头像=飞云}}\n{{旁白|心理|……飞云……察觉到了情况？}}\n{{对话|我|！！！|头像=广陵王-惊讶}}\n{{对话|傅融|着火了！都醒醒！往下风处走！|头像=傅融}}\n{{旁白|不知是野火还是追兵纵火，东陵山的山头烧成血红一片，火光冲天。}}\n{{旁白|绣球凄厉的鸣声在高空徘徊。火色四方淹涌，掩盖所有生路。众人带上行囊，仓惶离开。}}\n{{旁白|一片火海中，我听见了傅融的喊声──}}\n{{对话|傅融|飞云！飞云！！！|头像=傅融}}\n{{对话|我|飞云呢？|头像=广陵王-严肃}}\n{{对话|傅融|它们在附近夜巡，没有回来！|头像=傅融}}\n{{对话|我|我们先……呃！小心！！！|头像=广陵王-生气}}\n{{旁白|一道巨影踏过火海，长枪带着一抹残焰刺向傅融。}}\n{{旁白|我们勉强躲开枪风，一起向山坡下滚落。火光叶影，抬头见艳甲厉将骑在战马上。张绣枪上系着一颗首级，已面目全非。}}\n{{旁白|他举枪欲再刺，忽然，伴随着隆隆断裂声，参天古木在烈焰中轰然倒塌，若一座火桥，横挡在我们之间。}}\n{{对话|我|咳……傅融，你能看清方向吗？|头像=广陵王-难受}}\n{{对话|我|咳……咳咳……|头像=广陵王-难受}}\n{{旁白|心理|火太大了，说不出话……上面的视野都被浓烟遮挡，没办法找到绣球……}}\n{{旁白|他在我身边，似是想与我说什么。然而黑烟太重，我们都说不出话，只能本能地往下坡跑。山火无尽，千里炼狱。}}\n{{旁白|心理|傅融……}}\n{{旁白|有人抓着我的手。几乎是同时，我们一起倒了下去……}}\n{{旁白|心理|……是什么……}}\n{{旁白|心理|好像……有风……}}\n{{对话|飞云的声音|汪！}}\n{{旁白|心理|飞云？}}\n{{旁白|心理|……你回来了吗……飞云……}}\n{{对话|我|唔！|头像=广陵王-难受}}\n{{旁白|我被什么推下了水──是山野中的浅潭，瞬间脱离了火海。}}\n{{旁白|下一刻，又有一具身躯滚落下水，是昏迷的傅融。}}\n{{对话|我|呼……咳……咳咳……|头像=广陵王-难受}}\n{{旁白|我抬头，望向高处熊熊燃烧的山火。}}\n{{旁白|火光中，隐约有一瞬能见到一抹白色的犬兽之影。庞大、静谧。}}\n{{对话|我|……飞云？|头像=广陵王-挑眉}}\n{{旁白|它静静坐在火里，像是不畏火的山神，若一座雪白柔善的山峦，在火中转瞬即逝。}}\n{{旁白|它走了。}}\n{{对话|傅融|……唔……你……没事吧？}}\n{{对话|傅融|我们……躲过了……还能走吗？得尽快去山阴，和其他人汇合。}}\n{{旁白|我与他强撑起身，踉跄地扶着枯木，朝下坡继续走去。忽然，傅融的步伐顿了一瞬。}}\n{{对话|傅融|……刚才，好像梦见飞云了。}}\n{{旁白|【东陵山道】}}\n{{旁白|心理|已经能听见濡须水声了……}}\n{{对话|我|下面好像有人在推船……他们到了！|头像=广陵王-微笑}}\n{{旁白|下方先一步抵达的密探们朝我们挥手。 我与傅融步下陡峭狭窄的山道，朝下方走去。}}\n{{旁白|心理|有人放箭？！}}\n{{旁白|第一箭射歪了。我们躲向山壁，它打在石头上，滚落在地。}}\n{{旁白|后方，有两名轻骑斥候追至。只是因为山道狭窄，难以疾行，只能缓缓逼近，在远处放箭。}}\n{{对话|傅融|快！还有一点就到了！}}\n{{旁白|他搀扶着我，依靠山壁上凸起的山石为掩护，避开箭弩。 山道下方的渡口已经能被看见，越来越近……}}\n{{旁白|后方，更多的追兵也已杀至。}}\n{{对话|曹军斥候|快！满宠！带人从下方绕过去！|头像=伪装宾客}}\n{{对话|满宠|……}}\n{{对话|曹军斥候|你愣着做什么？快往前，别把山道堵住！──啊！！！|头像=伪装宾客}}\n{{旁白|话音未落，他被打落山崖，坠入水中。}}\n{{对话|曹军士兵|满宠，你做什么？！你要背叛吗？！|头像=士兵}}\n{{对话|满宠|快走。}}\n{{旁白|他转过身，取下腰间挂的镣铐，将自己手腕和山石拷在一起，挡死了山道。}}\n{{对话|我|……密信上，明明只写了坐实我去扬州……|头像=广陵王-严肃}}\n{{对话|满宠|……没办法。哈……}}\n{{对话|满宠|就你一个朋友……}}\n{{旁白|感觉不到痛的人挡在面前，任由箭矢加身，丝毫不动。}}\n{{对话|满宠|记得来看我……记得把欠我的钱，都还清了。}}\n{{旁白|──我们离了东陵山，坐上了渡口的船。}}\n{{旁白|他的身影越来越渺茫。追兵至他身后，举起了战刀。}}\n{{对话-尾}}\n\n==雁门·陆==\n{{对话-头}}\n{{旁白|【太行水脉】}}\n{{旁白|漂泊的船只，随水流向北方而去。}}\n{{旁白|只有在偶尔几处临水的僻静渔村，我们才能上岸补给。越是往北，气候就越是寒冷。}}\n{{旁白|绣云鸢难以在雪天行动，绣球能探查的距离越来越短。}}\n{{旁白|终于，天上落雪了。}}\n{{对话|雀使|……看，那边，好像是行进的队伍！}}\n{{对话|我|真的！……人少了好多……|头像=广陵王-惊讶}}\n{{对话|傅融|毕竟路途漫长，沿途还要遭遇饥荒和战乱……变少了也难免吧。|头像=傅融}}\n{{旁白|他们也看见了我们的船，看见了我。我在队伍中寻找熟悉的人，却没有找到。}}\n{{对话|我|诸葛诞呢？|头像=广陵王-挑眉}}\n{{对话|百姓|……|头像=男文人}}\n{{对话|我|诸葛诞他们呢？是中途离开了吗？|头像=广陵王-严肃}}\n{{对话|百姓|……|头像=男文人}}\n{{旁白|我沿着队伍往后方找，没有人回答我的问题。我再逼问时，人们的目光不断朝后传递，带着恐惧，望向雪风中一道骑兵身影。}}\n{{旁白|那人骑在巨大的西凉马上，目光若阴晴雪色。我看见她的刹那，不禁呆在了原地。}}\n{{对话|我|……阿蝉？|头像=广陵王-惊讶}}\n{{旁白|下一刻，人影跃下马背，带着满身金器脆响，扑到了我的身上。}}\n{{旁白|她比我高，高出将近一个头，皮裘战甲黄金刀，重重将我压在了地上。}}\n{{旁白|【太行山野】}}\n{{对话|傅融|一开始，是那名女子难产而亡？|头像=傅融}}\n{{对话|阿蝉|不知道，那时候我还没来。}}\n{{对话|阿蝉|我找过来，已经开始打了。有人太饿了，想挖开女人的坟。诸葛诞不愿意。}}\n{{旁白|起初，诸葛诞和戏班的人不许其他人挖开坟墓，两边起了冲突。}}\n{{旁白|再然后，百戏班子的人被打死了，人群内部顷刻陷入了混乱。有强壮者疯抢其他人的行囊，意图结队离开。}}\n{{对话|阿蝉|我找过来了。把闹事的人杀了，带着其他人，去他们说的地方等你。}}\n{{旁白|阿蝉带着的兵马大约三十重骑。铜甲战马，在雪湖边饮水。}}\n{{对话|我|这些年，你都在哪？|头像=广陵王-微笑}}\n{{对话|阿蝉|唔……先是在关中找你。}}\n{{对话|阿蝉|吕布死后，文远叔留在曹操那边了，分开前，他想替我重新做个身份。}}\n{{对话|阿蝉|但我想找你，我不信你死了，就带了些亲兵，去更远的地方找。}}\n{{对话|阿蝉|……找到颍川，颍川那边，有几位王府和绣衣楼从前的故人。文官和女官。}}\n{{对话|阿蝉|先是去了文官家里。他说，他听到了你的下落，让我等几日。我等了。结果晚上的时候，他来找我喝酒。}}\n{{对话|阿蝉|他说，反正现在广陵王也不在了，你跟我了吧。他看我的眼神让我不舒服，我就把他全家杀了，去了下一家。}}\n{{对话|阿蝉|下一家是那个姓吕的女官，从前和阿嬴、何子不太好。你失踪后，她就回家乡了。}}\n{{对话|阿蝉|晚膳的时候，她这样跟人介绍我。她说，这就是那个关外来的侍女，从前陪殿下睡过，得了高升。}}\n{{对话|阿蝉|“还有两个侍女，学着她的样，一起去陪殿下睡，那时都很风光”。}}\n{{旁白|她大概觉得好笑，抚摸着金刀如镜的刀面，咯咯笑了。}}\n{{对话|阿蝉|不知怎么的，她的话也让我不舒服。我就把她全家也杀了，继续去了下一家。不过，都没有殿下的消息。}}\n{{对话|傅融|真是的，好歹留两个活口啊，至少也是宝贵的线人……|头像=傅融}}\n{{对话|阿蝉|啊？我习惯不留活口的。}}\n{{对话|傅融|这种怎么可能压住消息？县里肯定知道那天去做客的是谁。|头像=傅融}}\n{{对话|我|下次，你要派兵马在门口等着，另外再派两人，去县里的乡老那边打点好……|头像=广陵王-微笑}}\n{{对话|傅融|对，这样出了事，你就说是盗贼闯入府中杀人劫财，让乡老替你背书，全身而退。|头像=傅融}}\n{{对话|阿蝉|哦……哦哦……}}\n{{旁白|雪稍稍小了。修整好了，我们便起身出发，朝着密道的方向行进。我骑在马上，清点诸葛诞的遗物。}}\n{{对话|傅融|他兄长……如今在哪？}}\n{{对话|我|……也在许县吧。他兄长的性格，去许县也好，能避开战乱。|头像=广陵王-微笑}}\n{{对话|傅融|大多数人还是避战的。不过，阿蝉……}}\n{{对话|我|嗯，毕竟是西凉人带大的孩子。世道一乱，杀性就翻涌出来了。|头像=广陵王-点头}}\n{{对话|我|不是很好嘛？比以前自在多了，人都长高了。|头像=广陵王-微笑}}\n{{对话|傅融|这两点有什么联系吗？}}\n{{对话|傅融|……说起来，你们差不多大，为什么她长高了，你就不长了？}}\n{{对话|我|我、我……我这不是，被这乱世压弯了腰吗？|头像=广陵王-汗颜}}\n{{对话|傅融|那我们这些七年没领工资的呢？}}\n{{对话|阿蝉|……对哦，工资……|头像=阿蝉}}\n{{对话|我|听错了，肯定是听错了……|头像=广陵王-汗颜}}\n{{对话-尾}}\n\n==雁门·柒==\n{{对话-头}}\n{{旁白|【一段时日后】}}\n{{旁白|【太行密道】}}\n{{对话|百姓|好冷……嘶……|头像=男文人}}\n{{对话|傅融|尽量紧挨着走，护住火源。}}\n{{对话|傅融|这条密道太古老了……不知道壶关外是什么境地。}}\n{{对话|阿蝉|混战。|头像=阿蝉}}\n{{对话|傅融|……果然。}}\n{{对话|阿蝉|关内关外都在混战。打了很久了。|头像=阿蝉}}\n{{对话|阿蝉|马超叔败走后，并州就没有坐大的军阀了。想从壶关横穿去幽州，中间会遭遇很多混战。}}\n{{对话|阿蝉|要安稳的路线，就必须绕道西河。但是，会遭遇大雪严冬。这些人，不可能熬过关外的冬。}}\n{{对话|阿蝉|至于不安稳的路……}}\n{{旁白|穿出密道，雪月清明。风沙中夹杂着烈烈的血腥味，一场混战，刚刚在密道出口结束。}}\n{{旁白|阿蝉伸出手，直指前方。前方除了满地残骸，什么都没有。}}\n{{对话|阿蝉|──我们杀过去。杀到雁门关，再从雁门关杀去幽州。}}\n{{对话|阿蝉|文远叔的战友，大多留在本地。如果他们还活着、还认我，我就能让他们抵达幽州。}}\n{{旁白|密道出口外的战场残骸，很快引来了流民、劫匪和残兵。但我们人数众多，他们一时不敢妄动}}\n{{旁白|在战后的混乱中，我们翻找所有能带走的东西，最好的是布料、冬衣、布甲，然后是干粮、兵刃。}}\n{{对话|百姓|这里发现了一个军官的尸首！有铁甲！还有金饰！|头像=男文人}}\n{{对话|少年|我挖出来几匹死了的战马，马肉能不能割下来带走啊？|头像=平民少年}}\n{{对话|我|能带走的马肉都带走。军官的头割下来，符牒也带上，也许到了下一处城池能领赏。|头像=广陵王-严肃}}\n{{旁白|雪一日比一日大。我们凭借人数，在各处战场遗迹中寻求补给，也遇到过混战劫掠。}}\n{{旁白|张辽留给阿蝉带走的，是最可靠的亲卫兵。三十余名久经沙场的重骑兵沉默寡言，不与其他人交往。}}\n{{旁白|终于，在第十日，我们抵达了一座小城。城主韩遂是张辽和马超的故人，他打开城门，放我们入内了。}}\n{{旁白|【襄垣】}}\n{{旁白|心理|……已经好久，没有在室内的榻上渡过一夜了……}}\n{{对话|我|……呼……|头像=广陵王-疲惫}}\n{{对话|傅融|早些睡吧。}}\n{{对话|我|你不担心西凉人反复无常？|头像=广陵王-微笑}}\n{{对话|傅融|我说实话，这个境地下，如果对方想杀我们，那可真是……}}\n{{对话|我|哈……是啊。关上城门，让我们冻死在外面就是了……|头像=广陵王-微笑}}\n{{旁白|我翻过身，看他坐在门边的背影。炭火很红，烧白的炭灰，不断被门缝外的风引出去。}}\n{{对话|我|睡不着吗？|头像=广陵王-微笑}}\n{{对话|傅融|还剩下不到一半的人。}}\n{{对话|傅融|……比预想中好了。我还以为，能活着抵达并州的，连三千人都不到。}}\n{{对话|傅融|如果韩遂没有开门，今夜又要冻死几十人。}}\n{{对话|我|……西凉人，可真是有意思。|头像=广陵王-微笑}}\n{{对话|傅融|嗯。他当年是马超的义父，也从三辅打过徐州……降过曹操，转头又叛。西凉人……}}\n{{对话|我|哈哈……反复无常的……他和马腾拜过把子，第一天磕的头，第二天就拔刀了。|头像=广陵王-微笑}}\n{{对话|傅融|你说，阿蝉长大后，会不会也这样？}}\n{{对话|我|什么“长大后”？阿蝉跟我们差不多吧。你怎么聊起她，总像是聊孩子？|头像=广陵王-微笑}}\n{{对话|傅融|操不完的心……}}\n{{旁白|炭火噼啪。他微微侧头，眸光被炭红晕染。}}\n{{对话|傅融|我是不是老了？}}\n{{对话|我|哪有，傅副官算起账，还是全广陵最清爽大方的少年郎。|头像=广陵王-微笑}}\n{{对话|傅融|买不起房少年郎，买了房房又塌了少年郎，装修完住进去房子闹鬼少年郎……}}\n{{对话|傅融|好惨啊，这世上少年郎要都这么惨，不如生下来就是小老头。}}\n{{对话|我|不！傅副官，小老头找不到好工作的。|头像=广陵王-摇头}}\n{{对话|我|过了三十五岁，老头傅融带着计簿，敲敲广陵王府的门……|头像=广陵王-微笑}}\n{{对话|傅融|你好……招工吗……}}\n{{对话|我|不招不招，人满了。只要刚刚弱冠、身体健康、辟雍毕业的精英哦。|头像=广陵王-微笑}}\n{{对话|傅融|于是老头傅融带着计簿，再去敲敲隔壁绣衣楼的门……}}\n{{对话|傅融|你好……你这边总招工吧？招死士也行啊……}}\n{{对话|我|哈哈哈哈……哈哈哈……你好歹报个其他岗位，死士待遇可高了……哈哈哈……|头像=广陵王-眯眼笑}}\n{{对话|傅融|那……哈哈哈……那你这里招打杂的吗？}}\n{{对话|我|招啊，半年休沐一次，每天工作九个时辰……天尊……|头像=广陵王-微笑}}\n{{对话|傅融|哈哈哈……哈哈……这是黑牢吗？还是集体骨灰盒？}}\n{{旁白|他在我身边躺下，我们说说笑笑，忽然寂静了，须臾，不约而同叹了口气。}}\n{{对话|傅融|……有次做梦，我梦见大家回广陵了。}}\n{{对话|傅融|……我们回到城门口，原来敌军撤退了，城里安然无恙，所有人都在。}}\n{{对话|傅融|阿蝉在街上骑着马晃，周群跟在后面，赔偿她不当心踩坏的摊子。}}\n{{对话|傅融|陈登在水渠边钓鱼，张邈不知道又惹到了谁，被追打了半条街，抬上了马车。}}\n{{对话|傅融|……陈登……陈登走的时候，安祥吗？}}\n{{对话|我|……嗯。|头像=广陵王-点头}}\n{{对话|我|走得很安静，是在很深的夜里，睡梦里过去的。|头像=广陵王-微笑}}\n{{对话|傅融|……梦中驾鹤，虽非寿终正寝，但也是善终。}}\n{{对话|傅融|他是好人，合该有善终、有人送、有人供奉纪念的。}}\n{{对话|我|好人……为什么不能长命百岁呢？|头像=广陵王-严肃}}\n{{对话|傅融|山林里活下来的，都是能捕杀猎物的猛兽啊。}}\n{{对话|我|……可是，他这一世，没有做过一件恶事啊。|头像=广陵王-严肃}}\n{{旁白|他合上眼，眼眶有些红，但勉强挤出笑容，手指梳理我的鬓发。}}\n{{对话|傅融|没有做过恶事，也会有人给他扣上各种恶事。世道就是这样……没办法……世道没什么好人坏人。到时候了，人就走了。}}\n{{对话|傅融|你记得，有次广陵民变。有人谣传，说你让人在王府里种紫薇和藤花，是行邪术，吸百姓寿数补自己的命格。}}\n{{对话|我|啊……是伍丹她们踏青带回来的一些花草啊。不舍得丢，就种下了。|头像=广陵王-微笑}}\n{{对话|傅融|然后越传越邪，什么妖魔鬼怪都跳出来了。有说自己家有个表亲，在你府上当家奴被你凌虐死的，有说自家姐妹被你强占的。}}\n{{对话|傅融|再有说你派人去附近偷婴孩，炼长生不老丹的。还有个孕妇跑出来……}}\n{{对话|我|哈哈……记得，说怀了我的，被我始乱终弃，要我负责。|头像=广陵王-微笑}}\n{{对话|傅融|我说真是开眼了，你还有这能量？好危险的上司。再往下我就得怀了。}}\n{{对话|傅融|然后我真被编排怀了，说什么“亲王身边都是女扮男装的下属，回去关上书房就白日宣淫”。}}\n{{对话|我|好没意思，编来编去都是这些下三路的。就不能编个我在府里挖地窖，暗造刀兵九锡什么的嘛……|头像=广陵王-微笑}}\n{{对话|傅融|那不成。人知道编排要挑软的捏。编点下三路的淫情，你若和他们计较，那是你被戳穿了急眼。要是编造反的，那可真会掉脑袋。}}\n{{对话|傅融|后来……}}\n{{对话|傅融|……后来，陈登出来替你说话……}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|傅融|被人写了歌谣，说权贵两相护，陈氏子仗势，百姓苦难言……}}\n{{对话|傅融|我们都见惯了，这种事一波接一波，跟吃饭喝水一样。但是，陈登很难过……}}\n{{对话|傅融|……很难过。我从没见过他这么难过，把自己关在府里，关了几个月。}}\n{{对话|我|……我记得张邈很生气，要拿人杀人。陈登说算了，说自己没事，不许拿人。|头像=广陵王-微笑}}\n{{对话|傅融|是个自伤的善人啊……还觉得仆人劈柴生火辛苦，就去吃生食。}}\n{{对话|傅融|……}}\n{{对话|傅融|……这样的人，为什么不能长命百岁呢……}}\n{{旁白|他又叹息，依偎的近了些。}}\n{{对话|我|……夜深了。睡吧，傅融。明日一早，就要继续赶路了。|头像=广陵王-微笑}}\n{{对话-尾}}\n\n==雁门·捌==\n{{对话-头}}\n{{旁白|【襄垣郊野】}}\n{{对话|阿蝉|六千名重骑兵，应该足够穿过盂县……|头像=阿蝉}}\n{{对话|傅融|重骑兵消耗大，沿途物资稀缺，确实不能带太多。}}\n{{对话|傅融|盂县的混战，不知道进展如何。}}\n{{旁白|四路西凉军阀在盂县周围混战。战事持续数月，已经打成一团肉泥。}}\n{{对话|我|……绣球，还好吗？|头像=广陵王-严肃}}\n{{对话|绣球|……咕……|头像=绣云鸢}}\n{{对话|傅融|天太冷了……到我的斗篷下来吧？}}\n{{旁白|它蜷缩着，浑身羽毛蓬起，安静地躲在傅融斗篷下。}}\n{{旁白|绣云鸢无法在这种雪天出巡，只能靠西凉骑兵探查了。}}\n{{对话|阿蝉|……只要过了这一关，前面就是雁门。}}\n{{对话|我|雁门有援军吗？|头像=广陵王-严肃}}\n{{对话|阿蝉|有很多看着我长大的人。他们都留在了这里。}}\n{{对话|我|他们若不认呢？|头像=广陵王-严肃}}\n{{对话|阿蝉|我们重逢的时候，我就认了你。牛王在天上的太阳中，它看在眼里。}}\n{{对话|阿蝉|牛王会告诉他们的。}}\n{{对话|傅融|那就赌一把。杀过盂县，去雁门。|头像=傅融}}\n{{对话|阿蝉|我们甚至可以留在雁门。}}\n{{对话|阿蝉|雁门是个很好的地方。是文远叔长大的地方。夏天有牧场草原，冬天也有足够的存粮。}}\n{{对话|阿蝉|雁门的老人会说南北八方的故事，会弹琵琶。它一年都是晴天，太阳很好，牛王一直看着我们。}}\n{{旁白|这时，一骑人马从前方回报。前面有混战，战线已经开始向我们的方向扩散了。}}\n{{对话|西凉骑兵|两列分阵，翼阵，准备冲锋！|头像=西凉军甲}}\n{{旁白|铁甲映雪日，铁衣森寒。前方的雪坡上，已传来乱军交战的厮杀声。}}\n{{旁白|冲锋前，阿蝉调转马头，在前方回头看我。}}\n{{对话|阿蝉|我以前，一直喊你楼主。}}\n{{对话|我|对呀。|头像=广陵王-点头}}\n{{旁白|她笑了笑。}}\n{{对话|阿蝉|娅咪。}}\n{{对话|西凉骑兵|杀──|头像=西凉军甲}}\n{{旁白|以翼阵排列的铁骑兵全力冲杀，若利剑冲入混战的雪原，在绞肉般的乱战场中劈开一条生路。}}\n{{旁白|我们策马断后，不断带着人群前行。 数千名并州悍兵的混战中，万名逃难的平民就像没有反抗力的肉，很快有人倒在了刀斧下。}}\n{{旁白|越来越多的人循着生路穿过战场。傅融负责在前方带路，雪风和血雨茫茫，我看不清他的身影。}}\n{{旁白|队伍延绵，仓惶求生。又是一股乱军涌入，后方的队伍和前方被截断失散了。}}\n{{旁白|我们再也望不见彼此的身影。我策马前冲，后方是包围而上的乱军，杀性炽烈，根本难分敌我。}}\n{{对话|我|呃──|头像=广陵王-难受}}\n{{旁白|我的战马被一支飞矛刺中，嘶鸣倒地。}}\n{{旁白|天地修罗，众生平等。伸出的手，只是险些被另一支长矛刺穿。}}\n{{旁白|下一刻，欲举矛再刺的矛兵被山峦般的西凉巨马碾碎；马上的人在经过的瞬间抓住我的手腕，将我拽上马背──是阿蝉。}}\n{{旁白|但是，另一匹西凉马从旁撞来。骑兵最主要的攻击就是策马互相冲杀，那匹马比阿蝉的战马巨大，铁甲浑厚。}}\n{{对话|阿蝉|啊啊啊！！！|头像=阿蝉}}\n{{旁白|她爆发出骇人的嘶吼，自马上跃向对方，拔出短刀，刺入军官头盔和胸甲的缝隙，刺穿了喉咙。可是……}}\n{{对话|阿蝉|……咳……咳咳……|头像=阿蝉}}\n{{对话|我|！！！|头像=广陵王-惊讶}}\n{{旁白|我攀上对方的战马，扯落尸体，护住阿蝉。两支铁翎贯穿她的胸口和脖颈，她说不出话，每次呼吸，都有血沫从咽喉涌出。}}\n{{对话|我|阿蝉！|头像=广陵王-生气}}\n{{对话|阿蝉|呼……呼……|头像=阿蝉}}\n{{旁白|那匹战马疯狂地挣扎，试图将我们两个陌生人甩下。但也因此没有其他人能接近这头巨兽。我用尽全力抓紧缰绳，抱紧阿蝉。}}\n{{旁白|无措的战马胡乱冲向茫茫白雪，马速飞快。血从她的伤口溢出，在地上留下艳红的血花。}}\n{{对话|我|傅融！！！傅融！！！|头像=广陵王-生气}}\n{{对话|我|阿蝉他……傅融！傅融！！！|头像=广陵王-生气}}\n{{旁白|我只能尽量用身体掩住她的伤口，血止不住。她的呼吸渐渐弱下去，那双黑色的眼眸里，蓝天显得灰蒙了。}}\n{{对话|阿蝉|……我想……|头像=阿蝉}}\n{{对话|阿蝉|……我想……睡在……有太阳的地方……|头像=阿蝉}}\n{{对话|我|不用睡，你不会睡的……傅融来了，他来了。阿蝉，傅融要来了。|头像=广陵王-流泪}}\n{{对话|我|傅融来了，大家都来了……我们骑马回广陵……阿蝉……你就在院子里……你想骑马去哪里都行……|头像=广陵王-流泪}}\n{{对话|阿蝉|……妹妹……|头像=阿蝉}}\n{{对话|我|……阿蝉？阿蝉？|头像=广陵王-生气}}\n{{旁白|阳光落在她的眼睛里，像是牛王神明的目光。}}\n{{旁白|雪落的更大了。}}\n{{旁白|战马终于精疲力尽，在不知名的空旷雪地中缓缓停下。我无论如何都无法催动它，只能抱着阿蝉，在齐腰深的积雪中前行。}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{对话|我|…………傅融？傅融！|头像=广陵王-生气}}\n{{旁白|我看见了傅融，本来无力的身躯强撑着加快脚步，向着前方的他走去……}}\n{{对话|我|傅……|头像=广陵王-生气}}\n{{旁白|他不在。}}\n{{旁白|我看到的是在极度寒冷中幻觉，面前的，只是一棵覆雪的断树。}}\n{{旁白|心理|……}}\n{{旁白|我似乎被人背了起来。}}\n{{旁白|那人背着我们，慢慢地、慢慢地，在雪地里走过。一边走，一边哼着很轻的西凉歌。}}\n{{旁白|……依稀躺入一处避风的雪窝里，旁边有温暖的篝火。}}\n{{对话|我|……阿蝉……|头像=广陵王-难过}}\n{{对话|我|你要……带她走了吗……|头像=广陵王-难过}}\n{{旁白|那人没有说话，转身最后望了我一眼，点了点头。他抱着阿蝉，沿着来路，骑着那匹血红的战马，缓缓远去，消失在了雪风中……}}\n{{对话|百姓|找到……殿下……殿下……|头像=男文人}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{对话|百姓|……殿下……找到殿下了……|头像=男文人}}\n{{对话|我|你们都……通过了吗？|头像=广陵王-惊讶}}\n{{对话|百姓|很多人都通过了……不过，还是失散了许多……|头像=男文人}}\n{{对话|我|……傅融呢？|头像=广陵王-严肃}}\n{{对话|百姓|……|头像=男文人}}\n{{对话|我|……傅融呢……|头像=广陵王-难过}}\n{{旁白|我强撑起身，人群缓缓分开，让出我通向那里的路。}}\n{{旁白|傅融的斗篷在那。他不知去向，只有斗篷染满鲜血。}}\n{{旁白|绣球站在一旁的断木上，静静望着我。}}\n{{对话|妇人|……殿下……|头像=平民母亲}}\n{{旁白|她抱着一名幼童，在我面前跪了下来。}}\n{{对话|妇人|她真的……真的走不动了……太冷了，吃的已经不够了……|头像=平民母亲}}\n{{对话|百姓|……我们的行囊，在穿过战场时，丢了很多……殿下……求你……|头像=男文人}}\n{{旁白|孩子的脸盖着白霜，被层层破旧布料包裹，因为饥饿，她几乎像一具小骷髅那样轻。}}\n{{对话|妇人|……求求你……求你……她得吃东西……她得吃东西才能活到雁门……|头像=平民母亲}}\n{{旁白|所有人的目光望着我身后的绣球。 绣云鸢没有惊恐，只是静立在那。}}\n{{对话|我|……我明白了。|头像=广陵王-严肃}}\n{{旁白|我拔出刀，转身缓缓走到绣球面前，轻轻挠了挠它的头。它将头抵在我的手心，像小时候那样撒娇。}}\n{{对话|我|……绣球，飞吧。去雁门。|头像=广陵王-严肃}}\n{{对话|绣球|……咕。|头像=绣云鸢}}\n{{对话|我|没事的。去吧。|头像=广陵王-微笑}}\n{{对话|妇人|……殿下……|头像=平民母亲}}\n{{对话|我|我会救她的。|头像=广陵王-严肃}}\n{{旁白|我将刀刃抵在腕上，深深割下……}}\n{{对话|我|……我……不想见它死。我也不想见人死。|头像=广陵王-严肃}}\n{{对话|我|我知道，孩子的性命，对母亲来说是更可贵的。人的性命，对世道来说是更可贵的……所以……|头像=广陵王-严肃}}\n{{对话|我|……喝吧。喝我的血吧。|头像=广陵王-严肃}}\n{{旁白|鸢的影子在月夜远去了，雪似乎小了，让它得以远飞。}}\n{{旁白|孩子的嘴本能地啜饮着，吸食温热的血肉，恢复了血色。越来越多的人抱着孩子围了过来，把孩子拖举着，希望分得活下去的希望。}}\n{{对话|我|……没关系的……没事的……|头像=广陵王-严肃}}\n{{对话|我|我会救你们的……我不会丢下你们……|头像=广陵王-严肃}}\n{{旁白|我坐在断木上，一个又一个濒死的孩子被放到我的膝头。神思和身躯突然轻了，像是随着绣球，自由轻盈地飞去了高处。}}\n{{旁白|雪风啊，月光啊……}}\n{{旁白|无穷无尽。}}\n{{对话-尾}}\n\n==雁门·玖==\n{{对话-头}}\n{{旁白|【未知之地】}}\n{{旁白|心理|……}}\n{{旁白|心理|…………}}\n{{对话|我|哎？|头像=广陵王-惊讶}}\n{{对话|我|……哎？回来了？|头像=广陵王-惊讶}}\n{{对话|陈登|主公──鱼啊鱼──|头像=陈登}}\n{{对话|傅融|不要带着鱼上走廊！！！|头像=傅融}}\n{{对话|张邈|嘿嘿，清爽哥气得在冒……呜啊！|头像=张邈}}\n{{对话|傅融|踩到水滑倒了吧？活该。|头像=傅融}}\n{{对话|陈登|鱼──十五斤的花鲢──|头像=陈登}}\n{{对话|张邈|小陈，不要带着鱼上走廊！|头像=张邈}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|我|啊……是梦啊！原来都是噩梦……|头像=广陵王-微笑}}\n{{对话|阿蝉|楼主。外面好吵。|头像=阿蝉}}\n{{对话|我|我去让他们别遛那条鱼了……呜啊！|头像=广陵王-微笑}}\n{{旁白|心理|踩到水……滑倒了……}}\n{{旁白|心理|……可是，安静了……}}\n{{旁白|心理|安静了……阿蝉一定可以安心了……}}\n{{对话|傅融|你……|头像=傅融}}\n{{对话|傅融|你是……疯了吗……你疯了吗……|头像=傅融}}\n{{旁白|心理|好不容易……安静下来的……}}\n{{对话|傅融|你醒醒……你疯了才会……你醒醒！|头像=傅融}}\n{{对话|我|……傅融？|头像=广陵王-挑眉}}\n{{对话|傅融|！！！你醒了？}}\n{{旁白|我躺在板车上，最先看见的是窝在耳畔的绣球。然后，是傅融。}}\n{{对话|我|……我在哪……|头像=广陵王-疲惫}}\n{{对话|傅融|雁门关！我们到雁门关了！}}\n{{旁白|手腕动不了，上面裹着厚厚的纱布。人群在我们旁边跟着走，每个人脸上都带着激动。}}\n{{对话|百姓|傅融带的队伍和我们走散了，却和雁门关的巡卫遇到了。雁门守将认识广陵这边的人派人来找我们了！|头像=男文人}}\n{{对话|傅融|过了雁门关，就可以好好休息了……云雀他们先进城了，都没事……}}\n{{对话|我|……傅融……阿蝉她……|头像=广陵王-难过}}\n{{旁白|他看见我的神色，已经明白了，紧紧抱住了我。}}\n{{旁白|雪风中，我无声恸哭。他掩住我的脸，没有让别人看见我的哀恸。}}\n{{旁白|【驿馆】}}\n{{对话|我|有这么多人愿意继续去幽州？|头像=广陵王-惊讶}}\n{{对话|傅融|嗯，除去一些想停在雁门的人，还有七成人想去涿鹿。}}\n{{对话|傅融|不过，之后的路就好走许多。雁门郡守是张辽过去的手下，同意我们在这里度过雪季。}}\n{{对话|我|雪季……快要过去了吧？|头像=广陵王-微笑}}\n{{对话|傅融|还有一个月，就彻底过去了。}}\n{{对话|傅融|今天从外面采买回来，雁门附近的草原都能见到绿色了，甚至还看见胆大的放牧人 。}}\n{{对话|我|我休养得差不多了，想出去透透气。我们去草原上吧？|头像=广陵王-微笑}}\n{{对话|我|今天不冷，绣球也好久没飞了。|头像=广陵王-微笑}}\n{{旁白|【雁门郊野】}}\n{{对话|傅融|你跑慢点！}}\n{{对话|我|真的！一点都不冷了！|头像=广陵王-微笑}}\n{{旁白|我们都穿着本地厚重的冬衣，策马奔过原野。}}\n{{旁白|须臾，马匹累了，我们便放马饮水，并肩沿着河水，缓缓而行。}}\n{{对话|傅融|难得这样安定下来，还有些不习惯……}}\n{{对话|我|若是彻底安定下来，你们想回广陵吗？|头像=广陵王-微笑}}\n{{对话|傅融|人都不在了……就算回去也……}}\n{{对话|傅融|你呢？你回吗？}}\n{{对话|我|我回去的话，你跟我走吗？|头像=广陵王-微笑}}\n{{对话|傅融|不然呢？不等你把这七年欠的俸禄补齐，我就会像男鬼一样缠着你……}}\n{{对话|傅融|我就算是死了，我的怨魂也会半夜在账房打算盘。}}\n{{对话|我|啊……变成鬼了也想着加班啊。那个位置，白天人工作，晚上鬼工作……|头像=广陵王-微笑}}\n{{对话|傅融|是啊，我要提前给自己的鬼安排工位。}}\n{{对话|傅融|所以……你会回广陵吗？}}\n{{分歧\n|会回广陵\n|{{对话|我|我会回去的。|头像=广陵王-点头}}\n{{对话|傅融|那，要重新招好多人手啊……}}\n{{对话|我|傅副官要带新人带到秃头了呀。|头像=广陵王-微笑}}\n{{对话|傅融|啊啊……假发先做起来吧。}}\n{{旁白|两匹马从我们身侧跑过，踏入小河中。 我们在斜坡坐下，望着它们嬉戏。}}\n{{旁白|绣球飞落下来，跳进傅融怀里，露出肚子撒娇。}}\n{{对话|傅融|回去的话，它会不会胖回从前的样子啊？}}\n{{对话|我|不至于吧，好不容易瘦身的，绣球！|头像=广陵王-微笑}}\n{{对话|绣球|咕咕叽？|头像=绣云鸢}}\n{{旁白|听见瘦身两个字，它挣扎着逃窜，在草地上扑腾。傅融望着它，没有注意到我这边的异常。}}\n|不会\n|{{对话|我|……我……会回更远的地方。|头像=广陵王-微笑}}\n{{对话|傅融|……是吗。}}\n{{对话|我|不是距离，而是时间。我有预感，我快要回去了。|头像=广陵王-微笑}}\n{{对话|傅融|那这里的你，果然已经……}}\n{{对话|傅融|……是啊，人的容貌，怎可能七年不改。}}\n{{旁白|他望着自己的双手，不禁苦笑。}}\n{{对话|傅融|……能不走吗？}}\n{{对话|傅融|……不，说笑的。忘掉吧。七年前的我们，一定希望你在。}}\n{{对话|傅融|……回去吧……}}\n{{旁白|他缓缓低下头，我看不清他的表情。就在这时，我感到自己的身体变得轻了起来……}}\n}}\n{{旁白|白雾在翻涌。混乱的时空，正在回到过去。}}\n{{旁白|心理|……我要走了……}}\n{{旁白|白雾渐渐浓烈。他的身影也变得模糊。}}\n{{旁白|我的影子从草地上消失，只余他一人。他似乎预感到什么，却没有转头，背对着我。}}\n{{对话|傅融|……再见了……|头像=傅融}}\n{{旁白|白雾遮蔽天地，将我从这个宇宙的乱流中带回过去……}}\n<center>[[file:插图-傅融·七载相逢.png|link=|300px]]</center>\n\n{{回到顶部|尾}}"
+}

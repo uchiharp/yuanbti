@@ -1,0 +1,884 @@
+[
+  {
+    "id": "q_dongfeng_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "药炉自喻",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「药炉觉得自己天生是药炉，它没学过怎么做人。」董奉用这个比喻说明什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的不懂做人，这说明了",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "对自己最核心的认知",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "，用笑话掩饰内心的苦涩",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——他不是在比喻，是在陈述事实。"
+  },
+  {
+    "id": "q_dongfeng_02",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "守护元龙",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「元龙，他身体不好，别再让他知道伤心的事了。」对陈登的维护说明什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的关心陈登",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "深度依恋和精神锚点",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在履行医者职责",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——对陈登的依恋是他情感的锚点。"
+  },
+  {
+    "id": "q_dongfeng_03",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "猫系口癖",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「真是劳碌命啊，喵。」董奉的喵代表什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的喜欢猫，这说明了一些问题",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "信任的信号——仅在安",
+        "scores": {
+          "S2": 2,
+          "S4": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在装得了一时装不了一世",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——喵和舔舔是信任的信号。"
+  },
+  {
+    "id": "q_dongfeng_04",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "士家死士",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「他恨一个人，就让我去杀他。这种关系，反而让我很安心。」对士燮的复杂感情是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "斯德哥尔摩综合征",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "创伤源头但也是唯一让",
+        "scores": {
+          "S6": 3,
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "真的忠心，从中可以看",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——曾经的杀手本能和自我厌弃并存。"
+  },
+  {
+    "id": "q_dongfeng_05",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "数字精确",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「五百马步」「一百八十」「二十马步」董奉的数字精确感来自？",
+    "options": [
+      {
+        "label": "A",
+        "text": "记忆力好，从中可以看出他的真",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "军人/杀手训练赋予的强秩序感",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "，借机展示自己，值得关注",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——数字精确感是杀手/军人的肌肉记忆。"
+  },
+  {
+    "id": "q_dongfeng_06",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "断桥计算",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "战场上断桥精确到马步，救治决策条理分明。董奉的行动风格？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，展现出色的军事素养，值得深思",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "干脆高效——杀手/军人的底色",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在逞能，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——执行力强但心理损耗巨大。"
+  },
+  {
+    "id": "q_dongfeng_07",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "冷幽默",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「哈……哈哈哈……真的好丑。」用自嘲表达情感。董奉的锋芒？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在笑容背后藏着深意",
+        "scores": {
+          "S7": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "锋芒内敛以柔克刚",
+        "scores": {
+          "S7": 2.5,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "真的觉得丑，",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——冷幽默和自嘲是他的武器。"
+  },
+  {
+    "id": "q_dongfeng_08",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "被动城府",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「这是个很好的交易，没有必要破坏掉。」董奉的权谋？",
+    "options": [
+      {
+        "label": "A",
+        "text": "很有头脑，从中可以看出他的真实想法",
+        "scores": {
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "被动型城府防御性算计，值得深思",
+        "scores": {
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在算计，从中可以看出他的真实想法",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——被卷入棋局时能看清局势。"
+  },
+  {
+    "id": "q_dongfeng_09",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "赎罪行医",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "行医救人、牺牲自己换取交易——董奉的价值排序？",
+    "options": [
+      {
+        "label": "A",
+        "text": "医生本能，从中可以看出",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "对物质利益无执念，值得关注",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在装得了一时装不了一世",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——用行医救人来对抗杀人的快感。"
+  },
+  {
+    "id": "q_dongfeng_10",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "董奉",
+    "source_story": "权力绝缘",
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "董奉对权力没有渴望也不主动攀附。你觉得这是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，对权力毫无渴望",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "权力绝缘体——关心的",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "，伪装是最厚的墙",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——权力不是他的世界。"
+  },
+  {
+    "id": "q_dongfeng_11",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董奉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "一个人对你说「这些年我也都在为那一日赎罪……」语气平静但你觉得他在说真话。你怎么回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "安慰他说没关系，值得关注",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "不提过去只说现在",
+        "scores": {
+          "S8": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "追问弄清事情真相",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——他的赎罪是真实的驱力。"
+  },
+  {
+    "id": "q_dongfeng_12",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董奉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「我不想被他们知道。」一个人拼命封锁过去。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，隐瞒了重要的事",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "守门人——守的是用尽",
+        "scores": {
+          "S4": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "，逃避是最远的路",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——失去这些他就真的什么都没有了。"
+  },
+  {
+    "id": "q_dongfeng_13",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董奉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "一个人几乎从不正面说我在乎你。你觉得这个人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "冷漠，从中可以看出他的真实想法",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "情感被深埋表达通道极",
+        "scores": {
+          "S2": 2,
+          "S4": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "不擅长表达，这说明了一些问题",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——情感表达几乎为零。"
+  },
+  {
+    "id": "q_dongfeng_14",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董奉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「被命令去杀人」且「杀人的快感」真实存在。一个人坦白这种事说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "很可怕，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "矛盾地带——对自己残，值得深思",
+        "scores": {
+          "S6": 3,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在吹嘘，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——曾经是死士的事实不容否认。"
+  },
+  {
+    "id": "q_dongfeng_15",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董奉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "「我太累了……让我……睡一觉吧。」高效背后的心理损耗。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的累了，从中可以看",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "被迫的生存技能而非主",
+        "scores": {
+          "S5": 3.5,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "，撒娇是最软的盔甲",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——他的疲惫是真的。"
+  },
+  {
+    "id": "q_dongfeng_16",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董奉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "一个人有强秩序感但只把秩序当工具。你觉得这是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，内心充满冲突",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "秩序是技能不是信仰",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "，坚守自己的底线",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "董奉——秩序是他从小被训练的东西。"
+  },
+  {
+    "id": "q_dongfeng_17",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「就当我有不堪的往事吧，到此为止。」一个人对你说这种话，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，想弄清事情真相，值得关注",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "尊重——到此为止就是到此为止",
+        "scores": {
+          "S7": 2.5,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "假装没听见，这说明了一些问题",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——给过去画一条线。"
+  },
+  {
+    "id": "q_dongfeng_18",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「渴望被需要恐惧被了解。」你觉得这种状态是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，内心充满冲突，值得关注",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "温柔是最脆弱也最珍贵",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在自我保护，这说明了",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——温柔是他最珍贵的东西。"
+  },
+  {
+    "id": "q_dongfeng_19",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "你在行医时遇到一个受伤但拒绝治疗的病人。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "尊重对方选择，这说明了一些问题",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "用温和的方式说服对方，值得深思",
+        "scores": {
+          "S8": 4,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "强行治疗，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "董奉——会选择温和的方式。"
+  },
+  {
+    "id": "q_dongfeng_20",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "有人问你过去的事。你会怎么回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接拒绝回答，这说明了一些问题",
+        "scores": {
+          "S4": 3,
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "用开玩笑的方式转移话题",
+        "scores": {
+          "S4": 4,
+          "S7": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "编一个故事，这说明了一些问题",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "董奉——用玩笑转移话题。"
+  },
+  {
+    "id": "q_dongfeng_21",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "你照顾一个生病的人但他很烦躁。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "耐心照顾，从中可以看出他的真实想法",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "开玩笑缓解气氛，值得关注",
+        "scores": {
+          "S8": 3,
+          "S7": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "让他自己待着，这说明了一些问题",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "董奉——喵一下，然后继续工作。"
+  },
+  {
+    "id": "q_dongfeng_22",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「药炉觉得自己天生是药炉。」",
+        "scores": {
+          "S4": 4,
+          "S10": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「元龙他身体不好别再让他知道伤心的事了。」",
+        "scores": {
+          "S8": 5,
+          "S2": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "两句都来自董奉——工具认知与深藏的温柔。"
+  },
+  {
+    "id": "q_dongfeng_23",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董奉",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "苍梧",
+    "text": "一个人能用幽默化解所有紧张局面但从不正面攻击。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "很会做人，从中可以看出他的真实想法",
+        "scores": {
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "防御性社交策略——不，值得深思",
+        "scores": {
+          "S1": 2.5,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "太圆滑了，从中可以看出他的真实想法",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "董奉——他的面具就是生存方式。"
+  }
+]

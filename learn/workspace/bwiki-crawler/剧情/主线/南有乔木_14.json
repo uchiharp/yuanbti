@@ -1,0 +1,59 @@
+{
+  "title": "南有乔木/14",
+  "category": "主线剧情",
+  "characters": [
+    "我",
+    "阿蝉"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "找玉玺的人太多了，需速战速决，你我分头行动。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "是。分头行动，是左右分，还是上下分？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呃，你随意吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "好……那就尽量把敌人对半分……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "楼主，根据调查，孙家之前抓住过五个闯入者。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "有活口留下吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "应该都被分头行动了。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8D%97%E6%9C%89%E4%B9%94%E6%9C%A8/14",
+  "crawled_at": "2026-04-12T21:56:54.345047",
+  "raw_wikitext": "{{对话-头}}\n{{对话|我|找玉玺的人太多了，需速战速决，你我分头行动。}}\n{{对话|阿蝉|是。分头行动，是左右分，还是上下分？}}\n{{对话|我|呃，你随意吧。}}\n{{对话|阿蝉|好……那就尽量把敌人对半分……}}\n{{对话|阿蝉|楼主，根据调查，孙家之前抓住过五个闯入者。}}\n{{对话|我|有活口留下吗？}}\n{{对话|阿蝉|应该都被分头行动了。}}\n{{旁白|【敬业】事件情报获得}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

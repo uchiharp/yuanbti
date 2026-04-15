@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q_chengyu_1",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "程昱",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "程昱对广陵王说：「殿下，当你说自己想吃了一个人的时候，你最好真的能吃了这个人。」又道：「殿下，你可愿为他们付清代价？」他从不坐地起价，但每一笔交易都明码标价。面对一个把一切都摆在台面上谈的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "能不给就不给，想办法绕过他的条件",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "公平交易，他开了价我付得起就付",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "研究他的弱点，找到让他主动降价的方法",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "程昱的回答：「殿下，我是个讲道理的生意人。你下完定金如果后悔，也可以斩钉截铁跟我说不。」他尊重坦诚的拒绝，但不接受耍赖。"
+  },
+  {
+    "id": "q_chengyu_2",
+    "dimension": "S1",
+    "cross_dimension": "S6",
+    "type": "story_anon",
+    "source_character": "程昱",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说：「如果可以的话……双眼、一部分肠子、双臂、双腿。」他愿意用自己的身体部位作为代价，换取为你实现愿望。他的语气平静，像在谈一笔寻常买卖。你会如何回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不需要这种代价，我不想任何人因我残缺",
+        "scores": {
+          "S1": 1,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "问清楚这笔交易的具体条件和后果，再做决定",
+        "scores": {
+          "S1": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "如果这能达成目的，而且是他自愿的，我会接受",
+        "scores": {
+          "S1": 4,
+          "S6": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是程昱对广陵王的报价——他用身体部位换取实现愿望的能力。他说：「真神永不吞金，神无需代价便可救世。可我不是。」"
+  },
+  {
+    "id": "q_chengyu_3",
+    "dimension": "S3",
+    "cross_dimension": "S1",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「殿下，你误会了一件事——我从没有认为自己是米肉仙。」以下哪句话更接近你对「代价」的看法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "能不付代价就达到目的，才是最好的",
+        "scores": {
+          "S3": 2,
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "付出和回报要对等，但该花的钱不能省",
+        "scores": {
+          "S3": 3,
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "只要结果值得，代价越大说明交易越重要",
+        "scores": {
+          "S3": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A是普通人的想法，B接近程昱的生意人哲学，C则是程昱更深层的信念——「你给我的部分越多，我能给你实现的愿望也越大。」"
+  }
+]

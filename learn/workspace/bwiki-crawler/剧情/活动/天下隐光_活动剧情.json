@@ -1,0 +1,170 @@
+{
+  "title": "天下隐光/活动剧情",
+  "category": "活动剧情",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"天下隐光/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background899dd3;color5642a6;textaligncenter;!标题背景和字色改这行颜色"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundB7CCEE;!背景2（导航）改B7CCEE"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''序'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:07:32.715238",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|活动剧情|天下隐光/活动玩法}}{{背景图片|{{filepath:天下隐光背景.png}}}}\n{{回到顶部|头}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">天下隐光</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|天下隐光/活动剧情|序}}\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|壹·天崩地坼}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|贰·王为巫首}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|叁·扶桑已烬}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|肆·白龙垂目}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|伍·往世昭回}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|陆·天下隐光}}\n</center>\n</div></div>\n{{JS|Qiantao.js}}[[分类:活动剧情]]\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#899dd3;color:#5642a6;text-align:center;}<!--标题背景和字色改这行颜色-->\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#B7CCEE;}<!--背景2（导航）改#B7CCEE-->\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n__TOC__\n<center>\n='''序'''=\n</center>\n{{对话-头}}\n{{旁白|心理|之前答应师尊，等闲暇时往隐鸢阁小住。}}\n{{旁白|心理|出行的时辰快到了，准备往益州吧……}}\n{{对话-尾}}\n\n<center>\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

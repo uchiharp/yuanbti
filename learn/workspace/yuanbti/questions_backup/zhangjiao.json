@@ -1,0 +1,124 @@
+[
+  {
+    "id": "q_zhangjiao_1",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张角",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "张角对一个孩子说：「这世上有多少受苦受难之人，我便救多少。」又道：「你以为，我是怕死吗？」他每天午时守着一碗食物，等饥饿的孩子来。他说：「咽下我的眼睛，它就无法目见你。」面对一个以自身血肉为代价守护他人的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不让他再牺牲自己，找到别的办法",
+        "scores": {
+          "S6": 4,
+          "S10": 5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "尊重他的选择，但帮他分担能分担的部分",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "学习他的方法，将来用同样的方式帮助更多人",
+        "scores": {
+          "S6": 2.5,
+          "S10": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张角的回答：「你每天过来烦我，好像都是用膳的时辰。不饿吗？」他用最平淡的方式，守护着每一个靠近的孩子。"
+  },
+  {
+    "id": "q_zhangjiao_2",
+    "dimension": "S6",
+    "cross_dimension": "S2",
+    "type": "story_anon",
+    "source_character": "张角",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说：「很快，你就能听见天下所有的哭声。」他说这话时语气平静，仿佛在描述一件寻常的事。又道：「你我殊途同归。到最后，你也会习惯哭声。」面对一个已经习惯了人间苦难的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「我不要习惯哭声」，然后去做点什么",
+        "scores": {
+          "S6": 4,
+          "S2": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "沉默。因为知道他说的是事实",
+        "scores": {
+          "S6": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "问「习惯之后呢？还能做些什么吗？」",
+        "scores": {
+          "S6": 3.5,
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是张角对即将获得「听见哭声」能力的人说的话。他自己曾害怕听见哭声，也想去听不见哭声的地方，但最终选择面对。"
+  },
+  {
+    "id": "q_zhangjiao_3",
+    "dimension": "S8",
+    "cross_dimension": "S6",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人本就不必信任何道。」以下哪句话更接近你对他人的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "每个人都有自己的路，我不评判也不强求",
+        "scores": {
+          "S8": 4,
+          "S6": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "可以理解不同的选择，但我会坚持自己的道",
+        "scores": {
+          "S8": 3,
+          "S6": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "道就是道，偏离正道的要拉回来",
+        "scores": {
+          "S8": 2,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张角的话看似冷漠，实则包容——他不要求任何人信他的道，只做他认为对的事。"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "q_jianyong_1",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "简雍",
+    "source_story": null,
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": "幽州",
+    "text": "简雍对广陵王冷嘲热讽：「还以为你能做出什么事业，结果就和你的母亲一样，幼稚、愚蠢、笨拙、给人添麻烦。」又说：「你不是第一天知道我恶毒吗？」然而在白鹄行动中，他亲手执行了先王的遗命。面对这样一个嘴上恶毒、行动忠诚的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "他的话太难听了，保持距离就好",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "听懂他话里的意思比话面更重要，用行动回应他",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "当面怼回去，他敢说我就敢接，看谁先服软",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "简雍的回答：「没有退路了。殿下。」他的毒舌下藏着对天命的敬畏和执行到底的决心。"
+  },
+  {
+    "id": "q_jianyong_2",
+    "dimension": "S7",
+    "cross_dimension": "S6",
+    "type": "story_anon",
+    "source_character": "简雍",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说：「好极了。要么，你履行天命，继承这种无尽的痛苦。要么，你抛弃天命，让另一个无辜的人承受。」他给你选的只有这两条路，没有第三条。你会怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "痛苦不该由任何人承受，我一定找到第三条路",
+        "scores": {
+          "S7": 2,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "既然是我惹出来的事，我自己扛",
+        "scores": {
+          "S7": 3,
+          "S6": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "选最有利于大局的那个，犹豫只会害更多人",
+        "scores": {
+          "S7": 4,
+          "S6": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是简雍在白鹄行动中对新任广陵王提出的抉择——承接巫魂的痛苦，还是让他人代为承受。"
+  },
+  {
+    "id": "q_jianyong_3",
+    "dimension": "S10",
+    "cross_dimension": "S7",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人这一生，皆在逃离命中注定之事。」以下哪句话更接近你面对「命运安排」的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "命是天定的，顺其自然就好",
+        "scores": {
+          "S10": 4,
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "命可以信，但不能认，该争的还得争",
+        "scores": {
+          "S10": 3,
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "什么命中注定？我的命我自己说了算",
+        "scores": {
+          "S10": 2,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A是多数人的态度，B接近简雍的信念——他执行天命但不盲从，C是简雍对广陵王的试探：「不上船，离开此地，你可以默默无闻度过余生。」"
+  }
+]

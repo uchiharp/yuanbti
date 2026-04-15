@@ -1,0 +1,3771 @@
+{
+  "title": "燕歌行/活动剧情/袁基线",
+  "category": "活动剧情",
+  "characters": [
+    "亲卫",
+    "侍从",
+    "侍卫",
+    "刺客",
+    "华胥死士",
+    "周忠",
+    "我",
+    "楼班",
+    "简雍",
+    "绣衣楼密探",
+    "老人",
+    "老人？？？",
+    "耿公子",
+    "舍官",
+    "荀攸",
+    "蛾使",
+    "袁基",
+    "袁氏斥候",
+    "诸葛亮",
+    "金卫",
+    "陈昭",
+    "雀使",
+    "马氏骑兵",
+    "马超"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "往巨鹿方向，有袁氏麾下的城池，先去那里的驿馆吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "殿下打算往幽州吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "啊……你连这都听说了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "不算是听说吧……如今的局势下，幽州刘虞是殿下最需要的盟友。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……不是袁氏或者孙氏吗？我还以为，不会有人建议去那么远的地方找盟友呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "关中即将混战，而袁氏已经注定难以抽身。孙氏坐拥扬州，但也被扬州所锢，不敢远征。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "殿下手中缺乏兵马与积累，若与袁氏合流，败则一败涂地，胜则难保战果，并非上策。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "而幽州刘虞的声名与身份，正是殿下所需要的。殿下手中绣衣楼的力量，也是刘虞所需要的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "不能进？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "……是，毕竟，消息传得很快，都是飞鸽传向各地的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "本地……本地也实在不敢涉险。不过殿下放心，下官不会泄密殿下行踪的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁绍将军是你的上司，凭他的亲笔信也不行吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "……下官收到的急信上说，如今局势复杂，殿下身份成谜，不许放殿下进城。那卷信是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "是……长公子的亲笔信。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不可能。他如今有眼疾，不方便写信，我要看信。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "......我知道了。我不为难使君，夜深了，使君早些歇息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "使君。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "使君，有兵马将近，不知欲何为。无论此地是否留殿下歇息，都可能被殃及。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "不如让殿下先入驿馆歇息，众人共同商讨对策，倘若发现兵马将近，也能及时让民众避险……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "你是……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "学生琅琊诸葛……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "舍官",
+      "text": "头像=文官",
+      "emotion": "不认识。你还年少，如今的时局，岂是我等敢随意动作的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "好了，不必多说。既然此地不能停留，那我们就继续赶路了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "至少让使君把饮食和马匹……啊，殿下……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "根据密信，马氏的兵马目的不明，但如果离我们越来越近……旷野之上，没有可供藏身之处。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "或者也能唤来雨云，强行阻止骑兵。但是天相并不寻常，不确定雨云能否聚集。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你是说之前的暴雨，并非自然大雨？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "对，是被另一股力量召集起来的雨云。是从兖州东部汇聚过来的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是吗……你还走得动吗？我们可能要改换装束，往百姓家投宿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "有人吗？主人在家吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "好像没人，不过，不像是废弃的样子，主人可能出门了吧......？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "你们......是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "老人家是这家的主人吗？我们途径此地，想要借宿一夜。不必担心，我们不是歹徒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "二位看着面善......先坐去里间，喝口水歇歇吧。这家就剩我一人了，也不怕什么歹徒了......坐，坐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "多谢老人家。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "怎么了？二位……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "一个人住，门边为何有孩子玩的竹马？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "是孙子生前留下的，不过孩子已经不在了"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "说笑的，那边没有竹马，好像是把斧头。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你是绣衣楼的人？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人？？？",
+      "text": "头像=黑人影",
+      "emotion": "从前是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "后面也有人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "哈！小孙子死而复生了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=刺客头领",
+      "emotion": "唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "就这？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "白、白龙不擅长武斗！它比我还害怕！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人？？？",
+      "text": "头像=黑人影",
+      "emotion": "不要乱动就还能活！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你想活捉我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人？？？",
+      "text": "头像=黑人影",
+      "emotion": "命令是这样的，但如果你拒不愿从，也可以杀你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人？？？",
+      "text": "头像=黑人影",
+      "emotion": "考虑好了吗？放下兵器跟我走，还能一一呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "劲啊兄弟！变反贼了怎么不喊我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "啊，现在还喊兄弟吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "哈哈哈差点忘了！女兄弟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "殿下我们要和战马比速度吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "借断垣周旋一下！坚持到密信上的密探过来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "来的人能以一当百吗？实在不行也可以冒险进入龙脉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "真的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "对，只需要花几十年到几百年重新汇聚肉身找到出口就行……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "对不住了，兄弟，华胥让我们来杀你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "刚才有一波来活捉我的，现在又来一波杀我的。这次可真是热闹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "我也说呢！老爹拉我们加入里八华，不过它里面也分了两拨在互相斗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "不过董兄弟让我听华胥那边的，所以我就来杀你了。我可是特意把刀磨利了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "不好意思啊，将军。我拿的是活捉的任务。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=马超",
+      "emotion": "哇，你看起来很能打嘛！你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "……将军真厉害，居然还有意识。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏骑兵",
+      "text": "头像=西凉军乙",
+      "emotion": "杀了他们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "真是不通情趣，上来就这么激烈啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=诸葛亮",
+      "emotion": "殿下，没事的，学宫里学长和师者说话比这个刺激多了，不用帮学生捂着耳朵的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不，我怕看见你长兄吊死在我府门口……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏骑兵",
+      "text": "头像=西凉军乙",
+      "emotion": "这是什么妖魔……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "……白羽箭？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏骑兵",
+      "text": "头像=西凉军乙",
+      "emotion": "是弓骑兵！队形散……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏斥候",
+      "text": "头像=袁氏士兵统领",
+      "emotion": "殿下，家主听闻惊变，派兵前来接应。请上马，卑职护送殿下往后方与家主汇合。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……殿下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "是我。你知道许县的情况了吗？天子现下如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "在本初那，还在昏睡。本来让斥候先去了前方的驿馆，结果殿下不在。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "舍官说接到了亲笔信，但我从未写过信，不知是谁所为。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "好了，别在这说了。往驿馆吧，我有话和你交代。交代完了，我就要尽快北上了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "殿下，如果让他知道你抓走小陈的事，你有何应对吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "那不是你该先烦恼的事吗？让她发疯的巫血可是你送去的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "袁公子怎会和我这样的人计较呢？要不要老臣教你几招，“万一被情人发现自已瞒着他做了点错事该怎么哄”之类的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "说来听听？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "“卿卿，我可都是为了你好，我们都可以为了彼此去死，怎能因此事就断绝往来呢？你可真是绝情之人，是我当年看错人了”。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我记一下但最好不要用上。不过你也提前告诉我一声，你把她救去哪了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "里八华啊。里八华可喜欢这种出身名门的人了，眼下正值局势飘摇之际，她在里面，可是立刻得到重用了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "人家手中捏着两个亲生儿子呢，殿下这样大的把柄。随时都可能被她抖出来……殿下，你还是把老臣教你的话练一下吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "上车吧，都吩咐好了，可以启程往驿馆了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……好。我知道了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "绑架别人的母亲，准备在往后某日发难钳制，这种事情捅出去，可是不会有人站在你这边的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……她也有想掩盖的往事，所以不敢贸然向袁基去信。彼此还能再僵持一阵，没有到走投无路的地步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "唔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "看得清吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "只能勉强看清字迹的轮廓……殿下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "嗯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "灯火好像在抖……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊，是风。我遮一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "仿得很像，不像郭嘉仿的那种风格，不知为何，有些眼熟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下现在是欲北上，去幽州寻刘虞吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你知道了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "刘虞此前劝公孙瓒与本初停战，提过和殿下约定于幽州相见的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我欲与幽州牧结盟，这样，你们也能不必防备幽州公孙瓒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "那，条件呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "天子无咎，则不僭越。南北联手，远交近攻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "天子若有咎呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "袁公子，听听你在说些什么。天子怎么会有咎呢。天子只是中毒昏迷不醒，他嘴里说出的话，不就是我们想说的话吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "许县那边不会松口的。绝对会一口咬死天子还在许县。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "当年西凉军不是也这么做过吗。他咬他的，我们咬我们的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "天下人只不过等一个名目，把天子的肉身扣住，好好供奉，天下人的嘴都会帮你咬回去的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "现在咬的可不止此事了，还有殿下身份之事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "天子在我们手上，袁基。只要天子在，别说我是女人，我就算个死人，都能让天下信服。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……可是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基，袁基，你听我说……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……不要担心，我难道会抛下你吗？不会的，比起刘虞，我与你才是真正的盟友，对不对？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "刘虞会要什么？他是君子，是宗室，他只想见到盛世，见天下大同。那君子不爱的财权名利、世代荣光，除了袁氏，我还会给谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他是以君子之名立世的，倘若最后争权，岂不是推翻了他自己多年的清名？他是纯臣，我装纯臣，你当奸臣，奸臣什么都会有的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "家主，城外有兵马来了。马超重新集结了阵势，准备攻城。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "这座城足够稳固，城中物资也足够。告诉城中官员，我会留下，让他们安心守城。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "替殿下备好物资马匹，派一支轻骑护送，往北门出城。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下先行北上吧……·我会调兵过来拦截追兵，等局势安定，就去幽州和殿下汇合。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……好。那我在幽州等你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "让学生留在他左右？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "如果他这边有异动，就用心纸君告知我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "异动……是指……？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……倘若他收到了一卷信，看完信后，突然大喜大悲，或神容异常……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那你就立刻告诉我。我会让周忠也继续留一段时日，以防不测。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "……别跟着我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "行了，宪和，哪怕你像个恶毒的继父，孩子还是愿意继续随行照顾你，多感人啊，简直可以进新编孝经。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "……你也不要跟着我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "好吧，被嫌弃了呢 ……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈等我一下。还有，你也别走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "听听，孩子喊你前辈呢，喊我就是“你”，唉，好心寒……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "劝劝这孩子吧，小攸。她快把宪和烦死了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "……我不知该如何称呼使君。使君如今算是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "你可以唤我先王啊。或者和你先祖一样唤我世子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "都不要跟着……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈小心些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "我没事，只是看了太久雪光，有些眩晕罢了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "真是奇才啊，宪和。我当时可是痛到在心里咒骂了三天三夜先祖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "你没消失……说明承继失败了，巫的魂魄还在你体内……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "为何会如此……你的肉体毁了，我服下巫血巫肉成为最近的容器，魂魄理应会进我的体内……咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "是啊，我也想不通。不过有时候没有变化就是好的变化，既然我们这边没有变故，不如好好托举孩子的未来吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "唉，阿女，看看，世道冰冷无情，只有老父亲记挂着你的……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "……呼……像跟屁虫一样，到底要问什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你真的没有别的反应？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "没有……虽然刚开始脑中一片空白，但是苏醒后，除了虚弱，并没有别的异样。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "……我会派金卫继续护送你北上。途中会有耿氏的邬堡让你们歇息。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "幽州将军公孙瓒并不乐见你和刘虞联手，在你们见面前，一定会暗中阻挠。自己解决，不要给我惹麻烦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我想召集绣衣楼密探来此，在幽州各处建立据点。在见到刘虞前，至少需要一条通畅的情报线，能在北方自行运作。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "我吐字很清楚吧，“不要给我惹麻烦”。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "恶毒的继……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "我来和殿下汇合……唔，发冠是不是歪了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……你是怎么知道我的行踪的？你就算找我，也应该是在边界的邬堡那里等我才对。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我们是通过幽州地下抵达此处的，是谁让你来这里的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……子瑜的弟弟，那个叫阿亮的孩子。他被兄长来信叫回去了，临别前，将殿下的方位告诉了我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "袁基来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "小荀老师……？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "关中情况如何？幽州与南方情报不通，后方的战事如今谁占上风？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "曹操在争夺兖州，但战事不利。许县、兖州，两处都在胶着。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "袁氏的兵马也在待命。殿下尽快和刘虞汇合，调动幽州骑兵南下，如此南北夹击，可定大局。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "幽州据点之事可以靠后，眼下，追兵在后，公孙瓒想法多变，还是要先往治所，和刘虞相见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "殿下身份刚刚被公布，可能还要在幽州待一段时日，借刘虞之力，躲开关中最紧张的风口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "金卫",
+      "text": "头像=黑人影",
+      "emotion": "殿下，有关内的追兵越过关隘，靠近此处。公子有令，命末将护送队伍启程，往幽州牧在北方的治所。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基，我们要启程了，你双目不便，不如留在此地，等我见到刘虞，再派人来接你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……此次带来了随行侍从和护卫，对殿下应该是利大于弊的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "不必担心，天气也没有那么冷。待在车里，其实感觉和关内差不多。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "让周忠使君留在后方，没关系吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "天太冷了，他很难保持清醒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "里八华内部似乎有分歧，先生知道吗？一方想活捉我，一方想刺杀我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……此前试图获取他们信任时，隐约感受到几分拉扯。虽说自称反对汉室，但他们的所作所为，似乎只是掀起战火。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他们起始于巫的残余，为了恢复力量，必须复苏建木。战火让生灵的鲜血涌入龙脉，才能喂养建木的根系。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……如果他们成功，现世会如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "消散，重归混沌，最后再被重塑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "我们也会消散吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……哈，这样想想，似乎也不错。从此就不必担心那些做不完的公务了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "想起来当年在学宫时，你暗中让他们收集了一堆火油，去水边把期末的作业都烧了的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "好像火星飞出去，还点燃了河边的树林，烧了一整夜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "我在寝室里看了许久，后来还听见奉孝回来取酒的声音。取了酒，他又回到河边去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "说起奉孝……现在局势大乱，他却没有出现，不知在策划什么。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我杀了他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他派兵劫杀从陈留撤往徐州避险的人。所以我杀了他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……停车。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……小荀老师……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "停车。我想下车透口气。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "让他待片刻吧。当年他很照顾奉孝。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "因为在此前他还知道，我杀了张邈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你需要也下车透口气吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……我……没事。其实已经预想到可能有这天了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "但是......真的听闻了，还是感到……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "来人。扶你家主人下车，让他透口气。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "等这次事情结束，回到南方后，一同去栖霞山的别院避暑吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "金卫",
+      "text": "头像=黑人影",
+      "emotion": "有兵马来了，是公孙瓒的骑兵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "谁人靠近车队！下马！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "别动手。不用管那支兵马，我设法把它引走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "宪和放心不下，让我跟着来看看，他就是容易心软。走吧，我带你去第一个据点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……这位是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "王府的旧臣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "哎呀，是阿逢的孩子？如今长得……长得……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "什……啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "外面冷。来，先上车。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "来，阿女，这间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……殿下，他到底是谁？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "王府的旧臣，以前骑马摔伤过脑子，人不太正常。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "……不孝不悌若被抓住，那就真的洗不清了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "怕什么，谁还能真把他当成先王？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "说什么悄悄话呢，小攸。外面要起风了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我有些话要和小荀老师说，稍等一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……我不会把所有密探召集到这里。麻烦你和这个人交接，将这些密探召集到密信上的所在。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "你不相信他吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "第一，他何处可信？第二……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我的行踪被出卖了，但不知叛徒是谁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "这边的制式，和绣衣楼真的很像。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣衣楼密探",
+      "text": "头像=路人母亲",
+      "emotion": "岂止是像，简直一模一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "这是绣衣楼在幽州的影子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这样的影子，或许并不止幽州有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "还有一个影子，在益州，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "是你君郎叔叔说的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我当年从隐鸢阁下山回广陵，刘焉给了很大助力。如今想来，他应该不希望我留在益州。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你们当年交好，他为你在益州建了绣衣楼的影子。但你死后，他便将之为己所用了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "真是无情啊，当年我们可是差点结为亲家的。要是都生了儿子或女儿就拜为兄弟或姐妹，要是一男一女就约定婚约。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "他儿子如今只剩一名了。是个不太聪明的人……既然当年都和刘焉约定了，最后怎么去找了袁氏？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "哇，你当年要是见过那位累世三公子，那可真是……啧，我要是女子，那绝对轮不到小陈。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "神光罩身般的气质……还以为袁基长大后能继承那种美貌，如果运气好孙辈也继承了，我绝对能活到替你们欢欢喜喜带孩子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那应该轮不到你带，还是给恶毒的继父带比较安心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "怎么这样伤为父的心，不要听信他人的一面之词啊。我姑且也算个好人吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "我可是给过身边每个人选择去留的机会的……他们自己选择留下，最后向你倾泻对我的怨恨，很不公平吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣衣楼密探",
+      "text": "头像=路人母亲",
+      "emotion": "楼主。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "嗯？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "没喊你，在喊我。怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣衣楼密探",
+      "text": "头像=路人母亲",
+      "emotion": "室内大致清理完了，机括和密道都运作正常。属下准备放飞绣云鸢，召集众人在此地会合。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "就按我给的名单，尽快将人召集前来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "拿壶酒来——让他们做事吧，我们到房顶去说会话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "……呼，拉我一把。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "这具身躯到底不是自己的，用起来很难受，而且味觉都迟钝了，喝酒都喝不出味道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "你应该没有见过小白吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有。她带着兄长在江东生活。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "她吃不惯也喝不惯这里的饮食。在王府里，还能让食官照着她的要求做。离开王府，应该过得很艰难吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "二位当年到底是怎么走到一起的，真的很好奇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "去隐鸢阁供奉仙人，希望那群神棍能在新的一年让我的仇家被雷劈死。然后就在仙门遇到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "她很害怕那个叫徐庶的人，害怕她那条怪异的手臂。跌跌撞撞地躲，差点从山阶上摔下去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "搀了她一把，就这样认识了。知道我身分后，十分亲近地喊我「王爷」……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "「王爷」是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "不知道。但她喊得很顺口，就一直随她喊了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "……不过后来诡异的称呼越来越多了，无论对方是男是女，上去就喊「大人」，认对方做爹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "还有各种各样奇怪的称呼，小姐、姑娘、少爷、老爷，可能是她那个时代的称呼吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "差异那么大，真的能聊到一起去吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "很难啊，绝大多数人都不太喜欢她。不过，表面上还是要装作友善吧？毕竟，小白也不是什么坏人嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "只是个没经历过什么事的人罢了。但又因为来自于很久以后，总觉得自己懂的比这个时代的人多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "哎，往后的时代有新鲜事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "哈哈，没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "她说她会用海水制白盐，但说到底也就只会熬煮和过滤，百年前的盐工就知道了，还以为会有多少新技法……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "过一会儿又说，自己知道救世之道。但说来说去，好像也就是那几句口号，前后的文章一概不知。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "她能想到的、想不到的，其实前人都想过、写过成文的经典，也拿命或者拿国运试过。至于结局……以史为鉴就好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你……应该没拿国运去试吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "为什么不试？她很执着地认为自己的理论是对的，不给她试，她就不跟我说话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你都知道她是个没经历过什么事的人，让她介入政事然后等着看血流成河，未免太恶劣了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不懂政务但是喜欢指点江山空喊口号的人满天下都是，何必拿百姓的生计去验证他们是错的呢，真是作孽。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "我想看看她的反应啊，喜欢一个人不就是想看见对方的全部吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "不过，验证她那几句口号在这个世代完全没用、最多只是搞出第二个张角之后，她就又回到了起点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "说我们「封建」，但听她的语义，好像连封建具体的意义都不清楚，单纯把它当成一个贬义词在用？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "「保守」？应该是这个意思吧，在她的世代，封建在大众语境里类似保守？可我们也不保守啊，全广陵最保守的反而是她。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……你们的相处难道就是，她说你封建，你说她保守，然后她不高兴，你再折腾简雍吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "结了婚你就知道了，确保婚姻美满的重要条件就是不要和对方怄气。她可是我为数不多觉得有趣的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "早上起床说女大和早八不共戴天。中午说真是吃人的时代。晚上嫌弃我封建。吃夜宵时候说自己是小皇帝。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "天尊。然后呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "「同意！小白是小皇帝！」——然后就是爹爹妈妈幸福的夜生活了啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "我们感情那时候还不错的，在维持夫妻感情这一块，我可是比小陈好了不止一点半点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "我甚至还找到了办法，能送她回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "我在这个地方已经待腻了，也想和她一起回去看看。那个她挂在嘴边「死也要回去」的时代……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "感觉是个表面上很光鲜亮丽的时代呢，哪怕一个人对许多事知其然但不知其所以然，也能简单平静活下去的时代。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那最后为什么没有回去呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "很简单啊。她自己做出了选择。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "在平凡的女大，和广陵的王妃之间，尽管一直说「选都不用选」、「毫不犹豫回去」、「月薪三千也比在这幸福」……之类的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "但真的让她选的时候，她还是留下了。那时候还没你们呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不要考验人性。人性是最经不起考验的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "我就会愿意放弃一切，去看看未知的天地啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那是因为你在广陵王这条路上已经走过了啊，你什么都见过了，才会想见见没见过的路。她也一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "人性就跟孩子一样，你把权力、地位交给一个没体验过这些的人，就好像把蜜糖给孩子，人在那一瞬间是没有理性可言的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "总之，她留下了。然后有了你们。不管怎么说，人性可真是个好东西啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我先回去了。袁基有事找我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "唉……见色忘父，我要去亡妻坟头哭坟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "继续喝酒吧，我走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "等等，阿女。我有句话要跟你说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "如果我走，你跟我走吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我做不到抛下所有人一走了之。我至少还要带他去栖霞。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "往后的时局，对你而言，唯有煎熬。哪怕到千百年后，我也会替她照顾你的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "她未必想照顾我，她可能只想回去，你也好，我和兄长也好，简雍也好，隐鸢阁也好，对她来说就和一场大梦一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我在现世还有要做的事和承诺。再如何煎熬和艰难，崩溃没用，哭啊闹啊没用，逃也没用，走到最后才知道有没有解法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "万一你已经快要走到最后了呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我没有用任何阴谋，去对付过无咎之人。只要对无辜者使用过一次阴谋，便背负永远无法洗去的罪孽，无法得见大道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "大道仍在，我便可走下去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "你现在是反贼了，天下公敌。天下人都要你死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我小的时候，有一棵树挡住了山道。蜀山的山民们要合力推倒那棵树。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊说，你们不必推倒它，绕道而行便是。人们说，这是众人的决定，是不会有错的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "最后，他们确实推倒了那棵树。但树根牵连起无数碎土，让沿途的山阶全部崩散。于是他们又来求仙人，替他们重修山阶。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "真是个令人生厌的故事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是吗？我很喜欢这件事。每次遇到有人说，「所有人都这样想，你为什么不在乎」，我都会想起它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "一群人、甚至天下人要合力推倒一棵树，你可以相信他们推倒树的力量是足够的，但不能相信他们推倒树就必然是对的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "既然如此，又为何不走？树会倒，山阶会崩散，你留在现世，只会一起坠落，粉骨碎身。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "皇朝、天下，就和人一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "它年轻的时候，尽管不够好，但努力想变好。等它老朽了，看似稳固而富足，但它和老人一样看透了世道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "它知道人世不够如此，人无药可救，它看透了，哪怕无人去推，它也会开始崩塌。这就是人世的道，你逃去哪里，都是一样的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……我的挚友没有逃，他在那条船上等我。我也没有逃，我留在了那条船上。只有不逃，才能找到真正的生路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "呵……真实的，你这个孩子，不像我也不像她，实在叛逆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "去和你的小情人睡觉吧。小混蛋。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我回来了。你还没睡吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "等你回来用晚膳。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "胃口不好？侍从说你不舒服。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "水土不服，只想喝些汤羹。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "汤都冷了，让他们去换了吧。此地本就寒凉，你身体不适，更不能吃冷餐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "今夜等了很久……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那人难缠，又心术不正。陪他喝了点酒，听了些嘴硬的话，心里正不耐呢，你就催我回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我知道你等得久了，我也归心似箭……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "外面太冷，你摸，我的手和冰一样。让他们拿些热汤来吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……没事，飞虫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "殿下，有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "又有追兵来了，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "……是。但是下午属下严查了情报和人员，还不知是谁泄密……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不是你的错。召集众人往密道避难，等追兵过去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "有人泄密吗……如果追兵知道此处，那应该立刻废弃这处据点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "在幽州没有办法这么做，影子据点有限，初期只能先铤而走险。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下需要绣衣楼去作为和刘虞结盟商谈的筹码，但如果幽州的绣衣楼势力不足，可以以袁氏之力作为筹码。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "那等回去之后，袁本初定然第一个振臂高呼讨伐我这个妖孽。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "仔细看看，还是有些可惜。虽然眼睛像你父亲，但下颌有些像小陈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "敢问使君是……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "声音好像停了。上面留守的人也给了信。可以上去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "怎么了？那里有什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……没事，可能是我看错了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "已经按照你的密信，从各地召集密探，前往楼班将军部族的辖地了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "放心吧，我们的辖地是刘虞作保的，绝对没有公孙瓒的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "多谢。我与幽州牧刘虞结盟，幽州将军公孙瓒并不乐见，想阻挠双方会合，中途劫杀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "公孙瓒只想吞并幽州所有的兵马南下，刘虞在他身前已经够碍眼了，他绝对不会容你的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "总之，劳烦将军接引前来会合的密探。我先护送殿下回……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "喂——喂——有人吗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "我们是外地人，需要避风雪！有人吗！能救救她吗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "殿下，是天蛾和朱女官！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "等……等等……真的是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你们为何……现在就到了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "……我好像……听见了……楼主……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "事情就是这样……大家都听见了消息，有很多人不见了，怀疑是被傅……呃，那个人带走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "留下的人心里很不安定，虽然陈登一直支持楼主，但百姓都担心殿下被打为反贼后，各方会再次出兵攻打徐州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "刚好就在那时，有一批从陈留过来避难的人抵达了徐州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……是那些人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "那些人带来了张超的口信，说殿下在幽州。所以，一部分人就决定北上，来找楼主会合。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "蛾部和雀部都动了，途中遇到追兵埋伏，死了很多人……我们在风雪中和其他人迷失了，通信也断绝了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "结果就在半途得到了传信，召集密探在此地会合，反正也没有退路了，哪怕是陷阱也只能朝这个方向试试……没想到是真的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "真的是楼主……咳……咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "终于会合了……太好了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "好好歇息。到这里就安全了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "之后，是要在幽州建立据点吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "我们会在这里待多久？半年？一年？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不会很久。局势稳定后，留下一部分人维持运转，其他人都可以回广陵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你的身体不好，这里太寒冷了。我会在这里待几天，等有没有幸存者前来。你先养病，不要想其他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "她的族人派人接她回去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "因为我的身分？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "嗯……他们觉得，楼主已经不可能再回去了。我们为了避开他们，才匆忙上路。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "路上，她和我说，如果绣衣楼要在此地建立新的据点，她想留在幽州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这个标记……应该又有兵马过来搜查，所以众人紧急入地道躲避了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "是骑兵的痕迹……谁？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "哦哦！吓了一跳，把剑放下、放下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "公孙瓒的人又来滋扰了，所有人都暂时进密道躲避了。我总担心你们会突然回来，所以留在上面等你们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "过来吧……轻些，有斥候来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "事情就是这样，你们不在的这几天，附近的情势变化很大。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "关口的把手越发森严，搜查的骑兵变多。情势难以维系，你的那位小情人去找关口的守将谈判了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……我并不希望他来幽州的事情传开。你明明知道，为何不拦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "年轻人有年轻人的打算呀……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "……我们在往哪里走？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……不对，虽然坡度差异很小，但是这条密道，和我们之前的密道方向不同。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "真麻烦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "什……呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "带孩子可真麻烦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "唔！你疯了吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "两边的祭品，如今够了吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "——小陈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……陈昭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "一路带里八华追杀我至此的人，是你？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "如何，小陈？算算时辰，你的人应该已经将密道另一头的人清理干净了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "你把其他人引去密道另一处埋杀？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "没办法啊，玄鸟祭祀是很昂贵的，据说当年几乎用了倾国之力。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "介绍一下，这是针算，现在已经快失传了，小陈是为数不多还会用的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "闭嘴，不要打岔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "啊哈哈，太多年没有联手了，有点激动。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "……按数理来说，祭品是足够的。但是，血还没有充盈下来。你的设计出了问题。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "哎，怎么可能……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果你是想将密道另一头的人作为祭品献祭，那已经不可能了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……上次进入密道时，因为在黑暗中隐约见过它的脸，担心此地有诈，所以安排了简雍留下的金卫待命。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果再有进入地道的时机，就让他们从另一侧接应。但确实没有想到，地道还会有另一条岔路……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "宪和啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我当年就说，你应该放他还乡的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "祭坛上的，才是真正的十巫之一吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "对，宪和吃下的，只是本地山神的血肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "用十巫作为祭品，说不定可以强行进行玄鸟祭祀。这可是天下最昂贵的祭品，十巫之首，巫咸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "玄鸟祭祀，既然能将人带来，便也能将人送走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "我想穿越到千年后，自己成为玄鸟，去看看小白说的新世代。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "为了这个目的，我需要保有巫咸颛顼的力量，保有巫咸的肉身，以及……你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "——小陈，测算的结果是怎么说的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "如果当年的星图和记载属实，玄鸟之子尚未诞生，则阵法会笼罩玄鸟，将之拖入现世。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "如果玄鸟之子已经降生，那么阵法就可以逆向将你送走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "所以你问我，要不要和你走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "来吧！去更有趣的地方吧。这里的一切我都已经看腻了。如果那个世代到处都是和你母亲一样有趣的人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "……她没有留下记录，让你们知道她从前做的事吧？她坚持自己是对的，坚持要我实行她说的那些仁政。所以……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "不要再提那件事了，为了掩盖它，蛾部死了很多人，蝎部全灭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "哈哈，有什么关系，反正我都要走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "——于是，我给了她一块地，一座小城，我说，这座小城由你做主，你想推行什么政令，都可以在这里实施。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "你猜结果是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "猜都不用猜。还是那句话，你只是想让她看清事实，于是让一个没有经验执行政务的人接手了政务实权。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "就算她是全天下最善良的人，那个地方一样会变成炼狱的。政治是人之治，权力是架构，拿政权当玩具，不会有好结果的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "确实，结果真的惨烈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "你把重器交给一个没有执政经验的人，就好像把利刃给孩童。你希望得到什么结果？你想要她给你什么结果？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "你只是在折磨所有人取乐，不要给自己找理由。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "说的真好听啊。据说你从京都回广陵第一年过冬，下令全境不许饿死人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "那次死了多少人呀？我猜……五倍？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "你看，你一开始不是也拿它当玩具吗？为了不让人饿死，于是官员都选择直接让可能饿死的人先冻死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "你收一分税，下面就要多收十分。这就是人之治……好了，我算完了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "按《明夷》测算，祭品不够。不管你女儿愿不愿意跟你走，怕是都走不了了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "这样啊……得献祭她啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "一开始答应跟你联手，就已经说定了。如果可以不献祭她，我就把人活着带去里八华。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "如果需要献祭，那我就把她的尸体带回去。你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "失礼了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "没用的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "你们可真能跑，跑到这么北的地方。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "你先走！去和袁基会合！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "逃吧……逃吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "耿公子",
+      "text": "头像=耿公子",
+      "emotion": "这样的天命，终于我也不错。逃吧，阿女。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "金卫",
+      "text": "头像=黑人影",
+      "emotion": "殿下？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我没事。你们损伤如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "金卫",
+      "text": "头像=黑人影",
+      "emotion": "因为有防备，所以……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "袁基往哪个关口去谈判了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "金卫",
+      "text": "头像=黑人影",
+      "emotion": "北门的灵关——殿下？不需要护送吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下？……出什么事了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "主人，下方山道好像有追兵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "——袁基。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你听我说。照我说的做，不要犹豫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "里八华的人偷袭了据点，在密道的岔路下有一处祭坛。那名耿氏的文臣叛变了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……那位……耿公子？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没错。他叛变了，与里八华勾结，欲将我活捉。此人罪大恶极，绝不容于世。眼下，他和马超都在那，荀攸正在阻挡他们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "其他人呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "没有其他人。山下的追兵是里八华的人，冲我来的。我会把他们引往他处，你不必担心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你现在立刻走另一条山道，赶回据点，集结兵力杀入祭坛，救出荀攸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "如果荀攸已经压制了他们，要留他们活口吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不，杀无赦，不用审问，不要让任何人与他谈话，不要让他有开口的机会，以免他借此传递情报。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "答应我，你会做到的，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "好。在下明白了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "情势紧急，分头行动。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下，没有别的话了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真的没有了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "对，没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我就知道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "——你会绕道去找袁基。你以为找到他之后，他就会站在你这边吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我不想考验人性。我没有告诉他你在这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "真是个聪明的孩子，我还担心你会这么做，留了些你的人在手上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我没有对刘复说真话，根据古籍《明夷》，要进行玄鸟祭祀，他的祭品是不够的。无论如何都不够。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "他必须死，不能让他流窜到他处。这个阴魂不散的人，留在世上某处，对谁都没好处，对吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "现在他必死无疑。那，我们可以坐下好好谈了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "……哈，当时我找过你许多次想谈，为何那时装疯不开口？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我不想啊。你敢拿我怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "现在我想和你谈了。坐下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "天下不是围着某一个人打转的。把事情做到这个地步，再说自己想谈了……这不好吧？多少安慰我几句啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你是怎么知道这处据点的？召集至此地的人，应该没有叛变的理由才对。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "找几个活口，杀在无人知晓的地方，另派人易容混入北上会合的队伍中，再观测动向就好了。绣衣楼传信的手法，我太熟悉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "甚至比你还熟悉……所以，把绣衣楼交给我如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-脸红微笑",
+      "emotion": "我刚刚说过吧，天下不是围着某一个人打转的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我也算是有臣子之道的人，只是没法和阿雍那种打不还手骂不还口的人比。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "贼仁者谓之贼，贼义者谓之残，残贼之人谓之一夫。闻诛一夫纣矣，未闻弑君也！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "天命无常，唯德是辅。你说的虽无错，但你何来德行道义？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "司掌绣衣楼无需德行道义。你不会受损的，去和那个孩子完婚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "哪个孩子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "袁基。不然呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "和他完婚，由我替你司掌绣衣楼，绣衣楼会和袁氏结成最有力的同盟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "凭我对里八华的熟悉，知己知彼，反向蚕食轻而易举。你还小，很多事情，交给大人来做就好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "如何？这对你有益无害，你的身分已经被公诸于世，再强撑下去不会有好结果。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "退后一步，余生极尽荣光，何不抽身而退？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "躺在地上的那些人，都是北上来与我会合的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "消息传回广陵，有人遁逃，有人叛变，有人观望。而他们是最忠心的，没有任何犹豫，甚至没有得到命令，便已自行北上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你连对绣衣楼最忠心者都能屠戮，我们已经不可能坐下来谈了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……云雀，天蛾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "你说得对。如果我要得到绣衣楼，这些对你至忠诚的人，都不能留，一个都不能。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我也骗了你，我没有留活口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你，是先王旧臣。反复无常，背弃同道，罪不容赦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "你没资格定我的罪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他们为我而来，如今因我而死。在为他们报仇之前，我不能退。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥死士",
+      "text": "头像=黑人影",
+      "emotion": "动手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "纵然全天下的刀斧都在此地，我不能退！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "人最好不要变成和父母差别太大的样子，你应该学你的父亲见利忘义，或学你的母亲，抱着孩子落荒而逃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "唯独不要学那些圣贤，抱着道义去死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥死士",
+      "text": "头像=黑人影",
+      "emotion": "她疯了……她居然还不倒下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "看来，是没法活捉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "把她的头砍下来，别让袁基知道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥死士",
+      "text": "头像=黑人影",
+      "emotion": "是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……退下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "你们在等什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥死士",
+      "text": "头像=黑人影",
+      "emotion": "她……已经不是人了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "真难看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "……哈，简直是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "早知今日，就不该耗费心神在你身上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "为什么还不倒下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "不要再靠近了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "我让你停下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "！！！呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "……呃……咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "……小……陈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "……是你啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈昭",
+      "text": "头像=路人母亲",
+      "emotion": "……总是出现在……不合时宜的地方呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥死士",
+      "text": "头像=黑人影",
+      "emotion": "他中箭了！趁现在……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "金卫",
+      "text": "头像=黑人影",
+      "emotion": "骑兵列阵，冲杀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "……赶上了啊，阿雍……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "……我好冷……好像已经……没有力气……恢复了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……前辈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "呵……呵呵……好歹，最后也有同床共枕的人呢……咳……咳……我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "我好冷……能……抱住我吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "……我最后至少……至少还是很漂亮的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "见到乔先生……他还会认出我吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "周忠！周忠！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周忠",
+      "text": "头像=周忠",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "让医师过来！他们伤得太重了！医师！让医师过来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "你也不能睡！听见了没有？！不许睡！我就是因为担心这种事，才让他在你和袁基身上留下灵蝶的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "为什么会这样……你不要睡……不要闭上眼睛啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "救救他们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "简雍",
+      "text": "头像=简雍",
+      "emotion": "快点……救救他们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……殿下……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下醒了！快去告诉他们，殿下醒了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "太好了……殿下先别动，还需要静养！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……密道下的情况呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "耿氏付诸，不过马超脱逃了。耿氏的首级就在案上。啊……殿下，不能乱动，要起身吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……我想……坐起来，这样会舒服些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "我和守将谈判过了，他愿意背叛公孙瓒，投靠我们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "等我休养之后，我们就启程……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……嗯。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下没有别的话，要与我说吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "辛苦你了，千里迢迢过来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "袁基？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真的没有话，要与我说吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……比如？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "母亲的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……殿下，殿下……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "无论殿下说什么，我都会冷静听完的。拜托了，告诉我母亲的下落吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "她是不是在绣衣楼手里？是不是殿下想用她在极端时刻要挟我？如果是这样也没有关系，谁没有算计？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "家人做质子，古往今来都有。如果知道她在殿下手里，我反而安心。所以，告诉我吧……她在哪？我不会因此和殿下有嫌隙的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基，你……先坐下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "陈夫人她……已经不在了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "她背弃了绣衣楼，投靠里八华，意图取我性命，杀了北上会合的密探……所以……袁基？袁基！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "啊……啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你冷静一些，你不是说过吗？你会冷静听我说完的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "啊啊啊啊……啊啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……我早就知道她曾在绣衣楼手中……殿下给我看那卷假信的时候，我就认出来了，信上有从前母亲教我的暗语……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "但我一直在等……我在等殿下和我坦诚的那一刻，我想过无数次，如果殿下愿意说，我可以放下芥蒂，我能理解你的，但是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……不行，让我一个人静一静……我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃……你不能走。袁基……袁基！听我说！我是在帮你啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "郑伯克段于鄢，母亲都是喜欢幼子的，父亲才会喜欢长子。幼子最受母亲们的摆布了，扶持幼子上位掌权……呃，别动！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "如果我不杀她，她与你将来也会决裂！不要在脑子里美化过去那些母子情深了，等她回来，那将来一切都是袁术的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "你会比袁术听话吗？会比袁术好摆布吗？你长大了，你不听话，没有母亲会留这种儿子活口的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我是在帮你！袁基，她给你的我都能给你，我们才是一方的！袁基！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "哈……你不是也杀了我父亲吗？我们谁也不欠谁！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "耿公子，他是我父亲。你杀了他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "没有什么不知者无罪，你杀了他啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基，你杀我父亲，我杀你母亲，我们换着杀！我们扯平了！谁也不用在将来担下不孝不悌地死罪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我原谅你了，你也原谅我！袁基，我是为你好……袁基，卿卿……我爱你……你不能那么凉薄啊……我爱你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你要丢下我吗？你怎么能做这种事呢……我对你的情谊，难道是假的吗？我承认我冲动了一些，我发誓没有下次了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你要什么我都会给你的……杀了她，我们才有将来可言。杀了她，一切才会是你的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……你想要的一切，想要的位极人臣啊，想要的三公九卿，乃至丞相……你要什么我都给你……真的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "听话，乖。你就当作不知道，当作一切是个梦……我不会因为父亲的事恨你的。你也不要恨我，听话啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我不会丢下你的……无论将来发生什么，我都会和你站在一起。所以，我们要把这件事死死瞒在心里，瞒到去死的那一日。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我爱你。这不是你一直想听的话吗？我爱你。所以你是我的。把眼睛闭上吧，袁基。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……我打算带伤启程，尽快过关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……留在这里，替我处理好这里的事。等北方盟约稳固，我会派人来接你的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我走了。保重，袁基。"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "巨鹿"
+    },
+    {
+      "type": "narration",
+      "text": "巨鹿·一"
+    },
+    {
+      "type": "narration",
+      "text": "巨鹿·二"
+    },
+    {
+      "type": "narration",
+      "text": "巨鹿·三"
+    },
+    {
+      "type": "narration",
+      "text": "饶阳"
+    },
+    {
+      "type": "narration",
+      "text": "饶阳·一"
+    },
+    {
+      "type": "narration",
+      "text": "饶阳·二"
+    },
+    {
+      "type": "narration",
+      "text": "饶阳·三"
+    },
+    {
+      "type": "narration",
+      "text": "饶阳·四"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E7%87%95%E6%AD%8C%E8%A1%8C/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E8%A2%81%E5%9F%BA%E7%BA%BF",
+  "crawled_at": "2026-04-12T22:08:50.229937",
+  "raw_wikitext": "{{面包屑|2026活动剧情|燕歌行/活动玩法}}{{活动背景}}\n[[分类:活动剧情]]\n__TOC__\n\n<center>{{板块|按钮|燕歌行/活动剧情/见闻|见闻}}{{板块|按钮|燕歌行/活动剧情|共通}}{{板块|按钮|燕歌行/活动剧情/刘辩线|刘辩线}}{{板块|按钮|燕歌行/活动剧情/傅融线|傅融线}}{{板块|按钮|燕歌行/活动剧情/袁基线|袁基线}}{{板块|按钮|燕歌行/活动剧情/左慈线|左慈线}}{{板块|按钮|燕歌行/活动剧情/孙策线|孙策线}}</center>\n\n=巨鹿=\n\n==巨鹿·一==\n{{对话-头}}\n{{旁白|【汲县】}}\n{{对话|我|往巨鹿方向，有袁氏麾下的城池，先去那里的驿馆吧。|头像=广陵王-微笑}}\n{{对话|诸葛亮|殿下打算往幽州吗？}}\n{{对话|我|啊……你连这都听说了？|头像=广陵王-挑眉}}\n{{对话|诸葛亮|不算是听说吧……如今的局势下，幽州刘虞是殿下最需要的盟友。}}\n{{对话|我|……不是袁氏或者孙氏吗？我还以为，不会有人建议去那么远的地方找盟友呢。|头像=广陵王-微笑}}\n{{对话|诸葛亮|关中即将混战，而袁氏已经注定难以抽身。孙氏坐拥扬州，但也被扬州所锢，不敢远征。}}\n{{对话|诸葛亮|殿下手中缺乏兵马与积累，若与袁氏合流，败则一败涂地，胜则难保战果，并非上策。}}\n{{对话|诸葛亮|而幽州刘虞的声名与身份，正是殿下所需要的。殿下手中绣衣楼的力量，也是刘虞所需要的。}}\n{{旁白|天上有绣云鸢找到了我们，落在我肩上。附近据点的密探正在赶来与我汇合，另外，有一支马氏骑兵在靠近此地。}}\n{{旁白|心理|尽快抵达驿馆吧……}}\n{{旁白|【驿馆】}}\n{{对话|我|不能进？|头像=广陵王-挑眉}}\n{{对话|舍官|……是，毕竟，消息传得很快，都是飞鸽传向各地的。|头像=文官}}\n{{对话|舍官|本地……本地也实在不敢涉险。不过殿下放心，下官不会泄密殿下行踪的。|头像=文官}}\n{{对话|我|袁绍将军是你的上司，凭他的亲笔信也不行吗？|头像=广陵王-严肃}}\n{{旁白|他迟疑片刻，面露难色。}}\n{{对话|舍官|……下官收到的急信上说，如今局势复杂，殿下身份成谜，不许放殿下进城。那卷信是……|头像=文官}}\n{{对话|舍官|是……长公子的亲笔信。|头像=文官}}\n{{对话|我|不可能。他如今有眼疾，不方便写信，我要看信。|头像=广陵王-严肃}}\n{{旁白|他没有推脱，让侍从取来了信。}}\n{{旁白|心理|的确是袁基的字。但他目不能视，如何能写这样工整的字？……要么就是杏林君叛变了。}}\n{{旁白|心理|不，有陈登在，他不至于被别人买通……}}\n{{对话|我|......我知道了。我不为难使君，夜深了，使君早些歇息。|头像=广陵王-微笑}}\n{{对话|诸葛亮|使君。}}\n{{旁白|就在驿馆的门即将关上时，他叫住了舍官。}}\n{{对话|诸葛亮|使君，有兵马将近，不知欲何为。无论此地是否留殿下歇息，都可能被殃及。}}\n{{对话|诸葛亮|不如让殿下先入驿馆歇息，众人共同商讨对策，倘若发现兵马将近，也能及时让民众避险……}}\n{{对话|舍官|你是……？|头像=文官}}\n{{对话|诸葛亮|学生琅琊诸葛……}}\n{{对话|舍官|不认识。你还年少，如今的时局，岂是我等敢随意动作的？|头像=文官}}\n{{对话|我|好了，不必多说。既然此地不能停留，那我们就继续赶路了。|头像=广陵王-摇头}}\n{{对话|诸葛亮|至少让使君把饮食和马匹……啊，殿下……}}\n{{旁白|我转身离去。他还想再劝服那人，但见我走远，只能小步跟上。}}\n{{对话|诸葛亮|根据密信，马氏的兵马目的不明，但如果离我们越来越近……旷野之上，没有可供藏身之处。}}\n{{对话|诸葛亮|或者也能唤来雨云，强行阻止骑兵。但是天相并不寻常，不确定雨云能否聚集。}}\n{{对话|我|你是说之前的暴雨，并非自然大雨？|头像=广陵王-微笑}}\n{{对话|诸葛亮|对，是被另一股力量召集起来的雨云。是从兖州东部汇聚过来的。}}\n{{对话|我|是吗……你还走得动吗？我们可能要改换装束，往百姓家投宿。|头像=广陵王-严肃}}\n{{旁白|循着水道，我们往尚有林木的方向行进。过了许久，才见到一处山民的茅草屋。}}\n{{旁白|【茅草屋】}}\n{{对话|我|有人吗？主人在家吗？|头像=广陵王-挑眉}}\n{{对话|诸葛亮|好像没人，不过，不像是废弃的样子，主人可能出门了吧......？}}\n{{对话|老人|你们......是谁？|头像=老年男}}\n{{对话|我|老人家是这家的主人吗？我们途径此地，想要借宿一夜。不必担心，我们不是歹徒。|头像=广陵王-微笑}}\n{{对话|老人|二位看着面善......先坐去里间，喝口水歇歇吧。这家就剩我一人了，也不怕什么歹徒了......坐，坐。|头像=老年男}}\n{{对话|诸葛亮|多谢老人家。}}\n{{旁白|我们对视一眼，站在门口，没有进去。}}\n{{对话|老人|怎么了？二位……|头像=老年男}}\n{{对话|我|一个人住，门边为何有孩子玩的竹马？|头像=广陵王-惊讶}}\n{{对话|老人|是孙子生前留下的，不过孩子已经不在了|头像=老年男}}\n{{对话|我|说笑的，那边没有竹马，好像是把斧头。|头像=广陵王-微笑}}\n{{旁白|我拿起斧头，起身的瞬间，他已经杀至面前。在老人的脸庞上，是一双中年人的眼眸——}}\n{{旁白|心理|好熟悉的短刀用法，好像是……}}\n{{对话|我|你是绣衣楼的人？！|头像=广陵王-惊讶}}\n{{对话|老人？？？|从前是。|头像=黑人影}}\n{{对话|诸葛亮|后面也有人！|头像=诸葛亮}}\n{{对话|我|哈！小孙子死而复生了？！|头像=广陵王-冷笑}}\n{{旁白|后面又有一名灰衣人掩杀而来，以为诸葛亮是侍卫，先朝他而去；少年闭眼合掌，下一刻，天上闪过惊雷……}}\n{{旁白|心理|什么都没发生啊！}}\n{{对话|刺客|唔！|头像=刺客头领}}\n{{旁白|地下冒出一小滩水，后方刺客措不及防，滑倒在地。}}\n{{对话|我|就这？！|头像=广陵王-生气}}\n{{对话|诸葛亮|白、白龙不擅长武斗！它比我还害怕！|头像=诸葛亮}}\n{{对话|老人？？？|不要乱动就还能活！|头像=黑人影}}\n{{对话|我|你想活捉我？|头像=广陵王-挑眉}}\n{{对话|老人？？？|命令是这样的，但如果你拒不愿从，也可以杀你！|头像=黑人影}}\n{{对话|老人？？？|考虑好了吗？放下兵器跟我走，还能一一呃！|头像=黑人影}}\n{{对话|我|！！！|头像=广陵王-严肃}}\n{{旁白|话音未落，一支箭簇插入他眉心，铮然作响。我回头，远处赫然有一支铁骑兵由远及近，为首者扬弓，第二箭已蓄势待发一一}}\n{{对话|马超|劲啊兄弟！变反贼了怎么不喊我！|头像=马超}}\n{{对话|我|啊，现在还喊兄弟吗？|头像=广陵王-冷笑}}\n{{对话|马超|哈哈哈差点忘了！女兄弟！|头像=马超}}\n{{旁白|我拎着诸葛亮冲入室内，从另一侧翻窗而出，再越过院墙；后方轰然巨响，骑兵直接碾过脆弱的草屋，朝我们紧追而来！}}\n{{旁白|【郊野】}}\n{{对话|诸葛亮|殿下我们要和战马比速度吗？！|头像=诸葛亮}}\n{{对话|我|借断垣周旋一下！坚持到密信上的密探过来！|头像=广陵王-严肃}}\n{{对话|诸葛亮|来的人能以一当百吗？实在不行也可以冒险进入龙脉……|头像=诸葛亮}}\n{{对话|我|真的吗？|头像=广陵王-挑眉}}\n{{对话|诸葛亮|对，只需要花几十年到几百年重新汇聚肉身找到出口就行……唔啊！|头像=诸葛亮}}\n{{旁白|一匹战马从我们藏身的断垣上越过，马蹄惊起无数碎沙。那人在前勒马，拔刀出鞘。}}\n{{对话|马超|对不住了，兄弟，华胥让我们来杀你。}}\n{{对话|我|刚才有一波来活捉我的，现在又来一波杀我的。这次可真是热闹。|头像=广陵王-冷笑}}\n{{对话|马超|我也说呢！老爹拉我们加入里八华，不过它里面也分了两拨在互相斗。}}\n{{对话|马超|不过董兄弟让我听华胥那边的，所以我就来杀你了。我可是特意把刀磨利了。}}\n{{旁白|心理|来了。}}\n{{旁白|就在此刻，一抹紫色蝶影翩迁过金刀锋刃，停留在刀尖。}}\n{{旁白|当刀刃挥下的瞬间，一只手柔软地托住了它，像是温柔地撩开寝帐。}}\n{{对话|周忠|不好意思啊，将军。我拿的是活捉的任务。}}\n{{对话|马超|哇，你看起来很能打嘛！你……|头像=马超}}\n{{对话|周忠|呼……}}\n{{旁白|他正对着马超吹了口气。一串紫蝶自口中飞出，扑向马超面门。那人一怔，手中战刀垂地，短暂地晃神了。}}\n{{对话|周忠|……将军真厉害，居然还有意识。}}\n{{对话|马氏骑兵|杀了他们！|头像=西凉军乙}}\n{{对话|周忠|真是不通情趣，上来就这么激烈啊……}}\n{{对话|诸葛亮|殿下，没事的，学宫里学长和师者说话比这个刺激多了，不用帮学生捂着耳朵的。|头像=诸葛亮}}\n{{对话|我|不，我怕看见你长兄吊死在我府门口……|头像=广陵王-摇头}}\n{{旁白|梦魇双刀从薄纱后出鞘，刀锋所过之处，无数紫蝶随之涌出，触者或恍惚或昏睡坠马。一时之间，其他骑兵迟疑忌惮，不敢贸然上前。}}\n{{对话|马氏骑兵|这是什么妖魔……呃！|头像=西凉军乙}}\n{{对话|周忠|……白羽箭？}}\n{{对话|我|！|头像=广陵王-微笑}}\n{{对话|马氏骑兵|是弓骑兵！队形散……|头像=西凉军乙}}\n{{旁白|箭雨倾轧，雨幕后，是一支轻盈如飞羽的弓骑兵。后方还有步卒掩阵。}}\n{{旁白|双方混战顷刻而起，一名斥候穿过战场，在我身边翻身下马。}}\n{{对话|袁氏斥候|殿下，家主听闻惊变，派兵前来接应。请上马，卑职护送殿下往后方与家主汇合。|头像=袁氏士兵统领}}\n{{对话-尾}}\n\n==巨鹿·二==\n{{对话-头}}\n{{旁白|【郊野】}}\n{{旁白|马氏骑兵撤退，此地逐渐恢复平静。弓骑兵后方步卒们护送着一台垂帘战车。}}\n{{旁白|听见我来了，车内人微微转头，摸索着抬起车帘。}}\n{{对话|袁基|……殿下？|头像=袁基}}\n{{对话|我|是我。你知道许县的情况了吗？天子现下如何？|头像=广陵王-点头}}\n{{对话|袁基|在本初那，还在昏睡。本来让斥候先去了前方的驿馆，结果殿下不在。|头像=袁基}}\n{{对话|袁基|舍官说接到了亲笔信，但我从未写过信，不知是谁所为。|头像=袁基}}\n{{对话|我|好了，别在这说了。往驿馆吧，我有话和你交代。交代完了，我就要尽快北上了。|头像=广陵王-摇头}}\n{{旁白|他转头吩吋将领。周忠已经收了刀，悄无声息步至我身后。}}\n{{对话|周忠|殿下，如果让他知道你抓走小陈的事，你有何应对吗？}}\n{{旁白|——陈昭，袁基的母亲。原绣衣楼密探侠卿，叛变后与里八华合谋，在多年前重创两府。}}\n{{旁白|后因周忠送去的巫血而陷入疯癫，近期被绣衣楼擒回。然而，里八华命周忠将之救走，失去踪迹。}}\n{{对话|我|那不是你该先烦恼的事吗？让她发疯的巫血可是你送去的。|头像=广陵王-挑眉}}\n{{对话|周忠|袁公子怎会和我这样的人计较呢？要不要老臣教你几招，“万一被情人发现自已瞒着他做了点错事该怎么哄”之类的……}}\n{{对话|我|说来听听？|头像=广陵王-挑眉}}\n{{对话|周忠|“卿卿，我可都是为了你好，我们都可以为了彼此去死，怎能因此事就断绝往来呢？你可真是绝情之人，是我当年看错人了”。}}\n{{对话|我|我记一下但最好不要用上。不过你也提前告诉我一声，你把她救去哪了？|头像=广陵王-点头}}\n{{对话|周忠|里八华啊。里八华可喜欢这种出身名门的人了，眼下正值局势飘摇之际，她在里面，可是立刻得到重用了。}}\n{{对话|周忠|人家手中捏着两个亲生儿子呢，殿下这样大的把柄。随时都可能被她抖出来……殿下，你还是把老臣教你的话练一下吧。}}\n{{对话|袁基|殿下。|头像=袁基}}\n{{对话|我|……！|头像=广陵王-严肃}}\n{{旁白|我死死交握双手，手心冰凉。好在他目视不清，没有见到我的脸色。}}\n{{对话|袁基|上车吧，都吩咐好了，可以启程往驿馆了。}}\n{{对话|我|……好。我知道了。|头像=广陵王-点头}}\n{{旁白|周忠靠近我的耳畔，轻声低语。}}\n{{对话|周忠|绑架别人的母亲，准备在往后某日发难钳制，这种事情捅出去，可是不会有人站在你这边的。|头像=周忠}}\n{{对话|我|……她也有想掩盖的往事，所以不敢贸然向袁基去信。彼此还能再僵持一阵，没有到走投无路的地步。|头像=广陵王-严肃}}\n{{旁白|我平复心绪，登上马车。}}\n{{旁白|【驿馆】}}\n{{对话|袁基|唔……}}\n{{对话|我|看得清吗？|头像=广陵王-挑眉}}\n{{旁白|我举着灯替他照明。他拿着舍官得到的假信，几乎贴在眼前，努力辨别。}}\n{{对话|袁基|只能勉强看清字迹的轮廓……殿下。}}\n{{对话|我|嗯？|头像=广陵王-挑眉}}\n{{对话|袁基|灯火好像在抖……}}\n{{对话|我|啊，是风。我遮一下。|头像=广陵王-微笑}}\n{{对话|袁基|仿得很像，不像郭嘉仿的那种风格，不知为何，有些眼熟……}}\n{{对话|袁基|殿下现在是欲北上，去幽州寻刘虞吗？}}\n{{对话|我|你知道了？|头像=广陵王-挑眉}}\n{{对话|袁基|刘虞此前劝公孙瓒与本初停战，提过和殿下约定于幽州相见的事。}}\n{{对话|我|我欲与幽州牧结盟，这样，你们也能不必防备幽州公孙瓒。|头像=广陵王-微笑}}\n{{对话|袁基|那，条件呢？}}\n{{对话|我|天子无咎，则不僭越。南北联手，远交近攻。|头像=广陵王-微笑}}\n{{对话|袁基|天子若有咎呢？}}\n{{对话|我|袁公子，听听你在说些什么。天子怎么会有咎呢。天子只是中毒昏迷不醒，他嘴里说出的话，不就是我们想说的话吗？|头像=广陵王-摇头}}\n{{对话|袁基|许县那边不会松口的。绝对会一口咬死天子还在许县。}}\n{{对话|我|当年西凉军不是也这么做过吗。他咬他的，我们咬我们的。|头像=广陵王-严肃}}\n{{对话|我|天下人只不过等一个名目，把天子的肉身扣住，好好供奉，天下人的嘴都会帮你咬回去的。|头像=广陵王-严肃}}\n{{对话|袁基|现在咬的可不止此事了，还有殿下身份之事。}}\n{{对话|我|天子在我们手上，袁基。只要天子在，别说我是女人，我就算个死人，都能让天下信服。|头像=广陵王-严肃}}\n{{对话|袁基|……可是……}}\n{{对话|我|袁基，袁基，你听我说……|头像=广陵王-微笑}}\n{{旁白|我拉住他的手，死死地攥住。}}\n{{对话|我|……不要担心，我难道会抛下你吗？不会的，比起刘虞，我与你才是真正的盟友，对不对？|头像=广陵王-摇头}}\n{{对话|我|刘虞会要什么？他是君子，是宗室，他只想见到盛世，见天下大同。那君子不爱的财权名利、世代荣光，除了袁氏，我还会给谁？|头像=广陵王-微笑}}\n{{对话|我|他是以君子之名立世的，倘若最后争权，岂不是推翻了他自己多年的清名？他是纯臣，我装纯臣，你当奸臣，奸臣什么都会有的。|头像=广陵王-微笑}}\n{{旁白|他的手在微微颤抖，掩盖了我的颤抖。过了许久，他垂下双眼，点了点头。外面有人来了。}}\n{{对话|侍从|家主，城外有兵马来了。马超重新集结了阵势，准备攻城。|头像=侍从}}\n{{对话|袁基|这座城足够稳固，城中物资也足够。告诉城中官员，我会留下，让他们安心守城。}}\n{{对话|袁基|替殿下备好物资马匹，派一支轻骑护送，往北门出城。}}\n{{对话|袁基|殿下先行北上吧……·我会调兵过来拦截追兵，等局势安定，就去幽州和殿下汇合。}}\n{{对话|我|……好。那我在幽州等你。|头像=广陵王-点头}}\n{{对话|诸葛亮|让学生留在他左右？}}\n{{对话|我|如果他这边有异动，就用心纸君告知我。|头像=广陵王-点头}}\n{{对话|诸葛亮|异动……是指……？}}\n{{对话|我|……倘若他收到了一卷信，看完信后，突然大喜大悲，或神容异常……|头像=广陵王-严肃}}\n{{对话|我|那你就立刻告诉我。我会让周忠也继续留一段时日，以防不测。|头像=广陵王-严肃}}\n{{旁白|这一夜，我后程继续北上，途中与两府的密探和亲卫汇合……}}\n{{旁白|越往北，气候越是寒冷。追兵、霜雪……倒下的人越来越多。}}\n{{旁白|四周从荒野化为雪色，在所有人都快抵达极限之时，我们在风雪中抵达了幽州边界的耿氏坞堡。}}\n{{旁白|心理|风雪中，不熟地形气候的人寸步难行。必须与本地的先王旧臣简雍汇合，请他援手，助我继续北上，抵达刘虞在幽州的治所……}}\n{{对话-尾}}\n\n==巨鹿·三==\n{{对话-头}}\n{{旁白|【幽州】}}\n{{对话|简雍|……别跟着我。|头像=简雍}}\n{{对话|我|可是……|头像=广陵王-严肃}}\n{{对话|耿公子|行了，宪和，哪怕你像个恶毒的继父，孩子还是愿意继续随行照顾你，多感人啊，简直可以进新编孝经。|头像=耿公子}}\n{{对话|简雍|……你也不要跟着我。|头像=简雍}}\n{{对话|耿公子|好吧，被嫌弃了呢 ……|头像=耿公子}}\n{{对话|我|前辈等我一下。还有，你也别走。|头像=广陵王-微笑}}\n{{对话|耿公子|听听，孩子喊你前辈呢，喊我就是“你”，唉，好心寒……唔啊！|头像=耿公子}}\n{{旁白|我反手把他推下雪坡，让他先闭嘴。}}\n{{旁白|抵达幽州之后，知晓了许多关于广陵王一脉的往事。}}\n{{旁白|初代广陵王乃是巫子之后，继承了巫傩，以自身禁锢十巫的魂魄。那名十巫身躯就在幽州的地下。}}\n{{旁白|先王也曾服下巫血和巫肉，以自身承受十巫魂魄。但因为某些意外，他临死时，自身魂魄和十巫魂魄融为一体，并未消散……}}\n{{对话|耿公子|劝劝这孩子吧，小攸。她快把宪和烦死了。}}\n{{对话|荀攸|……我不知该如何称呼使君。使君如今算是……|头像=荀攸}}\n{{对话|耿公子|你可以唤我先王啊。或者和你先祖一样唤我世子。}}\n{{旁白|心理|简雍在当年暂时用族弟的身躯保住了先王和十巫纠缠在一起的魂魄，此后也不断用族人在维系他的存在……}}\n{{旁白|心理|……这个人是个变数。得小心对付。}}\n{{对话|简雍|都不要跟着……呃！|头像=简雍}}\n{{对话|我|前辈小心些。|头像=广陵王-微笑}}\n{{旁白|心理|按照原来的安排，我来到了幽州，应该由我从耿氏族人那边接回十巫的魂魄，服下巫血和巫肉。}}\n{{旁白|心理|但是，由于先王妃对他有恩，他替我执行了仪式。那时简雅已经做好了无法承载巫傩而死，或是痛不欲生的准备，可……}}\n{{对话|简雍|我没事，只是看了太久雪光，有些眩晕罢了。}}\n{{对话|耿公子|真是奇才啊，宪和。我当时可是痛到在心里咒骂了三天三夜先祖……|头像=耿公子}}\n{{对话|简雍|你没消失……说明承继失败了，巫的魂魄还在你体内……}}\n{{对话|简雍|为何会如此……你的肉体毁了，我服下巫血巫肉成为最近的容器，魂魄理应会进我的体内……咳……}}\n{{对话|耿公子|是啊，我也想不通。不过有时候没有变化就是好的变化，既然我们这边没有变故，不如好好托举孩子的未来吧。|头像=耿公子}}\n{{对话|耿公子|唉，阿女，看看，世道冰冷无情，只有老父亲记挂着你的……唔啊！|头像=耿公子}}\n{{旁白|我再次把他推下雪坡，跟上了简雍。}}\n{{旁白|【帷帐】}}\n{{对话|简雍|……呼……像跟屁虫一样，到底要问什么？}}\n{{旁白|他疲惫地蜷缩在软榻上，眼眸垂下的阴影，让苍白的脸近乎于雪色。}}\n{{对话|我|你真的没有别的反应？|头像=广陵王-挑眉}}\n{{对话|简雍|没有……虽然刚开始脑中一片空白，但是苏醒后，除了虚弱，并没有别的异样。}}\n{{对话|简雍|……我会派金卫继续护送你北上。途中会有耿氏的邬堡让你们歇息。}}\n{{对话|简雍|幽州将军公孙瓒并不乐见你和刘虞联手，在你们见面前，一定会暗中阻挠。自己解决，不要给我惹麻烦。}}\n{{对话|我|我想召集绣衣楼密探来此，在幽州各处建立据点。在见到刘虞前，至少需要一条通畅的情报线，能在北方自行运作。|头像=广陵王-严肃}}\n{{对话|简雍|我吐字很清楚吧，“不要给我惹麻烦”。}}\n{{对话|我|恶毒的继……|头像=广陵王-微笑}}\n{{旁白|他砸了茶盏，我跌跌撞撞跳出帷帐，仓促间，重重撞上了背后的人，两个人都没站稳，朝雪坡下滚去——}}\n{{对话|我|唔啊！|头像=广陵王-难受}}\n{{对话|袁基|唔！|头像=袁基}}\n{{对话|我|袁基？|头像=广陵王-微笑}}\n{{对话|袁基|我来和殿下汇合……唔，发冠是不是歪了？|头像=袁基}}\n{{旁白|我替他戴正了冠，他拉着冠缨，眼底被雪光映亮，格外剔透。}}\n{{对话|我|……你是怎么知道我的行踪的？你就算找我，也应该是在边界的邬堡那里等我才对。|头像=广陵王-惊讶}}\n{{对话|我|我们是通过幽州地下抵达此处的，是谁让你来这里的？|头像=广陵王-严肃}}\n{{对话|袁基|……子瑜的弟弟，那个叫阿亮的孩子。他被兄长来信叫回去了，临别前，将殿下的方位告诉了我。}}\n{{旁白|心理|不，总觉得隐约有些不对……}}\n{{对话|荀攸|袁基来了？|头像=荀攸}}\n{{对话|袁基|小荀老师……？}}\n{{对话|荀攸|关中情况如何？幽州与南方情报不通，后方的战事如今谁占上风？|头像=荀攸}}\n{{对话|袁基|曹操在争夺兖州，但战事不利。许县、兖州，两处都在胶着。}}\n{{对话|袁基|袁氏的兵马也在待命。殿下尽快和刘虞汇合，调动幽州骑兵南下，如此南北夹击，可定大局。}}\n{{对话|荀攸|幽州据点之事可以靠后，眼下，追兵在后，公孙瓒想法多变，还是要先往治所，和刘虞相见。|头像=荀攸}}\n{{对话|荀攸|殿下身份刚刚被公布，可能还要在幽州待一段时日，借刘虞之力，躲开关中最紧张的风口。|头像=荀攸}}\n{{对话|金卫|殿下，有关内的追兵越过关隘，靠近此处。公子有令，命末将护送队伍启程，往幽州牧在北方的治所。|头像=黑人影}}\n{{对话|我|袁基，我们要启程了，你双目不便，不如留在此地，等我见到刘虞，再派人来接你。|头像=广陵王-严肃}}\n{{旁白|他愣了一下，向我的方向转过身，目光中有一抹微冷一闪而过。}}\n{{对话|袁基|……此次带来了随行侍从和护卫，对殿下应该是利大于弊的。}}\n{{对话|袁基|不必担心，天气也没有那么冷。待在车里，其实感觉和关内差不多。}}\n{{对话|荀攸|让周忠使君留在后方，没关系吗？}}\n{{对话|我|天太冷了，他很难保持清醒。|头像=广陵王-严肃}}\n{{对话|我|里八华内部似乎有分歧，先生知道吗？一方想活捉我，一方想刺杀我。|头像=广陵王-挑眉}}\n{{对话|荀攸|……此前试图获取他们信任时，隐约感受到几分拉扯。虽说自称反对汉室，但他们的所作所为，似乎只是掀起战火。}}\n{{对话|我|他们起始于巫的残余，为了恢复力量，必须复苏建木。战火让生灵的鲜血涌入龙脉，才能喂养建木的根系。|头像=广陵王-严肃}}\n{{对话|袁基|……如果他们成功，现世会如何？|头像=袁基}}\n{{对话|我|消散，重归混沌，最后再被重塑。|头像=广陵王-严肃}}\n{{对话|袁基|我们也会消散吗？|头像=袁基}}\n{{对话|袁基|……哈，这样想想，似乎也不错。从此就不必担心那些做不完的公务了。|头像=袁基}}\n{{对话|荀攸|想起来当年在学宫时，你暗中让他们收集了一堆火油，去水边把期末的作业都烧了的事。}}\n{{对话|袁基|好像火星飞出去，还点燃了河边的树林，烧了一整夜。|头像=袁基}}\n{{对话|袁基|我在寝室里看了许久，后来还听见奉孝回来取酒的声音。取了酒，他又回到河边去了。|头像=袁基}}\n{{对话|荀攸|说起奉孝……现在局势大乱，他却没有出现，不知在策划什么。}}\n{{对话|我|我杀了他。|头像=广陵王-严肃}}\n{{旁白|车内霎时间静了。}}\n{{对话|我|他派兵劫杀从陈留撤往徐州避险的人。所以我杀了他。|头像=广陵王-严肃}}\n{{对话|荀攸|……}}\n{{对话|荀攸|……停车。}}\n{{对话|袁基|……小荀老师……|头像=袁基}}\n{{对话|荀攸|停车。我想下车透口气。}}\n{{旁白|马车停了。他下了车，在雪地里站了片刻。车内弥漫着一种难以言喻的气氛，我听见了袁基的叹息。}}\n{{对话|袁基|让他待片刻吧。当年他很照顾奉孝。}}\n{{对话|我|因为在此前他还知道，我杀了张邈。|头像=广陵王-严肃}}\n{{对话|袁基|……}}\n{{对话|我|你需要也下车透口气吗？|头像=广陵王-挑眉}}\n{{对话|袁基|……我……没事。其实已经预想到可能有这天了……}}\n{{对话|袁基|但是......真的听闻了，还是感到……}}\n{{对话|我|来人。扶你家主人下车，让他透口气。|头像=广陵王-微笑}}\n{{旁白|侍从来到车边，他没有拒绝，缓缓地提衣下车。车内只剩下我一人了。我接住车帘，叫住了他。}}\n{{对话|我|袁基。|头像=广陵王-微笑}}\n{{对话|我|等这次事情结束，回到南方后，一同去栖霞山的别院避暑吧。|头像=广陵王-微笑}}\n{{旁白|他站在车边回身，对我笑了笑，笑意浅淡，带着一丝挥之不去的惆怅。就在这时，有金卫敲响盾牌，示意警戒。}}\n{{对话|金卫|有兵马来了，是公孙瓒的骑兵！|头像=黑人影}}\n{{对话|侍卫|谁人靠近车队！下马！|头像=绣衣楼密探}}\n{{旁白|一边是兵马的影子，另一边，有单骑穿过茫茫白雪，从后方靠近我们，被侍卫喝止。那人苦笑着停下，是他。}}\n{{对话|耿公子|别动手。不用管那支兵马，我设法把它引走了。|头像=耿公子}}\n{{对话|耿公子|宪和放心不下，让我跟着来看看，他就是容易心软。走吧，我带你去第一个据点。|头像=耿公子}}\n{{对话|袁基|……这位是……|头像=袁基}}\n{{对话|我|王府的旧臣。|头像=广陵王-微笑}}\n{{对话|耿公子|哎呀，是阿逢的孩子？如今长得……长得……|头像=耿公子}}\n{{对话|袁基|什……啊！}}\n{{对话|我|外面冷。来，先上车。|头像=广陵王-严肃}}\n{{旁白|我把袁基拽进车，示意他引路。那支兵马不知追着什么远去了，渐渐远离了我们……}}\n{{旁白|【废弃据点】}}\n{{对话|耿公子|来，阿女，这间。|头像=耿公子}}\n{{对话|袁基|……殿下，他到底是谁？}}\n{{对话|我|王府的旧臣，以前骑马摔伤过脑子，人不太正常。|头像=广陵王-摇头}}\n{{旁白|荀攸离得近，依稀看清了我的话，不禁用脚尖碰了碰我，轻声提醒。}}\n{{对话|荀攸|……不孝不悌若被抓住，那就真的洗不清了。}}\n{{对话|我|怕什么，谁还能真把他当成先王？|头像=广陵王-挑眉}}\n{{旁白|那人先将双目不便的袁基搀扶进去，然后便站在门口，含笑望着我们。}}\n{{对话|耿公子|说什么悄悄话呢，小攸。外面要起风了。|头像=耿公子}}\n{{对话|我|我有些话要和小荀老师说，稍等一下。|头像=广陵王-微笑}}\n{{旁白|我将荀攸拉到僻静处，确认那人听不见之后，用唇语与他密谋。}}\n{{对话|我|……我不会把所有密探召集到这里。麻烦你和这个人交接，将这些密探召集到密信上的所在。|头像=广陵王-摇头}}\n{{对话|荀攸|你不相信他吗？}}\n{{对话|我|第一，他何处可信？第二……|头像=广陵王-严肃}}\n{{旁白|我将密信塞入他袖中，微微靠近，确认左右。}}\n{{对话|我|我的行踪被出卖了，但不知叛徒是谁。|头像=广陵王-严肃}}\n{{对话-尾}}\n\n=饶阳=\n\n==饶阳·一==\n{{对话-头}}\n{{旁白|【废弃据点】}}\n{{对话|亲卫|这边的制式，和绣衣楼真的很像。|头像=帅武将}}\n{{对话|绣衣楼密探|岂止是像，简直一模一样。|头像=路人母亲}}\n{{对话|耿公子|这是绣衣楼在幽州的影子。}}\n{{对话|我|这样的影子，或许并不止幽州有。|头像=广陵王-微笑}}\n{{旁白|没有人员，只有据点制式的空壳……仿佛在等待着密探进入，然后随时开始运作的绣衣楼之影……}}\n{{对话|我|还有一个影子，在益州，对吗？|头像=广陵王-严肃}}\n{{对话|耿公子|是你君郎叔叔说的？}}\n{{对话|我|我当年从隐鸢阁下山回广陵，刘焉给了很大助力。如今想来，他应该不希望我留在益州。|头像=广陵王-严肃}}\n{{对话|我|你们当年交好，他为你在益州建了绣衣楼的影子。但你死后，他便将之为己所用了。|头像=广陵王-严肃}}\n{{对话|耿公子|真是无情啊，当年我们可是差点结为亲家的。要是都生了儿子或女儿就拜为兄弟或姐妹，要是一男一女就约定婚约。}}\n{{对话|我|他儿子如今只剩一名了。是个不太聪明的人……既然当年都和刘焉约定了，最后怎么去找了袁氏？|头像=广陵王-挑眉}}\n{{对话|耿公子|哇，你当年要是见过那位累世三公子，那可真是……啧，我要是女子，那绝对轮不到小陈。}}\n{{对话|耿公子|神光罩身般的气质……还以为袁基长大后能继承那种美貌，如果运气好孙辈也继承了，我绝对能活到替你们欢欢喜喜带孩子。}}\n{{对话|我|那应该轮不到你带，还是给恶毒的继父带比较安心。|头像=广陵王-严肃}}\n{{对话|耿公子|怎么这样伤为父的心，不要听信他人的一面之词啊。我姑且也算个好人吧？}}\n{{对话|耿公子|我可是给过身边每个人选择去留的机会的……他们自己选择留下，最后向你倾泻对我的怨恨，很不公平吧？}}\n{{对话|绣衣楼密探|楼主。|头像=路人母亲}}\n{{对话|耿公子|嗯？}}\n{{对话|我|没喊你，在喊我。怎么了？|头像=广陵王-严肃}}\n{{对话|绣衣楼密探|室内大致清理完了，机括和密道都运作正常。属下准备放飞绣云鸢，召集众人在此地会合。|头像=路人母亲}}\n{{对话|我|就按我给的名单，尽快将人召集前来。|头像=广陵王-点头}}\n{{对话|耿公子|拿壶酒来——让他们做事吧，我们到房顶去说会话。}}\n{{对话|耿公子|……呼，拉我一把。|头像=耿公子}}\n{{对话|耿公子|这具身躯到底不是自己的，用起来很难受，而且味觉都迟钝了，喝酒都喝不出味道。|头像=耿公子}}\n{{旁白|他坐上屋顶，险些打翻了酒壶。我接过它闻了闻，是很陈的酒了。}}\n{{对话|耿公子|你应该没有见过小白吧？|头像=耿公子}}\n{{对话|我|没有。她带着兄长在江东生活。|头像=广陵王-摇头}}\n{{对话|耿公子|她吃不惯也喝不惯这里的饮食。在王府里，还能让食官照着她的要求做。离开王府，应该过得很艰难吧。|头像=耿公子}}\n{{对话|我|二位当年到底是怎么走到一起的，真的很好奇。|头像=广陵王-挑眉}}\n{{对话|耿公子|去隐鸢阁供奉仙人，希望那群神棍能在新的一年让我的仇家被雷劈死。然后就在仙门遇到了。|头像=耿公子}}\n{{对话|耿公子|她很害怕那个叫徐庶的人，害怕她那条怪异的手臂。跌跌撞撞地躲，差点从山阶上摔下去……|头像=耿公子}}\n{{对话|耿公子|搀了她一把，就这样认识了。知道我身分后，十分亲近地喊我「王爷」……|头像=耿公子}}\n{{对话|我|「王爷」是什么？|头像=广陵王-微笑}}\n{{对话|耿公子|不知道。但她喊得很顺口，就一直随她喊了。|头像=耿公子}}\n{{对话|耿公子|……不过后来诡异的称呼越来越多了，无论对方是男是女，上去就喊「大人」，认对方做爹。|头像=耿公子}}\n{{对话|耿公子|还有各种各样奇怪的称呼，小姐、姑娘、少爷、老爷，可能是她那个时代的称呼吧。|头像=耿公子}}\n{{对话|我|差异那么大，真的能聊到一起去吗……|头像=广陵王-严肃}}\n{{对话|耿公子|很难啊，绝大多数人都不太喜欢她。不过，表面上还是要装作友善吧？毕竟，小白也不是什么坏人嘛。|头像=耿公子}}\n{{对话|耿公子|只是个没经历过什么事的人罢了。但又因为来自于很久以后，总觉得自己懂的比这个时代的人多。|头像=耿公子}}\n{{对话|我|哎，往后的时代有新鲜事吗？|头像=广陵王-挑眉}}\n{{对话|耿公子|哈哈，没有。|头像=耿公子}}\n{{对话|耿公子|她说她会用海水制白盐，但说到底也就只会熬煮和过滤，百年前的盐工就知道了，还以为会有多少新技法……|头像=耿公子}}\n{{对话|耿公子|过一会儿又说，自己知道救世之道。但说来说去，好像也就是那几句口号，前后的文章一概不知。|头像=耿公子}}\n{{对话|耿公子|头像=耿公子}}\n{{对话|耿公子|她能想到的、想不到的，其实前人都想过、写过成文的经典，也拿命或者拿国运试过。至于结局……以史为鉴就好。|头像=耿公子}}\n{{对话|我|你……应该没拿国运去试吧？|头像=广陵王-挑眉}}\n{{对话|耿公子|为什么不试？她很执着地认为自己的理论是对的，不给她试，她就不跟我说话。|头像=耿公子}}\n{{对话|我|你都知道她是个没经历过什么事的人，让她介入政事然后等着看血流成河，未免太恶劣了吧？|头像=广陵王-严肃}}\n{{对话|我|不懂政务但是喜欢指点江山空喊口号的人满天下都是，何必拿百姓的生计去验证他们是错的呢，真是作孽。|头像=广陵王-摇头}}\n{{对话|耿公子|我想看看她的反应啊，喜欢一个人不就是想看见对方的全部吗？|头像=耿公子}}\n{{对话|耿公子|不过，验证她那几句口号在这个世代完全没用、最多只是搞出第二个张角之后，她就又回到了起点。|头像=耿公子}}\n{{对话|耿公子|说我们「封建」，但听她的语义，好像连封建具体的意义都不清楚，单纯把它当成一个贬义词在用？|头像=耿公子}}\n{{对话|耿公子|「保守」？应该是这个意思吧，在她的世代，封建在大众语境里类似保守？可我们也不保守啊，全广陵最保守的反而是她。|头像=耿公子}}\n{{对话|我|……你们的相处难道就是，她说你封建，你说她保守，然后她不高兴，你再折腾简雍吧？|头像=广陵王-无语}}\n{{对话|耿公子|结了婚你就知道了，确保婚姻美满的重要条件就是不要和对方怄气。她可是我为数不多觉得有趣的人。|头像=耿公子}}\n{{对话|耿公子|早上起床说女大和早八不共戴天。中午说真是吃人的时代。晚上嫌弃我封建。吃夜宵时候说自己是小皇帝。|头像=耿公子}}\n{{对话|我|天尊。然后呢？|头像=广陵王-惊讶}}\n{{对话|耿公子|「同意！小白是小皇帝！」——然后就是爹爹妈妈幸福的夜生活了啊。|头像=耿公子}}\n{{对话|耿公子|我们感情那时候还不错的，在维持夫妻感情这一块，我可是比小陈好了不止一点半点。|头像=耿公子}}\n{{旁白|他晃了晃酒壶，含笑看向我。那双带着某种冰冷非人感的眼眸，在幽州的月色下微微有了些柔软的人性。}}\n{{对话|耿公子|我甚至还找到了办法，能送她回去。|头像=耿公子}}\n{{对话|耿公子|我在这个地方已经待腻了，也想和她一起回去看看。那个她挂在嘴边「死也要回去」的时代……|头像=耿公子}}\n{{对话|耿公子|感觉是个表面上很光鲜亮丽的时代呢，哪怕一个人对许多事知其然但不知其所以然，也能简单平静活下去的时代。|头像=耿公子}}\n{{对话|我|那最后为什么没有回去呢？|头像=广陵王-严肃}}\n{{对话|耿公子|很简单啊。她自己做出了选择。|头像=耿公子}}\n{{对话|耿公子|在平凡的女大，和广陵的王妃之间，尽管一直说「选都不用选」、「毫不犹豫回去」、「月薪三千也比在这幸福」……之类的。|头像=耿公子}}\n{{对话|耿公子|但真的让她选的时候，她还是留下了。那时候还没你们呢。|头像=耿公子}}\n{{对话|我|不要考验人性。人性是最经不起考验的。|头像=广陵王-摇头}}\n{{对话|耿公子|我就会愿意放弃一切，去看看未知的天地啊。|头像=耿公子}}\n{{对话|我|那是因为你在广陵王这条路上已经走过了啊，你什么都见过了，才会想见见没见过的路。她也一样。|头像=广陵王-微笑}}\n{{对话|我|人性就跟孩子一样，你把权力、地位交给一个没体验过这些的人，就好像把蜜糖给孩子，人在那一瞬间是没有理性可言的。|头像=广陵王-微笑}}\n{{对话|耿公子|总之，她留下了。然后有了你们。不管怎么说，人性可真是个好东西啊。|头像=耿公子}}\n{{旁白|酒喝完了，大半都是他喝的。夜里的雪风刀割般的冷，袁基的侍从爬上木梯，说袁基身体不适，请我回去看看。}}\n{{对话|我|我先回去了。袁基有事找我。|头像=广陵王-微笑}}\n{{对话|耿公子|唉……见色忘父，我要去亡妻坟头哭坟。|头像=耿公子}}\n{{对话|我|继续喝酒吧，我走了。|头像=广陵王-无语}}\n{{对话|耿公子|等等，阿女。我有句话要跟你说。|头像=耿公子}}\n{{旁白|他拉住我的袖子。那张与我毫无相似之处的面容上，带着如照镜般熟悉的笑意。}}\n{{对话|耿公子|如果我走，你跟我走吗？|头像=耿公子}}\n{{对话|我|我做不到抛下所有人一走了之。我至少还要带他去栖霞。|头像=广陵王-摇头}}\n{{对话|耿公子|往后的时局，对你而言，唯有煎熬。哪怕到千百年后，我也会替她照顾你的。|头像=耿公子}}\n{{对话|我|她未必想照顾我，她可能只想回去，你也好，我和兄长也好，简雍也好，隐鸢阁也好，对她来说就和一场大梦一样。|头像=广陵王-摇头}}\n{{对话|我|我在现世还有要做的事和承诺。再如何煎熬和艰难，崩溃没用，哭啊闹啊没用，逃也没用，走到最后才知道有没有解法。|头像=广陵王-微笑}}\n{{对话|耿公子|万一你已经快要走到最后了呢？|头像=耿公子}}\n{{对话|我|我没有用任何阴谋，去对付过无咎之人。只要对无辜者使用过一次阴谋，便背负永远无法洗去的罪孽，无法得见大道。|头像=广陵王-微笑}}\n{{对话|我|大道仍在，我便可走下去。|头像=广陵王-严肃}}\n{{对话|耿公子|你现在是反贼了，天下公敌。天下人都要你死。|头像=耿公子}}\n{{对话|我|……我小的时候，有一棵树挡住了山道。蜀山的山民们要合力推倒那棵树。|头像=广陵王-微笑}}\n{{对话|我|师尊说，你们不必推倒它，绕道而行便是。人们说，这是众人的决定，是不会有错的。|头像=广陵王-微笑}}\n{{对话|我|最后，他们确实推倒了那棵树。但树根牵连起无数碎土，让沿途的山阶全部崩散。于是他们又来求仙人，替他们重修山阶。|头像=广陵王-严肃}}\n{{对话|耿公子|真是个令人生厌的故事。|头像=耿公子}}\n{{对话|我|是吗？我很喜欢这件事。每次遇到有人说，「所有人都这样想，你为什么不在乎」，我都会想起它。|头像=广陵王-微笑}}\n{{对话|我|一群人、甚至天下人要合力推倒一棵树，你可以相信他们推倒树的力量是足够的，但不能相信他们推倒树就必然是对的。|头像=广陵王-微笑}}\n{{对话|耿公子|既然如此，又为何不走？树会倒，山阶会崩散，你留在现世，只会一起坠落，粉骨碎身。|头像=耿公子}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|皇朝、天下，就和人一样。|头像=广陵王-严肃}}\n{{对话|我|它年轻的时候，尽管不够好，但努力想变好。等它老朽了，看似稳固而富足，但它和老人一样看透了世道。|头像=广陵王-严肃}}\n{{对话|我|它知道人世不够如此，人无药可救，它看透了，哪怕无人去推，它也会开始崩塌。这就是人世的道，你逃去哪里，都是一样的。|头像=广陵王-严肃}}\n{{对话|我|……我的挚友没有逃，他在那条船上等我。我也没有逃，我留在了那条船上。只有不逃，才能找到真正的生路。|头像=广陵王-严肃}}\n{{对话|耿公子|呵……真实的，你这个孩子，不像我也不像她，实在叛逆。|头像=耿公子}}\n{{对话|耿公子|去和你的小情人睡觉吧。小混蛋。|头像=耿公子}}\n{{旁白|他松开了我，坐回屋顶，继续喝着残存的酒。}}\n{{旁白|【寝室】}}\n{{对话|我|……我回来了。你还没睡吗？|头像=广陵王-微笑}}\n{{对话|袁基|等你回来用晚膳。}}\n{{旁白|面前的食案上摆着已冷的餐食，若放在以往，他一定会让人拿下去换。我看他没动过餐食，便直接坐在了他身侧。}}\n{{对话|我|胃口不好？侍从说你不舒服。|头像=广陵王-惊讶}}\n{{对话|袁基|水土不服，只想喝些汤羹。}}\n{{对话|我|汤都冷了，让他们去换了吧。此地本就寒凉，你身体不适，更不能吃冷餐。|头像=广陵王-微笑}}\n{{旁白|我正要唤人上来，他摇了摇头，然后摸索着拿起调羹，搅动了汤碗里冷去的汤羹。}}\n{{对话|袁基|今夜等了很久……}}\n{{对话|我|那人难缠，又心术不正。陪他喝了点酒，听了些嘴硬的话，心里正不耐呢，你就催我回来了。|头像=广陵王-微笑}}\n{{对话|我|我知道你等得久了，我也归心似箭……|头像=广陵王-微笑}}\n{{旁白|他没被搪塞过去，转头轻笑一声。我拉住他的手，轻轻拍了拍。}}\n{{对话|我|外面太冷，你摸，我的手和冰一样。让他们拿些热汤来吧……|头像=广陵王-微笑}}\n{{旁白|许久，他叹了口气，似乎勉强消了气。我撩开他的头发，正准备揽住他，却见一抹紫色蝶影，从他的发间飞出。}}\n{{对话|袁基|……？！}}\n{{对话|我|……没事，飞虫。|头像=广陵王-摇头}}\n{{旁白|我摊开手，被我拍中的紫蝶化为灰烬。旋即外面传来亲卫的脚步声，步伐仓促。}}\n{{对话|亲卫|殿下，有……|头像=帅武将}}\n{{对话|我|又有追兵来了，对吗？|头像=广陵王-严肃}}\n{{对话|亲卫|……是。但是下午属下严查了情报和人员，还不知是谁泄密……|头像=帅武将}}\n{{对话|我|不是你的错。召集众人往密道避难，等追兵过去。|头像=广陵王-严肃}}\n{{对话-尾}}\n\n==饶阳·二==\n{{对话-头}}\n{{旁白|【密道】}}\n{{旁白|幽州的绣衣楼据点，完全是按广陵的样式建造的，下方俱有密道。}}\n{{旁白|表面上的据点只有寻常民居，空无一物。我们在地下避险，黑暗中，隐约能听见上方的声响。}}\n{{对话|袁基|有人泄密吗……如果追兵知道此处，那应该立刻废弃这处据点。|头像=袁基}}\n{{对话|我|在幽州没有办法这么做，影子据点有限，初期只能先铤而走险。|头像=广陵王-严肃}}\n{{对话|袁基|殿下需要绣衣楼去作为和刘虞结盟商谈的筹码，但如果幽州的绣衣楼势力不足，可以以袁氏之力作为筹码。|头像=袁基}}\n{{对话|我|那等回去之后，袁本初定然第一个振臂高呼讨伐我这个妖孽。|头像=广陵王-无语}}\n{{对话|袁基|哈……|头像=袁基}}\n{{旁白|黑暗的地道中，哪怕很轻的声响都会回荡开。我们尽可能低声轻语，但还是有人看了过来。}}\n{{对话|耿公子|仔细看看，还是有些可惜。虽然眼睛像你父亲，但下颌有些像小陈……|头像=耿公子}}\n{{对话|袁基|敢问使君是……？|头像=袁基}}\n{{对话|我|声音好像停了。上面留守的人也给了信。可以上去了。|头像=广陵王-严肃}}\n{{旁白|我隔开他们，让众人回去。地道的入口打开了，人们陆续离开了此地。}}\n{{旁白|然而，就在我准备离开时，忽然听见了铃声。我回过头，赫然看见了一道不可思议的人影，出现在地道深处……}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|耿公子|怎么了？那里有什么？|头像=耿公子}}\n{{对话|我|……没事，可能是我看错了。|头像=广陵王-疲惫}}\n{{旁白|心理|……是啊，怎么可能……}}\n{{旁白|心理|她怎可能在这里……？}}\n{{旁白|【郊野】}}\n{{旁白|心理|今夜好冷，雪风又起了……}}\n{{旁白|深夜，我只带着两名心腹，秘密离开据点。北地雪夜肃杀，雪风呼啸。}}\n{{旁白|前方有一名轻骑掠过，发出短促呼啸。得到回应，我们立刻策马跟上，随他们往雪林深处……}}\n{{对话|楼班|这里。|头像=楼班}}\n{{对话|荀攸|已经按照你的密信，从各地召集密探，前往楼班将军部族的辖地了。}}\n{{对话|楼班|放心吧，我们的辖地是刘虞作保的，绝对没有公孙瓒的人。|头像=楼班}}\n{{对话|我|多谢。我与幽州牧刘虞结盟，幽州将军公孙瓒并不乐见，想阻挠双方会合，中途劫杀。|头像=广陵王-微笑}}\n{{对话|楼班|公孙瓒只想吞并幽州所有的兵马南下，刘虞在他身前已经够碍眼了，他绝对不会容你的。|头像=楼班}}\n{{对话|荀攸|总之，劳烦将军接引前来会合的密探。我先护送殿下回……}}\n{{对话|蛾使|喂——喂——有人吗——|头像=蛾使}}\n{{对话|我|……哎？|头像=广陵王-惊讶}}\n{{旁白|我听见了熟悉的声音，难以置信地回头。远处的风雪中，有两道人影踉跄而来……}}\n{{对话|蛾使|我们是外地人，需要避风雪！有人吗！能救救她吗——|头像=蛾使}}\n{{对话|亲卫|殿下，是天蛾和朱女官！|头像=帅武将}}\n{{旁白|穿过雪风，我们看清了彼此。他满面震惊，以为自己出现了幻觉。}}\n{{对话|蛾使|等……等等……真的是……|头像=蛾使}}\n{{对话|我|你们为何……现在就到了？|头像=广陵王-惊讶}}\n{{对话|雀使|……唔……|头像=雀使}}\n{{对话|雀使|……我好像……听见了……楼主……|头像=雀使}}\n{{旁白|【军帐】}}\n{{对话|雀使|……呼……呼……|头像=雀使}}\n{{旁白|巫医和楼班的随从说了几句，留下了草药便离去了。听他们转述，应该是冒雪而来时积累的弱症。}}\n{{对话|蛾使|事情就是这样……大家都听见了消息，有很多人不见了，怀疑是被傅……呃，那个人带走了。}}\n{{对话|蛾使|留下的人心里很不安定，虽然陈登一直支持楼主，但百姓都担心殿下被打为反贼后，各方会再次出兵攻打徐州。}}\n{{对话|蛾使|刚好就在那时，有一批从陈留过来避难的人抵达了徐州。}}\n{{对话|我|……是那些人……|头像=广陵王-严肃}}\n{{对话|蛾使|那些人带来了张超的口信，说殿下在幽州。所以，一部分人就决定北上，来找楼主会合。}}\n{{对话|蛾使|蛾部和雀部都动了，途中遇到追兵埋伏，死了很多人……我们在风雪中和其他人迷失了，通信也断绝了。}}\n{{对话|蛾使|结果就在半途得到了传信，召集密探在此地会合，反正也没有退路了，哪怕是陷阱也只能朝这个方向试试……没想到是真的！}}\n{{旁白|此刻，雀使微微转醒了。楼班的侍从喂她喝下温热的汤药，她的脸上微微浮起血色。}}\n{{对话|雀使|真的是楼主……咳……咳咳……|头像=雀使}}\n{{对话|雀使|终于会合了……太好了……|头像=雀使}}\n{{对话|我|好好歇息。到这里就安全了。|头像=广陵王-点头}}\n{{对话|雀使|之后，是要在幽州建立据点吗……|头像=雀使}}\n{{对话|雀使|我们会在这里待多久？半年？一年？|头像=雀使}}\n{{对话|我|不会很久。局势稳定后，留下一部分人维持运转，其他人都可以回广陵。|头像=广陵王-微笑}}\n{{旁白|她点了点头，神色萧索。}}\n{{对话|我|你的身体不好，这里太寒冷了。我会在这里待几天，等有没有幸存者前来。你先养病，不要想其他。|头像=广陵王-微笑}}\n{{旁白|她沉沉睡去，天蛾坐在近处，神色憔悴许多。}}\n{{对话|蛾使|她的族人派人接她回去。}}\n{{对话|我|因为我的身分？|头像=广陵王-严肃}}\n{{对话|蛾使|嗯……他们觉得，楼主已经不可能再回去了。我们为了避开他们，才匆忙上路。}}\n{{对话|蛾使|路上，她和我说，如果绣衣楼要在此地建立新的据点，她想留在幽州。}}\n{{旁白|夜深了，他也将休息了。我步出军帐，营地很安静，只能听见楼班在很远的地方和下属说话。}}\n{{旁白|荀攸在火边独坐写信。我没问他是写给谁的。他写了一卷信，犹豫片刻又将它烧了，再另起一卷，就这样写了许久。}}\n{{旁白|我们又在这处秘密营地等了几日，等到了其他和蛾使他们一起北上却被冲散的密探。}}\n{{旁白|委托楼班暗中安顿他们之后，我们才启程，趁夜回到了之前的据点……}}\n{{旁白|【据点】}}\n{{旁白|心理|……不对劲。}}\n{{对话|我|这个标记……应该又有兵马过来搜查，所以众人紧急入地道躲避了。|头像=广陵王-严肃}}\n{{对话|荀攸|是骑兵的痕迹……谁？！}}\n{{对话|耿公子|哦哦！吓了一跳，把剑放下、放下……|头像=耿公子}}\n{{对话|耿公子|公孙瓒的人又来滋扰了，所有人都暂时进密道躲避了。我总担心你们会突然回来，所以留在上面等你们。|头像=耿公子}}\n{{对话|耿公子|过来吧……轻些，有斥候来了。|头像=耿公子}}\n{{旁白|【密道】}}\n{{对话|耿公子|事情就是这样，你们不在的这几天，附近的情势变化很大。}}\n{{对话|耿公子|关口的把手越发森严，搜查的骑兵变多。情势难以维系，你的那位小情人去找关口的守将谈判了。}}\n{{对话|我|……我并不希望他来幽州的事情传开。你明明知道，为何不拦？|头像=广陵王-挑眉}}\n{{对话|耿公子|年轻人有年轻人的打算呀……}}\n{{对话|荀攸|……我们在往哪里走？|头像=荀攸}}\n{{旁白|他停下脚步，看向下方的甬道。一路上，我们没有遇到其他人。}}\n{{对话|我|……不对，虽然坡度差异很小，但是这条密道，和我们之前的密道方向不同。|头像=广陵王-严肃}}\n{{旁白|心理|是在某个地方被带入岔路了吗？}}\n{{对话|耿公子|真麻烦。}}\n{{对话|荀攸|什……呃！！！|头像=荀攸}}\n{{旁白|他勉强架住刺来的短剑。紧接着，那人空手握住了他长剑的剑身，完全不顾这具身躯的痛楚，钳制住了荀攸。}}\n{{对话|耿公子|带孩子可真麻烦。}}\n{{旁白|下一刻轰然巨响，脚下尘土碎石喷涌而起。我们被破碎的密道席卷而下，坠向下方的空洞——}}\n{{旁白|心理|！！！}}\n{{对话|我|呃！！！|头像=广陵王-难受}}\n{{对话|荀攸|唔！你疯了吗？！|头像=荀攸}}\n{{对话|耿公子|两边的祭品，如今够了吗。|头像=耿公子}}\n{{对话|耿公子|——小陈。|头像=耿公子}}\n{{对话-尾}}\n\n==饶阳·三==\n{{对话-头}}\n{{旁白|【祭坛】}}\n{{旁白|心理|……这里好像……是某处祭坛……？}}\n{{旁白|我撑坐起身。荀攸打开了它，但长剑遗失在了乱石之中。}}\n{{旁白|面前的场景诡异到难以言喻。它并非如密道中那样暗无天日，反而灯火通明。一名华服女子在灯火前读着一卷古籍，背对着我们。}}\n{{对话|我|……陈昭。|头像=广陵王-严肃}}\n{{旁白|她只是微微侧头，连转身都懒得。}}\n{{对话|我|一路带里八华追杀我至此的人，是你？|头像=广陵王-挑眉}}\n{{对话|耿公子|如何，小陈？算算时辰，你的人应该已经将密道另一头的人清理干净了。|头像=耿公子}}\n{{对话|荀攸|你把其他人引去密道另一处埋杀？！}}\n{{对话|耿公子|没办法啊，玄鸟祭祀是很昂贵的，据说当年几乎用了倾国之力。|头像=耿公子}}\n{{旁白|我听见了轻响声，来自陈昭的身侧。宽袖下，被巫血侵蚀的手正在拨动怪异的罗盘，像打算盘，但声音更加细密。}}\n{{对话|耿公子|介绍一下，这是针算，现在已经快失传了，小陈是为数不多还会用的人。|头像=耿公子}}\n{{对话|陈昭|闭嘴，不要打岔。|头像=路人母亲}}\n{{对话|耿公子|啊哈哈，太多年没有联手了，有点激动。|头像=耿公子}}\n{{旁白|火光窜动，照亮了祭坛上的事物。在看见它的瞬间，我此前的疑虑得到了验证。}}\n{{旁白|——黄月英。}}\n{{旁白|和黄月英长着相同面容的生物，纯白、人首豹身虎尾，安静地坐在祭坛之上，空洞的双眼注视着下方的一切。}}\n{{旁白|针算声愈发细密。祭坛周围的沟槽散发着不详的气息。}}\n{{对话|陈昭|……按数理来说，祭品是足够的。但是，血还没有充盈下来。你的设计出了问题。|头像=路人母亲}}\n{{对话|耿公子|哎，怎么可能……|头像=耿公子}}\n{{对话|我|如果你是想将密道另一头的人作为祭品献祭，那已经不可能了。|头像=广陵王-严肃}}\n{{对话|我|……上次进入密道时，因为在黑暗中隐约见过它的脸，担心此地有诈，所以安排了简雍留下的金卫待命。|头像=广陵王-严肃}}\n{{对话|我|如果再有进入地道的时机，就让他们从另一侧接应。但确实没有想到，地道还会有另一条岔路……|头像=广陵王-严肃}}\n{{对话|耿公子|宪和啊……|头像=耿公子}}\n{{对话|陈昭|我当年就说，你应该放他还乡的。|头像=路人母亲}}\n{{对话|我|祭坛上的，才是真正的十巫之一吧？|头像=广陵王-严肃}}\n{{对话|耿公子|对，宪和吃下的，只是本地山神的血肉。|头像=耿公子}}\n{{对话|耿公子|用十巫作为祭品，说不定可以强行进行玄鸟祭祀。这可是天下最昂贵的祭品，十巫之首，巫咸。|头像=耿公子}}\n{{旁白|那张与黄月英一模一样的面容微微侧转，藤曼般的血管中爆出羽毛，落地后化为光尘。}}\n{{对话|耿公子|玄鸟祭祀，既然能将人带来，便也能将人送走。|头像=耿公子}}\n{{对话|耿公子|我想穿越到千年后，自己成为玄鸟，去看看小白说的新世代。|头像=耿公子}}\n{{对话|耿公子|为了这个目的，我需要保有巫咸颛顼的力量，保有巫咸的肉身，以及……你。|头像=耿公子}}\n{{对话|耿公子|——小陈，测算的结果是怎么说的？|头像=耿公子}}\n{{对话|陈昭|如果当年的星图和记载属实，玄鸟之子尚未诞生，则阵法会笼罩玄鸟，将之拖入现世。|头像=路人母亲}}\n{{对话|陈昭|如果玄鸟之子已经降生，那么阵法就可以逆向将你送走。|头像=路人母亲}}\n{{对话|我|所以你问我，要不要和你走。|头像=广陵王-严肃}}\n{{对话|耿公子|来吧！去更有趣的地方吧。这里的一切我都已经看腻了。如果那个世代到处都是和你母亲一样有趣的人……|头像=耿公子}}\n{{对话|耿公子|……她没有留下记录，让你们知道她从前做的事吧？她坚持自己是对的，坚持要我实行她说的那些仁政。所以……|头像=耿公子}}\n{{对话|陈昭|不要再提那件事了，为了掩盖它，蛾部死了很多人，蝎部全灭。|头像=路人母亲}}\n{{对话|耿公子|哈哈，有什么关系，反正我都要走了。|头像=耿公子}}\n{{对话|耿公子|——于是，我给了她一块地，一座小城，我说，这座小城由你做主，你想推行什么政令，都可以在这里实施。|头像=耿公子}}\n{{对话|耿公子|你猜结果是……|头像=耿公子}}\n{{对话|我|猜都不用猜。还是那句话，你只是想让她看清事实，于是让一个没有经验执行政务的人接手了政务实权。|头像=广陵王-冷笑}}\n{{对话|我|就算她是全天下最善良的人，那个地方一样会变成炼狱的。政治是人之治，权力是架构，拿政权当玩具，不会有好结果的。|头像=广陵王-严肃}}\n{{对话|耿公子|确实，结果真的惨烈。|头像=耿公子}}\n{{对话|我|你把重器交给一个没有执政经验的人，就好像把利刃给孩童。你希望得到什么结果？你想要她给你什么结果？|头像=广陵王-冷笑}}\n{{对话|我|你只是在折磨所有人取乐，不要给自己找理由。|头像=广陵王-冷笑}}\n{{对话|陈昭|说的真好听啊。据说你从京都回广陵第一年过冬，下令全境不许饿死人……|头像=路人母亲}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|陈昭|那次死了多少人呀？我猜……五倍？|头像=路人母亲}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|陈昭|你看，你一开始不是也拿它当玩具吗？为了不让人饿死，于是官员都选择直接让可能饿死的人先冻死。|头像=路人母亲}}\n{{对话|陈昭|你收一分税，下面就要多收十分。这就是人之治……好了，我算完了。|头像=路人母亲}}\n{{旁白|她指尖弹过针尖，发出震鸣。}}\n{{对话|陈昭|按《明夷》测算，祭品不够。不管你女儿愿不愿意跟你走，怕是都走不了了。|头像=路人母亲}}\n{{对话|耿公子|这样啊……得献祭她啊。|头像=耿公子}}\n{{对话|陈昭|一开始答应跟你联手，就已经说定了。如果可以不献祭她，我就把人活着带去里八华。|头像=路人母亲}}\n{{对话|陈昭|如果需要献祭，那我就把她的尸体带回去。你……|头像=路人母亲}}\n{{旁白|话音未落，清光涤荡。荀攸已经找回了剑，剑锋扫向了她的脖颈——}}\n{{对话|荀攸|失礼了！}}\n{{对话|陈昭|没用的。|头像=路人母亲}}\n{{旁白|下一刻，轰然巨响，高大的人影自碎石后扑出，战刀压下长剑。}}\n{{对话|马超|你们可真能跑，跑到这么北的地方。}}\n{{对话|荀攸|你先走！去和袁基会合！}}\n{{对话|耿公子|逃吧……逃吧……|头像=耿公子}}\n{{旁白|祭坛入口处涌入华胥之人，我架开两人，回头最后望了一眼。}}\n{{旁白|他站在巫咸身侧，祭坛燃起火色，遮蔽所有人的神色。}}\n{{对话|耿公子|这样的天命，终于我也不错。逃吧，阿女。|头像=耿公子}}\n{{旁白|外面已经天亮，风雪茫然。我回到地面，外面的雪地还弥漫着血腥气，金卫和里八华伏兵的厮杀刚刚结束。}}\n{{对话|金卫|殿下？！|头像=黑人影}}\n{{对话|我|我没事。你们损伤如何？|头像=广陵王-摇头}}\n{{对话|金卫|因为有防备，所以……|头像=黑人影}}\n{{对话|我|袁基往哪个关口去谈判了？！|头像=广陵王-惊讶}}\n{{对话|金卫|北门的灵关——殿下？不需要护送吗？|头像=黑人影}}\n{{旁白|我已经翻身上马，朝灵关而去。背后很快响起骚乱，应该是陈昭带着华胥的人追出了地下。}}\n{{旁白|【关隘】}}\n{{旁白|关隘离此地不远，我策马抵达时，袁基的马车已经出来了。}}\n{{旁白|见到我出现，他的随侍都很意外。车帘掀起，我见到了袁基。}}\n{{对话|袁基|殿下？……出什么事了？}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|袁基|殿下？}}\n{{对话|侍从|主人，下方山道好像有追兵……|头像=侍从}}\n{{对话|我|——袁基。|头像=广陵王-严肃}}\n{{旁白|我打断了旁人的话。}}\n{{对话|我|你听我说。照我说的做，不要犹豫。|头像=广陵王-微笑}}\n{{旁白|他神色诧异，虽然不解，但还是点头，等我开口。}}\n{{对话|我|里八华的人偷袭了据点，在密道的岔路下有一处祭坛。那名耿氏的文臣叛变了。|头像=广陵王-严肃}}\n{{对话|袁基|……那位……耿公子？}}\n{{对话|我|没错。他叛变了，与里八华勾结，欲将我活捉。此人罪大恶极，绝不容于世。眼下，他和马超都在那，荀攸正在阻挡他们。|头像=广陵王-微笑}}\n{{对话|袁基|其他人呢？}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|没有其他人。山下的追兵是里八华的人，冲我来的。我会把他们引往他处，你不必担心。|头像=广陵王-严肃}}\n{{对话|我|你现在立刻走另一条山道，赶回据点，集结兵力杀入祭坛，救出荀攸。|头像=广陵王-严肃}}\n{{对话|袁基|如果荀攸已经压制了他们，要留他们活口吗？}}\n{{旁白|在短暂的沉寂后，我摇了摇头。}}\n{{对话|我|不，杀无赦，不用审问，不要让任何人与他谈话，不要让他有开口的机会，以免他借此传递情报。|头像=广陵王-严肃}}\n{{对话|我|答应我，你会做到的，对吗？|头像=广陵王-微笑}}\n{{对话|袁基|好。在下明白了。}}\n{{对话|我|情势紧急，分头行动。|头像=广陵王-点头}}\n{{旁白|我正要再次翻身上马，衣袖一紧，他拉住了我的袖子，还有话说。}}\n{{对话|袁基|殿下，没有别的话了吗？}}\n{{对话|我|……没有。|头像=广陵王-摇头}}\n{{对话|袁基|真的没有了吗？}}\n{{对话|我|对，没有。|头像=广陵王-点头}}\n{{旁白|他微微低下头，轻声叹息，松开了手。}}\n{{旁白|战马飞驰，我与他渐行渐远。再回头时只见雪雾，已经看不见他的身影了。}}\n{{旁白|心理|得尽快赶往据点……}}\n{{旁白|我离那里越来越近，然而，并未在前方见到楼班的人。}}\n{{旁白|取而代之的，是远方不详的黑烟，一路直上。}}\n{{对话|我|！！！|头像=广陵王-严肃}}\n{{旁白|【秘密据点】}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{旁白|明亮的火光吞噬了此地，所有的一切都被火烟淹没，宛如多年前的王府。}}\n{{旁白|尸首交叠，满地疮痍。楼班的人、密探、里八华的死士……恶战刚刚结束，连雪上的血都还未冰冷。}}\n{{旁白|雪在飘落，触及火舌的瞬间化为灰烟。}}\n{{对话|陈昭|我就知道。|头像=路人母亲}}\n{{旁白|她的声音穿过火色，混沌不清。}}\n{{对话|陈昭|——你会绕道去找袁基。你以为找到他之后，他就会站在你这边吗？|头像=路人母亲}}\n{{对话|我|我不想考验人性。我没有告诉他你在这里。|头像=广陵王-严肃}}\n{{对话|陈昭|真是个聪明的孩子，我还担心你会这么做，留了些你的人在手上。|头像=路人母亲}}\n{{旁白|她对我勾了勾手指。}}\n{{对话|陈昭|我没有对刘复说真话，根据古籍《明夷》，要进行玄鸟祭祀，他的祭品是不够的。无论如何都不够。|头像=路人母亲}}\n{{对话|陈昭|他必须死，不能让他流窜到他处。这个阴魂不散的人，留在世上某处，对谁都没好处，对吧？|头像=路人母亲}}\n{{对话|陈昭|现在他必死无疑。那，我们可以坐下好好谈了。|头像=路人母亲}}\n{{对话|我|……哈，当时我找过你许多次想谈，为何那时装疯不开口？|头像=广陵王-冷笑}}\n{{对话|陈昭|我不想啊。你敢拿我怎么样？|头像=路人母亲}}\n{{旁白|她缓缓踱步徘徊，面容气度清淡，但在火光映衬下，平白多了一种难以言喻的凌厉。}}\n{{对话|陈昭|现在我想和你谈了。坐下。|头像=路人母亲}}\n{{对话|我|天下不是围着某一个人打转的。把事情做到这个地步，再说自己想谈了……这不好吧？多少安慰我几句啊。|头像=广陵王-微笑}}\n{{对话|我|你是怎么知道这处据点的？召集至此地的人，应该没有叛变的理由才对。|头像=广陵王-严肃}}\n{{对话|陈昭|找几个活口，杀在无人知晓的地方，另派人易容混入北上会合的队伍中，再观测动向就好了。绣衣楼传信的手法，我太熟悉了。|头像=路人母亲}}\n{{对话|陈昭|甚至比你还熟悉……所以，把绣衣楼交给我如何？|头像=路人母亲}}\n{{对话|我|我刚刚说过吧，天下不是围着某一个人打转的。|头像=广陵王-脸红微笑}}\n{{对话|陈昭|我也算是有臣子之道的人，只是没法和阿雍那种打不还手骂不还口的人比。|头像=路人母亲}}\n{{对话|陈昭|贼仁者谓之贼，贼义者谓之残，残贼之人谓之一夫。闻诛一夫纣矣，未闻弑君也！|头像=路人母亲}}\n{{对话|我|天命无常，唯德是辅。你说的虽无错，但你何来德行道义？|头像=广陵王-严肃}}\n{{对话|陈昭|司掌绣衣楼无需德行道义。你不会受损的，去和那个孩子完婚……|头像=路人母亲}}\n{{对话|我|哪个孩子？|头像=广陵王-严肃}}\n{{对话|陈昭|袁基。不然呢？|头像=路人母亲}}\n{{对话|陈昭|和他完婚，由我替你司掌绣衣楼，绣衣楼会和袁氏结成最有力的同盟。|头像=路人母亲}}\n{{对话|陈昭|凭我对里八华的熟悉，知己知彼，反向蚕食轻而易举。你还小，很多事情，交给大人来做就好。|头像=路人母亲}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|陈昭|如何？这对你有益无害，你的身分已经被公诸于世，再强撑下去不会有好结果。|头像=路人母亲}}\n{{对话|陈昭|退后一步，余生极尽荣光，何不抽身而退？|头像=路人母亲}}\n{{对话|我|躺在地上的那些人，都是北上来与我会合的人。|头像=广陵王-严肃}}\n{{对话|我|消息传回广陵，有人遁逃，有人叛变，有人观望。而他们是最忠心的，没有任何犹豫，甚至没有得到命令，便已自行北上。|头像=广陵王-严肃}}\n{{对话|我|你连对绣衣楼最忠心者都能屠戮，我们已经不可能坐下来谈了。|头像=广陵王-严肃}}\n{{旁白|她微微侧头，火光照亮她身后的断垣，照亮了墙头上的事物。}}\n{{旁白|——那是一排首级。血还未干，如雨线交织，在墙上落下痕迹。都是熟悉的面容，陌生的死色。}}\n{{对话|我|……云雀，天蛾……|头像=广陵王-严肃}}\n{{对话|陈昭|你说得对。如果我要得到绣衣楼，这些对你至忠诚的人，都不能留，一个都不能。|头像=路人母亲}}\n{{对话|陈昭|我也骗了你，我没有留活口。|头像=路人母亲}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|你，是先王旧臣。反复无常，背弃同道，罪不容赦。|头像=广陵王-严肃}}\n{{对话|陈昭|你没资格定我的罪。|头像=路人母亲}}\n{{旁白|火海之中，华胥死士的身影缓缓逼近，断绝生路。我拔出战刀，只指向她。}}\n{{对话|我|他们为我而来，如今因我而死。在为他们报仇之前，我不能退。|头像=广陵王-严肃}}\n{{对话|华胥死士|动手！|头像=黑人影}}\n{{对话|我|纵然全天下的刀斧都在此地，我不能退！|头像=广陵王-愤怒}}\n{{对话|陈昭|人最好不要变成和父母差别太大的样子，你应该学你的父亲见利忘义，或学你的母亲，抱着孩子落荒而逃。|头像=路人母亲}}\n{{对话|陈昭|唯独不要学那些圣贤，抱着道义去死。|头像=路人母亲}}\n{{对话-尾}}\n\n==饶阳·四==\n{{对话-头}}\n{{旁白|【秘密据点】}}\n{{旁白|火光吞噬了夜空，也烧红了眼底。}}\n{{旁白|已经分不清是血还是火的气息，只知道自己必须前进。能看见那人站在咫尺之外，华服在火风中猎猎鼓动，眼神中的笑意冰冷似刀。}}\n{{对话|华胥死士|她疯了……她居然还不倒下……|头像=黑人影}}\n{{旁白|浴血之身，竟已经忘记了痛楚和恐惧。我仍握着刀，向她迈进一步。}}\n{{对话|陈昭|看来，是没法活捉了。|头像=路人母亲}}\n{{对话|陈昭|把她的头砍下来，别让袁基知道。|头像=路人母亲}}\n{{对话|华胥死士|是！|头像=黑人影}}\n{{对话|我|……退下……|头像=广陵王-疲惫}}\n{{旁白|他们举起了刀，却迟迟未动。我仍在向前走。每一步都踏在自己的血上。}}\n{{对话|陈昭|上。|头像=路人母亲}}\n{{旁白|没有人动。刀锋悬在半空，没人敢先落下。}}\n{{对话|陈昭|你们在等什么？|头像=路人母亲}}\n{{对话|华胥死士|她……已经不是人了……|头像=黑人影}}\n{{旁白|是的，不是人了。身体早已没有了知觉。每一处都在剧痛，每一次呼吸都像是吞火，但神志摒退了一切，让我继续向她逼近。}}\n{{旁白|无人敢靠近一团吞噬一切的火焰。而她站在原地，脸上没有惊慌。}}\n{{对话|陈昭|真难看。|头像=路人母亲}}\n{{旁白|没有回应。甚至无法说话。没有多余的力气，从握刀的手中分散。}}\n{{旁白|已经听不见周围的声音，能感受到的，唯有自己心跳的声音，像战鼓一样轰鸣。能感受到的，唯一执念——}}\n{{旁白|心理|走过去。}}\n{{旁白|心理|穿过这场火，走向多年前之前的那场火。哪怕只剩一口气，也要亲手将刀挥下。}}\n{{对话|陈昭|……哈，简直是……|头像=路人母亲}}\n{{对话|陈昭|早知今日，就不该耗费心神在你身上。|头像=路人母亲}}\n{{旁白|她后退一步，举弓搭箭。}}\n{{旁白|第一支箭射来，穿透肩胛。我踉跄了一下，刀还在手中，寒芒未减。}}\n{{旁白|心理|没有力气说话。}}\n{{旁白|心理|走过去。结束这一切。}}\n{{旁白|第二支箭射中腹部。几乎站立不稳，火焰舔舐着衣角，爬满周身。}}\n{{对话|陈昭|为什么还不倒下……|头像=路人母亲}}\n{{旁白|第三支箭……}}\n{{旁白|第三支箭。}}\n{{对话|陈昭|不要再靠近了……|头像=路人母亲}}\n{{旁白|心理|接住吧，第三支箭。}}\n{{对话|陈昭|我让你停下。|头像=路人母亲}}\n{{旁白|心理|我能接住。}}\n{{旁白|最后一刻，所有的力量化作最后一掷，缺口染血的战刀宛如月色划破黑暗，贯穿了那场大火的始终——}}\n{{对话|陈昭|！！！呃——|头像=路人母亲}}\n{{旁白|心理|……只是……}}\n{{旁白|心理|只是，我没有接住那支箭的力气了……}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{对话|周忠|……呃……咳……|头像=周忠}}\n{{对话|周忠|……小……陈……|头像=周忠}}\n{{对话|陈昭|……是你啊……|头像=路人母亲}}\n{{旁白|她握着插入心口的战刀，依靠着断壁残垣，缓缓滑坐下去。}}\n{{对话|陈昭|……总是出现在……不合时宜的地方呢……|头像=路人母亲}}\n{{对话|华胥死士|他中箭了！趁现在……|头像=黑人影}}\n{{对话|金卫|骑兵列阵，冲杀！|头像=黑人影}}\n{{对话|周忠|……赶上了啊，阿雍……|头像=周忠}}\n{{对话|周忠|……我好冷……好像已经……没有力气……恢复了……|头像=周忠}}\n{{旁白|箭簇贯穿了他的心口。他倒在我身边，从伤口处，不断有紫蝶连串飞出，带走这个人的生机。}}\n{{对话|我|……前辈……|头像=广陵王-难过}}\n{{对话|周忠|呵……呵呵……好歹，最后也有同床共枕的人呢……咳……咳……我……|头像=周忠}}\n{{对话|周忠|我好冷……能……抱住我吗……|头像=周忠}}\n{{旁白|我的手动弹不得，仿佛被千斤重石压住，但还是勉强动作，竭力朝他的手靠近。}}\n{{对话|周忠|……我最后至少……至少还是很漂亮的……|头像=周忠}}\n{{对话|周忠|见到乔先生……他还会认出我吧……|头像=周忠}}\n{{旁白|马蹄声，仿佛踏破了很深的海水，朦胧隐约地来到我们身边。有人翻身下马，错愕地扑到我们身边。}}\n{{对话|简雍|周忠！周忠！|头像=简雍}}\n{{对话|周忠|……|头像=周忠}}\n{{对话|简雍|让医师过来！他们伤得太重了！医师！让医师过来！|头像=简雍}}\n{{对话|简雍|你也不能睡！听见了没有？！不许睡！我就是因为担心这种事，才让他在你和袁基身上留下灵蝶的！|头像=简雍}}\n{{对话|简雍|为什么会这样……你不要睡……不要闭上眼睛啊……|头像=简雍}}\n{{对话|简雍|救救他们……|头像=简雍}}\n{{对话|简雍|快点……救救他们……|头像=简雍}}\n{{旁白|……}}\n{{旁白|…………}}\n{{旁白|意识像被烈焰灼烧着，一点一点消散。}}\n{{旁白|身体不再沉重，反而变得轻盈。耳边有蝴蝶振翅般细细碎碎的声响，那声音越来越远，像是从千里之外传来。}}\n{{旁白|黑暗一点点吞噬意识，像潮水般漫过全身。感觉不到痛，感觉不到恐惧，只剩下空无……}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|袁基|……殿下……？|头像=袁基}}\n{{旁白|【寝室】}}\n{{对话|我|……唔……|头像=广陵王-难受}}\n{{对话|袁基|殿下醒了！快去告诉他们，殿下醒了！|头像=袁基}}\n{{对话|袁基|太好了……殿下先别动，还需要静养！|头像=袁基}}\n{{旁白|医师进来了，查看了我的伤势。虽然此前伤重，但都没有伤及要害，没有性命之忧。}}\n{{对话|我|……密道下的情况呢？|头像=广陵王-疲惫}}\n{{对话|袁基|耿氏付诸，不过马超脱逃了。耿氏的首级就在案上。啊……殿下，不能乱动，要起身吗？|头像=袁基}}\n{{对话|我|……我想……坐起来，这样会舒服些。|头像=广陵王-疲惫}}\n{{旁白|侍从小心让我坐起，垫上软垫，袁基摆手，示意所有人下去。室内只余下我们二人，香炉里的香气压过了血腥。}}\n{{对话|袁基|我和守将谈判过了，他愿意背叛公孙瓒，投靠我们。}}\n{{对话|我|……好。|头像=广陵王-疲惫}}\n{{对话|我|等我休养之后，我们就启程……|头像=广陵王-疲惫}}\n{{对话|袁基|……嗯。}}\n{{旁白|他的神色间，仍有挥之不去的犹豫和迟疑。我很少在他眼中看见这样的神色。}}\n{{对话|我|怎么了？|头像=广陵王-疲惫}}\n{{对话|袁基|殿下没有别的话，要与我说吗？}}\n{{对话|我|辛苦你了，千里迢迢过来……|头像=广陵王-微笑}}\n{{对话|袁基|……}}\n{{对话|我|袁基？|头像=广陵王-挑眉}}\n{{对话|袁基|……}}\n{{旁白|他没有说话，笑意淡而又淡，几乎不见。就在这时，我听见了轻响……}}\n{{旁白|细密的、铮然的……}}\n{{旁白|针算的声响。}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|袁基|殿下。}}\n{{旁白|八角算器在他手中，他的手指拨过铜针，一轮接着一轮。}}\n{{对话|袁基|真的没有话，要与我说吗？}}\n{{对话|我|……比如？|头像=广陵王-严肃}}\n{{对话|袁基|母亲的事。}}\n{{旁白|我努力想对他露出一个粉饰太平的微笑，但是嘴角牵动了几次，都只让神态变得僵硬而刻意。}}\n{{对话|袁基|……殿下，殿下……}}\n{{对话|袁基|无论殿下说什么，我都会冷静听完的。拜托了，告诉我母亲的下落吧……}}\n{{对话|袁基|她是不是在绣衣楼手里？是不是殿下想用她在极端时刻要挟我？如果是这样也没有关系，谁没有算计？}}\n{{对话|袁基|家人做质子，古往今来都有。如果知道她在殿下手里，我反而安心。所以，告诉我吧……她在哪？我不会因此和殿下有嫌隙的。}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|袁基|殿下？}}\n{{对话|我|袁基，你……先坐下。|头像=广陵王-严肃}}\n{{旁白|我艰难抬起手，示意他在榻边坐下。}}\n{{对话|我|陈夫人她……已经不在了。|头像=广陵王-严肃}}\n{{对话|袁基|……什么？}}\n{{对话|我|她背弃了绣衣楼，投靠里八华，意图取我性命，杀了北上会合的密探……所以……袁基？袁基！|头像=广陵王-严肃}}\n{{旁白|他猛然起身，我拉住他的袖子，险些被他拖带下榻。}}\n{{对话|袁基|啊……啊啊……|头像=袁基}}\n{{对话|我|你冷静一些，你不是说过吗？你会冷静听我说完的……|头像=广陵王-严肃}}\n{{对话|袁基|啊啊啊啊……啊啊啊……|头像=袁基}}\n{{对话|袁基|……我早就知道她曾在绣衣楼手中……殿下给我看那卷假信的时候，我就认出来了，信上有从前母亲教我的暗语……|头像=袁基}}\n{{对话|袁基|但我一直在等……我在等殿下和我坦诚的那一刻，我想过无数次，如果殿下愿意说，我可以放下芥蒂，我能理解你的，但是……|头像=袁基}}\n{{对话|袁基|……不行，让我一个人静一静……我……|头像=袁基}}\n{{旁白|他起身欲走，我死死拉住他，两人一起滚落在地，未愈的伤口在地上留下一串血色。}}\n{{对话|我|呃……你不能走。袁基……袁基！听我说！我是在帮你啊！|头像=广陵王-难受}}\n{{对话|我|郑伯克段于鄢，母亲都是喜欢幼子的，父亲才会喜欢长子。幼子最受母亲们的摆布了，扶持幼子上位掌权……呃，别动！|头像=广陵王-难受}}\n{{对话|我|如果我不杀她，她与你将来也会决裂！不要在脑子里美化过去那些母子情深了，等她回来，那将来一切都是袁术的！|头像=广陵王-生气}}\n{{对话|我|你会比袁术听话吗？会比袁术好摆布吗？你长大了，你不听话，没有母亲会留这种儿子活口的！|头像=广陵王-愤怒}}\n{{旁白|他张大了嘴，发出无声的哀嚎，哪怕被我死死拖住，也在用最狼狈的姿势向外挣扎。}}\n{{对话|我|我是在帮你！袁基，她给你的我都能给你，我们才是一方的！袁基！|头像=广陵王-严肃}}\n{{对话|我|哈……你不是也杀了我父亲吗？我们谁也不欠谁！|头像=广陵王-严肃}}\n{{对话|袁基|什么……|头像=袁基}}\n{{对话|我|耿公子，他是我父亲。你杀了他。|头像=广陵王-严肃}}\n{{对话|袁基|……|头像=袁基}}\n{{旁白|他睁大了眼睛，盲目难以置信地注视着我。}}\n{{对话|我|没有什么不知者无罪，你杀了他啊。|头像=广陵王-严肃}}\n{{对话|我|袁基，你杀我父亲，我杀你母亲，我们换着杀！我们扯平了！谁也不用在将来担下不孝不悌地死罪！|头像=广陵王-严肃}}\n{{对话|我|我原谅你了，你也原谅我！袁基，我是为你好……袁基，卿卿……我爱你……你不能那么凉薄啊……我爱你……|头像=广陵王-严肃}}\n{{旁白|漫长的无声挣扎后，他几乎虚脱，空洞地睁着双眼，任由泪水流出，染湿鬓发。华服和玉冠碎乱，他浑身都染上了我的血色。}}\n{{对话|我|你要丢下我吗？你怎么能做这种事呢……我对你的情谊，难道是假的吗？我承认我冲动了一些，我发誓没有下次了……|头像=广陵王-微笑}}\n{{对话|袁基|……|头像=袁基}}\n{{对话|我|你要什么我都会给你的……杀了她，我们才有将来可言。杀了她，一切才会是你的……|头像=广陵王-严肃}}\n{{对话|我|……你想要的一切，想要的位极人臣啊，想要的三公九卿，乃至丞相……你要什么我都给你……真的……|头像=广陵王-严肃}}\n{{对话|我|听话，乖。你就当作不知道，当作一切是个梦……我不会因为父亲的事恨你的。你也不要恨我，听话啊……|头像=广陵王-微笑}}\n{{对话|我|我不会丢下你的……无论将来发生什么，我都会和你站在一起。所以，我们要把这件事死死瞒在心里，瞒到去死的那一日。|头像=广陵王-微笑}}\n{{对话|我|我爱你。这不是你一直想听的话吗？我爱你。所以你是我的。把眼睛闭上吧，袁基。|头像=广陵王-微笑}}\n{{旁白|……}}\n{{旁白|…………}}\n{{旁白|心理|……天快亮了。}}\n{{旁白|我坐起身。浑身裂开的伤口仍在剧痛。}}\n{{旁白|榻仿佛被浸在血水里，他浑身都被血水濡湿，像一尊血海里沉浮的玉人。他没有睡，仍然睁着双眼，哪怕我起身，他也没有反应。}}\n{{对话|我|……我打算带伤启程，尽快过关。|头像=广陵王-疲惫}}\n{{对话|袁基|……|头像=袁基}}\n{{旁白|我俯下身，亲吻过他的额头、鼻尖、双唇……}}\n{{对话|我|……留在这里，替我处理好这里的事。等北方盟约稳固，我会派人来接你的。|头像=广陵王-疲惫}}\n{{对话|袁基|……|头像=袁基}}\n{{对话|我|我走了。保重，袁基。|头像=广陵王-严肃}}\n{{旁白|我缓缓拄着手杖，离开了寝室。天方破晓，在暴雨中沉浸于无尽的黑暗。}}\n{{对话-尾}}\n\n<center>{{回到顶部|尾}}</center>"
+}

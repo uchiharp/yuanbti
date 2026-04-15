@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_zhangzhao_01",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张昭",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "长沙",
+    "text": "你辅佐的主公做出一个你认定会招致大祸的决定。群臣附和，无人反对。你深知直言会触怒主公。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "既然众人同意，也许自己判断有误，沉默即可",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "私下劝谏，给主公留面子，值得深思",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在朝堂上当众反对，即便被罚也在所不惜",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自张昭的密探故事——他是东吴重臣，以直言敢谏著称。"
+  },
+  {
+    "id": "q_zhangzhao_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "乱世之中，旧有的礼法制度已经崩塌。有人主张「乱世当用重典，不必拘泥旧礼」，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "赞同，乱世就该打破常规，值得深思",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "可以灵活变通，但根本法度不能丢",
+        "scores": {
+          "S10": 3,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "反对，越是乱世越需要纲纪来维持秩序",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张昭深信法度与纲纪是立国之本，无论治世乱世都不应动摇。"
+  }
+]

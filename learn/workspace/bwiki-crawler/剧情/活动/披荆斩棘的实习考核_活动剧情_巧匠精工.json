@@ -1,0 +1,307 @@
+{
+  "title": "披荆斩棘的实习考核/活动剧情/巧匠精工",
+  "category": "活动剧情",
+  "characters": [
+    "巨狼",
+    "张绣",
+    "我",
+    "狼犬",
+    "狼群",
+    "程普",
+    "绣球",
+    "飞云"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "呼，总算把公文批完了……还好，刚过三更，还能睡上两个多时辰。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "等等，门外好像有哭声……还有抡锤子的动静？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "呜呜……嗝、呜呜呜……嗝！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "门、门板，被锤裂了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "呜呜殿下……嗝……老程心里苦啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "唉……仕途！唉……人生！呜、呜呜――嗝！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "嗯嗯……仕途……人生……呼呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "想当年，嗝，我在刘虞使君―—不好了……殿下、殿下你在听吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "啊、啊？我在听……你继续说，仕途……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "不、不是仕途，是吐、想吐—―呕！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……很好，这间卧房也不能用了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "哈、哈欠……啊，快四更了，先睡吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "狼群",
+      "text": "嗷呜――嗷呜——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=飞云",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣球",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……能不能让它们别吵了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "嗯？你是说阿玛还是姊姊？还是二妹二弟？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "在吵的只有二妹二弟，其他的都在劝架。狼和狗开心的时候就是会叫一叫的，飞云也是呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "在城里不能乱叫，它们忍了好多天了，终于见到了小伙伴，喜不自胜，对不对？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "狼犬",
+      "text": "头像=野兽",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=飞云",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "狼犬",
+      "text": "呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巨狼",
+      "text": "头像=野兽",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……终于安静了，我也……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啊啊……飞云的毛毛……好松软……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "…居然窝在狼狗堆里睡着了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巨狼",
+      "text": "头像=野兽",
+      "emotion": "嗅嗅……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "安静下来的时候有点可爱嘛。你人孩子呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巨狼",
+      "text": "头像=野兽",
+      "emotion": "汪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "留了张纸条啊。“飞云家长。出城打猎给家人加餐。姊姊家长。”"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"披荆斩棘的实习考核/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''巧匠精工'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "巧匠精工·一"
+    },
+    {
+      "type": "narration",
+      "text": "巧匠精工·二"
+    },
+    {
+      "type": "narration",
+      "text": "巧匠精工·三"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background7B5F44;colorF2E3C6;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%AE%9E%E4%B9%A0%E8%80%83%E6%A0%B8/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%B7%A7%E5%8C%A0%E7%B2%BE%E5%B7%A5",
+  "crawled_at": "2026-04-12T22:03:56.942032",
+  "raw_wikitext": "[[分类:活动剧情]]\n{{回到顶部|头}}\n{{面包屑|2025活动剧情|披荆斩棘的实习考核/活动玩法}}{{JS|Qiantao.js}}{{背景图片|{{filepath:披荆斩棘的实习考核背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">披荆斩棘的实习考核</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|披荆斩棘的实习考核/活动剧情|导入剧情}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/武技切磋|武技切磋}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/账务速算|账务速算}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/八方情报|八方情报}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/巧匠精工|巧匠精工}}\n</center>\n</div></div>\n\n<center>\n='''巧匠精工'''=\n</center>\n==巧匠精工·一==\n{{对话-头}}\n{{旁白|【室内】}}\n{{对话|我|呼，总算把公文批完了……还好，刚过三更，还能睡上两个多时辰。|头像=广陵王-疲惫}}\n{{对话|我|等等，门外好像有哭声……还有抡锤子的动静？|头像=广陵王-惊讶}}\n{{对话|程普|呜呜……嗝、呜呜呜……嗝！|头像=程普}}\n{{对话|我|门、门板，被锤裂了……|头像=广陵王-惊讶}}\n{{对话|程普|呜呜殿下……嗝……老程心里苦啊……|头像=程普}}\n{{旁白|<hr>}}\n{{对话|程普|唉……仕途！唉……人生！呜、呜呜――嗝！|头像=程普}}\n{{对话|我|嗯嗯……仕途……人生……呼呼……|头像=广陵王-疲惫}}\n{{对话|程普|想当年，嗝，我在刘虞使君―—不好了……殿下、殿下你在听吗？|头像=程普}}\n{{对话|我|啊、啊？我在听……你继续说，仕途……|头像=广陵王-疲惫}}\n{{对话|程普|不、不是仕途，是吐、想吐—―呕！|头像=程普}}\n{{对话|我|……很好，这间卧房也不能用了。|头像=广陵王-无语}}\n{{对话-尾}}\n\n==巧匠精工·二==\n{{对话-头}}\n{{旁白|【室内】}}\n{{对话|我|哈、哈欠……啊，快四更了，先睡吧。|头像=广陵王-疲惫}}\n{{对话|狼群|嗷呜――嗷呜——}}\n{{对话|飞云|嗷呜——|头像=飞云}}\n{{对话|绣球|嗷呜——|头像=绣球}}\n{{对话|我|啊啊啊——|头像=广陵王-疲惫}}\n{{旁白|<hr>}}\n{{对话|我|……能不能让它们别吵了？|头像=广陵王-疲惫}}\n{{对话|张绣|嗯？你是说阿玛还是姊姊？还是二妹二弟？|头像=张绣}}\n{{对话|张绣|在吵的只有二妹二弟，其他的都在劝架。狼和狗开心的时候就是会叫一叫的，飞云也是呀。|头像=张绣}}\n{{对话|张绣|在城里不能乱叫，它们忍了好多天了，终于见到了小伙伴，喜不自胜，对不对？|头像=张绣}}\n{{对话|狼犬|嗷呜——|头像=野兽}}\n{{对话|飞云|嗷呜——|头像=飞云}}\n{{对话-尾}}\n\n==巧匠精工·三==\n{{对话-头}}\n{{旁白|【室内】}}\n{{对话|狼犬|呼……呼……}}\n{{对话|巨狼|呼……呼……|头像=野兽}}\n{{对话|张绣|呼……呼……|头像=张绣}}\n{{对话|我|……终于安静了，我也……呼……呼……|头像=广陵王-疲惫}}\n{{对话|我|啊啊……飞云的毛毛……好松软……|头像=广陵王-微笑}}\n{{旁白|<hr>}}\n{{对话|我|…居然窝在狼狗堆里睡着了……|头像=广陵王-惊讶}}\n{{对话|巨狼|嗅嗅……|头像=野兽}}\n{{对话|我|安静下来的时候有点可爱嘛。你人孩子呢？|头像=广陵王-微笑}}\n{{对话|巨狼|汪。|头像=野兽}}\n{{对话|我|留了张纸条啊。“飞云家长。出城打猎给家人加餐。姊姊家长。”|头像=广陵王-微笑}}\n{{对话-尾}}\n\n<center>{{板块|按钮|披荆斩棘的实习考核/活动剧情|首页}}</center>\n\n{{回到顶部|尾}}\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#7B5F44;color:#F2E3C6;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}"
+}

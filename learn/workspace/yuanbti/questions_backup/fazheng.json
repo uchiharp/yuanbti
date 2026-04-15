@@ -1,0 +1,124 @@
+[
+  {
+    "id": "q_fazheng_1",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "法正",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "法正自封「天命弃子·影殇」，声称能与灵者遗物感应，号令九幽大君。他说：「明白了吗？你们不相信的事，不代表不存在。」又说：「一个月三百，一年三千六，先扣掉三千？」——前一秒在谈通灵，后一秒在算工资。面对这样一个亦庄亦谐、虚实难辨的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先观察他到底是真的还是装的，不轻易表态",
+        "scores": {
+          "S1": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "顺着他的话走，看看他的真实目的是什么",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "利用他的中二性格做文章，反而更容易拿捏他",
+        "scores": {
+          "S1": 4,
+          "S9": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "法正的回答：「绝……绝无此事！哈哈……钱的臭味，难以沾染吾身。三百钱就三百钱！」嘴上说着不屑，身体很诚实。"
+  },
+  {
+    "id": "q_fazheng_2",
+    "dimension": "S1",
+    "cross_dimension": "S5",
+    "type": "story_anon",
+    "source_character": "法正",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人说他在密室里查阅了所有机密卷宗，发现了当年十三名鸢使被挑唆叛变的线索。他说：「不要小看我的记忆力，世间一切的记忆都藏在影中。」他声称能凭记忆还原整卷卷宗的内容，但唯独有一卷是空白的。你如何利用这个信息？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接问他空白卷宗的内容，看他知不知道",
+        "scores": {
+          "S1": 2,
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用其他信息去验证他说的是否属实",
+        "scores": {
+          "S1": 3,
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "空白本身就是线索，故意引导他说出更多信息",
+        "scores": {
+          "S1": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是法正在调查「侠卿」叛变案时的发现——卷宗中唯独「寻叛徒侠卿」一卷没有细节，他由此推断有人在刻意掩盖。"
+  },
+  {
+    "id": "q_fazheng_3",
+    "dimension": "S9",
+    "cross_dimension": "S1",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「庸俗的圣贤走狗必然有着庸俗的念头。凭什么不能为了眼前的趣味，留他一条命？」以下哪句话更接近你对「权力与规则」的看法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "规则就是规则，不能凭个人喜好随意变通",
+        "scores": {
+          "S9": 2,
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "规则重要，但特殊情况可以特殊处理",
+        "scores": {
+          "S9": 3,
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "规则是人定的，有权的人才有资格决定要不要遵守",
+        "scores": {
+          "S9": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "法正的话看似中二，实则点出了一个真相——规则的执行者往往才是最大的变量。"
+  }
+]

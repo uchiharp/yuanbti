@@ -1,0 +1,41 @@
+[
+  {
+    "id": "q_fushou_1",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "伏寿",
+    "source_story": "许县·阿春重伤",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "伏寿跪在地上，双手紧紧握住阿春冰冷的手——「不会的！阿春你不会死的，你不会死的！」她的眼泪砸在阿春脸上，声音哽咽到几乎破碎。阿春的手渐渐失去温度，她却死死不放。若你是伏寿，看着在意之人命悬一线，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "强忍悲痛，赶紧去请大夫，哭解决不了任何事。",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "什么也做不了，只想握着她的手，陪她到最后。",
+        "scores": {
+          "S2": 4,
+          "S8": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "一边呼唤她的名字不让她睡过去，一边让人去找大夫。",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "伏寿在阿春重伤时的崩溃，是她平日端庄面具下最真实的一面——她可以忍痛，却无法忍受失去。"
+  }
+]

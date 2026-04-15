@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q_yuanshu_1",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "袁术",
+    "source_story": "寿春·袁绍遇险",
+    "route_hint": null,
+    "city_hint": "寿春",
+    "text": "袁术得知长兄被人带走，怒不可遏——「把囚车打开！长兄要是有事，我活剐了你们！」他猛地拔剑，目光凶狠。稍后压住怒意：「那些长老现下在何处？我要带着董奉，当面去和他们对质！」若你是袁术，面对宗族长老对长兄的不公，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先弄清楚前因后果，贸然动武只会让事情更糟。",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "带人去对质，但不动手，以理服人。",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接带兵闯入，用武力让所有人知道袁家不是好惹的。",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "袁术的行事风格是「先动手再说」——他对权力的理解就是用绝对的力量让所有人闭嘴。"
+  }
+]

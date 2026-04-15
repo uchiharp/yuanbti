@@ -1,0 +1,311 @@
+[
+  {
+    "id": "q_kuaiyue_1",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "蒯越",
+    "source_story": "王府日常",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "蒯越在广陵王府日常中暗搓搓争风吃醋。表面上正经地处理公务，实际上总在观察殿下对其他密探的态度。如果你是蒯越，发现殿下特别夸奖了另一位密探，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "面不改色地继续做自己的事，但心里记住了",
+        "scores": {
+          "S4": 5,
+          "S2": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "开玩笑式地酸几句比如「殿下好偏心哦」",
+        "scores": {
+          "S4": 3.5,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不在意各凭本事，值得关注，值得深思",
+        "scores": {
+          "S4": 2,
+          "S8": 3
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "蒯越的佯蠢是顶级伪装——100句废话保护1句真话。醋意藏在荒诞之下。"
+  },
+  {
+    "id": "q_kuaiyue_2",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "蒯越",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「殿下不是很开心嘛！汪！」蒯越在关键场合突然学狗叫化解紧张。但这种看似无厘头的行为背后暗藏着他的在意。如果你在乎的人对别人笑了你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用玩笑掩饰醋意不让对方发现",
+        "scores": {
+          "S2": 2,
+          "S4": 5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直接说「你是不是对别人太好了」",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "心里不舒服但不会表现出来",
+        "scores": {
+          "S2": 2,
+          "S8": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "蒯越的真心被层层包裹——连感动都只能通过琉璃和孵蛋这样的小事泄露。"
+  },
+  {
+    "id": "q_kuaiyue_3",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在广陵王府的密探聚会上，你注意到殿下一直在跟某个新来的密探聊天完全没看你。你会怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "走过去自然地加入对话夺回注意力",
+        "scores": {
+          "S4": 4,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "自己找个角落待着不凑热闹",
+        "scores": {
+          "S4": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "无所谓，反正殿下跟谁聊天都一样",
+        "scores": {
+          "S4": 2,
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "蒯越表面不在意——「在下是文官嘛」——但每句话都有目的。"
+  },
+  {
+    "id": "q_kuaiyue_4",
+    "dimension": "S7",
+    "cross_dimension": "S5",
+    "type": "story_known",
+    "source_character": "蒯越",
+    "source_story": "隐藏的暴力",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「真的……反应过来的时候，把同僚的整颗头都……砸碎了……」蒯越在极端情况下暴露了暴力面。如果你被迫动手你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "做完了再后悔，这说明了一些问题",
+        "scores": {
+          "S7": 4,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "控制住自己不越过那条线",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "提前计划好不让自己到那一步",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "蒯越的暴力面被深埋——100句废话之后偶尔露出獠牙。"
+  },
+  {
+    "id": "q_kuaiyue_5",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "蒯越",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「……真是的，这么漂亮的宝石琉璃，活到如今都从未见过。」蒯越被琉璃感动到失语。你认为一个话痨突然沉默意味着什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "他看到了真正触动内心的东西",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "只是在想怎么用琉璃做文章",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "话痨也有词穷的时候",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "蒯越的温柔像琥珀一样被封在壳子里。给鸟取名叫小柿子、中柿子和大柿子。"
+  },
+  {
+    "id": "q_kuaiyue_6",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「酸枣讨董，怕是会往事重现。」蒯越在联军中迅速判断各方立场。面对复杂局势你更认同哪种方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "看清局势但不表态保持",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "明确站队表明立场",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不参与让别人去争",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "蒯越：看得清但不说清。清醒旁观者。"
+  },
+  {
+    "id": "q_kuaiyue_7",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "蒯越",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「会、会跳小鸟求奶舞！太可爱了咴——」一个人在严肃场合突然跳起荒诞的舞蹈。你认为他的目的是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用荒诞打破僵局测试别",
+        "scores": {
+          "S10": 2.5,
+          "S7": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "真的就是觉得好玩",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在掩饰内心真正的想法",
+        "scores": {
+          "S10": 3,
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "蒯越的佯蠢——讲故事、跳舞、装傻——是他最强大的生存技能。"
+  },
+  {
+    "id": "q_kuaiyue_8",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「在下是文官。」，值得关注",
+        "scores": {
+          "S3": 3.5,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「孵出来了……居然真的孵出",
+        "scores": {
+          "S3": 2,
+          "S8": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "A是蒯越反复锚定身份的生存策略；B是他封在壳子里的那点真心。话痨外壳下的冷血观察者。"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "title": "丹书白马/06",
+  "category": "主线剧情",
+  "characters": [
+    "我",
+    "狱卒"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "狱卒",
+      "text": "陶使君治下从未有过冤狱，若你是无辜的，怎会在这里？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "遭人陷害，暂时屈身于此。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "狱卒",
+      "text": "若是如此，使君必会明察秋毫，还你清白。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%B9%E4%B9%A6%E7%99%BD%E9%A9%AC/06",
+  "crawled_at": "2026-04-12T21:52:34.724002",
+  "raw_wikitext": "{{对话-头}}\n{{对话|狱卒|陶使君治下从未有过冤狱，若你是无辜的，怎会在这里？}}\n{{对话|我|遭人陷害，暂时屈身于此。}}\n{{对话|狱卒|若是如此，使君必会明察秋毫，还你清白。}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

@@ -1,0 +1,513 @@
+{
+  "title": "陶生/活动剧情/陶生·十二",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙权",
+    "孙策",
+    "我",
+    "荀彧",
+    "诸葛瑾"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "说起来……如今室内皆是书生，孙策将军，可否将刀兵卸下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "不能。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……殿下以为，如果找出了杀人者，理应如何处置？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "处死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "哈，说得容易！除非杀人者是我，若是其他人，定有人拼死相护。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "但殿下仁德……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "殿下有时候不可以仁德。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "让甘宁放下戒心的，是“肉”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "老宅内，还有一些肉食，但为了应对局势恶化，我们将它们收集了起来，每日发放些许。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "物资短缺，肉就成了珍贵的食物。杀人者昨夜应是将下了毒的肉送去给了甘宁，等待毒发。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "毒发后，意识到不对的甘宁便将“肉”的碎陶含入口中…….？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他不识字，这几日下来，却知道哪片碎陶的花纹代表了“肉”。柴房角落里散着不少碎陶，很容易获得。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "那，肉食是谁保管的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙权。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……我……我没有刻意藏它们，只是收在自己房间里了而已……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "而且第一夜我因为太害怕， 躲在长兄那里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "什么时辰躲过去的？夜初还是夜中？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……夜中。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "那就有可能杀完了人再折返过去啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……孙策，你说呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "不可能是仲谋，他怎么会瞒着我们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对不对，仲谋。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……对，不是我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好。你管你说。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……万一陶片是杀人者在甘宁死后塞入他口中的，用来嫁祸于我呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "除了我和孙策，谁知道肉食归你保管？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "肉食保管并不缜密，很容易就被发现在我这里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……我刚才记错了一件事。陶片不是被他含在口中，是被咽入腹中的，不存在嫁祸的可能。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……孙策，如果……如果真的是他，怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他是我弟弟。长兄如父，我代他死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……等一下！等一下！我想到一件事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "第一夜我太害怕了，所以拿着烛火走出门后立刻吹灭了烛火，假装自己走远了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "其实，只是……只是偷偷走回了门的另一端，算着时间，重新点蜡烛，装作自己绕了一圈，从另一头回来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "他根本没有绕行主屋！孙权没有完成试胆，陶人不可能给他传话！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "这不好说吧？门口也可以传话啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "但是，没有完成试胆，确实不符合陶人现身诉说愿望的规则吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "殿下，用折中之法如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……嗯，为避免误伤，先折中处置吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "折中？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "在今夜的游戏结束后，我们看着你，看一整夜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这样最能证明清白！仲谋，就这样办！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "好！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "二位，我有一言。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "今夜照旧进行聚会。然后，仲谋公子由我看管。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "殿下和孙氏交好，将军又是二公子兄长，不好秉公。由在下看管，无论结果如何，众人都没有异议。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "万一你是杀人者呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "我第一夜说的故事， 和死者的死状不符。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "如果只是杀人者想这么误导我们呢？说到底，目前为止，所谓的“规则”，都是你和广陵王在说吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "你们梦里的这些规则是真的吗？还是你们俩联手，用这堆规则框住了其他人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "是真是假，今夜就见分晓了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我还有一个提议。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "——今夜的故事里，“肉”的处置，不可以跟别人的故事一样，如何？"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·十二'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "陶生·十二"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E5%8D%81%E4%BA%8C",
+  "crawled_at": "2026-04-12T22:07:06.246803",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·十二'''=\n</center>\n\n==陶生·十二==\n{{对话-头}}\n{{旁白|【主屋】}}\n{{对话|荀彧|说起来……如今室内皆是书生，孙策将军，可否将刀兵卸下？}}\n{{对话|孙策|不能。|头像=孙策}}\n{{对话|荀彧|……殿下以为，如果找出了杀人者，理应如何处置？}}\n{{对话|我|处死。|头像=广陵王-严肃}}\n{{旁白|一声轻响，士燮碰翻了杯盏。荀彧替他将杯子摆了回去，用手巾擦去地上的酒水。}}\n{{对话|士燮|哈，说得容易！除非杀人者是我，若是其他人，定有人拼死相护。}}\n{{对话|诸葛瑾|但殿下仁德……|头像=诸葛瑾}}\n{{对话|我|殿下有时候不可以仁德。|头像=广陵王-摇头}}\n{{旁白|寂静中，荀彧叹了口气，拿起我刚才取出的事物一一那是一片碎陶。上面的花纹，来自“肉”的陶片。}}\n{{对话|我|让甘宁放下戒心的，是“肉”。|头像=广陵王-严肃}}\n{{对话|我|老宅内，还有一些肉食，但为了应对局势恶化，我们将它们收集了起来，每日发放些许。|头像=广陵王-严肃}}\n{{对话|我|物资短缺，肉就成了珍贵的食物。杀人者昨夜应是将下了毒的肉送去给了甘宁，等待毒发。|头像=广陵王-严肃}}\n{{对话|荀彧|毒发后，意识到不对的甘宁便将“肉”的碎陶含入口中…….？}}\n{{对话|我|他不识字，这几日下来，却知道哪片碎陶的花纹代表了“肉”。柴房角落里散着不少碎陶，很容易获得。|头像=广陵王-严肃}}\n{{对话|荀彧|那，肉食是谁保管的？}}\n{{对话|孙权|……|头像=孙权}}\n{{对话|我|孙权。|头像=广陵王-严肃}}\n{{对话|孙权|……我……我没有刻意藏它们，只是收在自己房间里了而已……|头像=孙权}}\n{{对话|孙权|而且第一夜我因为太害怕， 躲在长兄那里！|头像=孙权}}\n{{对话|士燮|什么时辰躲过去的？夜初还是夜中？|头像=士燮}}\n{{对话|孙权|……夜中。|头像=孙权}}\n{{对话|士燮|那就有可能杀完了人再折返过去啊。|头像=士燮}}\n{{对话|我|……孙策，你说呢？|头像=广陵王-挑眉}}\n{{对话|孙策|……|头像=孙策}}\n{{对话|孙策|不可能是仲谋，他怎么会瞒着我们。|头像=孙策}}\n{{旁白|他走到弟弟身侧，缓缓蹲下跽坐，手无声无息按刀，目光中不见任何飘荡轻快的光亮，沉静如夜江之水。}}\n{{对话|孙策|对不对，仲谋。}}\n{{对话|孙权|……对，不是我。|头像=孙权}}\n{{对话|孙策|好。你管你说。}}\n{{对话|孙权|……万一陶片是杀人者在甘宁死后塞入他口中的，用来嫁祸于我呢？|头像=孙权}}\n{{对话|我|除了我和孙策，谁知道肉食归你保管？|头像=广陵王-严肃}}\n{{对话|孙权|肉食保管并不缜密，很容易就被发现在我这里！|头像=孙权}}\n{{对话|我|……我刚才记错了一件事。陶片不是被他含在口中，是被咽入腹中的，不存在嫁祸的可能。|头像=广陵王-摇头}}\n{{对话|孙权|………………|头像=孙权}}\n{{旁白|弟弟沉默了。孙策看向我，目光里有一种无可奈何。仿佛在说……}}\n{{旁白|“别问了”。}}\n{{对话|我|……孙策，如果……如果真的是他，怎么办？|头像=广陵王-严肃}}\n{{对话|孙策|他是我弟弟。长兄如父，我代他死。}}\n{{对话|孙权|……等一下！等一下！我想到一件事！|头像=孙权}}\n{{旁白|他忽然起身，指着白日里并未点燃的烛火。}}\n{{对话|孙权|第一夜我太害怕了，所以拿着烛火走出门后立刻吹灭了烛火，假装自己走远了……}}\n{{对话|孙权|其实，只是……只是偷偷走回了门的另一端，算着时间，重新点蜡烛，装作自己绕了一圈，从另一头回来了。}}\n{{对话|孙策|他根本没有绕行主屋！孙权没有完成试胆，陶人不可能给他传话！|头像=孙策}}\n{{对话|士燮|这不好说吧？门口也可以传话啊。|头像=士燮}}\n{{对话|荀彧|但是，没有完成试胆，确实不符合陶人现身诉说愿望的规则吧？|头像=荀彧}}\n{{对话|荀彧|殿下，用折中之法如何？|头像=荀彧}}\n{{对话|我|……嗯，为避免误伤，先折中处置吧。|头像=广陵王-点头}}\n{{对话|孙权|折中？}}\n{{对话|我|在今夜的游戏结束后，我们看着你，看一整夜。|头像=广陵王-严肃}}\n{{对话|孙策|这样最能证明清白！仲谋，就这样办！|头像=孙策}}\n{{对话|孙权|好！}}\n{{对话|荀彧|二位，我有一言。|头像=荀彧}}\n{{对话|荀彧|今夜照旧进行聚会。然后，仲谋公子由我看管。|头像=荀彧}}\n{{对话|荀彧|殿下和孙氏交好，将军又是二公子兄长，不好秉公。由在下看管，无论结果如何，众人都没有异议。|头像=荀彧}}\n{{对话|士燮|万一你是杀人者呢？|头像=士燮}}\n{{对话|荀彧|我第一夜说的故事， 和死者的死状不符。|头像=荀彧}}\n{{对话|士燮|……|头像=士燮}}\n{{对话|士燮|如果只是杀人者想这么误导我们呢？说到底，目前为止，所谓的“规则”，都是你和广陵王在说吧？|头像=士燮}}\n{{对话|士燮|你们梦里的这些规则是真的吗？还是你们俩联手，用这堆规则框住了其他人？|头像=士燮}}\n{{对话|荀彧|是真是假，今夜就见分晓了。|头像=荀彧}}\n{{对话|我|我还有一个提议。|头像=广陵王-微笑}}\n{{对话|我|——今夜的故事里，“肉”的处置，不可以跟别人的故事一样，如何？|头像=广陵王-挑眉}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·十三|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

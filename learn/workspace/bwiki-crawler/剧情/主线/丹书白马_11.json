@@ -1,0 +1,29 @@
+{
+  "title": "丹书白马/11",
+  "category": "主线剧情",
+  "characters": [
+    "我",
+    "逃兵"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "留下据城死守，尚有一线生机。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "逃兵",
+      "text": "要留你留，我可不想死！",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%B9%E4%B9%A6%E7%99%BD%E9%A9%AC/11",
+  "crawled_at": "2026-04-12T21:52:42.233111",
+  "raw_wikitext": "{{对话-头}}\n{{对话|我|留下据城死守，尚有一线生机。}}\n{{对话|逃兵|要留你留，我可不想死！}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

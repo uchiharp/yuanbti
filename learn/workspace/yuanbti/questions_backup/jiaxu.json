@@ -1,0 +1,332 @@
+[
+  {
+    "id": "q_jiaxu_1",
+    "dimension": "S1",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "贾诩",
+    "source_story": "宛城之局",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "宛城",
+    "text": "「我打算在宛城诱杀曹操。你，会让他来吗？」如果你是他的对话者？",
+    "options": [
+      {
+        "label": "A",
+        "text": "全力配合他的计划一定有深意",
+        "scores": {
+          "S1": 4,
+          "S10": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先问清楚具体方案和退路",
+        "scores": {
+          "S1": 3,
+          "S8": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拒绝参与这太冒险了",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "贾诩：「拿曹操去喂狼，这就是全部的计划。」"
+  },
+  {
+    "id": "q_jiaxu_2",
+    "dimension": "S7",
+    "cross_dimension": "S10",
+    "type": "story_known",
+    "source_character": "贾诩",
+    "source_story": "船宴智斗",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「船宴的规则，本质上是争夺计簿。是不是发起人根本不重要。」面对多方博弈你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "找出规则真正逻辑利用它",
+        "scores": {
+          "S7": 4,
+          "S1": 5,
+          "S6": 3.5,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "遵守表面规则稳妥行事",
+        "scores": {
+          "S7": 2,
+          "S10": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "观察各方动向再决定策略",
+        "scores": {
+          "S7": 3,
+          "S1": 2.5,
+          "S5": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "贾诩永远后手——「还没提竿你就先撒网了。」"
+  },
+  {
+    "id": "q_jiaxu_3",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "贾诩",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「学长风寒不适，学生今日请假了，留下照顾学长。」这是贾诩表达关心的极限。如果你是贾诩想关心一个人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "找借口接近用行动代替言语",
+        "scores": {
+          "S2": 2,
+          "S5": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直接但温和地表达关心",
+        "scores": {
+          "S2": 3.5,
+          "S8": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不关心暴露感情就是暴露弱点",
+        "scores": {
+          "S2": 1,
+          "S8": 2,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "贾诩的所有情感藏在毒舌和借口后面。「请假照顾」已是极限。"
+  },
+  {
+    "id": "q_jiaxu_4",
+    "dimension": "S4",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "贾诩",
+    "source_story": "多面间谍",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "「一个猫就敢混进犬都。」贾诩以猫自嘲。他的嬉笑怒骂全是伪装。如果你是他？",
+    "options": [
+      {
+        "label": "A",
+        "text": "永远不暴露真实想法用面具保护自己",
+        "scores": {
+          "S4": 5,
+          "S6": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "对信任的人可以放下部分面具",
+        "scores": {
+          "S4": 3,
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "面具太累了偶尔想做真实的自己",
+        "scores": {
+          "S4": 2,
+          "S5": 1,
+          "S1": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "贾诩同时为三方办事无一方完全看透。面具即本体。"
+  },
+  {
+    "id": "q_jiaxu_5",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "贾诩",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「想对我一个瘸子用强的，我就掐灭灯火，大家同归于尽。」面对威胁你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "同归于尽不让对方好过",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "寻找脱身机会不轻易拼命",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "暂时屈服留得青山在",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "贾诩底线弹性为5——同归于尽也无所谓。"
+  },
+  {
+    "id": "q_jiaxu_6",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「说这种话的时候不要盯着我的荷包。」毒舌背后有时藏着笨拙的善意。你更认同哪种关心方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "毒舌式关心嘴硬心软",
+        "scores": {
+          "S8": 2,
+          "S7": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "默默做事不说的关心",
+        "scores": {
+          "S8": 3.5,
+          "S7": 2.5,
+          "S6": 2.5,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接温暖的关心",
+        "scores": {
+          "S8": 4,
+          "S2": 3.5,
+          "S5": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "贾诩是毒舌天花板。但广陵王是唯一让他露出真心的人。"
+  },
+  {
+    "id": "q_jiaxu_7",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "宛城",
+    "city_hint": null,
+    "text": "你是三方间谍同时替三个势力办事。某天三方同时下达互相矛盾的任务你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用信息差周旋让三方都觉得自己",
+        "scores": {
+          "S3": 4,
+          "S1": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "优先完成对自己最有利的那一方",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "找借口全部推掉，值得关注",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": null
+  },
+  {
+    "id": "q_jiaxu_8",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「还没提竿你就先撒网了。」，值得深思",
+        "scores": {
+          "S5": 4,
+          "S1": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「彼此终是要分道扬镳的，宛城是座不错",
+        "scores": {
+          "S5": 3,
+          "S6": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句话都来自贾诩。前者是自信与掌控，后者是冷酷与通透。"
+  }
+]

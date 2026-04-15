@@ -1,0 +1,118 @@
+[
+  {
+    "id": "q_mangchong_1",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "满宠",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "邺城",
+    "text": "满宠曾为袁遗养死士，七十余道私刑一道道捱过。后来他面对广陵王时说：「你们这些窃稻谷的人，口才真的很好。」又道：「你走到这一步了，走到了需要人命替你铺路的这一步了。」面对一个曾用你命做交易的人，你——",
+    "options": [
+      {
+        "label": "A",
+        "text": "坦诚我的目的，不遮掩也不粉饰，让他自己选",
+        "scores": {
+          "S1": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "给他一个无法拒绝的条件，但留下后手以防万一",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先摸清他真正的弱点，再决定用感情还是利益去拿捏",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "满宠的回答：「我等了很久，我想我一定要熬出去，熬到再见你的那天。」他最终选择了用自己的方式回报那份救命之恩。"
+  },
+  {
+    "id": "q_mangchong_2",
+    "dimension": "S1",
+    "cross_dimension": "S9",
+    "type": "story_anon",
+    "source_character": "满宠",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说：「诛心之术，讨董这种事，不能不讨，也不能真的让孙坚全讨了。总得立个靶子，让他成为所有人的敌人。趁着世人目光注视那边的时候，某些势力就能为所欲为了。」你如何看待这种布局？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太阴了，打仗就该堂堂正正，这种手段我不屑",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "可以理解，局势复杂时确实需要转移视线，但未必做得这么绝",
+        "scores": {
+          "S1": 2.5,
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "好手段。真正的棋手从不自己下场，让别人去撕就够了",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是满宠对袁遗讨董局势的分析——利用孙坚做靶子，暗中为其他势力争取行动空间。"
+  },
+  {
+    "id": "q_mangchong_3",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「想明白了这个，再看世事，便觉得好笑。你有多久没敢问过你自己，你想要什么。」以下哪句话更接近你处世的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "我想要的东西不多，安安稳稳活着就够了",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "想要就要说出来，但也要看值不值得争取",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "想要就去拿，不择手段也要拿到手，犹豫的人什么都得不到",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A来自满宠早期心态，B是他对广陵王的试探，C代表满宠后期的觉醒——「我稍微壮了些胆，敢再妄想些了。」"
+  }
+]

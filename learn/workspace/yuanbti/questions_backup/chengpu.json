@@ -1,0 +1,80 @@
+[
+  {
+    "id": "q_chengpu_01",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "程普",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "长沙",
+    "text": "你追随的主公在一次战斗中身负重伤，敌军追兵将至。众人主张弃主帅先逃。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "和大多数人一起撤退，保存有生力量",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "留下一小队人掩护，带主力撤退",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "背起主公杀出重围，生死与共",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自程普的密探故事——他是东吴三朝老将，对孙氏忠心耿耿。"
+  },
+  {
+    "id": "q_chengpu_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你已年迈，新上任的年轻将领不尊重你的资历，甚至在一些决策上越过你直接下令。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "干脆退居幕后，不与人争",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "找机会与年轻人沟通，化解矛盾",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以军中长辈的身份正色训诫",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "程普是军中老将，讲究尊卑有序、长幼有别的军中规矩。"
+  }
+]

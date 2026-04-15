@@ -1,0 +1,228 @@
+[
+  {
+    "id": "q_zhangyan_1",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张燕",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "黑山军经历残酷减员——五十万到二十五万再到十万。张燕作为首领带着残兵求生。面对部队锐减你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "收缩防线保存实力等时机",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "继续进攻不能示弱",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "寻求与其他势力合作",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张燕从五十万到十万的残酷减员中带着残兵求生。"
+  },
+  {
+    "id": "q_zhangyan_2",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "幽州",
+    "city_hint": null,
+    "text": "你是黑山军首领，有人提出投靠朝廷换取官位。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可以谈但条件必须有利",
+        "scores": {
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "拒绝黑山军不依附任何人",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "能换来弟兄们好日子就投",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": null
+  },
+  {
+    "id": "q_zhangyan_3",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张燕",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「一场大雪后，就只剩二十五万了。第二场雪，只剩十万。」用最平淡的语气说出最惨烈的数字。面对巨大损失你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "默默承受不在人前表露",
+        "scores": {
+          "S8": 2,
+          "S4": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "该难过就难过不必逞强",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "把悲伤化为前进的动力",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "来自戏学（张小羊），张燕的义子。用记账的方式讲完了前半生。"
+  },
+  {
+    "id": "q_zhangyan_4",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「燕子，杀了他！」从崩溃求饶到下令杀人一秒切换。你更认同哪种面对绝境的方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "崩溃后迅速恢复冷静做该做的事",
+        "scores": {
+          "S2": 3.5,
+          "S5": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "不管什么情况都保持冷静",
+        "scores": {
+          "S2": 2,
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "允许自己崩溃但事后反思",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "戏学在最脆弱的时刻叫的是「燕子」——张燕。"
+  },
+  {
+    "id": "q_zhangyan_5",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "幽州",
+    "city_hint": null,
+    "text": "你是黑山军首领，收到朝廷招安文书和袁绍合作邀请。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "两边都谈选条件最好的",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "优先考虑弟兄们的安危",
+        "scores": {
+          "S1": 3,
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "都不信任自己干",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": null
+  },
+  {
+    "id": "q_zhangyan_6",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「老爹，让我们去打三辅吧。」",
+        "scores": {
+          "S6": 3,
+          "S9": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「我只是想往上爬。」",
+        "scores": {
+          "S6": 4,
+          "S7": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A是戏学对张燕的依赖；B是他最诚实的一句话。"
+  }
+]

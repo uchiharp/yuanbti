@@ -1,0 +1,350 @@
+{
+  "title": "模板:传唤2",
+  "category": "密探传唤",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly分类密探传唤css"
+    },
+    {
+      "type": "narration",
+      "text": ".panelbodypadding0"
+    },
+    {
+      "type": "narration",
+      "text": ".yuantable1width100%;backgroundcolorrgba(255, 255, 255, 0.4); bordercollapse collapse;"
+    },
+    {
+      "type": "narration",
+      "text": ".yuantable1  tbody  trlastchild  thfirstchild"
+    },
+    {
+      "type": "narration",
+      "text": "borderbottomleftradius 10px;"
+    },
+    {
+      "type": "narration",
+      "text": ".yuantable1  tbody  trlastchild  thlastchild"
+    },
+    {
+      "type": "narration",
+      "text": "borderbottomrightradius 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle传唤span style\"position absolute;right 5px;fontsize 14px;\"▼展开全部▼/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"backgroundfff\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"display inlineflex;width100%;flexwrapwrap;paddingright30px;color633719;fontsize12px\"div style\"width300px\"30px喜欢的礼物：、@&nbsp;&nbsp;nowiki /nowiki/divdiv style\"width500px\"30px不喜欢礼物：、@&nbsp;&nbsp;nowiki /nowiki/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "table class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：引用 /td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1"
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "table class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "trth信赖值/thth语音&nbsp; &nbsp;&nbsp;&nbsp;span style\"floatright\"放大文字这是临时图片，正式图制作中/span/th/tr"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;信赖值语音/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：引用 /td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1"
+    },
+    {
+      "type": "narration",
+      "text": "trth colspan2 style\"margin10px 30px;borderradius0 0 10px 10px;\"/th/tr"
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "table class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1"
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "table class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1   !"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1   !"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1   !"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1"
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "table class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;贺词/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1"
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "table class'yuantable1'"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1   !"
+    },
+    {
+      "type": "narration",
+      "text": "后续如果出现活动2↓"
+    },
+    {
+      "type": "narration",
+      "text": "true"
+    },
+    {
+      "type": "narration",
+      "text": "：0"
+    },
+    {
+      "type": "narration",
+      "text": "trtd&nbsp;&nbsp;/td"
+    },
+    {
+      "type": "narration",
+      "text": "td ：/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "+ 1"
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"margin10px 30px;\"密探语音的上传是一项巨大工程，编辑部人力有限，会在的前提下，陆续更新。brbr如果殿下有意愿一起来建设上传，请阅读'''span style\"borderbottom1.5px 9a83b3 dashed\"上传规则、录入帮助'''/span,遇到任何问题可以在放大文字Wiki反馈催更群：945258792群、span style\"borderbottom1.5px 9a83b3 dashed\"/span内或者微博/小红书账号进行询问，会尽快给殿下们解答。/divdiv style\"position absolute; bottom10px; right10px;zindex0; width110px; height auto;margintop30px;.pngdisplaynone\"右link言事章/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "!出场语音是第12个常规语音，如果不存在（隐秘）则是第7个常规语音"
+    },
+    {
+      "type": "narration",
+      "text": "^：+：^：+："
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude分类模板"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E4%BC%A0%E5%94%A42",
+  "crawled_at": "2026-04-12T21:53:05.396608",
+  "raw_wikitext": "<includeonly>[[分类:密探传唤]]{{#css:\n.panel-body{padding:0}\n.yuantable1{width:100%;background-color:rgba(255, 255, 255, 0.4); border-collapse: collapse; }\n.yuantable1 > tbody > tr:last-child > th:first-child {\n  border-bottom-left-radius: 10px;\n}\n.yuantable1 > tbody > tr:last-child > th:last-child {\n  border-bottom-right-radius: 10px;\n}\n}}\n<div class=drop-down-wrap>\n<div class=wrap-title>\n<div class=title>{{{姓名}}}-传唤<span style=\"position: absolute;right: 5px;font-size: 14px;\">▼展开全部▼</span></div>\n<div class=\"glyphicon icon-arrow-plus\"></div>\n</div>\n<div class=wrap-content style=\"background:#fff\">\n<div style=\"display: inline-flex;width:100%;flex-wrap:wrap;padding-right:30px;color:#633719;font-size:12px\"><div style=\"width:300px\">[[文件:橙脸.png|30px]]喜欢的礼物：{{#arraymap:{{{喜欢礼物}}}|、|@|{{道具ask|@}}&nbsp;&nbsp;|<nowiki> </nowiki>}}</div><div style=\"width:500px\">[[文件:蓝脸.png|30px]]不喜欢礼物：{{#arraymap:{{{不喜欢礼物|无}}}|、|@|{{道具ask|@}}&nbsp;&nbsp;|<nowiki> </nowiki>}}</div></div>\n{{折叠面板|开始|主框=1}}\n\n{{折叠面板|标题=常规语音|选项=1|主框=1|样式=warning|展开=是}}\n<table class='yuantable1'>\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 常规语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 常规语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 常规语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}{{{ 常规语音{{#var: index }}引用| }}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}\n</table>\n{{折叠面板|内容结束}}<!--\n\n-->{{#ifeq:{{{信赖值语音1|}}}|||\n{{折叠面板|标题=信赖值|选项=2|主框=2|样式=warning}}\n<table class='yuantable1'>\n<tr><th>信赖值</th><th>语音&nbsp; &nbsp;&nbsp;&nbsp;<span style=\"float:right\">{{文字转图|信赖值奖励|120px|600px|默认文字={{颜色|#000|信赖值奖励}}|放大文字=这是临时图片，正式图制作中}}</span></th></tr>\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 信赖值语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 信赖值语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-信赖值语音{{#var:index }}}}</td>\n<td>{{#invoke:String|replace|{{{ 信赖值语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}{{{ 信赖值语音{{#var: index }}引用| }}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}\n<tr><th colspan=2 style=\"margin:10px 30px;border-radius:0 0 10px 10px;\">{{颜色|#FFFAF0|*信赖值3000解锁语音为传唤台词2}}</th></tr>\n</table>\n{{折叠面板|内容结束}}\n}}<!--\n\n-->{{#ifeq:{{{离魂语音1|}}}|||\n{{折叠面板|标题=离魂|选项=3|主框=3|样式=warning}}\n<table class='yuantable1'>\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 离魂语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 离魂语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 离魂语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}\n</table>\n{{折叠面板|内容结束}}\n}}<!--\n\n-->{{#ifeq:{{{商店语音1|}}}{{{玉振语音1|}}}|||\n{{折叠面板|标题=玉门商店|选项=4|主框=4|样式=warning|隐藏=}}\n<table class='yuantable1'>\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 商店语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 商店语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 商店语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}<!--\n-->\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 玉振语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 玉振语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 玉振语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}<!--\n-->\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 金声语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 金声语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 金声语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}<!--\n-->\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 话题语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 话题语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 话题语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}\n</table>\n{{折叠面板|内容结束}}\n}}<!--\n\n-->{{#ifeq:{{{乙巳语音1|}}}|||\n{{折叠面板|标题=乙巳|选项=5|主框=5|样式=warning}}\n<table class='yuantable1'>\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 乙巳语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 乙巳语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-贺词{{#var:index }}}}</td>\n<td>{{#invoke:String|replace|{{{ 乙巳语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}\n</table>\n{{折叠面板|内容结束}}\n}}<!--\n\n-->{{#ifeq:{{{活动语音1|}}}|||\n{{折叠面板|标题={{{活动标题}}}|选项=6|主框=6|样式=warning|隐藏=}}\n<table class='yuantable1'>\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 活动语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 活动语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 活动语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}<!--\n\n后续如果出现活动2↓\n\n{{#vardefine: index | 1 }}{{#while: | {{#if: {{{ 活动2语音{{#var: index }}| }}} | true }} | \n{{#vardefine: 语音名称 | {{#explode:{{{ 玉振语音{{#var: index }}| }}}|：|0}} }}\n<tr><td>{{#var:语音名称 }}&nbsp;&nbsp;{{mp3|{{{姓名}}}-{{#var:语音名称 }}}}</td>\n<td>{{#invoke:String|replace|{{{ 活动2语音{{#var: index }}| }}}|{{#var:语音名称}}：|}}</td></tr>\n{{#vardefine: index | {{#expr: {{#var: index }} + 1 }} }} }}\n-->\n</table>\n{{折叠面板|内容结束}}\n}}\n{{折叠面板|结束}}\n<div style=\"margin:10px 30px;\">密探语音的上传是一项巨大工程，编辑部人力有限，会在{{颜色|命盘紫|优先更新最新活动文字内容}}的前提下，陆续更新。<br><br>如果殿下有意愿一起来建设上传，请阅读'''<span style=\"border-bottom:1.5px #9a83b3 dashed\">[[密探语音上传规则|上传规则]]、[[模板:传唤|录入帮助]]'''</span>,遇到任何问题可以在{{文字转图|编辑部表情包-催更|50px|600px|默认文字={{颜色|命盘紫|编辑部}}|放大文字=Wiki反馈催更群：945258792}}群、<span style=\"border-bottom:1.5px #9a83b3 dashed\">[[Wiki讨论板|{{颜色|命盘紫|Wiki讨论板}}]]</span>内或者微博/小红书账号进行询问，会尽快给殿下们解答。</div><div style=\"position: absolute; bottom:-10px; right:-10px;z-index:0; width:110px; height: auto;margin-top:30px;{{#ifexist:文件:言事章-底-{{{姓名}}}.png||display:none}}\">[[文件:言事章-底-{{{姓名}}}.png|右|link=言事章]]</div>\n</div></div>\n<!--出场语音是第12个常规语音，如果不存在（隐秘）则是第7个常规语音-->\n{{#set:\n|出场语音={{#if:{{{常规语音12}}}|{{#rreplace:{{{常规语音12}}}|[^：]+：|}}|{{#rreplace:{{{常规语音7}}}|[^：]+：|}}}}\n}}\n</includeonly><noinclude>{{面包屑|编辑指南}}[[分类:模板]]{{模板说明}}\n</noinclude>"
+}

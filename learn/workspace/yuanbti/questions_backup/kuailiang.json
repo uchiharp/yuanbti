@@ -1,0 +1,87 @@
+[
+  {
+    "id": "q_kuailiang_1",
+    "dimension": "S10",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "蒯良",
+    "source_story": "荆州谋士",
+    "route_hint": null,
+    "city_hint": "长沙",
+    "text": "蒯良为荆州蒯氏一族的核心谋士，在刘表帐下出谋划策。面对荆州内部的派系之争——",
+    "options": [
+      {
+        "label": "A",
+        "text": "站队表态，壮大自己一方的势力",
+        "scores": {
+          "S10": 1,
+          "S1": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "居中调停，维持荆州内部的平衡",
+        "scores": {
+          "S10": 3,
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以制度和规矩约束各方，不许越界",
+        "scores": {
+          "S10": 5,
+          "S1": 2,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "蒯良选择：以礼法为纲，维系荆州秩序。"
+  },
+  {
+    "id": "q_kuailiang_2",
+    "dimension": "S1",
+    "cross_dimension": "S10",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼收到三方势力的密信，每封都附带不同的利益交换。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "谁给的利益大就跟谁合作",
+        "scores": {
+          "S1": 4,
+          "S3": 4,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "权衡利弊后选择对绣衣楼最有利的",
+        "scores": {
+          "S1": 3,
+          "S10": 3,
+          "S9": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "按规矩办事，不因利益动摇立场",
+        "scores": {
+          "S1": 2,
+          "S10": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "蒯良会以大局和规矩为重。"
+  }
+]

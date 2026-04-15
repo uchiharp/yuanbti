@@ -1,0 +1,35 @@
+{
+  "title": "南有乔木/23",
+  "category": "主线剧情",
+  "characters": [
+    "孙策",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "今日收获满满，有惊无险。下次还想不想一起游猎？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "下次？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哎？你、你不想有下次？……好吧。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8D%97%E6%9C%89%E4%B9%94%E6%9C%A8/23",
+  "crawled_at": "2026-04-12T21:57:15.761594",
+  "raw_wikitext": "{{对话-头}}\n{{旁白|树林-狩猎结束，返回寿春}}\n{{对话|孙策|今日收获满满，有惊无险。下次还想不想一起游猎？}}\n{{对话|我|下次？}}\n{{对话|孙策|哎？你、你不想有下次？……好吧。}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

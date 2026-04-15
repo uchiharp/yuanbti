@@ -1,0 +1,608 @@
+{
+  "title": "披荆斩棘的实习考核/活动剧情/武技切磋",
+  "category": "活动剧情",
+  "characters": [
+    "凌统",
+    "周群",
+    "大狼犬",
+    "张昭",
+    "张燕",
+    "张绣",
+    "我",
+    "朱然",
+    "狼犬",
+    "程普",
+    "荀攸",
+    "董白",
+    "蒯良",
+    "蒯越",
+    "虞翻",
+    "郭解",
+    "陆绩",
+    "陆逊",
+    "雀使",
+    "飞云",
+    "黄盖"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "完犊子，一喝多就五迷三道的……嗝，劳驾打听一哈，那啥谒舍咋走呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "什么？抱歉，我有耳疾，能说慢些吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "哎嘛，小年轻耳朵还不好使………我是说，睡觉的地儿是往这旮走吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=荀攸",
+      "emotion": "呃……我还是没明白，能说官话吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "我寻思我也没口音啊……不跟你磨叽了，换个人问问。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "嗝……前面那，老铁……你知道睡觉那谒舍，嗝，在哪旮么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄盖",
+      "text": "头像=黄盖",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "老铁……老铁？咚咚咚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄盖",
+      "text": "头像=黄盖",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程普",
+      "text": "头像=程普",
+      "emotion": "敲起来真的咚咚的……啊，嗝，是老黄啊……你的面罩敲起来……咚咚咚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "你做什么……吓到它们了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯良",
+      "text": "头像=蒯良",
+      "emotion": "鸟不能都关进笼子里吗？到处都是毛和鸟屎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "你不喜欢可以换一间客舍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯良",
+      "text": "头像=蒯良",
+      "emotion": "我们是来做客的，能体面一点吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "你是来做客的，我应该不能算客吧？这些客舍，以前我还打扫过呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "二位远道而来，请先于谒舍歇息。舍官正在布置住处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯良",
+      "text": "头像=蒯良",
+      "emotion": "多谢招待……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "不要装不认识啊，周礼官。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "……不明白太守所言。总之劳烦稍待，侍奉茶水点心的食官很快就来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "我们人都来了，住处还没有布置好吗？何等轻慢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯良",
+      "text": "头像=蒯良",
+      "emotion": "你在说什么——礼官见笑，礼官见笑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "现在是“无首座小组讨论”环节，讨论如何改善食堂膳食方案。所有人可以先自我介绍一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "诸位好！学生朱然，出身江东施氏。针对食堂……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "食堂的萝卜炒萝卜皮蛮好的。结束。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "啊，我觉得还是有改良余地的。譬如说我做了些走访……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "现在食堂的本钱是人均三钱但大部分本钱都集中于采买流程从前在西凉军中爹爹会采取杀一批采买人的策略。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "啊！我们的方案其实还有补充……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "建议先杀现在的采买人然后要求新采买人将人均降到一钱这样食堂就只有萝卜皮炒萝卜皮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "此时再抬上萝卜炒萝卜皮众密探对于膳食的满意度和好评度就会大大提高既降本增效又能令所有人满意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "我还有补……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "从过往情报来看对食堂的不满主要集中于用餐时限和餐品单一所以建议将食堂建议部改成拷问部。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "嗯，嗯……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "不要光记他的！我们还有发言！我要发言！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "还有然后以及通过最终补充另外……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "两边在吵什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "凌统哥，好像一边在吵萝卜应不应该炒萝卜皮，一边在吵谒舍有没有布置好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "好像少点肉的感觉……只吃萝卜会没力气吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "啊……可、可我很喜欢绣衣楼的萝卜炒萝卜皮……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=凌统",
+      "emotion": "不过谒舍没有布置好，确实会有些失礼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "谒舍为什么要布置呀？反正住过之后还是会乱的。就好像叠不叠被子一样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "无论如何萝卜炒萝卜皮天天吃真的会营养不良的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "乱世中弱肉强食优胜劣汰只有顿顿吃萝卜炒萝卜皮的人才有资格成为活下去的强者！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "可是……可是你昨天明明吃的是肉羹，如何能言行不一！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "无首座小组讨论禁止对他人的私生活进行指摘。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=朱然",
+      "emotion": "呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "谒舍应该提前一日便布置妥当吧？今天的熏香是给贵客用的吗？只是府中寻常的熏香吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯良",
+      "text": "头像=蒯良",
+      "emotion": "快住口快住口——他、他舟车劳顿有些神志不清，礼官见谅……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "谒舍的客人到了吗？听见好热闹的声音。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "没什么……只是觉得今天府里的熏香用得很清淡，正在问周礼官用的什么香。殿下认得吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "好像是府里常用的香……不常在谒舍闻到。难怪你觉得有趣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "呵呵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "我不饿……师叔，我真的不饿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张昭",
+      "text": "头像=张昭",
+      "emotion": "你都没用过早膳呢，我给你做了些鸡寒羹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "我吃了早膳了，朱然给我摘了橘子，我吃了半个。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张昭",
+      "text": "头像=张昭",
+      "emotion": "半个？那剩下半个呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "想留到下午吃……啊，师叔要不要吃？我去拿来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩",
+      "emotion": "……嗯？哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "……你在……吃我的橘子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩",
+      "emotion": "等、等等？！剩下半个我以为放在那里没人要了……我再去给你拿一个！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "真是过意不去……我让人送了一筐橘子过来，请二位收下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩",
+      "emotion": "……对不起…..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虞翻",
+      "text": "头像=虞翻",
+      "emotion": "让孩子饿到连半个橘子都不放过……孙策！果然都是孙策的错！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "其实这应该是小叔叔自己特别爱吃橘子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩",
+      "emotion": "嗯，嗯…..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张昭",
+      "text": "头像=张昭",
+      "emotion": "啊小陆公子已经开始吃起了筐里的橘子吗……喜欢的话多吃点，我帮你包一些……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆绩",
+      "text": "头像=陆绩",
+      "emotion": "真的吗？谢谢前辈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=张绣",
+      "emotion": "开饭了，都来吃吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=飞云",
+      "emotion": "汪汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "狼犬",
+      "text": "头像=野兽",
+      "emotion": "汪汪汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "大狼犬",
+      "text": "汪汪汪汪！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "……好吵，吵得头疼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "过了回廊往左……有个僻静的院子……好像到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄盖",
+      "text": "头像=黄盖",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "嗯，很安静……应该没有人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张燕",
+      "text": "头像=张燕",
+      "emotion": "不。有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=董白",
+      "emotion": "——呜啊啊啊啊？！"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"披荆斩棘的实习考核/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''武技切磋'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "武技切磋·一"
+    },
+    {
+      "type": "narration",
+      "text": "武技切磋·二"
+    },
+    {
+      "type": "narration",
+      "text": "武技切磋·三"
+    },
+    {
+      "type": "narration",
+      "text": "武技切磋·四"
+    },
+    {
+      "type": "narration",
+      "text": "武技切磋·五"
+    },
+    {
+      "type": "narration",
+      "text": "武技切磋·六"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background7B5F44;colorF2E3C6;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%AE%9E%E4%B9%A0%E8%80%83%E6%A0%B8/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E6%AD%A6%E6%8A%80%E5%88%87%E7%A3%8B",
+  "crawled_at": "2026-04-12T22:03:58.509015",
+  "raw_wikitext": "[[分类:活动剧情]]\n{{回到顶部|头}}\n{{面包屑|2025活动剧情|披荆斩棘的实习考核/活动玩法}}{{JS|Qiantao.js}}{{背景图片|{{filepath:披荆斩棘的实习考核背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">披荆斩棘的实习考核</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|披荆斩棘的实习考核/活动剧情|导入剧情}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/武技切磋|武技切磋}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/账务速算|账务速算}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/八方情报|八方情报}}\n{{板块|按钮|披荆斩棘的实习考核/活动剧情/巧匠精工|巧匠精工}}\n</center>\n</div></div>\n\n<center>\n='''武技切磋'''=\n</center>\n==武技切磋·一==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|程普|完犊子，一喝多就五迷三道的……嗝，劳驾打听一哈，那啥谒舍咋走呢？|头像=程普}}\n{{对话|荀攸|什么？抱歉，我有耳疾，能说慢些吗？|头像=荀攸}}\n{{对话|程普|哎嘛，小年轻耳朵还不好使………我是说，睡觉的地儿是往这旮走吗？|头像=程普}}\n{{对话|荀攸|呃……我还是没明白，能说官话吗？|头像=荀攸}}\n{{对话|程普|我寻思我也没口音啊……不跟你磨叽了，换个人问问。|头像=程普}}\n{{旁白|<hr>}}\n{{对话|程普|嗝……前面那，老铁……你知道睡觉那谒舍，嗝，在哪旮么……|头像=程普}}\n{{对话|黄盖|……|头像=黄盖}}\n{{对话|程普|老铁……老铁？咚咚咚……|头像=程普}}\n{{对话|黄盖|……|头像=黄盖}}\n{{对话|程普|敲起来真的咚咚的……啊，嗝，是老黄啊……你的面罩敲起来……咚咚咚……|头像=程普}}\n{{对话-尾}}\n\n==武技切磋·二==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|蒯越|你做什么……吓到它们了。|头像=蒯越}}\n{{对话|蒯良|鸟不能都关进笼子里吗？到处都是毛和鸟屎。|头像=蒯良}}\n{{对话|蒯越|你不喜欢可以换一间客舍。|头像=蒯越}}\n{{对话|蒯良|我们是来做客的，能体面一点吗？|头像=蒯良}}\n{{对话|蒯越|你是来做客的，我应该不能算客吧？这些客舍，以前我还打扫过呢。|头像=蒯越}}\n{{旁白}}\n{{对话|周群|二位远道而来，请先于谒舍歇息。舍官正在布置住处。|头像=周群}}\n{{对话|蒯良|多谢招待……|头像=蒯良}}\n{{对话|蒯越|不要装不认识啊，周礼官。|头像=蒯越}}\n{{对话|周群|……不明白太守所言。总之劳烦稍待，侍奉茶水点心的食官很快就来。|头像=周群}}\n{{对话|蒯越|我们人都来了，住处还没有布置好吗？何等轻慢。|头像=蒯越}}\n{{对话|蒯良|你在说什么——礼官见笑，礼官见笑……|头像=蒯良}}\n{{对话-尾}}\n\n==武技切磋·三==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|雀使|现在是“无首座小组讨论”环节，讨论如何改善食堂膳食方案。所有人可以先自我介绍一下。|头像=雀使}}\n{{对话|朱然|诸位好！学生朱然，出身江东施氏。针对食堂……|头像=朱然}}\n{{对话|虞翻|食堂的萝卜炒萝卜皮蛮好的。结束。|头像=虞翻}}\n{{对话|朱然|啊，我觉得还是有改良余地的。譬如说我做了些走访……|头像=朱然}}\n{{对话|董白|现在食堂的本钱是人均三钱但大部分本钱都集中于采买流程从前在西凉军中爹爹会采取杀一批采买人的策略。|头像=董白}}\n{{对话|朱然|啊！我们的方案其实还有补充……|头像=朱然}}\n{{对话|董白|建议先杀现在的采买人然后要求新采买人将人均降到一钱这样食堂就只有萝卜皮炒萝卜皮。|头像=董白}}\n{{对话|董白|此时再抬上萝卜炒萝卜皮众密探对于膳食的满意度和好评度就会大大提高既降本增效又能令所有人满意。|头像=董白}}\n{{旁白|<hr>}}\n{{对话|朱然|我还有补……|头像=朱然}}\n{{对话|董白|从过往情报来看对食堂的不满主要集中于用餐时限和餐品单一所以建议将食堂建议部改成拷问部。|头像=董白}}\n{{对话|雀使|嗯，嗯……|头像=雀使}}\n{{对话|朱然|不要光记他的！我们还有发言！我要发言！|头像=朱然}}\n{{对话|董白|还有然后以及通过最终补充另外……|头像=董白}}\n{{对话-尾}}\n\n==武技切磋·四==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|凌统|两边在吵什么……|头像=凌统}}\n{{对话|虞翻|凌统哥，好像一边在吵萝卜应不应该炒萝卜皮，一边在吵谒舍有没有布置好。|头像=虞翻}}\n{{对话|凌统|好像少点肉的感觉……只吃萝卜会没力气吧。|头像=凌统}}\n{{对话|虞翻|啊……可、可我很喜欢绣衣楼的萝卜炒萝卜皮……|头像=虞翻}}\n{{对话|凌统|不过谒舍没有布置好，确实会有些失礼。|头像=凌统}}\n{{对话|虞翻|谒舍为什么要布置呀？反正住过之后还是会乱的。就好像叠不叠被子一样……|头像=虞翻}}\n{{旁白|<hr>}}\n{{对话|朱然|无论如何萝卜炒萝卜皮天天吃真的会营养不良的！|头像=朱然}}\n{{对话|董白|乱世中弱肉强食优胜劣汰只有顿顿吃萝卜炒萝卜皮的人才有资格成为活下去的强者！|头像=董白}}\n{{对话|朱然|可是……可是你昨天明明吃的是肉羹，如何能言行不一！|头像=朱然}}\n{{对话|雀使|无首座小组讨论禁止对他人的私生活进行指摘。|头像=雀使}}\n{{对话|朱然|呃……|头像=朱然}}\n{{对话|蒯越|谒舍应该提前一日便布置妥当吧？今天的熏香是给贵客用的吗？只是府中寻常的熏香吧？|头像=蒯越}}\n{{对话|蒯良|快住口快住口——他、他舟车劳顿有些神志不清，礼官见谅……|头像=蒯良}}\n{{对话|我|谒舍的客人到了吗？听见好热闹的声音。|头像=广陵王-微笑}}\n{{对话|蒯越|没什么……只是觉得今天府里的熏香用得很清淡，正在问周礼官用的什么香。殿下认得吗？|头像=蒯越}}\n{{对话|我|好像是府里常用的香……不常在谒舍闻到。难怪你觉得有趣。|头像=广陵王-微笑}}\n{{对话|周群|呵呵。|头像=周群}}\n{{对话-尾}}\n\n\n==武技切磋·五==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|虞翻|我不饿……师叔，我真的不饿……|头像=虞翻}}\n{{对话|张昭|你都没用过早膳呢，我给你做了些鸡寒羹。|头像=张昭}}\n{{对话|虞翻|我吃了早膳了，朱然给我摘了橘子，我吃了半个。|头像=虞翻}}\n{{对话|张昭|半个？那剩下半个呢？|头像=张昭}}\n{{对话|虞翻|想留到下午吃……啊，师叔要不要吃？我去拿来！|头像=虞翻}}\n{{对话|陆绩|……嗯？哎？|头像=陆绩}}\n{{对话|虞翻|……你在……吃我的橘子……|头像=虞翻}}\n{{对话|陆绩|等、等等？！剩下半个我以为放在那里没人要了……我再去给你拿一个！|头像=陆绩}}\n{{旁白|<hr>}}\n{{对话|陆逊|真是过意不去……我让人送了一筐橘子过来，请二位收下。|头像=陆逊}}\n{{对话|陆绩|……对不起…...|头像=陆绩}}\n{{对话|虞翻|让孩子饿到连半个橘子都不放过……孙策！果然都是孙策的错！|头像=虞翻}}\n{{对话|陆逊|其实这应该是小叔叔自己特别爱吃橘子……|头像=陆逊}}\n{{对话|陆绩|嗯，嗯…...|头像=陆绩}}\n{{对话|张昭|啊小陆公子已经开始吃起了筐里的橘子吗……喜欢的话多吃点，我帮你包一些……|头像=张昭}}\n{{对话|陆绩|真的吗？谢谢前辈！|头像=陆绩}}\n{{对话-尾}}\n\n==武技切磋·六==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|张绣|开饭了，都来吃吧。|头像=张绣}}\n{{对话|飞云|汪汪！|头像=飞云}}\n{{对话|狼犬|汪汪汪！|头像=野兽}}\n{{对话|大狼犬|汪汪汪汪！}}\n{{对话|董白|……好吵，吵得头疼。|头像=董白}}\n{{旁白|<hr>}}\n{{对话|董白|过了回廊往左……有个僻静的院子……好像到了。|头像=董白}}\n{{对话|黄盖|……|头像=黄盖}}\n{{对话|郭解|……|头像=郭解}}\n{{对话|张燕|……|头像=张燕}}\n{{对话|董白|嗯，很安静……应该没有人。|头像=董白}}\n{{对话|张燕|不。有。|头像=张燕}}\n{{对话|董白|——呜啊啊啊啊？！|头像=董白}}\n{{对话-尾}}\n\n<center>{{板块|按钮|披荆斩棘的实习考核/活动剧情/账务速算|下一页}}</center>\n\n{{回到顶部|尾}}\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#7B5F44;color:#F2E3C6;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}"
+}

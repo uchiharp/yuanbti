@@ -1,0 +1,445 @@
+{
+  "title": "东海海水浴场/活动剧情/陆逊",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "陆逊"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "第一步，浸入水中；第二步，不要没过胸口......啊，我在温习泡浴手册。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "有时会想起阿绩......但一想到他在殿下长大的地方生活，又会很安心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "海面上没有灯火，在下有些......啊，多谢殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "在下认罚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "尊前饮酒，唯恐失仪，"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "莫名松了口气......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "按规则当殿下罚酒，但是按律法......啊，殿下已经喝了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "我该做什么......我为殿下诵赋祝酒吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "与江东众人相处如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "算是顺利……反正不管我是怎样的人，不管新来的同僚是怎样的人，最终都会打成一片。各种意义上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "/"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最讨厌的一句话？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "“规矩是死的人是活的”。呃……只是复述，头就痛起来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "下回外勤，可以让我和孔先生、张长史一队吗，说话会省事许多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "有没有法外容情过？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "……有过，人心总是有些偏的。但不能告诉殿下是为了什么人、为了什么事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "殿下怎可这样猜名字！在下、在下不擅遮掩，会露出破绽的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "身在江东的烦恼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "没有旧例，要便宜行事的事情太多了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=浴场-陆逊-Q版",
+      "emotion": "士族要安抚，宗贼要招揽，还有山匪、盐、矿，每一项都没有定例！焦虑起来了……"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头陆逊brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''陆逊'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"初见对话&私汤对话/span    '''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"私汤对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 浴场小物 !! 对话内容 !! 性格标签 !! 浴场小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px解暑丸药解暑丸药"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"多谢殿下，服完药后好多了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"此巾下赐，乃殿下言传身教清廉尚质之风，在下亦有耳闻。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px螺号螺号"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"小时候，庐江的水边偶尔也会听到螺号声。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px浮板浮板"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"啊，很怕吕蒙突然抓着这个从水底钻出来。/span"
+    },
+    {
+      "type": "narration",
+      "text": "条件反射"
+    },
+    {
+      "type": "narration",
+      "text": "30px沙滩藤球沙滩藤球"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"呼......如果在江东，最后一定会变成互殴....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px防晒膏防晒膏"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"涂抹此物可以不变黑？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px捞网捞网"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"在下需查阅本地法条，核实这个季节是否允许捕捞。/span"
+    },
+    {
+      "type": "narration",
+      "text": "严谨"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰饮子冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好吃，可以给仲谋公子带一份吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px羊皮筏羊皮筏"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"泡累了就上来歇一会吧，时辰还很多。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px鲜瓜果盘鲜瓜果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"书上说瓜果不可与海鲜同食，殿下也要当心。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px竹水枪竹水枪"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不知为何，感觉不能让仲谋公子和尚香女公子看到....../span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px海鲜拼盘海鲜拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"燎炙一下应当会更美味吧？/span"
+    },
+    {
+      "type": "narration",
+      "text": "夷陵烧烤"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"谢殿下赐饮，祝殿下国运昌隆。/span"
+    },
+    {
+      "type": "narration",
+      "text": "知礼"
+    },
+    {
+      "type": "narration",
+      "text": "30px堆沙套组堆沙套组"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"江东的孩子们很喜欢这个，能在江边玩一天。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"多谢殿下。按照流程，应该如何回礼呢……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px遮阳帽遮阳帽"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我帮殿下也拿一顶。/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"和江东众人相处如何？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao最讨厌的一句话？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao有没有法外容情过？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao身在江东的烦恼？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%9C%E6%B5%B7%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%9C%BA/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%86%E9%80%8A",
+  "crawled_at": "2026-04-12T21:59:04.227372",
+  "raw_wikitext": "{{面包屑|活动剧情|东海海水浴场/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:东海海水浴场背景.png}}}}\n<center>\n{{板块|按钮|东海海水浴场/活动剧情}}<br>\n{{板块|按钮|东海海水浴场/活动剧情/甘缇|甘缇}}\n{{板块|按钮|东海海水浴场/活动剧情/伍丹|伍丹}}\n{{板块|按钮|东海海水浴场/活动剧情/李脱|李脱}}\n{{板块|按钮|东海海水浴场/活动剧情/李真|李真}}\n{{板块|按钮|东海海水浴场/活动剧情/颜良|颜良}}\n{{板块|按钮|东海海水浴场/活动剧情/文丑|文丑}}\n{{板块|按钮|东海海水浴场/活动剧情/张辽|张辽}}<br>\n{{板块|按钮|东海海水浴场/活动剧情/周瑜|周瑜}}\n{{板块|按钮|东海海水浴场/活动剧情/陆逊|陆逊}}\n{{板块|按钮|东海海水浴场/活动剧情/孙权|孙权}}\n{{板块|按钮|东海海水浴场/活动剧情/张修|张修}}\n{{板块|按钮|东海海水浴场/活动剧情/荀彧|荀彧}}\n{{板块|按钮|东海海水浴场/活动剧情/郭嘉|郭嘉}}\n{{板块|按钮|东海海水浴场/活动剧情/贾诩|贾诩}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-陆逊.png|100px|团建密探小头-陆逊]]<br><br>\n'''陆逊'''\n</center>\n='''<span style=\"color:#082d3d\">初见对话&私汤对话</span>    '''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|陆逊|太阳晒在身上暧洋洋的。|头像=浴场-陆逊-Q版|语音=陆逊-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">私汤对话</p>\n|\n{{对话-头}}\n{{对话语音|陆逊|与殿下独处，请容在下先正衣。唔，好像没什么好正的……啊啊失礼！|头像=浴场-陆逊-Q版|语音=陆逊-私汤对话}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 浴场小物 !! 对话内容 !! 性格标签 !! 浴场小物 !! 对话内容 !! 性格标签\n|-\n| [[file:解暑丸药.png|30px|解暑丸药]][[解暑丸药|解暑丸药]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=解暑丸药|对解暑丸药的喜好=|语音=|性格标签=/|语音内容=多谢殿下，服完药后好多了......}}</nowiki>\">多谢殿下，服完药后好多了......</span>\n|| /\n| [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=素巾|对素巾的喜好=|语音=|性格标签=/|语音内容=此巾下赐，乃殿下言传身教清廉尚质之风，在下亦有耳闻。}}</nowiki>\">此巾下赐，乃殿下言传身教清廉尚质之风，在下亦有耳闻。</span>\n|| /\n|-\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:螺号.png|30px|螺号]][[螺号|螺号]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=螺号|对螺号的喜好=喜欢|语音=|性格标签=/|语音内容=小时候，庐江的水边偶尔也会听到螺号声。}}</nowiki>\">小时候，庐江的水边偶尔也会听到螺号声。</span>\n|| /\n| [[file:浮板.png|30px|浮板]][[浮板|浮板]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=浮板|对浮板的喜好=|语音=|性格标签=条件反射|语音内容=啊，很怕吕蒙突然抓着这个从水底钻出来。}}</nowiki>\">啊，很怕吕蒙突然抓着这个从水底钻出来。</span>\n|| 条件反射\n|-\n| [[file:沙滩藤球.png|30px|沙滩藤球]][[沙滩藤球|沙滩藤球]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=沙滩藤球|对沙滩藤球的喜好=|语音=|性格标签=/|语音内容=呼......如果在江东，最后一定会变成互殴......}}</nowiki>\">呼......如果在江东，最后一定会变成互殴......</span>\n|| /\n| [[file:防晒膏.png|30px|防晒膏]][[防晒膏|防晒膏]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=防晒膏|对防晒膏的喜好=|语音=|性格标签=/|语音内容=涂抹此物可以不变黑？}}</nowiki>\">涂抹此物可以不变黑？</span>\n|| /\n|-\n| [[file:捞网.png|30px|捞网]][[捞网|捞网]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=捞网|对捞网的喜好=|语音=|性格标签=严谨|语音内容=在下需查阅本地法条，核实这个季节是否允许捕捞。}}</nowiki>\">在下需查阅本地法条，核实这个季节是否允许捕捞。</span>\n|| 严谨\n| [[file:冰饮子.png|30px|冰饮子]][[冰饮子|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=冰饮子|对冰饮子的喜好=|语音=|性格标签=/|语音内容=好吃，可以给仲谋公子带一份吗？}}</nowiki>\">好吃，可以给仲谋公子带一份吗？</span>\n|| /\n|-\n| [[file:羊皮筏.png|30px|羊皮筏]][[羊皮筏|羊皮筏]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=羊皮筏|对羊皮筏的喜好=|语音=|性格标签=/|语音内容=泡累了就上来歇一会吧，时辰还很多。}}</nowiki>\">泡累了就上来歇一会吧，时辰还很多。</span>\n|| /\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:鲜瓜果盘.png|30px|鲜瓜果盘]][[鲜瓜果盘|鲜瓜果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=鲜瓜果盘|对鲜瓜果盘的喜好=讨厌|语音=|性格标签=/|语音内容=书上说瓜果不可与海鲜同食，殿下也要当心。}}</nowiki>\">书上说瓜果不可与海鲜同食，殿下也要当心。</span>\n|| /\n|-\n| [[file:竹水枪.png|30px|竹水枪]][[竹水枪|竹水枪]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=竹水枪|对竹水枪的喜好=|语音=|性格标签=/|语音内容=不知为何，感觉不能让仲谋公子和尚香女公子看到......}}</nowiki>\">不知为何，感觉不能让仲谋公子和尚香女公子看到......</span>\n|| /\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:海鲜拼盘.png|30px|海鲜拼盘]][[海鲜拼盘|海鲜拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=海鲜拼盘|对海鲜拼盘的喜好=喜欢|语音=|性格标签=夷陵烧烤|语音内容=燎炙一下应当会更美味吧？}}</nowiki>\">燎炙一下应当会更美味吧？</span>\n|| 夷陵烧烤\n|-\n| [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=果子露|对果子露的喜好=|语音=|性格标签=知礼|语音内容=谢殿下赐饮，祝殿下国运昌隆。}}</nowiki>\">谢殿下赐饮，祝殿下国运昌隆。</span>\n|| 知礼\n| [[file:堆沙套组.png|30px|堆沙套组]][[堆沙套组|堆沙套组]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=堆沙套组|对堆沙套组的喜好=|语音=|性格标签=/|语音内容=江东的孩子们很喜欢这个，能在江边玩一天。}}</nowiki>\">江东的孩子们很喜欢这个，能在江边玩一天。</span>\n|| /\n|-\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=多谢殿下。按照流程，应该如何回礼呢……}}</nowiki>\">多谢殿下。按照流程，应该如何回礼呢……</span>\n|| /\n| [[file:遮阳帽.png|30px|遮阳帽]][[遮阳帽|遮阳帽]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=陆逊|喜好物品=遮阳帽|对遮阳帽的喜好=|语音=|性格标签=/|语音内容=我帮殿下也拿一顶。}}</nowiki>\">我帮殿下也拿一顶。</span>\n|| /\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|陆逊|第一步，浸入水中；第二步，不要没过胸口......啊，我在温习泡浴手册。|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|陆逊|有时会想起阿绩......但一想到他在殿下长大的地方生活，又会很安心。|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|陆逊|海面上没有灯火，在下有些......啊，多谢殿下。|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|陆逊|在下认罚。|头像=浴场-陆逊-Q版}}\n{{旁白|陆逊喝下一杯果子露}}\n{{对话|陆逊|尊前饮酒，唯恐失仪，|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|陆逊|莫名松了口气......|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|陆逊|按规则当殿下罚酒，但是按律法......啊，殿下已经喝了？|头像=浴场-陆逊-Q版}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|陆逊|我该做什么......我为殿下诵赋祝酒吧？|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">和江东众人相处如何？</div>\n{{对话-头}}\n{{对话|我| 与江东众人相处如何？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|陆逊| 算是顺利……反正不管我是怎样的人，不管新来的同僚是怎样的人，最终都会打成一片。各种意义上。|头像=浴场-陆逊-Q版}}\n{{对话|陆逊|/|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>最讨厌的一句话？</div>\n{{对话-头}}\n{{对话|我|最讨厌的一句话？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|陆逊|“规矩是死的人是活的”。呃……只是复述，头就痛起来了……|头像=浴场-陆逊-Q版}}\n{{对话|陆逊|下回外勤，可以让我和孔先生、张长史一队吗，说话会省事许多。|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>有没有法外容情过？</div>\n{{对话-头}}\n{{对话|我|有没有法外容情过？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|陆逊|……有过，人心总是有些偏的。但不能告诉殿下是为了什么人、为了什么事。|头像=浴场-陆逊-Q版}}\n{{对话|陆逊|殿下怎可这样猜名字！在下、在下不擅遮掩，会露出破绽的！|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>身在江东的烦恼？</div>\n{{对话-头}}\n{{对话|我|身在江东的烦恼？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|陆逊|没有旧例，要便宜行事的事情太多了。|头像=浴场-陆逊-Q版}}\n{{对话|陆逊|士族要安抚，宗贼要招揽，还有山匪、盐、矿，每一项都没有定例！焦虑起来了……|头像=浴场-陆逊-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|东海海水浴场/活动剧情/孙权|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

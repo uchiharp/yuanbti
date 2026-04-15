@@ -1,0 +1,514 @@
+{
+  "title": "斧蝶梦/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "侍卫",
+    "侍女",
+    "劫道山贼",
+    "女孩",
+    "山贼",
+    "府库小吏",
+    "我",
+    "水贼",
+    "百姓",
+    "盐井力夫",
+    "祭坛祭司",
+    "船老大",
+    "虔信人",
+    "谒舍侍从",
+    "铁祖信徒"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "劫道山贼",
+      "text": "头像=山贼甲",
+      "emotion": "给老子下车！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "劫财？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "劫道山贼",
+      "text": "头像=山贼甲",
+      "emotion": "谁稀罕你那两个破钱？老子和兄弟们就是喜欢砍你们这些大人物的脑袋！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "船老大",
+      "text": "头像=摊贩",
+      "emotion": "前面的水道我走不了，你换个船家吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "为何走不了，其他的渡船不是都过去了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "船老大",
+      "text": "头像=摊贩",
+      "emotion": "前面是水寨的地盘……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若是有人来阻拦，我们会解决."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府库小吏",
+      "text": "头像=内监",
+      "emotion": "府库重地，闲杂人等不得擅入。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这是赵使君的手书。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府库小吏",
+      "text": "头像=内监",
+      "emotion": "什么手书，我说它是假的，它就真不了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府库小吏",
+      "text": "头像=内监",
+      "emotion": "来人呐，把这个伪造文书的小贼就地正法！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "谒舍侍从",
+      "text": "头像=少年",
+      "emotion": "后院尚未修缮，暂不开放，请回吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我明明看见有人进去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "谒舍侍从",
+      "text": "头像=少年",
+      "emotion": "殿下定然是看错了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那窗内的火光，该如何解释呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "谒舍侍从",
+      "text": "头像=少年",
+      "emotion": "唉，我也不想生事，实在是殿下纠缠不休啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁祖信徒",
+      "text": "头像=信徒",
+      "emotion": "铁祖血融红炬蜡，死人入棺烛人出！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盐井力夫",
+      "text": "头像=强盗",
+      "emotion": "再担两桶红蜡灌进去！这口井深得很……你是谁？我没见过你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你们在做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盐井力夫",
+      "text": "头像=强盗",
+      "emotion": "不能让这人走漏消息！会被士族知道的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祭坛祭司",
+      "text": "头像=狂热信徒",
+      "emotion": "将附近的人都赶到祭坛上！这个地方的需要用烈火和活祭品才能新生！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=摊贩",
+      "emotion": "等等！我们只是来围观祭祀的！等一下！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "得尽快阻止他们点火！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虔信人",
+      "text": "头像=黑衣人",
+      "emotion": "乐土，乐土，适彼乐土……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前面是断崖！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虔信人",
+      "text": "头像=黑衣人",
+      "emotion": "那分明是极乐之土……你为什么要阻拦我们……为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "虔信人",
+      "text": "头像=黑衣人",
+      "emotion": "……杀了阻拦者……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "劫道山贼",
+      "text": "头像=山贼甲",
+      "emotion": "嗯？……哦！你是老七的妹子吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "……啊，你认识我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "劫道山贼",
+      "text": "头像=山贼甲",
+      "emotion": "见倒是没见过。不过老七说他妹妹今天来寨里看他。过去吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水贼",
+      "text": "头像=山贼乙",
+      "emotion": "拦住那条船！……哎，这好像是七当家的妹妹？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼",
+      "text": "头像=山贼甲",
+      "emotion": "七当家是不是说过，他妹妹今天带家书上山来看他？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水贼",
+      "text": "头像=山贼乙",
+      "emotion": "打开寨门！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "你是新来的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "嗯……今日是要去府库做事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "对，跟我们进去就行，小心不要碰坏东西，里面可都是值钱的宝贝。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "谒舍侍从",
+      "text": "头像=少年",
+      "emotion": "把四面都守住！刚才有人过去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "……似乎在追查别的闯入者，没有注意到我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁祖信徒",
+      "text": "头像=信徒",
+      "emotion": "铁祖血融红炬蜡，死人入棺烛人出！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盐井力夫",
+      "text": "头像=强盗",
+      "emotion": "再担两桶红蜡灌进去！这口井深得很……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女孩",
+      "text": "头像=宫女",
+      "emotion": "爹爹，这边有个陌生的大姐姐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盐井力夫",
+      "text": "头像=强盗",
+      "emotion": "爹爹现在没空陪你玩……去远点的地方，别跌进井里了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祭坛祭司",
+      "text": "头像=狂热信徒",
+      "emotion": "啊——啊啊啊——啊——"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"斧·蝶·梦/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background7B5F44;colorF2E3C6;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''宗亲着装'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "涪陵·教主像·东野"
+    },
+    {
+      "type": "narration",
+      "text": "涪陵·教主像·西郊"
+    },
+    {
+      "type": "narration",
+      "text": "绵竹·教主像·北滨"
+    },
+    {
+      "type": "narration",
+      "text": "绵竹·教主像·南岸"
+    },
+    {
+      "type": "narration",
+      "text": "成都·教主像·大城"
+    },
+    {
+      "type": "narration",
+      "text": "成都·教主像·少城"
+    },
+    {
+      "type": "narration",
+      "text": "犍为·教主像·阳坡"
+    },
+    {
+      "type": "narration",
+      "text": "犍为·教主像·阴壑"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''绣罗着装'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "涪陵·教主像·东野"
+    },
+    {
+      "type": "narration",
+      "text": "涪陵·教主像·西郊"
+    },
+    {
+      "type": "narration",
+      "text": "绵竹·教主像·北滨"
+    },
+    {
+      "type": "narration",
+      "text": "绵竹·教主像·南岸"
+    },
+    {
+      "type": "narration",
+      "text": "成都·教主像·大城"
+    },
+    {
+      "type": "narration",
+      "text": "成都·教主像·少城"
+    },
+    {
+      "type": "narration",
+      "text": "犍为·教主像·阳坡"
+    },
+    {
+      "type": "narration",
+      "text": "犍为·教主像·阳坡"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%96%A7%E8%9D%B6%E6%A2%A6/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T21:59:28.545473",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|斧蝶梦/活动玩法}}{{JS|Qiantao.js}}{{背景图片|{{filepath:斧蝶梦背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">斧·蝶·梦</div>\n<div class=\"map-dh-right\">\n{{板块|按钮|斧蝶梦/活动剧情|关卡导入}}\n{{板块|按钮|斧蝶梦/活动剧情/其他|序/其他}}\n{{板块|按钮|斧蝶梦/活动剧情/涪陵|涪陵}}\n{{板块|按钮|斧蝶梦/活动剧情/绵竹|绵竹}}\n{{板块|按钮|斧蝶梦/活动剧情/成都|成都}}\n{{板块|按钮|斧蝶梦/活动剧情/犍为|犍为}}\n{{板块|按钮|斧蝶梦/活动剧情/酆都|酆都}}\n</div></div>\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#7B5F44;color:#F2E3C6;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n<center>\n='''宗亲着装'''=\n</center>\n==涪陵·教主像·东野==\n{{对话-头}}\n{{对话|劫道山贼|给老子下车！|头像=山贼甲}}\n{{对话|我|劫财？|头像=广陵王-微笑}}\n{{对话|劫道山贼|谁稀罕你那两个破钱？老子和兄弟们就是喜欢砍你们这些大人物的脑袋！|头像=山贼甲}}\n{{对话-尾}}\n\n==涪陵·教主像·西郊==\n{{对话-头}}\n{{对话|船老大|前面的水道我走不了，你换个船家吧。|头像=摊贩}}\n{{对话|我|为何走不了，其他的渡船不是都过去了吗？|头像=广陵王-微笑}}\n{{对话|船老大|前面是水寨的地盘……|头像=摊贩}}\n{{对话|我|若是有人来阻拦，我们会解决.|头像=广陵王-微笑}}\n{{对话-尾}}\n\n\n==绵竹·教主像·北滨==\n{{对话-头}}\n{{对话|府库小吏|府库重地，闲杂人等不得擅入。|头像=内监}}\n{{对话|我|这是赵使君的手书。|头像=广陵王-微笑}}\n{{对话|府库小吏|什么手书，我说它是假的，它就真不了。|头像=内监}}\n{{对话|府库小吏|来人呐，把这个伪造文书的小贼就地正法！|头像=内监}}\n{{对话-尾}}\n\n==绵竹·教主像·南岸==\n{{对话-头}}\n{{对话|谒舍侍从|后院尚未修缮，暂不开放，请回吧。|头像=少年}}\n{{对话|我|我明明看见有人进去了。|头像=广陵王-微笑}}\n{{对话|谒舍侍从|殿下定然是看错了。|头像=少年}}\n{{对话|我|那窗内的火光，该如何解释呢？|头像=广陵王-微笑}}\n{{对话|谒舍侍从|唉，我也不想生事，实在是殿下纠缠不休啊……|头像=少年}}\n{{对话-尾}}\n\n\n==成都·教主像·大城==\n{{对话-头}}\n{{对话|铁祖信徒|铁祖血融红炬蜡，死人入棺烛人出！|头像=信徒}}\n{{对话-尾}}\n\n==成都·教主像·少城==\n{{对话-头}}\n{{对话|盐井力夫|再担两桶红蜡灌进去！这口井深得很……你是谁？我没见过你……|头像=强盗}}\n{{对话|我|你们在做什么？|头像=广陵王-微笑}}\n{{对话|盐井力夫|不能让这人走漏消息！会被士族知道的！|头像=强盗}}\n{{对话-尾}}\n\n\n==犍为·教主像·阳坡==\n{{对话-头}}\n{{对话|祭坛祭司|将附近的人都赶到祭坛上！这个地方的需要用烈火和活祭品才能新生！|头像=狂热信徒}}\n{{对话|百姓|等等！我们只是来围观祭祀的！等一下！！！|头像=摊贩}}\n{{对话|我|得尽快阻止他们点火！|头像=广陵王-微笑}}\n{{对话-尾}}\n\n==犍为·教主像·阴壑==\n{{对话-头}}\n{{对话|虔信人|乐土，乐土，适彼乐土……|头像=黑衣人}}\n{{对话|我|前面是断崖！|头像=广陵王-微笑}}\n{{对话|虔信人|那分明是极乐之土……你为什么要阻拦我们……为什么……|头像=黑衣人}}\n{{对话|虔信人|……杀了阻拦者……|头像=黑衣人}}\n{{对话-尾}}\n<center>\n='''绣罗着装'''=\n</center>\n==涪陵·教主像·东野==\n{{对话-头}}\n{{对话|劫道山贼|嗯？……哦！你是老七的妹子吧？|头像=山贼甲}}\n{{对话|我|……啊，你认识我？|头像=内廷绣罗-微笑}}\n{{对话|劫道山贼|见倒是没见过。不过老七说他妹妹今天来寨里看他。过去吧！|头像=山贼甲}}\n{{对话-尾}}\n\n==涪陵·教主像·西郊==\n{{对话-头}}\n{{对话|水贼|拦住那条船！……哎，这好像是七当家的妹妹？|头像=山贼乙}}\n{{对话|山贼|七当家是不是说过，他妹妹今天带家书上山来看他？|头像=山贼甲}}\n{{对话|水贼|打开寨门！|头像=山贼乙}}\n{{对话-尾}}\n\n\n==绵竹·教主像·北滨==\n{{对话-头}}\n{{对话|侍女|你是新来的吗？|头像=侍女}}\n{{对话|我|嗯……今日是要去府库做事吗？|头像=内廷绣罗-微笑}}\n{{对话|侍女|对，跟我们进去就行，小心不要碰坏东西，里面可都是值钱的宝贝。|头像=侍女}}\n{{对话-尾}}\n\n==绵竹·教主像·南岸==\n{{对话-头}}\n{{对话|谒舍侍从|把四面都守住！刚才有人过去了！|头像=少年}}\n{{对话|侍卫|是！|头像=士兵}}\n{{对话|我|……似乎在追查别的闯入者，没有注意到我……|头像=内廷绣罗-微笑}}\n{{对话-尾}}\n\n\n==成都·教主像·大城==\n{{对话-头}}\n{{对话|铁祖信徒|铁祖血融红炬蜡，死人入棺烛人出！|头像=信徒}}\n{{对话-尾}}\n\n==成都·教主像·少城==\n{{对话-头}}\n{{对话|盐井力夫|再担两桶红蜡灌进去！这口井深得很……|头像=强盗}}\n{{对话|女孩|爹爹，这边有个陌生的大姐姐……|头像=宫女}}\n{{对话|盐井力夫|爹爹现在没空陪你玩……去远点的地方，别跌进井里了。|头像=强盗}}\n{{对话-尾}}\n\n\n==犍为·教主像·阳坡==\n{{对话-头}}\n{{对话|祭坛祭司|啊——啊啊啊——啊——|头像=狂热信徒}}\n{{旁白|心理|烈焰烧过的废墟中，似乎失去理智的祭司倒地嚎叫，发出怪异的、野兽般的叫声……}}\n{{对话-尾}}\n\n==犍为·教主像·阳坡==\n{{对话-头}}\n{{旁白|心理|空寂的山崖边，只有下方涌上的寒风发出呼啸……}}\n{{对话-尾}}\n\n<center>\n{{板块|按钮|斧蝶梦/活动剧情/其他|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

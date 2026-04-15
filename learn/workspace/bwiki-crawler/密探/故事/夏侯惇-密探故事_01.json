@@ -1,0 +1,389 @@
+{
+  "title": "夏侯惇-密探故事/01",
+  "category": "密探故事",
+  "characters": [
+    "伍丹",
+    "夏侯惇",
+    "广陵尉",
+    "广陵长史",
+    "我",
+    "文官",
+    "礼官",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "广陵长史",
+      "text": "头像=男文人",
+      "emotion": "此事还是早作决议，以免夜长梦多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=美型文官",
+      "emotion": "但曹操的粮为什么会出现在黑市里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "管它是谁家的粮，反正是黑市上缴来的，抹去印记，收归库中，谁能说得清？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "殿下，有客求见。这是他的符牒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵长史",
+      "text": "头像=男文人",
+      "emotion": "现在殿下哪里有心思见客？让他去谒舍等候。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "他交完符牒，说依照客礼应该去谒舍等候传召，所以已经去谒舍等了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "等议事完毕再说。眼下有些急事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "是，那我就让他耐心等着了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……说起来，已经让那位客人等了那么久啊……有些失礼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "小丹，让膳房那边准备些茶点，陪我去谒舍吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "是哪边的客人呀？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "白天太忙了，没有来得及问……礼官们好像一直陪着他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "殿下来了。殿下，客人等很久了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他也没有不耐吗？脾气真好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "是啊。夏侯公子真是个谨遵礼仪的人，已经很久没见到这样的人了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……夏侯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "是啊。夏侯惇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "………………曹操麾下的夏侯惇？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "是啊。正是那位……殿、殿下？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "殿下！殿下！慢一些，真是太失礼了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "呼……呼……咳。这位是夏侯将军吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "见过殿下。在下夏侯惇，来自沛泽夏侯氏……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "将军快快请起！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "殿下，不要心虚啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "听说夏侯将军先升折冲校尉，又领东郡太守，正是公务繁忙之际，怎有余暇来广陵？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "在下追查一批军中的赃物，查至了广陵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "殿下如果有头绪，还请协助在下找回赃物。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你说的赃物是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "军饷粮草，上面印着曹军的标记。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "……殿下怎么了？额角有汗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵长史",
+      "text": "头像=男文人",
+      "emotion": "总之，就是如此……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "好的。这是我的计簿，如果我刚才记录的内容无误，请使君在上面签字画押。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "殿下坦荡，在下万分敬佩。请受在下一拜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "实在不足挂齿，请将军起身！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "既然军粮已经找会，不知广陵可否将涉事人交由我处理？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "赃物自黑市得来，涉事人身在何处，本王也不知晓。也许要询问本地的巡官。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "我可以等回音。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "说来惭愧，我受命管理军备后勤，可军中某人半年来私贩大批军饷，借着族亲身份，肆无忌惮！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "我已查出此人是谁，可惜他身份特殊，需人证物证俱在，才能指证。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "原来如此……真是家贼难防。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "……！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "非常抱歉！因为感慨于殿下的坦荡，所以情不自禁说出了军中的秘辛！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "请诸位务必忘掉……何等愧疚，何等愧疚啊……简直是要以自刎才能平息的过错……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不不不请不要在我这里自尽啊！！！"
+    },
+    {
+      "type": "narration",
+      "text": "分类密探故事"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"密探故事/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width100px;padding10px;fontweightbold;fontsize16px;background;backgroundrgb(45 37 51 / 80%);colorcbbba4;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;background e1e5ea;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"row\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"Rset sticky colmd4 colxs12\""
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"Lshow colmd8 colxs12\""
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%8F%E4%BE%AF%E6%83%87-%E5%AF%86%E6%8E%A2%E6%95%85%E4%BA%8B/01",
+  "crawled_at": "2026-04-12T22:28:44.811757",
+  "raw_wikitext": "[[分类:密探故事]]\n<div id=\"top\"></div>\n{{JS|Qiantao.js}}\n{{面包屑|密探|密探故事|夏侯惇}}\n<center>\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">密探故事</div>\n<div class=\"map-dh-right\">\n{{密探故事|夏侯惇|01}}{{密探故事|夏侯惇|02}}{{密探故事|夏侯惇|03}}{{密探故事|夏侯惇|04}}{{密探故事|夏侯惇|05}}{{密探故事|夏侯惇|06}}<br>\n{{密探故事|夏侯惇|07}}{{密探故事|夏侯惇|08}}{{密探故事|夏侯惇|09}}{{密探故事|夏侯惇|10}}{{密探故事|夏侯惇|11}}{{密探故事|夏侯惇|12}}\n\n</div></div>\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:100px;padding:10px;font-weight:bold;font-size:16px;background:;background:rgb(45 37 51 / 80%);color:#cbbba4;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background: #e1e5ea;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n</center>\n\n\n<div class=\"row\">\n<div class=\"Rset sticky col-md-4 col-xs-12\">\n{{AV|bv=BV1TN411E7cK|w=360}}\n</div>\n<div class=\"Lshow col-md-8 col-xs-12\">\n{{对话-头}}\n{{旁白|【王府书房】}}\n{{对话|广陵长史|此事还是早作决议，以免夜长梦多。|头像=男文人}}\n{{对话|文官|但曹操的粮为什么会出现在黑市里……|头像=美型文官}}\n{{对话|广陵尉|管它是谁家的粮，反正是黑市上缴来的，抹去印记，收归库中，谁能说得清？|头像=帅武将}}\n{{旁白|广陵的黑市，最近出现了一批军饷，印着曹军标记。}}\n{{对话|礼官|殿下，有客求见。这是他的符牒。}}\n{{对话|广陵长史|现在殿下哪里有心思见客？让他去谒舍等候。|头像=男文人}}\n{{对话|礼官|他交完符牒，说依照客礼应该去谒舍等候传召，所以已经去谒舍等了。}}\n{{对话|我|等议事完毕再说。眼下有些急事。|头像=广陵王-严肃}}\n{{对话|礼官|是，那我就让他耐心等着了。}}\n\n{{旁白|【谒舍】}}\n{{旁白|半日后……}}\n{{旁白|心理|终于处理完了……天都黑了啊。}}\n{{对话|我|……说起来，已经让那位客人等了那么久啊……有些失礼。|头像=广陵王-微笑}}\n{{对话|我|小丹，让膳房那边准备些茶点，陪我去谒舍吧。|头像=广陵王-微笑}}\n{{对话|伍丹|是哪边的客人呀？}}\n{{对话|我|白天太忙了，没有来得及问……礼官们好像一直陪着他。|头像=广陵王-微笑}}\n{{对话|礼官|殿下来了。殿下，客人等很久了。|头像=文官}}\n{{对话|我|他也没有不耐吗？脾气真好。|头像=广陵王-微笑}}\n{{对话|礼官|是啊。夏侯公子真是个谨遵礼仪的人，已经很久没见到这样的人了。|头像=文官}}\n{{对话|我|……夏侯？|头像=广陵王-挑眉}}\n{{对话|礼官|是啊。夏侯惇。|头像=文官}}\n{{对话|我|………………曹操麾下的夏侯惇？|头像=广陵王-惊讶}}\n{{对话|礼官|是啊。正是那位……殿、殿下？！|头像=文官}}\n{{旁白|我提起衣摆，快速冲上回廊，跑向客房——}}\n\n{{旁白|【客房】}}\n{{对话|？？？|啊……}}\n{{对话|礼官|殿下！殿下！慢一些，真是太失礼了……|头像=文官}}\n{{对话|我|呼……呼……咳。这位是夏侯将军吗？|头像=广陵王-微笑}}\n{{旁白|戴着眼罩的青年虽是武将装扮，气质却彬彬有礼。}}\n{{旁白|见我从门外冲入，他脸上有短暂的错愕，但很快恢复平静，在坐垫上转身向我行礼。}}\n{{旁白|心理|是、是大礼……}}\n{{对话|夏侯惇|见过殿下。在下夏侯惇，来自沛泽夏侯氏……}}\n{{对话|我|将军快快请起！|头像=广陵王-微笑}}\n{{对话|伍丹|殿下，不要心虚啊……|头像=伍丹}}\n{{旁白|心理|来路不明的曹操军饷就在隔壁的库房里，很难不心虚……}}\n{{对话|我|听说夏侯将军先升折冲校尉，又领东郡太守，正是公务繁忙之际，怎有余暇来广陵？|头像=广陵王-微笑}}\n{{对话|夏侯惇|在下追查一批军中的赃物，查至了广陵。}}\n{{对话|夏侯惇|殿下如果有头绪，还请协助在下找回赃物。}}\n{{对话|我|你说的赃物是……|头像=广陵王-严肃}}\n{{对话|夏侯惇|军饷粮草，上面印着曹军的标记。}}\n{{对话|夏侯惇|……殿下怎么了？额角有汗。}}\n{{旁白|心理|反正也只是从黑市缴获的走私品，和我方无甚太大关系……不要因此贸然起事端吧。}}\n{{旁白|我唤来广陵长史，让他将来龙去脉如实说明；夏侯惇面色平静，用计簿一一记下。}}\n{{对话|广陵长史|总之，就是如此……|头像=男文人}}\n{{对话|夏侯惇|好的。这是我的计簿，如果我刚才记录的内容无误，请使君在上面签字画押。}}\n{{对话|夏侯惇|殿下坦荡，在下万分敬佩。请受在下一拜……}}\n{{对话|我|实在不足挂齿，请将军起身！|头像=广陵王-惊讶}}\n{{旁白|心理|怎么武将里面有这种动不动就行大礼的人！}}\n{{对话|夏侯惇|既然军粮已经找会，不知广陵可否将涉事人交由我处理？}}\n{{对话|我|赃物自黑市得来，涉事人身在何处，本王也不知晓。也许要询问本地的巡官。|头像=广陵王-微笑}}\n{{对话|夏侯惇|我可以等回音。}}\n{{对话|夏侯惇|说来惭愧，我受命管理军备后勤，可军中某人半年来私贩大批军饷，借着族亲身份，肆无忌惮！}}\n{{对话|夏侯惇|我已查出此人是谁，可惜他身份特殊，需人证物证俱在，才能指证。}}\n{{对话|我|原来如此……真是家贼难防。|头像=广陵王-严肃}}\n{{对话|夏侯惇|……！！！}}\n{{旁白|他突然起身，又行了大礼，周围的礼官和文官连忙去扶。}}\n{{对话|夏侯惇|非常抱歉！因为感慨于殿下的坦荡，所以情不自禁说出了军中的秘辛！}}\n{{对话|夏侯惇|请诸位务必忘掉……何等愧疚，何等愧疚啊……简直是要以自刎才能平息的过错……}}\n{{对话|我|不不不请不要在我这里自尽啊！！！|头像=广陵王-生气}}\n</div>\n</div>\n{{密探故事录入|尾|夏侯惇|01}}"
+}

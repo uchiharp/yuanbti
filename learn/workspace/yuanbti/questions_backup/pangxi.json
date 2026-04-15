@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_pangxi_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "庞羲",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "你奉命建造一座攻城器械，时限仅剩三日。材料短缺，工匠也不足。此时有人提议用次等木材替代，虽能按时完工，但承重堪忧。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "如实上报楼主，请求延期或增派人手",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用次等木材赶工，但亲自加固关键部位",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拒绝偷工减料，日夜不休亲自赶工补缺",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自庞羲的密探故事——他作为巧匠，面对物资匮乏时选择了亲力亲为。"
+  },
+  {
+    "id": "q_pangxi_02",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你倾尽心血打造的器物，被上级嫌「不够华丽」而弃用，转而选了华而不实的替代品。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "默默改进外观，迎合上面的喜好",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不做改动，但会解释自己的设计考量",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坚持自己的判断，宁可被弃用也不改初衷",
+        "scores": {
+          "S6": 4,
+          "S10": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "庞羲作为工匠型密探，对自己的作品有极强的执念和底线。"
+  }
+]

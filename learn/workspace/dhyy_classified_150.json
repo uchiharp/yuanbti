@@ -1,0 +1,902 @@
+[
+  {
+    "char_a": "傅融",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "飞云",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "徐庶",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "贾诩",
+    "char_b": "郭嘉",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "祢衡",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "徐庶",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "戏学",
+    "char_b": "袁基",
+    "edgeLabel": "潜伏",
+    "edgeRelType": "对立"
+  },
+  {
+    "char_a": "董白",
+    "char_b": "马超",
+    "edgeLabel": "搭档",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "史子眇",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "傅融",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "徐庶",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "雀使",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "袁基",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "徐庶",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "孙权",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "文官",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "郭嘉",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "甘宁",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "侍女",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "刘辩",
+    "edgeLabel": "护卫",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "周群",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "杨修",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "甘宁",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "张邈",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "贾诩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "贾诩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "黄月英",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "文官",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "甘宁",
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "葛洪",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "袁基",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "蛾使",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "郭嘉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "贾诩",
+    "edgeLabel": "主从",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "郭嘉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "郭嘉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "蒯越",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "祢衡",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "满宠",
+    "char_b": "袁遗",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "孙尚香",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "张飞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张燕",
+    "char_b": "戏学",
+    "edgeLabel": "同袍",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "张昭",
+    "char_b": "虞翻",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "虞翻",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张角",
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "傅融",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张超",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "贾诩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "蒯良",
+    "char_b": "蒯越",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "孙策",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "马腾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "周忠",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "雀使",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "文官",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "张辽",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张角",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "贾诩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "诸葛亮",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张辽",
+    "edgeLabel": "敌对",
+    "edgeRelType": "对立"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "祢衡",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "飞云",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "蔡琰",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "酆公玖",
+    "char_b": "酆公珠",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "斥候",
+    "edgeLabel": "主从",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "令狐茂",
+    "char_b": "左慈",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "？？？",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "令狐茂",
+    "char_b": "徐庶",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "刘辩",
+    "edgeLabel": "侍奉",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙权",
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "祢衡",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "周瑜",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "亲卫",
+    "char_b": "袁基",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "徐庶",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "戏学",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "董白",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "雀使",
+    "edgeLabel": "主从",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "老人",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "左慈",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张修",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "侍女",
+    "char_b": "袁基",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张邈",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "贾诩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张郃",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "徐庶",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "董奉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "飞云",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "葛洪",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "荀攸",
+    "char_b": "钟繇",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "黄盖",
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "刘辩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "葛洪",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "杨修",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "甘宁",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "张绣",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他"
+  }
+]

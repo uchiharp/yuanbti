@@ -1,0 +1,440 @@
+{
+  "title": "天下隐光/活动剧情/贰·王为巫首",
+  "category": "活动剧情",
+  "characters": [
+    "云帝宫剑仙",
+    "安期",
+    "左慈",
+    "我",
+    "隐鸢阁剑卫",
+    "黄月英",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "又地动了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=黄月英",
+      "emotion": "……一层、两层、三层……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "它随建木醒眠。建木将醒，玉门将开。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "如果玉门失守，玉门后还有十巫七名，若要压制它们，我需要其他灵子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "它们应该都随地脉聚集到了地窟中。若能从杀生仙手中抢下它们，你就去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "为什么你要把巫叫做杀生仙？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "你又为何执着于为干荒守住剩余的十巫？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "因为我告诉我，我要这么做。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "这是我当年吃下的那名十巫的眼睛。我的身躯是被十巫的肉取代的，控制脑的十巫，让我镇守玉门。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……为何你脑中的十巫会让你守玉门？它难道不应该让你打开玉门吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "玉门后的十巫，想让我打开玉门。但是玉门外的十巫，希望我关死玉门。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "这些事与她无关。好了，继续往灵河吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=黄月英",
+      "emotion": "你没有告诉过她，何为巫首吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "十巫之首，不是巫咸吗？古书记载如此。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "颛顼发动绝地天通，巫咸与其他十巫一同被镇压在灵山之下。他的兄弟干荒令你成为灵子，镇守灵山下的玉门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "就是如此。走罢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=黄月英",
+      "emotion": "——王乃巫首。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=黄月英",
+      "emotion": "从一开始，将被镇压在灵山下的十巫，便只有九人。我吃下的，就是巫咸——颛顼的肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "如果颛顼作为十巫之首的巫咸发动了绝地天通，镇压了其他九人，那如今只剩七人，说明……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "巫谢脱逃。因黄河改道，灵山地脉扰乱，巫彭意外脱离玉门，为张修从灵山所获。形势便是如此。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "巫彭身躯被张修带走，称作三眼神。那巫咸颛顼的身躯，如今在何处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……在北方某处地脉之中吧。怎么了，现实之人，如此在意古时之事？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "其实古今之事，并无甚本质上的异同，皆是人心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "云帝宫剑仙",
+      "text": "头像=美型文官",
+      "emotion": "那是什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "——继续生长，建木。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "云帝宫剑仙",
+      "text": "头像=美型文官",
+      "emotion": "快赶去灵河边！杀生仙在催动建木！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隐鸢阁剑卫",
+      "text": "头像=帅武将",
+      "emotion": "呃——山道塌陷了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "云帝宫剑仙",
+      "text": "头像=美型文官",
+      "emotion": "阁主，怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "走东山灵河水路。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可是灵河水有异变……就算没有异变，壶关君平时也不让任何人接触灵河水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾会以洞天开阵，护送你们过河。只是中间要越过东蜀地界，务必警惕。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "到了……准备过河。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "你们先过去，吾在后方维持洞天。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "记住，无论在途中看见何物，绝不要回头。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "洞天……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "趁现在，逃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "为了天道不灭，宇宙亘古，乘上白龙，脱离此地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "快过河！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "——别想、带她走！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "灵河之中不可回身！不要动！"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"天下隐光/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background899dd3;color5642a6;textaligncenter;!标题背景和字色改这行颜色"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundB7CCEE;!背景2（导航）改B7CCEE"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''贰·王为巫首'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "王为巫首·一"
+    },
+    {
+      "type": "narration",
+      "text": "王为巫首·二"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E8%B4%B0%C2%B7%E7%8E%8B%E4%B8%BA%E5%B7%AB%E9%A6%96",
+  "crawled_at": "2026-04-12T22:07:34.116999",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|活动剧情|天下隐光/活动玩法}}\n{{回到顶部|头}}{{背景图片|{{filepath:天下隐光背景.png}}}}\n\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">天下隐光</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|天下隐光/活动剧情|序}}\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|壹·天崩地坼}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|贰·王为巫首}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|叁·扶桑已烬}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|肆·白龙垂目}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|伍·往世昭回}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|陆·天下隐光}}\n</center>\n</div></div>\n{{JS|Qiantao.js}}\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#899dd3;color:#5642a6;text-align:center;}<!--标题背景和字色改这行颜色-->\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#B7CCEE;}<!--背景2（导航）改#B7CCEE-->\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n\n<center>\n='''贰·王为巫首'''=\n</center>\n==王为巫首·一==\n{{对话-头}}\n{{旁白|【隐鸢阁】}}\n{{对话|我|又地动了……|头像=广陵王-严肃}}\n{{旁白|远处雪山因为山崩而发生大小雪崩，如九天飞瀑。我们离开云帝宫，数名云帝宫剑仙随行。}}\n{{旁白|在我记忆中，隐鸢阁曾经发生过几次杀生仙的动乱，但长辈并不会事无巨细告诉小孩。只是，没有一次像此次这样……}}\n{{对话|黄月英|……一层、两层、三层……|头像=黄月英}}\n{{旁白|山道前方，一道小小的身影蹲在山阶上，低头望着雪地。}}\n{{对话|黄月英|它随建木醒眠。建木将醒，玉门将开。}}\n{{对话|黄月英|如果玉门失守，玉门后还有十巫七名，若要压制它们，我需要其他灵子。}}\n{{对话|左慈|它们应该都随地脉聚集到了地窟中。若能从杀生仙手中抢下它们，你就去吧。|头像=左慈}}\n{{对话|黄月英|……}}\n{{对话|黄月英|为什么你要把巫叫做杀生仙？}}\n{{对话|左慈|你又为何执着于为干荒守住剩余的十巫？|头像=左慈}}\n{{对话|黄月英|因为我告诉我，我要这么做。}}\n{{旁白|她抬起头，眼瞳已经变了。那是一双古老的眼眸，在目光交错的瞬间，一股怪异的熟悉感自脊柱流窜而上，让我浑身紧绷。}}\n{{对话|黄月英|这是我当年吃下的那名十巫的眼睛。我的身躯是被十巫的肉取代的，控制脑的十巫，让我镇守玉门。}}\n{{对话|我|……为何你脑中的十巫会让你守玉门？它难道不应该让你打开玉门吗？|头像=广陵王-挑眉}}\n{{对话|黄月英|玉门后的十巫，想让我打开玉门。但是玉门外的十巫，希望我关死玉门。}}\n{{对话|左慈|这些事与她无关。好了，继续往灵河吧。|头像=左慈}}\n{{旁白|我们越过了她。她在后方注视着我们，眼眸的颜色愈发暗淡。}}\n{{对话|黄月英|你没有告诉过她，何为巫首吗？|头像=黄月英}}\n{{对话|我|十巫之首，不是巫咸吗？古书记载如此。|头像=广陵王-微笑}}\n{{对话|我|颛顼发动绝地天通，巫咸与其他十巫一同被镇压在灵山之下。他的兄弟干荒令你成为灵子，镇守灵山下的玉门。|头像=广陵王-微笑}}\n{{对话|左慈|就是如此。走罢。}}\n{{旁白|我们离她越来越远。就在她的身影几乎要消失在雪色间时，我听见了她从后方传来的声音……}}\n{{对话|黄月英|——王乃巫首。|头像=黄月英}}\n{{对话|黄月英|从一开始，将被镇压在灵山下的十巫，便只有九人。我吃下的，就是巫咸——颛顼的肉。|头像=黄月英}}\n{{旁白|一道思绪穿过脑海，我想到了什么，几乎要停步回头。但师尊带着我继续往前走，并没有给我问话的时间。}}\n{{对话|我|如果颛顼作为十巫之首的巫咸发动了绝地天通，镇压了其他九人，那如今只剩七人，说明……|头像=广陵王-微笑}}\n{{对话|左慈|巫谢脱逃。因黄河改道，灵山地脉扰乱，巫彭意外脱离玉门，为张修从灵山所获。形势便是如此。}}\n{{对话|我|巫彭身躯被张修带走，称作三眼神。那巫咸颛顼的身躯，如今在何处？|头像=广陵王-微笑}}\n{{对话|左慈|……在北方某处地脉之中吧。怎么了，现实之人，如此在意古时之事？}}\n{{旁白|他略停步，低头对我笑了笑。不知为何，那笑意背后带着某种难以言喻的无奈。}}\n{{对话|左慈|其实古今之事，并无甚本质上的异同，皆是人心。}}\n{{对话|云帝宫剑仙|那是什么？！|头像=美型文官}}\n{{旁白|突然，一声惊呼如平地惊雷。我们沿着他的视线看去，远处雪雾中，东蜀的厉生台，在动。}}\n{{旁白|厉生台乃是依一段古老巨大的断木所建。谁也不知它枯死了多少年，就在今日，它苏醒了——}}\n{{对话-尾}}\n==王为巫首·二==\n{{对话-头}}\n{{旁白|【隐鸢阁】}}\n{{旁白|雪雾中，断木开始了复苏，巨大的根系在地底涌动，随处可见破土而出的金色树根；断木的轮廓扭曲不定，疯狂地长出分支……}}\n{{旁白|遥远断木上方，有一道仙影飘渺，临风而起。}}\n{{对话|安期|——继续生长，建木。|头像=安期}}\n{{对话|云帝宫剑仙|快赶去灵河边！杀生仙在催动建木！|头像=美型文官}}\n{{对话|隐鸢阁剑卫|呃——山道塌陷了！|头像=帅武将}}\n{{旁白|黄金根系如巨蟒绞杀一切，拧断了我们通往灵河的山路。就在这片刻之间，厉生台的断木已将近成形，树影遮蔽天地。}}\n{{对话|云帝宫剑仙|阁主，怎么办？|头像=美型文官}}\n{{对话|左慈|走东山灵河水路。}}\n{{对话|我|可是灵河水有异变……就算没有异变，壶关君平时也不让任何人接触灵河水。|头像=广陵王-严肃}}\n{{对话|左慈|吾会以洞天开阵，护送你们过河。只是中间要越过东蜀地界，务必警惕。}}\n{{旁白|【东部水源】}}\n{{对话|左慈|到了……准备过河。}}\n{{对话|左慈|你们先过去，吾在后方维持洞天。}}\n{{旁白|沸腾火红的灵河水，汹涌焚尽岸边的一切。扑面而来的焦灼滚烫下，夹杂着从地底深处涌来的哀嚎。}}\n{{对话|左慈|记住，无论在途中看见何物，绝不要回头。}}\n{{对话|左慈|洞天……}}\n{{旁白|河水骤然凝滞，仿佛被强行扼住，再被左右拨开……河床显露了出来，足以通行。}}\n{{旁白|我们迅速过河。两侧是被凝滞的火红，不断摇曳的火色，艳丽得能映照出通透人影。}}\n{{旁白|有人已经抵达了对岸。忽然，我听见了风雨声。}}\n{{对话|？？？|趁现在，逃。|头像=黑人影}}\n{{旁白|心理|什么？}}\n{{对话|？？？|为了天道不灭，宇宙亘古，乘上白龙，脱离此地。|头像=黑人影}}\n{{对话|我|！！！|头像=广陵王-难受}}\n{{对话|左慈|快过河！|头像=左慈}}\n{{对话|左慈|——别想、带她走！！！|头像=左慈}}\n{{旁白|我不禁停下脚步。他说不可回头，但是在我面前出现了一团人影——}}\n{{旁白|仿佛无数人体被揉捏成了一个巨大的肉球，抽动着吞噬刚才前方的剑仙，挡在了我面前。}}\n{{对话|我|……|头像=广陵王-难受}}\n{{旁白|他们，或者说，它，在对我说话，完全支离破碎的呢喃声像是婴孩喃喃，不断呢喃着，它爬下河床，朝我逼近——}}\n{{对话|左慈|灵河之中不可回身！不要动！|头像=左慈}}\n{{旁白|人心本能中对异样怪物的灭顶恐惧，和对他的信任正在厮杀。我向后退了半步，但是……}}\n{{旁白|——我踩空了。}}\n{{旁白|灵河回身，万劫不复。}}\n{{对话-尾}}\n<center>\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|上一页}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

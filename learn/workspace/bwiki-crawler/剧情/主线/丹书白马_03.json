@@ -1,0 +1,29 @@
+{
+  "title": "丹书白马/03",
+  "category": "主线剧情",
+  "characters": [
+    "我",
+    "流寇头目"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "流寇头目",
+      "text": "不交过路费就想走？还有王法吗！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "广陵王土上，也有人敢收本王的过路费？",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%B9%E4%B9%A6%E7%99%BD%E9%A9%AC/03",
+  "crawled_at": "2026-04-12T21:52:26.937610",
+  "raw_wikitext": "{{对话-头}}\n{{旁白|【郊外】}}\n{{旁白|从广陵赶赴彭城。}}\n{{对话|流寇头目|不交过路费就想走？还有王法吗！}}\n{{对话|我|广陵王土上，也有人敢收本王的过路费？}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

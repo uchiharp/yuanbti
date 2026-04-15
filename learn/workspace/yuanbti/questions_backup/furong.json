@@ -1,0 +1,1513 @@
+[
+  {
+    "id": "q_furong_01",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "董逃歌（上）/04",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "洛阳街头，你替被打伤的傅融敷上药草，关切地问他疼不疼。傅融摸了摸发紫的脸，却没有顺着你的关心说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"……哼，怕你在外面出什么事，影响行动进度。\"",
+        "scores": {
+          "S3": 4,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "\"多谢殿下，下官无碍，只是皮外伤。\"",
+        "scores": {
+          "S3": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"痛是有点痛的……不过习惯了。\"",
+        "scores": {
+          "S3": 3,
+          "S6": 2,
+          "S2": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "傅融的原话：把关心翻译成任务影响，第一层防御启动。"
+  },
+  {
+    "id": "q_furong_02",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "董逃歌（上）/04",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "你体恤傅融起早贪黑、刀口舔血，想要给他更好的待遇。傅融的回答是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"殿下的好意心领了，下官食君之禄忠君之事。\"",
+        "scores": {
+          "S3": 2,
+          "S9": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "\"谢谢老板。不用这样'体谅'我，多给点钱比较实际。\"",
+        "scores": {
+          "S3": 5,
+          "S8": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "\"算了，就当加班费吧，下不为例。\"，值得深思",
+        "scores": {
+          "S3": 3,
+          "S6": 2,
+          "S1": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "傅融原话：多给点钱比较实际——感情表达？不，他只要钱。"
+  },
+  {
+    "id": "q_furong_03",
+    "dimension": "S3",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "烈火入喉/04",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "地道工程因雨水需额外加固，工期延长。你问傅融有没有担心什么人，他说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"殿下，这种时候不必分心。\"",
+        "scores": {
+          "S3": 2,
+          "S6": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "\"我没担心人，只是担心挖地道的费用。\"",
+        "scores": {
+          "S3": 5,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "沉默片刻，说\"七日内务必完工。\"",
+        "scores": {
+          "S3": 3,
+          "S7": 2,
+          "S4": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "傅融原话：把关心精准翻译成钱，第二层防御。"
+  },
+  {
+    "id": "q_furong_04",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "风起荷影/14",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "广陵荷花池畔，有人送上精致的荷花摆件。傅融看了一眼，说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"好雅致，殿下觉得如何？\"",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "\"希望他直接把荷花换成钱给我。\"",
+        "scores": {
+          "S3": 5,
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "\"殿下喜欢便留着吧，我无所谓。\"",
+        "scores": {
+          "S3": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "傅融原话：在他眼里，一切都可以折算。"
+  },
+  {
+    "id": "q_furong_05",
+    "dimension": "S3",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "傅融-恋念剧情/夜绩",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你夸傅融办事得力，说以后少不了人情。傅融立刻回——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"……别想靠人情牌糊弄过去，只给人情不给钱。\"",
+        "scores": {
+          "S3": 5,
+          "S6": 4,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "\"人情记下了，日后殿下需要尽管开口。\"",
+        "scores": {
+          "S3": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"人情归人情，加班费另算。\"，值得深思",
+        "scores": {
+          "S3": 4,
+          "S2": 3,
+          "S1": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "傅融原话：拒绝任何形式的感情替代物。"
+  },
+  {
+    "id": "q_furong_06",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "关于\"付出与回报\"，你更认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "付出是为了心中的信念，回报只是锦上添花。",
+        "scores": {
+          "S3": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "付出要看值不值，划不来的事不做。",
+        "scores": {
+          "S3": 3,
+          "S6": 2,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "多给点钱比较实际。其他的不用。",
+        "scores": {
+          "S3": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "C来自傅融——他拒绝所有非物质形式的感谢，只认钱。"
+  },
+  {
+    "id": "q_furong_07",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "如果有人真诚地想表达对你的感谢，你更希望对方怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "好好记住这份情谊，日后相互扶持。",
+        "scores": {
+          "S3": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "嘴上说说就行，不必太隆重。",
+        "scores": {
+          "S3": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接给钱，别搞那些虚的。",
+        "scores": {
+          "S3": 5,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "C是傅融的标准态度——多给点钱比较实际，是他拒绝感性表达时的万能回复。"
+  },
+  {
+    "id": "q_furong_08",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "董逃歌（上）/04",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "洛阳城外遭遇巡逻盘查，傅融递上司徒府木牒冷静应对。事后你问他是怎么想的——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"抽你就抽你，还要挑个吉日吗？先下手为强。\"",
+        "scores": {
+          "S1": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "\"来不及多想，先亮身份，再随机应变。\"",
+        "scores": {
+          "S1": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"绣衣楼之外的事不归我管，殿下怎么说我就怎么做。\"",
+        "scores": {
+          "S1": 1,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "傅融原话：先下手为强，同时亮身份做后手。"
+  },
+  {
+    "id": "q_furong_09",
+    "dimension": "S1",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "董逃歌（上）/04",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "你与傅融亲近了些，想给他特殊对待。傅融的反应出乎意料——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"……不用，我和他们一样就好。\"",
+        "scores": {
+          "S1": 3,
+          "S6": 2,
+          "S8": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "\"殿下的好意下官铭记于心。\"",
+        "scores": {
+          "S1": 2,
+          "S6": 2,
+          "S9": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"和你有些亲近，也不是想让你对我",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S8": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "傅融原话：你怎么对他们，就一样对我——表面拒绝特殊对待，实际是最高级的权力姿态。"
+  },
+  {
+    "id": "q_furong_10",
+    "dimension": "S2",
+    "cross_dimension": "S3",
+    "type": "story_anon",
+    "source_character": "傅融",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你关心地问一个人最近是不是在担心你，对方明显松了口气，但嘴上说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"是有些担心……不过这也是分内之事。\"",
+        "scores": {
+          "S2": 3,
+          "S3": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "\"我没担心人，只是担心相关的费用。\"",
+        "scores": {
+          "S2": 1,
+          "S3": 5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"还好，目前情况在可控范围内。\"",
+        "scores": {
+          "S2": 2,
+          "S3": 3
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "来自傅融的烈火入喉剧情——我没担心人，只是担心挖地道的费用。"
+  },
+  {
+    "id": "q_furong_11",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "傅融",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人问你一个问题，话到嘴边却停住了：\"你有没有想过，假如有一天……\"沉默很久，最后说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"……算了，以后还有机会问。\"",
+        "scores": {
+          "S2": 1,
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "\"……没什么，我多想了。\"",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"不，这件事今天必须说清楚。\"",
+        "scores": {
+          "S2": 4,
+          "S7": 3,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "来自傅融的满月夜剧情——最短的追问，最长的沉默。"
+  },
+  {
+    "id": "q_furong_12",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "傅融",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个人平日满口钱和加班费，精打细算如市井账房。生死关头却修改所有撤退计划，独自承担最危险任务。事后你问他为什么——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"这是我身为副官的职责所在。\"",
+        "scores": {
+          "S4": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "\"我还有八十五年房贷，不能丢了",
+        "scores": {
+          "S4": 5,
+          "S6": 4,
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "\"……这种事，不值得多说。\"",
+        "scores": {
+          "S4": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这个人就是傅融——用房贷和加班费的面具遮蔽一切真心。"
+  },
+  {
+    "id": "q_furong_13",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下哪句话最接近你面对亲近之人时的真实状态？",
+    "options": [
+      {
+        "label": "A",
+        "text": "心里想什么就说什么，不藏着掖着。",
+        "scores": {
+          "S4": 1,
+          "S2": 4,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "嘴上说的和心里想的经常不一样，但行动不会骗人。",
+        "scores": {
+          "S4": 4,
+          "S2": 2,
+          "S5": 3.5,
+          "S8": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "看情况，有时候直说，有时候绕个弯。",
+        "scores": {
+          "S4": 2.5,
+          "S2": 1,
+          "S7": 1
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "B是傅融的写照——嘴上全是反话和钱，行动全是真心。"
+  },
+  {
+    "id": "q_furong_14",
+    "dimension": "S5",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "董逃歌",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "一项极危险的军事计划需有人深入粮草库执行诱饵。你打算亲自去，身边的人却——",
+    "options": [
+      {
+        "label": "A",
+        "text": "默默修改了计划，把最危险的部分划给自己。",
+        "scores": {
+          "S5": 4,
+          "S6": 4,
+          "S10": 3,
+          "S1": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "据理力争，分析利弊，试图说服你放弃。",
+        "scores": {
+          "S5": 2,
+          "S6": 3,
+          "S7": 1,
+          "S3": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "提出替代方案，让另一个人去执行。",
+        "scores": {
+          "S5": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "傅融的做法：不商量，直接修改计划，把最危险的部分留给自己。"
+  },
+  {
+    "id": "q_furong_15",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "傅融",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "雪夜悬崖边，风雪遮蔽视线，两人在绝境中互相搀扶。其中一人重伤，却对另一人说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"拉着我的手。无论发生什么，",
+        "scores": {
+          "S5": 4,
+          "S10": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "\"……别管我了，你先走。\"，值得深思",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"我们再找找别的路，一定有办法。\"",
+        "scores": {
+          "S5": 3,
+          "S6": 2,
+          "S10": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "来自傅融的悬崖雪夜剧情——他罕见地用语言要求对方跟随。"
+  },
+  {
+    "id": "q_furong_16",
+    "dimension": "S6",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "董逃歌",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "你提出冒险计划：赌敌方军队内部哗变。傅融只说了两个字——\"不能赌。你在拿她和你自己赌。\"他的意思是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "这个计划胜率太低，不值得冒险。",
+        "scores": {
+          "S6": 2,
+          "S1": 3,
+          "S3": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "你可以冒险，但不能拿别人的命一起赌。",
+        "scores": {
+          "S6": 4,
+          "S1": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "等情报确认后再行动，不要贸然下注。",
+        "scores": {
+          "S6": 3,
+          "S1": 3,
+          "S5": 2.5,
+          "S2": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这是傅融唯一一次正面反对广陵王的计划——当底线被触及时，不再用钱和幽默挡箭。"
+  },
+  {
+    "id": "q_furong_17",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "面对胜算不高但可能扭转大局的计划，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "搏一搏，不赌不知道结果。",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看赌注是什么。如果赌的是别人的命",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "先做风险分析，量化之后再决定。",
+        "scores": {
+          "S6": 3,
+          "S5": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "傅融的态度：不能赌。你在拿她和你自己赌。"
+  },
+  {
+    "id": "q_furong_18",
+    "dimension": "S7",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "董逃歌",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "你在审讯中疑心身边的人有所隐瞒。对方只淡淡说——\"上位者，疑心病最好别太重。\"这句话的精妙之处在于——",
+    "options": [
+      {
+        "label": "A",
+        "text": "单纯的善意提醒，化解紧张气氛。",
+        "scores": {
+          "S7": 2,
+          "S8": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "既是提醒你放松警惕，也暗示自己心中有数。",
+        "scores": {
+          "S7": 3,
+          "S1": 2,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "一句话同时服务两个目的——既是提醒也是自保",
+        "scores": {
+          "S7": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "傅融的锋芒不在攻击，而在于一句话同时服务两个目的。"
+  },
+  {
+    "id": "q_furong_19",
+    "dimension": "S8",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "傅融-恋念剧情/梦中雪",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "雪夜重伤后，傅融躺在你的怀中。他不再用省略号，说出了一句完整的句子——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"保证过……会陪你……走下去的……\"",
+        "scores": {
+          "S8": 3,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "\"风雪哪里都有的，但不是哪里都能这样亲近的……\"",
+        "scores": {
+          "S8": 4,
+          "S2": 2,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "\"别走……我真的……没力气动了。\"",
+        "scores": {
+          "S8": 2.5,
+          "S2": 1,
+          "S5": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "三句都是傅融雪夜中的台词。重伤时他终于不再用钱和加班挡箭。"
+  },
+  {
+    "id": "q_furong_20",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "傅融-恋念剧情/梦中雪",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "傅融靠在你胸口说\"从这里……从你的胸口，听到了雪声。\"然后停顿很久又说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"也兴许不是雪盲，是我心盲了。\"",
+        "scores": {
+          "S8": 3,
+          "S6": 2,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "\"外面下雪了吗？我该回去看账了。\"",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"……不说了，还不到时候，再等等吧。\"",
+        "scores": {
+          "S8": 2,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "傅融原话：也兴许不是雪盲，是我心盲了——全台词最文学化的表达，最赤裸的自我暴露。"
+  },
+  {
+    "id": "q_furong_21",
+    "dimension": "S9",
+    "cross_dimension": "S4",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你手握重权，却选择以低微身份待在一个人身边。如果有人问为什么不利用真实能力——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"高处不胜寒，低调些活得自在。\"",
+        "scores": {
+          "S9": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "\"绣衣楼之外的事不归我管。\"——但实际什么都管。",
+        "scores": {
+          "S9": 3.5,
+          "S4": 4,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "\"能力用在哪里都一样，不必在意身份高低。\"",
+        "scores": {
+          "S9": 2.5,
+          "S6": 1
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "B是傅融的写照——表面限定权力边界，实际以副官身份掌控全局。"
+  },
+  {
+    "id": "q_furong_22",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "关于\"权力\"，你最认同哪句话？",
+    "options": [
+      {
+        "label": "A",
+        "text": "权力是工具，该用就用，不必刻意回避。",
+        "scores": {
+          "S9": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "上位者，疑心病最好别太重。",
+        "scores": {
+          "S9": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "权力是负担，能少碰就少碰。",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "B来自傅融——既理解权力运作，又一句话化解对方试探。"
+  },
+  {
+    "id": "q_furong_23",
+    "dimension": "S10",
+    "cross_dimension": "S3",
+    "type": "story_known",
+    "source_character": "傅融",
+    "source_story": "风起荷影",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "广陵积压五年的账册摊在桌上，城建、人俸、防疫、水渠、农工……前任太守的烂摊子。傅融的反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "叹了口气，叫来下属分工处理。，值得深思",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "\"不至于。也就是广陵积压了五年的账册……而、已。",
+        "scores": {
+          "S10": 3,
+          "S6": 2,
+          "S1": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "\"和账目对不上。我再算一遍。\"——直到天亮。",
+        "scores": {
+          "S10": 5,
+          "S8": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "傅融原话：和账目对不上。我再算一遍。账簿只有数字不会骗人。"
+  },
+  {
+    "id": "q_furong_24",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "面对一堆混乱无序、多年未整理的文书，你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "这有什么难的，按类别分好就行。",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "\"不好说，这世上只有账本不会骗",
+        "scores": {
+          "S10": 5,
+          "S7": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "先大致翻翻，挑重要的看。",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "B是傅融的信念——账簿只有数字不会骗人。他信任可量化的东西。"
+  },
+  {
+    "id": "q_furong_25",
+    "dimension": "S3",
+    "cross_dimension": "S2",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼发月俸了。你发现傅融俸禄比同级密探少一截，因为各种扣费。你决定——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不动声色地把差额补上。",
+        "scores": {
+          "S3": 2,
+          "S2": 4,
+          "S6": 1,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直接告诉他，多补了一些钱给他。",
+        "scores": {
+          "S3": 3,
+          "S2": 3,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不补钱，但减少一些不必要的任务。",
+        "scores": {
+          "S3": 4,
+          "S2": 2,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "对傅融来说，减少任务等于减少加班费来源。他大概会反过来要求恢复任务。"
+  },
+  {
+    "id": "q_furong_26",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "账房的墨水用完了，但仓库记录写着\"上月刚补过\"。你问傅融，他——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"我去查。既然记录说补过，就一定能找到出入。\"",
+        "scores": {
+          "S10": 5,
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "\"可能是谁记错了，不碍事，再领一份就行。\"",
+        "scores": {
+          "S10": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "\"让雀部出个报告，查查最近三个月物料使用。\"",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "傅融的秩序感不允许任何对不上的存在。"
+  },
+  {
+    "id": "q_furong_27",
+    "dimension": "S2",
+    "cross_dimension": "S3",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你送了傅融一件贴心礼物。他拆开看了一眼，表情没什么变化，只说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"……谢谢。这个价格不便宜吧？殿下下次别花这",
+        "scores": {
+          "S2": 1,
+          "S3": 2,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "沉默了一会儿，把礼物收好：\"……知道了。\"",
+        "scores": {
+          "S2": 2,
+          "S3": 3,
+          "S4": 1,
+          "S10": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "\"殿下有心了。我很喜欢。\"，值得深思",
+        "scores": {
+          "S2": 4,
+          "S3": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "傅融的风格：收到礼物第一反应是算价格，但一定会收好——行动比语言诚实。"
+  },
+  {
+    "id": "q_furong_28",
+    "dimension": "S5",
+    "cross_dimension": "S3",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "深夜，你发现傅融还在账房忙碌，桌上摆着算盘和堆成山的账册。你劝他早点休息，他说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"这些加班我都忘了记账了！等下补上。\"",
+        "scores": {
+          "S5": 3,
+          "S3": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "\"快了快了，再看一卷就收工。\"",
+        "scores": {
+          "S5": 3,
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "\"……你也还没睡？一起吧，反正我也走不了。\"",
+        "scores": {
+          "S5": 4,
+          "S3": 2,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "傅融的日常：熬通宵查账是常态，但有人陪的时候，他会默默留下来。"
+  },
+  {
+    "id": "q_furong_29",
+    "dimension": "S1",
+    "cross_dimension": "S4",
+    "type": "story_anon",
+    "source_character": "傅融",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个人在众人面前总是嘻嘻哈哈、满口钱和抱怨，从不表露真实想法。但每次危机过后，你都会发现——撤退路线早已改好、最危险的位置已有人守着。这个人的真实面目是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "运气好，恰好每次都做了正确选择。",
+        "scores": {
+          "S1": 1,
+          "S4": 1,
+          "S6": 2,
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用表面的人设做伪装，暗中精密计算每一步。",
+        "scores": {
+          "S1": 3,
+          "S4": 2.5,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "双重身份，每一层都是面具，最深的面具是让人",
+        "scores": {
+          "S1": 2,
+          "S4": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个人就是傅融——副官是面具，房贷是面具，但最深的面具是让人觉得他只有这些面具。"
+  },
+  {
+    "id": "q_furong_30",
+    "dimension": "S3",
+    "cross_dimension": "S2",
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"我没担心人，只是担心挖地道的费用。\"",
+        "scores": {
+          "S3": 5,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "\"保证过……会陪你……走下去的……\"",
+        "scores": {
+          "S3": 1,
+          "S2": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "两句话都是傅融说的——前一句是日常的防御模式，后一句是重伤濒死时防御失效。同一个人，两种表达，构成了他的全部。"
+  },
+  {
+    "id": "q_furong_31",
+    "dimension": "S7",
+    "cross_dimension": "S1",
+    "type": "story_anon",
+    "source_character": "傅融",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "军事部署会议上，众人争论不休。其中一人始终沉默，最后只说了两句话，就同时化解了上级的疑虑和同僚的试探。你更认为他这样做是因为——",
+    "options": [
+      {
+        "label": "A",
+        "text": "他确实没什么好说的，情况很简单。",
+        "scores": {
+          "S7": 2,
+          "S1": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "话不在多，关键是要说到点子上。",
+        "scores": {
+          "S7": 3,
+          "S1": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "他故意只说两句——让每句话同时服务多个目的",
+        "scores": {
+          "S7": 4,
+          "S1": 3,
+          "S6": 3,
+          "S4": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个人就是傅融——\"不能赌\"和\"上位者，疑心病最好别太重\"都是极简的两句话，但分量极重。"
+  },
+  {
+    "id": "q_furong_32",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「兵法讲究的不是赢，而是不输。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「兵法讲究的不是赢，而是不输。」——你怎么理解？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S8": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「宁可千日不用，不可一日不备。」——你更认同哪种态度？",
+        "scores": {
+          "S1": 3,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「天时不如地利，地利不如人和。」——在你心中，最重要的是？",
+        "scores": {
+          "S1": 4,
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "三种态度分别对应：保守策略、极致准备、关系优先。"
+  },
+  {
+    "id": "q_furong_33",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「在战场上犹豫一秒，就会多死一个人。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「在战场上犹豫一秒，就会多死一个人。」——所以你认为？",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「计划赶不上变化，所以要在变化来临之前就准备好变化。」——你的看法？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「有时候退一步不是怕输，而是为了赢。」——你更认同哪个？",
+        "scores": {
+          "S1": 4,
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "果断、周密、策略——三种领导力的侧面。"
+  },
+  {
+    "id": "q_furong_34",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "广陵王让你制定一份攻城方案，但情报有缺，只能推断。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "广陵王让你制定一份攻城方案，但情报有缺，只能推断。你——",
+        "scores": {
+          "S1": 3.5,
+          "S9": 2.5,
+          "S2": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "你带的一支密探小队在执行任务时遭遇伏击，损失了两名队员。撤退后你——",
+        "scores": {
+          "S1": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "绣衣楼内部有人质疑你的用兵风格太保守，认为应该更激进。你——",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "战场上的每一个决策都关乎性命，压力下才能看清一个人的底色。"
+  },
+  {
+    "id": "q_furong_35",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你接到命令要摧毁一个敌方据点，但据点里还有平民。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你接到命令要摧毁一个敌方据点，但据点里还有平民。你——",
+        "scores": {
+          "S1": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有密探在任务中违抗你的命令，但他这样做救了全队。你——",
+        "scores": {
+          "S1": 3,
+          "S9": 2,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "广陵王让你暗中调查一位同僚，你发现他其实并无不忠。你——",
+        "scores": {
+          "S1": 3.5,
+          "S9": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "规则与灵活之间的平衡，体现你对自己信念的坚持程度。"
+  },
+  {
+    "id": "q_furong_36",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「胜利就是一切，哪怕要踏着同伴的尸体走过去。」",
+        "scores": {
+          "S1": 5,
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「输了就是输了，没什么好说的。但下次我不会再输。」",
+        "scores": {
+          "S1": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "胜利至上还是过程导向——这道题测的是你对结果的态度。"
+  }
+]

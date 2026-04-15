@@ -1,0 +1,85 @@
+[
+  {
+    "id": "q_yufan_1",
+    "dimension": "S5",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "虞翻",
+    "source_story": "东吴直臣",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "虞翻以直言敢谏闻名东吴，多次触怒孙权却从不退缩。面对上位者的错误决策——",
+    "options": [
+      {
+        "label": "A",
+        "text": "私下劝谏即可，当众反驳太冒犯了",
+        "scores": {
+          "S5": 2,
+          "S6": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "据理力争，但注意措辞和场合",
+        "scores": {
+          "S5": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不管对方是谁，错了就要当面指出",
+        "scores": {
+          "S5": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "虞翻的选择：宁被贬谪，也不做应声虫。"
+  },
+  {
+    "id": "q_yufan_2",
+    "dimension": "S10",
+    "cross_dimension": "S7",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼新来了一个不守规矩但才华出众的密探，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "规矩就是规矩，必须遵守",
+        "scores": {
+          "S10": 5,
+          "S7": 2,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "给他一些灵活空间，但底线不能碰",
+        "scores": {
+          "S10": 3,
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "有才华的人就该特殊对待",
+        "scores": {
+          "S10": 1,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "虞翻认为规矩是立身之本，不可轻废。"
+  }
+]

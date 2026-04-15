@@ -1,0 +1,515 @@
+{
+  "title": "陶生/活动剧情/陶生·四",
+  "category": "活动剧情",
+  "characters": [
+    "仆役",
+    "仆役？？？",
+    "众人",
+    "士燮",
+    "孙尚香",
+    "孙策",
+    "我",
+    "来客声",
+    "甘宁",
+    "荀彧",
+    "蒯越",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "！！！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "出、出什么事了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "…………我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策，阿香可能回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙尚香！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "咦？！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "我还以为老宅没人呢……我追那贼人一路追来，听见这里有说话声……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "贼人追到了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "没有……突然没兴致了，懒得追了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他在。孙策，把刀带上，我们去找他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "游戏都没玩完，怎么就变成捉贼了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "有什么关系，这样更有趣啊。我也一起去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "呼……我就不去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "……我也是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你跟我们一起去。出去透透气会舒服些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "我哥他们留在主屋，没关系吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "没事，我妹守着他们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "……众人的随行，加起来将近两百余人，此地防卫森严，那人是怎么潜入的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "对……说起来，阿香追着那人进来，两人并未隐藏行踪，随侍和守卫为何毫无动静？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "有见到什么可疑之人吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆役",
+      "text": "头像=黑人影",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不许动——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆役？？？",
+      "text": "头像=黑人影",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "哈，鼻子真灵啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "又是你啊。起来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "诸葛诞，找个人来，把他押去县官那收监。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "找人？从哪找？我刚想说，我们的随行人员是不是都不见了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "……真的不见了。整座宅邸都很安静。就算\n是临时退出去，也不该一个人都不留。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "原来不是你们特意这么安排的？我还奇怪呢，这么多大人物在这，里里外外连一个侍卫都没有。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "闭嘴。你反正都是死罪，再吵，我直接在这斩了你也可以。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "这可不像传闻中的孙郎啊，杀人前还能啰嗦那么多？唔噗——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……咳。我说啊，我揍他……不算毁了这次聚会吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不算。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "感觉要下大雨了，诸位，回主屋再议，如何?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "人都不见了？呵，不可能。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "来人！——来人！都不想要耳朵了吗？！来人！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们单单外外找了，真的都不见了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "我一路上进来没有看见人……但是，在院子内外看见了几个陶人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "我家为什么要摆那么多陶人呀？哥。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "家里哪有什么陶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "来客声",
+      "text": "——有人吗？有主人在家吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "来客声",
+      "text": "有人吗！请主人家开门！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "来客声",
+      "text": "有人在吗？有人在吗？！——啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "荀彧？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "外面出什么事了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "荀彧，出什么事了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "什么鬼玩意？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策！关上门！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "喝——"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·四'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E5%9B%9B",
+  "crawled_at": "2026-04-12T22:07:22.889809",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·四'''=\n</center>\n\n{{对话-头}}\n{{旁白|【主屋】}}\n{{对话|我|！！！！！！！|头像=广陵王-生气}}\n{{对话|众人|？！}}\n{{对话|孙策|出、出什么事了？}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{旁白|心理|……是梦吗？我短暂地梦魇了？}}\n{{旁白|手摸向锁骨，梦魇中被战刀劈开的地方。我又看向孙权、诸葛兄弟、士燮，他们都没有异样。}}\n{{对话|我|…………我……|头像=广陵王-严肃}}\n{{旁白|外面掠过了轻快的树声。是和之前记忆中一模一样的动静——}}\n{{对话|我|孙策，阿香可能回来了。|头像=广陵王-严肃}}\n{{对话|孙策|啊？}}\n{{对话|我|孙尚香！|头像=广陵王-生气}}\n{{旁白|那坠下树的黑影没有像上次那样窜入夜色。听见我的喊声，她站住了，刷地拉开纸门。}}\n{{对话|孙尚香|咦？！！}}\n{{对话|孙尚香|我还以为老宅没人呢……我追那贼人一路追来，听见这里有说话声……}}\n{{对话|孙策|贼人追到了吗？|头像=孙策}}\n{{对话|孙尚香|没有……突然没兴致了，懒得追了。}}\n{{对话|我|他在。孙策，把刀带上，我们去找他。|头像=广陵王-严肃}}\n{{对话|士燮|游戏都没玩完，怎么就变成捉贼了？|头像=士燮}}\n{{对话|诸葛诞|有什么关系，这样更有趣啊。我也一起去。|头像=诸葛诞}}\n{{对话|士燮|呼……我就不去了。|头像=士燮}}\n{{对话|蒯越|……我也是。|头像=蒯越}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{旁白|我看向他们俩，目光落在蒯越身上。}}\n{{对话|我|你跟我们一起去。出去透透气会舒服些。|头像=广陵王-微笑}}\n{{旁白|【客舍】}}\n{{对话|诸葛诞|我哥他们留在主屋，没关系吗？}}\n{{对话|孙策|没事，我妹守着他们。|头像=孙策}}\n{{对话|蒯越|……众人的随行，加起来将近两百余人，此地防卫森严，那人是怎么潜入的？|头像=蒯越}}\n{{对话|我|对……说起来，阿香追着那人进来，两人并未隐藏行踪，随侍和守卫为何毫无动静？|头像=广陵王-严肃}}\n{{旁白|旁边有一名客舍的洒扫仆役，孙策叫住了他。}}\n{{对话|孙策|有见到什么可疑之人吗？}}\n{{对话|仆役|……|头像=黑人影}}\n{{旁白|他的动作停住了，摇了摇头。又低头继续做自已的事。}}\n{{旁白|我们经过了他。就在下一刻——}}\n{{对话|孙策|不许动——}}\n{{对话|仆役？？？|呃——|头像=黑人影}}\n{{旁白|电光火石间，两把战刀对接。那人出刀慢了，被卸去力道砍翻在地。}}\n{{对话|甘宁|哈，鼻子真灵啊！}}\n{{旁白|甘宁，暂时字兴霸，以后可能看见喜欢的会换。为恶一方的水贼“锦帆寨”头目，因被孙尚香追杀，遁入老宅。}}\n{{对话|孙策|又是你啊。起来！|头像=孙策}}\n{{旁白|甘宁被他拽起，他左肩有箭伤，难以反抗，就被我们牢牢绑住。}}\n{{对话|孙策|诸葛诞，找个人来，把他押去县官那收监。}}\n{{对话|诸葛诞|找人？从哪找？我刚想说，我们的随行人员是不是都不见了？|头像=诸葛诞}}\n{{对话|蒯越|……真的不见了。整座宅邸都很安静。就算\n是临时退出去，也不该一个人都不留。|头像=蒯越}}\n{{旁白|高空骤然惊雷，云沉欲雨。在短暂的沉默后，众人都觉察到了异样。}}\n{{对话|甘宁|原来不是你们特意这么安排的？我还奇怪呢，这么多大人物在这，里里外外连一个侍卫都没有。}}\n{{对话|孙策|闭嘴。你反正都是死罪，再吵，我直接在这斩了你也可以。|头像=孙策}}\n{{对话|甘宁|这可不像传闻中的孙郎啊，杀人前还能啰嗦那么多？唔噗——}}\n{{对话|孙策|……咳。我说啊，我揍他……不算毁了这次聚会吧？|头像=孙策}}\n{{对话|我|不算。|头像=广陵王-摇头}}\n{{对话|蒯越|感觉要下大雨了，诸位，回主屋再议，如何?|头像=蒯越}}\n{{旁白|【主屋】}}\n{{对话|士燮|人都不见了？呵，不可能。}}\n{{对话|士燮|来人！——来人！都不想要耳朵了吗？！来人！}}\n{{对话|孙策|我们单单外外找了，真的都不见了。|头像=孙策}}\n{{对话|孙尚香|我一路上进来没有看见人……但是，在院子内外看见了几个陶人。|头像=孙尚香}}\n{{对话|孙尚香|我家为什么要摆那么多陶人呀？哥。|头像=孙尚香}}\n{{对话|孙策|家里哪有什么陶……|头像=孙策}}\n{{对话|来客声|——有人吗？有主人在家吗？}}\n{{旁白|听见有人叫门，室内不由静了下来，谁也没先动，都看向了孙氏兄妹。}}\n{{对话|来客声|有人吗！请主人家开门！}}\n{{旁白|孙尚香起身，被孙策拉住了。他带上战刀，让妹妹看着廊外大雨被绑在树上的甘宁，步入雨夜，走向门口。}}\n{{对话|来客声|有人在吗？有人在吗？！——啊！}}\n{{旁白|孙策单手开门，一手握刀。在门拉开的瞬间，惊雷劈白天地，浑身湿透的人险些摔入门中，撞上他的刀刃——}}\n{{对话|我|荀彧？！|头像=广陵王-惊讶}}\n{{对话|荀彧|啊……}}\n{{旁白|荀彧，字文若。现任许县尚书令，此次因传递天子文书于孙策前来江东。但途中因被贼人打劫，意外前来老宅。}}\n{{旁白|我一把拉住他，单手将人提住了；荀彧没有先管院内的情况，而是匆忙拉上大门，死死用身体抵住两扇门。}}\n{{对话|我|外面出什么事了？|头像=广陵王-挑眉}}\n{{对话|荀彧|……}}\n{{对话|我|荀彧，出什么事了？|头像=广陵王-严肃}}\n{{对话|荀彧|……}}\n{{旁白|下一刻，荀彧贴着木门滑了下去，失去了意识。孙策提刀拉开门，随着一团碎响，从门外滚入了数节断肢和头颅——}}\n{{旁白|咚地一声，廊上观望的诸葛瑾昏了过去，被弟弟扶住。}}\n{{对话|孙策|什么鬼玩意？！}}\n{{旁白|暴雨洗刷血污，门外挤满了密密麻麻的陶人。随着接二连三的裂陶声，它们试着冲入外院，“张”开嘴撕咬——}}\n{{旁白|陶人口中是雪亮狰狞的兽齿，齿间还挂着丝缕鲜红的碎肉。}}\n{{对话|我|孙策！关上门！|头像=广陵王-生气}}\n{{对话|孙策|喝——|头像=孙策}}\n{{旁白|我们一人一边，用尽全力抵上院门。数颗陶人首级被木门硬生生夹碎，大门轰然合死——}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·五|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

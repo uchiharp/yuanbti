@@ -1,0 +1,282 @@
+{
+  "title": "三国志绒绒版/神谕令剧情",
+  "category": "活动剧情",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"三国志绒绒版/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "overflowhidden;"
+    },
+    {
+      "type": "narration",
+      "text": "margin10px 0px;"
+    },
+    {
+      "type": "narration",
+      "text": "displaytable;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft"
+    },
+    {
+      "type": "narration",
+      "text": "displaytablecell;"
+    },
+    {
+      "type": "narration",
+      "text": "verticalalign middle;"
+    },
+    {
+      "type": "narration",
+      "text": "width140px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding10px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbold;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize16px;"
+    },
+    {
+      "type": "narration",
+      "text": "background7B5F44;"
+    },
+    {
+      "type": "narration",
+      "text": "colorF2E3C6;"
+    },
+    {
+      "type": "narration",
+      "text": "textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright"
+    },
+    {
+      "type": "narration",
+      "text": "displaytablecell;"
+    },
+    {
+      "type": "narration",
+      "text": "verticalalign middle;"
+    },
+    {
+      "type": "narration",
+      "text": "widthcalc(100%  100px);"
+    },
+    {
+      "type": "narration",
+      "text": "padding10px;"
+    },
+    {
+      "type": "narration",
+      "text": "colorcbbba4;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan"
+    },
+    {
+      "type": "narration",
+      "text": "float left;"
+    },
+    {
+      "type": "narration",
+      "text": "width 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "color 848080!important;"
+    },
+    {
+      "type": "narration",
+      "text": "background DCCF9E;"
+    },
+    {
+      "type": "narration",
+      "text": "padding 3px 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundEAECF0;"
+    },
+    {
+      "type": "narration",
+      "text": "transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan"
+    },
+    {
+      "type": "narration",
+      "text": "width48%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin4px 1%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft"
+    },
+    {
+      "type": "narration",
+      "text": "displayblock;"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright"
+    },
+    {
+      "type": "narration",
+      "text": "displayblock;"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%9B%BD%E5%BF%97%E7%BB%92%E7%BB%92%E7%89%88/%E7%A5%9E%E8%B0%95%E4%BB%A4%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:05:32.363134",
+  "raw_wikitext": "[[分类:活动剧情]]{{回到顶部|头}}{{面包屑|2025活动剧情|三国志绒绒版/活动玩法}}{{活动背景}}\n\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">三国志绒绒版</div>\n<div class=\"map-dh-right\">\n{{板块|按钮|三国志绒绒版/神谕令·猫邦|神谕令·猫邦对话}}\n{{板块|按钮|三国志绒绒版/神谕令·犬都|神谕令·犬都对话}}\n</div>\n</div>\n{{#css:\n.map-dh {\n    width:100%;\n    overflow:hidden;\n    margin:10px 0px;\n    display:table;\n    border-radius: 4px;\n}\n\n.map-dh-left {\n    display:table-cell;\n    vertical-align: middle;\n    width:140px;\n    padding:10px;\n    font-weight:bold;\n    font-size:16px;\n    background:#7B5F44;\n    color:#F2E3C6;\n    text-align:center;\n}\n\n.map-dh-right {\n    display:table-cell;\n    vertical-align: middle;\n    width:calc(100% - 100px);\n    padding:10px;\n    color:#cbbba4;\n    background:#eee;\n}\n\n.map-dh-an {\n    float: left;\n    width: 120px;\n    color: #848080!important;\n    background: #DCCF9E;\n    padding: 3px 10px;\n    text-align: center;\n    border-radius: 4px;\n    margin:4px;\n}\n\n.map-dh-an:hover {\n    background:#EAECF0;\n    transition:.2s;\n}\n\n@media only screen and (max-width:759px){\n    .map-dh-an {\n        width:48%;\n        margin:4px 1%;\n    }\n\n    .map-dh-left {\n        display:block;\n        width:100%;\n    }\n\n    .map-dh-right {\n        display:block;\n        width:100%;\n    }\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n    \n @media screen and (max-width: 600px){\n    .chengzhang{\n        width: 120% !important;\n        transform: translateX(-8%);\n    }\n    .title{\n        position: absolute;\n        top: 38px;\n        left: 50px;\n        font-size: 2rem;\n    }\n}\n}}"
+}

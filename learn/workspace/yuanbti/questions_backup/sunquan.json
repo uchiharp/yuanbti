@@ -1,0 +1,243 @@
+[
+  {
+    "id": "q_sunquan_1",
+    "dimension": "S4",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "孙权",
+    "source_story": "鬼火事件",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "孙权自导自演鬼火和刺客只为让大人觉得「我也有用」。被识破后不觉得自己做错了。如果你是少年孙权你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "做更极端的事证明自己",
+        "scores": {
+          "S4": 4,
+          "S6": 4,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "换个方式证明价值",
+        "scores": {
+          "S4": 3,
+          "S3": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不证明了等别人自己发现",
+        "scores": {
+          "S4": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "鬼火事件不是野心是少年求关注。"
+  },
+  {
+    "id": "q_sunquan_2",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙权",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「想过，若是我守不住钥匙，便与对方玉石俱焚。」十四五岁少年说出这种话。面对绝境你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "玉石俱焚不留遗憾",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "找第三条路不轻易放弃",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "保命为先，从中可以看",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙权不怕死怕的是没用。"
+  },
+  {
+    "id": "q_sunquan_3",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙权",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我不觉得我做错了。我想要绣衣楼，想要广陵，以后我还想要更多的东西。」面对孙权的权力渴望你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "野心是乱世中生存的必要条件",
+        "scores": {
+          "S9": 4,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "理解但觉得太贪了，值得关注",
+        "scores": {
+          "S9": 3,
+          "S8": 2,
+          "S3": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "权力不是目的安全感才是",
+        "scores": {
+          "S9": 2,
+          "S6": 1,
+          "S1": 2.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙权把「被需要」当「被爱」的孩子。"
+  },
+  {
+    "id": "q_sunquan_4",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙权",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我喜欢你的时候你是自己人。我不喜欢你了你就是敌人。」你怎么看这种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "坦率到可怕但至少真实",
+        "scores": {
+          "S2": 4,
+          "S7": 3,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "太极端了感情不该这样",
+        "scores": {
+          "S2": 2.5,
+          "S6": 1,
+          "S8": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "乱世中这种态度其实很高效",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "孙权还没学会不带目的地去喜欢一个人。"
+  },
+  {
+    "id": "q_sunquan_5",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你是总活在兄长阴影下的次子。兄长不在时你终于有了展现自己的机会。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "全力以赴证明自己不比兄长差",
+        "scores": {
+          "S8": 2.5,
+          "S9": 4,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "做自己想做的事不考虑比较",
+        "scores": {
+          "S8": 3.5,
+          "S6": 2.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "享受难得的自由时光",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙权：一个人的空宅、浓雾中的噩梦。"
+  },
+  {
+    "id": "q_sunquan_6",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「其实不会……一个人的话安静看书也可以看一整天。」",
+        "scores": {
+          "S5": 2,
+          "S8": 3.5,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「我假意投诚董卓赢得了他们的信任。」",
+        "scores": {
+          "S5": 4,
+          "S1": 4,
+          "S4": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A是孙权卸下面具后的孤独少年；B是他十四五岁就能玩转权谋的证明。"
+  }
+]

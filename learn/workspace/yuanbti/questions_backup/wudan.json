@@ -1,0 +1,84 @@
+[
+  {
+    "id": "q_wudan_1",
+    "dimension": "S3",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "伍丹",
+    "source_story": "绣衣楼密探",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "伍丹在绣衣楼中执行任务时常需要打点各方关系。面对一笔数目不小的额外开销——",
+    "options": [
+      {
+        "label": "A",
+        "text": "自掏腰包，不该让组织承担",
+        "scores": {
+          "S3": 1,
+          "S6": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "如实上报，按流程报销",
+        "scores": {
+          "S3": 3,
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "精打细算，用最少的钱办最大的事",
+        "scores": {
+          "S3": 5,
+          "S1": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "伍丹善于在有限的资源中最大化效用。"
+  },
+  {
+    "id": "q_wudan_2",
+    "dimension": "S1",
+    "cross_dimension": "S3",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你得知一位富商掌握着关键情报，但他要求高额报酬才肯交出——",
+    "options": [
+      {
+        "label": "A",
+        "text": "给钱，情报比金钱重要",
+        "scores": {
+          "S1": 3,
+          "S3": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "讨价还价，用最少的代价拿到情报",
+        "scores": {
+          "S1": 4,
+          "S3": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "另辟蹊径，不花钱也能搞到情报",
+        "scores": {
+          "S1": 5,
+          "S3": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "伍丹的信条：能用脑子解决的问题，绝不浪费钱。"
+  }
+]

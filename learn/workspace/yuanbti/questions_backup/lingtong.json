@@ -1,0 +1,228 @@
+[
+  {
+    "id": "q_lingtong_1",
+    "dimension": "S5",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "凌统",
+    "source_story": "丧父断腿",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "凌统在父亲墓前说「父亲，我来看你了。」他失去双腿后用竹制义肢重新站起来。如果你是凌统面对这样的打击你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "接受现实想办法重新站起来",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "需要很长时间消化但最终会好",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "可能会一蹶不振，值得关注",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "凌统一生没有做过任何惭愧之事。他的悲剧性在于始终清醒地承受这一切从不怨天尤人。"
+  },
+  {
+    "id": "q_lingtong_2",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "凌统",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「凌统一生没有做过任何惭愧之事，何必问而决之，遵从本心便是。」这是凌统能给出的最高自我评价。你认为这句话的力量来自哪里？",
+    "options": [
+      {
+        "label": "A",
+        "text": "来自对每一个选择都问",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "来自对过去错误的原谅",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "来自对未来的信心",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "不是没有做过艰难的选择，而是每一个选择他都遵从了本心。"
+  },
+  {
+    "id": "q_lingtong_3",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "凌统",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "面对朱然被怀疑是刘表卧底的指控，凌统说「我可以替他作保，不会是他」。你会为朋友做这种担保吗？",
+    "options": [
+      {
+        "label": "A",
+        "text": "会毫不犹豫地担保",
+        "scores": {
+          "S6": 2,
+          "S8": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "要看证据再决定",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不会担保万一看错人",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "凌统为朱然作保，还请求压下墨家情报——保护的是墨家游侠的传承。"
+  },
+  {
+    "id": "q_lingtong_4",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你失去了双腿，朋友来看你。你的第一反应是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "笑着说没事让他们别担心",
+        "scores": {
+          "S2": 2,
+          "S8": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "坦诚表达自己的感受",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "沉默不知道该说什么",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "凌统始终清醒地承受着一切，从不怨天尤人。"
+  },
+  {
+    "id": "q_lingtong_5",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我们之间，已经是至死方休了。」这句话最打动你的是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "至死方休的决绝与深情",
+        "scores": {
+          "S7": 3,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「我们之间」这四个字的分量",
+        "scores": {
+          "S7": 2.5,
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "能说出这种话需要多大的勇气",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "来自与凌统之父有救命之恩却因仇恨反目的那个人。恩人与仇人的身份在他身上撕裂。"
+  },
+  {
+    "id": "q_lingtong_6",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「明明是你的错啊……伤得那么重还想去外面万",
+        "scores": {
+          "S10": 2.5,
+          "S2": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「遵从本心便是。」，值得深思，值得深思",
+        "scores": {
+          "S10": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A来自对凌统的矛盾情感——恨他又放不下；B是凌统的人生信条。"
+  }
+]

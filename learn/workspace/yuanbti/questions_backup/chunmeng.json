@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_chunmeng_1",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "春梦",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你做了一个很长很长的梦。梦里有人在叫你的名字，声音温柔又遥远。醒来时枕边微湿，窗外的月光照着空荡荡的房间。你想起梦中那个人，心中涌起一阵说不清的情绪——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不过是个梦罢了，翻个身继续睡。",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "起身写下梦中情景，怕天亮就忘了。",
+        "scores": {
+          "S2": 3,
+          "S8": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "睁眼望着天花板，任由那股情绪漫过全身",
+        "scores": {
+          "S2": 4,
+          "S8": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "春梦如其名——在代号鸢中，她游走于梦境与现实的边界，对情感的感知比任何人都敏锐。"
+  }
+]

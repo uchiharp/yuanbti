@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q_zhanglu_1",
+    "dimension": "S10",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "张鲁",
+    "source_story": "汉中五斗米道",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "张鲁在汉中以五斗米道教化百姓，设义舍免费供食，以规矩治民。若有人滥用义舍之粮——",
+    "options": [
+      {
+        "label": "A",
+        "text": "睁一只眼闭一只眼，人心本善，总会改的",
+        "scores": {
+          "S10": 1,
+          "S8": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "派人劝诫，屡教不改者才施以惩戒",
+        "scores": {
+          "S10": 3,
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "立下铁规，违者必罚，以儆效尤",
+        "scores": {
+          "S10": 5,
+          "S8": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张鲁的选择：以法治教，令行禁止，但心存仁念。"
+  },
+  {
+    "id": "q_zhanglu_2",
+    "dimension": "S8",
+    "cross_dimension": "S10",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「治世以大德，不以小惠。」你更认同哪种治民之道？",
+    "options": [
+      {
+        "label": "A",
+        "text": "小恩小惠收买人心最有效",
+        "scores": {
+          "S8": 3,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "恩威并施，让百姓既感恩又敬畏",
+        "scores": {
+          "S8": 3,
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以德化人，制度为本，人心自归",
+        "scores": {
+          "S8": 4,
+          "S10": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张鲁治汉中，义舍与法度并行，正是此道。"
+  }
+]

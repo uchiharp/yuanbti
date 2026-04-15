@@ -1,0 +1,98 @@
+{
+  "title": "模板:羁绊",
+  "category": "密探羁绊",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "头分类密探羁绊div class\"mainlinewrap\"div class\"resptabs\"ul class\"resptabslist clearfix\" style\"margin15px 5px\"密探2密探3分类"
+    },
+    {
+      "type": "narration",
+      "text": "defaultli class\"bililiststyle\" style\"borderradius 10px;overflow hidden;border 1px solid d5b791;\"span class\"tabpanel\" style\"color5a3614;background bb9df1;background d5b791;\"link20px&nbsp;/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "尾/uldiv class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "内容头div class\"resptabcontent\" div style\"height 200px;position relative;overflow hidden;background 000000de;borderradius 10px;\"div style\"position absolute;bottom 5vw;left 20vw;\"500pxlink/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "内容尾/div"
+    },
+    {
+      "type": "narration",
+      "text": "完/div/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "内容1"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "效果"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "内容1"
+    },
+    {
+      "type": "narration",
+      "text": "内容2"
+    },
+    {
+      "type": "narration",
+      "text": "内容3"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "内容1"
+    },
+    {
+      "type": "narration",
+      "text": "内容2"
+    },
+    {
+      "type": "narration",
+      "text": "内容3"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E7%BE%81%E7%BB%8A",
+  "crawled_at": "2026-04-12T22:45:33.926671",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}\n|头=[[分类:密探羁绊]]<div class=\"main-line-wrap\"><div class=\"resp-tabs\"><ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">{{#set:|密探1={{{4|}}}|密探2={{{5|}}}|密探3={{{6|}}}|分类={{{2|}}}}}\n|#default=<li class=\"bili-list-style\" style=\"border-radius: 10px;overflow: hidden;border: 1px solid #d5b791;\"><span class=\"tab-panel\" style=\"color:#5a3614;{{#if:{{{3|}}}|background: #bb9df1;|background: #d5b791;}}\">[[File:{{{2|}}}.png|link=|20px]]&nbsp;{{{1|}}}</span></li>\n|尾=</ul><div class=\"resp-tabs-container\">\n|内容头=<div class=\"resp-tab-content\" >{{#if:{{{2|}}}|<div style=\"height: 200px;position: relative;overflow: hidden;background: #000000de;border-radius: 10px;\"><div style=\"position: absolute;bottom: -5vw;left: 20vw;\">[[File:{{{2|}}}.png|500px|link=]]</div></div>|}}\n|内容尾=</div>\n|完=</div></div></div>\n}}\n</includeonly><noinclude>\n==使用方法==\n\n<pre>\n{{羁绊|头|（貌合神离、一拍即合等）|密探1|密探2|密探3}}\n{{羁绊|选项内容|选项天气|1}}\n{{羁绊|尾}}\n{{羁绊|内容头|百分比加成(貌合神离-70、一拍即合+20、一拍即合+50)}}\n内容1\n{{羁绊|内容尾}}\n{{羁绊|完}}\n</pre>\n\n==效果==\n<pre>\n{{羁绊|头|貌合神离|郭嘉|贾诩}}\n{{羁绊|下毒|大雾}}\n{{羁绊|下毒|小雪|1}}\n{{羁绊|卧底|大雪}}\n{{羁绊|尾}}\n\n{{羁绊|内容头|貌合神离-70}}\n内容1\n{{羁绊|内容尾}}\n\n{{羁绊|内容头|一拍即合+20}}\n内容2\n{{羁绊|内容尾}}\n\n{{羁绊|内容头|一拍即合+50}}\n内容3\n{{羁绊|内容尾}}\n{{羁绊|完}}\n</pre>\n{{羁绊|头|貌合神离|-70%|郭嘉|贾诩}}\n{{羁绊|下毒|大雾}}\n{{羁绊|下毒|小雪|1}}\n{{羁绊|卧底|大雪}}\n{{羁绊|尾}}\n\n{{羁绊|内容头|貌合神离-70}}\n内容1\n{{羁绊|内容尾}}\n\n{{羁绊|内容头|一拍即合+20}}\n内容2\n{{羁绊|内容尾}}\n\n{{羁绊|内容头|一拍即合+50}}\n内容3\n{{羁绊|内容尾}}\n{{羁绊|完}}\n</noinclude>"
+}

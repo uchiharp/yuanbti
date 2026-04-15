@@ -1,0 +1,88 @@
+[
+  {
+    "id": "q_gongsunshan_1",
+    "dimension": "S6",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "公孙珊",
+    "source_story": "幽州风云",
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": "幽州",
+    "text": "公孙珊身在幽州公孙瓒麾下，却心怀百姓。面对公孙瓒下令屠城的军令——",
+    "options": [
+      {
+        "label": "A",
+        "text": "军令如山，执行便是，值得深思",
+        "scores": {
+          "S6": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "试图劝阻，但若无效则遵令行事",
+        "scores": {
+          "S6": 3,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拼死相谏，哪怕抗命也不忍屠戮无辜",
+        "scores": {
+          "S6": 5,
+          "S2": 5,
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "公孙珊的选择：宁违军令，不伤无辜。"
+  },
+  {
+    "id": "q_gongsunshan_2",
+    "dimension": "S8",
+    "cross_dimension": "S6",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼中有位密探受伤后性情大变，对同僚恶语相向。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "以其人之道还治其身，让他知道错",
+        "scores": {
+          "S8": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "保持距离，等他自己想通，值得深思",
+        "scores": {
+          "S8": 2,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "耐心陪伴，理解他的痛苦，",
+        "scores": {
+          "S8": 5,
+          "S6": 4,
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "公孙珊的温柔源于对苦难的深刻理解。"
+  }
+]

@@ -1,0 +1,6351 @@
+{
+  "title": "三国志绒绒版/活动剧情/犬都纪事",
+  "category": "活动剧情",
+  "characters": [
+    "二周年斥候",
+    "二周年犬都群臣",
+    "亲卫",
+    "众宫尉",
+    "众汪",
+    "侍从",
+    "傅融",
+    "关口守卫",
+    "军需官",
+    "农夫狗",
+    "凌统",
+    "刘繇",
+    "刘辩",
+    "周瑜",
+    "周群",
+    "太一君",
+    "孙氏亲兵",
+    "孙氏叛军",
+    "孙策",
+    "孩子",
+    "宫女",
+    "宫尉",
+    "小黄门",
+    "崇德宫尉",
+    "左慈",
+    "常侍",
+    "张辽",
+    "徐庶",
+    "徐氏使者",
+    "徐氏家主",
+    "徐氏家仆",
+    "我",
+    "文官",
+    "朝廷军",
+    "朝廷士卒",
+    "朝廷将领",
+    "李傕",
+    "死士",
+    "民兵",
+    "满宠",
+    "犬都城尉",
+    "犬都士兵",
+    "犬都官吏",
+    "犬都官员",
+    "犬都宾客",
+    "犬都居民",
+    "犬都巡卫",
+    "犬都常侍",
+    "犬都文官",
+    "犬都武将",
+    "犬都百姓",
+    "犬都老人",
+    "犬都臣子",
+    "犬都青年",
+    "狗巫师",
+    "甘宁",
+    "百姓",
+    "祢衡",
+    "群臣",
+    "董白",
+    "袁基",
+    "西凉众汪",
+    "西凉军",
+    "西凉军犬",
+    "西凉将领",
+    "郭汜",
+    "长安守卫",
+    "阿蝉",
+    "马氏亲兵",
+    "马腾",
+    "马超",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "快快快快——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "迟到狐迟到狐——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=狗绒绒·徐庶",
+      "emotion": "嗷呜咬住徐神的尾巴巴——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "嗷呜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都居民",
+      "text": "头像=狗绒绒·青年女",
+      "emotion": "啊，好壮观的一串，传说中的绣衣楼赶上朝……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "要迟到了啊嗷呜——为了全勤，火光闪电！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都居民",
+      "text": "头像=狗绒绒·青年女",
+      "emotion": "像、像狂风一样掠过去了？！！真不愧是……真不愧是……全犬都最可靠的傅副官！犬族楷模！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐！快赶上了，就在……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军犬",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "嗷汪汪汪滚开滚开滚开——西凉军出行，统统滚开！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "可恶！被挡住了……这群西凉军犬嗷呜！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "嗷呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "啊没有说小蝉没有说小蝉，我们小蝉是西凉小可爱汪！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "他们经过了……道路终于让出来了，但是……迟到了狐……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "我的全勤啊啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哎……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=狗绒绒·袁基",
+      "emotion": "殿下，偶遇嘶。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "吓！什么时候出现的，一点声音都没有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下是奉诏往内廷面圣吗？请走南渡廊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "北门都是西凉军在把守，严查内廷和外朝的书信嘶……会耽误很多时间的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "多谢。今日宫内的布置真是严密……因为董卓准备开设夜宴、召集百官，所以处处都是西凉军的设卡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "殿下，内廷在催促呢……宴前的准备快要开始了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=狗绒绒·刘辩",
+      "emotion": "滚！滚出去！滚出去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小黄门",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "陛下、陛下小心些，别刮伤爪子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你在教朕做事吗？！出去！今日谁都不见，绝不会去董卓的夜宴！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "头像=狗绒绒·少女",
+      "emotion": "陛下不要再动了，会摔下去的——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "嗷呜……哪里有犬都皇帝的样子，明明是犬族，却猫里猫气的，成天爬到殿顶胡闹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……你是在暗暗地中伤皇帝陛下吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "噫没有没有绝对不敢——殿下一定听错了嗷\n呜汪汪——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "真的是狐……一个个对天子毫无敬畏之心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "天子风趣随和，展现着君主的仁德，从不对下严刑峻法，结果反而因此被轻慢对待……你们应当好好自省！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众宫尉",
+      "text": "嗷呜是！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "广陵王！广陵王你来了汪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "臣来救驾了……嘿咻……陛下等一下……嘿臣马上就……嘿咻咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "广陵王你的尾巴也在打颤……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "没没没没关系的臣不恐高狐狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "如果下不去的话，是不是就不用参加今晚董卓那边的宴会了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "嗷呜……那些西凉犬族浑身都是灰，臭得流汁，和他们待在同一座宫殿里简直是酷刑……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……犬都现在被西凉的军阀把持着，士族门阀只顾着趁机蚕食各州郡的实权……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "以后会怎么样呢……犬神前些时日发出了天兆神谕，昭示了和猫邦的终战……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "按理来说已经要开始准备犬神宴的供奉了，只有足够的供奉，才能让神明庇护犬都赢得胜利……但是，根本无犬响应。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不必担心！有臣在！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "眼下因为西凉军阀占领皇城，导致犬都有些小——小的混乱狐，但是放心，犬神宴也好、终战也好，一定都会顺利狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "臣可是天子直属的绣衣校尉，代天子行事，外面的一切事务都进展顺利，不必担忧狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "会很危险的汪……昨天，西凉军还在朝堂上当场杀了两个文官……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "没有危险的公务，只有勇敢的狐狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我们青梅竹马一起长大，无论发生什么，臣都会坚定站在陛下这边，不顾生死地保护陛下，狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军犬",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "这边的吃食可真素……酒呢？再取些酒来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉将领",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "汪呼呼……张辽将军，这些酒肉味道不错，请享用吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "哼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "怎么了辽哥？怎么和文士一样吃东西慢悠悠的了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "这里可是皇宫……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "哈哈哈哈——有什么关系汪吼，现在是西凉汪的地盘了！嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉众汪",
+      "text": "嗷呜——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……安静。一群笨狗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "我代爹爹传话，今夜既然天子不来，那就请广陵王上座。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "天子就算不赴宴，也没有任何人能坐御座。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……这样啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "可是，爹爹说了，上座空置着，真的是十分难看。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你又看不见，狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "话说回来，既然都召开夜宴了，他为何不从幕后坐到前面来，而是躲在屏风后面让你传话？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "爹爹如今身居高位，自然要谨慎行事，防止一些别有用心的小狗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "不、不好了——有刺客啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……看吧，果然有刺客……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军犬",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "保护董老大！有狗行刺！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……狐……因为行刺的事，夜宴中止了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不知道后面会不会有风波……西凉军也许会趁机发难，以此为由清除异己。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "回去之后先暂时告假几日，避一避风头吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=狗绒绒·徐庶",
+      "emotion": "二牛说得有道理，今夜全城都封锁了，到处都是巡犬。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗯，回去暗中调查今夜刺杀之事吧，不知道是真有刺客，还是西凉军自导自演……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……谁？谁在那？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "嘘嘘嘘你个瓜娃哦师弟！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这个声音，莫非你是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "是师兄吼喽！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄狐——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……师兄，你身上，怎么都是血？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "哼哼……当然是因为……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "老子去宫里刺董了吼喽！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "还没有找到行刺者吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "……是……不过已经全城封锁了，应该已经……呜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "啃啃、啃啃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "好啰嗦哦汪，好啦，这就是你们今天的午饭了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军犬",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "哈哈哈谢谢马超将军！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都官吏",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "呃……呃呃……别杀我！下官一定会找出刺客的"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……嗯，要努力哦。敢拿官场上糊弄的那套东西躺平的话，下场就和他一样呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "报！我们抓到刺客了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……真快啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "汪……就是我做的！要杀就杀吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "超哥，你闻，他身上的味道……嗅嗅，嗅嗅……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "没有什么特别的味道啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……对啊，好清爽的味道呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "………………一个浑身是血、仓皇逃命无处容身的武士，身上的味道会那么干净吗？三天了，应该都是血臭汗臭了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "嘻嘻……嘻嘻……嘻嘻嘻嘻嘻嘻嘻嘻……你的主人是谁呀？！！把我，竟敢把我当成笨狗耍吗嘻嘻嘻嘻嘻？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "不要让他死了嘻嘻嘻……很快，我想让他说什么，他就会说什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……外面，怎么样了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "外朝吗……一切都好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……骗汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我听说了一些风声。是不是有很大的变故？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "怎么会呢，一起尽在爪握。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "陛下，陛下……刘辩！过来，说悄悄话……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "如此如此……这般这般……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……原来如此，把罪名扣给袁氏吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "眼下，虽然最大的危机是西凉军，但是，更长远的危机是门阀天下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "如果能借此事，让军阀和门阀互斗，两败俱伤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "不管是输是赢，光是听听都觉得解恨……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "等解决了这些问题，我们就一起向神明供奉那块壁画吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……父皇当年把这块壁画偷偷从神台上撤走了。本来要销毁的，但是被一些老臣像像保存下来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "听说他派人去密窟里挑选了他更喜欢的壁画，换上新壁画后，犬神就一直发出和猫邦备战的天兆了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "毕竟是皇帝呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这块古老的壁画，是所有绒绒一起幸福快乐生活在一起、没有隔阂、没有战争的绒绒村传说壁画……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "对皇帝来说，如果犬神一直发出关于绒绒村的天兆，就会不断削减皇权和天家威仪吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "唔……是啊。绒绒之间有隔阂了，才会形成各自的阵营，彼此制衡。有战争了，才会生出恐惧和服从……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "如果天下变成了幸福快乐的绒绒村，那就没有人会敬畏天子了。越是封闭和孤立，绒绒才会越顺从权力。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "天子想要当得安稳，就要嘴上说希望子民幸福快乐，实际不断制造各种各样的隔阂、仇恨和战争啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "但是，你又不想变成那种皇帝……就算握着大权，也没有任何愉悦狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "哈哈……对啊，我只喜欢每天喝酒，跟你去爬殿顶！权力这种东西就跟西凉军犬一样臭烘烘的，恶心！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "所以狐，等眼前这些麻烦事过去……我们就去向神明供奉绒绒村的壁画吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "头像=狗绒绒·少女",
+      "emotion": "……陛下……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "头像=狗绒绒·少女",
+      "emotion": "外朝那边说……刺客的事查出端倪了，请殿下晚上过去议事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……来了吗……超哥，闻闻味道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "嗅嗅，嗅嗅……有好吃的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "内廷鹿肉干！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "好吃！今天的兄弟是好汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "够了笨狗，让他们也进来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=狗绒绒·满宠",
+      "emotion": "汪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……啊，是负责刑讯的满宠使君呀，使君辛苦了狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=狗绒绒·满宠",
+      "emotion": "汪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "把你问出来的事情告诉我们吧，满宠。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=狗绒绒·满宠",
+      "emotion": "汪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "哇，好猛的哥，封他为宠哥吧，兄弟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "内廷鹿肉干！狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=狗绒绒·满宠",
+      "emotion": "呱唧呱唧……嗯，活过来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "满宠",
+      "text": "头像=狗绒绒·满宠",
+      "emotion": "这罪犬说，他是被袁氏派来行刺的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "是吗……好了，你下去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "广陵王，我们私下聊一下吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "超哥，你怎么看？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "袁氏犬族看起来很好撕开的样子！总是嘶嘶叫！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "真是狼子野心！袁氏居然敢派人行刺董卓……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "唔……你信吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "我可是一个字都没法信呢……说实话，真相到底是什么，我们心知肚明。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这种诱供的话术太幼稚了，狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "毕竟我年少啊。话术幼稚点有什么关系呢，关键是……你想尝尝更好吃的鹿肉干吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "犬神之前发出了和猫邦终战的天兆，按理来说应该筹备犬神宴供奉犬神，以此让神明庇佑犬都赢得战争……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "所以，西凉军有意扶持你为天子。你意下如何，广陵王？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "唔……原来如此……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "上啊师弟！！！教教刘辩怎么当天子——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊啊根本没有好好听我说！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "荡来荡去~荡来荡……啊喽唔噗！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=狗绒绒·徐庶",
+      "emotion": "下来啊臭猴子！挂在房梁上吵死了！小宝你继续说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "他们打算带兵逼宫，要刘辩禅让，让我里应外合，打开内廷宫门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "既然如此……我们就趁机秘布兵马，在内廷和外朝之间包抄西凉军，把他们一网打尽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "没想到殿下会亲自前来，啊，今日刚好有新鲜的茶香冻干嘶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "毕竟是借兵的大事啊。长公子听说了吗？之前刺董的刺客，声称他是袁氏派出的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "唉……真是无妄之灾嘶……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "就是狐，西凉军必须被尽快处理。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……听见声响了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗯，时间快到了狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "他们……散去了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "…为何……突然退兵，是发现了什么吗？\n还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都巡卫",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "你们是谁？！——警戒！城中有伏兵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都士兵",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "是广陵王发府兵？！不好了！广陵王起兵了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "殿下汪！城中另一侧没有袁氏的兵马汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都城尉",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "敲响城中，全城戒严——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "怎么办，楼主？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "进宫，去内廷！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "只要见到天子，天子就会下令平息！快动身！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "广陵王，你做什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "不行，内廷已经落锁了！如果要开宫门……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我有天子的特令，可以直接叫开宫门，开门！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "必须请天子的意思才行……派小犬去崇德殿传报……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "崇德宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "不能打开内廷宫门"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "为什么狐？！我有天子的特令！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "崇德宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "就在刚才……天子……天子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "崇德宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "天子被董卓请去议事，然后就失踪了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "？！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哈哈哈——兄弟，果然如你所料！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "闭嘴，超哥，吵死了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "广陵王，没有天子的命令，你为何深夜起兵？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "天子在哪？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "不知道呢，也许……是被你们这些反贼，剁成肉酱了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……不可能狐……为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "楼主，有兵马来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "楼主！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "这么呆，真的是狐狸吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊！被抓住了狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "哼，才醒过来吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "听见外面的声音了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "是御前雅乐的声音……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "嗯，天子……不，现在应该叫先帝，生死不明。在袁氏的推荐下，各方拥立了新君。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "只余你……唔噗！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "竟、竟然敢砸我？！！死狐狸——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不许叫他先帝！刘辩一定还活着！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "不许砸我！不许刨土砸我！！！可恶！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "想变成狐狸围脖吗？！要不是看在你是我最大的军功，我今天就扒了你的皮！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "既然都被打为反贼了，为什么不把我斩立决？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "当然是要等新君的判决。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "那个……张辽将军……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "不要用这么套近乎的语气求情，没用的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……阿蝉在哪？她还好吗？她跟我提起过你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "不要打犬情牌，没用的，哼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……她差点被你牵连了。趁着这次把你们分开，之后再送去安稳的地方……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "阿蝉没事就好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "这才像话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……那个，张辽将军……抓到了我，你能得到多少军功？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "谁知道呢。我又不是董卓的亲信……可恶……因为不是亲信，结算军功的时候轮不到功劳，打仗的时候就要最卖命……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "呃啊啊啊恨啊!这次明明抓住了一个大军功，说不定结算的时候也会被算在李催郭汜的头上！上次就是……上上次……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "这个这个那个那个还有还有那个那个可恶可恶之前之前……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "太过分了狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "对吧？！太过分了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "那因为张辽将军不是他从并州带出来的亲信，就很难高升吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "哎……世道啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……不管怎么样……算了，都走到这一步了，算了……至少是个事业……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我们谈个交易吧，将军？你能告诉我刘辩的下落吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "生要见犬死要见尸狐……他肯定是落在你们手里的对吧？至少告诉我他的处境……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……他不在我们爪里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "你还抱有希望吗？不信的话，我带你去看看现在外面的局面吧。就算他活着也没用，局势已经定下了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "群臣",
+      "text": "拜见陛下！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "哈哈哈——平身！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "朕今日的毛色怎么样？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "真是非常优雅的深灰，何等华丽、何等雍容啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "没品的东西！这是灰蓝！尊重的灰蓝！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真的能看出在灰色下有一丝优雅的蓝调啊，嘶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "嗷呜，有品有品！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "哈哈哈，听着，朕要颁布第一条政令——全国的犬族每月都要做美容，朕不允许王土内出现丑狗!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "群臣",
+      "text": "陛下英明！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "英明嘶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "看见了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "刘辩才是优雅的纯正玄黑！黑得丢到墨里面都找不出来！啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "黑色灰色什么的根本不重要！重要的是，朝中现在已经有新天子了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "那个先帝怎么样都不重要了，死心吧。哼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……但我不能不管他……狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "形势比……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "是刺客！刺客在梁上！保护陛下！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "哈哈哈——受死吧，狗皇帝吼喽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "朕没事……封锁内廷，不要让他跑了汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "唉……又要开始劳碌了，唉……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "……是张辽将军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "嗯，嗯。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "张辽将军，你为什么……把反贼广陵王放出来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……………………啊啊啊啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "来狗啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫尉",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "张辽和广陵王是一伙的！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "跑跑跑跑跑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "跑跑跑跑跑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军犬",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "杀呀——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "剑来！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "徐庶前辈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "哦哦，小宝自己逃出来了呀？我还打算跟你师兄一起去救你呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "哦哦！原来是小蝉的家长啊，嗷呜一个！嗷呜——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "……嘶。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "……好冷漠。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "前辈，大家都平安离开雒阳回广陵了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "嗯，都平安无事汪！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "不过你见到二牛的时候不要刺激他啊，他……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "傅副官，冷静点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "根本没法冷静——雒阳的……雒阳的……雒阳的房贷和首付啊啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "……文远叔？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不——我不想听见输这个字了……不——<ref>阿〇大文娱总裁分管灵〇互娱半年后，在全员会上说：“(灵〇老板)周〇枢这个名字就不太好，怎么能叫输呢。”</ref>",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "傅副官，楼主回来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "傅融，我回来啦狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哎？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "回来了……呜……为什么每次都把局势弄成这样……但是……能回来就好……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……刘繇吗……好像是江东那边的宗室官员。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "猫邦那边都已经在集兵准备进攻了，这边还在军阀互斗、门阀算计……真是没救了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "……如果投靠猫邦的话，军职能不能原位保留？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=狗绒绒·徐庶",
+      "emotion": "呜呼！要输光了，干脆所有汪一起回隐鸢阁搓麻吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "呼呼……晒太阳呼呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊哈哈，听起来好像真的没救了狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "啊啊啊不行不行不行狐！大家振作起来狐！既然现在已经不必顾虑内廷了，那，我有一个拯救犬都的计划！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=狗绒绒·徐庶",
+      "emotion": "犬都什么的……不如回隐鸢阁吃火锅搓麻啦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "犬都被拯救了，房价会跌吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "跟我的军功有什么干系。哼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "呼呼……晒太阳呼呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "会的！只要完成这个计划，满大街都会是火锅和麻将台，房价会跌，会有配享太庙的军功，每天都能晒太阳——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众汪",
+      "text": "嗷呜？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "只要夺回皇宫深处的绒绒村壁画，供奉给神明……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "大家就会放下争端、停止战争，团结在一起，挡住猫邦的进攻！谁赞成，谁反对？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众汪",
+      "text": "反对——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哎？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "不打仗了，还要我们武将干什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "从成本核算的角度来说中止犬神宴更改备战目标根本不划算。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "哈欠……那个绒绒村里面听起来没架可以打啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "呼呼……太阳呼呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "一人五十箱鹿肉罐头——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众汪",
+      "text": "出发嗷呜——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "……嗅嗅……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "前面好严密的守卫汪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "从这里开始，我们就要分头行动了。徐庶前辈引开南边的巡卫，傅融负责观测东边的宫尉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "张辽将军可以买通老下属，打开小门，让我和阿蝉无声无息进去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "阿蝉留在崇德殿外放风，只有我知道壁画藏在哪，我去把它带出来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "那，我在这里放风。楼主小心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "兄弟，咱们下一步做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……下一步吗？你至少先博取刘繇的信任吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "啊？听不懂，有简单点的解释吗？比如吃饭、拉屎、往左走之类的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "这可不是打仗，接下来全都是朝堂斗争，你如果弄不明白，最好别出声……呜啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "放……放开我汪！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "你是不是说，你没法给我出谋划策了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "要是这样的话，留你也没有什么劲啊。毕竟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "——董卓已经死了啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "都说了不要提这件事……呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "瞒不了多久了吧？尸体都快臭了，你一直替他传话，西凉犬都开始觉得不对劲了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……没关系，重点是利益，只要他们都能得到足够的利益，就没有狗会主动揭穿……呃呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "啥呀？！还要管他们的利益？不是老子全部吃进？这不仗义吧？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "喂，要不然简单点吧？就公布他已经死了，你拥护我当老大！我肯定不会亏待你……唔啊！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "有破绽！狐爪踩脸——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "啊啊啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "楼主，得手了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "成功！还绑架了重要犬质，狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "嗷呜！这就是传说中的绒绒村壁画啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗯嗯！它一直被藏在内廷。只要把它重新供奉给犬神，神就会发出新的天兆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……你要怎么让民众听从新的天兆呢？之前可是发出过终战天兆的，但是响应天兆、供奉犬神宴的狗寥寥无几。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "刘繇为了证明自己的威信，肯定会尽全力实现天兆的狐。至于这个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "唔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "呜呜……呜呜呜……你们要……要对我做什么……呜呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "看起来好乖哦，这个吉娃娃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "人家是吉娃娃哦……呜呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "才不是，是品种为边牧的纯坏种啊！听我说，前辈，只要挟持他，就能牵制一部分西凉军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "这么有用？那还管什么绒绒村壁画，挟持他以令西凉军，称王称霸噻！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "行李，嘿咻……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嘿咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "真的要去吗？神像被转移到长安之后，可是有无数重骑兵在把守啊汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "如果犬都都被攻陷了，那称王称霸还有什么意义呢？狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "殿下，袁氏的长公子来了，说有要事想见殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下，嘶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下，嘶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "袁氏……想暗中扶持我，和刘繇以及西凉军对抗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "是的嘶……终究不是正道呢。汉室以黑为尊，但是那位怎么看都只是普通的灰贵宾……啊，不知不觉说了不谨慎的话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "是啊是啊狐！明明只是灰贵宾，但却要沽名钓誉把自己包装成什么灰蓝色系……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "这样下去可不行呢嘶，以后汉室犬族的毛色会越来越淡的，逐渐丧失威仪呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "以前有狗中伤殿下，不就骂殿下是“荧光黄的混色系”吗……？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "那是因为……因为我是狐狸族，狐！犬都的三大种族就是犬、狐狸和狼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "就是就是嘶……所以，殿下考虑得如何呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "太可笑了狐，你们只是想双边投机而已狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "哎呀，被看穿了嘶……不过，本就是应该被看穿的，毕竟，这才是符合士族利益，以及广陵利益的决定啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "再如何反感有也不能否认，和袁氏联手，能够快捷解决眼前的困境、犬都的困境的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "毕竟多边投机才能在乱世立于不败之地狐……那，条件呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "驱逐广陵所有的西凉势力。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "张辽，张辽的兵马，还有那位西凉女官，以及她的亲兵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "以此，殿下才能证明自己的立场——和刘繇、西凉军那边完全相反的立场，如此一来，我才能说服家族，将筹码押在广陵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哼哼……企图太明显了。驱逐眼下寄身广陵的西凉兵马，就只能全然依靠袁氏的兵马了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不管我和刘繇谁赢，袁氏都能吃到好处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "如果赢的是殿下，殿下就能吃到最大的那块好处呀。嘶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "为了成为最后的赢家，于是便无情地驱逐亲友，是何等的不道义啊狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "无情最是帝王家嘶……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "那也是成为帝王家之后的事，在成为帝王家之前就散尽人心和善缘，只会落得失道寡助！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下嘶……绒绒们所谓“政治”，本质是“绒之治”啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "一切政治斗争的本质，都是绒和绒之间“立场”的战争。要证明立场，就必须旗帜鲜明地剔除一切西凉势力……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "如此，反西凉的巨大力量，才会自然而然地汇聚到殿下身后。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下原是先帝亲信，一切权力来自先帝。绒绒只会对自己权力的来源负责，如今，殿下急需找到新的权力来源嘶……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……真是很纯粹的政治动物啊狐，袁公子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=狗绒绒·袁基",
+      "emotion": "过奖，过奖……嘶。袁氏上下，都在期望殿下的答复。告辞嘶。请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=狗绒绒·周群",
+      "emotion": "殿下，打算怎么做汪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "当然是……尽快杀到神明面前，供奉壁画狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "哎哎可是袁氏的提议——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不理会就相当于不存在！如果这个提议让自己感到犹豫，就说明还没有到做决定的时刻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "真正做决断的时刻，应该是毫不犹豫、水到渠成地做下决定才对！出发，去长安——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "呜呜……不要拽我呜呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "他看不见……要不轻一些吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "张辽将军，不要被外表柔弱的孩子蒙骗了狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "想想从前，他可是替董卓传话，趁机扣光了你所有的军功，让你无法升迁啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "可恶哼——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "唔哇哇……不要打我……呜呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "算了，哼。坏边牧。毕竟是边境州郡的州牧家族……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长安守卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "有敌军攻城！李催将军！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "居然敢来长安……迎敌！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭汜",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "等、等一下嗷呜老李！那是小董白居米！可恶，居然挟持那么无辜的小狗！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "呜呜……叔叔救我……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "才没有！一点都不无辜啊，简直是纯坏种啊！……不，我是挟持他的狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "——想要他活命就乖乖打开城门！不然我就把他的毛修成边牧最丑的寸头款！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……这种威胁具的会有威慑力吗？只是变一个发型而已……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "呜呜不要动我的粉毛……叔叔，叔叔们救我……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "哦哦哦哦哦哦——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭汜",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "哦哦哦哦哦哦——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "统统让开！不许阻拦，不然我就给他剃寸头了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长安守卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "啊啊你这只反贼狐狸简直没有犬性，居然能对这么可爱的吉娃娃动手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "让开让开——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "劲啊，兄弟，居然能打到这？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "神像就在前面……马超！不想他有事，就让我们过去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "超哥……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哎呀，兄弟被挟持了啊，这种时候……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "呃……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……被……射中了……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哈哈哈——死了就不会被挟持了，开杀！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "我去引开他，哼。你的手脚最好快些！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "准备……冲狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军犬",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "嗷呜拦住这只狐狸！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "嗷呜——唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "吼喽！师兄重现！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄，拦住他们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "神明神明……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君",
+      "emotion": "唔……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "让战乱停止的天兆，神明神明……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君",
+      "emotion": "唔……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君2",
+      "emotion": "哔叽——呕——呕呕——竟敢——竟敢用假货供奉我——哔叽！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "假、假货？可是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "啥子情况？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "好了没有啊？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "壁画是假的……？不可能……为什么……一直被藏在内廷的壁画，怎么可能是假的……不可能……不可能……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……如果是被掉包了，那是什么时候被掉包\n的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "他们穷途末路了！把他们围住，一个都别放跑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "妖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "妖祥，开汪——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众汪",
+      "text": "？！！！！！！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师尊狐——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "小宝，有好消息汪，西凉军从三辅败退了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "一定~是被~师兄我~潇洒的身法吓跑~吼喽~",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "当然是被师尊打散的，狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "局面，变好了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗯，因为长安的西凉军仓皇四散，雒阳的西凉军也紧跟着军心涣散，很快就被士族的府兵联手击败了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "等朝局再恢复一些，就要设法完成犬神宴……猫邦最近已经开始集结兵力了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……是吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=狗绒绒·周群",
+      "emotion": "殿下，殿下！外面出事了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都百姓",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "求殿下主持公道！我们……我们店是小本买卖，但西凉犬策马经过，把摊子都掀了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "不当心就……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "不是已经赔了吗……哼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都百姓",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "这不一样！你们每天从我店铺面前经过，闹得人心惶惶，客源都变差了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "以前我也每天走那条道……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都老人",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "以前大家就有很多地方敢怒不敢言吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "这么不待见的话就算了！阿蝉，我们走！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "可是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "稍等一下，稍等一下……这个，马匹碰翻摊子也不是很少见的事，是赔偿金额方面没有谈拢吗还是…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "殿下！如今各地都在清剿西凉余孽，广陵是不是也该清算这些西凉犬？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……这……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "容后再议。他们在广陵期间并没有作乱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "你是要包庇吗？！我家可是从三辅逃难来广陵的，我的家人都被西凉军杀害了啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "清算西凉军在三辅的罪行，是三辅的廷议奉朝廷之命裁决。如果他们在广陵作乱，则在广陵廷议裁决。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "否则便是私刑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "仙人说得没错……阿蝉也在这住很久了，以前不是很和睦吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "私刑……西凉军残杀我家人的时候，可没想过什么审判什么私刑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "他们这样对待我的家人，我凭什么不能复仇？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……虽然西凉军被赶跑了，但是，总觉得局面变得微妙了起来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "各地士族，都在鼓动追杀西凉余孽，除恶务尽。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "除了马超，因为射杀董白获得了特赦，留在了刘繇麾下……其他的西凉军，如今都处处遇敌。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "西凉军在的时候是天下公敌，有公敌，就不会内斗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "嗯，公敌是可以被塑造的。士族想要延续这个公敌，避免犬都开始内斗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "百姓也需要一个公敌，用来宣泄情绪。所以，这个局面，是你无力改变的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "没有共同的公敌，绒绒们就会自相残杀，输掉终战，只有强调公敌的存在，犬心才能凝聚。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "最理智的做法，就是像其他大都人一样驱逐所有的西凉犬。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "从众，是最理智的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "从众能最大程度避免自己成为公敌。能起到这个效果就是最理智的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不理智的做法呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "抱着成为下一个公敌的觉悟，做你觉得正确的事吧。无论发生何事，吾都会站在你这边。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师尊，我要去绒绒密窟，再找到一份绒绒村的壁画！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "眼下西凉军退败，神明重新被朝廷和士族把控，他们一定会开始号召供奉犬神宴……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "只要供奉犬神的事被抬到第一位，天下百姓就会被层层压榨，生不如死。因此，我还是要从根源上终止大战！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……毫无理智，但具有道义的选择。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "去吧……但是，吾有一句话，要提醒你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "雪球一旦开始从山顶滚落……一旦开始……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "无论你抱有多大的意志和勇气张开双臂，都无法阻挡它的滚落。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……嗯，我明白了狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "去江东？好耶！那边的狗都很有武德！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不是让你去打架的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "可以顺便和凌统约战！师弟一定要来观战看师兄的英姿吼！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "绒绒密窟是犬都重地，位于江东，一直被朝廷军严密把守着。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄善于潜入，我们一起去江东，找到绒绒密窟，取出里面新的绒绒村壁画吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏叛军",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "杀——不能让孙策把我们都带上死路！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏亲兵",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "你们这群叛徒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "唔啊……打得好凶哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "祢衡前辈，汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "公绩！好久不见，我陪师弟来江东，你们这好热闹！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "见笑了，江东这边总是这样，吵吵闹闹的。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏叛军",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "杀！为头目报仇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏亲兵",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "一个都不留！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "唔……之前西凉军退散了，孙氏族内分成了两派。一派认为，孙策和殿下交好，应该继续和广陵结盟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "另一派觉得，广陵在西凉之事上态度暖昧，如果继续结盟，江东会因此被牵连。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "所以开始内斗了啊……吼吼公绩，那我们也开始切磋吧，反正前后左右都在火并！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "抱歉，让前辈失望了，汪。现在还是公务时期，不能行私人之事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "殿下，请随我来。放心吧，我会保护二位穿过乱军的。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "狐……尾巴尖尖被咬掉了，狐……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "兄长狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "你怎么来了狐？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "周中郎将前日负伤了，因为是尾巴负伤，目前只能趴着。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哈哈哈只能趴着哎拍屁屁拍屁屁——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "不许拍兄长的屁屁狐——啊啊啊尾巴……好痛……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "忍耐一下，不要摇尾巴，中郎将。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙氏叛军",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "顶住、顶住啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=狗绒绒·孙策",
+      "emotion": "就你们这点力量也敢闹叛乱？！太弱了太弱了嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊孙策唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐……尾巴好痛狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "尾巴痛狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哈哈哈你们真不愧是兄妹嗷呜连伤的地方都一样唔噗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐狐攻击！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "古琴麻醉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我错了。汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你怎么突然来江东了？最近这边在内斗呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我是来找绒绒密窟的。如此如此这般这般……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哦哦……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "什么“哦哦”啦！一点都不激动！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "真的可能实现那种事吗？神明哔叽一声，天下就不打仗了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……那种程度是做不到狐……但至少可以发出止战的天兆 。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "然后天下汪就幸福快乐了？这种世道真的实现过吗……世上的绒绒居然能对别的绒绒的幸福快乐喜闻乐见？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "当然不可能狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "是啊，看见别的绒绒幸福快乐，心里想的才不会是“真好啊”，而是“凭什么”吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "绒绒既不可能共情痛苦，也无法共享喜乐的。绒间可是地狱啊，放弃吧，狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你这是什么狸想破灭发言狐——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "你那又是什么狸想主义的幻梦狐——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啊啊啊不要打不要打不要踩在我的尾巴上打啊啊啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "但是但是但是——绒绒村本身听起来还是很美好的，嘿嘿汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "是吧是吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "虽然心里知道，打仗是为了夺得天下，夺得天下是因为自己想夺得天下……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不管其他军阀门阀嘴上说什么为了天下苍生啊、为了大道啊、为了匡扶汉室啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "绝大多数的犬心里想的还是，自己想要天下和权力吧。不过，权力对我来说太可怕了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "权力，很可怕？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嗯，是最可怕的东西，比毒药还会腐蚀犬心。所以我想打下天下，对权力倒是没什么兴趣……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "如果绒绒村可以实现，好像天下太平也不错。就算我打下了天下，最终也是想天下太平的汪！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嘿嘿狐……这样认真说话的时候很帅狐……么么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嘿嘿汪……你要是喜欢……么么……唔噗——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "啊啊啊看不下去了狐古琴麻醉——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "……孙将军一下子变成了伤得最重的狗呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "眼下重点是要去那个密窟找到她要的壁画，不过，我们都负伤了狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄，能交给你吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "放心吼！天下第一可靠师兄去也——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "天都黑了……不知道师兄那边顺利吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "放心吧，汪。祢衡前辈一定能顺利归来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "咔咔咔守备空虚今天可以一点点把你的皮剥下来……噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊，被打飞了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "请不要在意。要再添些酒吗？汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "多谢……哎，师兄回来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "我回来了……吼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄，壁画壁画壁画狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……在这里……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "让我看看……绒绒洞窟狸的神明壁画，真正的应该是什么样的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "………………怎么可能……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "我去了洞窟尽头，只见到了这样的壁画……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "……猫族、犬族，还有天下所有的生灵，厮杀在一起的壁画。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "…………………………为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "没有绒绒村的壁画……只有这个………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "殿下，殿下，广陵那边出事了，殿下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "刘繇率领朝廷军，以广陵窝藏西凉余孽的罪名，向广陵出兵了！殿下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "汪，终于回来了汪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……阿蝉怎么样了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "情况不好……战报传回了广陵，东边和南边都出现动乱……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "许多犬族围住了王府，要交出阿蝉和张辽他们……甚至还有趁乱纵火的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不过已经扑灭了。徐庶拦住了大门，我们偷偷带他们从侧门走了，去安全的地方躲避。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你那边呢？有找到壁画吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗯嗯！找到了，别担心狐。我去看看他们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都百姓",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "交出那些西凉犬！广陵不能被牵连！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都官员",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "殿下回来了吗？为什么还不下令平息众怒？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "那是广陵王的马车！拦住马车！殿下，殿下，为了广陵，请下令吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=狗绒绒·周群",
+      "emotion": "你们这是做什么？刘繇进攻广陵，岂止是因为西凉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都百姓",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "他既然打出了出兵之由，何不先杀了那些西凉犬呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "唔，来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "没有被发现吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "没有……我们带了假符牒和计簿过来。你们拿好各自的假身份。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……何必那么麻烦，直接离开不就行了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……还是不要冒险比较好……如今各地局势紧张，谁都无法料准这个局面会走到多极端的地步……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我听见说要吊死我们的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "所以不能被发现，你们躲在这里，尽可能不要发出声响。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "我带了绣衣楼特殊的熏香，可以掩盖气味，防止别的犬族闻到。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "等后天，城中的徐氏会迁居避祸。他们族犬众多，车马无数，你们拿着假身份，混在他们的队伍中离开。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "可是……广陵怎么办？还要打仗呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……啊，对哦，我们走了，就没有开战的理由了汪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "哼，幼稚。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "一样会打的，我们走了，也可以说是广陵偷放西凉犬活路。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "开战的借口有一千一万种……哼。不可能有尽头的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……好可惜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "可惜什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我很喜欢广陵，我觉得，文远叔也很喜欢这里……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "才没有哼！这里有什么好？！东西又贵房子又小，冬天冷夏天热，口音全都听不懂！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "早点走也好！这边的太阳都阴森森的，早点回西凉晒太阳吧哼！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "嗯，他真的很喜欢这里呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "没有哼！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "没关系没关系！喜欢的话，等这阵子变故过去，就回来看看。不喜欢的话，早点走也好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "一定要带好假身份……只要能离开广陵和徐州，向北就能走山道去壶关了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=狗绒绒·傅融",
+      "emotion": "回去之后，记得寄信回来，不要让大家太担心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "嗯！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……唉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不要担心了。一定会顺利的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……好不习惯啊。从此之后，不知多久，阿蝉都要和我们分开了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "能相聚就有分开，就好像赚钱就会花钱……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……很担心的话，以后去北方看他们吧？张辽刚才的话，我很在意……广陵这边房价贵，也就是说北方便宜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊啊啊啊抠门——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐氏使者",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "这些便是殿下托付的亲信吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐氏家主",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "让他们混在侍从的队伍中离开吧。关口守卫应该不会一一查验的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "楼主，我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "把帽子戴好、戴好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "文远叔，你的刺青遮住了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "嗯，没事的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐氏使者",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "时辰快到了，我们要出发了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "在关前等候。现在是战时，查验得要细致些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "嗯……过去吧。你也过去汪……嗯，过去吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "等等，你的长相，和描述不符啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐氏家仆",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "呃，小犬是不当心摔断了右腿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "你先等等，让我们查后面的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=狗绒绒·阿蝉",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "也没事，过去吧。你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "过，下一个。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "等一下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "那两人的长相……好像是西凉军！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "我们就知道他们可能外逃，组织了民兵在各个关口蹲守……抓住他们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "统统拦住！刚才出关的犬都人全都挡回来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐氏家主",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "我们的队伍里……怎可能有西凉犬呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "他们一定想逃出广陵，所以混进了使君的队伍中。你们，过来认人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "我刚才看见的，应该就是……就是一高一矮的两人……我看看……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "……不用查了，是我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "果然是你……就是他！把他……呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "你居然敢开杀？！调兵过来！把他拿下！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "快住手……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "关口守卫",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "呃……呃……居然杀了那么多士卒……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都青年",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "报仇！我要替……替家人报仇！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "民兵",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "她死了吗？这样……应该……应该已经死了吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "不许动她！！！呃啊啊啊啊不许动她——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "阿蝉！！！阿蝉！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……………………………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "…………唔……阿蝉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "……醒了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……师尊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "外面……有些吵闹。绣衣楼的密探，王府上下，都在应付城中的混乱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "元直和祢衡在前线抵挡先锋，战况胶着。吾担心你的情况……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "蜷缩成一团，好好歇息吧 。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "要帮你捂住耳朵吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……师尊……为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "这才是大多数时候世道的常态呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "如果不这样，绒绒就需要“思考”，但是，学会了思考的绒绒是比乱军还危险的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "生灵的本性，既害怕会思考的绒绒，也恐惧着自己去思考。思考就意味着，要自己为自己思考的结果负责。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "为思考的结果负责吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "有犬族和西凉军有血仇。他要复仇。复仇是简单的，杀掉对方就行了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "如果延伸一下，西凉军杀了他的家人，他也想杀掉西凉军所有的家人呢？好像也是公平的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "当这件事与你无关的时候，心里很容易随意做出判决。但是，如果跟你有关，你就会去想，为什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "你会去想法律、法理、人情、对错、量度……不过，与此事无关的人，依旧可以随意做出判决。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "“西凉军杀了他的家人，他凭什么不能杀了所有西凉军的家人？”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "“既然对方声称因为西凉大出兵，杀掉所有这里的西凉犬就好了。”杀了就结束了，不杀，就要为实现“不杀”做许多事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……是啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "事情已经走到这一步了，不要试图用“不杀”的立场去思考“杀”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "因为“杀”是情绪，没有任何生灵，会为情绪负责。你试图用思考去解释情绪，会崩溃的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……师尊以前，经历过这些事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "不止是经历吧……杀的情绪和不杀的思考，吾都选择过。报仇，杀戮……全都做过。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "正因为自己做过，所以才会不希望你去经历……但是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "这样的事，会无穷无尽的发生，在世间不断循环往复，逃避没有意义。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……嗯，我知道，狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "就算痛苦，也要竭力在痛苦中学会运用它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=狗绒绒·左慈",
+      "emotion": "用思考操控情绪，再用情绪，毁掉思考。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "………………我明白了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……我知道该怎么做了，师尊。派出使者，我要和刘繇和谈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "好久不见了，王弟！毛色依旧鲜亮啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "优雅啊，陛下，蓝调灰在灯火下呈现出华丽的雍容啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐，先帝纯黑发亮的毛色，才是真正尊贵的汉室之色呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "哈哈哈……王弟会不满也是犬族常情啊。不过，之后汉室的流行色就是灰蓝了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "怎么看都只是杂色系的灰贵宾吧……连犬种都不一样啊！先帝可是正宗的雒阳五黑犬啊啊！邪恶繇粒绒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "哈哈哈有什么关系，你不也是只荧光黄狐狸吗，哈哈哈——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "陛下，这可是和谈夜宴，广陵王居然如此不敬！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "这正说明我和王弟感情深厚直言不讳啊，有句老话说得好，忠言逆耳良药苦口，哈哈哈——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "陛下英明！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "英明吗？明明打着诛杀西凉军的名号出兵，自己麾下却还有着西凉将领。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "正是我啦，哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "哈哈哈——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "马超将军可是射杀了反贼董白的功臣，自然与其他西凉军不同。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "毕竟是西凉军，狼子野心，还是要多警醒些为好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都臣子",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "殿下言辞间对陛下实在有失恭敬……呃……呃呃……呕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都武将",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "呕……这是……这是……呕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都宾客",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "是……巧……克……力…酒里……有……巧克力……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军需官",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "禀报陛下，在后方抓住了这条西凉巧克力犬。是马超麾下的武将！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "这、这一脉相承的巧克力色，果然是一伙的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "啊真的是同一个色系啊，哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军犬",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "将军……你让我去下毒，说会给我安排接应……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "哎？我说过吗？哈哈哈不记得了！可能说过吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "西凉军果然狼子野心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "来狗，把马超拿下！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "凭你们也想抓住老子？冲冲冲——哈哈哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都武将",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "被他跑了！陛下，他逃往马氏营地的方向了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "何必追击呢？今夜的重点是和王弟的和谈。王弟！来，再喝一杯！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "说起来，广陵王迷途知返，懂得和西凉军划清界限，这可是天大的喜事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "为了证明与西凉军彻底割席……来，把反贼带上来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "我们从关口的民兵手中扣下这名反贼。今夜群贤毕至，便处决此贼，以证明广陵归顺朝廷之心吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "咳……咳咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都常侍",
+      "text": "头像=狗绒绒·可怜",
+      "emotion": "张辽，你助纣为虐、天地不容，今日御前受死，你还有什么要辩白的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "……要弄成这样吗？就算是反贼处死，也该正式送上处刑台吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "拖到御前领死，岂非私刑？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "陛下如今是天子，天子手下，哪有私刑？再说，这也是为了证明广陵王和西凉军彻底决裂，防止二心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "广陵王，亲手杀了他，证明你效忠朝廷！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……等一下狐……刘繇刚才不是说了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都常侍",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "殿下还对西凉犬有不忍之心吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "………………不……如果这么做……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "快一些啊，广陵王——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "二周年犬都群臣",
+      "text": "杀了他！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "呃——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "咳……咳……呃……咳呃……呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "这不是应该发生在御座前的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "戏弄敌将的性命，像猫邦那些喜怒无常的猫，不为了捕食而猎杀……这样的蠢事不许发生在朕的御前！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都常侍",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "是！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "二周年斥候",
+      "text": "有军情！陛下，马氏营地哗变，马超起兵造反了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "犬都文官",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "汪汪？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "慌什么！点兵，朕亲自带兵去扑灭叛贼！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "！！！张辽将军……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……回……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "…………带她的骨骸……回去……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……西凉的……西凉的孩子……不能死在……没有太阳的地方……带她……回去……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "呵……呵呵……咳……真是……倒霉的一生啊……西凉军入关时……我在外募兵……募兵完回去没多久……西凉军就败了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "到哪里都……都安定不下来……遇到的孩子……都是……任性的孩子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……对不起……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……没有什么……需要道歉的啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "拜托你了……阿蝉……喜欢晒太阳……带她回北方……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "………………多谢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朝廷士卒",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "马超的兵马把附近都围住了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朝廷将领",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "不要慌，重整阵型，准备突围！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "你带着辽哥，打算去哪啊，兄弟？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "是你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……还活着狐？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "他能出不少主意，让他死了太浪费了。对不对，兄弟？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……别废话了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "去抓……呃……抓刘繇，挟持朝廷军……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "原来是你在他背后继续谋划……他夺取了朝廷军，就有了攻城的力量……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……我闻到火的味道了，广陵，天下……很快也会陷入这样的大火里……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "……火光很明亮，但却什么都看不见……真可惜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "你输了！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "呵呵……哈哈哈……嘻嘻嘻哈哈哈哈哈——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "输的是你！你们今天全都别想活着离开！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=狗绒绒·徐庶",
+      "emotion": "剑来——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "……？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朝廷军",
+      "text": "头像=狗绒绒·凶狠",
+      "emotion": "有伏兵！广陵的伏兵在营外——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马氏亲兵",
+      "text": "头像=狗绒绒·凶狠2",
+      "emotion": "将军，南边不是流民，是伪装成流民的江东军！我们被夹击了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "吼喽……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "敌军都被打散了，那边火老大了，要追吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "他被徐庶前辈打伤了，逃不远的狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "……呃……哈哈哈……呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "追过来了呀，兄弟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "四周都是大火，你没法子溜喽。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "唔啊，不过很强啊，中我师父六七剑，居然还能出声……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哈……那个“剑来”吗？真、真劲啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哈……哈……哈……咳咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "他肺破了，要给他个痛快不？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "……不需要。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "要下地狱的绒绒，不需要带着那种慈悲的感受下地狱……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "……慈悲的感受是什么东西？是我爹念的那种经？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "吵吵嚷嚷的，听着又想睡觉……哈……咳咳……这辈子，真、真带劲啊……要什么慈悲呢，黏黏糊糊的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……火烧过来了，很快就结束了。走吧，师兄。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "那，我们走喽？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "那个笼子里的小瞎子不用管吗？在火里活活烧死，很难过的。没有准备短刀啊、毒药啊什么的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "他可是要跟我一起下地狱的！哈哈哈——咳……咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "呵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "……喂，兄弟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "哎呀，忘记你看不见了……真是没办法的事……对不住啦……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "本来就不用。我想做的事，已经做完了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董白",
+      "text": "头像=狗绒绒·董白",
+      "emotion": "真正的天兆，厮杀的壁画会实现……只要知道它会实现就好，反正就算实现，我也看不见……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "朝廷军、马氏骑兵在城外两败俱伤，最后一起四散撤逃了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "猫邦的大军在边境出没，无论能否筹备犬神宴，各地最好都做好自保的准备……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "就这样做吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你还好吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……今天周群说，收拾完了他们的遗物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "他问，是放在原地，还是好好收去库房……我想了很久狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "放在原地，就会觉得，他们还可能会回来。一直这样想，心里会生出魔障的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这些是阿蝉的，这些是张辽的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这卷羊皮地图也是吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗯，好像是他们家乡的地图………用羌语写的，这个应该读作……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "“容”……“容”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "“身”……“名”……“动”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "什么意思？容，容，身，名，动？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……容容身名动……绒绒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……………………绒绒……神明洞？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是西凉那边的绒绒密窟吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "怎么可能，内廷收藏的舆图中，绒绒密窟在江东，不在西凉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……！！！！！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你要去哪？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我……我想起了一些事！要渡江去查证一些事！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "毕竟多边投机才能在乱世立于不败之地狐……那，条件呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "对……很可能……很可能是假的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "因为是假的，所以，无论从里面取出什么壁画都是假的，神明都不会承认……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这个怎么验证啊？而且，如果是假的，为什么廷军一直森严把守在那？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我也不知道，也许有绒绒能够让朝廷军这么做……或者用假舆图替换内廷的真舆图……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这得是什么级别的大绒物啊？！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "凭她从前在内廷的地位就做得到啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "是这样没错……但是我没有做过，狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我想想……我想想……说起来，我们小时候那个洞窟还不是绒绒洞窟吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我经常带着阿香阿权在里面钻来钻去的，本地的孩子也经常去……后来有一天，突然来了朝廷军，把那里层层守住了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "“原来是犬都圣地啊”……大家都很讶异。但也没别的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "深处没有壁画吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "当然没有，如果有，本地汪早就发觉了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那个洞窟深处只有一堆藤蔓，哪有壁画？可能是被朝廷接手后，从里面发现了什么神迹？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不对不对，是因为有巡兵某天在里面发现了壁画，才会上报朝廷。我还纳闷，哪来的壁画，这么多年都没有……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……有犬都人在里面放了壁画，上报朝廷让朝廷把它认定成了绒绒密窟……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "但是，这说不通……如果壁画是假的，那神明发出的那些天兆，都是假造的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……从一开始，就是内廷替神明在假传天兆？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "果然世上是没有神明的，看，我说的没错，所谓神明，本质不过就是内廷用来发号施分的傀儡！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "等等，这就要走了吗？下次……下次什么时候再见呀？……嗷呜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "如果这里真的有壁画，会是什么的壁画呢？是绒绒村的，还是互相厮杀的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "——谁？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "吼喽！是、是师兄哦！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "吓了我一跳狐！师兄怎么偷偷跟上了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "担心你喽。之前发生了那么难过的事……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "你的亲卫说，你这几天到处乱跑，不知想做什么，担心你出事，又不敢直接问，所以就拜托老子来看看你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄，你之前去江东的密窟时，有感觉到什么吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "没有哦……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……嗯，果然，你当时也没有发现……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这里，可能是真正的绒绒密窟。我想去深处找到神明壁画。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "原来如此吼。往下找找看……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "到头了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哎？这就到头了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "嗯……啥子都莫得。看起来，这里也是假洞窟噻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗅嗅……嗅嗅……不对，更深处还有特殊的气息……很熟悉的气息……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄，你真的没有摸索到什么机关吗？后面应该还有道路狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "这个……没有没有，真的没有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……嗯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "我们回去吧，这就是个假洞窟。前面没有路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不，这里不会是假的。后面一定有路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……我闻到……熟悉的香味了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "犬科的鼻子也太灵了……会不会因为太灵敏了所以闻错了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不可能。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "好犟哦！走嘛走嘛，师兄回去给你烫串串吃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……啧，真的是……没法子啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄，你一开始进宫，不是为了刺董吧？你是不是想潜入内廷，找那块被藏在内廷的壁画？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……………………………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "啊哈哈，被看穿吼喽！这也是没办法啊……师兄是猴族，家人都没了……如果能在壁画上许愿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……也不是想许什么坏事……只是想和神明许愿复活我的家人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "那一开始就可以直说嘛！而且，你更要跟我一起找到真壁画了。我可以帮你把愿望加上！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "真壁画吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……师弟，我们还是回去吧。再往前，我怕你会伤心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我已经不会难过了，狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "是吗。你要是这么执着，那……我们就去壁画前看看吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "刚才在那边，摸到了一块质地特殊的石砖，应该是打开石门的机关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这才对狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "点亮灯火，嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……啊！！！到了！！！果然，这里摆着真正的壁画——是绒绒村的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "小心点哦祖宗，旁边还有好多个白影呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……哎？那些白影是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "你小心点，我去看——谁？！敢暗算老子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "止步汪，使君。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "刘繇……你为什么在这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "朕还没有败呢，迟早会东山再起。当朕成就大业时……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "犬神，必须给朕变成一具单纯的雕塑！朕不会允许有任何命令高于政令！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "一路派犬跟踪，终于跟着你们找到了此地……这里的神明壁画，必须被毁掉汪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "住手——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "吼喽……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "吼——咦嘻嘻……吼——啊啊啊啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "师兄……？师兄你怎么了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "咦嘻嘻……嘻嘻……呼呼……啊……呼……吼喽……吼喽……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "神……神……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……刘辩……果然……你这个……骗子……骗子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "呃……呃呃……哈哈……咦嘻嘻……嘻嘻嘻嘻嘻……呼……骗子！骗子！！！哈哈……老子就知道……哈哈哈……你……不会放过老子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这是怎……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "别过来！……咦嘻嘻……不行……我还能控制住……不让它出来……不行……不行……哈哈哈哈哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "快跑……师弟……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "……他是……神化了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "……当年征讨其他的绒绒部族，有些部族在败亡前，会自己推翻砸碎神像，咽下神像的碎片……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "这样的绒绒就可以神化……虽然短暂，之后也会彻底疯掉，但能够把身心暂时交给神明作战……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……我……咽下了……猴族的神像……哈……哈哈……它最后湮灭得……跟指尖一样大小……咦嘻嘻……不……快跑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "快跑啊！！！不要去见里面的事物了，你知道的……你心里已经知道那里有什么了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "愣着做什么？！快跑！猴神发狂了！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "快跑！呃——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……吼……吼……猴子可是……杂食动物……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "好饿……吼……吼……是……狐狸……吼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……师兄。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "……我被……骗了……呵呵……想要……复活家人，一直想，一直想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "吼……呵呵……他说……他虽然不喜欢我，但是，“如果帮你复活家人，广陵王一定会夸奖我吧”……哈哈……哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "他改了内廷的舆图……让我帮他……造了假洞窟……引开……所有犬都人的注意……这样，他就能去研究真正的……洞窟……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "他算好的……他从一开始就算好……我会……咦嘻嘻……哈哈哈……啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "哈哈哈！哈哈哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你想做什么，刘辩？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "做不会让你担心的事呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "以前那样，你总是在为我担心，为犬都担心……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "太过分了，这个世道，让你为这个为那个耗尽心力……还有一堆绒绒会缠着你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "这个地方，再缝缝补补下去也不会变好！还不如彻底毁掉，再建一个新的犬都，再造一个新的神明！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……方法就是神化。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "神化？可是他神化后就疯了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "如果祢衡没碰到犬族的壁画、被犬神的力量影响，其实就不会疯掉。他体内的猴神会真正苏醒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "那只要找到猴族为猴神绘制壁画的山洞，找回猴族的壁画，他就会恢复吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "哎？那种地方，早就崩塌了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "绒绒们怎么可能那么慈悲，先祖们毁掉对方的部族和神明之后，会把产出种明壁画的地方留着？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "广陵王，等猫邦摧毁大都，我们就一起吃下神像的碎片吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我们一起神化，成为废墟上新的神明。我们发出的天兆，可以引导犬都人夺回领地。我们既是神，又是天子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "永远不会分开，想把天地变成什么样就变成什么样，想建立一千一万年的绒绒村都没有问题 ……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……我不能放弃掉眼前的犬都。刘辩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "………………你要放弃我吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "拯救犬都，不意味着放弃你啊。狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "不是的……不是这样的，如果你选择了拯救犬都，说明我排在了犬都后面……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……那就更该毁掉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "祢衡",
+      "text": "头像=猴绒·祢衡",
+      "emotion": "壁画……哈哈哈……好饿……好饿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "啊，这个壁画很好吃哦，师兄。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "快把它放下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……拼好了……神明，收下壁画，发出止战的天兆吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "神明……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君",
+      "emotion": "……沙……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君",
+      "emotion": "………………沙沙……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……………………不可能……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "呱唧，呱唧，呱唧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "好难吃，粉粉的，没味道……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "把它偷来这里之后，我已经开始从里面挖起来吃了。毕竟，要斩断退路嘛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "没有神明了，广陵王！听我的提议，我们一起……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "——没有神明也好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "既然彻底没有神明了……那就彻底凭自己解决问题！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "调查到了猴族遗址的洞窟？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "嗯！不过，没有找到陛下所说的猴族壁画……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……是吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……没关系，继续找，总有一天能找到的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "最近，还有神明显灵的传闻吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "有……在益州。最近，百姓在益州崇拜一个新的道派，叫做五黑米道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……是吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哈，五黑……哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=狗绒绒·青年男",
+      "emotion": "怎么了，陛下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……没事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "知道他过得不错，我就放心了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "你在做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "神像……我要把它……拖出去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "其实……我已经吃过一点神像了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "沙沙的、很难吃。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "我……噗噗噗不要拍我噗噗噗——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "吐出来！吐出来啊啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……呼，揉一揉沾回去……沾回去……刘辩？刘辩？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "好像是因为吃神像，昏过去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……好壮观的阳光……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "农夫狗",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "你是外地来的旅客吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊……是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "农夫狗",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "自从供奉了绒绒村壁画、停止战乱之后，麦田就开始恢复了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "恢复？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "农夫狗",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "嗯，父亲说，他小的时候，北方三州的麦田，比现在要壮阔数百倍……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "农夫狗",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "后来频频战乱、坚壁清野，农田一次次被火焚，很多地方再也长不出植被了，干涸龟裂了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "农夫狗",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "不过太平了几年之后，我家的农田重新恢复了呢……希望这样的时日再久一些吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "老人家，你知道这里太阳最好的地方吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "农夫狗",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "这里吗……我想想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=狗绒绒·马腾",
+      "emotion": "我知道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这里吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "嗯，亮得有些晃眼吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "主要是……将军的铠甲在反光……明明已经和平了，为什么还着甲呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "习惯了。戎马一生，改不掉了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "需要帮忙摆供奉品吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……多谢狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "不用紧张，我并不想问马超的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "那是他选择的缘法，生死俱在其中……啊，有些新鲜的莓果汁，对犬族的眼睛好……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "谢谢谢谢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "还有些点心……虽然比较素如果吃不惯……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "没有没有，非常清爽可口狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "唔，我在替师兄找猴族的壁画，只要找到了，他就能恢复正常……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "还有刘辩……我让他住在了广陵，这样一直能见到，他也不会觉得不安心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "还有狐……还有狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "朝廷那边，殿下可有兴趣吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "大家正在履行绒绒村的天兆，绒绒村里，所有绒绒会幸福快乐地生活在一起，没有隔阂和仇恨……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "天子，只会和这个好气象格格不入吧，狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "……何等通透的判断。是我短视了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哪里哪里……是我眼下还在想以后的路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……绒绒村，是无法长久持续的。在短暂的一代后，它很快会崩裂。然后，洞窟里会产出新的壁画。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "是啊。天时未至，也要早做准备。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "等那一日，若老夫还苟延于世，一定会去见殿下的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……嗯，我同意你的提议。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "真的吗？！我就知道——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我也起过……和和你类似的念头，只是不知道神化这条路……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "既然如此，我们就这么做吧，刘辩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君",
+      "emotion": "……哔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君2",
+      "emotion": "哔叽————————想都不要想！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太一君",
+      "text": "头像=狗绒绒·太一君2",
+      "emotion": "区区两只凡汪——竟敢肖想神位？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊哈哈，神化狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "哈哈哈……全黑的犬神雕像！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "呱唧，呱唧，呱唧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "呱唧，呱唧，呱唧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……呼……呼呼……要坚持不下去了……脑子里面，有声音呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "没关系的！很快就习惯了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "会不会……快要……疯掉了狐……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "有什么关系嘛，神明都是疯疯癫癫的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哈哈哈，对！疯疯癫癫！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "疯疯癫癫——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "狗巫师",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "天命赤狐，降而建都<ref>《玄鸟》：天命玄鸟，降而生商。</ref>。宅兹芒砀<ref>何尊铭：宅兹中国（住在天下的中央）。芒砀：刘邦斩白蛇起义，兴汉之地。</ref>，九尾攸分<ref>陶弘景《周氏冥通记》：二象攸分。</ref>……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "是神明……是狸犬神……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "狸犬神？是那台大车上的两尊神像吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "是啊……是啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "一百年前，犬都遭受了灭顶之灾，就在先民们彷徨无措的时候，出现了两尊新神……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "新神替先民指明了重建都城的道路，降下天兆指定了天子，托梦传授了军事和农事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "新神这么强大？那，当年犬都为何还会遭受灭顶之灾呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "神明嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "神明……都是疯疯癫癫的，哈哈……哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "我们今天上山捡柴，神明也会保佑我们吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "爷爷，无支歧山入夜了就会响起巨大的猴子叫声……附近的山民还会梦见猴神显灵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "没事的。毕竟，数百年前，这里是猴族的旧地啊。据说山中有一处洞穴，里面供奉着献给猴神无支歧的画……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "……是不是这个！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "我们去山里玩的时候发现的洞窟，爷爷，我爬到最里面，发现里面有一堆壁画碎片，画满了小猴子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "……是你们自己找到的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "是托梦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=狗绒绒·少年2",
+      "emotion": "有天晚上的时候，我梦见了狐狸神，狐狸托梦给我的！"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center犬都纪事/center"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·一"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·二"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·三"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·四"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·五"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·六"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·七"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·八"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·九"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·十"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·十一"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·十二"
+    },
+    {
+      "type": "narration",
+      "text": "犬都纪事·十三"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%9B%BD%E5%BF%97%E7%BB%92%E7%BB%92%E7%89%88/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E7%8A%AC%E9%83%BD%E7%BA%AA%E4%BA%8B",
+  "crawled_at": "2026-04-12T22:05:23.865585",
+  "raw_wikitext": "[[分类:活动剧情]]{{回到顶部|头}}{{面包屑|2025活动剧情|三国志绒绒版/活动玩法}}{{背景图片|{{filepath:}}}}\n__NOTOC__\n{{板块|按钮|三国志绒绒版/活动剧情|导入}}\n{{板块|按钮|三国志绒绒版/活动剧情/猫邦纪事|猫邦纪事}}\n{{板块|按钮|三国志绒绒版/活动剧情/猫邦掌故|猫邦掌故}}\n{{板块|按钮|三国志绒绒版/活动剧情/犬都纪事|犬都纪事}}\n{{板块|按钮|三国志绒绒版/活动剧情/犬都掌故|犬都掌故}}\n{{JS|Qiantao.js}}\n\n=<center>犬都纪事</center>=\n{{切换标签|开始}}\n{{切换标签|标签区开始}}\n{{切换标签|标签|一|选中=是}}\n{{切换标签|标签|二}}\n{{切换标签|标签|三}}\n{{切换标签|标签|四}}\n{{切换标签|标签|五}}\n{{切换标签|标签|六}}\n{{切换标签|标签|七}}\n{{切换标签|标签|八}}\n{{切换标签|标签|九}}\n{{切换标签|标签|十}}\n{{切换标签|标签|十一}}\n{{切换标签|标签|十二}}\n{{切换标签|标签|十三}}\n{{切换标签|标签区结束}}\n{{切换标签|内容区开始}}\n{{切换标签|内容开始|选中=是}}\n==犬都纪事·一==\n{{对话-头}}\n{{对话|傅融|快快快快——|头像=狗绒绒·傅融}}\n{{对话|我|迟到狐迟到狐——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|徐庶|嗷呜咬住徐神的尾巴巴——|头像=狗绒绒·徐庶}}\n{{对话|阿蝉|嗷呜！|头像=狗绒绒·阿蝉}}\n{{对话|犬都居民|啊，好壮观的一串，传说中的绣衣楼赶上朝……|头像=狗绒绒·青年女}}\n{{对话|傅融|要迟到了啊嗷呜——为了全勤，火光闪电！|头像=狗绒绒·傅融}}\n{{对话|犬都居民|像、像狂风一样掠过去了？！！真不愧是……真不愧是……全犬都最可靠的傅副官！犬族楷模！！！|头像=狗绒绒·青年女}}\n{{对话|我|狐！快赶上了，就在……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|西凉军犬|嗷汪汪汪滚开滚开滚开——西凉军出行，统统滚开！！！|头像=狗绒绒·凶狠}}\n{{对话|徐庶|可恶！被挡住了……这群西凉军犬嗷呜！}}\n{{对话|阿蝉|嗷呜……}}\n{{对话|徐庶|啊没有说小蝉没有说小蝉，我们小蝉是西凉小可爱汪！}}\n{{对话|我|他们经过了……道路终于让出来了，但是……迟到了狐……}}\n{{对话|傅融|我的全勤啊啊啊……|头像=狗绒绒·傅融}}\n{{旁白|心理|……宫廷内外的西凉军，越来越多了……}}\n{{对话|我|哎……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|殿下，偶遇嘶。|头像=狗绒绒·袁基}}\n{{对话|我|吓！什么时候出现的，一点声音都没有……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|殿下是奉诏往内廷面圣吗？请走南渡廊。}}\n{{对话|袁基|北门都是西凉军在把守，严查内廷和外朝的书信嘶……会耽误很多时间的。}}\n{{对话|我|多谢。今日宫内的布置真是严密……因为董卓准备开设夜宴、召集百官，所以处处都是西凉军的设卡。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|常侍|殿下，内廷在催促呢……宴前的准备快要开始了。|头像=狗绒绒·可怜}}\n{{对话|刘辩|滚！滚出去！滚出去！|头像=狗绒绒·刘辩}}\n{{对话|小黄门|陛下、陛下小心些，别刮伤爪子……|头像=狗绒绒·少年2}}\n{{对话|刘辩|你在教朕做事吗？！出去！今日谁都不见，绝不会去董卓的夜宴！}}\n{{对话|宫女|陛下不要再动了，会摔下去的——|头像=狗绒绒·少女}}\n{{对话|宫尉|嗷呜……哪里有犬都皇帝的样子，明明是犬族，却猫里猫气的，成天爬到殿顶胡闹……|头像=狗绒绒·青年男2}}\n{{对话|我|……你是在暗暗地中伤皇帝陛下吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|宫尉|噫没有没有绝对不敢——殿下一定听错了嗷\n呜汪汪——|头像=狗绒绒·青年男2}}\n{{对话|我|真的是狐……一个个对天子毫无敬畏之心……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|天子风趣随和，展现着君主的仁德，从不对下严刑峻法，结果反而因此被轻慢对待……你们应当好好自省！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|众宫尉|嗷呜是！}}\n{{对话|刘辩|广陵王！广陵王你来了汪……}}\n{{旁白|心理|对啊，来看犬都天子猫里猫气爬殿顶了。}}\n{{对话|我|臣来救驾了……嘿咻……陛下等一下……嘿臣马上就……嘿咻咻……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|啊啊啊他到底怎么爬那么高的？！根本是犬族不可能抵达的高度了啊狐！！！}}\n{{对话|刘辩|广陵王你的尾巴也在打颤……}}\n{{对话|我|没没没没关系的臣不恐高狐狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|如果下不去的话，是不是就不用参加今晚董卓那边的宴会了？}}\n{{对话|刘辩|嗷呜……那些西凉犬族浑身都是灰，臭得流汁，和他们待在同一座宫殿里简直是酷刑……}}\n{{旁白|我们坐在宫殿顶上，风很大，吹散了下面宫女常侍们惊慌的喊声。}}\n{{对话|刘辩|……犬都现在被西凉的军阀把持着，士族门阀只顾着趁机蚕食各州郡的实权……}}\n{{对话|刘辩|以后会怎么样呢……犬神前些时日发出了天兆神谕，昭示了和猫邦的终战……}}\n{{对话|刘辩|按理来说已经要开始准备犬神宴的供奉了，只有足够的供奉，才能让神明庇护犬都赢得胜利……但是，根本无犬响应。}}\n{{对话|我|不必担心！有臣在！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|眼下因为西凉军阀占领皇城，导致犬都有些小——小的混乱狐，但是放心，犬神宴也好、终战也好，一定都会顺利狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|臣可是天子直属的绣衣校尉，代天子行事，外面的一切事务都进展顺利，不必担忧狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|会很危险的汪……昨天，西凉军还在朝堂上当场杀了两个文官……}}\n{{对话|我|没有危险的公务，只有勇敢的狐狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|我们青梅竹马一起长大，无论发生什么，臣都会坚定站在陛下这边，不顾生死地保护陛下，狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|不知不觉，日暮了。西凉军的夜宴要开始了……}}\n{{对话|西凉军犬|这边的吃食可真素……酒呢？再取些酒来！|头像=狗绒绒·凶狠}}\n{{对话|西凉将领|汪呼呼……张辽将军，这些酒肉味道不错，请享用吧……|头像=狗绒绒·青年男}}\n{{对话|张辽|哼。}}\n{{对话|马超|怎么了辽哥？怎么和文士一样吃东西慢悠悠的了？|头像=狗绒绒·马超}}\n{{对话|张辽|这里可是皇宫……}}\n{{对话|马超|哈哈哈哈——有什么关系汪吼，现在是西凉汪的地盘了！嗷呜——|头像=狗绒绒·马超}}\n{{对话|西凉众汪|嗷呜——}}\n{{对话|董白|……安静。一群笨狗。}}\n{{对话|董白|我代爹爹传话，今夜既然天子不来，那就请广陵王上座。}}\n{{对话|我|天子就算不赴宴，也没有任何人能坐御座。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|……这样啊。}}\n{{对话|董白|可是，爹爹说了，上座空置着，真的是十分难看。}}\n{{对话|我|你又看不见，狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|话说回来，既然都召开夜宴了，他为何不从幕后坐到前面来，而是躲在屏风后面让你传话？！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|爹爹如今身居高位，自然要谨慎行事，防止一些别有用心的小狗……}}\n{{对话|宫尉|不、不好了——有刺客啊——|头像=狗绒绒·青年男2}}\n{{对话|我|！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|……看吧，果然有刺客……}}\n{{对话|西凉军犬|保护董老大！有狗行刺！|头像=狗绒绒·凶狠}}\n{{对话|我|……狐……因为行刺的事，夜宴中止了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|不知道后面会不会有风波……西凉军也许会趁机发难，以此为由清除异己。}}\n{{对话|傅融|回去之后先暂时告假几日，避一避风头吧？}}\n{{对话|徐庶|二牛说得有道理，今夜全城都封锁了，到处都是巡犬。|头像=狗绒绒·徐庶}}\n{{对话|我|嗯，回去暗中调查今夜刺杀之事吧，不知道是真有刺客，还是西凉军自导自演……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|啊……回王府了。}}\n{{旁白|心理|天晚了，大家都睡了吧。那我也……}}\n{{旁白|咚咚……}}\n{{对话|我|……谁？谁在那？！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|？？？|嘘嘘嘘你个瓜娃哦师弟！}}\n{{对话|我|这个声音，莫非你是……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|是师兄吼喽！}}\n{{对话|我|师兄狐——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……师兄，你身上，怎么都是血？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|哼哼……当然是因为……}}\n{{对话|祢衡|老子去宫里刺董了吼喽！}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·二==\n{{对话-头}}\n{{对话|董白|还没有找到行刺者吗？|头像=狗绒绒·董白}}\n{{对话|犬都文官|……是……不过已经全城封锁了，应该已经……呜啊！|头像=狗绒绒·老年男}}\n{{对话|马超|啃啃、啃啃……|头像=狗绒绒·马超}}\n{{对话|马超|好啰嗦哦汪，好啦，这就是你们今天的午饭了。}}\n{{对话|西凉军犬|哈哈哈谢谢马超将军！|头像=狗绒绒·凶狠}}\n{{对话|犬都官吏|呃……呃呃……别杀我！下官一定会找出刺客的|头像=狗绒绒·老年男2}}\n{{对话|董白|……嗯，要努力哦。敢拿官场上糊弄的那套东西躺平的话，下场就和他一样呢。|头像=狗绒绒·董白}}\n{{对话|宫尉|报！我们抓到刺客了！|头像=狗绒绒·青年男2}}\n{{对话|董白|……真快啊。|头像=狗绒绒·董白}}\n{{对话|死士|汪……就是我做的！要杀就杀吧！|头像=狗绒绒·凶狠2}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|超哥，你闻，他身上的味道……嗅嗅，嗅嗅……|头像=狗绒绒·董白}}\n{{对话|马超|没有什么特别的味道啊。|头像=狗绒绒·马超}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|……对啊，好清爽的味道呀……|头像=狗绒绒·董白}}\n{{对话|董白|………………一个浑身是血、仓皇逃命无处容身的武士，身上的味道会那么干净吗？三天了，应该都是血臭汗臭了吧？|头像=狗绒绒·董白}}\n{{对话|死士|呃……|头像=狗绒绒·凶狠2}}\n{{对话|董白|嘻嘻……嘻嘻……嘻嘻嘻嘻嘻嘻嘻嘻……你的主人是谁呀？！！把我，竟敢把我当成笨狗耍吗嘻嘻嘻嘻嘻？！！|头像=狗绒绒·董白}}\n{{旁白|令狗狗毛骨悚然的尖细笑声后，混杂着马超的哈哈大笑，在偌大的宫城中回荡。}}\n{{对话|董白|不要让他死了嘻嘻嘻……很快，我想让他说什么，他就会说什么……|头像=狗绒绒·董白}}\n{{对话|刘辩|……外面，怎么样了？}}\n{{对话|我|外朝吗……一切都好！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|……骗汪。}}\n{{对话|刘辩|我听说了一些风声。是不是有很大的变故？}}\n{{对话|我|怎么会呢，一起尽在爪握。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|……}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|陛下，陛下……刘辩！过来，说悄悄话……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|如此如此……这般这般……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|……原来如此，把罪名扣给袁氏吗……}}\n{{对话|我|眼下，虽然最大的危机是西凉军，但是，更长远的危机是门阀天下。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|如果能借此事，让军阀和门阀互斗，两败俱伤……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|不管是输是赢，光是听听都觉得解恨……}}\n{{对话|我|等解决了这些问题，我们就一起向神明供奉那块壁画吧？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|在崇德殿的深处，一口沉重的箱奁里，存放着一块壁画 。}}\n{{旁白|只要把这块壁画供奉给犬神，壁画上的内容就会成真。这种壁画来自于神圣的绒绒密窟，那里被朝廷严密把守着。}}\n{{对话|刘辩|……父皇当年把这块壁画偷偷从神台上撤走了。本来要销毁的，但是被一些老臣像像保存下来了。}}\n{{对话|刘辩|听说他派人去密窟里挑选了他更喜欢的壁画，换上新壁画后，犬神就一直发出和猫邦备战的天兆了。}}\n{{对话|我|毕竟是皇帝呀。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|这块古老的壁画，是所有绒绒一起幸福快乐生活在一起、没有隔阂、没有战争的绒绒村传说壁画……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|对皇帝来说，如果犬神一直发出关于绒绒村的天兆，就会不断削减皇权和天家威仪吧。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|唔……是啊。绒绒之间有隔阂了，才会形成各自的阵营，彼此制衡。有战争了，才会生出恐惧和服从……}}\n{{对话|刘辩|如果天下变成了幸福快乐的绒绒村，那就没有人会敬畏天子了。越是封闭和孤立，绒绒才会越顺从权力。}}\n{{对话|刘辩|天子想要当得安稳，就要嘴上说希望子民幸福快乐，实际不断制造各种各样的隔阂、仇恨和战争啊……}}\n{{对话|我|但是，你又不想变成那种皇帝……就算握着大权，也没有任何愉悦狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|哈哈……对啊，我只喜欢每天喝酒，跟你去爬殿顶！权力这种东西就跟西凉军犬一样臭烘烘的，恶心！}}\n{{对话|我|所以狐，等眼前这些麻烦事过去……我们就去向神明供奉绒绒村的壁画吧！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|宫女|……陛下……殿下……|头像=狗绒绒·少女}}\n{{对话|宫女|外朝那边说……刺客的事查出端倪了，请殿下晚上过去议事……|头像=狗绒绒·少女}}\n{{旁白|心理|已经问出来了吗……}}\n{{对话|董白|……来了吗……超哥，闻闻味道。|头像=狗绒绒·董白}}\n{{对话|马超|嗅嗅，嗅嗅……有好吃的！|头像=狗绒绒·马超}}\n{{对话|我|内廷鹿肉干！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马超|好吃！今天的兄弟是好汪！|头像=狗绒绒·马超}}\n{{对话|董白|够了笨狗，让他们也进来。|头像=狗绒绒·董白}}\n{{旁白|一阵轻响，一个犬族咬着那名死士进入了大殿。}}\n{{对话|满宠|汪。|头像=狗绒绒·满宠}}\n{{对话|我|……啊，是负责刑讯的满宠使君呀，使君辛苦了狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|满宠|汪。|头像=狗绒绒·满宠}}\n{{对话|董白|把你问出来的事情告诉我们吧，满宠。|头像=狗绒绒·董白}}\n{{对话|满宠|汪。|头像=狗绒绒·满宠}}\n{{对话|马超|哇，好猛的哥，封他为宠哥吧，兄弟！|头像=狗绒绒·马超}}\n{{对话|我|内廷鹿肉干！狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|满宠|呱唧呱唧……嗯，活过来了。|头像=狗绒绒·满宠}}\n{{旁白|心理|因为感觉不到饿结果饿到意识模糊了吗……}}\n{{对话|满宠|这罪犬说，他是被袁氏派来行刺的。|头像=狗绒绒·满宠}}\n{{对话|董白|是吗……好了，你下去吧。|头像=狗绒绒·董白}}\n{{对话|董白|广陵王，我们私下聊一下吧。|头像=狗绒绒·董白}}\n{{对话|董白|超哥，你怎么看？|头像=狗绒绒·董白}}\n{{对话|马超|袁氏犬族看起来很好撕开的样子！总是嘶嘶叫！|头像=狗绒绒·马超}}\n{{对话|我|真是狼子野心！袁氏居然敢派人行刺董卓……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|唔……你信吗？|头像=狗绒绒·董白}}\n{{对话|董白|我可是一个字都没法信呢……说实话，真相到底是什么，我们心知肚明。|头像=狗绒绒·董白}}\n{{对话|我|这种诱供的话术太幼稚了，狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|毕竟我年少啊。话术幼稚点有什么关系呢，关键是……你想尝尝更好吃的鹿肉干吗？|头像=狗绒绒·董白}}\n{{对话|董白|犬神之前发出了和猫邦终战的天兆，按理来说应该筹备犬神宴供奉犬神，以此让神明庇佑犬都赢得战争……|头像=狗绒绒·董白}}\n{{对话|董白|所以，西凉军有意扶持你为天子。你意下如何，广陵王？|头像=狗绒绒·董白}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·三==\n{{对话-头}}\n{{对话|祢衡|唔……原来如此……}}\n{{对话|祢衡|上啊师弟！！！教教刘辩怎么当天子——}}\n{{对话|我|啊啊根本没有好好听我说！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|荡来荡去~荡来荡……啊喽唔噗！}}\n{{对话|徐庶|下来啊臭猴子！挂在房梁上吵死了！小宝你继续说。|头像=狗绒绒·徐庶}}\n{{对话|我|他们打算带兵逼宫，要刘辩禅让，让我里应外合，打开内廷宫门。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|既然如此……我们就趁机秘布兵马，在内廷和外朝之间包抄西凉军，把他们一网打尽！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|没想到殿下会亲自前来，啊，今日刚好有新鲜的茶香冻干嘶。}}\n{{对话|我|毕竟是借兵的大事啊。长公子听说了吗？之前刺董的刺客，声称他是袁氏派出的。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|唉……真是无妄之灾嘶……}}\n{{对话|我|就是狐，西凉军必须被尽快处理。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|袁氏应该同意联手布兵了……届时，由他们的兵马作为前锋……}}\n{{旁白|心理|如果顺利，军阀和门阀就会元气大伤……}}\n{{对话|阿蝉|……听见声响了。}}\n{{对话|我|嗯，时间快到了狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|我们带着步兵，潜伏在宫城外。}}\n{{旁白|深夜了，西凉军的身影，出现在了皇宫外……}}\n{{旁白|心理|要准备进攻了，等外朝宫门被攻破的时候——}}\n{{旁白|然而……}}\n{{对话|阿蝉|他们……散去了？}}\n{{对话|我|…为何……突然退兵，是发现了什么吗？\n还是……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都巡卫|你们是谁？！——警戒！城中有伏兵！|头像=狗绒绒·青年男2}}\n{{对话|犬都士兵|是广陵王发府兵？！不好了！广陵王起兵了！！！|头像=狗绒绒·凶狠}}\n{{对话|亲卫|殿下汪！城中另一侧没有袁氏的兵马汪！|头像=狗绒绒·青年男}}\n{{对话|我|！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都城尉|敲响城中，全城戒严——|头像=狗绒绒·凶狠2}}\n{{对话|阿蝉|怎么办，楼主？}}\n{{对话|我|进宫，去内廷！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|只要见到天子，天子就会下令平息！快动身！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|常侍|广陵王，你做什么？！|头像=狗绒绒·可怜}}\n{{对话|文官|不行，内廷已经落锁了！如果要开宫门……|头像=狗绒绒·老年男}}\n{{对话|我|我有天子的特令，可以直接叫开宫门，开门！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|常侍|必须请天子的意思才行……派小犬去崇德殿传报……|头像=狗绒绒·可怜}}\n{{对话|崇德宫尉|不能打开内廷宫门|头像=狗绒绒·青年男2}}\n{{对话|我|为什么狐？！我有天子的特令！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|崇德宫尉|就在刚才……天子……天子……|头像=狗绒绒·青年男2}}\n{{对话|崇德宫尉|天子被董卓请去议事，然后就失踪了！！！|头像=狗绒绒·青年男2}}\n{{对话|我|？！！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|天子……}}\n{{旁白|刘辩……不见了？}}\n{{对话|马超|哈哈哈——兄弟，果然如你所料！}}\n{{对话|董白|闭嘴，超哥，吵死了。}}\n{{对话|董白|广陵王，没有天子的命令，你为何深夜起兵？}}\n{{对话|我|天子在哪？！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|不知道呢，也许……是被你们这些反贼，剁成肉酱了？}}\n{{对话|我|！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……不可能狐……为什么……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|阿蝉|楼主，有兵马来了！|头像=狗绒绒·阿蝉}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|阿蝉|楼主！|头像=狗绒绒·阿蝉}}\n{{对话|我|我们……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|——咚。}}\n{{旁白|下一刻，我被打昏了。}}\n{{对话|张辽|这么呆，真的是狐狸吗。|头像=狗绒绒·张辽}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·四==\n{{对话-头}}\n{{对话|我|……唔……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|啊！被抓住了狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|哼，才醒过来吗？|头像=狗绒绒·张辽}}\n{{对话|张辽|听见外面的声音了吗？|头像=狗绒绒·张辽}}\n{{对话|我|是御前雅乐的声音……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|嗯，天子……不，现在应该叫先帝，生死不明。在袁氏的推荐下，各方拥立了新君。}}\n{{对话|张辽|只余你……唔噗！}}\n{{对话|张辽|竟、竟然敢砸我？！！死狐狸——}}\n{{对话|我|不许叫他先帝！刘辩一定还活着！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|不许砸我！不许刨土砸我！！！可恶！！！}}\n{{对话|张辽|想变成狐狸围脖吗？！要不是看在你是我最大的军功，我今天就扒了你的皮！}}\n{{对话|我|既然都被打为反贼了，为什么不把我斩立决？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|当然是要等新君的判决。}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|……好特别的西凉汪。居然还会等皇帝的旨意……}}\n{{对话|我|那个……张辽将军……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|不要用这么套近乎的语气求情，没用的。}}\n{{对话|我|……阿蝉在哪？她还好吗？她跟我提起过你……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|不要打犬情牌，没用的，哼。}}\n{{对话|张辽|……她差点被你牵连了。趁着这次把你们分开，之后再送去安稳的地方……}}\n{{对话|我|阿蝉没事就好……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|这才像话。}}\n{{对话|我|……那个，张辽将军……抓到了我，你能得到多少军功？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|谁知道呢。我又不是董卓的亲信……可恶……因为不是亲信，结算军功的时候轮不到功劳，打仗的时候就要最卖命……}}\n{{对话|张辽|呃啊啊啊恨啊!这次明明抓住了一个大军功，说不定结算的时候也会被算在李催郭汜的头上！上次就是……上上次……}}\n{{旁白|心理|开、开始疯狂地抱怨起来了！！！}}\n{{对话|张辽|这个这个那个那个还有还有那个那个可恶可恶之前之前……}}\n{{旁白|带着汹涌的怨气，愤怒的抱怨潮水般涌来——}}\n{{对话|我|太过分了狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|对吧？！太过分了！}}\n{{对话|我|那因为张辽将军不是他从并州带出来的亲信，就很难高升吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|哎……世道啊……}}\n{{对话|张辽|……不管怎么样……算了，都走到这一步了，算了……至少是个事业……}}\n{{对话|我|我们谈个交易吧，将军？你能告诉我刘辩的下落吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|生要见犬死要见尸狐……他肯定是落在你们手里的对吧？至少告诉我他的处境……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|……他不在我们爪里。}}\n{{对话|张辽|你还抱有希望吗？不信的话，我带你去看看现在外面的局面吧。就算他活着也没用，局势已经定下了。}}\n{{对话|群臣|拜见陛下！}}\n{{对话|刘繇|哈哈哈——平身！}}\n{{对话|刘繇|朕今日的毛色怎么样？}}\n{{对话|常侍|真是非常优雅的深灰，何等华丽、何等雍容啊……|头像=狗绒绒·可怜}}\n{{对话|刘繇|没品的东西！这是灰蓝！尊重的灰蓝！}}\n{{旁白|心理|……不管怎么看都是普通的灰色贵宾吧。哼。}}\n{{对话|袁基|真的能看出在灰色下有一丝优雅的蓝调啊，嘶。}}\n{{对话|刘繇|嗷呜，有品有品！|头像=狗绒绒·刘繇}}\n{{对话|刘繇|哈哈哈，听着，朕要颁布第一条政令——全国的犬族每月都要做美容，朕不允许王土内出现丑狗!|头像=狗绒绒·刘繇}}\n{{对话|群臣|陛下英明！}}\n{{对话|袁基|英明嘶。}}\n{{对话|张辽|看见了吗？}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|刘辩才是优雅的纯正玄黑！黑得丢到墨里面都找不出来！啊啊啊——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|黑色灰色什么的根本不重要！重要的是，朝中现在已经有新天子了。}}\n{{对话|张辽|那个先帝怎么样都不重要了，死心吧。哼。}}\n{{对话|我|……但我不能不管他……狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|形势比……}}\n{{对话|宫尉|啊啊啊——|头像=狗绒绒·青年男2}}\n{{旁白|心理|那年出什么事了？！}}\n{{对话|宫尉|是刺客！刺客在梁上！保护陛下！}}\n{{对话|祢衡|哈哈哈——受死吧，狗皇帝吼喽——|头像=猴绒·祢衡}}\n{{对话|刘繇|朕没事……封锁内廷，不要让他跑了汪！|头像=狗绒绒·刘繇}}\n{{对话|张辽|唉……又要开始劳碌了，唉……}}\n{{对话|宫尉|……是张辽将军。|头像=狗绒绒·青年男2}}\n{{对话|张辽|嗯，嗯。}}\n{{对话|宫尉|张辽将军，你为什么……把反贼广陵王放出来了？|头像=狗绒绒·青年男2}}\n{{对话|张辽|……}}\n{{对话|张辽|……………………啊啊啊啊——}}\n{{对话|宫尉|来狗啊——|头像=狗绒绒·青年男2}}\n{{对话|宫尉|张辽和广陵王是一伙的！！！|头像=狗绒绒·青年男2}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·五==\n{{对话-头}}\n{{对话|张辽|跑跑跑跑跑……|头像=狗绒绒·张辽}}\n{{对话|我|跑跑跑跑跑……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|西凉军犬|杀呀——|头像=狗绒绒·凶狠2}}\n{{对话|徐庶|剑来！}}\n{{对话|我|徐庶前辈！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|徐庶|哦哦，小宝自己逃出来了呀？我还打算跟你师兄一起去救你呢。}}\n{{旁白|心理|……他确实潜入皇宫了，不过没忍住去刺杀刘繇了……}}\n{{对话|徐庶|哦哦！原来是小蝉的家长啊，嗷呜一个！嗷呜——}}\n{{对话|张辽|……嘶。|头像=狗绒绒·张辽}}\n{{对话|徐庶|……好冷漠。}}\n{{对话|我|前辈，大家都平安离开雒阳回广陵了吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|徐庶|嗯，都平安无事汪！}}\n{{对话|徐庶|不过你见到二牛的时候不要刺激他啊，他……}}\n{{对话|傅融|啊啊啊——|头像=狗绒绒·傅融}}\n{{旁白|心理|已经能听见哀嚎了！！！}}\n{{对话|阿蝉|傅副官，冷静点。|头像=狗绒绒·阿蝉}}\n{{对话|傅融|根本没法冷静——雒阳的……雒阳的……雒阳的房贷和首付啊啊——}}\n{{对话|阿蝉|……文远叔？|头像=狗绒绒·阿蝉}}\n{{对话|傅融|不——我不想听见输这个字了……不——<ref>阿〇大文娱总裁分管灵〇互娱半年后，在全员会上说：“(灵〇老板)周〇枢这个名字就不太好，怎么能叫输呢。”</ref>}}\n{{对话|阿蝉|傅副官，楼主回来了……|头像=狗绒绒·阿蝉}}\n{{对话|我|傅融，我回来啦狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|哎？}}\n{{对话|傅融|回来了……呜……为什么每次都把局势弄成这样……但是……能回来就好……}}\n{{对话|傅融|……刘繇吗……好像是江东那边的宗室官员。}}\n{{对话|傅融|猫邦那边都已经在集兵准备进攻了，这边还在军阀互斗、门阀算计……真是没救了。}}\n{{对话|张辽|……如果投靠猫邦的话，军职能不能原位保留？|头像=狗绒绒·张辽}}\n{{对话|徐庶|呜呼！要输光了，干脆所有汪一起回隐鸢阁搓麻吧！|头像=狗绒绒·徐庶}}\n{{对话|阿蝉|呼呼……晒太阳呼呼……|头像=狗绒绒·阿蝉}}\n{{对话|我|啊哈哈，听起来好像真的没救了狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……}}\n{{对话|我|啊啊啊不行不行不行狐！大家振作起来狐！既然现在已经不必顾虑内廷了，那，我有一个拯救犬都的计划！}}\n{{对话|徐庶|犬都什么的……不如回隐鸢阁吃火锅搓麻啦……|头像=狗绒绒·徐庶}}\n{{对话|傅融|犬都被拯救了，房价会跌吗？}}\n{{对话|张辽|跟我的军功有什么干系。哼。|头像=狗绒绒·张辽}}\n{{对话|阿蝉|呼呼……晒太阳呼呼……|头像=狗绒绒·阿蝉}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|会的！只要完成这个计划，满大街都会是火锅和麻将台，房价会跌，会有配享太庙的军功，每天都能晒太阳——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|众汪|嗷呜？！}}\n{{对话|我|只要夺回皇宫深处的绒绒村壁画，供奉给神明……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|大家就会放下争端、停止战争，团结在一起，挡住猫邦的进攻！谁赞成，谁反对？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|众汪|反对——}}\n{{对话|我|哎？！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|不打仗了，还要我们武将干什么？}}\n{{对话|傅融|从成本核算的角度来说中止犬神宴更改备战目标根本不划算。}}\n{{对话|徐庶|哈欠……那个绒绒村里面听起来没架可以打啊……}}\n{{对话|阿蝉|呼呼……太阳呼呼……}}\n{{对话|我|…………|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|一人五十箱鹿肉罐头——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|众汪|出发嗷呜——}}\n{{旁白|就这样，在大家炽热的保卫家园之心的催动下……}}\n{{旁白|我们决定前往内廷，夺回绒绒村的壁画。}}\n{{对话|徐庶|……嗅嗅……}}\n{{对话|徐庶|前面好严密的守卫汪……}}\n{{对话|我|从这里开始，我们就要分头行动了。徐庶前辈引开南边的巡卫，傅融负责观测东边的宫尉。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|张辽将军可以买通老下属，打开小门，让我和阿蝉无声无息进去……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|阿蝉留在崇德殿外放风，只有我知道壁画藏在哪，我去把它带出来。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|已经物是人非的内廷，到处都是严密的守卫……}}\n{{旁白|我和阿蝉小心避开巡卫，穿过熟悉的景色，抵达了崇德殿……}}\n{{对话|阿蝉|那，我在这里放风。楼主小心。|头像=狗绒绒·阿蝉}}\n{{旁白|心理|……里面好像没有犬都人……刘繇应该不住在这里。}}\n{{旁白|心理|壁画……壁画……啊，找到了！准备离开……}}\n{{对话|马超|兄弟，咱们下一步做什么？|头像=狗绒绒·马超}}\n{{旁白|心理|有说话声……先藏起来……}}\n{{对话|董白|……下一步吗？你至少先博取刘繇的信任吧。}}\n{{对话|马超|啊？听不懂，有简单点的解释吗？比如吃饭、拉屎、往左走之类的……}}\n{{对话|董白|这可不是打仗，接下来全都是朝堂斗争，你如果弄不明白，最好别出声……呜啊！}}\n{{对话|董白|放……放开我汪！}}\n{{对话|马超|你是不是说，你没法给我出谋划策了？}}\n{{对话|马超|要是这样的话，留你也没有什么劲啊。毕竟……}}\n{{对话|马超|——董卓已经死了啊。}}\n{{旁白|心理|？！！}}\n{{对话|董白|都说了不要提这件事……呃……}}\n{{对话|马超|瞒不了多久了吧？尸体都快臭了，你一直替他传话，西凉犬都开始觉得不对劲了。}}\n{{对话|董白|……没关系，重点是利益，只要他们都能得到足够的利益，就没有狗会主动揭穿……呃呃！}}\n{{对话|马超|啥呀？！还要管他们的利益？不是老子全部吃进？这不仗义吧？！}}\n{{对话|马超|喂，要不然简单点吧？就公布他已经死了，你拥护我当老大！我肯定不会亏待你……唔啊！！！}}\n{{对话|我|有破绽！狐爪踩脸——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|啊啊啊——}}\n{{旁白|趁着他松懈的瞬间，我背着壁画冲出帘后，抓起董白逃出殿内！}}\n{{对话|阿蝉|楼主，得手了吗？}}\n{{对话|我|成功！还绑架了重要犬质，狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·六==\n{{对话-头}}\n{{对话|徐庶|嗷呜！这就是传说中的绒绒村壁画啊……}}\n{{对话|我|嗯嗯！它一直被藏在内廷。只要把它重新供奉给犬神，神就会发出新的天兆。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|……你要怎么让民众听从新的天兆呢？之前可是发出过终战天兆的，但是响应天兆、供奉犬神宴的狗寥寥无几。}}\n{{对话|我|刘繇为了证明自己的威信，肯定会尽全力实现天兆的狐。至于这个……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|唔……}}\n{{对话|董白|呜呜……呜呜呜……你们要……要对我做什么……呜呜……}}\n{{对话|徐庶|看起来好乖哦，这个吉娃娃……}}\n{{对话|董白|人家是吉娃娃哦……呜呜……}}\n{{对话|我|才不是，是品种为边牧的纯坏种啊！听我说，前辈，只要挟持他，就能牵制一部分西凉军。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|徐庶|这么有用？那还管什么绒绒村壁画，挟持他以令西凉军，称王称霸噻！}}\n{{旁白|虽然也有不少密探支持徐庶前辈的提议……}}\n{{旁白|我们还是决定先通过供奉绒绒村的壁画，解决犬猫战争。这就需要抵达种像面前——而神像，如今被西凉军重兵把守于长安……}}\n{{对话|阿蝉|行李，嘿咻……}}\n{{对话|我|嘿咻！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周群|真的要去吗？神像被转移到长安之后，可是有无数重骑兵在把守啊汪。}}\n{{对话|我|如果犬都都被攻陷了，那称王称霸还有什么意义呢？狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|侍从|殿下，袁氏的长公子来了，说有要事想见殿下。|头像=狗绒绒·可怜}}\n{{对话|我|哎？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|殿下，嘶。}}\n{{对话|袁基|殿下，嘶。}}\n{{对话|我|袁氏……想暗中扶持我，和刘繇以及西凉军对抗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|是的嘶……终究不是正道呢。汉室以黑为尊，但是那位怎么看都只是普通的灰贵宾……啊，不知不觉说了不谨慎的话。}}\n{{对话|我|是啊是啊狐！明明只是灰贵宾，但却要沽名钓誉把自己包装成什么灰蓝色系……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|这样下去可不行呢嘶，以后汉室犬族的毛色会越来越淡的，逐渐丧失威仪呢……}}\n{{对话|袁基|以前有狗中伤殿下，不就骂殿下是“荧光黄的混色系”吗……？}}\n{{对话|我|那是因为……因为我是狐狸族，狐！犬都的三大种族就是犬、狐狸和狼！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|就是就是嘶……所以，殿下考虑得如何呢？}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|太可笑了狐，你们只是想双边投机而已狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|哎呀，被看穿了嘶……不过，本就是应该被看穿的，毕竟，这才是符合士族利益，以及广陵利益的决定啊。}}\n{{对话|袁基|再如何反感有也不能否认，和袁氏联手，能够快捷解决眼前的困境、犬都的困境的。}}\n{{对话|我|毕竟多边投机才能在乱世立于不败之地狐……那，条件呢？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|驱逐广陵所有的西凉势力。}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|张辽，张辽的兵马，还有那位西凉女官，以及她的亲兵……}}\n{{对话|袁基|以此，殿下才能证明自己的立场——和刘繇、西凉军那边完全相反的立场，如此一来，我才能说服家族，将筹码押在广陵。}}\n{{对话|我|哼哼……企图太明显了。驱逐眼下寄身广陵的西凉兵马，就只能全然依靠袁氏的兵马了。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|不管我和刘繇谁赢，袁氏都能吃到好处。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|如果赢的是殿下，殿下就能吃到最大的那块好处呀。嘶。}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|为了成为最后的赢家，于是便无情地驱逐亲友，是何等的不道义啊狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|无情最是帝王家嘶……}}\n{{对话|我|那也是成为帝王家之后的事，在成为帝王家之前就散尽人心和善缘，只会落得失道寡助！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|……}}\n{{对话|袁基|殿下嘶……绒绒们所谓“政治”，本质是“绒之治”啊。}}\n{{对话|袁基|一切政治斗争的本质，都是绒和绒之间“立场”的战争。要证明立场，就必须旗帜鲜明地剔除一切西凉势力……}}\n{{对话|袁基|如此，反西凉的巨大力量，才会自然而然地汇聚到殿下身后。}}\n{{对话|袁基|殿下原是先帝亲信，一切权力来自先帝。绒绒只会对自己权力的来源负责，如今，殿下急需找到新的权力来源嘶……}}\n{{对话|我|……真是很纯粹的政治动物啊狐，袁公子。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|袁基|过奖，过奖……嘶。袁氏上下，都在期望殿下的答复。告辞嘶。请。|头像=狗绒绒·袁基}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|…………|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周群|殿下，打算怎么做汪……|头像=狗绒绒·周群}}\n{{对话|我|当然是……尽快杀到神明面前，供奉壁画狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周群|哎哎可是袁氏的提议——}}\n{{对话|我|不理会就相当于不存在！如果这个提议让自己感到犹豫，就说明还没有到做决定的时刻！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|真正做决断的时刻，应该是毫不犹豫、水到渠成地做下决定才对！出发，去长安——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|呜呜……不要拽我呜呜……}}\n{{对话|张辽|他看不见……要不轻一些吧？}}\n{{对话|我|张辽将军，不要被外表柔弱的孩子蒙骗了狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|想想从前，他可是替董卓传话，趁机扣光了你所有的军功，让你无法升迁啊！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|可恶哼——}}\n{{对话|董白|唔哇哇……不要打我……呜呜……}}\n{{对话|张辽|……}}\n{{对话|张辽|算了，哼。坏边牧。毕竟是边境州郡的州牧家族……}}\n{{对话|长安守卫|有敌军攻城！李催将军！|头像=狗绒绒·青年男}}\n{{对话|李傕|居然敢来长安……迎敌！|头像=狗绒绒·黑影}}\n{{对话|郭汜|等、等一下嗷呜老李！那是小董白居米！可恶，居然挟持那么无辜的小狗！！！|头像=狗绒绒·黑影}}\n{{对话|董白|呜呜……叔叔救我……}}\n{{对话|我|才没有！一点都不无辜啊，简直是纯坏种啊！……不，我是挟持他的狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|——想要他活命就乖乖打开城门！不然我就把他的毛修成边牧最丑的寸头款！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|……这种威胁具的会有威慑力吗？只是变一个发型而已……}}\n{{对话|董白|呜呜不要动我的粉毛……叔叔，叔叔们救我……}}\n{{对话|李傕|哦哦哦哦哦哦——|头像=狗绒绒·黑影}}\n{{对话|郭汜|哦哦哦哦哦哦——|头像=狗绒绒·黑影}}\n{{旁白|城门缓缓打开了……}}\n{{对话|我|统统让开！不许阻拦，不然我就给他剃寸头了！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|长安守卫|啊啊你这只反贼狐狸简直没有犬性，居然能对这么可爱的吉娃娃动手！|头像=狗绒绒·青年男}}\n{{对话|我|让开让开——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马超|劲啊，兄弟，居然能打到这？}}\n{{对话|我|神像就在前面……马超！不想他有事，就让我们过去！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|超哥……|头像=狗绒绒·董白}}\n{{对话|马超|哎呀，兄弟被挟持了啊，这种时候……}}\n{{旁白|嗖……}}\n{{对话|我|……哎？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|呃……呃……|头像=狗绒绒·董白}}\n{{对话|董白|……被……射中了……呃……|头像=狗绒绒·董白}}\n{{对话|马超|哈哈哈——死了就不会被挟持了，开杀！}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·七==\n{{对话-头}}\n{{旁白|心理|被包围了——}}\n{{对话|董白|……|头像=狗绒绒·董白}}\n{{旁白|他滚落台阶，被乱军之影淹没。神像近在眼前，唯一的阻碍便是马超。}}\n{{对话|张辽|我去引开他，哼。你的手脚最好快些！}}\n{{对话|我|准备……冲狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|西凉军犬|嗷呜拦住这只狐狸！！！|头像=狗绒绒·凶狠}}\n{{对话|西凉军|嗷呜——唔噗——|头像=狗绒绒·青年男2}}\n{{对话|祢衡|吼喽！师兄重现！}}\n{{对话|我|师兄，拦住他们！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|神像……神像……成功了！绒绒村的壁画被置入神像口中了！}}\n{{对话|太一君|……|头像=狗绒绒·太一君}}\n{{对话|我|神明神明……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|太一君|唔……唔……|头像=狗绒绒·太一君}}\n{{对话|我|让战乱停止的天兆，神明神明……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|太一君|唔……唔……|头像=狗绒绒·太一君}}\n{{对话|太一君|哔叽——呕——呕呕——竟敢——竟敢用假货供奉我——哔叽！！！|头像=狗绒绒·太一君2}}\n{{对话|我|假、假货？可是……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|啥子情况？！|头像=猴绒·祢衡}}\n{{对话|张辽|好了没有啊？！|头像=狗绒绒·张辽}}\n{{对话|我|壁画是假的……？不可能……为什么……一直被藏在内廷的壁画，怎么可能是假的……不可能……不可能……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……如果是被掉包了，那是什么时候被掉包\n的……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|西凉军|他们穷途末路了！把他们围住，一个都别放跑！|头像=狗绒绒·青年男2}}\n{{旁白|……}}\n{{旁白|…………失败了吗？}}\n{{旁白|………………唯独没有想过，壁画会是假的。希望从一开始就不存在……}}\n{{对话|？？？|……呼……|头像=狗绒绒·左慈}}\n{{对话|？？？|妖……|头像=狗绒绒·左慈}}\n{{对话|左慈|妖祥，开汪——}}\n{{对话|众汪|？！！！！！！！！}}\n{{对话|我|师尊狐——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|【犬都·茶馆】}}\n{{旁白|过了一阵之后……}}\n{{对话|徐庶|小宝，有好消息汪，西凉军从三辅败退了！}}\n{{对话|祢衡|一定~是被~师兄我~潇洒的身法吓跑~吼喽~}}\n{{对话|我|当然是被师尊打散的，狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|局面，变好了吗？}}\n{{对话|我|嗯，因为长安的西凉军仓皇四散，雒阳的西凉军也紧跟着军心涣散，很快就被士族的府兵联手击败了。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|等朝局再恢复一些，就要设法完成犬神宴……猫邦最近已经开始集结兵力了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|……是吗……}}\n{{对话|周群|殿下，殿下！外面出事了！|头像=狗绒绒·周群}}\n{{对话|犬都百姓|求殿下主持公道！我们……我们店是小本买卖，但西凉犬策马经过，把摊子都掀了……|头像=狗绒绒·青年男2}}\n{{对话|阿蝉|不当心就……}}\n{{对话|张辽|不是已经赔了吗……哼。}}\n{{对话|犬都百姓|这不一样！你们每天从我店铺面前经过，闹得人心惶惶，客源都变差了！|头像=狗绒绒·青年男2}}\n{{对话|阿蝉|以前我也每天走那条道……}}\n{{对话|犬都老人|以前大家就有很多地方敢怒不敢言吧……|头像=狗绒绒·老年男2}}\n{{对话|阿蝉|……}}\n{{对话|张辽|这么不待见的话就算了！阿蝉，我们走！}}\n{{对话|阿蝉|可是……}}\n{{对话|我|稍等一下，稍等一下……这个，马匹碰翻摊子也不是很少见的事，是赔偿金额方面没有谈拢吗还是…|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都青年|殿下！如今各地都在清剿西凉余孽，广陵是不是也该清算这些西凉犬？！|头像=狗绒绒·青年男}}\n{{对话|我|……这……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|容后再议。他们在广陵期间并没有作乱。}}\n{{对话|犬都青年|你是要包庇吗？！我家可是从三辅逃难来广陵的，我的家人都被西凉军杀害了啊！|头像=狗绒绒·青年男}}\n{{对话|左慈|清算西凉军在三辅的罪行，是三辅的廷议奉朝廷之命裁决。如果他们在广陵作乱，则在广陵廷议裁决。}}\n{{对话|左慈|否则便是私刑。}}\n{{对话|亲卫|仙人说得没错……阿蝉也在这住很久了，以前不是很和睦吗？|头像=狗绒绒·青年男}}\n{{对话|犬都青年|私刑……西凉军残杀我家人的时候，可没想过什么审判什么私刑！|头像=狗绒绒·青年男}}\n{{对话|犬都青年|他们这样对待我的家人，我凭什么不能复仇？！|头像=狗绒绒·青年男}}\n{{旁白|纷争许久方才平息下去。我叹了口气，爬在案上。}}\n{{对话|我|……虽然西凉军被赶跑了，但是，总觉得局面变得微妙了起来……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|各地士族，都在鼓动追杀西凉余孽，除恶务尽。}}\n{{对话|左慈|除了马超，因为射杀董白获得了特赦，留在了刘繇麾下……其他的西凉军，如今都处处遇敌。}}\n{{对话|我|西凉军在的时候是天下公敌，有公敌，就不会内斗。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|嗯，公敌是可以被塑造的。士族想要延续这个公敌，避免犬都开始内斗。}}\n{{对话|左慈|百姓也需要一个公敌，用来宣泄情绪。所以，这个局面，是你无力改变的。}}\n{{对话|我|狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|没有共同的公敌，绒绒们就会自相残杀，输掉终战，只有强调公敌的存在，犬心才能凝聚。}}\n{{对话|左慈|最理智的做法，就是像其他大都人一样驱逐所有的西凉犬。}}\n{{对话|我|从众，是最理智的吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|从众能最大程度避免自己成为公敌。能起到这个效果就是最理智的。}}\n{{对话|我|不理智的做法呢？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|……}}\n{{对话|左慈|抱着成为下一个公敌的觉悟，做你觉得正确的事吧。无论发生何事，吾都会站在你这边。}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|师尊，我要去绒绒密窟，再找到一份绒绒村的壁画！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|眼下西凉军退败，神明重新被朝廷和士族把控，他们一定会开始号召供奉犬神宴……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|只要供奉犬神的事被抬到第一位，天下百姓就会被层层压榨，生不如死。因此，我还是要从根源上终止大战！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|……毫无理智，但具有道义的选择。}}\n{{对话|左慈|去吧……但是，吾有一句话，要提醒你。}}\n{{对话|左慈|雪球一旦开始从山顶滚落……一旦开始……}}\n{{对话|左慈|无论你抱有多大的意志和勇气张开双臂，都无法阻挡它的滚落。}}\n{{对话|我|……嗯，我明白了狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|去江东？好耶！那边的狗都很有武德！}}\n{{对话|我|不是让你去打架的！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|可以顺便和凌统约战！师弟一定要来观战看师兄的英姿吼！}}\n{{对话|我|绒绒密窟是犬都重地，位于江东，一直被朝廷军严密把守着。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|师兄善于潜入，我们一起去江东，找到绒绒密窟，取出里面新的绒绒村壁画吧！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·八==\n{{对话-头}}\n{{对话|孙氏叛军|杀——不能让孙策把我们都带上死路！|头像=狗绒绒·凶狠2}}\n{{对话|孙氏亲兵|你们这群叛徒！|头像=狗绒绒·凶狠}}\n{{对话|祢衡|唔啊……打得好凶哦。}}\n{{对话|凌统|祢衡前辈，汪。}}\n{{对话|祢衡|公绩！好久不见，我陪师弟来江东，你们这好热闹！}}\n{{对话|凌统|见笑了，江东这边总是这样，吵吵闹闹的。汪。}}\n{{对话|孙氏叛军|杀！为头目报仇——|头像=狗绒绒·凶狠2}}\n{{对话|孙氏亲兵|一个都不留！！！|头像=狗绒绒·凶狠}}\n{{对话|凌统|唔……之前西凉军退散了，孙氏族内分成了两派。一派认为，孙策和殿下交好，应该继续和广陵结盟。}}\n{{对话|凌统|另一派觉得，广陵在西凉之事上态度暖昧，如果继续结盟，江东会因此被牵连。}}\n{{对话|祢衡|所以开始内斗了啊……吼吼公绩，那我们也开始切磋吧，反正前后左右都在火并！}}\n{{对话|凌统|抱歉，让前辈失望了，汪。现在还是公务时期，不能行私人之事。}}\n{{对话|凌统|殿下，请随我来。放心吧，我会保护二位穿过乱军的。汪。}}\n{{对话|周瑜|狐……尾巴尖尖被咬掉了，狐……}}\n{{对话|我|兄长狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|你怎么来了狐？}}\n{{对话|凌统|周中郎将前日负伤了，因为是尾巴负伤，目前只能趴着。汪。}}\n{{对话|我|哈哈哈只能趴着哎拍屁屁拍屁屁——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|不许拍兄长的屁屁狐——啊啊啊尾巴……好痛……}}\n{{对话|凌统|忍耐一下，不要摇尾巴，中郎将。汪。}}\n{{对话|孙氏叛军|顶住、顶住啊！|头像=狗绒绒·凶狠2}}\n{{对话|孙策|就你们这点力量也敢闹叛乱？！太弱了太弱了嗷呜——|头像=狗绒绒·孙策}}\n{{对话|我|啊孙策唔噗——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|……被飞过来的叛军撞翻了……}}\n{{对话|我|狐……尾巴好痛狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|尾巴痛狐……|头像=狐绒·周瑜}}\n{{对话|孙策|哈哈哈你们真不愧是兄妹嗷呜连伤的地方都一样唔噗？}}\n{{对话|我|狐狐攻击！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|古琴麻醉！|头像=狐绒·周瑜}}\n{{对话|孙策|我错了。汪。}}\n{{对话|孙策|你怎么突然来江东了？最近这边在内斗呢。}}\n{{对话|我|我是来找绒绒密窟的。如此如此这般这般……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|片刻后……}}\n{{对话|孙策|哦哦……}}\n{{对话|我|什么“哦哦”啦！一点都不激动！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|真的可能实现那种事吗？神明哔叽一声，天下就不打仗了？}}\n{{对话|我|……那种程度是做不到狐……但至少可以发出止战的天兆 。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|然后天下汪就幸福快乐了？这种世道真的实现过吗……世上的绒绒居然能对别的绒绒的幸福快乐喜闻乐见？}}\n{{对话|我|当然不可能狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|是啊，看见别的绒绒幸福快乐，心里想的才不会是“真好啊”，而是“凭什么”吧？|头像=狐绒·周瑜}}\n{{对话|周瑜|绒绒既不可能共情痛苦，也无法共享喜乐的。绒间可是地狱啊，放弃吧，狐。|头像=狐绒·周瑜}}\n{{对话|我|你这是什么狸想破灭发言狐——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|你那又是什么狸想主义的幻梦狐——|头像=狐绒·周瑜}}\n{{对话|孙策|啊啊啊不要打不要打不要踩在我的尾巴上打啊啊啊——}}\n{{对话|孙策|但是但是但是——绒绒村本身听起来还是很美好的，嘿嘿汪。}}\n{{对话|我|是吧是吧！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|虽然心里知道，打仗是为了夺得天下，夺得天下是因为自己想夺得天下……}}\n{{对话|孙策|不管其他军阀门阀嘴上说什么为了天下苍生啊、为了大道啊、为了匡扶汉室啊……}}\n{{对话|孙策|绝大多数的犬心里想的还是，自己想要天下和权力吧。不过，权力对我来说太可怕了。}}\n{{对话|我|权力，很可怕？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|嗯，是最可怕的东西，比毒药还会腐蚀犬心。所以我想打下天下，对权力倒是没什么兴趣……}}\n{{对话|孙策|如果绒绒村可以实现，好像天下太平也不错。就算我打下了天下，最终也是想天下太平的汪！}}\n{{对话|我|嘿嘿狐……这样认真说话的时候很帅狐……么么……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|嘿嘿汪……你要是喜欢……么么……唔噗——}}\n{{对话|周瑜|啊啊啊看不下去了狐古琴麻醉——|头像=狐绒·周瑜}}\n{{对话|凌统|……孙将军一下子变成了伤得最重的狗呢。|头像=狗绒绒·凌统}}\n{{对话|周瑜|眼下重点是要去那个密窟找到她要的壁画，不过，我们都负伤了狐……|头像=狐绒·周瑜}}\n{{对话|我|师兄，能交给你吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|放心吼！天下第一可靠师兄去也——|头像=猴绒·祢衡}}\n{{对话|我|天都黑了……不知道师兄那边顺利吗……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|凌统|放心吧，汪。祢衡前辈一定能顺利归来的。|头像=狗绒绒·凌统}}\n{{对话|甘宁|咔咔咔守备空虚今天可以一点点把你的皮剥下来……噗——|头像=狗绒绒·甘宁}}\n{{对话|我|啊，被打飞了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|凌统|请不要在意。要再添些酒吗？汪。}}\n{{对话|我|多谢……哎，师兄回来了？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|我回来了……吼……}}\n{{对话|我|师兄，壁画壁画壁画狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|……在这里……}}\n{{对话|我|让我看看……绒绒洞窟狸的神明壁画，真正的应该是什么样的……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|…………|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|………………怎么可能……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|我去了洞窟尽头，只见到了这样的壁画……}}\n{{对话|祢衡|……猫族、犬族，还有天下所有的生灵，厮杀在一起的壁画。}}\n{{对话|我|…………………………为什么……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|没有绒绒村的壁画……只有这个………}}\n{{旁白|心理|犬神……要毁灭犬都吗？}}\n{{对话|亲卫|殿下，殿下，广陵那边出事了，殿下？|头像=狗绒绒·青年男}}\n{{对话|亲卫|刘繇率领朝廷军，以广陵窝藏西凉余孽的罪名，向广陵出兵了！殿下！|头像=狗绒绒·青年男}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n==犬都纪事·九==\n{{对话-头}}\n{{对话|傅融|汪，终于回来了汪……}}\n{{对话|我|……阿蝉怎么样了？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|情况不好……战报传回了广陵，东边和南边都出现动乱……}}\n{{对话|傅融|许多犬族围住了王府，要交出阿蝉和张辽他们……甚至还有趁乱纵火的。}}\n{{对话|傅融|不过已经扑灭了。徐庶拦住了大门，我们偷偷带他们从侧门走了，去安全的地方躲避。}}\n{{对话|傅融|你那边呢？有找到壁画吗？}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|嗯嗯！找到了，别担心狐。我去看看他们！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都百姓|交出那些西凉犬！广陵不能被牵连！|头像=狗绒绒·青年男2}}\n{{对话|犬都官员|殿下回来了吗？为什么还不下令平息众怒？！|头像=狗绒绒·少年2}}\n{{对话|犬都青年|那是广陵王的马车！拦住马车！殿下，殿下，为了广陵，请下令吧！|头像=狗绒绒·青年男}}\n{{对话|周群|你们这是做什么？刘繇进攻广陵，岂止是因为西凉！|头像=狗绒绒·周群}}\n{{对话|犬都百姓|他既然打出了出兵之由，何不先杀了那些西凉犬呢？|头像=狗绒绒·青年男2}}\n{{旁白|在府外争论不休之际，我便装从无人在意的小门外离开了……}}\n{{对话|阿蝉|唔，来了。}}\n{{对话|我|没有被发现吧？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|没有……我们带了假符牒和计簿过来。你们拿好各自的假身份。|头像=狗绒绒·傅融}}\n{{对话|张辽|……何必那么麻烦，直接离开不就行了？}}\n{{对话|我|……还是不要冒险比较好……如今各地局势紧张，谁都无法料准这个局面会走到多极端的地步……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|阿蝉|我听见说要吊死我们的……}}\n{{对话|傅融|所以不能被发现，你们躲在这里，尽可能不要发出声响。|头像=狗绒绒·傅融}}\n{{对话|傅融|我带了绣衣楼特殊的熏香，可以掩盖气味，防止别的犬族闻到。|头像=狗绒绒·傅融}}\n{{对话|傅融|等后天，城中的徐氏会迁居避祸。他们族犬众多，车马无数，你们拿着假身份，混在他们的队伍中离开。|头像=狗绒绒·傅融}}\n{{对话|阿蝉|可是……广陵怎么办？还要打仗呢……}}\n{{对话|阿蝉|……啊，对哦，我们走了，就没有开战的理由了汪……}}\n{{对话|张辽|哼，幼稚。}}\n{{对话|张辽|一样会打的，我们走了，也可以说是广陵偷放西凉犬活路。}}\n{{对话|张辽|开战的借口有一千一万种……哼。不可能有尽头的……}}\n{{对话|阿蝉|……好可惜。}}\n{{对话|张辽|可惜什么？}}\n{{对话|阿蝉|我很喜欢广陵，我觉得，文远叔也很喜欢这里……}}\n{{对话|张辽|才没有哼！这里有什么好？！东西又贵房子又小，冬天冷夏天热，口音全都听不懂！}}\n{{对话|张辽|早点走也好！这边的太阳都阴森森的，早点回西凉晒太阳吧哼！}}\n{{对话|阿蝉|……}}\n{{对话|阿蝉|嗯，他真的很喜欢这里呢。}}\n{{对话|张辽|没有哼！！！}}\n{{对话|我|没关系没关系！喜欢的话，等这阵子变故过去，就回来看看。不喜欢的话，早点走也好……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|一定要带好假身份……只要能离开广陵和徐州，向北就能走山道去壶关了。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|回去之后，记得寄信回来，不要让大家太担心。|头像=狗绒绒·傅融}}\n{{对话|阿蝉|嗯！}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……唉……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|不要担心了。一定会顺利的。}}\n{{对话|我|……好不习惯啊。从此之后，不知多久，阿蝉都要和我们分开了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|能相聚就有分开，就好像赚钱就会花钱……}}\n{{对话|傅融|……很担心的话，以后去北方看他们吧？张辽刚才的话，我很在意……广陵这边房价贵，也就是说北方便宜……}}\n{{对话|我|啊啊啊啊抠门——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|后天……后天，就要送他们离开了……}}\n{{对话|徐氏使者|这些便是殿下托付的亲信吗……|头像=狗绒绒·老年男2}}\n{{对话|徐氏家主|让他们混在侍从的队伍中离开吧。关口守卫应该不会一一查验的……|头像=狗绒绒·老年男}}\n{{对话|阿蝉|楼主，我……|头像=狗绒绒·阿蝉}}\n{{对话|张辽|把帽子戴好、戴好……|头像=狗绒绒·张辽}}\n{{对话|阿蝉|文远叔，你的刺青遮住了吗？|头像=狗绒绒·阿蝉}}\n{{对话|张辽|嗯，没事的。|头像=狗绒绒·张辽}}\n{{对话|徐氏使者|时辰快到了，我们要出发了。|头像=狗绒绒·老年男2}}\n{{旁白|他们的队伍缓缓走向关口。我们以送行名义，跟在后方随行……}}\n{{旁白|心理|……不能一直盯着，会引起注意的……}}\n{{对话|关口守卫|在关前等候。现在是战时，查验得要细致些。|头像=狗绒绒·凶狠}}\n{{对话|关口守卫|嗯……过去吧。你也过去汪……嗯，过去吧……|头像=狗绒绒·凶狠}}\n{{对话|关口守卫|等等，你的长相，和描述不符啊……|头像=狗绒绒·凶狠}}\n{{对话|徐氏家仆|呃，小犬是不当心摔断了右腿……|头像=狗绒绒·可怜}}\n{{对话|关口守卫|你先等等，让我们查后面的。|头像=狗绒绒·凶狠}}\n{{对话|关口守卫|你……|头像=狗绒绒·凶狠}}\n{{对话|阿蝉|……|头像=狗绒绒·阿蝉}}\n{{对话|关口守卫|也没事，过去吧。你……|头像=狗绒绒·凶狠}}\n{{对话|张辽|……|头像=狗绒绒·张辽}}\n{{对话|关口守卫|过，下一个。|头像=狗绒绒·凶狠}}\n{{旁白|心理|太好了……狐……}}\n{{对话|犬都青年|等一下！|头像=狗绒绒·青年男}}\n{{对话|我|？！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都青年|那两人的长相……好像是西凉军！|头像=狗绒绒·青年男}}\n{{对话|犬都青年|我们就知道他们可能外逃，组织了民兵在各个关口蹲守……抓住他们！|头像=狗绒绒·青年男}}\n{{对话|关口守卫|统统拦住！刚才出关的犬都人全都挡回来！|头像=狗绒绒·凶狠}}\n{{对话|徐氏家主|我们的队伍里……怎可能有西凉犬呢……|头像=狗绒绒·老年男}}\n{{对话|关口守卫|他们一定想逃出广陵，所以混进了使君的队伍中。你们，过来认人！|头像=狗绒绒·凶狠}}\n{{对话|犬都青年|我刚才看见的，应该就是……就是一高一矮的两人……我看看……|头像=狗绒绒·青年男}}\n{{旁白|阿蝉和张辽混在犬群中。民兵们一一查验过来，逐渐接近了……}}\n{{对话|张辽|……不用查了，是我。|头像=狗绒绒·张辽}}\n{{旁白|他站了出来，把阿蝉推人后方的犬群。}}\n{{对话|犬都青年|果然是你……就是他！把他……呃——|头像=狗绒绒·青年男}}\n{{对话|关口守卫|你居然敢开杀？！调兵过来！把他拿下！！！|头像=狗绒绒·凶狠}}\n{{对话|我|快住手……呃……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|我们竭力挤过这片混乱，试图去抓住被他推开的阿蝉；关口城楼上，守将的铠甲在阳光下闪着寒光——}}\n{{对话|我|啊……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|她没有回来。}}\n{{旁白|她折身，冲向了和守卫与民兵血战的张辽，拔出兵刃，和他站在了一起——}}\n{{对话|我|！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|关口守卫|呃……呃……居然杀了那么多士卒……呃……|头像=狗绒绒·凶狠}}\n{{对话|犬都青年|报仇！我要替……替家人报仇！！！|头像=狗绒绒·青年男}}\n{{对话|民兵|她死了吗？这样……应该……应该已经死了吧……|头像=狗绒绒·凶狠2}}\n{{对话|张辽|不许动她！！！呃啊啊啊啊不许动她——|头像=狗绒绒·张辽}}\n{{旁白|越来越多的兵马和守将、越来越多的民兵和百姓……}}\n{{旁白|彻底被塔死的关口……倒下的尸体、不断蔓延的血泊……}}\n{{对话|张辽|阿蝉！！！阿蝉！！！！！|头像=狗绒绒·张辽}}\n{{旁白|被死死压制住的武将，彻底失去所有理智，发出撕心裂肺的吼声。声音越过了他们无法越过的关口，直到发不出任何声音……}}\n{{对话|我|………………|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……………………………………|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|…………唔……阿蝉……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|……醒了吗？|头像=狗绒绒·左慈}}\n{{对话|我|……师尊……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|外面……有些吵闹。绣衣楼的密探，王府上下，都在应付城中的混乱。|头像=狗绒绒·左慈}}\n{{对话|左慈|元直和祢衡在前线抵挡先锋，战况胶着。吾担心你的情况……|头像=狗绒绒·左慈}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|蜷缩成一团，好好歇息吧 。|头像=狗绒绒·左慈}}\n{{旁白|心理|……外面在庆贺吗……好像在庆贺西凉军死了，刘繇定会下令朝廷军退兵……}}\n{{对话|左慈|要帮你捂住耳朵吗？|头像=狗绒绒·左慈}}\n{{对话|我|……师尊……为什么……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|这才是大多数时候世道的常态呀。|头像=狗绒绒·左慈}}\n{{对话|左慈|如果不这样，绒绒就需要“思考”，但是，学会了思考的绒绒是比乱军还危险的。|头像=狗绒绒·左慈}}\n{{对话|左慈|生灵的本性，既害怕会思考的绒绒，也恐惧着自己去思考。思考就意味着，要自己为自己思考的结果负责。|头像=狗绒绒·左慈}}\n{{对话|我|为思考的结果负责吗……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|有犬族和西凉军有血仇。他要复仇。复仇是简单的，杀掉对方就行了。|头像=狗绒绒·左慈}}\n{{对话|左慈|如果延伸一下，西凉军杀了他的家人，他也想杀掉西凉军所有的家人呢？好像也是公平的。|头像=狗绒绒·左慈}}\n{{对话|左慈|当这件事与你无关的时候，心里很容易随意做出判决。但是，如果跟你有关，你就会去想，为什么？|头像=狗绒绒·左慈}}\n{{对话|左慈|你会去想法律、法理、人情、对错、量度……不过，与此事无关的人，依旧可以随意做出判决。|头像=狗绒绒·左慈}}\n{{对话|左慈|“西凉军杀了他的家人，他凭什么不能杀了所有西凉军的家人？”|头像=狗绒绒·左慈}}\n{{对话|左慈|“既然对方声称因为西凉大出兵，杀掉所有这里的西凉犬就好了。”杀了就结束了，不杀，就要为实现“不杀”做许多事。|头像=狗绒绒·左慈}}\n{{对话|我|……是啊……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|事情已经走到这一步了，不要试图用“不杀”的立场去思考“杀”。|头像=狗绒绒·左慈}}\n{{对话|左慈|因为“杀”是情绪，没有任何生灵，会为情绪负责。你试图用思考去解释情绪，会崩溃的。|头像=狗绒绒·左慈}}\n{{对话|我|……师尊以前，经历过这些事吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|不止是经历吧……杀的情绪和不杀的思考，吾都选择过。报仇，杀戮……全都做过。|头像=狗绒绒·左慈}}\n{{对话|左慈|正因为自己做过，所以才会不希望你去经历……但是……|头像=狗绒绒·左慈}}\n{{对话|左慈|这样的事，会无穷无尽的发生，在世间不断循环往复，逃避没有意义。|头像=狗绒绒·左慈}}\n{{对话|我|……嗯，我知道，狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|左慈|就算痛苦，也要竭力在痛苦中学会运用它。|头像=狗绒绒·左慈}}\n{{对话|左慈|用思考操控情绪，再用情绪，毁掉思考。|头像=狗绒绒·左慈}}\n{{对话|我|………………我明白了。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……我知道该怎么做了，师尊。派出使者，我要和刘繇和谈。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n\n==犬都纪事·十==\n{{对话-头}}\n{{对话|刘繇|好久不见了，王弟！毛色依旧鲜亮啊！}}\n{{对话|犬都文官|优雅啊，陛下，蓝调灰在灯火下呈现出华丽的雍容啊！|头像=狗绒绒·老年男}}\n{{对话|我|狐，先帝纯黑发亮的毛色，才是真正尊贵的汉室之色呢……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘繇|哈哈哈……王弟会不满也是犬族常情啊。不过，之后汉室的流行色就是灰蓝了！}}\n{{对话|我|怎么看都只是杂色系的灰贵宾吧……连犬种都不一样啊！先帝可是正宗的雒阳五黑犬啊啊！邪恶繇粒绒！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘繇|哈哈哈有什么关系，你不也是只荧光黄狐狸吗，哈哈哈——}}\n{{对话|犬都文官|陛下，这可是和谈夜宴，广陵王居然如此不敬！|头像=狗绒绒·老年男}}\n{{对话|刘繇|这正说明我和王弟感情深厚直言不讳啊，有句老话说得好，忠言逆耳良药苦口，哈哈哈——}}\n{{对话|犬都文官|陛下英明！|头像=狗绒绒·老年男}}\n{{对话|我|英明吗？明明打着诛杀西凉军的名号出兵，自己麾下却还有着西凉将领。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马超|正是我啦，哈哈哈——|头像=狗绒绒·马超}}\n{{对话|刘繇|哈哈哈——}}\n{{旁白|心理|好吵。}}\n{{对话|刘繇|马超将军可是射杀了反贼董白的功臣，自然与其他西凉军不同。}}\n{{对话|我|毕竟是西凉军，狼子野心，还是要多警醒些为好。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都臣子|殿下言辞间对陛下实在有失恭敬……呃……呃呃……呕……|头像=狗绒绒·青年男2}}\n{{对话|犬都武将|呕……这是……这是……呕……|头像=狗绒绒·青年男}}\n{{对话|犬都宾客|是……巧……克……力…酒里……有……巧克力……|头像=狗绒绒·少年2}}\n{{旁白|中毒的宾客不断倒下，帐内顷刻间一片混乱——}}\n{{对话|军需官|禀报陛下，在后方抓住了这条西凉巧克力犬。是马超麾下的武将！|头像=狗绒绒·青年男2}}\n{{对话|犬都文官|这、这一脉相承的巧克力色，果然是一伙的！|头像=狗绒绒·老年男}}\n{{对话|马超|啊真的是同一个色系啊，哈哈哈——|头像=狗绒绒·马超}}\n{{对话|西凉军犬|将军……你让我去下毒，说会给我安排接应……|头像=狗绒绒·凶狠}}\n{{对话|马超|哎？我说过吗？哈哈哈不记得了！可能说过吧！|头像=狗绒绒·马超}}\n{{对话|犬都文官|西凉军果然狼子野心！|头像=狗绒绒·老年男}}\n{{对话|刘繇|来狗，把马超拿下！}}\n{{旁白|心理|用重金收买了豁出命的内应，成功挑拨了他们……马超是此次攻城的主力，没有他，刘繇就只能放弃攻城……}}\n{{对话|马超|凭你们也想抓住老子？冲冲冲——哈哈哈哈哈——|头像=狗绒绒·马超}}\n{{对话|犬都武将|被他跑了！陛下，他逃往马氏营地的方向了！|头像=狗绒绒·青年男}}\n{{对话|刘繇|何必追击呢？今夜的重点是和王弟的和谈。王弟！来，再喝一杯！}}\n{{对话|犬都常侍|说起来，广陵王迷途知返，懂得和西凉军划清界限，这可是天大的喜事……|头像=狗绒绒·可怜}}\n{{对话|犬都常侍|为了证明与西凉军彻底割席……来，把反贼带上来！|头像=狗绒绒·可怜}}\n{{旁白|帐帘掀开了，一道血淋淋的身影，带着枷锁，被两名武将拖进帐中……}}\n{{对话|我|……！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都常侍|我们从关口的民兵手中扣下这名反贼。今夜群贤毕至，便处决此贼，以证明广陵归顺朝廷之心吧！|头像=狗绒绒·可怜}}\n{{对话|张辽|咳……咳咳……}}\n{{对话|犬都常侍|张辽，你助纣为虐、天地不容，今日御前受死，你还有什么要辩白的？|头像=狗绒绒·可怜}}\n{{对话|刘繇|……要弄成这样吗？就算是反贼处死，也该正式送上处刑台吧？}}\n{{对话|刘繇|拖到御前领死，岂非私刑？}}\n{{对话|犬都文官|陛下如今是天子，天子手下，哪有私刑？再说，这也是为了证明广陵王和西凉军彻底决裂，防止二心。|头像=狗绒绒·老年男}}\n{{对话|犬都文官|广陵王，亲手杀了他，证明你效忠朝廷！|头像=狗绒绒·老年男}}\n{{对话|我|……等一下狐……刘繇刚才不是说了吗……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|犬都常侍|殿下还对西凉犬有不忍之心吗……|头像=狗绒绒·老年男}}\n{{对话|我|………………不……如果这么做……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|……呼……呼……}}\n{{对话|犬都文官|快一些啊，广陵王——|头像=狗绒绒·老年男}}\n{{对话|二周年犬都群臣|杀了他！！！}}\n{{对话|张辽|呃——}}\n{{旁白|下一刻，几乎垂死的身影扑向地上倾倒的酒盏，抢下杯中剩余的毒酒，一饮而尽——}}\n{{旁白|杯盏落地滚远。他倒落在地，血缓缓从口鼻淌出，带走最后微弱的气息。}}\n{{对话|张辽|咳……咳……呃……咳呃……呃……}}\n{{旁白|帐内的群情冷了下来，静了下来。因为毒药不够，他并没有立刻死去，却也没有看我，避开了目光。}}\n{{旁白|就在这时，刘繇步下了主座……}}\n{{旁白|剑光划过，万籁寂静。}}\n{{对话|刘繇|这不是应该发生在御座前的事。}}\n{{对话|刘繇|戏弄敌将的性命，像猫邦那些喜怒无常的猫，不为了捕食而猎杀……这样的蠢事不许发生在朕的御前！}}\n{{对话|犬都常侍|是！！！|头像=狗绒绒·老年男}}\n{{对话|二周年斥候|有军情！陛下，马氏营地哗变，马超起兵造反了！}}\n{{对话|犬都文官|汪汪？！|头像=狗绒绒·老年男}}\n{{对话|刘繇|慌什么！点兵，朕亲自带兵去扑灭叛贼！}}\n{{旁白|营中重臣随他出帐，剩下的宾客怏怏而散。我走到他身边，忽然，他微微动了动……}}\n{{对话|我|！！！张辽将军……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|……回……}}\n{{对话|张辽|…………带她的骨骸……回去……}}\n{{对话|张辽|……西凉的……西凉的孩子……不能死在……没有太阳的地方……带她……回去……}}\n{{对话|张辽|呵……呵呵……咳……真是……倒霉的一生啊……西凉军入关时……我在外募兵……募兵完回去没多久……西凉军就败了……}}\n{{对话|张辽|到哪里都……都安定不下来……遇到的孩子……都是……任性的孩子……}}\n{{对话|我|……对不起……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|……没有什么……需要道歉的啊……}}\n{{对话|张辽|拜托你了……阿蝉……喜欢晒太阳……带她回北方……}}\n{{对话|我|……好。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张辽|……}}\n{{对话|张辽|………………多谢……}}\n{{对话|张辽|……………………}}\n{{旁白|他没有再说话……}}\n{{对话|朝廷士卒|马超的兵马把附近都围住了！|头像=狗绒绒·凶狠}}\n{{对话|朝廷将领|不要慌，重整阵型，准备突围！|头像=狗绒绒·凶狠2}}\n{{旁白|我背着张辽，和亲卫汇合后准备离开。刘繇营地已经火光四起，朝廷军和马氏亲兵厮杀，难辨生路——}}\n{{对话|马超|你带着辽哥，打算去哪啊，兄弟？}}\n{{对话|我|是你……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|他骑着战马挡住了我的去路。他的身后，几名刀斧手守着一口木笼。}}\n{{旁白|笼中蜷缩着一具娇小的身躯。虽然虚弱，但仍有气息……}}\n{{旁白|——董白。}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n\n==犬都纪事·十一==\n{{对话-头}}\n{{对话|我|……还活着狐？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马超|他能出不少主意，让他死了太浪费了。对不对，兄弟？}}\n{{对话|董白|……别废话了……}}\n{{对话|董白|去抓……呃……抓刘繇，挟持朝廷军……}}\n{{对话|我|原来是你在他背后继续谋划……他夺取了朝廷军，就有了攻城的力量……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董白|……我闻到火的味道了，广陵，天下……很快也会陷入这样的大火里……}}\n{{对话|董白|……火光很明亮，但却什么都看不见……真可惜。}}\n{{旁白|亲卫被马超打退，金刀斩来，我的战刀发出刺耳的断折声——}}\n{{对话|马超|你输了！！！}}\n{{对话|董白|呵呵……哈哈哈……嘻嘻嘻哈哈哈哈哈——}}\n{{对话|我|输的是你！你们今天全都别想活着离开！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|徐庶|剑来——|头像=狗绒绒·徐庶}}\n{{对话|马超|……？！}}\n{{对话|朝廷军|有伏兵！广陵的伏兵在营外——|头像=狗绒绒·凶狠}}\n{{对话|马氏亲兵|将军，南边不是流民，是伪装成流民的江东军！我们被夹击了！|头像=狗绒绒·凶狠2}}\n{{对话|祢衡|吼喽……}}\n{{对话|祢衡|敌军都被打散了，那边火老大了，要追吗？}}\n{{对话|我|他被徐庶前辈打伤了，逃不远的狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|马氏营地已经被烈火吞噬。我们追逐马超逃亡的方向，冲入火中……}}\n{{对话|马超|……呃……哈哈哈……呃……}}\n{{对话|马超|追过来了呀，兄弟……}}\n{{对话|祢衡|四周都是大火，你没法子溜喽。}}\n{{对话|祢衡|唔啊，不过很强啊，中我师父六七剑，居然还能出声……}}\n{{对话|马超|哈……那个“剑来”吗？真、真劲啊——}}\n{{对话|马超|哈……哈……哈……咳咳……}}\n{{对话|祢衡|他肺破了，要给他个痛快不？}}\n{{对话|董白|……不需要。|头像=狗绒绒·董白}}\n{{对话|董白|要下地狱的绒绒，不需要带着那种慈悲的感受下地狱……|头像=狗绒绒·董白}}\n{{对话|马超|……慈悲的感受是什么东西？是我爹念的那种经？}}\n{{对话|马超|吵吵嚷嚷的，听着又想睡觉……哈……咳咳……这辈子，真、真带劲啊……要什么慈悲呢，黏黏糊糊的……}}\n{{对话|我|……火烧过来了，很快就结束了。走吧，师兄。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|那，我们走喽？}}\n{{对话|祢衡|那个笼子里的小瞎子不用管吗？在火里活活烧死，很难过的。没有准备短刀啊、毒药啊什么的吗？}}\n{{对话|马超|他可是要跟我一起下地狱的！哈哈哈——咳……咳……}}\n{{对话|董白|呵……|头像=狗绒绒·董白}}\n{{对话|马超|……喂，兄弟……}}\n{{旁白|在最后，他掏出一把染血的木笼钥匙，抛向笼中的董白；但对方看不见，钥匙落在他身上，又滑落下去，掉出了笼子。}}\n{{对话|马超|哎呀，忘记你看不见了……真是没办法的事……对不住啦……}}\n{{对话|董白|本来就不用。我想做的事，已经做完了。|头像=狗绒绒·董白}}\n{{对话|董白|真正的天兆，厮杀的壁画会实现……只要知道它会实现就好，反正就算实现，我也看不见……|头像=狗绒绒·董白}}\n{{旁白|他取出自己的义眼，一起咽了下去。琉璃珠卡住咽喉，因为窒息，他的身躯在笼中颤抖着。直到被烈火红光吞没。}}\n{{旁白|一段时日后……}}\n{{对话|傅融|朝廷军、马氏骑兵在城外两败俱伤，最后一起四散撤逃了。}}\n{{对话|傅融|猫邦的大军在边境出没，无论能否筹备犬神宴，各地最好都做好自保的准备……}}\n{{对话|我|就这样做吧……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|你还好吗？}}\n{{对话|我|……今天周群说，收拾完了他们的遗物。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|他问，是放在原地，还是好好收去库房……我想了很久狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|……}}\n{{对话|傅融|放在原地，就会觉得，他们还可能会回来。一直这样想，心里会生出魔障的。}}\n{{旁白|心理|……收起来吧。}}\n{{对话|我|这些是阿蝉的，这些是张辽的……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|这卷羊皮地图也是吗？}}\n{{对话|我|嗯，好像是他们家乡的地图………用羌语写的，这个应该读作……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|“容”……“容”……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|“身”……“名”……“动”……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|什么意思？容，容，身，名，动？}}\n{{对话|我|……容容身名动……绒绒……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……………………绒绒……神明洞？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|是西凉那边的绒绒密窟吗？}}\n{{对话|我|怎么可能，内廷收藏的舆图中，绒绒密窟在江东，不在西凉。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|…………|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……！！！！！！！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|傅融|你要去哪？！}}\n{{对话|我|我……我想起了一些事！要渡江去查证一些事！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|毕竟多边投机才能在乱世立于不败之地狐……那，条件呢？|头像=狐绒·周瑜}}\n{{对话|我|对……很可能……很可能是假的……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|因为是假的，所以，无论从里面取出什么壁画都是假的，神明都不会承认……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|这个怎么验证啊？而且，如果是假的，为什么廷军一直森严把守在那？}}\n{{对话|我|我也不知道，也许有绒绒能够让朝廷军这么做……或者用假舆图替换内廷的真舆图……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|这得是什么级别的大绒物啊？！！}}\n{{对话|周瑜|凭她从前在内廷的地位就做得到啊。|头像=狐绒·周瑜}}\n{{对话|我|是这样没错……但是我没有做过，狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|我想想……我想想……说起来，我们小时候那个洞窟还不是绒绒洞窟吧？}}\n{{对话|孙策|我经常带着阿香阿权在里面钻来钻去的，本地的孩子也经常去……后来有一天，突然来了朝廷军，把那里层层守住了。}}\n{{对话|孙策|“原来是犬都圣地啊”……大家都很讶异。但也没别的……}}\n{{对话|我|深处没有壁画吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|当然没有，如果有，本地汪早就发觉了。}}\n{{对话|孙策|那个洞窟深处只有一堆藤蔓，哪有壁画？可能是被朝廷接手后，从里面发现了什么神迹？}}\n{{对话|孙策|不对不对，是因为有巡兵某天在里面发现了壁画，才会上报朝廷。我还纳闷，哪来的壁画，这么多年都没有……}}\n{{对话|我|……有犬都人在里面放了壁画，上报朝廷让朝廷把它认定成了绒绒密窟……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|但是，这说不通……如果壁画是假的，那神明发出的那些天兆，都是假造的？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……从一开始，就是内廷替神明在假传天兆？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙策|果然世上是没有神明的，看，我说的没错，所谓神明，本质不过就是内廷用来发号施分的傀儡！}}\n{{对话|孙策|等等，这就要走了吗？下次……下次什么时候再见呀？……嗷呜……}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n\n==犬都纪事·十二==\n{{对话-头}}\n{{旁白|心理|……到了……}}\n{{旁白|心理|…………这座西凉的洞窟，好像是真正的绒绒密窟……能感应到一些特殊的气息……}}\n{{对话|我|如果这里真的有壁画，会是什么的壁画呢？是绒绒村的，还是互相厮杀的？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|——谁？！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|吼喽！是、是师兄哦！}}\n{{对话|我|吓了我一跳狐！师兄怎么偷偷跟上了？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|担心你喽。之前发生了那么难过的事……}}\n{{对话|祢衡|你的亲卫说，你这几天到处乱跑，不知想做什么，担心你出事，又不敢直接问，所以就拜托老子来看看你。}}\n{{对话|我|师兄，你之前去江东的密窟时，有感觉到什么吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|没有哦……}}\n{{对话|我|……嗯，果然，你当时也没有发现……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|这里，可能是真正的绒绒密窟。我想去深处找到神明壁画。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|原来如此吼。往下找找看……}}\n{{旁白|很久、很久……沿着向下的石道，我们在黑暗中前进了许久。}}\n{{旁白|在这条不知道有没有尽头的道路上一直走，直到……}}\n{{对话|祢衡|到头了。|头像=猴绒·祢衡}}\n{{对话|我|哎？这就到头了？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|嗯……啥子都莫得。看起来，这里也是假洞窟噻。|头像=猴绒·祢衡}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|嗅嗅……嗅嗅……不对，更深处还有特殊的气息……很熟悉的气息……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|师兄，你真的没有摸索到什么机关吗？后面应该还有道路狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|这个……没有没有，真的没有……|头像=猴绒·祢衡}}\n{{对话|我|……嗯？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|我们回去吧，这就是个假洞窟。前面没有路。|头像=猴绒·祢衡}}\n{{对话|我|不，这里不会是假的。后面一定有路。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……我闻到……熟悉的香味了。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|犬科的鼻子也太灵了……会不会因为太灵敏了所以闻错了？|头像=猴绒·祢衡}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|不可能。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|好犟哦！走嘛走嘛，师兄回去给你烫串串吃……|头像=猴绒·祢衡}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|……|头像=猴绒·祢衡}}\n{{对话|祢衡|……啧，真的是……没法子啊。|头像=猴绒·祢衡}}\n{{对话|我|师兄，你一开始进宫，不是为了刺董吧？你是不是想潜入内廷，找那块被藏在内廷的壁画？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|……………………………………|头像=猴绒·祢衡}}\n{{对话|祢衡|啊哈哈，被看穿吼喽！这也是没办法啊……师兄是猴族，家人都没了……如果能在壁画上许愿……|头像=猴绒·祢衡}}\n{{对话|祢衡|……也不是想许什么坏事……只是想和神明许愿复活我的家人……|头像=猴绒·祢衡}}\n{{对话|我|那一开始就可以直说嘛！而且，你更要跟我一起找到真壁画了。我可以帮你把愿望加上！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|真壁画吗……|头像=猴绒·祢衡}}\n{{对话|祢衡|……师弟，我们还是回去吧。再往前，我怕你会伤心。|头像=猴绒·祢衡}}\n{{对话|我|我已经不会难过了，狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|……|头像=猴绒·祢衡}}\n{{对话|祢衡|是吗。你要是这么执着，那……我们就去壁画前看看吧。|头像=猴绒·祢衡}}\n{{对话|祢衡|刚才在那边，摸到了一块质地特殊的石砖，应该是打开石门的机关。|头像=猴绒·祢衡}}\n{{对话|我|这才对狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|隆隆声中，前方的山壁裂开了豁口，露出了道路……}}\n{{旁白|我们继续前行。神明洞窟的气息、熟悉的香气，越来越清晰。}}\n{{对话|我|点亮灯火，嘿咻……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……啊！！！到了！！！果然，这里摆着真正的壁画——是绒绒村的！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|小心点哦祖宗，旁边还有好多个白影呢……}}\n{{对话|我|……哎？那些白影是……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|如果是白骨也就算了……但是，围绕着壁画，地面上有着数团绒绒轮廓的白影。}}\n{{旁白|记忆中，我曾经见过这样的白影。仙人死去时，很多不会留下尸骨，只会留下这样细沙般的雪白痕迹。}}\n{{对话|祢衡|你小心点，我去看——谁？！敢暗算老子？|头像=猴绒·祢衡}}\n{{对话|刘繇|止步汪，使君。|头像=狗绒绒·刘繇}}\n{{对话|我|刘繇……你为什么在这里？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘繇|朕还没有败呢，迟早会东山再起。当朕成就大业时……}}\n{{对话|刘繇|犬神，必须给朕变成一具单纯的雕塑！朕不会允许有任何命令高于政令！}}\n{{对话|刘繇|一路派犬跟踪，终于跟着你们找到了此地……这里的神明壁画，必须被毁掉汪。}}\n{{对话|祢衡|住手——}}\n{{旁白|他们同时扑向壁画，因为刘繇手太短，最终还是师兄先一步够到了壁画！}}\n{{旁白|然而，就在他碰到壁画的瞬间，异变发生了——}}\n{{对话|祢衡|吼喽……|头像=猴绒·祢衡}}\n{{对话|祢衡|吼——咦嘻嘻……吼——啊啊啊啊啊啊啊——|头像=猴绒·祢衡}}\n{{对话|我|师兄……？师兄你怎么了？！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|咦嘻嘻……嘻嘻……呼呼……啊……呼……吼喽……吼喽……|头像=猴绒·祢衡}}\n{{对话|祢衡|神……神……|头像=猴绒·祢衡}}\n{{旁白|——神明。}}\n{{旁白|猴族的神明，被我手中的烛火照亮了。血色的纹路，疯狂蔓延在他的身躯上，像是将他撕碎的裂痕。}}\n{{旁白|尖啸、哀嚎、哭泣……本该早已湮灭的神明之一，竟在此刻重现。和犬族相似的犬齿是血红的，和他的双眸一样。}}\n{{对话|祢衡|……刘辩……果然……你这个……骗子……骗子……|头像=猴绒·祢衡}}\n{{对话|祢衡|呃……呃呃……哈哈……咦嘻嘻……嘻嘻嘻嘻嘻……呼……骗子！骗子！！！哈哈……老子就知道……哈哈哈……你……不会放过老子……|头像=猴绒·祢衡}}\n{{对话|我|这是怎……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|别过来！……咦嘻嘻……不行……我还能控制住……不让它出来……不行……不行……哈哈哈哈哈哈哈——|头像=猴绒·祢衡}}\n{{对话|祢衡|快跑……师弟……|头像=猴绒·祢衡}}\n{{对话|刘繇|……他是……神化了吗？}}\n{{对话|刘繇|……当年征讨其他的绒绒部族，有些部族在败亡前，会自己推翻砸碎神像，咽下神像的碎片……}}\n{{对话|刘繇|这样的绒绒就可以神化……虽然短暂，之后也会彻底疯掉，但能够把身心暂时交给神明作战……}}\n{{对话|祢衡|……我……咽下了……猴族的神像……哈……哈哈……它最后湮灭得……跟指尖一样大小……咦嘻嘻……不……快跑……|头像=猴绒·祢衡}}\n{{对话|祢衡|快跑啊！！！不要去见里面的事物了，你知道的……你心里已经知道那里有什么了！！！|头像=猴绒·祢衡}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|是刘辩的气味。}}\n{{旁白|刘辩的气息，就在壁画后更深的山道中。}}\n{{对话|刘繇|愣着做什么？！快跑！猴神发狂了！！！}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘繇|快跑！呃——}}\n{{旁白|巨大的猴爪摁住了犬身……}}\n{{旁白|所有的生机，瞬间消失了。}}\n{{对话-尾}}\n\n{{切换标签|内容结束}}\n{{切换标签|内容开始}}\n\n==犬都纪事·十三==\n{{对话-头}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|……吼……吼……猴子可是……杂食动物……|头像=猴绒·祢衡}}\n{{对话|祢衡|好饿……吼……吼……是……狐狸……吼……|头像=猴绒·祢衡}}\n{{对话|我|……师兄。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|祢衡|……我被……骗了……呵呵……想要……复活家人，一直想，一直想……|头像=猴绒·祢衡}}\n{{对话|祢衡|吼……呵呵……他说……他虽然不喜欢我，但是，“如果帮你复活家人，广陵王一定会夸奖我吧”……哈哈……哈哈……|头像=猴绒·祢衡}}\n{{对话|祢衡|他改了内廷的舆图……让我帮他……造了假洞窟……引开……所有犬都人的注意……这样，他就能去研究真正的……洞窟……|头像=猴绒·祢衡}}\n{{对话|祢衡|他算好的……他从一开始就算好……我会……咦嘻嘻……哈哈哈……啊啊啊啊——|头像=猴绒·祢衡}}\n{{旁白|神力，似乎开始慢慢消散了。他用头撞着石壁，巨大的力道，让上方的沙石簌簌落下。}}\n{{对话|祢衡|哈哈哈！哈哈哈哈哈……|头像=猴绒·祢衡}}\n{{旁白|越过癫狂的笑声、散落的沙石，我看见了更深处的身影。他坐在那，怀抱着神明壁画。}}\n{{旁白|在他身后，不知何时，犬神的神像也已经被搬入了此地 。}}\n{{对话|我|你想做什么，刘辩？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|做不会让你担心的事呀。}}\n{{对话|刘辩|以前那样，你总是在为我担心，为犬都担心……}}\n{{对话|刘辩|太过分了，这个世道，让你为这个为那个耗尽心力……还有一堆绒绒会缠着你。}}\n{{旁白|他举起那块绒绒村的壁画——然后，把它掷碎于地。}}\n{{对话|刘辩|这个地方，再缝缝补补下去也不会变好！还不如彻底毁掉，再建一个新的犬都，再造一个新的神明！}}\n{{对话|刘辩|……方法就是神化。}}\n{{对话|我|神化？可是他神化后就疯了！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|如果祢衡没碰到犬族的壁画、被犬神的力量影响，其实就不会疯掉。他体内的猴神会真正苏醒。}}\n{{对话|我|那只要找到猴族为猴神绘制壁画的山洞，找回猴族的壁画，他就会恢复吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|哎？那种地方，早就崩塌了。}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|绒绒们怎么可能那么慈悲，先祖们毁掉对方的部族和神明之后，会把产出种明壁画的地方留着？}}\n{{对话|刘辩|广陵王，等猫邦摧毁大都，我们就一起吃下神像的碎片吧！}}\n{{对话|刘辩|我们一起神化，成为废墟上新的神明。我们发出的天兆，可以引导犬都人夺回领地。我们既是神，又是天子。}}\n{{对话|刘辩|永远不会分开，想把天地变成什么样就变成什么样，想建立一千一万年的绒绒村都没有问题 ……}}\n\n{{嵌套分歧|头}}\n{{嵌套分歧|拯救犬都，修补绒绒村壁画|1}}\n{{嵌套分歧|夺回神像|2}}\n{{嵌套分歧|同意刘辩的提议|3}}\n{{嵌套分歧|尾}}\n\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|……我不能放弃掉眼前的犬都。刘辩。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|我捡起壁画的碎片，试图把它们拼凑复原。}}\n{{对话|刘辩|………………你要放弃我吗？}}\n{{对话|我|拯救犬都，不意味着放弃你啊。狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|不是的……不是这样的，如果你选择了拯救犬都，说明我排在了犬都后面……}}\n{{对话|刘辩|……那就更该毁掉。}}\n{{对话|祢衡|壁画……哈哈哈……好饿……好饿……|头像=猴绒·祢衡}}\n{{对话|刘辩|啊，这个壁画很好吃哦，师兄。}}\n{{对话|我|快把它放下！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……拼好了……神明，收下壁画，发出止战的天兆吧……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|太一君|……|头像=狗绒绒·太一君}}\n{{对话|我|神明……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|太一君|……沙……|头像=狗绒绒·太一君}}\n{{对话|太一君|………………沙沙……|头像=狗绒绒·太一君}}\n{{旁白|在我的面前，犬神的神像从内里崩塌，碎成齑粉……}}\n{{对话|我|……………………不可能……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|呱唧，呱唧，呱唧。}}\n{{对话|刘辩|好难吃，粉粉的，没味道……}}\n{{对话|刘辩|把它偷来这里之后，我已经开始从里面挖起来吃了。毕竟，要斩断退路嘛。}}\n{{对话|刘辩|没有神明了，广陵王！听我的提议，我们一起……}}\n{{对话|我|——没有神明也好。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|我拾起已经意识不清的祢衡的尾巴，走到刘辩面前。}}\n{{对话|我|既然彻底没有神明了……那就彻底凭自己解决问题！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|广陵王者体覆金纹声清越裂金石太卜占曰此天狼降世当守四方……}}\n{{旁白|猫邦尽发北海之师连破七镇檄文曰犬辈徒摇尾乞怜岂堪战阵速献王玺免为齑粉朝野震栗……}}\n{{旁白|……遂请缨……}}\n{{旁白|凯旋万民铺道相迎犬王欲加九锡却衔玺置於社稷坛群臣遂奉其甲为圣物入朝不拜见王不跪……}}\n{{旁白|省略很多没有标点符号的记载<ref>|广陵王者，体覆金纹，声清越，裂金石。太卜占曰：“此天狼降世，当守四方。”猫邦尽发北海之师，连破七镇，檄文曰：“犬辈徒摇尾乞怜，岂堪战阵？速献王玺，免为齑粉。”朝野震栗。遂请缨……凯旋。万民铺道相迎，犬王欲加九锡。却衔玺，置于社稷坛。群臣遂奉其甲为圣物。入朝不拜，见王不跪。</ref>……}}\n{{旁白|……}}\n{{旁白|…………}}\n{{旁白|数年后}}\n{{对话|我|调查到了猴族遗址的洞窟？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|亲卫|嗯！不过，没有找到陛下所说的猴族壁画……|头像=狗绒绒·青年男}}\n{{对话|我|……是吗……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|在室内的冰榻上，师兄静静沉睡着……}}\n{{对话|我|……没关系，继续找，总有一天能找到的。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|——和猫邦的大战，已经结束数年了。因为没有神明的庇护，战局初并不明朗。}}\n{{旁白|但就在前线溃败、即将死于乱军之中时，忽然，“神明”出现了。}}\n{{旁白|巨大的、云雾般的、纯黑的……犬神，笼罩了整片天幕，扭转了战局……}}\n{{对话|我|最近，还有神明显灵的传闻吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|亲卫|有……在益州。最近，百姓在益州崇拜一个新的道派，叫做五黑米道。|头像=狗绒绒·青年男}}\n{{对话|我|……是吗……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|哈，五黑……哈哈……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|亲卫|怎么了，陛下？|头像=狗绒绒·青年男}}\n{{对话|我|……没事。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|知道他过得不错，我就放心了。|头像=小头像-三国志绒绒版-狐头狐尾}}\n\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|刘辩|你在做什么？}}\n{{对话|我|神像……我要把它……拖出去！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|……}}\n{{对话|刘辩|其实……我已经吃过一点神像了。}}\n{{对话|我|……哎？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|沙沙的、很难吃。}}\n{{对话|刘辩|我……噗噗噗不要拍我噗噗噗——}}\n{{对话|我|吐出来！吐出来啊啊啊！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……呼，揉一揉沾回去……沾回去……刘辩？刘辩？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|……}}\n{{对话|我|好像是因为吃神像，昏过去了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|带着神像、刘辩、祢衡、拼好的壁画……我离开了绒绒密窟。}}\n{{旁白|……具体怎么把以上列举的名词都拖出洞的，真是个痛苦的回忆过程……}}\n{{旁白|但还来不及消解，猫邦的大军，就已经攻打过来了……}}\n{{旁白|数年后……}}\n{{对话|我|……好壮观的阳光……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|阳光落在北地麦田上，一望无际的金海，随着微风泛起巨大的麦声……}}\n{{对话|农夫狗|你是外地来的旅客吧？|头像=狗绒绒·老年男2}}\n{{对话|我|啊……是。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|偷闲换了便装来了北方……想亲自送阿蝉他们回来……}}\n{{对话|农夫狗|自从供奉了绒绒村壁画、停止战乱之后，麦田就开始恢复了。|头像=狗绒绒·老年男2}}\n{{对话|我|恢复？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|农夫狗|嗯，父亲说，他小的时候，北方三州的麦田，比现在要壮阔数百倍……|头像=狗绒绒·老年男2}}\n{{对话|农夫狗|后来频频战乱、坚壁清野，农田一次次被火焚，很多地方再也长不出植被了，干涸龟裂了。|头像=狗绒绒·老年男2}}\n{{对话|农夫狗|不过太平了几年之后，我家的农田重新恢复了呢……希望这样的时日再久一些吧……|头像=狗绒绒·老年男2}}\n{{对话|我|老人家，你知道这里太阳最好的地方吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|农夫狗|这里吗……我想想……|头像=狗绒绒·老年男2}}\n{{对话|？？？|我知道。|头像=狗绒绒·马腾}}\n{{对话|我|这里吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|嗯，亮得有些晃眼吧。}}\n{{对话|我|主要是……将军的铠甲在反光……明明已经和平了，为什么还着甲呢？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|习惯了。戎马一生，改不掉了。}}\n{{旁白|在附近的山顶，我放下了故友的遗骨。}}\n{{对话|马腾|需要帮忙摆供奉品吗？}}\n{{对话|我|……多谢狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|不用紧张，我并不想问马超的事。}}\n{{对话|我|呼……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|那是他选择的缘法，生死俱在其中……啊，有些新鲜的莓果汁，对犬族的眼睛好……}}\n{{对话|我|谢谢谢谢……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|还有些点心……虽然比较素如果吃不惯……}}\n{{对话|我|没有没有，非常清爽可口狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|我们晒了会儿太阳，他慢慢问起我关内的事……}}\n{{对话|我|唔，我在替师兄找猴族的壁画，只要找到了，他就能恢复正常……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|还有刘辩……我让他住在了广陵，这样一直能见到，他也不会觉得不安心。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|还有狐……还有狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|朝廷那边，殿下可有兴趣吗？}}\n{{对话|我|大家正在履行绒绒村的天兆，绒绒村里，所有绒绒会幸福快乐地生活在一起，没有隔阂和仇恨……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|天子，只会和这个好气象格格不入吧，狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|……何等通透的判断。是我短视了。}}\n{{对话|我|哪里哪里……是我眼下还在想以后的路。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|……绒绒村，是无法长久持续的。在短暂的一代后，它很快会崩裂。然后，洞窟里会产出新的壁画。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|马腾|是啊。天时未至，也要早做准备。}}\n{{对话|马腾|等那一日，若老夫还苟延于世，一定会去见殿下的。}}\n{{旁白|我们一直坐在山顶，聊着以前或以后，望着日落。北方的日落璀璨而明亮，甚至比白昼更为耀眼。}}\n\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|……嗯，我同意你的提议。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|真的吗？！我就知道——}}\n{{对话|我|我也起过……和和你类似的念头，只是不知道神化这条路……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|既然如此，我们就这么做吧，刘辩。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|太一君|……哔……|头像=狗绒绒·太一君}}\n{{对话|太一君|哔叽————————想都不要想！！！|头像=狗绒绒·太一君2}}\n{{对话|太一君|区区两只凡汪——竟敢肖想神位？！！|头像=狗绒绒·太一君2}}\n{{对话|我|啊哈哈，神化狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|哈哈哈……全黑的犬神雕像！}}\n{{对话|我|呱唧，呱唧，呱唧。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|呱唧，呱唧，呱唧。}}\n{{对话|我|……呼……呼呼……要坚持不下去了……脑子里面，有声音呼……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|没关系的！很快就习惯了！}}\n{{对话|我|会不会……快要……疯掉了狐……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|有什么关系嘛，神明都是疯疯癫癫的。}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|哈哈哈，对！疯疯癫癫！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘辩|疯疯癫癫——}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|狗巫师|天命赤狐，降而建都<ref>《玄鸟》：天命玄鸟，降而生商。</ref>。宅兹芒砀<ref>何尊铭：宅兹中国（住在天下的中央）。芒砀：刘邦斩白蛇起义，兴汉之地。</ref>，九尾攸分<ref>陶弘景《周氏冥通记》：二象攸分。</ref>……|头像=狗绒绒·黑影}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|百姓|是神明……是狸犬神……|头像=狗绒绒·老年男2}}\n{{对话|孩子|狸犬神？是那台大车上的两尊神像吗？|头像=狗绒绒·少年2}}\n{{对话|百姓|是啊……是啊……|头像=狗绒绒·老年男2}}\n{{对话|百姓|一百年前，犬都遭受了灭顶之灾，就在先民们彷徨无措的时候，出现了两尊新神……|头像=狗绒绒·老年男2}}\n{{对话|百姓|新神替先民指明了重建都城的道路，降下天兆指定了天子，托梦传授了军事和农事……|头像=狗绒绒·老年男2}}\n{{对话|孩子|新神这么强大？那，当年犬都为何还会遭受灭顶之灾呢？|头像=狗绒绒·少年2}}\n{{对话|百姓|神明嘛……|头像=狗绒绒·老年男2}}\n{{对话|百姓|神明……都是疯疯癫癫的，哈哈……哈哈哈……|头像=狗绒绒·老年男2}}\n{{对话|孩子|我们今天上山捡柴，神明也会保佑我们吗？|头像=狗绒绒·少年2}}\n{{对话|孩子|爷爷，无支歧山入夜了就会响起巨大的猴子叫声……附近的山民还会梦见猴神显灵……|头像=狗绒绒·少年2}}\n{{对话|百姓|没事的。毕竟，数百年前，这里是猴族的旧地啊。据说山中有一处洞穴，里面供奉着献给猴神无支歧的画……|头像=狗绒绒·老年男2}}\n{{对话|孩子|……是不是这个！|头像=狗绒绒·少年2}}\n{{对话|孩子|我们去山里玩的时候发现的洞窟，爷爷，我爬到最里面，发现里面有一堆壁画碎片，画满了小猴子！|头像=狗绒绒·少年2}}\n{{对话|百姓|……是你们自己找到的？|头像=狗绒绒·老年男2}}\n{{对话|孩子|是托梦！|头像=狗绒绒·少年2}}\n{{对话|孩子|有天晚上的时候，我梦见了狐狸神，狐狸托梦给我的！|头像=狗绒绒·少年2}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{切换标签|结束}}"
+}

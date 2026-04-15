@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q_lvmeng_1",
+    "dimension": "S5",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "吕蒙",
+    "source_story": "白衣渡江",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "吕蒙以白衣渡江之计奇袭荆州，此计虽险却一举成功。面对一个必须冒险才能成功的任务——",
+    "options": [
+      {
+        "label": "A",
+        "text": "寻找更稳妥的方案，不愿让弟兄们冒险",
+        "scores": {
+          "S5": 1,
+          "S6": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "评估风险后再决定，必要时果断出手",
+        "scores": {
+          "S5": 3,
+          "S6": 3,
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "毫不犹豫，机会稍纵即逝，犹豫就是失败",
+        "scores": {
+          "S5": 5,
+          "S6": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕蒙的选择：当断则断，以迅雷不及掩耳之势取荆州。"
+  },
+  {
+    "id": "q_lvmeng_2",
+    "dimension": "S4",
+    "cross_dimension": "S8",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你接到了一个需要伪装成商人的卧底任务，目标是一位与你有旧交的老友——",
+    "options": [
+      {
+        "label": "A",
+        "text": "拒绝任务，旧交不可利用",
+        "scores": {
+          "S4": 1,
+          "S8": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "接受任务，但尽量不伤害旧友",
+        "scores": {
+          "S4": 3,
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "完美扮演商人角色，公私分明",
+        "scores": {
+          "S4": 5,
+          "S8": 2,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕蒙深谙伪装之道，白衣渡江便是极致体现。"
+  }
+]

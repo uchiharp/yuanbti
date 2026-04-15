@@ -1,0 +1,673 @@
+{
+  "title": "陶生/活动剧情/陶生·二",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙尚香",
+    "孙权",
+    "孙策",
+    "我",
+    "蒯越",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "轮到我了吗？那……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "兄长的故事，总是特别没头没尾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "咳咳，哪有！我每次说故事，阿香都笑得停不下来。啊！我有想法了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……从前有个铁匠，铁匠喜欢吃肉。但是买到了肉没有火把肉弄熟，这可如何是好？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "铁匠抱着生肉走啊走，忽然看见路边有一团泥巴。他突然想起之前看到的一种做法……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "……该不会是把肉包裹在泥巴里，丢在火坑中闷熟吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对对对就是那种！你试过吗？其实一点不好吃，外面焦的，里面还没熟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "在繇哥那也时兴起试过，最后还是架火上做炙肉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还在讲故事，别跑题了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "故事？故事讲完了呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "没头没尾的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "就是，没头没尾的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我暂时没有想法嘛。好了，灯烛给我，我出去绕圈了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "这里真的有人会怕鬼吗？试胆有什么意义……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "是、是啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "就、就是说……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "将军将列位召来，也不过是寻个由头结识，往后好往来应酬。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "呵，“召来”？需要用这么卑微的词？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "都是宾客，因缘际会相聚，言语多结善缘如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "……还要多谢广陵王殿下引荐，在下才能结识如此多风云人物。不知殿下是怎么描述我的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "引荐大多八九不离十，皆言此人可堪大用。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "哈……那不听话了怎么处理？可以用弓弦勒死？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……怎么会写那种恶语。自然都写好的——行事缜密，思绪机敏，进退从容，出身名门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "弓弦勒死都知道，蒯越太守是懂黑道的呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "什么人？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "外面出什么事了？ ！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "是我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "呼……这么多人，为何不点灯？我还以为家里没人呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我们在玩陶片的游戏。倒是你，怎么回了江东，也没跟家里说一声？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "师父跟故人有约，往泰山赴约去了。我本想回寿春经过老家的时候，遇到有水贼夜行劫水道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "我兴起就追了上去，一路追来了这……夜色太黑了我追进来之后才发现是自家的老宅。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "没见着灯火，还以为宅子里没人，又听见主屋有说话声，我便以为那贼人潜逃在此。刚冲过来，就见我哥拔刀了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那贼人没找到？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "突然没兴致了，懒得找了。来都来了，游戏带我一个？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……不要。你小时候每次玩这个都会偷摸吓我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "果然。我就在想，孙家的孩子连活人都不怕，玩这个有什么乐趣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "玩阿权可有乐趣了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "太有乐趣了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "啊啊啊一一下一个我来！你们这次不许故意躲在廊下吓我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "我先来吧。近日身体抱恙，再晚一些，不知道是不是还有精神编故事"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "那……太守请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "从前，有个饿得快要死的人，在泥巴里发现了一块肉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "他想找一把铁刀切肉， 再找火把肉烤熟。但是，忽然来了两头野狼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那怎么办？他没兵刀也没火，只能逃了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "唔……他急中生智，抱着肉，又跳回了泥巴里，把自己和肉一起裹满了泥巴。但是，野狼闻到了味道围住了他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "到最后，他只能把肉丢出去引开野狼，落荒而逃既没有得到肉，自己还满身污秽。好了。故事讲完了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这人患得患失的，不好相处。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "别先入为主。他性子是有些吊诡，但事做的好。不然，我也不会替他引荐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "往后江东和江陵来往，他若倒向刘表，不听话，怎么办？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "信里最后不是写了吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "兄长很喜欢用弓弦，倒是可以同意把他借你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "试过的，试过的……不过多谢太守大度。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "就这点事何须借人啊，有阿香呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "我那时也许不在，大哥也会啊，在……在殿下面前露一手呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "妹，哥如果孤寡终生，一定记得你的功劳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "那，我就顺着兄长的故事说吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "一个铁匠，想找火源把肉弄熟，但只找到了一团泥巴。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "铁匠想了个主意，如果把泥巴涂在脸上去敲邻居的门，邻居会不会为了看清他是谁，举着灯火出来？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "这样不就有火源了吗？于是铁匠把泥巴涂在脸上结果泥巴糊了眼睛。看不清路的铁匠，就这样抱着肉一起掉进了井里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "说完啦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "嗯，嗯。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "也没比之前那个好多少啊。还是第一位诸葛使君的故事最活色生香了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "那是。小人腹怀天下百戏本子，张口就来。年前脍炙人口的那部《龙女三审负心王》……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "咳，咳咳咳，咳。孙权，把灯火拿上，去外面绕一圈吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "哥，我去吓吓阿权！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这么多客人在，别吓出事来。小时候，有次你从回廊下伸手抓他脚踝，他崴脚跌下去，撑地时摔断了胳膊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "这么怕鬼，二公子莫非做过什么亏心事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "怕鬼的人分两种，一种是做过亏心事所以怕，一种是连亏心事都没做过所以怕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "士氏和孙氏此前往来，使者见过孙二公子，评价颇高，赞其人品文思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "原本想，孙氏若皆是这样的人才，士氏不妨与之交好。如今一见……将军骁勇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "哥，他阴阳怪气你，削他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "阿香，场面上应酬，要沉得住气。太守也只是直抒胸臆，哪里算得上阴阳怪气呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "哥，你变化好大！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "来之前我提醒过他的，这次再应酬变斗殴……哼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "就算不提醒，我本身就是个稳重的人……哎，他回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "回来了？那下一个吧。客人先？来，诸葛瑾还是士燮太守？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "……太守先请吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "等一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……孙权，你带着蜡烛出去绕着主屋走了一圈吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "是啊！怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那为什么，蜡烛没有烧短？"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·二'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E4%BA%8C",
+  "crawled_at": "2026-04-12T22:06:50.136554",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·二'''=\n</center>\n\n{{对话-头}}\n{{对话|孙策|轮到我了吗？那……}}\n{{对话|孙权|兄长的故事，总是特别没头没尾……|头像=孙权}}\n{{对话|孙策|咳咳，哪有！我每次说故事，阿香都笑得停不下来。啊！我有想法了！}}\n{{对话|孙策|……从前有个铁匠，铁匠喜欢吃肉。但是买到了肉没有火把肉弄熟，这可如何是好？}}\n{{对话|孙策|铁匠抱着生肉走啊走，忽然看见路边有一团泥巴。他突然想起之前看到的一种做法……}}\n{{对话|蒯越|……该不会是把肉包裹在泥巴里，丢在火坑中闷熟吧？|头像=蒯越}}\n{{对话|孙策|对对对就是那种！你试过吗？其实一点不好吃，外面焦的，里面还没熟。}}\n{{对话|诸葛诞|在繇哥那也时兴起试过，最后还是架火上做炙肉了。|头像=诸葛诞}}\n{{对话|我|还在讲故事，别跑题了。|头像=广陵王-微笑}}\n{{对话|孙策|故事？故事讲完了呀。}}\n{{对话|孙权|没头没尾的！|头像=孙权}}\n{{对话|我|就是，没头没尾的！|头像=广陵王-微笑}}\n{{对话|孙策|我暂时没有想法嘛。好了，灯烛给我，我出去绕圈了。}}\n{{旁白|他拉开纸门。门合上后，灯火缓缓挪移出了纸门边界，余下一片黑暗。}}\n{{对话|士燮|这里真的有人会怕鬼吗？试胆有什么意义……}}\n{{对话|孙权|是、是啊……|头像=孙权}}\n{{对话|诸葛瑾|就、就是说……|头像=诸葛瑾}}\n{{对话|蒯越|将军将列位召来，也不过是寻个由头结识，往后好往来应酬。|头像=蒯越}}\n{{对话|士燮|呵，“召来”？需要用这么卑微的词？|头像=士燮}}\n{{对话|我|都是宾客，因缘际会相聚，言语多结善缘如何？|头像=广陵王-微笑}}\n{{对话|蒯越|……还要多谢广陵王殿下引荐，在下才能结识如此多风云人物。不知殿下是怎么描述我的？|头像=蒯越}}\n{{对话|我|引荐大多八九不离十，皆言此人可堪大用。|头像=广陵王-微笑}}\n{{对话|蒯越|哈……那不听话了怎么处理？可以用弓弦勒死？|头像=蒯越}}\n{{对话|我|……怎么会写那种恶语。自然都写好的——行事缜密，思绪机敏，进退从容，出身名门。|头像=广陵王-惊讶}}\n{{对话|士燮|弓弦勒死都知道，蒯越太守是懂黑道的呀。}}\n{{对话|孙权|啊啊！|头像=孙权}}\n{{旁白|我们正在闲语中等孙策回来，窗外突然响起一阵凌乱嘈杂，树枝群断。}}\n{{旁白|同时灯火从回廊另一头出现， 伴着孙策的叱喝与拔刀声——}}\n{{对话|孙策|什么人？！|头像=孙策}}\n{{对话|我|外面出什么事了？ ！|头像=广陵王-严肃}}\n{{旁白|在短促的刀兵交接后，一道熟悉的声音从窗外传来……}}\n{{对话|孙尚香|是我。|头像=孙尚香}}\n{{旁白|孙尚香，自号枭姬。孙策之妹，幼年于隐鸢阁学道，已为仙人之体，目前随仙人云游四方。}}\n{{对话|孙尚香|呼……这么多人，为何不点灯？我还以为家里没人呢。}}\n{{对话|孙策|我们在玩陶片的游戏。倒是你，怎么回了江东，也没跟家里说一声？|头像=孙策}}\n{{对话|孙尚香|师父跟故人有约，往泰山赴约去了。我本想回寿春经过老家的时候，遇到有水贼夜行劫水道。}}\n{{对话|孙尚香|我兴起就追了上去，一路追来了这……夜色太黑了我追进来之后才发现是自家的老宅。}}\n{{对话|孙尚香|没见着灯火，还以为宅子里没人，又听见主屋有说话声，我便以为那贼人潜逃在此。刚冲过来，就见我哥拔刀了。}}\n{{旁白|她说罢，取杯盏喝了口酒。随师父离家云游后，她冷冽静定了许多。}}\n{{对话|孙策|那贼人没找到？}}\n{{对话|孙尚香|突然没兴致了，懒得找了。来都来了，游戏带我一个？|头像=孙尚香}}\n{{对话|孙权|……不要。你小时候每次玩这个都会偷摸吓我……|头像=孙权}}\n{{对话|我|果然。我就在想，孙家的孩子连活人都不怕，玩这个有什么乐趣。|头像=广陵王-微笑}}\n{{对话|孙尚香|玩阿权可有乐趣了。|头像=孙尚香}}\n{{对话|孙策|太有乐趣了。}}\n{{对话|孙权|啊啊啊一一下一个我来！你们这次不许故意躲在廊下吓我！|头像=孙权}}\n{{对话|蒯越|我先来吧。近日身体抱恙，再晚一些，不知道是不是还有精神编故事|头像=蒯越}}\n{{对话|孙权|那……太守请。|头像=孙权}}\n{{旁白|他喝下微冷的药汤，舒了口气，细长的眉眼微微有了些神采。}}\n{{对话|蒯越|从前，有个饿得快要死的人，在泥巴里发现了一块肉。}}\n{{对话|蒯越|他想找一把铁刀切肉， 再找火把肉烤熟。但是，忽然来了两头野狼。}}\n{{对话|孙策|那怎么办？他没兵刀也没火，只能逃了吧？|头像=孙策}}\n{{对话|蒯越|唔……他急中生智，抱着肉，又跳回了泥巴里，把自己和肉一起裹满了泥巴。但是，野狼闻到了味道围住了他。}}\n{{对话|蒯越|到最后，他只能把肉丢出去引开野狼，落荒而逃既没有得到肉，自己还满身污秽。好了。故事讲完了。}}\n{{旁白|他拿起烛台离开了主屋。烛火从纸门的边界处消失，融入夜色。}}\n{{对话|孙策|这人患得患失的，不好相处。}}\n{{对话|我|别先入为主。他性子是有些吊诡，但事做的好。不然，我也不会替他引荐。|头像=广陵王-微笑}}\n{{对话|孙策|往后江东和江陵来往，他若倒向刘表，不听话，怎么办？}}\n{{对话|我|......|头像=广陵王-严肃}}\n{{对话|我|信里最后不是写了吗。|头像=广陵王-微笑}}\n{{旁白|对面，士燮不知想到了什么，笑得差点呛了口酒。}}\n{{对话|士燮|兄长很喜欢用弓弦，倒是可以同意把他借你。}}\n{{对话|我|试过的，试过的……不过多谢太守大度。|头像=广陵王-微笑}}\n{{对话|孙策|就这点事何须借人啊，有阿香呢。|头像=孙策}}\n{{对话|孙尚香|我那时也许不在，大哥也会啊，在……在殿下面前露一手呀。|头像=孙尚香}}\n{{对话|孙策|妹，哥如果孤寡终生，一定记得你的功劳。|头像=孙策}}\n{{旁白|旁边，诸葛瑾忍不住低头摸了摸自己的脖子，诸葛诞双手掐脖子吐舌头装勒死鬼吓唬他，被兄长重重打了手。}}\n{{旁白|这时，灯火重新从门廊另一头亮起。蒯越回来了。}}\n{{对话|孙权|那，我就顺着兄长的故事说吧。}}\n{{对话|孙权|一个铁匠，想找火源把肉弄熟，但只找到了一团泥巴。}}\n{{对话|孙权|铁匠想了个主意，如果把泥巴涂在脸上去敲邻居的门，邻居会不会为了看清他是谁，举着灯火出来？}}\n{{对话|孙权|这样不就有火源了吗？于是铁匠把泥巴涂在脸上结果泥巴糊了眼睛。看不清路的铁匠，就这样抱着肉一起掉进了井里。}}\n{{对话|孙策|说完啦？|头像=孙策}}\n{{对话|孙权|嗯，嗯。}}\n{{对话|士燮|也没比之前那个好多少啊。还是第一位诸葛使君的故事最活色生香了。|头像=士燮}}\n{{对话|诸葛诞|那是。小人腹怀天下百戏本子，张口就来。年前脍炙人口的那部《龙女三审负心王》……|头像=诸葛诞}}\n{{对话|我|咳，咳咳咳，咳。孙权，把灯火拿上，去外面绕一圈吧。|头像=广陵王-汗颜}}\n{{旁白|孙权拉开门出去了，灯火消失在门外。孙尚香看向门外，神色间忽然浮动起些雀跃。}}\n{{对话|孙尚香|哥，我去吓吓阿权！}}\n{{对话|孙策|这么多客人在，别吓出事来。小时候，有次你从回廊下伸手抓他脚踝，他崴脚跌下去，撑地时摔断了胳膊。|头像=孙策}}\n{{对话|蒯越|这么怕鬼，二公子莫非做过什么亏心事？|头像=蒯越}}\n{{对话|孙策|怕鬼的人分两种，一种是做过亏心事所以怕，一种是连亏心事都没做过所以怕。|头像=孙策}}\n{{对话|士燮|士氏和孙氏此前往来，使者见过孙二公子，评价颇高，赞其人品文思。|头像=士燮}}\n{{对话|士燮|原本想，孙氏若皆是这样的人才，士氏不妨与之交好。如今一见……将军骁勇。|头像=士燮}}\n{{对话|孙尚香|哥，他阴阳怪气你，削他。}}\n{{对话|孙策|阿香，场面上应酬，要沉得住气。太守也只是直抒胸臆，哪里算得上阴阳怪气呢？|头像=孙策}}\n{{对话|孙尚香|哥，你变化好大！}}\n{{对话|我|来之前我提醒过他的，这次再应酬变斗殴……哼。|头像=广陵王-微笑}}\n{{对话|孙策|就算不提醒，我本身就是个稳重的人……哎，他回来了。|头像=孙策}}\n{{旁白|灯火从纸门另一头亮起，门开了，孙权快步进来，松了口气。}}\n{{对话|孙策|回来了？那下一个吧。客人先？来，诸葛瑾还是士燮太守？}}\n{{对话|诸葛瑾|……太守先请吧？|头像=诸葛瑾}}\n{{对话|我|等一下。|头像=广陵王-严肃}}\n{{旁白|我注视着刚刚被孙权放下的烛台。灯影摇曳，火光渺小。}}\n{{对话|我|……孙权，你带着蜡烛出去绕着主屋走了一圈吗？|头像=广陵王-挑眉}}\n{{对话|孙权|是啊！怎么了？|头像=孙权}}\n{{对话|我|那为什么，蜡烛没有烧短？|头像=广陵王-严肃}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·三|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

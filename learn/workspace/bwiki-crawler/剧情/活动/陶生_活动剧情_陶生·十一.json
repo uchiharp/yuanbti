@@ -1,0 +1,570 @@
+{
+  "title": "陶生/活动剧情/陶生·十一",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙权",
+    "孙策",
+    "我",
+    "荀彧",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……走吧，到主屋那边一起用早膳。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "贵人，贵人……孙将军今天脸色怎么也不好？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……心里在纠结吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你哥还好吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "他一夜没敢睡。到天亮了才确定今夜不会被杀，终于眯了会儿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "诸位来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "学长是什么时辰醒的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "日出时就起了。听见旁白士燮太守的住处有动静，就过去查看了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "太守也是日出时醒的，好像想趁众人未起，去井边打水洗头，差点掉进井里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "那最后谁打的水？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……哼，多谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "兄长！我找了些吃食来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "这样看来，昨夜是不是没死人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "甘宁还没有来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "谁能杀甘宁？就算昨夜被选中的是甘宁，杀起来的动静，一定全吴郡都能听见。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "是吗……如果是甘宁，那阿香就不是杀人者……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……有什么烧焦了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "唔！！！——呕……呕——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……这是怎么做到的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "烧成焦炭了……不，这样怎么确定身份？他身上有什么烧不掉的特征吗？……阿权！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "劳烦了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "没事，我和公休君先将他们送回主屋了。请。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "士燮太守，帮忙搭把手，帮荀先生一起扶一下孙二公子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "……不要。他头发的颜色看起来真奇怪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你说谁能杀他？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……心口有刺伤，除此之外没有别的刀斧伤了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "看这，他是靠着这里休息的，有脚印。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他是按刀跽坐的。脚跟靠在这里，所以留下了痕迹。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "他昨夜也在防备，但是，是什么让他放下了防备？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我们这群人里面，不可能有人让他安心的吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如果不是因为信任来着而放松警惕，那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙策，借我把短刀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你……打算做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "——验尸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……看不出是什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "…………？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "你查到什么了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "什么都没有查到。所以，可能要例行询问诸位一些事，如实回答便是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "……怎么突然开始审问了？凭什么？眼下也没有证据能证明你的清白。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "这不是审问。你还记得你昨夜说的故事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "记得啊。那人有个兄弟，杀了邻居一家，其他的故事，就跟荀彧的故事相似。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "前夜呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "……不记得了，前夜是第一次玩，随意跟着孙策的故事说下去了，应该也是……铁匠抱着肉找火、掉进泥水里之类的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "……是死者的死法，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "没错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "蒯越的状态，如同故事中那样落入了泥水中。而甘宁则是火烧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "“肉”——杀人者故事中的“肉”，会成为死者最终的状态。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "如果照这一点来反推……那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "殿下、孙策将军、在下，三人是无辜的。因为第一夜我并没有说肉落入泥水，殿下第二夜并未说火烧肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "那孙策为何无辜？只是因为之前那个关于武力的推论？“有杀人的力量却不杀人”？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "无论从什么缘由上来说，如果孙策将军或甘宁是杀人者，一夜的伤亡绝无可能仅此而已。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "等一下！用故事中“肉”的状态来推论的话，阿诞也是无辜的，他第一夜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "啊，我第一夜说了掉进泥水的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你不是说了一堆情情爱爱的故事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "里面的唱词也有“慕君如陷泥沼”呀。你们都没认真听吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "若是这样，那你真是十分可疑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "第一夜明明兴奋地说了那么一长段的故事，昨夜却随意找了个人的故事依附？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "莫非你就是杀人者，第一夜知道了规则之后，立刻就开始藏匿在他人的故事之下？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "我杀甘宁？你们都看到了柴房里的景象，如果我杀甘宁，其他地方不可能完好无损。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "而且，谁都没听见甘宁的呼喊声吧？我有办法在一片安静中解决掉他吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这是从尸体口中发现的东西。上面记着凶手的名字。"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·十一'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E5%8D%81%E4%B8%80",
+  "crawled_at": "2026-04-12T22:07:20.307536",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·十一'''=\n</center>\n\n{{对话-头}}\n{{旁白|【次日】}}\n{{旁白|【孙氏老宅】}}\n{{旁白|在前往主屋的路上时，我们遇到了诸葛兄弟。诸葛瑾的面色更加苍白，不知是不是近日饮食不足的缘故。}}\n{{旁白|心理|看来他们没事……}}\n{{对话|孙策|……走吧，到主屋那边一起用早膳。}}\n{{旁白|虽说是早膳，但其实也是一些山菜干和白薯，无油无酱。}}\n{{对话|诸葛诞|贵人，贵人……孙将军今天脸色怎么也不好？}}\n{{对话|我|……心里在纠结吧。|头像=广陵王-微笑}}\n{{旁白|——倘若昨夜死人，说明杀人者还在其中。若没有，说明未出席的孙尚香很可能就是杀人者，因为缺席，没有听见陶人的愿望。}}\n{{对话|孙策|你哥还好吗？}}\n{{对话|诸葛诞|他一夜没敢睡。到天亮了才确定今夜不会被杀，终于眯了会儿。|头像=诸葛诞}}\n{{对话|【主屋】}}\n{{对话|荀彧|诸位来了。}}\n{{旁白|心理|他起得好早……}}\n{{对话|诸葛瑾|学长是什么时辰醒的？}}\n{{对话|荀彧|日出时就起了。听见旁白士燮太守的住处有动静，就过去查看了。|头像=荀彧}}\n{{对话|士燮|……|头像=士燮}}\n{{旁白|我们才注意到士燮也在，寒着脸坐在角落，头发在滴水。}}\n{{对话|荀彧|太守也是日出时醒的，好像想趁众人未起，去井边打水洗头，差点掉进井里。}}\n{{对话|孙策|那最后谁打的水？|头像=孙策}}\n{{对话|荀彧|我。}}\n{{对话|士燮|……哼，多谢。|头像=士燮}}\n{{对话|孙权|兄长！我找了些吃食来！|头像=孙权}}\n{{旁白|孙权也来了，抱着一些从膳房带来的肉脯。我们提前叮嘱他，每天只能带来定量的实物，不能透露具体还剩多少。}}\n{{对话|诸葛诞|这样看来，昨夜是不是没死人？}}\n{{对话|我|甘宁还没有来。|头像=广陵王-摇头}}\n{{对话|诸葛诞|谁能杀甘宁？就算昨夜被选中的是甘宁，杀起来的动静，一定全吴郡都能听见。}}\n{{对话|孙策|是吗……如果是甘宁，那阿香就不是杀人者……|头像=孙策}}\n{{旁白|我们在主屋，等了将近半个时辰，甘宁都没有来。}}\n{{旁白|【甘宁住处】}}\n{{旁白|甘宁没有客舍，住在柴房。}}\n{{旁白|众人穿过薄雾来到僻静的柴房外。尚未推开门，某种不祥的气味就扑面而来……}}\n{{对话|孙策|……有什么烧焦了……}}\n{{旁白|门开了。}}\n{{对话|诸葛瑾|唔！！！——呕……呕——|头像=诸葛瑾}}\n{{对话|士燮|……这是怎么做到的……|头像=士燮}}\n{{旁白|在门后的景象显露出的瞬间，我身边的荀彧叹了口气，转头退出柴房。诸葛瑾扑住门框，将胃里的酸水都吐了出来。}}\n{{对话|孙策|烧成焦炭了……不，这样怎么确定身份？他身上有什么烧不掉的特征吗？……阿权！}}\n{{旁白|孙权昏了过去，倒在柴房角落散乱的陶片堆上。}}\n{{对话|我|劳烦了……|头像=广陵王-严肃}}\n{{对话|荀彧|没事，我和公休君先将他们送回主屋了。请。}}\n{{对话|我|士燮太守，帮忙搭把手，帮荀先生一起扶一下孙二公子……|头像=广陵王-微笑}}\n{{对话|士燮|……不要。他头发的颜色看起来真奇怪。|头像=士燮}}\n{{旁白|他们的身影渐渐消失在雾中。我和孙策留在了柴房，查看情况。}}\n{{对话|孙策|你说谁能杀他？}}\n{{对话|我|……心口有刺伤，除此之外没有别的刀斧伤了。|头像=广陵王-严肃}}\n{{旁白|尸体蜷缩在柴堆上，没有狰狞的姿态，甚至……}}\n{{旁白|甚至，有几分生前从未有过的安详。}}\n{{对话|孙策|看这，他是靠着这里休息的，有脚印。}}\n{{对话|孙策|他是按刀跽坐的。脚跟靠在这里，所以留下了痕迹。}}\n{{旁白|心理|是武人戒备时的姿势……}}\n{{对话|我|他昨夜也在防备，但是，是什么让他放下了防备？|头像=广陵王-挑眉}}\n{{对话|孙策|我们这群人里面，不可能有人让他安心的吧？}}\n{{对话|我|如果不是因为信任来着而放松警惕，那……|头像=广陵王-严肃}}\n{{对话|我|孙策，借我把短刀。|头像=广陵王-严肃}}\n{{对话|孙策|你……打算做什么？}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|——验尸。|头像=广陵王-微笑}}\n{{旁白|……}}\n{{旁白|…………}}\n{{旁白|心理|……有了……但是……}}\n{{对话|我|……看不出是什么……|头像=广陵王-严肃}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|…………？|头像=广陵王-惊讶}}\n{{旁白|心理|……这是……}}\n{{旁白|【主屋】}}\n{{旁白|我带着那样东西，和孙策回到了主屋。}}\n{{旁白|孙权已经醒了，有点呆滞地坐在墙角。我坐了下来，身后，孙策关上了门。}}\n{{对话|士燮|你查到什么了？}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|我|什么都没有查到。所以，可能要例行询问诸位一些事，如实回答便是。|头像=广陵王-严肃}}\n{{对话|士燮|……怎么突然开始审问了？凭什么？眼下也没有证据能证明你的清白。}}\n{{对话|我|这不是审问。你还记得你昨夜说的故事吗？|头像=广陵王-摇头}}\n{{对话|士燮|记得啊。那人有个兄弟，杀了邻居一家，其他的故事，就跟荀彧的故事相似。}}\n{{对话|我|前夜呢？|头像=广陵王-挑眉}}\n{{对话|士燮|……不记得了，前夜是第一次玩，随意跟着孙策的故事说下去了，应该也是……铁匠抱着肉找火、掉进泥水里之类的。}}\n{{对话|荀彧|……是死者的死法，对吗？|头像=荀彧}}\n{{对话|我|没错。|头像=广陵王-点头}}\n{{对话|我|蒯越的状态，如同故事中那样落入了泥水中。而甘宁则是火烧。|头像=广陵王-严肃}}\n{{对话|我|“肉”——杀人者故事中的“肉”，会成为死者最终的状态。|头像=广陵王-严肃}}\n{{对话|荀彧|如果照这一点来反推……那……|头像=荀彧}}\n{{对话|荀彧|殿下、孙策将军、在下，三人是无辜的。因为第一夜我并没有说肉落入泥水，殿下第二夜并未说火烧肉。|头像=荀彧}}\n{{对话|士燮|那孙策为何无辜？只是因为之前那个关于武力的推论？“有杀人的力量却不杀人”？}}\n{{对话|荀彧|无论从什么缘由上来说，如果孙策将军或甘宁是杀人者，一夜的伤亡绝无可能仅此而已。|头像=荀彧}}\n{{对话|诸葛瑾|等一下！用故事中“肉”的状态来推论的话，阿诞也是无辜的，他第一夜……|头像=诸葛瑾}}\n{{对话|诸葛诞|啊，我第一夜说了掉进泥水的。|头像=诸葛诞}}\n{{对话|孙策|你不是说了一堆情情爱爱的故事吗？|头像=孙策}}\n{{对话|诸葛诞|里面的唱词也有“慕君如陷泥沼”呀。你们都没认真听吧……|头像=诸葛诞}}\n{{对话|士燮|若是这样，那你真是十分可疑。}}\n{{对话|士燮|第一夜明明兴奋地说了那么一长段的故事，昨夜却随意找了个人的故事依附？}}\n{{对话|士燮|莫非你就是杀人者，第一夜知道了规则之后，立刻就开始藏匿在他人的故事之下？}}\n{{对话|诸葛诞|我杀甘宁？你们都看到了柴房里的景象，如果我杀甘宁，其他地方不可能完好无损。|头像=诸葛诞}}\n{{对话|诸葛诞|而且，谁都没听见甘宁的呼喊声吧？我有办法在一片安静中解决掉他吗？|头像=诸葛诞}}\n{{旁白|心理|……确实。最大的矛盾就在这里。}}\n{{旁白|前几次回溯中，士燮死时，住处有被遮掩的血迹和挣扎痕迹。如果他也有，甘宁绝不可能没有。}}\n{{旁白|我握紧了袖中的事物，然后将它摆在了众人面前。}}\n{{对话|我|这是从尸体口中发现的东西。上面记着凶手的名字。|头像=广陵王-微笑}}\n{{旁白|当我的目光扫过众人时，心里几乎已经有了答案。荀彧和我的目光交错，同样明了。}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·十二|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

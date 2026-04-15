@@ -1,0 +1,429 @@
+{
+  "title": "幽州慨飒宫/活动剧情/刘繇",
+  "category": "活动剧情",
+  "characters": [
+    "刘繇",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "礼器用具都是上品，品味不错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "我的冠遇水会变得闪亮，这是珍贵的鹿呦漆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "要是阿休也在这，就能在旁边歌舞助兴了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "想要小王做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "好酒，值得一喝。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "要不要和我联手？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "赢了！我果然是天选之人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "共饮！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "会在意旁人对自己外貌的评价吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "小王也算有一番事业，自然不会介怀旁人之语。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "何况像我这么完美的人，难免引人嫉妒。你要看看孙策送来的一百多封骂战信吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "见过最美的人是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "最美啊，这可不好回答。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "非要挑一个的话，应该是镜中的我吧……啊？不能选自己？那就是阿慈的那位母亲，真是完美无瑕的长相啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "有没有在开战前感到过畏惧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "畏惧？刀兵起时，你难道听不到扬州城里的弦乐声？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "只要惠王剑还照得出小王的脸，青丘就不会停下歌舞，我就不会停下平荡四海的脚步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "有什么人生底线？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "本王很包容，没有什么严重的底线……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=温泉-刘繇-Q版",
+      "emotion": "但是不要穿红配绿来见本王，不要！！！无论什么样的美人，都无法驾驭红配绿！"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头刘繇brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''刘繇'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "classyuantable1 style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px温泉蛋温泉蛋"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不错的火候掌控，有点意思。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px澡豆澡豆"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"很有情调，我喜欢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鬃刷鬃刷"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这把大的可以刷胸肌，这把小的可以刷腹肌，不错。/span"
+    },
+    {
+      "type": "narration",
+      "text": "有两把刷子"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"怎么，喜欢本王的头发？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px熏炉熏炉"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不错的香气，闻着好像会变困……/span"
+    },
+    {
+      "type": "narration",
+      "text": "软绵绵"
+    },
+    {
+      "type": "narration",
+      "text": "30px陶搓石陶搓石"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不错的小东西。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好小的碟子，我待会叫人送两车糕饼来。/span"
+    },
+    {
+      "type": "narration",
+      "text": "慷慨"
+    },
+    {
+      "type": "narration",
+      "text": "30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这么朴素？被孙策抢劫了？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰块冰块"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"夏季天热，我叫人铺了一戏台的冰块碟子，下次来看两场?/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px海盐海盐"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这是用来洗澡的？很讲究嘛……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"本王赢得起也输得起，来。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px牛乳牛乳"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我用不上这东西，没什么效果。/span"
+    },
+    {
+      "type": "narration",
+      "text": "油乳分层"
+    },
+    {
+      "type": "narration",
+      "text": "30px炙肉拼盘炙肉拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"喝酒吃肉，人生乐事啊！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"美酒值得一醉，本王与你共饮！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px木鸭木鸭"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好丑的鸭子......拿远点。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"居然是鲜葡萄，很有实力嘛……/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"会在意旁人对自己外貌的评价吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao见过最美的人是谁？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao有没有在开战前感到过畏惧？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao有什么人生底线？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BD%E5%B7%9E%E6%85%A8%E9%A3%92%E5%AE%AB/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%88%98%E7%B9%87",
+  "crawled_at": "2026-04-12T22:09:12.945804",
+  "raw_wikitext": "{{面包屑|活动剧情|幽州慨飒宫/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:幽州慨飒宫背景.png}}}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/鸢使|鸢使}}\n{{板块|按钮|幽州慨飒宫/活动剧情/崔烈|崔烈}}\n{{板块|按钮|幽州慨飒宫/活动剧情/楼班|楼班}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨阜|杨阜}}\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|阿蝉}}\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|王异}}\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|史子眇}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|陈登}}\n{{板块|按钮|幽州慨飒宫/活动剧情/刘繇|刘繇}}\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|孙尚香}}\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|程昱}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨修|杨修}}\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|徐庶}}\n{{板块|按钮|幽州慨飒宫/活动剧情/张闿|张闿}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-刘繇.png|100px|团建密探小头-刘繇]]<br><br>\n'''刘繇'''\n</center>\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=yuantable1 style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签\n|-\n| [[file:温泉蛋.png|30px|温泉蛋]][[温泉蛋|温泉蛋]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=温泉蛋|对温泉蛋的喜好=|语音=|性格标签=/|语音内容=不错的火候掌控，有点意思。}}</nowiki>\">不错的火候掌控，有点意思。</span>\n||/\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:澡豆.png|30px|澡豆]][[澡豆|澡豆]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=澡豆|对澡豆的喜好=喜欢|语音=|性格标签=/|语音内容=很有情调，我喜欢。}}</nowiki>\">很有情调，我喜欢。</span>\n||/\n|-\n| [[file:鬃刷.png|30px|鬃刷]][[鬃刷|鬃刷]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=鬃刷|对鬃刷的喜好=|语音=|性格标签=有两把刷子|语音内容=这把大的可以刷胸肌，这把小的可以刷腹肌，不错。}}</nowiki>\">这把大的可以刷胸肌，这把小的可以刷腹肌，不错。</span>\n||有两把刷子\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=怎么，喜欢本王的头发？}}</nowiki>\">怎么，喜欢本王的头发？</span>\n||/\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:熏炉.png|30px|熏炉]][[熏炉|熏炉]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=熏炉|对熏炉的喜好=喜欢|语音=|性格标签=软绵绵|语音内容=不错的香气，闻着好像会变困……}}</nowiki>\">不错的香气，闻着好像会变困……</span>\n||软绵绵\n| [[file:陶搓石.png|30px|陶搓石]][[陶搓石|陶搓石]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=陶搓石|对陶搓石的喜好=|语音=|性格标签=/|语音内容=不错的小东西。}}</nowiki>\">不错的小东西。</span>\n||/\n|-\n| [[file:糕饼.png|30px|糕饼]][[糕饼|糕饼]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=糕饼|对糕饼的喜好=|语音=|性格标签=慷慨|语音内容=好小的碟子，我待会叫人送两车糕饼来。}}</nowiki>\">好小的碟子，我待会叫人送两车糕饼来。</span>\n||慷慨\n| [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=素巾|对素巾的喜好=|语音=|性格标签=/|语音内容=这么朴素？被孙策抢劫了？}}</nowiki>\">这么朴素？被孙策抢劫了？</span>\n|| /\n|-\n|[[file:冰块.png|30px|冰块]][[冰块|冰块]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=冰块|对冰块的喜好=|语音=|性格标签=/|语音内容=夏季天热，我叫人铺了一戏台的冰块碟子，下次来看两场?}}</nowiki>\">夏季天热，我叫人铺了一戏台的冰块碟子，下次来看两场?</span>\n|| /\n| [[file:海盐.png|30px|海盐]][[海盐|海盐]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=海盐|对海盐的喜好=|语音=|性格标签=/|语音内容=这是用来洗澡的？很讲究嘛……}}</nowiki>\">这是用来洗澡的？很讲究嘛……</span>\n|| /\n|-\n| [[file:博具.png|30px|博具]][[博具|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=博具|对博具的喜好=|语音=|性格标签=/|语音内容=本王赢得起也输得起，来。}}</nowiki>\">本王赢得起也输得起，来。</span>\n|| /\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:牛乳.png|30px|牛乳]][[牛乳|牛乳]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=牛乳|对牛乳的喜好=讨厌|语音=|性格标签=油乳分层|语音内容=我用不上这东西，没什么效果。}}</nowiki>\">我用不上这东西，没什么效果。</span>\n||油乳分层\n|-\n| [[file:炙肉拼盘.png|30px|炙肉拼盘]][[炙肉拼盘|炙肉拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=炙肉拼盘|对炙肉拼盘的喜好=|语音=|性格标签=/|语音内容=喝酒吃肉，人生乐事啊！}}</nowiki>\">喝酒吃肉，人生乐事啊！</span>\n|| /\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=果子露|对果子露的喜好=喜欢|语音=|性格标签=/|语音内容=美酒值得一醉，本王与你共饮！}}</nowiki>\">美酒值得一醉，本王与你共饮！</span>\n|| /\n|-\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:木鸭.png|30px|木鸭]][[木鸭|木鸭]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=木鸭|对木鸭的喜好=讨厌|语音=|性格标签=/|语音内容=好丑的鸭子......拿远点。}}</nowiki>\">好丑的鸭子......拿远点。</span>\n|| /\n| [[file:果盘.png|30px|果盘]][[果盘|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=刘繇|喜好物品=果盘|对果盘的喜好=|语音=|性格标签=/|语音内容=居然是鲜葡萄，很有实力嘛……}}</nowiki>\">居然是鲜葡萄，很有实力嘛……</span>\n|| /\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|刘繇|礼器用具都是上品，品味不错。|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|刘繇|我的冠遇水会变得闪亮，这是珍贵的鹿呦漆。|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|刘繇|要是阿休也在这，就能在旁边歌舞助兴了。|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|刘繇|想要小王做什么？|头像=温泉-刘繇-Q版}}\n{{旁白|【刘繇喝下一杯果子露】}}\n{{对话|刘繇|好酒，值得一喝。|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|刘繇|要不要和我联手？|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|刘繇|赢了！我果然是天选之人！|头像=温泉-刘繇-Q版}}\n{{旁白|【我喝下一杯果子露。】}}\n{{对话|刘繇|共饮！|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n<br>\n|}\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">会在意旁人对自己外貌的评价吗？</div>\n{{对话-头}}\n{{对话|我|会在意旁人对自己外貌的评价吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|刘繇|小王也算有一番事业，自然不会介怀旁人之语。|头像=温泉-刘繇-Q版}}\n{{对话|刘繇|何况像我这么完美的人，难免引人嫉妒。你要看看孙策送来的一百多封骂战信吗？|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>见过最美的人是谁？</div>\n{{对话-头}}\n{{对话|我|见过最美的人是谁？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|刘繇|最美啊，这可不好回答。|头像=温泉-刘繇-Q版}}\n{{对话|刘繇|非要挑一个的话，应该是镜中的我吧……啊？不能选自己？那就是阿慈的那位母亲，真是完美无瑕的长相啊……|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>有没有在开战前感到过畏惧？</div>\n{{对话-头}}\n{{对话|我|有没有在开战前感到过畏惧？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|刘繇|畏惧？刀兵起时，你难道听不到扬州城里的弦乐声？|头像=温泉-刘繇-Q版}}\n{{对话|刘繇|只要惠王剑还照得出小王的脸，青丘就不会停下歌舞，我就不会停下平荡四海的脚步。|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>有什么人生底线？</div>\n{{对话-头}}\n{{对话|我|有什么人生底线？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|刘繇|本王很包容，没有什么严重的底线……|头像=温泉-刘繇-Q版}}\n{{对话|刘繇|但是不要穿红配绿来见本王，不要！！！无论什么样的美人，都无法驾驭红配绿！|头像=温泉-刘繇-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_dongbai_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "董白",
+    "source_story": null,
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "长安",
+    "text": "你出身显赫却身不由己，被人当作棋子在各方势力间辗转。你的新「主人」对你颇为优待，但你清楚这只是利用。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "既来之则安之，做一个安分的棋子",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "表面顺从，暗中积蓄力量等待时机",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "精心设计多重伪装，让每个人都以",
+        "scores": {
+          "S4": 4,
+          "S1": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自董白的密探故事——她作为董卓之孙女，自幼在权谋中长大，深谙伪装之道。"
+  },
+  {
+    "id": "q_dongbai_02",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你被人轻视，觉得你不过是靠着家族名声才有今天。你内心有真才实学却无人知晓。在一次公开场合，有人当众嘲讽你。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "忍气吞声，不与对方计较",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不卑不亢地回应，用事实说话",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以锐利的言辞当众反击，",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "董白性格中有极强的锋芒，不容许任何人轻视她。"
+  }
+]

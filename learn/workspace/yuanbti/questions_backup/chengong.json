@@ -1,0 +1,84 @@
+[
+  {
+    "id": "q_chengong_1",
+    "dimension": "S1",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "陈宫",
+    "source_story": "下邳之战",
+    "route_hint": null,
+    "city_hint": "下邳",
+    "text": "陈宫辅佐吕布，明知布非明主却忠心不二。面对曹操招降——",
+    "options": [
+      {
+        "label": "A",
+        "text": "识时务者为俊杰，降曹保命",
+        "scores": {
+          "S1": 4,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "犹豫不决，既不甘心又不想死",
+        "scores": {
+          "S1": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "宁可赴死，也不背弃自己的选择",
+        "scores": {
+          "S1": 2,
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈宫的选择：慷慨赴死，至死不渝。"
+  },
+  {
+    "id": "q_chengong_2",
+    "dimension": "S6",
+    "cross_dimension": "S1",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「择主而事，忠臣不事二主。」你怎么看待忠诚？",
+    "options": [
+      {
+        "label": "A",
+        "text": "良禽择木而栖，跟对人最重要",
+        "scores": {
+          "S6": 1,
+          "S1": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "一旦选择便负责到底，但前提是对方值得",
+        "scores": {
+          "S6": 3,
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "忠义二字重于泰山，不可背弃",
+        "scores": {
+          "S6": 5,
+          "S1": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陈宫以死明志，诠释了何为忠义。"
+  }
+]

@@ -1,0 +1,1590 @@
+{
+  "title": "广陵成长计划/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "中年",
+    "侍从",
+    "侍卫",
+    "侍女",
+    "傅融",
+    "刺客",
+    "医官",
+    "史子眇",
+    "周群",
+    "周舒",
+    "商人乙",
+    "商人甲",
+    "商贩",
+    "商贾",
+    "地痞",
+    "士子",
+    "女官",
+    "妇人",
+    "孩子",
+    "家仆",
+    "小鸦",
+    "少女",
+    "广陵尉",
+    "庄园主人",
+    "当铺打手",
+    "徐庶",
+    "愤怒的家长",
+    "我",
+    "打手",
+    "教徒",
+    "文人",
+    "文官",
+    "杀手",
+    "杂耍人",
+    "李家村村民",
+    "村民",
+    "母亲",
+    "江洋小盗",
+    "流氓",
+    "游侠",
+    "王家村村民",
+    "男孩",
+    "百姓",
+    "礼官",
+    "老板",
+    "讲师",
+    "酒店老板",
+    "酒楼老板",
+    "铁匠",
+    "青年",
+    "食客"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "车架为何停了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "回禀世子，路中有只棕鹿躺在路中，受伤不轻，似乎还有口气在。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=摊贩",
+      "emotion": "贵人您就行行好收了我的货吧，身体健康没有疾病。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "是个……孩子……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=路人小孩",
+      "emotion": "呜呜……不要！不要！我不是他的孩子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男孩",
+      "text": "头像=少年",
+      "emotion": "天有异象，世子将亡。广陵失主，白绫满巷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "母亲",
+      "text": "头像=民妇",
+      "emotion": "瞎说什么，不要命啦！赶紧跟我回家！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "到底是谁在传你的谣言……派方士前去会不会查到结果？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "连找狗的任务都会送过来吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "侠之大者为民解忧嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "是名贵的西域猎犬……恐怕不是走丢，而是被人偷走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "愤怒的家长",
+      "text": "头像=文官",
+      "emotion": "你们的负责人呢！我今天非要讨个说法！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "愤怒的家长",
+      "text": "头像=文官",
+      "emotion": "我家孩子这几天上完课回家就闷闷不乐的，是不是在学宫受欺负了啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少女",
+      "text": "头像=少女2",
+      "emotion": "放开我！我不要嫁王氏！我已有心上人了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "家仆",
+      "text": "头像=文官",
+      "emotion": "女公子，这是家主定下的亲事，和我回家吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "打手",
+      "text": "头像=强盗",
+      "emotion": "抓住他！搜他的身子！我就不信了，这小子绝对是出老千了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "这么多大人为难一个年轻人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "楼中留下的地图太古旧了，这些岔路都未标记。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "反正又没得事，慢慢走嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游侠",
+      "text": "头像=平民少年",
+      "emotion": "打扰使君，请问去秦家庄应当怎么走？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "血腥气越来越浓了，就是此处。村前的石上刻着……“秦家庄”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "看，是那个人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游侠",
+      "text": "头像=平民少年",
+      "emotion": "是你们啊？被你们撞见我屠村了，他们……该杀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "好像是白天问路的那个人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "现在伤寒闹得十分厉害，傅副官嘱咐王府人员每日喝避伤寒的药。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "还有多的药吗？我家里也有病人，如今各处缺医少药……该怎么办?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=美型文官",
+      "emotion": "世子请看，这是上等礼单，耗价三枚马蹄金，中等，耗价两枚，下等，一枚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "还有更下等的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "毕竟是赠给士族的礼物，不好太寒碜吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "预算有限，世家个个眼高于顶，送什么都是一样的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "商人甲",
+      "text": "头像=摊贩",
+      "emotion": "世子，请务必将商铺租给老夫卖炭，老夫愿将上等炭供奉世子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "商人乙",
+      "text": "头像=男文人",
+      "emotion": "世子，我家是做成衣生意的，必能保持店铺整洁光亮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "都是好生意，我想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "殿下，这场火有蹊跷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "死因是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医官",
+      "text": "头像=美型文官",
+      "emotion": "回禀世子殿下，这些乞丐死于中毒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "此事恶劣。傅融，让鸢部的人尽快调查。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "我的孩子，我的孩子，你在哪……你看见我的孩子了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "最近城中似乎有许多孩子走失，怕不是有人在拐卖孩童。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "找一些熟悉孩子生活、会好好照顾孩子的人去调查此事吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=副将",
+      "emotion": "殿下，这一批招募来的青壮资质很好，可以着重培养一支队伍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "镇上开了一家厨艺速成班，只要一个月，包教包会上百菜式，我想去试试。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "讲师",
+      "text": "头像=男文人",
+      "emotion": "只要九千九百九十八白银币，包你如厨神转世！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手",
+      "text": "头像=黑衣人",
+      "emotion": "三脚猫的功夫，你们还配叫杀手?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=刺客头领",
+      "emotion": "呸！你才像条断脊之狗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "你们……你们在目标面前也能抢单子吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "你们是谁派来的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手",
+      "text": "头像=黑衣人",
+      "emotion": "回答我们的问题，我们就告诉你东家是谁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手",
+      "text": "头像=黑衣人",
+      "emotion": "猫和狗哪个更可爱？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "殿下，王府有一处外租宅邸，多年无人居住，却每个月按时收到租金。要重新出租宅邸吗?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "殿下，收来的税款远少于预估，许多士族不愿配合。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士子",
+      "text": "头像=伪装宾客",
+      "emotion": "小红淑女今日对我笑了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文人",
+      "text": "头像=男文人",
+      "emotion": "我愿意为小红淑女付出一切……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "小红淑女是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士子",
+      "text": "头像=伪装宾客",
+      "emotion": "你也是来竞争的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "殿下，城中有位名士失踪。因为他曾有辱骂宗室的言论，坊间都怀疑您……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "骂我的人那么多……我让他们全都消失了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "找些平时光明正大的人去澄清此事吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杂耍人",
+      "text": "头像=屠夫",
+      "emotion": "来瞧瞧来看看了，西域幻人戏法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-难受",
+      "emotion": "把人关进箱子了，啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=黑衣人",
+      "emotion": "看得入迷了吧？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年",
+      "text": "头像=少年",
+      "emotion": "听说了吗，广陵王世子正在修炼邪术！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "中年",
+      "text": "头像=老年男",
+      "emotion": "早听说啦，而且每到月圆之夜，他都要抓一对童男童女回去吃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "不行！必须要证明我还是很受孩子欢迎的，澄清此事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "商贩",
+      "text": "头像=摊贩",
+      "emotion": "塞外制品，童叟无欺！假一赔十，今日特价。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "教徒",
+      "text": "头像=狂热信徒",
+      "emotion": "哎，这位贵人灵慧过人，可愿入我教门？只要答对问题就能赢得资格。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "教徒",
+      "text": "头像=狂热信徒",
+      "emotion": "唯我得长生的上一句是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "教徒",
+      "text": "头像=狂热信徒",
+      "emotion": "加入我们……成为我们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "这个农庄依山傍水，地力肥沃，真是不错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庄园主人",
+      "text": "头像=文官",
+      "emotion": "贵人好眼光，方圆五十里内，就数我家庄子顶尖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庄园主人",
+      "text": "头像=文官",
+      "emotion": "要价……十枚马蹄金。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "昨日不还是五枚吗?我得考虑一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "好吧……确实是耗费钱财，算了吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "而且山坳潮湿之地，最不缺的毒蛇……小心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庄园主人",
+      "text": "头像=文官",
+      "emotion": "来人啊！救命啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王家村村民",
+      "text": "头像=摊贩",
+      "emotion": "你们村天天两头烧麦秆！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李家村村民",
+      "text": "头像=平民女",
+      "emotion": "你们村天天污染上游水！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "别打了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "殿下，这就是坊间所说可以携带宠物进入参观的园林。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "好热闹！……还有这么大的兔子呢？哦，是葛君前辈啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "如果有喜欢小动物的密探，说不定能混入其中，打探情报了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "世子，这是城中商户缴纳的税银。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "这批银钱的颜色有些奇怪……周群，请来一观。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周舒",
+      "text": "头像=贵族中年男",
+      "emotion": "这批银钱不是以纯银铸造，混入了他物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=副将",
+      "emotion": "是否继续追查？请世子示下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "铁匠",
+      "text": "头像=摊贩",
+      "emotion": "世子，铅要如何处理？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "前几日被绑架的诗社成员找到了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "在城北发现了踪迹，应该是被绑架了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "找到了！动手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "头像=侍女",
+      "emotion": "殿下，广陵的胭脂铺香粉比雒阳的好，既显色又持妆，淡妆浓妆都好用。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "是么，那就让人采购一些，预备在王府里，交际送礼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "那得去找熟悉化妆和胭脂水粉的人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "新开张的酒店怎么还在敲锣打鼓啊？已经快要八个时辰了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酒店老板",
+      "text": "头像=文官",
+      "emotion": "这就叫开门红！你敢喊停，我以后生意不好算你的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "地痞",
+      "text": "头像=山贼甲",
+      "emotion": "说了多少次了，老子的保护费，一个子也不能少给！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "商贩",
+      "text": "头像=摊贩",
+      "emotion": "我的摊子……我的摊子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "食客",
+      "text": "头像=民妇",
+      "emotion": "我看啊，这个世子自幼隐居仙阁，根本不懂什么手段。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老板",
+      "text": "头像=摊贩",
+      "emotion": "就是，他迟早返回仙门，广陵水太深了，他根本压不住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "城东的王母庙里的石头神像显灵了，好多人都听见石像里传出声音。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "头像=侍女",
+      "emotion": "王府里不许谈论怪力乱神之事，那都是妄言罢了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "也许只有剑仙才敢调查此事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "强抢民田的涉事人突然暴病身亡，家属将其迅速下葬了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "活要见人，死要见尸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "头像=侍女",
+      "emotion": "殿下，王府库房修葺，清点时找到了许多古琴。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "头像=侍女",
+      "emotion": "府内没有了解古琴的人，不知该怎么处理。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "熟悉古琴的人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "广陵需要开辟一条新的商路，以便在州郡间立身。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "商贾",
+      "text": "头像=摊贩",
+      "emotion": "我等正有此意，世子看是往西好，还是往东好？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酒楼老板",
+      "text": "头像=文官",
+      "emotion": "世子莅临，蓬荜生辉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=黑衣人",
+      "emotion": "就知道你今天会来，拿命来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "原来目标不是我，是酒楼老板啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=黑衣人",
+      "emotion": "不然呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "老板，你说不说？不然，我就把你交给他们了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酒楼老板",
+      "text": "头像=文官",
+      "emotion": "我说！别把我和乌丸人关在一起！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酒楼老板",
+      "text": "头像=文官",
+      "emotion": "是我趁他们语言不通，逼他们签了一些……契约……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老板",
+      "text": "头像=摊贩",
+      "emotion": "接下来这坛百年陈酿，底价一千钱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "到底要不要拍呢……有点好奇味道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "好贵。还是找熟悉酒的人来问问吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "久不下雨，田里的庄稼快要枯死了……."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "粮仓里的存粮已经告急，恐怕最多只能再坚持一周。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "得要想办法筹粮，避免饥荒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "……王府百废待兴，缺人………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "这是广陵求职名录，你打算招什么类型的人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "王府丢失的东西在城东的当铺出现了，肯定是有家贼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "你们这是销赃。把东西还回来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "当铺打手",
+      "text": "头像=强盗",
+      "emotion": "进了我们家的东西，断然不可能有归还的道理！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=屠夫",
+      "emotion": "救命啊！！快跑啊！洪水来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流氓",
+      "text": "头像=强盗",
+      "emotion": "这些渔船都是我们的！不给钱不准上！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我名下的耕地还有闲置？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "十几亩，合理安排一下耕种的作物，王府开销的压力会小一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "负责人最好是接地气、熟悉民情的人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "堤坝重建进入关键节点，容不得一点闪失。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "需要时时巡查。你觉得派谁比较合适？最好是水性好，且性格细心的人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "小鸦，你在看什么……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "本地的小报，世子，里面有好多讨论你和傅哥的小道消息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医官",
+      "text": "头像=美型文官",
+      "emotion": "世子的晕眩之状应与昨日的奇异天象有关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "昨夜半空都是橙色炫光，应该——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……为大典准备的琴坏了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "能另找一把琴替代吗，反正都差不多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "不行。礼器用琴，不可替代，否则名不正言不顺礼不成。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "知道了知道了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江洋小盗",
+      "text": "头像=广陵计划-江洋小盗",
+      "emotion": "你竟然有藏宝图，让我看看……啊！是我藏在这的宝藏啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "再给你一次机会，重新说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江洋小盗",
+      "text": "头像=广陵计划-江洋小盗",
+      "emotion": "……是、是贵人藏在这的宝藏。贵人，可以把剑拿开了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江洋小盗",
+      "text": "头像=广陵计划-江洋小盗",
+      "emotion": "宝藏的具体位置已经模糊了，但就在面前这块地里，挖开试试运气吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "可恶。什么都没有……"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"广陵成长计划/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background7B5F44;colorF2E3C6;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mainlinewrap\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabs\""
+    },
+    {
+      "type": "narration",
+      "text": "ul class\"resptabslist clearfix\" style\"margin15px 5px\""
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "/ul"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"overflowauto;\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"style\"displayblock\"!平平"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''重伤野兽'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''买卖'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''谶言'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带一名'''精通道法'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !安安"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''寻犬'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''学宫'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''强取'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !侍卫队长"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''赌场'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''游侠'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''伤寒'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带一名'''精通医理'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !阿茜"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''士族礼物'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''商人'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''失踪'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带五名'''擅长勘探'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''中毒事件'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带五名'''鸢部密探'''前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !城门士兵"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''拐卖人口'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带一名'''喜欢小孩子'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''练兵'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''诈骗'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''抢单'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''猫和狗'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !周儒士"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''神秘住宅'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''收税'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''美人'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''寻人'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带三名'''阳属性密探'''前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !老刘头"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''刺客'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''谣言'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带'''一名小朋友'''前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''商贩'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !阳阳"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''教徒'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''入教'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带'''桃源村民'''前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !光光"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''农庄'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''械斗'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''宠物聚会'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带一名'''喜欢小动物'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !书肆女工"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''银钱'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''绑架'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''美妆'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带一名'''精通美妆'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !暴躁船夫"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''扰民'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !茶摊老板"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''保护费'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''热闹'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''异响'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带'''徐庶'''前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !徐使君"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''追赃'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''整理'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带'''熟悉古琴'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !不暴躁船夫"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''商贸'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''酒楼'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''契约'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带五名'''精通律法'''的密探前往或许能发现更多秘密''/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''竞拍'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带'''熟悉酒酿'''的密探前往或许能发现更多秘密/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !傅融"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''旱灾'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''招聘'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''当铺'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''流氓'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''投资'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带'''太史慈或者陈登'''前往或许能发现更多秘密/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''建筑工程'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray''携带'''五名水系密探'''前往或许能发现更多秘密/fontbr"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !小鸦"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''小报'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !周群"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''奇异天象'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''修复礼器'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" !江洋小盗"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''夺宝计划'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div/div/divcenter'''span style\"fontsize17px;color1E8EEE\"回到顶部/span/center'''/div"
+    },
+    {
+      "type": "narration",
+      "text": "!为什么这么多"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BF%E9%99%B5%E6%88%90%E9%95%BF%E8%AE%A1%E5%88%92/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:00:50.377478",
+  "raw_wikitext": "__NOTOC__\n[[分类:活动剧情]]\n{{面包屑|广陵成长计划/活动玩法}}{{JS|Qiantao.js}}{{背景图片|{{filepath:广陵成长计划背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">广陵成长计划</div>\n<div class=\"map-dh-right\">\n{{板块|按钮|广陵成长计划/导入剧情|活动导入剧情}}\n{{板块|按钮|广陵成长计划/活动剧情|百姓任务剧情}}\n{{板块|按钮|广陵成长计划/线索剧情|密探线索剧情}}\n{{板块|按钮|广陵成长计划/活动玩法|活动玩法奖励}}\n\n</div></div>\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#7B5F44;color:#F2E3C6;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n\n<div class=\"main-line-wrap\">\n<div class=\"resp-tabs\">\n<ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">\n<li class=\"active bili-list-style\">{{广陵成长计划|小头像-广陵计划-平平.png|平平}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-安安.png|安安}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-侍卫队长.png|侍卫队长}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-阿茜.png|阿茜}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-城门士兵.png|城门士兵}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-周儒士.png|周儒士}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-老刘头.png|老刘头}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-阳阳.png|阳阳}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-光光.png|光光}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-书肆女工.png|书肆女工}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-暴躁船夫.png|暴躁船夫}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-茶摊老板.png|茶摊老板}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-徐使君.png|徐使君}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-不暴躁船夫.png|不暴躁船夫|14px}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-傅融.png|傅融}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-小鸦.png|小鸦}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-周群.png|周群}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-江洋小盗.png|江洋小盗}}</li>\n</ul>\n<div style=\"overflow:auto;\">\n<div class=\"resp-tabs-container\" >\n<div class=\"resp-tab-content\"style=\"display:block\"><!--平平-->\n{{对话-头}}\n=<font color=#BB996F>'''重伤野兽'''</font>=\n{{对话|我|车架为何停了？|头像=世子常服-严肃}}\n{{对话|侍卫|回禀世子，路中有只棕鹿躺在路中，受伤不轻，似乎还有口气在。|头像=绣衣楼密探}}\n{{嵌套分歧|头}}\n{{嵌套分歧|无视|1}}\n{{嵌套分歧|医治|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你无视了它，离开了。}}\n{{旁白|深夜，你梦见了一只虎仙，感谢你留给它一顿饱餐。但它还没吃饱……}}\n{{旁白|你醒来，听见傅融在惨叫，傅融的小金库昨夜凭空消失了一半！}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|医官治好了伤鹿，你令人将它放归山林。}}\n{{旁白|夜晚，你梦见一个人自称鹿仙前来报恩……梦醒后，一颗奇怪的桃子被放在你胸口。}}\n{{旁白|桃子晶莹剔透，里面似乎有什么在轻轻搏动……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''买卖'''</font>=\n{{对话|村民|贵人您就行行好收了我的货吧，身体健康没有疾病。|头像=摊贩}}\n{{对话|我|是个……孩子……？|头像=世子常服-惊讶}}\n{{对话|孩子|呜呜……不要！不要！我不是他的孩子！|头像=路人小孩}}\n{{旁白|你打败了拐卖儿童的人贩，替孩子们找到了父母。}}\n{{对话-尾}}\n{{对话-头}}\n=<font color=#BB996F>'''谶言'''</font>=\n:<font color=gray>''携带一名'''精通道法'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=张角,许曼,干吉,张修}}\n{{对话|男孩|天有异象，世子将亡。广陵失主，白绫满巷。|头像=少年}}\n{{对话|母亲|瞎说什么，不要命啦！赶紧跟我回家！|头像=民妇}}\n{{对话|傅融|到底是谁在传你的谣言……派方士前去会不会查到结果？|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|未上阵指定密探|1}}\n{{嵌套分歧|上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你主持的祈福仪式被百姓们质疑，局面寥落。}}\n{{旁白|徐庶替你去找人撑场子，反而找来了数千人，轰动全徐州……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你抓住了造谣者，将其杖责后驱逐。}}\n{{旁白|黑暗中，似乎有一对兔子耳朵轻轻颤动……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--安安-->\n{{对话-头}}\n\n=<font color=#BB996F>'''寻犬'''</font>=\n{{对话|我|连找狗的任务都会送过来吗……|头像=世子常服-惊讶}}\n{{对话|徐庶|侠之大者为民解忧嘛！|头像=徐庶}}\n{{对话|我|是名贵的西域猎犬……恐怕不是走丢，而是被人偷走了。|头像=世子常服-无语}}\n{{旁白|猎犬格外亲近阿蝉，你将猎犬归还给主人，主人很神秘，并没有露面，只是送了你一个偃甲小偶。}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''学宫'''</font>=\n{{对话|愤怒的家长|你们的负责人呢！我今天非要讨个说法！|头像=文官}}\n{{对话|愤怒的家长|我家孩子这几天上完课回家就闷闷不乐的，是不是在学宫受欺负了啊！|头像=文官}}\n{{旁白|你去辟雍学宫协调，得知那些学生替学长郭嘉做了三年的功课，替天行道把郭嘉打了一顿。}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''强取'''</font>=\n{{对话|少女|放开我！我不要嫁王氏！我已有心上人了！|头像=少女2}}\n{{对话|家仆|女公子，这是家主定下的亲事，和我回家吧。|头像=文官}}\n{{嵌套分歧|头}}\n{{嵌套分歧|伸出援手|1}}\n{{嵌套分歧|少管闲事|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你和傅融助她私奔。结果，对方把你和傅融认错成了私奔的情侣。}}\n{{旁白|正当追兵紧追不舍时，山野中杀出了一支山越军。}}\n{{旁白|为首姓严的头目听说你们是私奔的，兴奋地问起你们的情史，试图为你们主婚……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|王氏新妇在大婚夜与人私奔。不久后的某个深夜，一名男子纵火王氏……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--侍卫队长-->\n{{对话-头}}\n=<font color=#BB996F>'''赌场'''</font>=\n{{对话|打手|抓住他！搜他的身子！我就不信了，这小子绝对是出老千了！|头像=强盗}}\n{{对话|我|这么多大人为难一个年轻人……|头像=世子常服-无语}}\n{{旁白|你救了这个人。但他生气的原因居然是被当作小孩子？}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''游侠'''</font>=\n{{对话|我|楼中留下的地图太古旧了，这些岔路都未标记。|头像=世子常服-严肃}}\n{{对话|徐庶|反正又没得事，慢慢走嘛。|头像=徐庶}}\n{{对话|游侠|打扰使君，请问去秦家庄应当怎么走？|头像=平民少年}}\n{{嵌套分歧|头}}\n{{嵌套分歧|不知道|1}}\n{{嵌套分歧|在东边|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你和徐庶继续前进，却闻到愈发浓重的血腥味。}}\n{{对话|我|血腥气越来越浓了，就是此处。村前的石上刻着……“秦家庄”？|头像=世子常服-严肃}}\n{{对话|徐庶|看，是那个人。|头像=徐庶}}\n{{对话|游侠|是你们啊？被你们撞见我屠村了，他们……该杀！|头像=平民少年}}\n{{嵌套分歧|头}}\n{{嵌套分歧|就此结案|1}}\n{{嵌套分歧|带回审问|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|游侠服毒自尽。}}\n{{旁白|他戳破了手腕内侧的刺青，你在针眼中见过相关记载，这种刺青属于神秘的杀手组织——华胥。}}\n{{旁白|经调查，此处并非普通村庄，而是某组织的隐居之处。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|游侠承认自己是盗墓贼，被同伙背叛，夺走所有财产，此行正为报仇。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你和徐庶在河边歇息取水时，发现河里飘着一具尸体。}}\n{{对话|我|好像是白天问路的那个人？|头像=世子常服-挑眉}}\n{{嵌套分歧|头}}\n{{嵌套分歧|搜查秦家庄|1}}\n{{嵌套分歧|搜查覃家庄|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你派人搜查秦家庄，在地窖中发现大量私盐。}}\n{{旁白|游侠应是误入此处后被灭口。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|见到你们，覃家庄庄主夫人露出讶色。}}\n{{旁白|夫人承认自己与游侠青梅竹马，庄主已因嫉妒对游侠痛下杀手。}}\n{{旁白|徐庶安抚她的思绪……气氛逐渐开始欲说还休。你决定先撤了。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''伤寒'''</font>=\n:<font color=gray>''携带一名'''精通医理'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=张郃,华佗,张仲景,关靖,史子眇,伍丹}}\n{{对话|侍卫|现在伤寒闹得十分厉害，傅副官嘱咐王府人员每日喝避伤寒的药。|头像=绣衣楼密探}}\n{{对话|侍女|还有多的药吗？我家里也有病人，如今各处缺医少药……该怎么办?|头像=宫女}}\n{{嵌套分歧|头}}\n{{嵌套分歧|未上阵指定密探|1}}\n{{嵌套分歧|上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你派人去各地采购药材，但伤寒肆虐，药材供不应求。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|张仲景与翳部弟子前来广陵，伤寒得到控制。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n\n<div class=\"resp-tab-content\" ><!--阿茜-->\n{{对话-头}}\n\n=<font color=#BB996F>'''士族礼物'''</font>=\n{{对话|礼官|世子请看，这是上等礼单，耗价三枚马蹄金，中等，耗价两枚，下等，一枚。|头像=美型文官}}\n{{对话|傅融|还有更下等的吗？|头像=傅融}}\n{{对话|我|毕竟是赠给士族的礼物，不好太寒碜吧。|头像=世子常服-微笑}}\n{{对话|傅融|预算有限，世家个个眼高于顶，送什么都是一样的。|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|选贵重的|1}}\n{{嵌套分歧|选表达心意的|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你忍痛赠出了贵重的礼物。}}\n{{旁白|陈氏回送的礼品堆满了王府，傅融拨完算盘后告诉你，大典后的流水席有着落了。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你选了些虽不名贵但能代表广陵的礼物，各族回礼皆平平。}}\n{{旁白|只有陈登送来了极为丰富的回礼，楼中上下，人手一份。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''商人'''</font>=\n{{对话|商人甲|世子，请务必将商铺租给老夫卖炭，老夫愿将上等炭供奉世子。|头像=摊贩}}\n{{对话|商人乙|世子，我家是做成衣生意的，必能保持店铺整洁光亮。|头像=男文人}}\n{{对话|我|都是好生意，我想……|头像=世子常服-微笑}}\n{{嵌套分歧|头}}\n{{嵌套分歧|租给成衣铺|1}}\n{{嵌套分歧|租给木炭铺|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|成衣店附近常有失踪案，你暗查无果。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|木炭铺都是易燃物，某夜起了大火。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''失踪'''</font>=\n:<font color=gray>''携带五名'''擅长勘探'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|部门=蜂部,蜂部,蜂部,蜂部,蜂部}}\n{{对话|小鸦|殿下，这场火有蹊跷。|头像=鸢使}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你在院子里发现大量无头尸体。}}\n{{旁白|你想起自己听过的传闻，这似乎与乌有社有关。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|因商铺隶属广陵王府，失踪者的亲属只能上门来找你讨要说法，你百口莫辩。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''中毒事件'''</font>=\n:<font color=gray>''携带五名'''鸢部密探'''前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|部门=鸢部,鸢部,鸢部,鸢部,鸢部}}\n{{对话|我|死因是什么？|头像=世子常服-严肃}}\n{{对话|医官|回禀世子殿下，这些乞丐死于中毒。|头像=美型文官}}\n{{对话|我|此事恶劣。傅融，让鸢部的人尽快调查。|头像=世子常服-严肃}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你下令严查此事，逮捕了用乞丐试药的人。}}\n{{旁白|这种鲜红的药弥漫着醉人的气息，不知为何，明明知道是毒药……}}\n{{旁白|可是那种气息，却能让你想起世上一切美好之事。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|因你放任不管，又发生大量百姓中毒事件……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n\n<div class=\"resp-tab-content\" ><!--城门士兵-->\n{{对话-头}}\n=<font color=#BB996F>'''拐卖人口'''</font>=\n:<font color=gray>''携带一名'''喜欢小孩子'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=张闿,史子眇,关靖,张角,许攸}}\n{{对话|妇人|我的孩子，我的孩子，你在哪……你看见我的孩子了吗？|头像=平民母亲}}\n{{对话|侍从|最近城中似乎有许多孩子走失，怕不是有人在拐卖孩童。|头像=侍从}}\n{{对话|傅融|找一些熟悉孩子生活、会好好照顾孩子的人去调查此事吧。|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|一日清晨被拐儿童们突然出现在大街上。}}\n{{旁白|被拐的儿童们归家后，都不停地念叨着“母亲”。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你将案件分派给县衙，但因人手不足，最终未能找回失踪儿童。}}\n{{旁白|半年后，有人在广陵外发现了一处桃源村……当年失踪的孩子，都在里面呢！}}\n{{旁白|可是，他们为何一点没有长大？}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''练兵'''</font>=\n{{对话|广陵尉|殿下，这一批招募来的青壮资质很好，可以着重培养一支队伍。|头像=副将}}\n{{嵌套分歧|头}}\n{{嵌套分歧|训练为水军|1}}\n{{嵌套分歧|训练为重骑兵|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你训练出一支强悍的水军，解决了水贼祸患，开辟水上商路。}}\n{{旁白|但你也引起了水贼“锦帆贼”的注意。双方积怨越来越深，锦帆贼趁夜夺城，爆发守城战……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你为组建的骑兵队购买西凉马，与西凉商队达成合作。}}\n{{旁白|但重骑兵的培养耗费巨大，你很快入不敷出，不得不减少府内支出。}}\n{{旁白|工资太低，傅融只能继续发展广陵农业，培育出了本地特产小青菜！你称它为芙蓉菜。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''诈骗'''</font>=\n{{对话|史子眇|镇上开了一家厨艺速成班，只要一个月，包教包会上百菜式，我想去试试。|头像=史子眇}}\n{{对话|讲师|只要九千九百九十八白银币，包你如厨神转世！|头像=男文人}}\n{{旁白|讲师坦白自己捡到了一本《程氏菜谱》，照着菜谱就敢开班教学。}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''抢单'''</font>=\n{{对话|杀手|三脚猫的功夫，你们还配叫杀手?|头像=黑衣人}}\n{{对话|刺客|呸！你才像条断脊之狗！|头像=刺客头领}}\n{{对话|我|你们……你们在目标面前也能抢单子吗？|头像=世子常服-无语}}\n{{对话|我|你们是谁派来的？|头像=世子常服-严肃}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''猫和狗'''</font>=\n{{对话|杀手|回答我们的问题，我们就告诉你东家是谁。|头像=黑衣人}}\n{{对话|杀手|猫和狗哪个更可爱？|头像=黑衣人}}\n{{嵌套分歧|头}}\n{{嵌套分歧|都不可爱|1}}\n{{嵌套分歧|都很可爱|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|听到你的回答，杀手们四目冒出寒光，杀意难掩。}}\n{{旁白|徐庶殴打葛洪变回原形，将其作为你的宠物炫耀，众人才心服口服。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|听到你的回答，杀手们四眼放光，牵出自己的爱宠竞相展示，场面混乱。}}\n{{旁白|路过的山阳王氏公子哮喘急发，被华佗扛走。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--周儒士-->\n{{对话-头}}\n\n=<font color=#BB996F>'''神秘住宅'''</font>=\n{{对话|文官|殿下，王府有一处外租宅邸，多年无人居住，却每个月按时收到租金。要重新出租宅邸吗?|头像=文官}}\n{{嵌套分歧|头}}\n{{嵌套分歧|放任|1}}\n{{嵌套分歧|派人调查|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|许久之后，你途径该宅院，闻到兰花的味道。}}\n{{旁白|你进屋看到所有物品数量一致，摆放对称。}}\n{{旁白|神奇的是，次日再去，宅院皆空，唯有一紫衣人独自站在空寂院中。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你发现有一户流民躲避在此处。出于仁善，你没有赶走他们。}}\n{{旁白|某夜你遇到刺客，危机时，那家流民装成官兵喊叫，吓走了刺客，报你的恩情。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n=<font color=#BB996F>'''收税'''</font>=\n{{对话|文官|殿下，收来的税款远少于预估，许多士族不愿配合。|头像=文官}}\n{{嵌套分歧|头}}\n{{嵌套分歧|让徐庶去|1}}\n{{嵌套分歧|让傅融去|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|徐庶前辈一分钱都没给你收回来，半路喝酒喝完了。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|傅融据理力争，甚至引发了一场徐州会计算盘大赛。}}\n{{旁白|全城百姓那几天都被算盘声笼罩，士族精神衰弱，同意了交税。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n=<font color=#BB996F>'''美人'''</font>=\n{{对话|士子|小红淑女今日对我笑了！|头像=伪装宾客}}\n{{对话|文人|我愿意为小红淑女付出一切……|头像=男文人}}\n{{对话|我|小红淑女是谁？|头像=世子常服-挑眉}}\n{{对话|士子|你也是来竞争的？|头像=伪装宾客}}\n{{旁白|一个醉醺醺的病弱文士在歌楼的阴影处抽烟，看着你无声地笑。}}\n{{对话-尾}}\n{{对话-头}}\n=<font color=#BB996F>'''寻人'''</font>=\n:<font color=gray>''携带三名'''阳属性密探'''前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|属性=阳,阳,阳}}\n{{对话|侍卫|殿下，城中有位名士失踪。因为他曾有辱骂宗室的言论，坊间都怀疑您……|头像=绣衣楼密探}}\n{{对话|我|骂我的人那么多……我让他们全都消失了吗？|头像=世子常服-无语}}\n{{对话|傅融|找些平时光明正大的人去澄清此事吧。|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你派出的人找到了失踪名士，原来对方立志跟随程昱云游四方呀？太好了。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你派出的人一无所获。不久后，在泰山山脚下的某座小村中，有人发现了这位名士的残骸……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--老刘头-->\n{{对话-头}}\n=<font color=#BB996F>'''刺客'''</font>=\n{{对话|杂耍人|来瞧瞧来看看了，西域幻人戏法。|头像=屠夫}}\n{{对话|我|把人关进箱子了，啊——|头像=世子常服-难受}}\n{{对话|刺客|看得入迷了吧？！|头像=黑衣人}}\n{{旁白|你击退了刺客。败退时，有戏法掩护他撤退，白雾中蹿出了一群三花狸猫……}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''谣言'''</font>=\n:<font color=gray>''携带'''一名小朋友'''前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=飞云,孙权,陆绩,伍丹,绣球,孙尚香}}\n{{对话|青年|听说了吗，广陵王世子正在修炼邪术！|头像=少年}}\n{{对话|中年|早听说啦，而且每到月圆之夜，他都要抓一对童男童女回去吃！|头像=老年男}}\n{{对话|我|不行！必须要证明我还是很受孩子欢迎的，澄清此事！|头像=世子常服-摇头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|谣言被澄清，广陵百姓认为你不会吃未成年，但会吃成年人。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|谣言愈演愈烈，你心如死灰。但是傅融由于不喜欢孩子，见到孩子绕着王府走，露出了满意的笑。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''商贩'''</font>=\n{{对话|商贩|塞外制品，童叟无欺！假一赔十，今日特价。|头像=摊贩}}\n{{嵌套分歧|头}}\n{{嵌套分歧|买宝石碗|1}}\n{{嵌套分歧|买兽骨工艺品|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|徐庶拿这个碗吃红油火锅，不当心把宝石当丸子吃了下去，抢救。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你准备付钱，有人挤了过来，大喊一声“真攒劲的假货”！}}\n{{旁白|商人追打对方，反被打至重伤。商人的族人和对方爆发大混战，打散了整个集市。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--阳阳-->\n{{对话-头}}\n\n=<font color=#BB996F>'''教徒'''</font>=\n{{对话|教徒|哎，这位贵人灵慧过人，可愿入我教门？只要答对问题就能赢得资格。|头像=狂热信徒}}\n{{对话|教徒|唯我得长生的上一句是什么？|头像=狂热信徒}}\n{{嵌套分歧|头}}\n{{嵌套分歧|火德焚乱世|1}}\n{{嵌套分歧|手握五斗米|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|因为背错了教义，教徒燃起了熊熊传教热情，一定要接引你立时入教。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你话音落下，街旁的灯笼纱忽然尽数点燃，汇成一片火海。}}\n{{旁白|一阵微风吹过，灯笼如旧，毫无被焚毁的痕迹。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''入教'''</font>=\n:<font color=gray>''携带'''桃源村民'''前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=干吉,张修}}\n{{对话|教徒|加入我们……成为我们……|头像=狂热信徒}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|人群中忽然响起了悦耳的声音，众人不由跟随那个声音，步入桃源。}}\n{{旁白|你心生惧意，誓要规范广陵宗教活动。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|徐庶带你冲出围堵，你再也没见过他们。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--光光-->\n{{对话-头}}\n=<font color=#BB996F>'''农庄'''</font>=\n{{对话|我|这个农庄依山傍水，地力肥沃，真是不错。|头像=世子常服-微笑}}\n{{对话|庄园主人|贵人好眼光，方圆五十里内，就数我家庄子顶尖。|头像=文官}}\n{{对话|庄园主人|要价……十枚马蹄金。|头像=文官}}\n{{对话|我|昨日不还是五枚吗?我得考虑一下。|头像=世子常服-无语}}\n{{嵌套分歧|头}}\n{{嵌套分歧|让傅融处理|1}}\n{{嵌套分歧|让阿蝉处理|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|傅融建议你别买了，并列举王府各项开销说服你。}}\n{{对话|我|好吧……确实是耗费钱财，算了吧。|头像=世子常服-微笑}}\n{{对话|傅融|而且山坳潮湿之地，最不缺的毒蛇……小心！|头像=傅融}}\n{{旁白|你和傅融解决了毒蛇。庄园主人十分感激，替你打了折。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|阿蝉提刀架在对方脖子上，用西凉的砍价方式砍价。}}\n{{对话|庄园主人|来人啊！救命啊——|头像=文官}}\n{{旁白|你根本来不及阻止混战。混战后，你决定去缓和一下关系，但对方已经吓得举族搬迁……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''械斗'''</font>=\n{{对话|王家村村民|你们村天天两头烧麦秆！|头像=摊贩}}\n{{对话|李家村村民|你们村天天污染上游水！|头像=平民女}}\n{{对话|我|别打了！|头像=世子常服-生气}}\n{{旁白|两村矛盾解决，达成合作，共建度假景区。}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''宠物聚会'''</font>=\n:<font color=gray>''携带一名'''喜欢小动物'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=飞云,葛洪,眭固,颜良,绣球,孙尚香}}\n{{对话|侍女|殿下，这就是坊间所说可以携带宠物进入参观的园林。|头像=宫女}}\n{{对话|我|好热闹！……还有这么大的兔子呢？哦，是葛君前辈啊……|头像=世子常服-微笑}}\n{{对话|我|如果有喜欢小动物的密探，说不定能混入其中，打探情报了……|头像=世子常服-微笑}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|绣球受到园内所有人和动物的热烈欢迎。}}\n{{旁白|在大量投喂下，绣球体重急速飙升。终于，有一天突破了房顶……}}\n{{旁白|原来绣球的真实身份是——}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你独自陪绣球玩耍，引来许多热情小狗围观。}}\n{{旁白|为了争夺你和绣球的关注，小狗们打起了群架，园中一片混乱。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--书肆女工-->\n{{对话-头}}\n\n=<font color=#BB996F>'''银钱'''</font>=\n{{对话|文官|世子，这是城中商户缴纳的税银。|头像=文官}}\n{{对话|我|这批银钱的颜色有些奇怪……周群，请来一观。|头像=世子常服-严肃}}\n{{对话|周舒|这批银钱不是以纯银铸造，混入了他物。|头像=贵族中年男}}\n{{嵌套分歧|头}}\n{{嵌套分歧|追查来源|1}}\n{{嵌套分歧|销毁货币|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你查封城郊铸币厂，但未抓到主使。}}\n{{对话|广陵尉|是否继续追查？请世子示下。|头像=副将}}\n{{嵌套分歧|头}}\n{{嵌套分歧|追查|1}}\n{{嵌套分歧|算了|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|数月后，你抓到了主使。}}\n{{旁白|他自称帮一位满身胭脂酒气的士人结了酒债，对方以铸币配方答谢，让他来广陵大赚一笔。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|对方早已人去楼空，不会查到什么结果。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|劣币已融掉，余下不少铅。}}\n{{对话|铁匠|世子，铅要如何处理？|头像=摊贩}}\n{{嵌套分歧|头}}\n{{嵌套分歧|制造颜料|1}}\n{{嵌套分歧|赠予史子眇|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你造出的铅粉色白细腻，物美价廉，大受欢迎。有位头戴斗笠的画家常来采购。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|如此纯度的铅十分适宜入药，史子眇以此炼制了大量丹药，你屡次拒绝服用。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''绑架'''</font>=\n{{对话|我|前几日被绑架的诗社成员找到了吗？|头像=世子常服-严肃}}\n{{对话|徐庶|在城北发现了踪迹，应该是被绑架了。|头像=徐庶}}\n{{对话|徐庶|找到了！动手！|头像=徐庶}}\n{{旁白|绑匪为江东山越的山贼，祖郎的手下吕蒙。被打退后，吕蒙不知所踪……}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''美妆'''</font>=\n:<font color=gray>''携带一名'''精通美妆'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=张闿,郭嘉,蜂使}}\n{{对话|女官|殿下，广陵的胭脂铺香粉比雒阳的好，既显色又持妆，淡妆浓妆都好用。|头像=侍女}}\n{{对话|我|是么，那就让人采购一些，预备在王府里，交际送礼。|头像=世子常服-微笑}}\n{{对话|傅融|那得去找熟悉化妆和胭脂水粉的人……|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你吩咐准备的年礼广受本地士族女眷好评，收到宴饮邀请。}}\n{{旁白|席间一位夫人主动与你攀谈，对方周身萦绕着淡淡荷香……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你研究脂粉被礼官目击，礼官认为你耽于玩乐，痛心疾首。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--暴躁船夫-->\n{{对话-头}}\n\n=<font color=#BB996F>'''扰民'''</font>=\n{{对话|我|新开张的酒店怎么还在敲锣打鼓啊？已经快要八个时辰了……|头像=世子常服-无语}}\n{{对话|酒店老板|这就叫开门红！你敢喊停，我以后生意不好算你的？|头像=文官}}\n{{旁白|你将乐师们组成一个班底，几个月后成为风靡广陵的乐师天团。}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--茶摊老板-->\n{{对话-头}}\n\n=<font color=#BB996F>'''保护费'''</font>=\n{{对话|地痞|说了多少次了，老子的保护费，一个子也不能少给！|头像=山贼甲}}\n{{对话|商贩|我的摊子……我的摊子！|头像=摊贩}}\n{{嵌套分歧|头}}\n{{嵌套分歧|沟通劝阻|1}}\n{{嵌套分歧|武力阻止|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你想友善劝说，反被打伤。阿蝉替你出头，打得整条街血肉模糊……}}\n{{旁白|地痞们心服口服，幸存者听命王府，创立了广陵商会。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你打败了他们，将地痞们收编入伍。}}\n{{旁白|但这群人不守军纪，被广陵尉派去北海投奔孔融。结果，没有一个人能回来……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''热闹'''</font>=\n{{对话|食客|我看啊，这个世子自幼隐居仙阁，根本不懂什么手段。|头像=民妇}}\n{{对话|老板|就是，他迟早返回仙门，广陵水太深了，他根本压不住。|头像=摊贩}}\n{{嵌套分歧|头}}\n{{嵌套分歧|无视|1}}\n{{嵌套分歧|反驳|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你并不在意，却听到屏风后一声轻笑，一个青衣文士抱琴走出，与你擦身而过。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你和老板争执起来，耽误了酒楼上菜。}}\n{{旁白|史子眇想替你搞好和大家的关系，主动下厨做菜，毒翻五十余人。你从此在广陵立威。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''异响'''</font>=\n:<font color=gray>''携带'''徐庶'''前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=徐庶}}\n{{对话|侍女|城东的王母庙里的石头神像显灵了，好多人都听见石像里传出声音。|头像=宫女}}\n{{对话|女官|王府里不许谈论怪力乱神之事，那都是妄言罢了。|头像=侍女}}\n{{对话|我|也许只有剑仙才敢调查此事……|头像=世子常服-挑眉}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你和徐庶去庙中查看，搬走石像后在底座中发现了蛇窝，徐庶把蛇抓回去泡酒。}}\n{{旁白|第二天夜里，徐庶梦见一名蛇女前来为她的孩子们索命。}}\n{{旁白|你问徐庶如何应对，徐庶抱着手里不知何处来的青蛇笑而不语。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你将此事抛诸脑后，显灵一事演变为怪谈，王母庙最终荒废。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--徐使君-->\n{{对话-头}}\n\n=<font color=#BB996F>'''追赃'''</font>=\n{{对话|文官|强抢民田的涉事人突然暴病身亡，家属将其迅速下葬了。|头像=文官}}\n{{对话|我|活要见人，死要见尸。|头像=世子常服-严肃}}\n{{旁白|你抢下棺材，看到了男子的尸体。此时华佗路过，挥着斧头想解剖，医学奇迹出现了，死人当场复活。}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''整理'''</font>=\n:<font color=gray>''携带'''熟悉古琴'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|密探=周瑜}}\n{{对话|女官|殿下，王府库房修葺，清点时找到了许多古琴。|头像=侍女}}\n{{对话|女官|府内没有了解古琴的人，不知该怎么处理。|头像=侍女}}\n{{对话|我|熟悉古琴的人……|头像=世子常服-挑眉}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你在库房中发现许多两个一样的幼童玩具，王府以前似乎生活着两个孩子……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|库房中的珍贵古董损失惨重，傅融心痛到突发眩晕。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--不暴躁船夫-->\n{{对话-头}}\n=<font color=#BB996F>'''商贸'''</font>=\n{{对话|我|广陵需要开辟一条新的商路，以便在州郡间立身。|头像=世子常服-微笑}}\n{{对话|商贾|我等正有此意，世子看是往西好，还是往东好？|头像=摊贩}}\n{{嵌套分歧|头}}\n{{嵌套分歧|往西|1}}\n{{嵌套分歧|往东|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|商贾自西蜀带回了一只仙鸟！}}\n{{旁白|……怎、怎么是浮丘？！愤怒的浮丘追着你啄了三条街！}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|商贾自东海带回珍奇异果。}}\n{{旁白|史子眇将外壳黄色带有尖刺的水果蒸熟，整整半月，全楼弥散着不可言说的气味。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''酒楼'''</font>=\n{{对话|酒楼老板|世子莅临，蓬荜生辉！|头像=文官}}\n{{对话|刺客|就知道你今天会来，拿命来！|头像=黑衣人}}\n{{对话|我|原来目标不是我，是酒楼老板啊……|头像=世子常服-严肃}}\n{{对话|刺客|不然呢？|头像=黑衣人}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''契约'''</font>=\n:<font color=gray>''携带五名'''精通律法'''的密探前往或许能发现更多秘密''</font><br>\n{{上阵密探|大小=50|部门=鸢部,鸢部,鸢部,鸢部,鸢部}}\n{{对话|我|老板，你说不说？不然，我就把你交给他们了。|头像=世子常服-严肃}}\n{{对话|酒楼老板|我说！别把我和乌丸人关在一起！|头像=文官}}\n{{对话|酒楼老板|是我趁他们语言不通，逼他们签了一些……契约……|头像=文官}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你理清了其间是非，老板当着你的面焚毁乌丸人的卖身契。}}\n{{旁白|刘虞得知此事，来信称赞你。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|老板坚称契约书于竹简，有律例可查，不肯认罚。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''竞拍'''</font>=\n:<font color=gray>''携带'''熟悉酒酿'''的密探前往或许能发现更多秘密</font><br>\n{{上阵密探|大小=50|密探=徐庶,郭嘉}}\n{{对话|老板|接下来这坛百年陈酿，底价一千钱。|头像=摊贩}}\n{{对话|我|到底要不要拍呢……有点好奇味道。|头像=世子常服-挑眉}}\n{{对话|傅融|好贵。还是找熟悉酒的人来问问吧。|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你果断拍了一坛酒！}}\n{{旁白|拍开封泥后，酒坛里，居然是……一卷古书？}}\n{{旁白|《明夷》的残片……好奇怪的书。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你犹豫之时，一位嗜酒名士已经高价拍得好酒。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--傅融-->\n{{对话-头}}\n=<font color=#BB996F>'''旱灾'''</font>=\n{{对话|我|久不下雨，田里的庄稼快要枯死了…….|头像=世子常服-严肃}}\n{{对话|傅融|粮仓里的存粮已经告急，恐怕最多只能再坚持一周。|头像=傅融}}\n{{对话|我|得要想办法筹粮，避免饥荒。|头像=世子常服-点头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|向宗亲借粮|1}}\n{{嵌套分歧|向士族筹粮|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|刘虞派人来到广陵送粮，不求回报。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|陈氏送来粮食，作为交换，陈登钓走了王府水池里的两尾锦鲤。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''招聘'''</font>=\n{{对话|我|……王府百废待兴，缺人………|头像=世子常服-摇头}}\n{{对话|傅融|这是广陵求职名录，你打算招什么类型的人？|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|物美价廉的|1}}\n{{嵌套分歧|有能力的|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|新人们掌握了一套在膳堂茅房频繁穿梭的功法。明明多招了人，但公务堆积得更多了……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你不惜重金招来的世家弟子抱团排挤傅融。}}\n{{旁白|你努力辞退了所有人，钱也没要回来……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''当铺'''</font>=\n{{对话|傅融|王府丢失的东西在城东的当铺出现了，肯定是有家贼！|头像=傅融}}\n{{对话|我|你们这是销赃。把东西还回来！|头像=世子常服-严肃}}\n{{对话|当铺打手|进了我们家的东西，断然不可能有归还的道理！|头像=强盗}}\n{{旁白|你在当铺找回了傅融的算盘、阿蝉的短剑等一众物品。}}\n{{旁白|老板说是一只松鼠叼过来典当的？太离谱了……}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''流氓'''</font>=\n{{对话|百姓|救命啊！！快跑啊！洪水来了！|头像=屠夫}}\n{{对话|流氓|这些渔船都是我们的！不给钱不准上！|头像=强盗}}\n{{旁白|打败了流氓头目，夺下渔船，救了不少百姓。}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''投资'''</font>=\n:<font color=gray>''携带'''太史慈或者陈登'''前往或许能发现更多秘密</font><br>\n{{上阵密探|大小=50|密探=太史慈,陈登}}\n{{对话|我|我名下的耕地还有闲置？|头像=世子常服-微笑}}\n{{对话|傅融|十几亩，合理安排一下耕种的作物，王府开销的压力会小一点。|头像=傅融}}\n{{对话|傅融|负责人最好是接地气、熟悉民情的人……|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你选购到了优质种子，在陈登的指导下安排农时，实现了收益最大化。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你自行规划但效果不佳，导致严重亏本。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''建筑工程'''</font>=\n:<font color=gray>''携带'''五名水系密探'''前往或许能发现更多秘密</font><br>\n{{上阵密探|大小=50|属性=水,水,水,水,水}}\n{{对话|傅融|堤坝重建进入关键节点，容不得一点闪失。|头像=傅融}}\n{{对话|傅融|需要时时巡查。你觉得派谁比较合适？最好是水性好，且性格细心的人……|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|上阵指定密探|1}}\n{{嵌套分歧|未上阵指定密探|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|及时发现堤坝隐患，修复了堤坝。洪水来袭，广陵城安然无恙。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|没有及时发现隐患，广陵出现了水灾。}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--小鸦-->\n{{对话-头}}\n=<font color=#BB996F>'''小报'''</font>=\n{{对话|我|小鸦，你在看什么……？|头像=世子常服-挑眉}}\n{{对话|小鸦|本地的小报，世子，里面有好多讨论你和傅哥的小道消息。|头像=鸢使}}\n{{嵌套分歧|头}}\n{{嵌套分歧|澄清|1}}\n{{嵌套分歧|追责|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你发文澄清小道消息，但越描越黑……傅融在广陵的人气一骑绝尘，变成了本地大红的偶像！}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你责令编纂者修改，删掉所有关于你与傅融的内容。}}\n{{旁白|但傅融的心情反而更不好了？}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--周群-->\n{{对话-头}}\n=<font color=#BB996F>'''奇异天象'''</font>=\n{{对话|医官|世子的晕眩之状应与昨日的奇异天象有关。|头像=美型文官}}\n{{对话|我|昨夜半空都是橙色炫光，应该——|头像=世子常服-惊讶}}\n{{嵌套分歧|头}}\n{{嵌套分歧|去找周群测算|1}}\n{{嵌套分歧|只是自然现象|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|周群卜算一夜，得出结论：异常天象是你上火所致。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你将其当作自然现象，并未多加关注。次日得知，西山顶突现大量橙色星石。}}\n{{旁白|但是都被徐庶拿去送情缘了！恨啊！}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''修复礼器'''</font>=\n{{对话|我|……为大典准备的琴坏了？|头像=世子常服-惊讶}}\n{{对话|我|能另找一把琴替代吗，反正都差不多。|头像=世子常服-严肃}}\n{{对话|周群|不行。礼器用琴，不可替代，否则名不正言不顺礼不成。|头像=周群}}\n{{对话|我|知道了知道了……|头像=世子常服-点头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|发榜寻找专业人士|1}}\n{{嵌套分歧|翻阅古籍寻找方法|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|一位带着斗笠的冷面人揭榜，修好琴后拿着赏金翩然离去。}}\n{{旁白|礼琴被修成奇怪式样，奏响寓意大吉，琴身形似塔状，被周群命名为“吉塔”。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|全楼人连夜翻阅古籍，各展神通，导致古琴彻底报废。}}\n{{旁白|最后是小鸦出手，居然修复了古琴！但她把古琴改造成了暗器，一弹就会射箭……}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\" ><!--江洋小盗-->\n{{对话-头}}\n=<font color=#BB996F>'''夺宝计划'''</font>=\n{{对话|江洋小盗|你竟然有藏宝图，让我看看……啊！是我藏在这的宝藏啊！|头像=广陵计划-江洋小盗}}\n{{对话|我|再给你一次机会，重新说。|头像=世子常服-无语}}\n{{对话|江洋小盗|……是、是贵人藏在这的宝藏。贵人，可以把剑拿开了吗……|头像=广陵计划-江洋小盗}}\n{{对话|江洋小盗|宝藏的具体位置已经模糊了，但就在面前这块地里，挖开试试运气吧！|头像=广陵计划-江洋小盗}}\n\n{{对话|我|可恶。什么都没有……|头像=世子常服-摇头}}\n{{对话-尾}}\n</div>\n\n</div></div></div></div><center>'''[[#top|<span style=\"font-size:17px;color:#1E8EEE\">回到顶部</span>]]</center>'''</div>\n\n<!--为什么这么多-->"
+}

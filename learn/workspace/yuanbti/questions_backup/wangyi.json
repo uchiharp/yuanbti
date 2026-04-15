@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q_wangyi_01",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "王异",
+    "source_story": "务实谈判",
+    "route_hint": null,
+    "city_hint": "西凉",
+    "text": "「事成之后边市的利益每年三七开。」王异的谈判风格？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太直接了，从中可以看",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "纯粹的利益驱动者",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在试探是最冒险的游戏",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "王异——一切以利益为核心运转。"
+  }
+]

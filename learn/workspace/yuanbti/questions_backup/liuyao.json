@@ -1,0 +1,80 @@
+[
+  {
+    "id": "q_liuyao_01",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "刘繇",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "长沙",
+    "text": "你是一方之主，有人向你进献「借刀杀人」之计，可以不动一兵一卒除掉邻境的劲敌。但此计需牺牲一个无辜小城的百姓作为诱饵。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "拒绝此计，不以百姓为筹码",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "修改方案，尽量减少百姓伤亡",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "大局为重，为了根除后患可以承受代价",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自刘繇的密探故事——作为一方州牧，他常在仁义与权谋间抉择。"
+  },
+  {
+    "id": "q_liuyao_02",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在群雄割据的乱世，你有一番治国方略想推行，但朝中元老认为你「年轻气盛」，处处掣肘。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "耐心等待时机，先积蓄实力",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在力所能及的范围内推行，循序渐进",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "据理力争，在朝堂上正面驳斥元老",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "刘繇为人刚直有锋芒，在朝堂上常有不畏权贵的表态。"
+  }
+]

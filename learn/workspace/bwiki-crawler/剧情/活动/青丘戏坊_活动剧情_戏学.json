@@ -1,0 +1,441 @@
+{
+  "title": "青丘戏坊/活动剧情/戏学",
+  "category": "活动剧情",
+  "characters": [
+    "戏学",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "殿下如何看刚刚那个角色？学生认为火候没有把握好，有些用力过猛呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "殿下经常看戏吗？台上台下好像都在演戏呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "我们在看戏台上的人，戏台上的人是不是也在看我们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "就算喝多了也会把我送回去的吧……会的吧？……会的吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "好酒。哈，学别人喝完说“好酒”，其实学生没有见识，哪里分得出酒的好赖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "总是这样，会让人有一种输得起的错觉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "王侯输了，不也还是王侯吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "殿下海量！殿下豪气！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "总装模做样会累吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "哎呀，殿下真是的……小七什么都没有装呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "别别别揪发髻……！揪乱了很难梳的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "大家明明都在装，怎么只说我一个人啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "为什么老针对袁基？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "每次针对他，殿下的表情都很有趣，让人很难不想再来一次。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "哈……他拥有太多，还每每自艾自怜，谁会不心生嫉恨呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "就连殿下问出这个问题，我都会恨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "为什么喜欢绿色？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "论品级，学生只能服青、绿，不能服朱、紫呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "唔……真话？……真话是……绿色多好呀，绿色显年轻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最近开心的事是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "今天就很开心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=q版-戏学",
+      "emotion": "什么都不用做，就能和燕子、兔吃一整天饱饭。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头戏学brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''戏学'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"初见对话&水榭戏台/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"水榭戏台/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援火把应援火把"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"啊哈哈！我喜欢火！是不是还要喊口号？殿下——殿下——殿下——/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px手持幅巾手持幅巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我喜欢色彩鲜艳的东西。燕子也是五彩斑斓的呀，殿下仔细看过吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px千里镜千里镜"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"是这么看吗？殿下见笑，小七没见过好东西，都不知道怎么用……不像袁长公子，什么奇珍异宝都难讨他的欢心呢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鼓掌拍鼓掌拍"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"能不能多拿一些放在墓碑上，风一吹，整个墓林都是鼓掌赞同之声，多悦耳。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px耳塞（青丘戏坊）耳塞"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"殿下是嫌弃学生吵闹吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援扇应援扇"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"扇来扇去的，心里的火反而愈燃愈烈呢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px瓜子瓜子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"有回饿得眼睛发绿，和燕子抢到一个瓜，打开发现瓤早瘪了，只能瓜皮瓜子一起吞，吞了很久，嚼得脸都痛了，肚子还是很饿。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px铃鼓铃鼓"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"铃鼓声音太大，会听不清贵人那些弦外之音的。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px号筒号筒"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"小七出身又低，长辈又不在身边，还好有殿下教导。殿下要吩咐什么话，小七都会听着呀。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具（青丘戏坊）博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我们这么小的身家，最多算是案上的肉，连筹码都算不上呢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px冰饮子（青丘戏坊）冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"啊……好凉……嗯？长公子也做过同样的表情、说过同样的话吗？哎呀，那小七真是班门弄斧。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼（青丘戏坊）糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"没有哪种欲望能比饥饿更痛苦，不相信的人大多没饿过。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露紫果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"喝醉了的话，小七说不定会脚步不稳呢，殿下可不要避开太远……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘（青丘戏坊）果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"第一次吃到的水果是半个跺烂的梨，现在还记得那个味道。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px投壶投壶"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"用箭杀人的人，投壶会不中吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px赏钱赏钱"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"哎呀，谢谢殿下呀，毕竟，贵人指缝里漏一点，足够穷人吃整年。/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"总装模做样会累吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao为什么老针对袁基？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao为什么喜欢绿色？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao最近开心的事是？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%9D%92%E4%B8%98%E6%88%8F%E5%9D%8A/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E6%88%8F%E5%AD%A6",
+  "crawled_at": "2026-04-12T22:04:40.908840",
+  "raw_wikitext": "{{面包屑|2025活动剧情|青丘戏坊/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:青丘戏坊背景.png}}}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/蛾使|蛾使}}\n{{板块|按钮|青丘戏坊/活动剧情/眭固|眭固}}\n{{板块|按钮|青丘戏坊/活动剧情/雀使|雀使}}\n{{板块|按钮|青丘戏坊/活动剧情/第五天|第五天}}\n{{板块|按钮|青丘戏坊/活动剧情/许攸|许攸}}\n{{板块|按钮|青丘戏坊/活动剧情/许曼|许曼}}\n{{板块|按钮|青丘戏坊/活动剧情/鲁肃|鲁肃}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/戏学|戏学}}\n{{板块|按钮|青丘戏坊/活动剧情/张燕|张燕}}\n{{板块|按钮|青丘戏坊/活动剧情/吕蒙|吕蒙}}\n{{板块|按钮|青丘戏坊/活动剧情/张仲景|张仲景}}\n{{板块|按钮|青丘戏坊/活动剧情/张郃|张郃}}\n{{板块|按钮|青丘戏坊/活动剧情/张飞|张飞}}\n{{板块|按钮|青丘戏坊/活动剧情/华佗|华佗}}\n</center>{{JS|Qiantao.js}}[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-戏学.png|100px|团建密探小头-戏学]]<br><br>\n'''戏学'''\n</center>\n='''<span style=\"color:#a06051\">初见对话&水榭戏台</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|戏学|啊，这些好吃的，小七真的都可以随意吃吗？|头像=q版-戏学|语音=戏学-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">水榭戏台</p>\n|\n{{对话-头}}\n{{对话语音|戏学|学生献丑……哎呀，殿下别笑呀。|头像=q版-戏学|语音=戏学-水榭戏台}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#a06051\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签\n|-\n| [[file:应援火把.png|30px|应援火把]][[应援火把|应援火把]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=应援火把|对应援火把的喜好=|语音=|性格标签=/|语音内容=啊哈哈！我喜欢火！是不是还要喊口号？殿下——殿下——殿下——}}</nowiki>\">啊哈哈！我喜欢火！是不是还要喊口号？殿下——殿下——殿下——</span>\n|| /\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:手持幅巾.png|30px|手持幅巾]][[手持幅巾|手持幅巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=手持幅巾|对手持幅巾的喜好=喜欢|语音=|性格标签=穿花衣|语音内容=我喜欢色彩鲜艳的东西。燕子也是五彩斑斓的呀，殿下仔细看过吗？}}</nowiki>\">我喜欢色彩鲜艳的东西。燕子也是五彩斑斓的呀，殿下仔细看过吗？</span>\n|| {{色块|命盘蓝|穿花衣}}\n|-\n|[[file:千里镜.png|30px|千里镜]][[千里镜|千里镜]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=千里镜|对千里镜的喜好=|语音=|性格标签=拐一下|语音内容=是这么看吗？殿下见笑，小七没见过好东西，都不知道怎么用……不像袁长公子，什么奇珍异宝都难讨他的欢心呢。}}</nowiki>\">是这么看吗？殿下见笑，小七没见过好东西，都不知道怎么用……不像袁长公子，什么奇珍异宝都难讨他的欢心呢。</span>\n|| {{色块|命盘红|拐一下}}\n|[[file:鼓掌拍.png|30px|鼓掌拍]][[鼓掌拍|鼓掌拍]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=鼓掌拍|对鼓掌拍的喜好=|语音=|性格标签=/|语音内容=能不能多拿一些放在墓碑上，风一吹，整个墓林都是鼓掌赞同之声，多悦耳。}}</nowiki>\">能不能多拿一些放在墓碑上，风一吹，整个墓林都是鼓掌赞同之声，多悦耳。</span>\n||/\n|-\n|[[file:耳塞（青丘戏坊）.png|30px|耳塞（青丘戏坊）]][[耳塞（青丘戏坊）|耳塞]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=耳塞（青丘戏坊）|对耳塞（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=殿下是嫌弃学生吵闹吗？}}</nowiki>\">殿下是嫌弃学生吵闹吗？</span>\n|| /\n| [[file:应援扇.png|30px|应援扇]][[应援扇|应援扇]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=应援扇|对应援扇的喜好=|语音=|性格标签=烧起来了|语音内容=扇来扇去的，心里的火反而愈燃愈烈呢。}}</nowiki>\">扇来扇去的，心里的火反而愈燃愈烈呢。</span>\n|| {{色块|绿|烧起来了}}\n|-\n| [[file:瓜子.png|30px|瓜子]][[瓜子|瓜子]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=瓜子|对瓜子的喜好=|语音=|性格标签=/|语音内容=有回饿得眼睛发绿，和燕子抢到一个瓜，打开发现瓤早瘪了，只能瓜皮瓜子一起吞，吞了很久，嚼得脸都痛了，肚子还是很饿。}}</nowiki>\">有回饿得眼睛发绿，和燕子抢到一个瓜，打开发现瓤早瘪了，只能瓜皮瓜子一起吞，吞了很久，嚼得脸都痛了，肚子还是很饿。</span>\n|| /\n| [[file:铃鼓.png|30px|铃鼓]][[铃鼓|铃鼓]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=铃鼓|对铃鼓的喜好=|语音=|性格标签=/|语音内容=铃鼓声音太大，会听不清贵人那些弦外之音的。}}</nowiki>\">铃鼓声音太大，会听不清贵人那些弦外之音的。</span>\n|| /\n|-\n| [[file:号筒.png|30px|号筒]][[号筒|号筒]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=号筒|对号筒的喜好=|语音=|性格标签=/|语音内容=小七出身又低，长辈又不在身边，还好有殿下教导。殿下要吩咐什么话，小七都会听着呀。}}</nowiki>\">小七出身又低，长辈又不在身边，还好有殿下教导。殿下要吩咐什么话，小七都会听着呀。</span>\n|| /\n| [[file:博具（青丘戏坊）.png|30px|博具（青丘戏坊）]][[博具（青丘戏坊）|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=博具（青丘戏坊）|对博具（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=我们这么小的身家，最多算是案上的肉，连筹码都算不上呢。}}</nowiki>\">我们这么小的身家，最多算是案上的肉，连筹码都算不上呢。</span>\n|| /\n|-\n| <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:冰饮子（青丘戏坊）.png|30px|冰饮子（青丘戏坊）]][[冰饮子（青丘戏坊）|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=冰饮子（青丘戏坊）|对冰饮子（青丘戏坊）的喜好=喜欢|语音=|性格标签=阴阳怪气|语音内容=啊……好凉……嗯？长公子也做过同样的表情、说过同样的话吗？哎呀，那小七真是班门弄斧。}}</nowiki>\">啊……好凉……嗯？长公子也做过同样的表情、说过同样的话吗？哎呀，那小七真是班门弄斧。</span>\n|| {{色块|命盘蓝|阴阳怪气}}\n|[[file:糕饼（青丘戏坊）.png|30px|糕饼（青丘戏坊）]][[糕饼（青丘戏坊）|糕饼]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=糕饼（青丘戏坊）|对糕饼（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=没有哪种欲望能比饥饿更痛苦，不相信的人大多没饿过。}}</nowiki>\">没有哪种欲望能比饥饿更痛苦，不相信的人大多没饿过。</span>\n|| /\n|-\n|[[file:果子露-紫.png|30px|果子露-紫]][[果子露（青丘戏坊）|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=果子露（青丘戏坊）|对果子露（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=喝醉了的话，小七说不定会脚步不稳呢，殿下可不要避开太远……}}</nowiki>\">喝醉了的话，小七说不定会脚步不稳呢，殿下可不要避开太远……</span>\n|| /\n|[[file:果盘（青丘戏坊）.png|30px|果盘（青丘戏坊）]][[果盘（青丘戏坊）|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=果盘（青丘戏坊）|对果盘（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=第一次吃到的水果是半个跺烂的梨，现在还记得那个味道。}}</nowiki>\">第一次吃到的水果是半个跺烂的梨，现在还记得那个味道。</span>\n|| /\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:投壶.png|30px|投壶]][[投壶|投壶]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=投壶|对投壶的喜好=讨厌|语音=|性格标签=/|语音内容=用箭杀人的人，投壶会不中吗？}}</nowiki>\">用箭杀人的人，投壶会不中吗？</span>\n|| /\n| [[file:赏钱.png|30px|赏钱]][[赏钱|赏钱]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=戏学|喜好物品=赏钱|对赏钱的喜好=|语音=|性格标签=/|语音内容=哎呀，谢谢殿下呀，毕竟，贵人指缝里漏一点，足够穷人吃整年。}}</nowiki>\">哎呀，谢谢殿下呀，毕竟，贵人指缝里漏一点，足够穷人吃整年。</span>\n|| /\n|}\n\n='''<span style=\"color:#a06051\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|戏学|殿下如何看刚刚那个角色？学生认为火候没有把握好，有些用力过猛呢。|头像=q版-戏学}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|戏学|殿下经常看戏吗？台上台下好像都在演戏呢。|头像=q版-戏学}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|戏学|我们在看戏台上的人，戏台上的人是不是也在看我们？|头像=q版-戏学}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#a06051\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|戏学|就算喝多了也会把我送回去的吧……会的吧？……会的吧？|头像=q版-戏学}}\n{{旁白|戏学喝下一杯果子露}}\n{{对话|戏学|好酒。哈，学别人喝完说“好酒”，其实学生没有见识，哪里分得出酒的好赖……|头像=q版-戏学}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|戏学|总是这样，会让人有一种输得起的错觉。|头像=q版-戏学}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|戏学|王侯输了，不也还是王侯吗。|头像=q版-戏学}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|戏学|殿下海量！殿下豪气！|头像=q版-戏学}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#a06051\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">总装模做样会累吗？</div>\n{{对话-头}}\n{{对话|我|总装模做样会累吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|戏学|哎呀，殿下真是的……小七什么都没有装呀……|头像=q版-戏学}}\n{{对话|戏学|别别别揪发髻……！揪乱了很难梳的！|头像=q版-戏学}}\n{{对话|戏学|大家明明都在装，怎么只说我一个人啊？|头像=q版-戏学}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>为什么老针对袁基？</div>\n{{对话-头}}\n{{对话|我|为什么老针对袁基？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|戏学|每次针对他，殿下的表情都很有趣，让人很难不想再来一次。|头像=q版-戏学}}\n{{对话|戏学|哈……他拥有太多，还每每自艾自怜，谁会不心生嫉恨呀……|头像=q版-戏学}}\n{{对话|戏学|就连殿下问出这个问题，我都会恨。|头像=q版-戏学}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>为什么喜欢绿色？</div>\n{{对话-头}}\n{{对话|我|为什么喜欢绿色？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|戏学|论品级，学生只能服青、绿，不能服朱、紫呀。|头像=q版-戏学}}\n{{对话|戏学|唔……真话？……真话是……绿色多好呀，绿色显年轻。|头像=q版-戏学}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>最近开心的事是？</div>\n{{对话-头}}\n{{对话|我|最近开心的事是？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|戏学|今天就很开心。|头像=q版-戏学}}\n{{对话|戏学|什么都不用做，就能和燕子、兔吃一整天饱饭。|头像=q版-戏学}}\n{{对话-尾}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情/张燕|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

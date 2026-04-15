@@ -1,0 +1,429 @@
+{
+  "title": "幽州慨飒宫/活动剧情/杨修",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "杨修"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "真松快啊......可以暂时忘记身份......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "一会泡完温泉，开两局？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "泡温泉为什么不能戴头冠？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "没意思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "我的脸没红，不许看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "有点意思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "挺有意思嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "慢点喝，怎么像个兵痞似的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "更擅长哪种形式的赌局？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "都——擅长，赌注越大的越擅长。对方稍微生怯，我就能把他的筹码按下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "玩一局啊，我可以让让你。啊......啊啊！你出老千！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "喜欢吃甜还是吃辣？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "都吃，但更喜欢做得辣一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "话说，刚刚上的那个辣辣软软的是什么？明明是给人吃的，为什么叫猫条？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "会因为赌注过大而收手吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "哈？这种问题也要问本公子？赌局一开，不论赌注大小，只论输赢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "何况，这世间还没有什么本公子出不起的赌注。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "什么时候会感到无聊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "一直赢或者一直猜得透的时候。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=温泉-杨修-Q版",
+      "emotion": "没劲，聪明人太少，勉勉强强能玩。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头杨修brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''杨修'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "classyuantable1 style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px温泉蛋温泉蛋"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好寡淡，有酱料吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px澡豆澡豆"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"什么澡豆？就是豆粉就是豆粉。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鬃刷鬃刷"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"还挺舒服……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"诶，别碰到我的头冠就行/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px熏炉熏炉"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"啊，手感不错。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px陶搓石陶搓石"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"本公子才不用这乡下东西，你......放那就行。/span"
+    },
+    {
+      "type": "narration",
+      "text": "怕痒"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好精巧的小点心，有茶水相配吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"你就用这么简单的东西招待我？/span"
+    },
+    {
+      "type": "narration",
+      "text": "骄矜"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰块冰块"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"赌一赌它多久会化干净 ?/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px海盐海盐"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"还挺特别，为本公子准备的?/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px博具博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我问你的女官有没有六博，她给了我一个馍吃！/span"
+    },
+    {
+      "type": "narration",
+      "text": "馏馍"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px牛乳牛乳"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我又不是小孩，才不用这个……勉强陪你用用吧 。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px炙肉拼盘炙肉拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"食材还不错，调味有待提高。/span"
+    },
+    {
+      "type": "narration",
+      "text": "中辣谢谢"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"怎么用这个装，上次那套纯金酒器呢？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px木鸭木鸭"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好粗糙的做工……又没钱了？怎么不找本公子？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这些吃食还像点样子蜜瓜怎么没切成小块 ?/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao更擅长哪种形式的赌局？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao喜欢吃甜还是吃辣？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao会因为赌注过大而收手吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"什么时候会感到无聊？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BD%E5%B7%9E%E6%85%A8%E9%A3%92%E5%AE%AB/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E6%9D%A8%E4%BF%AE",
+  "crawled_at": "2026-04-12T22:09:28.788041",
+  "raw_wikitext": "{{面包屑|活动剧情|幽州慨飒宫/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:幽州慨飒宫背景.png}}}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/鸢使|鸢使}}\n{{板块|按钮|幽州慨飒宫/活动剧情/崔烈|崔烈}}\n{{板块|按钮|幽州慨飒宫/活动剧情/楼班|楼班}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨阜|杨阜}}\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|阿蝉}}\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|王异}}\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|史子眇}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|陈登}}\n{{板块|按钮|幽州慨飒宫/活动剧情/刘繇|刘繇}}\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|孙尚香}}\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|程昱}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨修|杨修}}\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|徐庶}}\n{{板块|按钮|幽州慨飒宫/活动剧情/张闿|张闿}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-杨修.png|100px|团建密探小头-杨修]]<br><br>\n'''杨修'''\n</center>\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=yuantable1 style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签\n|-\n| [[file:温泉蛋.png|30px|温泉蛋]][[温泉蛋|温泉蛋]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=温泉蛋|对温泉蛋的喜好=|语音=|性格标签=/|语音内容=好寡淡，有酱料吗？}}</nowiki>\">好寡淡，有酱料吗？</span>\n||/\n| [[file:澡豆.png|30px|澡豆]][[澡豆|澡豆]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=澡豆|对澡豆的喜好=|语音=|性格标签=/|语音内容=什么澡豆？就是豆粉就是豆粉。}}</nowiki>\">什么澡豆？就是豆粉就是豆粉。</span>\n||/\n|-\n| [[file:鬃刷.png|30px|鬃刷]][[鬃刷|鬃刷]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=鬃刷|对鬃刷的喜好=|语音=|性格标签=/|语音内容=还挺舒服……}}</nowiki>\">还挺舒服……</span>\n||/\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=诶，别碰到我的头冠就行}}</nowiki>\">诶，别碰到我的头冠就行</span>\n||/\n|-\n| [[file:熏炉.png|30px|熏炉]][[熏炉|熏炉]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=熏炉|对熏炉的喜好=|语音=|性格标签=/|语音内容=啊，手感不错。}}</nowiki>\">啊，手感不错。</span>\n|| /\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:陶搓石.png|30px|陶搓石]][[陶搓石|陶搓石]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=陶搓石|对陶搓石的喜好=讨厌|语音=|性格标签=怕痒|语音内容=本公子才不用这乡下东西，你......放那就行。}}</nowiki>\">本公子才不用这乡下东西，你......放那就行。</span>\n||怕痒\n|-\n| [[file:糕饼.png|30px|糕饼]][[糕饼|糕饼]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=糕饼|对糕饼的喜好=|语音=|性格标签=/|语音内容=好精巧的小点心，有茶水相配吗？}}</nowiki>\">好精巧的小点心，有茶水相配吗？</span>\n||/\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=素巾|对素巾的喜好=讨厌|语音=|性格标签=骄矜|语音内容=你就用这么简单的东西招待我？}}</nowiki>\">你就用这么简单的东西招待我？</span>\n||骄矜\n|-\n|[[file:冰块.png|30px|冰块]][[冰块|冰块]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=冰块|对冰块的喜好=|语音=|性格标签=/|语音内容=赌一赌它多久会化干净 ?}}</nowiki>\">赌一赌它多久会化干净 ?</span>\n|| /\n| [[file:海盐.png|30px|海盐]][[海盐|海盐]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=海盐|对海盐的喜好=|语音=|性格标签=/|语音内容=还挺特别，为本公子准备的?}}</nowiki>\">还挺特别，为本公子准备的?</span>\n|| /\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:博具.png|30px|博具]][[博具|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=博具|对博具的喜好=喜欢|语音=|性格标签=馏馍|语音内容=我问你的女官有没有六博，她给了我一个馍吃！}}</nowiki>\">我问你的女官有没有六博，她给了我一个馍吃！</span>\n||馏馍\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:牛乳.png|30px|牛乳]][[牛乳|牛乳]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=牛乳|对牛乳的喜好=喜欢|语音=|性格标签=/|语音内容=我又不是小孩，才不用这个……勉强陪你用用吧 。}}</nowiki>\">我又不是小孩，才不用这个……勉强陪你用用吧 。</span>\n|| /\n|-\n| [[file:炙肉拼盘.png|30px|炙肉拼盘]][[炙肉拼盘|炙肉拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=炙肉拼盘|对炙肉拼盘的喜好=|语音=|性格标签=中辣谢谢|语音内容=食材还不错，调味有待提高。}}</nowiki>\">食材还不错，调味有待提高。</span>\n||中辣谢谢\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=果子露|对果子露的喜好=讨厌|语音=|性格标签=/|语音内容=怎么用这个装，上次那套纯金酒器呢？}}</nowiki>\">怎么用这个装，上次那套纯金酒器呢？</span>\n|| /\n|-\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:木鸭.png|30px|木鸭]][[木鸭|木鸭]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=木鸭|对木鸭的喜好=讨厌|语音=|性格标签=/|语音内容=好粗糙的做工……又没钱了？怎么不找本公子？}}</nowiki>\">好粗糙的做工……又没钱了？怎么不找本公子？</span>\n|| /\n| [[file:果盘.png|30px|果盘]][[果盘|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨修|喜好物品=果盘|对果盘的喜好=|语音=|性格标签=/|语音内容=这些吃食还像点样子蜜瓜怎么没切成小块 ?}}</nowiki>\">这些吃食还像点样子蜜瓜怎么没切成小块 ?</span>\n|| /\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|杨修|真松快啊......可以暂时忘记身份......|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|杨修|一会泡完温泉，开两局？|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|杨修|泡温泉为什么不能戴头冠？|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|杨修|没意思。|头像=温泉-杨修-Q版}}\n{{旁白|【杨修喝下一杯果子露】}}\n{{对话|杨修|我的脸没红，不许看！|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|杨修|有点意思。|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|杨修|挺有意思嘛。|头像=温泉-杨修-Q版}}\n{{旁白|【我喝下一杯果子露。】}}\n{{对话|杨修|慢点喝，怎么像个兵痞似的。|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n<br>\n|}\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=xihao>更擅长哪种形式的赌局？</div>\n{{对话-头}}\n{{对话|我|更擅长哪种形式的赌局？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨修|都——擅长，赌注越大的越擅长。对方稍微生怯，我就能把他的筹码按下。|头像=温泉-杨修-Q版}}\n{{对话|杨修|玩一局啊，我可以让让你。啊......啊啊！你出老千！|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>喜欢吃甜还是吃辣？</div>\n{{对话-头}}\n{{对话|我|喜欢吃甜还是吃辣？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨修|都吃，但更喜欢做得辣一点。|头像=温泉-杨修-Q版}}\n{{对话|杨修|话说，刚刚上的那个辣辣软软的是什么？明明是给人吃的，为什么叫猫条？|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>会因为赌注过大而收手吗？</div>\n{{对话-头}}\n{{对话|我|会因为赌注过大而收手吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨修|哈？这种问题也要问本公子？赌局一开，不论赌注大小，只论输赢。|头像=温泉-杨修-Q版}}\n{{对话|杨修|何况，这世间还没有什么本公子出不起的赌注。|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=\"xihao\" style=\"\">什么时候会感到无聊？</div>\n{{对话-头}}\n{{对话|我|什么时候会感到无聊？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨修|一直赢或者一直猜得透的时候。|头像=温泉-杨修-Q版}}\n{{对话|杨修|没劲，聪明人太少，勉勉强强能玩。|头像=温泉-杨修-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

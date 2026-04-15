@@ -1,0 +1,1327 @@
+[
+  {
+    "id": "q_lvbu_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事03",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "冀州",
+    "text": "「我从长安杀出来，你见到我第一句话，居然是问我为什么要杀人？」——吕布站在城门前，浑身浴血。如果你是他，面对广陵王的质问——",
+    "options": [
+      {
+        "label": "A",
+        "text": "「不杀人，我拿什么走到这里？」",
+        "scores": {
+          "S5": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「我杀的是该杀之人。」",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「你若觉得不对，就去告官。」",
+        "scores": {
+          "S5": 2,
+          "S9": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布的回答是：「我从长安杀出来。」他没有解释，也没有辩驳。行动本身就是他的全部语言。"
+  },
+  {
+    "id": "q_lvbu_02",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "吕布",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你率领一支饥肠辘辘的军队路过一座城池。城中富庶，守军不过千人。粮草官来报：最多撑三日。你的选择是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "攻城夺粮，活着的人才有资格讲道理。",
+        "scores": {
+          "S5": 5,
+          "S10": 1
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先派使者谈判，谈不成再动手。",
+        "scores": {
+          "S5": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "绕城而行，向后方求援，不能劫掠百姓。",
+        "scores": {
+          "S5": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这个场景来自吕布密探故事——「粮草未至，沿途的军粮，我们就自己解决了。」"
+  },
+  {
+    "id": "q_lvbu_03",
+    "dimension": "S5",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事03",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "冀州",
+    "text": "「不用管。带走这里所有能带的，去打下一座城。」——吕布说完这句话，转头看向广陵王。如果你是吕布，战后第一时间做什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "清点战利品和伤亡，立刻下令行军，一刻不停。",
+        "scores": {
+          "S5": 5,
+          "S8": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "让将士们休整半日，伤者先处理，然后出发。",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坐下来商议下一步战略，等所有情报汇总再行动。",
+        "scores": {
+          "S5": 2,
+          "S3": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布的原话是：「躺在那的是袁基的医师，留给你们了，算是义气了，出发。」——上一秒还在分配战利品，下一秒已经出发。"
+  },
+  {
+    "id": "q_lvbu_04",
+    "dimension": "S5",
+    "cross_dimension": "S7",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「能往前杀，何必往后退。」——面对一道看似无解的困局，你更认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "困局不是用来想的，是用来杀穿的。",
+        "scores": {
+          "S5": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先退一步看清全貌，再决定怎么往前。",
+        "scores": {
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "后退也是一种策略，活着才能继续打。",
+        "scores": {
+          "S5": 2,
+          "S1": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "A来自吕布的战场哲学：「能往前杀，何必往后退。」B是多数谋士的做法。C是张辽式的务实。"
+  },
+  {
+    "id": "q_lvbu_05",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "刺董之后",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "洛阳",
+    "text": "刺杀董卓之后，袁氏承诺招纳西凉军却迟迟不兑现。吕布带兵找到广陵王，要和袁氏当面对质。面对袁氏的推诿，你说什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「去告诉他，吕布来了，要和他当面对质。」",
+        "scores": {
+          "S7": 5,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「他的承诺，你替他做主吗？」——冷笑质问。",
+        "scores": {
+          "S7": 4,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「那你们两人，一个回到袁氏图谋徐州",
+        "scores": {
+          "S7": 5,
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕布三句话连说，没有一句多余——先是叫板，再是质问，最后点出对方忘记的东西。这不是谈判，是最后通牒。"
+  },
+  {
+    "id": "q_lvbu_06",
+    "dimension": "S7",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事02",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "下邳",
+    "text": "有人派死士假扮医师试图刺杀吕布。吕布看穿后，只说了一句话。如果是你，你会怎么说？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「不要想用死士假装医师，试图拖延过去。」",
+        "scores": {
+          "S7": 5,
+          "S4": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「我知道你们的事。」——点到为止。",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "沉默拔刀，让刀说话。，值得深思",
+        "scores": {
+          "S7": 4,
+          "S5": 5,
+          "S4": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕布的原话是：「不要想用死士假装医师，试图拖延过去。我知道你们的事。」他连嘲讽都懒得铺陈。"
+  },
+  {
+    "id": "q_lvbu_07",
+    "dimension": "S7",
+    "cross_dimension": "S6",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你们只是没有亲自当过禽兽，但这天下的禽兽十有八九都是被你们逼出来的。」——面对一群衣冠楚楚的人指责你手段残忍，你更可能——",
+    "options": [
+      {
+        "label": "A",
+        "text": "把话甩回去：你们的手也不干净。",
+        "scores": {
+          "S7": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "懒得解释，转身就走。",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "沉默不语，他们不会懂的。",
+        "scores": {
+          "S7": 2,
+          "S6": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这是吕布最锋利的台词之一。他没有为自己辩护，而是撕开了对方伪善的面具。"
+  },
+  {
+    "id": "q_lvbu_08",
+    "dimension": "S7",
+    "cross_dimension": "S9",
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，哪句更接近你的说话风格？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「话那么多，口不渴吗？」",
+        "scores": {
+          "S7": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「那是废物要考虑的东西。」",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都是吕布的原话。前者是嫌人多嘴，后者是嫌人想太多。吕布的语言风格：能一个字说完的事，绝不用两个字。"
+  },
+  {
+    "id": "q_lvbu_09",
+    "dimension": "S9",
+    "cross_dimension": "S5",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事03",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "冀州",
+    "text": "「那你们俩就可以分开。张辽，带她回留县。」——吕布用命令的语气安排张辽和广陵王。如果你是统帅，面对下属的私人感情——",
+    "options": [
+      {
+        "label": "A",
+        "text": "军令如山，私人感情留到战后再说。",
+        "scores": {
+          "S9": 5,
+          "S2": 4,
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先完成任务，私下会给他们安排。",
+        "scores": {
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不强求，但会给出建议。",
+        "scores": {
+          "S9": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布的命令从不含糊。但他后来又托付广陵王照顾张辽和阿蝉——命令是给外人的，托付是给自己的。"
+  },
+  {
+    "id": "q_lvbu_10",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "吕布",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你是一支军队的统帅。有人问你：「你为什么要令诸侯？」你怎么回答？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我为什么要令诸侯？」——反问回去",
+        "scores": {
+          "S9": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「因为天下需要一个能打的人。」",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「我不令诸侯，我只是要活下去。」",
+        "scores": {
+          "S9": 2.5,
+          "S6": 1
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "吕布被问「你为什么要令诸侯」时的回答是反问——「我为什么要令诸侯？」在他看来，权力不是目标，是手段。"
+  },
+  {
+    "id": "q_lvbu_11",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事-酒誓",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "「我这一生，几乎没有求人要过何物。奴隶的索求毫无意义，但是，我今夜问你要一样东西。」——吕布端起酒杯。如果是你，在今夜，你最可能——",
+    "options": [
+      {
+        "label": "A",
+        "text": "什么都不说，端起酒杯一饮而尽。，值得深思",
+        "scores": {
+          "S2": 3.5,
+          "S7": 2.5,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "问他：「你要什么？」——直接接住他的话。",
+        "scores": {
+          "S2": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "也倒一杯酒递给他，说：「西凉人的规矩，我懂。」",
+        "scores": {
+          "S2": 1,
+          "S6": 2,
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布极少开口求人。那句「几乎没有」三个字比任何告白都重。酒誓是西凉人最严肃的仪式——喝对方的酒，就是向牛王起誓。"
+  },
+  {
+    "id": "q_lvbu_12",
+    "dimension": "S2",
+    "cross_dimension": "S8",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「杀人简单，还是爱人简单？」——如果有人这样问你，你会怎么回答？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「都简单。都累。」",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「爱人简单。恨才累。」",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「不好说。爱是很累的东",
+        "scores": {
+          "S2": 2,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布的回答是：「不好。爱是很累的东西。」他把所有感情都压进了两个动作里：倒一杯酒，留一条活路。"
+  },
+  {
+    "id": "q_lvbu_13",
+    "dimension": "S8",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "托付",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "战事将起，胜负未卜。吕布对广陵王说出最后的话：「无论张辽以后的胜败，不要猜忌他，给他一个去处。给阿蝉一个去处。」如果是你，临别时最可能——",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我答应你。」——不多说一个字。",
+        "scores": {
+          "S8": 2,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「你自己呢？你的去处呢？」",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「放心，我会替你照看他们。」",
+        "scores": {
+          "S8": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "吕布把自己的所有人托付出去，却没有给自己留一个去处。他的温柔藏在这些省略号里——「如果我败了……」"
+  },
+  {
+    "id": "q_lvbu_14",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "下邳",
+    "text": "在绣衣楼里，你注意到一个密探从不参加聚会。他总是一个人在角落里喝酒，酒杯永远是满的。某天你路过他身边，他说了一句：「你还有一杯酒没有喝完。」你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "坐下来，端起那杯酒，和他一起喝。",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "点点头，但不坐下——他可能只是随口一说。",
+        "scores": {
+          "S8": 2.5,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "笑着说「留着下次喝吧」，然后走开。",
+        "scores": {
+          "S8": 2,
+          "S7": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "在代号鸢中，这是吕布最接近「挽留」的方式——不是命令，是一句关于酒的提醒。"
+  },
+  {
+    "id": "q_lvbu_15",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "吕布",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你先后效力于三位主公——第一位待你如奴仆，第二位背信弃义，第三位尚且未知。有人指责你「三姓家奴」。你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「不成为所有人的敌人，就会成为",
+        "scores": {
+          "S10": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「忠义要看对象值不值得。」",
+        "scores": {
+          "S10": 2.5,
+          "S6": 2,
+          "S3": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「骂便骂吧，我的刀不认姓氏。」",
+        "scores": {
+          "S10": 2,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布的逻辑是：秩序只保护制定秩序的人，不保护他这样的奴隶。所以他从不遵守秩序。"
+  },
+  {
+    "id": "q_lvbu_16",
+    "dimension": "S10",
+    "cross_dimension": "S5",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人有了足够多的东西才会崩溃，人一无所有，就无所畏惧。」——你觉得这句话对吗？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说得对。失去一切反而自由。",
+        "scores": {
+          "S10": 1,
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不完全对，人没有退路时会拼命",
+        "scores": {
+          "S10": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不对，有东西可守才有战斗力。",
+        "scores": {
+          "S10": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是吕布的生存哲学——他从奴隶到将军，始终一无所有，也因此无所畏惧。秩序和财产，对他来说都是枷锁。"
+  },
+  {
+    "id": "q_lvbu_17",
+    "dimension": "S6",
+    "cross_dimension": "S7",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事03",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "冀州",
+    "text": "「等征讨黑山归来再放人。冀州地界上若是断粮，广陵王就是军粮。」——吕布扣押了广陵王。如果是你，面对一个必须合作的盟友，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接扣留，威胁对方：「不合作就是军粮。」",
+        "scores": {
+          "S6": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "扣留，但保证对方安全，当作谈判筹码。",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不会扣留盟友，用别的方式施压。",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕布把广陵王当军粮威胁，但最终没有伤害她——对「自己人」，他有一条看不见的底线。"
+  },
+  {
+    "id": "q_lvbu_18",
+    "dimension": "S6",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事03",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "冀州",
+    "text": "审讯俘虏时，吕布只说了三句话：「再仔细想想。你还能说一句话。」「再说一句。」对方崩溃了。如果是你审讯——",
+    "options": [
+      {
+        "label": "A",
+        "text": "用沉默和压迫感让对方自己开口。",
+        "scores": {
+          "S6": 2,
+          "S7": 1,
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直接用刑，省时省力。，值得深思",
+        "scores": {
+          "S6": 1,
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "先给对方一条活路，用希望撬开嘴。",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕布的审讯方式是心理压迫——不是打，是让对方自己意识到还有一句话的机会。残忍但高效。"
+  },
+  {
+    "id": "q_lvbu_19",
+    "dimension": "S1",
+    "cross_dimension": "S10",
+    "type": "story_anon",
+    "source_character": "吕布",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人给你出了一个连环计：先假意投降，再里应外合，最后在宴席上动手。你的反应是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「想杀一个人，就把刀拿起来。",
+        "scores": {
+          "S1": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「计是好计，但谁去假意投降？」",
+        "scores": {
+          "S1": 3,
+          "S4": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「不用这么复杂。正面打就是了。」",
+        "scores": {
+          "S1": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布的谋略风格：不玩阴谋。他的名言是「能往前杀何必往后退」——在他看来，所有计谋都不如一刀来得直接。"
+  },
+  {
+    "id": "q_lvbu_20",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "下邳",
+    "text": "战后缴获大量金银珠宝。将士们请示如何分配。你是主将，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「有什么抢什么而已。拿走能带的",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "按军功分配，多劳多得，公平合理。",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "自己不要，全分给士兵。，值得深思",
+        "scores": {
+          "S3": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布对物质毫无兴趣——「一无所有就无所畏惧」是他的生存信条。但他也不会刻意拒绝，只是不关心。"
+  },
+  {
+    "id": "q_lvbu_21",
+    "dimension": "S4",
+    "cross_dimension": "S8",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人在宴席上当众嘲笑你的出身：「不过是个买来的奴隶。」满座寂静。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「是啊。你买得起吗？」——冷笑，不带怒意。",
+        "scores": {
+          "S4": 2,
+          "S7": 5,
+          "S6": 1,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不动声色，假装没听见，继续喝酒。",
+        "scores": {
+          "S4": 3.5,
+          "S6": 2.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拍桌而起，让在场所有人都记住这个教训。",
+        "scores": {
+          "S4": 2,
+          "S7": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布从不掩饰自己的奴隶出身。他的面具不是伪装，是坦率——坦率到残忍。"
+  },
+  {
+    "id": "q_lvbu_22",
+    "dimension": "S5",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事-密探故事",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "冀州",
+    "text": "「她随军便是。不必另行招待。」——吕布对广陵王随军的安排。如果你是统帅，你会怎么安排一个重要的盟友？",
+    "options": [
+      {
+        "label": "A",
+        "text": "让她跟着我，走哪算哪，不需要特殊照顾。",
+        "scores": {
+          "S5": 5,
+          "S9": 5,
+          "S8": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "安排在中军，派亲兵保护。，值得深思",
+        "scores": {
+          "S5": 3,
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "安排在后方安全地带，战场不是她该来的地方。",
+        "scores": {
+          "S5": 2,
+          "S9": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吕布不会为任何人改变行军节奏——但他让广陵王「随军」，这已经是最大的妥协。"
+  },
+  {
+    "id": "q_lvbu_23",
+    "dimension": "S2",
+    "cross_dimension": "S8",
+    "type": "story_anon",
+    "source_character": "吕布",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个人给你倒了一杯酒，说：「喝一口。喝了这杯酒，我此生就只认你一个人。」这杯酒，你喝吗？",
+    "options": [
+      {
+        "label": "A",
+        "text": "端起来一口喝完，不需要犹豫。",
+        "scores": {
+          "S2": 3.5,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "先问清楚：这杯酒意味着什么。",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "犹豫很久，最终还是喝了。",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "西凉人的酒誓是最重的承诺——「向牛王起誓」。吕布用这种方式告白，因为他不知道怎么用语言说出口。"
+  },
+  {
+    "id": "q_lvbu_24",
+    "dimension": "S10",
+    "cross_dimension": "S5",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在绣衣楼，你接到两个冲突的命令：一个是楼主的，一个是广陵王的。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "谁的命令对我有利，就听谁的。",
+        "scores": {
+          "S10": 2,
+          "S9": 1,
+          "S3": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "先执行楼主的，再向广陵王解释。",
+        "scores": {
+          "S10": 4,
+          "S9": 3,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "取决于谁更值得追随，不是谁命令的。",
+        "scores": {
+          "S10": 2.5,
+          "S9": 1,
+          "S6": 1
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "吕布先后叛丁原、叛袁氏，他的标准从来不是忠诚，而是谁让他活着、谁让他打仗。"
+  },
+  {
+    "id": "q_lvbu_25",
+    "dimension": "S7",
+    "cross_dimension": "S4",
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，哪句更接近你的处世态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「青史也不是我写的。不是我写的就与我无关。」",
+        "scores": {
+          "S10": 1,
+          "S7": 4,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「想杀人就把刀拿起来。想睡一个人，就拉住对方。」",
+        "scores": {
+          "S5": 5,
+          "S7": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都是吕布的原话。A是他的历史观——不在乎名声，只在乎当下。B是他的人生观——想要什么就直接做。"
+  },
+  {
+    "id": "q_lvbu_26",
+    "dimension": "S1",
+    "cross_dimension": "S7",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事02",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": "下邳",
+    "text": "吕布质问袁氏使者：「他承诺过，刺董得手后，袁氏会招纳西凉军。他的承诺，你替他做主吗？」——面对上位者食言，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接找当事人对质，不在中间人身上浪费时间。",
+        "scores": {
+          "S1": 2,
+          "S5": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "先收集筹码，再坐到谈判桌上。",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "假装不知道，继续等——急的是他们。",
+        "scores": {
+          "S1": 4,
+          "S4": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕布的做法是A——带兵上门，当面质问。他不玩权谋，但他的刀本身就是最强的筹码。"
+  },
+  {
+    "id": "q_lvbu_27",
+    "dimension": "S6",
+    "cross_dimension": "S10",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「无论是投靠董卓、投靠袁氏，还是投靠你，陷阵营都只是为了一件事。」——你觉得这「一件事」是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活着。，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 2,
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "打胜仗。，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 5,
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "找到一个值得效忠的人。，值得深思",
+        "scores": {
+          "S10": 4,
+          "S6": 3.5,
+          "S3": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "吕布没有明说这「一件事」是什么——但结合他的全部经历，答案或许是「活下去，然后继续打仗」。"
+  },
+  {
+    "id": "q_lvbu_28",
+    "dimension": "S5",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "吕布",
+    "source_story": "密探故事-密探故事",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "「你为什么每次都自己说服自己，而不是抓一个人当众剖开？」——吕布对广陵王说。如果你是谋士，面对一个用暴力解决问题的人，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「因为剖开一个人解决不了问题。」——试图说服他。",
+        "scores": {
+          "S5": 2,
+          "S1": 4,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「……你说得有道理。」——被他动摇。",
+        "scores": {
+          "S5": 4,
+          "S7": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "沉默。你知道他说的是对的，但你做不到。",
+        "scores": {
+          "S5": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "吕布的逻辑简单到可怕——能用暴力解决的事，为什么要费脑子？这句话击碎了很多谋士的自信。"
+  },
+  {
+    "id": "q_lvbu_29",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「强者不需要理由，弱者才需要借口。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「强者不需要理由，弱者才需要借口。」——你怎么看？",
+        "scores": {
+          "S1": 3.5,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「战斗不是为了证明什么，而是因为这是唯一会做的事。」——你认同吗？",
+        "scores": {
+          "S1": 4,
+          "S6": 3,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「所谓的忠诚，不过是你找到了一个值得效忠的人。」——你的看法？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S3": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "力量本能、战斗宿命、忠诚定义——吕布的三重人格。"
+  },
+  {
+    "id": "q_lvbu_30",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「他们说我三姓家奴，可谁又给过我一个不用背叛的理由？」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「他们说我三姓家奴，可谁又给过我一个不用背叛的理由？」——你怎么看？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「我不需要被理解，只需要被需要。」——你认同吗？",
+        "scores": {
+          "S1": 4,
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「天下人笑我又如何？天下人又有几个敢站在我面前？」——你的看法？",
+        "scores": {
+          "S1": 3.5,
+          "S9": 3,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "被误解的委屈、存在的价值、不屈的骄傲——吕布的孤独很少有人能懂。"
+  },
+  {
+    "id": "q_lvbu_31",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼举行武力比试，对手故意挑衅你。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "绣衣楼举行武力比试，对手故意挑衅你。你——",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "你接到一个潜入任务，但场地太小，你的武器施展不开。你——",
+        "scores": {
+          "S1": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "一位年轻密探害怕出任务，找你诉苦。你——",
+        "scores": {
+          "S1": 3,
+          "S9": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "武力、适应、意外温柔——吕布的反差在日常中展现。"
+  },
+  {
+    "id": "q_lvbu_32",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我就是我，不需要任何人来定义我是谁。」",
+        "scores": {
+          "S1": 3,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「如果能找到一个值得我用命去守护的人，我就心满意足了。」",
+        "scores": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "自我还是他者——吕布的答案可能比你想象的更柔软。"
+  }
+]

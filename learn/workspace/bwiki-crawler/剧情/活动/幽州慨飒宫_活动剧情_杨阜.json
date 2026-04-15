@@ -1,0 +1,429 @@
+{
+  "title": "幽州慨飒宫/活动剧情/杨阜",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "杨阜"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "在温泉中扎马步，可以一边练武，一边热敷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "我试试水中练功......啊！脖子扭到了......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "少年时在家中泡药浴，也是这样温暖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "这种拳也要苦练吗......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "我饮尽此杯！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "原来人生并非只有输赢......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "又多擅长了一种拳类。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "殿下豪迈，在下佩服。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最近见面最多的人是谁?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "呃，是医师......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "最近练功的时辰又增加了，受的伤也增加了......那个，能让傅副官上调一下我的医药报销额度吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "有没有什么赚钱方法的分享？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "和人搭台武斗，写一块「打一次五十，打赢不要钱」的牌子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "会有很多人想来看看自己能不能赢，打完才醒悟为什么要花钱打架……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最近一次很失落的事情是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "称不上失落……只是我没想到，阿蝉对于我，没有一点记忆……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "只有我还记得，只有我还记得……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "觉得自己有什么缺点？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "冲动，非常冲动，我要反思……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨阜",
+      "text": "头像=温泉-杨阜-Q版",
+      "emotion": "刚刚过去的是不是马超！来决一死战！"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头杨阜brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''杨阜'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "classyuantable1 style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px温泉蛋温泉蛋"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"多谢殿下，我分几块蛋白就好！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px澡豆澡豆"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"会使皮肤变得光滑？多谢楼主，我还是不用了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px鬃刷鬃刷"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"听说高速洗刷可以使皮肤变得坚硬……/span"
+    },
+    {
+      "type": "narration",
+      "text": "铁皮"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"多谢楼主，我会整理好仪容/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px熏炉熏炉"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这香气似乎能让人的睡眠变好....../span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px陶搓石陶搓石"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"嘶，伤口处结的痂被搓掉了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px糕饼糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"此物不利于在下强身练武……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"刚好用来敷我被她打肿的地方....../span"
+    },
+    {
+      "type": "narration",
+      "text": "热胀冷敷"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰块冰块"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"多谢楼主，我一定用此物强身淬体!/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px海盐海盐"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"用此物按摩可以缓解肌肉酸痛，多谢楼主！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"若是在博戏中胜过她……不行！这是惫懒之语！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px牛乳牛乳"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这是洗澡用的?那个……我能直接喝吗 ?/span"
+    },
+    {
+      "type": "narration",
+      "text": "想长身体"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px炙肉拼盘炙肉拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"优质蔬荣和肉类！多谢楼主！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好痛快，多谢楼主赐酒！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px木鸭木鸭"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"某些角度很像马氏那匹会狗叫的马……/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px果盘果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"可以补充体力了！/span"
+    },
+    {
+      "type": "narration",
+      "text": "再来一份"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"最近见面最多的人是谁?/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao有没有什么赚钱方法的分享？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao最近一次很失落的事情是什么？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao觉得自己有什么缺点？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BD%E5%B7%9E%E6%85%A8%E9%A3%92%E5%AE%AB/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E6%9D%A8%E9%98%9C",
+  "crawled_at": "2026-04-12T22:09:26.769293",
+  "raw_wikitext": "{{面包屑|活动剧情|幽州慨飒宫/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:幽州慨飒宫背景.png}}}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/鸢使|鸢使}}\n{{板块|按钮|幽州慨飒宫/活动剧情/崔烈|崔烈}}\n{{板块|按钮|幽州慨飒宫/活动剧情/楼班|楼班}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨阜|杨阜}}\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|阿蝉}}\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|王异}}\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|史子眇}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|陈登}}\n{{板块|按钮|幽州慨飒宫/活动剧情/刘繇|刘繇}}\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|孙尚香}}\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|程昱}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨修|杨修}}\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|徐庶}}\n{{板块|按钮|幽州慨飒宫/活动剧情/张闿|张闿}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-杨阜.png|100px|团建密探小头-杨阜]]<br><br>\n'''杨阜'''\n</center>\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=yuantable1 style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签\n|-\n| [[file:温泉蛋.png|30px|温泉蛋]][[温泉蛋|温泉蛋]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=温泉蛋|对温泉蛋的喜好=|语音=|性格标签=/|语音内容=多谢殿下，我分几块蛋白就好！}}</nowiki>\">多谢殿下，我分几块蛋白就好！</span>\n||/\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:澡豆.png|30px|澡豆]][[澡豆|澡豆]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=澡豆|对澡豆的喜好=讨厌|语音=|性格标签=/|语音内容=会使皮肤变得光滑？多谢楼主，我还是不用了......}}</nowiki>\">会使皮肤变得光滑？多谢楼主，我还是不用了......</span>\n||/\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:鬃刷.png|30px|鬃刷]][[鬃刷|鬃刷]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=鬃刷|对鬃刷的喜好=喜欢|语音=|性格标签=铁皮|语音内容=听说高速洗刷可以使皮肤变得坚硬……}}</nowiki>\">听说高速洗刷可以使皮肤变得坚硬……</span>\n||铁皮\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=多谢楼主，我会整理好仪容}}</nowiki>\">多谢楼主，我会整理好仪容</span>\n||/\n|-\n| [[file:熏炉.png|30px|熏炉]][[熏炉|熏炉]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=熏炉|对熏炉的喜好=|语音=|性格标签=/|语音内容=这香气似乎能让人的睡眠变好......}}</nowiki>\">这香气似乎能让人的睡眠变好......</span>\n|| /\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:陶搓石.png|30px|陶搓石]][[陶搓石|陶搓石]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=陶搓石|对陶搓石的喜好=讨厌|语音=|性格标签=/|语音内容=嘶，伤口处结的痂被搓掉了......}}</nowiki>\">嘶，伤口处结的痂被搓掉了......</span>\n||/\n|-\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:糕饼.png|30px|糕饼]][[糕饼|糕饼]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=糕饼|对糕饼的喜好=讨厌|语音=|性格标签=/|语音内容=此物不利于在下强身练武……}}</nowiki>\">此物不利于在下强身练武……</span>\n||/\n| [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=素巾|对素巾的喜好=|语音=|性格标签=热胀冷敷|语音内容=刚好用来敷我被她打肿的地方......}}</nowiki>\">刚好用来敷我被她打肿的地方......</span>\n||热胀冷敷\n|-\n|[[file:冰块.png|30px|冰块]][[冰块|冰块]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=冰块|对冰块的喜好=|语音=|性格标签=/|语音内容=多谢楼主，我一定用此物强身淬体!}}</nowiki>\">多谢楼主，我一定用此物强身淬体!</span>\n|| /\n| [[file:海盐.png|30px|海盐]][[海盐|海盐]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=海盐|对海盐的喜好=|语音=|性格标签=/|语音内容=用此物按摩可以缓解肌肉酸痛，多谢楼主！}}</nowiki>\">用此物按摩可以缓解肌肉酸痛，多谢楼主！</span>\n|| /\n|-\n| [[file:博具.png|30px|博具]][[博具|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=博具|对博具的喜好=|语音=|性格标签=/|语音内容=若是在博戏中胜过她……不行！这是惫懒之语！}}</nowiki>\">若是在博戏中胜过她……不行！这是惫懒之语！</span>\n|| /\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:牛乳.png|30px|牛乳]][[牛乳|牛乳]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=牛乳|对牛乳的喜好=喜欢|语音=|性格标签=想长身体|语音内容=这是洗澡用的?那个……我能直接喝吗 ?}}</nowiki>\">这是洗澡用的?那个……我能直接喝吗 ?</span>\n||想长身体\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:炙肉拼盘.png|30px|炙肉拼盘]][[炙肉拼盘|炙肉拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=炙肉拼盘|对炙肉拼盘的喜好=喜欢|语音=|性格标签=/|语音内容=优质蔬荣和肉类！多谢楼主！}}</nowiki>\">优质蔬荣和肉类！多谢楼主！</span>\n|| /\n| [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=果子露|对果子露的喜好=|语音=|性格标签=/|语音内容=好痛快，多谢楼主赐酒！}}</nowiki>\">好痛快，多谢楼主赐酒！</span>\n|| /\n|-\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:木鸭.png|30px|木鸭]][[木鸭|木鸭]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=木鸭|对木鸭的喜好=讨厌|语音=|性格标签=/|语音内容=某些角度很像马氏那匹会狗叫的马……}}</nowiki>\">某些角度很像马氏那匹会狗叫的马……</span>\n|| /\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:果盘.png|30px|果盘]][[果盘|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=杨阜|喜好物品=果盘|对果盘的喜好=喜欢|语音=|性格标签=再来一份|语音内容=可以补充体力了！}}</nowiki>\">可以补充体力了！</span>\n||再来一份\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|杨阜|在温泉中扎马步，可以一边练武，一边热敷。|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|杨阜|我试试水中练功......啊！脖子扭到了......|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|杨阜|少年时在家中泡药浴，也是这样温暖……|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|杨阜|这种拳也要苦练吗......|头像=温泉-杨阜-Q版}}\n{{旁白|【杨阜喝下一杯果子露】}}\n{{对话|杨阜|我饮尽此杯！|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|杨阜|原来人生并非只有输赢......|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|杨阜|又多擅长了一种拳类。|头像=温泉-杨阜-Q版}}\n{{旁白|【我喝下一杯果子露。】}}\n{{对话|杨阜|殿下豪迈，在下佩服。|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n<br>\n|}\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">最近见面最多的人是谁?</div>\n{{对话-头}}\n{{对话|我|最近见面最多的人是谁?|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨阜|呃，是医师......|头像=温泉-杨阜-Q版}}\n{{对话|杨阜|最近练功的时辰又增加了，受的伤也增加了......那个，能让傅副官上调一下我的医药报销额度吗？|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>有没有什么赚钱方法的分享？</div>\n{{对话-头}}\n{{对话|我|有没有什么赚钱方法的分享？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨阜|和人搭台武斗，写一块「打一次五十，打赢不要钱」的牌子。|头像=温泉-杨阜-Q版}}\n{{对话|杨阜|会有很多人想来看看自己能不能赢，打完才醒悟为什么要花钱打架……|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>最近一次很失落的事情是什么？</div>\n{{对话-头}}\n{{对话|我|最近一次很失落的事情是什么？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨阜|称不上失落……只是我没想到，阿蝉对于我，没有一点记忆……|头像=温泉-杨阜-Q版}}\n{{对话|杨阜|只有我还记得，只有我还记得……|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>觉得自己有什么缺点？</div>\n{{对话-头}}\n{{对话|我|觉得自己有什么缺点？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|杨阜|冲动，非常冲动，我要反思……|头像=温泉-杨阜-Q版}}\n{{对话|杨阜|刚刚过去的是不是马超！来决一死战！|头像=温泉-杨阜-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

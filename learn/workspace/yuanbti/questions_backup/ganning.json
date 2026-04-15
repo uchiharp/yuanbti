@@ -1,0 +1,393 @@
+[
+  {
+    "id": "q_ganning_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "甘宁",
+    "source_story": "路遇装伤",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "甘宁假装受伤倒在路边，对路过的广陵王说：「……你不像附近的狗，是外地来探亲的吗？这里可不太平……譬如我，只是想去探望孤寡的养母，便在途中被剪径贼打劫了。」他戴着面具装可怜，实则是锦帆寨的贼王。你怎么看这种「伪装示弱」？",
+    "options": [
+      {
+        "label": "A",
+        "text": "聪明——先让对方放下戒心，再图后事",
+        "scores": {
+          "S4": 4,
+          "S1": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "可以理解，乱世中伪装是一种生存技能",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不太喜欢，无论什么理由都不该欺骗善意",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "甘宁的「大耳朵宁」人设是他最成功的伪装。他真的需要骗你——因为他需要你。"
+  },
+  {
+    "id": "q_ganning_02",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "甘宁",
+    "source_story": "锦帆寨·困留凌统",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "甘宁对凌统说：「说一声'谢谢'，我就放了你。对，很简单的，我会把你救回来，给你治好伤，让你有享不尽的荣华富贵……还记得我呀，我感动得都要哭了。」他用恩情绑架想要离开的人。你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "救人是救人的事，留不留是对方的选择",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "付出这么多，想要回报也正常吧",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "我救了你的命，你就是我的人了，天经地义",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "甘宁的占有欲极强——他救了凌统，就认定凌统「欠」他。恩情在他手里是锁链。"
+  },
+  {
+    "id": "q_ganning_03",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "甘宁",
+    "source_story": "锦帆寨·规则分析",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "甘宁对凌统分析锦帆寨存在的原因：「如果居民想买凶杀犬又不想脏自己的爪爪，如果官员想清除政敌又想伪装成劫道……只要锦帆寨在，他们还能以便宜价格买到私盐。」你看透了哪些规则？",
+    "options": [
+      {
+        "label": "A",
+        "text": "乱世中黑白没有绝对界限，利益才是硬通货",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "知道规则，但不想利用规则，值得深思",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "规则就是用来打破的，我不在乎谁定的规矩",
+        "scores": {
+          "S1": 3.5,
+          "S10": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "甘宁对乱世规则的洞察极其清醒——他知道谁是坏人，也知道谁是更坏的人。"
+  },
+  {
+    "id": "q_ganning_04",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "甘宁",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「当不了良民还能落草为寇嘛！弱肉强食也比当流民活活饿死要好，你说呢？」一个人在良民和强盗之间选择了后者，因为前者活不下去。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "乱世逼人为盗，根源在朝廷不在草寇",
+        "scores": {
+          "S3": 2,
+          "S10": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "能理解，但我不认为这是唯一的选择",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "活着最重要，用什么手段是无所谓的事",
+        "scores": {
+          "S3": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这句话来自甘宁。他不是天生坏，是被遗弃、被欺负、被逼到绝路的人。"
+  },
+  {
+    "id": "q_ganning_05",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "甘宁",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个人笑着说：「试一下，就试一下下好不好？我答应你，你只要试一次，哪怕只是说一句脏话，哥哥就放过你。」他拼命想拉一个人跟他一起堕落。你觉得他为什么这么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "他太孤独了，需要有人和他一样，才觉得自",
+        "scores": {
+          "S8": 4,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "他只是想多一个帮手，利益驱动，值得深思",
+        "scores": {
+          "S8": 2,
+          "S3": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "他享受让别人堕落的过程，这是他的权力欲",
+        "scores": {
+          "S8": 1,
+          "S9": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "甘宁拉人入伙的方式像极了小时候没人跟他玩，于是拼命想说服别人：「试一下嘛，很好玩的。」——他只是太孤独了。"
+  },
+  {
+    "id": "q_ganning_06",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "甘宁",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我全名叫……大耳朵宁。因为耳朵特别大，出生就被遗弃了……呜呜……养母家里的兄弟姐妹们也都欺负我……呜呜……」一个人用哭诉博取同情，但你后来发现他在骗你。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先同情，被骗了就骗了，至少我善良过",
+        "scores": {
+          "S4": 2,
+          "S8": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "同情归同情，但会留个心眼验证真假",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "佩服他的演技——能在乱世靠哭活下去也是一种本事",
+        "scores": {
+          "S4": 4,
+          "S1": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "甘宁的「大耳朵宁」故事有真有假——遗弃是真的，欺负是真的，但骗你的那一刻，他是故意的。"
+  },
+  {
+    "id": "q_ganning_07",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你不好奇吗？不问问我是怎么长大的吗？不问问我是怎么变成这样的吗？我也有许多的不得已……我曾经……曾经也是个和你一样的人……」以下哪种态度最接近你？",
+    "options": [
+      {
+        "label": "A",
+        "text": "每个人都有过去，不该用过去定义一个人",
+        "scores": {
+          "S2": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "过去可以解释行为，但不能为恶行开脱",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "我不关心你的过去，我只看你现在做了什么",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "甘宁的这句剖白是全台词中最脆弱的时刻——他想要被理解，但同时又害怕被理解后的失望。"
+  },
+  {
+    "id": "q_ganning_08",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「哈哈哈……喂，我说你这种人啊，真的试试干坏事吧？很快乐的，你都没法想象。当好人简直是苦修，但干坏事是纯爽啊！」以下哪种说法最接近你的想法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "好人有好报，虽然难但值得",
+        "scores": {
+          "S6": 2,
+          "S10": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "好与坏不是绝对的，要看具体情境",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "规则是强者定的，好人只是没胆子",
+        "scores": {
+          "S6": 4,
+          "S7": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "甘宁不是在诱惑你做坏事——他是在邀请你理解他的世界。在他的世界里，「好人」是被欺负的代名词。"
+  },
+  {
+    "id": "q_ganning_09",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "锦帆寨新来了一个年轻的山贼，比你小几岁，总缠着你问「宁哥，为什么我们非要做坏事不可？」你怎么回答？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你以为我想？当不了良民就只能当贼。」",
+        "scores": {
+          "S7": 3,
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「做坏事怎么了？做强盗可比饿死有劲多了！」",
+        "scores": {
+          "S7": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「别问那么多，跟我就对了。」",
+        "scores": {
+          "S7": 2,
+          "S4": 3
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "甘宁可能会选B——他不是真的享受做坏事，但他需要用狂妄掩盖心酸。"
+  },
+  {
+    "id": "q_ganning_10",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我曾经……曾经也是个和你一样的人……」",
+        "scores": {
+          "S4": 3,
+          "S8": 4,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「真的试试干坏事吧？很快乐的，你都没法想象。」",
+        "scores": {
+          "S4": 4,
+          "S7": 4,
+          "S6": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "两句都来自甘宁。A是他最脆弱的时刻，B是他最习惯的面具。他每天都在两句话之间切换。"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "程昱_s1_01",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "程昱",
+    "text": "程昱说「绣衣楼的书房真好睡汪」。作为判官，他擅自在绣衣楼休息，试探你的底线。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「睡醒了？该谈正事了」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "既承认他的行为又拉回正题，温和博弈→S1:3"
+      },
+      {
+        "label": "B",
+        "text": "说「睡够了就出去」",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "强硬回应，确立主权→S1:5"
+      },
+      {
+        "label": "C",
+        "text": "笑着问「睡得香吗？」",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "顺从他的节奏，不进行博弈→S1:1"
+      }
+    ],
+    "reveal": "程昱说「绣衣楼的书房真好睡汪」。作为判官，他擅自在绣衣楼休息..."
+  },
+  {
+    "id": "程昱_s6_02",
+    "type": "angst",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "程昱",
+    "text": "程昱对你说「救人乃是天性，欲见其生，不欲见其死呀」。这个食人者却在谈救人的天性，极为矛盾。",
+    "options": [
+      {
+        "label": "A",
+        "text": "直视他，「你真的信自己说的话吗」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接挑战他的道德矛盾→S6:5"
+      },
+      {
+        "label": "B",
+        "text": "沉默，不回应",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避道德拷问→S6:1"
+      },
+      {
+        "label": "C",
+        "text": "说「你的天性很复杂」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "间接评价，不直面矛盾→S6:3"
+      }
+    ],
+    "reveal": "「救人乃是天性，欲见其生，不欲见其死呀。」——程昱在朝歌之战中的自我辩解"
+  },
+  {
+    "id": "程昱_s3_03",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "程昱",
+    "text": "程昱在帮助一对母女后说：「不知今天留给那对母女的黄米，够她们吃多久……我先去内室调些草药，明日再去看看她们。」他在用实际行动帮助弱者。",
+    "options": [
+      {
+        "label": "B",
+        "text": "说「我和你一起去调药」",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "参与行动，提供实际帮助→S3:5"
+      },
+      {
+        "label": "C",
+        "text": "说「需要什么药材我准备」",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "口头支持但无实际行动→S3:1"
+      },
+      {
+        "label": "A",
+        "text": "说「你心真好」",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "评价但不行动→S3:3"
+      }
+    ],
+    "reveal": "「不知今天留给那对母女的黄米，够她们吃多久……我先去内室调些草药，明日再去看看她们。」——程昱的矛盾善举"
+  },
+  {
+    "id": "程昱_s4_05",
+    "type": "funny",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "程昱",
+    "text": "程昱被指控偷东西时，突然切换成动物化的语气表演：「哎呀，是判官，真是回廊上的稀客汪。」「人家、人家偷东西了嗷呜？是污蔑呜……唔噗——」他在用动物化的面具隐藏真实意图。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「演够了？」",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "直白揭穿表演→S4:5"
+      },
+      {
+        "label": "B",
+        "text": "配合他，「那你解释一下？」",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "顺着他的戏演下去→S4:3"
+      },
+      {
+        "label": "C",
+        "text": "忍不住笑出声",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "被面具迷惑，不深究→S4:1"
+      }
+    ],
+    "reveal": "「哎呀，是判官，真是回廊上的稀客汪。」「人家、人家偷东西了嗷呜？是污蔑呜……唔噗——」——程昱的动物化表演"
+  },
+  {
+    "id": "chengyu_s10_1",
+    "type": "classic",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "chengyu",
+    "text": "程昱对众人说「这条楼船上如今藏龙卧虎。二位还是去桂花舱房小坐等候船宴开始如何」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说好那我们就恭敬不如从命",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "遵守主人安排的规矩→S10:5"
+      },
+      {
+        "label": "B",
+        "text": "说船宴还有多久我想先转转",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "不完全遵守但也不破坏→S10:3"
+      },
+      {
+        "label": "C",
+        "text": "说我去哪不用你安排",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接拒绝不受规矩约束→S10:1"
+      }
+    ],
+    "reveal": "程昱是绣衣楼的老前辈，对规矩礼仪非常讲究。"
+  }
+]

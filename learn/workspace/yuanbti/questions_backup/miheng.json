@@ -1,0 +1,803 @@
+[
+  {
+    "id": "q_miheng_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "嬉皮笑脸",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「嘻嘻嘻，道爷我最喜欢桃子了吼喽。」祢衡的嬉皮笑脸是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的性格开朗，这说明了一些问题",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "铠甲——第一层面具用",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在装得了一时装不了一世",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡的三层面具——嬉皮笑脸是铠甲。"
+  },
+  {
+    "id": "q_miheng_02",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "冬至还恩",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「不肖徒先给师父叩头了。」全角色最严肃的一句话，祢衡的情感？",
+    "options": [
+      {
+        "label": "A",
+        "text": "难得认真的道歉，值得关注",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "当祢衡不笑了那才是最",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在做戏，从中可以看出他的",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "祢衡不笑的时候——才是最重的温柔。"
+  },
+  {
+    "id": "q_miheng_03",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "狗屁规矩",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「山下规矩都是狗屁不通的规矩。」祢衡对秩序的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "叛逆期而已，这说明了一",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看透了规则本质——嚼子",
+        "scores": {
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "纯粹的混乱制造者，值得关注",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "祢衡的反秩序——不是虚无主义而是拒绝束缚弱者的伪秩序。"
+  },
+  {
+    "id": "q_miheng_04",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "成仙选择",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「心口旧伤处有个声音一直在说让我成仙。没了牵挂人成仙就飘荡走了就是孤寂一人了。」祢衡的底线？",
+    "options": [
+      {
+        "label": "A",
+        "text": "想成仙但舍不得走",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "底线是回得去——不成",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在矫情，从中可以看出",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "祢衡选择了牵挂——这是他唯一的秩序。"
+  },
+  {
+    "id": "q_miheng_05",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "吼喽满天飞",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「刘辩你个耙耳朵。」祢衡的锋芒特点？",
+    "options": [
+      {
+        "label": "A",
+        "text": "嘴巴太毒了，这说明了一些问题",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "猫伸爪子——看起来凶",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在骂人取乐，这说明了一些问题",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "祢衡的锋芒——声音越大杀伤力越小。"
+  },
+  {
+    "id": "q_miheng_06",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "卧底华胥",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「我若是今天帮华胥杀你们，我就是新一任的幽梦。」以赌徒身份成功卧底华胥，说明祢衡？",
+    "options": [
+      {
+        "label": "A",
+        "text": "胆子大，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "说干就绝不犹豫——猫，值得深思",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不要命，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡——想到就做绝不犹豫。"
+  },
+  {
+    "id": "q_miheng_07",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "权谋鄙视",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「道德就是上面的人给下面的人绑的嚼子。」祢衡对权谋的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说得很对，从中可以看出他",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不是没有脑子而是不屑于用",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在为自己的行为找借口",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡的聪明是猫式的——灵活敏锐善于脱身但从不设局。"
+  },
+  {
+    "id": "q_miheng_08",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "祢衡",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "一个人对你说「师弟你知道吗？我今天可差点有个新名字了。」语气嬉皮笑脸但内容沉重。你怎么理解？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在开玩笑，从中可以看出他的真实想法",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "面具裂缝中漏出来的光，值得深思",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在求安慰，从中可以看出他的真实想法",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡的温柔——最深的秘密藏在嘻嘻哈哈里。"
+  },
+  {
+    "id": "q_miheng_09",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "祢衡",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「道爷我生下来就是要列位仙班的。」一个人把最大的秘密用最骄傲的语气说出来。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的这么自信，这说明了一些问题",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "既是真话也是最好的谎言",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在吹牛，从中可以看出他的真实想法",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡——面具戴得太久偶尔卸下时反而更动人。"
+  },
+  {
+    "id": "q_miheng_10",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "祢衡",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「他气啥子？他就知道气。」对权威的这种态度说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不怕权威，从中可以看",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "叛逆的儿子心态——不",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "，故意点燃对方的怒火",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡对权力——本能的排斥，像猫对规矩的不屑。"
+  },
+  {
+    "id": "q_miheng_11",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你身边有个坏人。」对掌权者说出这种话需要什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不要命，从中可以看出",
+        "scores": {
+          "S2": 3,
+          "S7": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "不在乎后果的真诚",
+        "scores": {
+          "S2": 4,
+          "S9": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在试探是最冒险的游戏",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡——对曹操说这话时毫无顾忌。"
+  },
+  {
+    "id": "q_miheng_12",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「道德就是上面的人给下面的人绑的嚼子。人还喜欢用道德标榜自己炫耀自己的嚼子镶了金。」你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太极端了，从中可以看",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "最清醒的解构——但选",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在为不道德找借口",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "祢衡——看透了嚼子的本质但选择留下。"
+  },
+  {
+    "id": "q_miheng_13",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你的远远远房亲戚看着好愁哦。」骂人的同时给弱者善意。你觉得这种锋芒？",
+    "options": [
+      {
+        "label": "A",
+        "text": "分裂的，从中可以看出他的真实想法",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "选择性锋芒——只刺权，值得深思",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在表演善良，这说明了一些问题",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "祢衡——锋芒之外的善意。"
+  },
+  {
+    "id": "q_miheng_14",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "你在赌场赢了钱但被人追债。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "跑路，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 4,
+          "S3": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "留下来还钱，这说明了一些问题",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "借钱再赌一把翻倍，值得关注",
+        "scores": {
+          "S5": 3.5,
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "祢衡——欠赌债就去杀人抵债，极端务实。"
+  },
+  {
+    "id": "q_miheng_15",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "有人当众批评你。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "嘻皮笑脸糊弄过去，值得关注",
+        "scores": {
+          "S4": 4,
+          "S7": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "认真听然后反驳，值得关注",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接骂回去，这说明了一些问题",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "祢衡——吼喽满天飞但很少真正伤人。"
+  },
+  {
+    "id": "q_miheng_16",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "你有一个师父对你很好但你很久没回去了。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "找个时间回去看看",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "嘴上说着不回去但心里",
+        "scores": {
+          "S2": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "太忙了顾不上，",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡——冬至还恩的一跪是最重的温柔。"
+  },
+  {
+    "id": "q_miheng_17",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "你被迫加入一个你不喜欢但必须潜伏的组织。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "老老实实潜伏等机会",
+        "scores": {
+          "S5": 3,
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "混成组织里最受欢迎的",
+        "scores": {
+          "S5": 4,
+          "S1": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "直接跑路，从中可以看",
+        "scores": {
+          "S5": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "祢衡——以赌徒身份成功卧底华胥。"
+  },
+  {
+    "id": "q_miheng_18",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "祢衡",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "一个人赌债缠身但从不为此焦虑。你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "没心没肺，从中可以看",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "极度务实——欠了就还",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "，逃避是最远的路",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡——钱不是目的，是回家的路费。"
+  },
+  {
+    "id": "q_miheng_19",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一只不肯飞升的猫。你觉得这个比喻说的是什么样的人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "没志气的猫，这说明了一些问题",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "选择留下因为地上有人，值得深思",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "飞不起来，从中可以看出他的真",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡——本可以成仙但选择留下。"
+  },
+  {
+    "id": "q_miheng_20",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「心口旧伤处有个声音让我成仙。没了牵挂就是孤寂",
+        "scores": {
+          "S6": 3.5,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「山下规矩都是狗屁不通的规矩。」，值得深思",
+        "scores": {
+          "S10": 2,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都来自祢衡——选择牵挂还是选择自由。"
+  },
+  {
+    "id": "q_miheng_21",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "祢衡",
+    "source_story": "行动派",
+    "route_hint": null,
+    "city_hint": "西蜀",
+    "text": "「我要去和凌统约战！」想干就干绝不犹豫。这种行动风格？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太冲动不经过思考",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "猫式的行动力——灵活",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "有自信的表现，",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "祢衡——一只随时可以跑的猫。"
+  }
+]

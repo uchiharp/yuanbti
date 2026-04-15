@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q_gehong_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": [
+      "交趾线"
+    ],
+    "city_hint": "交趾",
+    "text": "你精通方术，世人多将你视为「神人」或「妖人」。有人高价请你施展法术为他治病，但你知道这只是心病，需要的是心药而非仙术。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接告诉他真相，劝他去看大夫",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用一些无害的仪式让他安心，再暗中引导",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "将计就计，利用他的迷信心理施加心理暗",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自葛洪的密探故事——他善于利用世人对方术的认知来达成目的。"
+  },
+  {
+    "id": "q_gehong_02",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你掌握了某种可以改变时局的力量（方术/秘法），有人想用它来做一件你认为不对的事。他承诺事成之后给你想要的一切。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "拒绝，此术不可用于此道，值得深思",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "提出交换条件，让结果往好的方向偏移",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "表面答应，暗中布局将此事转化为对自",
+        "scores": {
+          "S1": 4,
+          "S9": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "葛洪兼具方士的神秘与谋士的算计，善于借力打力。"
+  }
+]

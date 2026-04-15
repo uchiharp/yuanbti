@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "q_zhangmiao_01",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "三子之局",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「一子为天子，一子为狼子，一子为疯子。」张邈设计天下棋局时对棋子的态度是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "天子最关键必须全力保护",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "三种棋子各有用途需灵活调配",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "棋子终究是棋子可以随时牺牲",
+        "scores": {
+          "S1": 4,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的三子是可替换的工具。"
+  },
+  {
+    "id": "q_zhangmiao_02",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "日常伪装",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「没什么，我天生爱笑。」张邈笑着说出最沉重的话，他的笑容意味着？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真心觉得有趣，这说明了一些问题",
+        "scores": {
+          "S4": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "习惯性社交礼貌不希望",
+        "scores": {
+          "S4": 3,
+          "S6": 2,
+          "S10": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "最危险的面具笑着递刀",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的笑是全游戏最沉重的武器。"
+  },
+  {
+    "id": "q_zhangmiao_03",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "秩序之道",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「道德相杀，永远比刀兵相杀好。」张邈的理想社会形态是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "以德服人仁义治天下",
+        "scores": {
+          "S10": 2,
+          "S9": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用可控的乱换取长久的治",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "乱世只能以暴制暴",
+        "scores": {
+          "S10": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张邈追求代价最小的乱局换取和平。"
+  },
+  {
+    "id": "q_zhangmiao_04",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "苍生之谋",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「当年学宫众人皆怀救世之志。如今只有我一人仍在为苍生而谋。」面对理想与现实的撕裂？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不如随波逐流，",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "明知是傻子也要做",
+        "scores": {
+          "S6": 3.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "承认人皆自私但用利益",
+        "scores": {
+          "S6": 4,
+          "S3": 3.5,
+          "S8": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈选择了最清醒的第三条路。"
+  },
+  {
+    "id": "q_zhangmiao_05",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "权力之道",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「人拿到彻底的权力之后总会被它敲骨吸髓。」张邈对权力的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "权力是必要工具，值得关注",
+        "scores": {
+          "S9": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "玩弄权力而非追逐权力",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "权力越大越好，这说明了一些问题",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张邈是权力的操盘手而非追逐者。"
+  },
+  {
+    "id": "q_zhangmiao_06",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "毒舌之刃",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「你把刘海理一理可能智力水平就回来了。」这种说话方式的特点？",
+    "options": [
+      {
+        "label": "A",
+        "text": "嘴欠忍不住损人，值得关注",
+        "scores": {
+          "S7": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用幽默消解紧张试探反应",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "锋芒毕露却不刺人笑着递刀",
+        "scores": {
+          "S7": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的毒舌是最高级的锋芒。"
+  },
+  {
+    "id": "q_zhangmiao_07",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「去吃颗蜜糖吧。」你最疲惫时一个运筹帷幄的人只说了这句话。你怎么理解？",
+    "options": [
+      {
+        "label": "A",
+        "text": "敷衍不在意我，这说明了一些问题",
+        "scores": {
+          "S2": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不善言辞但这已是最温柔",
+        "scores": {
+          "S2": 3.5,
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "刻意保持距离，这说明了一些问题",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "来自张邈——对广陵王最克制的温柔。"
+  },
+  {
+    "id": "q_zhangmiao_08",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "小陈与弟弟",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「小陈贤惠样都是县令了，我弟弟还会洗衣服缝缝补补，多少给个县令吧？」替弟弟求官说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真在乎弟弟前途",
+        "scores": {
+          "S8": 3,
+          "S4": 2,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "用玩笑包装真心",
+        "scores": {
+          "S8": 3.5,
+          "S4": 3,
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "把亲情也变成交易",
+        "scores": {
+          "S8": 2,
+          "S3": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张邈的温柔散落在小陈和弟弟身上。"
+  },
+  {
+    "id": "q_zhangmiao_09",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "行动暗线",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「傅融没死。我托了两位学弟在崖底兜着他。」张邈手无寸兵但行动力体现在？",
+    "options": [
+      {
+        "label": "A",
+        "text": "提前预判安插暗桩步步",
+        "scores": {
+          "S5": 4,
+          "S1": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "有资源就利用，",
+        "scores": {
+          "S5": 3,
+          "S3": 2,
+          "S1": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "谋士不该亲自行动",
+        "scores": {
+          "S5": 2,
+          "S6": 1,
+          "S1": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张邈的行动就是布局本身。"
+  },
+  {
+    "id": "q_zhangmiao_10",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「子时龙陨。你放了铃铛而我知道那是个铃铛。」面对比你看得更远的人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "愤怒于被算计，这说明了一些问题",
+        "scores": {
+          "S1": 2.5,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "佩服对方棋力开始警惕",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "兴奋遇到值得认真对待",
+        "scores": {
+          "S1": 4,
+          "S4": 3,
+          "S3": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "来自张邈——早已看穿广陵王的每一步。"
+  },
+  {
+    "id": "q_zhangmiao_11",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张邈",
+    "source_story": "谋士身价",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「我很贵的。」张邈对金钱的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的贪财，从中可以看",
+        "scores": {
+          "S3": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "钱是谈判筹码标价为筛",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "钱是工具赌注才是天下",
+        "scores": {
+          "S3": 4,
+          "S9": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的很贵不是虚言。"
+  },
+  {
+    "id": "q_zhangmiao_12",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「就算这样……还是会觉得……烟火和昙花真美啊。」在乱世中对美的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活着就够奢侈了，值得关注",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "正因为残酷才值得珍惜",
+        "scores": {
+          "S10": 3,
+          "S8": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "美是支撑活下去的理由",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "来自张邈。"
+  },
+  {
+    "id": "q_zhangmiao_13",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「为了让脑子清醒我拿来吊命的不是巫血。」病弱到吊命的人做最清醒的谋划你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可惜了该保重身体，值得关注",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用命换清醒必有非做不可的理由",
+        "scores": {
+          "S4": 3.5,
+          "S6": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "病弱是保护色让所有人低估他",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的病弱既是困境也是保护色。"
+  },
+  {
+    "id": "q_zhangmiao_14",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「爱有时候比恨可怖多了……好了我先走了。」说完就转身离开的人真正想表达什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的觉得可怕想逃，值得关注",
+        "scores": {
+          "S7": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "触及不敢面对的情感所以打断",
+        "scores": {
+          "S7": 3.5,
+          "S6": 2.5,
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "用先走了控制节奏停在有利位置",
+        "scores": {
+          "S7": 4,
+          "S9": 3.5,
+          "S1": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的每一次先走了都是精心计算的情感撤退。"
+  },
+  {
+    "id": "q_zhangmiao_15",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「支撑仁德和爱人的永远都是杀人的力量。」面对这个悖论？",
+    "options": [
+      {
+        "label": "A",
+        "text": "坚持仁德即使效率低",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "接受残酷手段但保留仁德目的",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "抛弃道德只用最有效的手段",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈选择了中道。"
+  },
+  {
+    "id": "q_zhangmiao_16",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人性只要存在一日哪怕手里唯有虚假的道德也会抡起来朝彼此砸得粉碎。」你对人性的看法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "人性本善环境使人变坏",
+        "scores": {
+          "S1": 2,
+          "S8": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有善有恶关键看制度",
+        "scores": {
+          "S1": 3,
+          "S6": 2.5,
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "本质自私道德只是遮羞布",
+        "scores": {
+          "S1": 4,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "C来自张邈的极端清醒。"
+  },
+  {
+    "id": "q_zhangmiao_17",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你不能只赌一代开国盛世然后跟着几百年血流成河。」面对功业与代价？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先解决眼前问题，值得关注",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "平衡当下与未来，值得关注",
+        "scores": {
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "必须考虑几百年后的格局",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的格局超越开国。"
+  },
+  {
+    "id": "q_zhangmiao_18",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「盛世就是没有刀兵人人吃饱饭了因为鸡毛蒜皮扯一整天头冠。」你对盛世的定义？",
+    "options": [
+      {
+        "label": "A",
+        "text": "人人有饭穿就是盛世",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有秩序有制度就是盛世",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "盛世就是无聊到可以吵架",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈对盛世的定义极尽反讽。"
+  },
+  {
+    "id": "q_zhangmiao_19",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "收到三封密信：袁氏邀宴、故人求助、暗桩汇报。先拆哪封？",
+    "options": [
+      {
+        "label": "A",
+        "text": "暗桩密信情报第一",
+        "scores": {
+          "S1": 4,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "故人求助于情不能拖",
+        "scores": {
+          "S8": 4,
+          "S6": 3.5,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "袁氏邀宴社交不可误",
+        "scores": {
+          "S3": 3.5,
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "拆信顺序暴露价值排序。"
+  },
+  {
+    "id": "q_zhangmiao_20",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "发现密探在暗中调查你的过去。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接质问不绕弯子",
+        "scores": {
+          "S4": 2,
+          "S7": 4,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "装作不知暗中观察",
+        "scores": {
+          "S4": 4,
+          "S1": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "旁敲侧击试探目的",
+        "scores": {
+          "S4": 3,
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张邈会选B。"
+  },
+  {
+    "id": "q_zhangmiao_21",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "下邳",
+    "text": "「殿下这次怎么又聪明了？差点害我露馅。」你精心布局被信任的人打乱了？",
+    "options": [
+      {
+        "label": "A",
+        "text": "生气告诉对方不许擅作主张",
+        "scores": {
+          "S5": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "庆幸对方不够聪明调整计划",
+        "scores": {
+          "S5": 3.5,
+          "S6": 2.5,
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "重新评估也许可以利用这个失误",
+        "scores": {
+          "S5": 4,
+          "S1": 3,
+          "S3": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈会选C。"
+  },
+  {
+    "id": "q_zhangmiao_22",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「道德相杀永远比刀兵相杀好。」",
+        "scores": {
+          "S10": 4,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「没有我乱局依然会起而且彻底失控。」",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都来自张邈。"
+  },
+  {
+    "id": "q_zhangmiao_23",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张邈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「等以后你自然而然地身处局中也许就能扛过去。」这话里藏着什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "对未来的乐观预判",
+        "scores": {
+          "S8": 2.5,
+          "S1": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "克制的鼓励——我不在",
+        "scores": {
+          "S8": 3.5,
+          "S6": 2.5,
+          "S4": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "预谋离开前的铺垫话",
+        "scores": {
+          "S8": 4,
+          "S4": 4,
+          "S1": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张邈的每句话都可能是一次无声告别。"
+  },
+  {
+    "id": "q_zhangmiao_24",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「自由不是想做什么就做什么，而是可以选择不做什么。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「自由不是想做什么就做什么，而是可以选择不做什么。」——你怎么看？",
+        "scores": {
+          "S1": 3,
+          "S6": 2,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「人活一世，总得有点自己真正想要的东西。」——你更认同？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「潇洒不是不在乎，而是在乎了也不表现出来。」——你的看法？",
+        "scores": {
+          "S1": 4,
+          "S6": 3.5,
+          "S2": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "约束中的自由、真实欲望、隐忍的潇洒——三种活法。"
+  },
+  {
+    "id": "q_zhangmiao_25",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在绣衣楼的酒宴上被灌了很多酒，有人趁机套你的话。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你在绣衣楼的酒宴上被灌了很多酒，有人趁机套你的话。你——",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "你负责押送一批重要物资，途中遇到暴雨和山洪，路被断了。你——",
+        "scores": {
+          "S1": 3.5,
+          "S8": 2.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "一位密探私下找你借钱，说是家里有急事。你——",
+        "scores": {
+          "S1": 4,
+          "S9": 3,
+          "S7": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "应变、坚持、善意——日常中的每个选择都在塑造你的为人。"
+  },
+  {
+    "id": "q_zhangmiao_26",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我这辈子没后悔过任何事，因为每一步都是我自己的选择。」",
+        "scores": {
+          "S1": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「人嘛，活得开心最重要，其他的都无所谓。」",
+        "scores": {
+          "S1": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "自主担当还是随遇而安——张邈式洒脱的两种解读。"
+  }
+]

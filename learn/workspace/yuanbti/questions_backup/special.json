@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "special_01",
+    "calibration_range": "entry",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "乱世之中，你认为成大事者最需要什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一支能征善战的军队，和一个值得追随的主公",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看得比所有人远三步的头脑，和不露声色的耐心",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "知己知彼，随机应变，能打则打不能打则走",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "直来直去的人信奉力量，步步为营的人信奉布局。你的选择，暴露了你处理问题的第一反应。"
+  },
+  {
+    "id": "special_02",
+    "calibration_range": "entry",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人这一辈子，能被一个人记得，就够了。」听到这句话，你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "太矫情了，活着的人还有很多事要做",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "说得对，如果没有牵挂，活着跟死了",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "记得就好，但也不必执着于此",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "情感的内敛与外露，从来不是对错之分——是你选择让世界看到多少真实的自己。"
+  },
+  {
+    "id": "special_03",
+    "calibration_range": "entry",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人送你一箱黄金，条件是你帮一个小忙。你的反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先看是什么忙——值得做的事不收钱也会做",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "黄金收下，忙也帮——天下没有白吃的午餐，各取所需",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "问清楚来龙去脉，再决定收不收、帮不帮，值得深思",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "对金钱的态度，折射的是你对「等价交换」这个规则的信奉程度。"
+  },
+  {
+    "id": "special_04",
+    "calibration_range": "entry",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你知道我每天演多少场戏吗？」——你如何理解这句话？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活得真累，不如做真实的自己",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "每个人都戴着面具，区别只是演得好不好",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "有些场合需要伪装，但不必天天演",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "面具不是虚伪——是在乱世中活下去的策略。你戴不戴，取决于你信不信「真实」是一种奢侈。"
+  },
+  {
+    "id": "special_05",
+    "calibration_range": "entry",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "前方有座敌军把守的关隘，强攻必败。探子回报还有一条鲜为人知的山间小路，但地形险恶。你选择——",
+    "options": [
+      {
+        "label": "A",
+        "text": "等，等到敌人露出破绽再出击",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "立刻走小路，冒险总比等死强",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "派斥候先探明小路情况，",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "冲动和谨慎之间，藏着你的行动哲学——是直觉先于思考，还是三思而后行？"
+  },
+  {
+    "id": "special_06",
+    "calibration_range": "entry",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "如果你的至交好友背叛了你，投靠了你的敌人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "绝不原谅，以后见面就是敌人",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "想办法利用这个「背叛者」，让他反过",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "想弄清楚他为什么背叛，再决定怎么办",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "底线是一道线还是一扇门——有些人画了就不动，有些人随时可以开。"
+  },
+  {
+    "id": "special_07",
+    "calibration_range": "entry",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在一场争执中，对方说了让你极为愤怒的话。你的回应方式是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "忍住不发火，用更冷静的方式让对方知道他错了",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "当场怼回去，话不用多但句句扎心，值得深思",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不会激烈回击，但会用冷淡的态度让对方知道自己越界了",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "锋芒不是脾气——是有能力一刀致命，但选择出不出鞘。"
+  },
+  {
+    "id": "special_08",
+    "calibration_range": "entry",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "深夜里，一个你很在乎的人喝醉了，靠在你肩上说胡话。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "把他扶到床上去，给他盖好被子，自己离开",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "陪他坐着，听他说完所有的胡话，然后告诉他「我在」",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "让他靠一会儿，等他清醒了再聊正事",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "温柔不是软弱——是在看到别人的脆弱时，选择靠近而不是后退。"
+  },
+  {
+    "id": "special_09",
+    "calibration_range": "entry",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "乱世之中，有人劝你自立为王。你内心真实的想法是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "没兴趣，我只想安安稳稳过自己的日子",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "王不王的不重要，但如果权力能让一切更好，我不会拒绝",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "看情况——如果形势逼我，我不会推辞",
+        "scores": {
+          "S9": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "对权力的渴望不是贪婪——是相信自己能比现在做得更好。"
+  },
+  {
+    "id": "special_10",
+    "calibration_range": "entry",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "军中有人违抗军令，按律当斩。但他是因为救了你的部下才耽误了军机。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "法不容情，按军令处置，事后厚待他的家人",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "功过相抵，免了这次，但下不为例",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "当众杖责以儆效尤，但保住性命",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "秩序维护者的信条：规则面前没有例外，但规则本身可以有人情味。"
+  },
+  {
+    "id": "special_11",
+    "calibration_range": "convergence",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你收到两份情报：一份来自老熟人，措辞模糊但指向明确；一份来自陌生密探，信息详尽但来源可疑。你更倾向于——",
+    "options": [
+      {
+        "label": "A",
+        "text": "两份交叉比对，找出共同点作为判断依据",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "先验证陌生密探的身份，再决定信哪份",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "两份都不全信，暗中派人去现场确认",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "权谋中档的微妙之处——不是不信人，而是不把所有筹码押在一个人身上。"
+  },
+  {
+    "id": "special_12",
+    "calibration_range": "convergence",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "一位地方官员来拜访，送了一车礼物。你知道他有所求。你打算——",
+    "options": [
+      {
+        "label": "A",
+        "text": "收下礼物，等他开口再决定帮不帮",
+        "scores": {
+          "S1": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "委婉拒收，但暗示他可以直接说诉求",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "收下礼物，同时派人调查他此行的真实目的",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "同样是「收礼」，背后的算计深度完全不同——你是被动等牌，还是主动摸牌？"
+  },
+  {
+    "id": "special_13",
+    "calibration_range": "convergence",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "一位密探完成任务回来，浑身是伤。他笑着说「小伤」。你注意到他在发抖。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "叫军医来处理，叮嘱他好好养伤",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "亲自给他倒杯热水，在他旁边坐一会儿",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "拍拍他的肩表示认可，然后询问任务细节",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "同样是关心，一句「好好养伤」和一杯热水之间，隔着一段让人心软的距离。"
+  },
+  {
+    "id": "special_14",
+    "calibration_range": "convergence",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人说：「真正的感情不需要说出来。」你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说得有理，行动比语言更真实",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不说出口，对方怎么知道？该说就得说",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "因人而异——有些人需要听",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "你是信奉「深情不言」还是「爱要大声说」——这个选择折射了你的情感表达方式。"
+  },
+  {
+    "id": "special_15",
+    "calibration_range": "convergence",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼经费紧张，你需要在两笔支出中取舍：修缮情报站，还是给密探们加月钱。你选择——",
+    "options": [
+      {
+        "label": "A",
+        "text": "修缮情报站——基础设施坏了，情报网就断了",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "加月钱——人心散了，情报站修好了也没用",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "先想办法筹措资金，两边都不要砍",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "务实的人算的是投入产出比——人是最大的投入，也是最大的产出。"
+  },
+  {
+    "id": "special_16",
+    "calibration_range": "convergence",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "一位商人愿意免费提供物资，但条件是在你的地盘上开设商铺。你的想法是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "免费物资固然好，但让他开店会有后患",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "谈个好价——物资按市价折算",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "可以接受，但限定商铺数量和经营范围",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "天下没有免费的午餐——但免费的午餐值多少钱，才是真功夫。"
+  },
+  {
+    "id": "special_17",
+    "calibration_range": "convergence",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "在社交场合，有人当众问你一个你不想回答的私人问题。你通常会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "微笑着转移话题，不给任何回答",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "编一个合理的说法搪塞过去，让对方信以为真",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "礼貌但坚定地说这个不方便透露",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "回避和伪装之间的距离，就是面具的厚度。"
+  },
+  {
+    "id": "special_18",
+    "calibration_range": "convergence",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「世界上最可怕的不是敌人，是睡在你身边的人。」你如何应对身边的不确定性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "信任身边的人，除非有明确的证据证明不可信",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "永远留一手，对谁都不交底，值得深思",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "大部分人可信，但关键信息只告诉极少数人",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "你的防备心有多强——是坦诚相待，还是未雨绸缪？"
+  },
+  {
+    "id": "special_19",
+    "calibration_range": "convergence",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "深夜传来急报：你的一个据点被围。你手下有足够的人手可以救援，但路途需要三个时辰。你选择——",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻集结人马出发，路上再制定计划",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先花一刻钟制定救援方案再出发",
+        "scores": {
+          "S5": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "派先锋部队先稳住局势，主力按计划出发",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "行动力的分野——是先跑起来再说，还是先想清楚再动？"
+  },
+  {
+    "id": "special_20",
+    "calibration_range": "convergence",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你的密探带回一个大胆的提议：「给我十个人，我今夜就能端掉敌方粮仓。」但成功率只有四成。你——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不行，四成太低，等更好的时机",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "去，但给他加派人手，提高到六成",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "可以试——四成已经不算低了",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "你的冒险阈值在哪里？四成算低还是算高——答案决定了你的人生走向。"
+  },
+  {
+    "id": "special_21",
+    "calibration_range": "convergence",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「为达目的可以不择手段」——你对这句话的态度是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "手段太脏会反噬，最终得不偿失，值得深思",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看什么目的——如果值得，手段可以灵活",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "有些手段无论如何不能用，但底线在哪里",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "底线从来不是一条线——它是一块灰色的地带，每个人在这里划定自己的边界。"
+  },
+  {
+    "id": "special_22",
+    "calibration_range": "convergence",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "审讯一名敌方俘虏，他宁死不招。你的审讯官建议用酷刑。你选择——",
+    "options": [
+      {
+        "label": "A",
+        "text": "禁止酷刑，用其他方式获取情报",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "允许适度施压，但不准伤及性命",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "如果他掌握的是关键情报，",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "当正义需要手段来支撑，你愿意为此支付多大的代价？"
+  },
+  {
+    "id": "special_23",
+    "calibration_range": "convergence",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "会议上，一位你不太欣赏的下属提出了一个不错的方案。你会怎么回应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "点头认可，简单说一句「可以」，值得深思",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "当众表扬他的想法，但补充几个需要改进的地方",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「不错，比我预想的好。」——带着一点意外的肯定",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "锋芒不一定要怼人——有时候一句居高临下的肯定，比直接批评更扎心。"
+  },
+  {
+    "id": "special_24",
+    "calibration_range": "convergence",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「说话太直容易得罪人。」你觉得——",
+    "options": [
+      {
+        "label": "A",
+        "text": "确实，所以说话要注意分寸和场合",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "该直就直，得罪人总比说假话强",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "可以直，但要找到让对方听得进去的方式",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "锋芒是天赋也是代价——你愿意为「说真话」付多大的社交成本？"
+  },
+  {
+    "id": "special_25",
+    "calibration_range": "convergence",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "一位年轻密探第一次出任务失败，躲在角落里偷偷哭。你路过看到了。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "当作没看到——让他自己消化，哭完了就好了",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "走过去蹲下来，什么也不说，递给他一方帕子",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "叫另一个密探去安慰他，自己不去打扰",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "温柔有时候不是说什么——而是在别人最难的时候，选择不转身离开。"
+  },
+  {
+    "id": "special_26",
+    "calibration_range": "convergence",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「温柔是一种力量，也是一种选择。」你的看法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "乱世之中，温柔是弱者的自我安慰",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "温柔确实需要勇气，但不是所有场合都适用",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "正因为世道残酷，温柔才显得格外珍贵",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "你对温柔的定义——是多余的奢侈，还是乱世中最后的体面？"
+  },
+  {
+    "id": "special_27",
+    "calibration_range": "convergence",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你的势力逐渐壮大，有人建议你兼并周边的小势力以扩大版图。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先稳固内部，不急着扩张",
+        "scores": {
+          "S9": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "择优兼并，但以招安为主、武力为辅",
+        "scores": {
+          "S9": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "先分析哪些势力值得兼并，哪些不碰",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "权力的边界在哪里——是被动等待，还是主动出击？"
+  },
+  {
+    "id": "special_28",
+    "calibration_range": "convergence",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「不想当将军的士兵不是好士兵。」你对这句话的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "各司其职就好，不是每个人都想往上爬",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有道理，但也要看自己有没有那个能力",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "说得对——与其被人领导，不如自己来",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "权力的欲望不是原罪——关键是你用它来成就什么。"
+  },
+  {
+    "id": "special_29",
+    "calibration_range": "convergence",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你的密探中有人违反了绣衣楼的内部规定，但初衷是为了救人。你决定——",
+    "options": [
+      {
+        "label": "A",
+        "text": "功过分开算——救人记功，违规照罚",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "这次就算了，口头警告一下",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "内部记过但不公开，给他一个改过的机会",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "规矩是铁板还是弹簧——你的选择决定了手下人信奉什么样的秩序。"
+  },
+  {
+    "id": "special_30",
+    "calibration_range": "convergence",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「规矩是人定的，也可以由人来改。」你的看法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "规矩可以改，但要走正当的程序",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "规矩该改就改，不必拘泥于形式",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "看情况——有些规矩该守，有些确实该与时俱进",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "秩序的信徒不等于僵化——而是相信改变也要按规则来。"
+  },
+  {
+    "id": "special_31",
+    "reverse_pair": "q_yuanji_01",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在利益谈判中，你最不信任对方的哪种做法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "口蜜腹剑——嘴上说得好听，背地里算计",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "直来直去——虽然粗鲁但不藏着掖着",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "反复变卦——说好的条件一转眼就改",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与粮草谈判题配对。你最讨厌的做法，恰恰反映了你自己的行事风格——厌恶什么，往往说明你不用什么。"
+  },
+  {
+    "id": "special_32",
+    "reverse_pair": "q_liubian_01",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "面对至亲之人的永别，你最不想做的事是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "当众崩溃——在最需要冷静的时候失态",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "假装不在乎——明明心在滴血却面无表情",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "纠缠不休——反复追问「为什么」不肯放手",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与刘辩崇德殿诀别题配对。你最不愿做的事，暴露了你真实的情感模式——你是压抑型还是释放型。"
+  },
+  {
+    "id": "special_33",
+    "reverse_pair": "q_guojia_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你更不信任哪种人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "表面真诚但心里藏着刀的人",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "从不伪装、想什么说什么的人",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "看情况再决定信不信的人",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与郭嘉船宴自曝题配对。你对「面具人」的厌恶程度，恰恰说明你对面具的理解有多深。"
+  },
+  {
+    "id": "special_34",
+    "reverse_pair": "q_guojia_02",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下哪种行为最让你无法接受？",
+    "options": [
+      {
+        "label": "A",
+        "text": "为保全自己而牺牲同伴",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "明知不可为而为之，白白送命",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "两面三刀，墙头草随风倒",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与郭嘉牺牲阿和题配对。你最不能接受的行为，就是你底线所在的位置。"
+  },
+  {
+    "id": "special_35",
+    "reverse_pair": "q_zhouyu_01",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下哪种感情方式最让你觉得不安？",
+    "options": [
+      {
+        "label": "A",
+        "text": "为一个人付出一切、不留退路",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "嘴上说着不在乎、行为上却处",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "忽冷忽热，让人摸不透，值得深思",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与周瑜三千轮回题配对。让你不安的方式，往往是你自己最不擅长的——你信奉的，和你害怕的，是同一枚硬币的两面。"
+  },
+  {
+    "id": "special_36",
+    "reverse_pair": "q_furong_02",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你最反感哪种对待下属的方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用感情绑架——「我对你这么好，你怎么能不卖命」",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "只谈钱不谈情——冷冰冰的雇佣关系",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "画饼充饥——承诺了很多却从不兑现",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与傅融待遇题配对。你反感的方式，暴露了你信奉的等价交换原则——是「谈钱伤感情」还是「谈感情伤钱」。"
+  },
+  {
+    "id": "special_37",
+    "reverse_pair": "q_guojia_03",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下哪种说话风格最让你不舒服？",
+    "options": [
+      {
+        "label": "A",
+        "text": "拐弯抹角、话里有话，让你猜来猜去",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "过于直白尖锐，毫不顾忌别人的感受",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "表面客客气气，暗地里句句扎心",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "与郭嘉毒舌题配对。你最不舒服的风格，往往是你自己最擅长的方式——你看不惯的，可能就是镜子里的自己。"
+  },
+  {
+    "id": "special_38",
+    "reverse_pair": "q_yuanji_02",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在一场多方博弈中，你最不想成为哪种角色？",
+    "options": [
+      {
+        "label": "A",
+        "text": "棋手——操控一切的人",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "旁观者——看破但不说破的人",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "棋子——被别人摆布的人",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "与袁基船宴博弈题配对。你最不想成为的角色，就是你内心最警惕的位置——警惕什么，说明你离什么最近。"
+  },
+  {
+    "id": "special_39",
+    "reverse_pair": "q_liubian_02",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "当你发现身边最亲近的人一直在对你演戏，你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "愤怒——你为什么要骗我？",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "冷静——他为什么要演？演给谁看？",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "心酸——是我让他觉得必须伪装吗？",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与刘辩丹书白马面具题配对。面对面具，你是先愤怒还是先分析——这个顺序暴露了你对「真实」的执念。"
+  },
+  {
+    "id": "special_40",
+    "reverse_pair": "q_zhouyu_03",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下哪种对待金钱的态度最让你欣赏？",
+    "options": [
+      {
+        "label": "A",
+        "text": "视金钱如粪土，从不计较得失",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "该花的绝不省，不该花的一分不出",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "钱是工具不是目的，够用就好",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "与周瑜少年窘迫题配对。你欣赏的态度，就是你认同的金钱观——不求最理性，但求最真实。"
+  },
+  {
+    "id": "special_41",
+    "trap_dimension": "S1",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在一场关乎势力存亡的政治博弈中，你最在意的是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "结果——输赢比什么都重要",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "过程中有没有人因此受伤",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "这个决策是否会让信任我的人失望",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这道题表面在谈论权谋博弈，实际在测你的情感敏感度——在关键时刻，你最先想到的是结果还是人？"
+  },
+  {
+    "id": "special_42",
+    "trap_dimension": "S9",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "如果给你一个郡的统治权，你最想做的第一件事是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "整顿军备，招募兵马",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "肃清异己，消除所有隐患",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "安抚百姓，恢复民生",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这道题表面在测权力追求，实际在测你的底线——掌握权力后，你第一步做的是什么，决定了你愿意为此付出什么代价。"
+  },
+  {
+    "id": "special_43",
+    "trap_dimension": "S2",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你收到一封感人至深的求救信，信中描述了写信人遭遇的种种不幸。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻启程前往救援，一刻都不能等",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先核实信件的真实性，再决定行动",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "派人前往确认，同时做好最坏的准备",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这道题用感人的情感场景做包装，实际在测你的行动模式——面对触动内心的事，你是冲动出发还是先冷静分析？"
+  },
+  {
+    "id": "special_44",
+    "trap_dimension": "S4",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "在一个人人都在伪装自己的宴会上，你会选择——",
+    "options": [
+      {
+        "label": "A",
+        "text": "配合演出，和所有人一样戴着面具",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "找个角落，默默观察每个人的表情和眼神",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "注意到某个角落里独自喝酒的人，走过去陪他坐坐",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这道题表面在谈面具和伪装，实际在测温柔——在虚假的场合里，你是否会注意到那个最真实、最孤独的人？"
+  },
+  {
+    "id": "special_45",
+    "trap_dimension": "S7",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人当众用尖锐的言辞挑战你的权威，你觉得最恰当的回应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "按规矩处理——当众辱上本就该罚",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "当场用更尖锐的话怼回去，",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "私下找他谈话，弄清楚他的诉求",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这道题用锋芒和言语冲突做包装，实际在测你的秩序观——被冒犯时，你是用规则还是用个人力量来回应？"
+  },
+  {
+    "id": "special_46",
+    "trap_dimension": "S5",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你手下最得力的将领突然提议要独立发展。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "当场同意——他要走留不住，不如体面放手",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "谈判——给他更大的权限和资源，但必须留下",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "设宴为他饯行，暗中布局削弱他的势力",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这道题用行动决策做包装，实际在测权力观——你放不放人，反映的是你对掌控力的执念。"
+  },
+  {
+    "id": "special_47",
+    "trap_dimension": "S3",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人出高价购买你手中的一份绝密情报。这份情报对买家价值连城，但泄露会影响你的布局。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不卖——情报在自己手里才有价值",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "卖一份删减版给他，关键信息留着",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "看价格——够高就卖，值得深思",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这道题用金钱诱惑做包装，实际在测权谋——你是长远布局者还是见好就收的人？"
+  },
+  {
+    "id": "special_48",
+    "trap_dimension": "S8",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你照顾了一个受伤的人很久，他终于醒来，第一句话却问：「你是谁？为什么要救我？」你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "笑着说：「你不用知道我是谁",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "如实告诉他自己是谁、为什么救他",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "不回答，反问他：「你觉得呢？」",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这道题用温柔的照顾场景做包装，实际在测面具——在善意中你选择坦诚还是保留？"
+  },
+  {
+    "id": "special_49",
+    "trap_dimension": "S10",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "军令如山，但你的直觉告诉你这道军令有问题。距离执行还有半个时辰。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻去见主帅，当面质疑这道军令",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "按军令执行，不该质疑的时候不质疑",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "先暗中验证自己的直觉是否正确，再做决定",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这道题用军令和秩序做包装，实际在测行动力——当直觉和规则冲突时，你敢不敢违抗命令？"
+  },
+  {
+    "id": "special_50",
+    "trap_dimension": "S6",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人犯了大错，按照规矩该处死。但他的家人跪在你面前求情。你在众人面前的表态会是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "「法不容情。但他家人无辜，我会照顾他们。\"",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「他犯了什么错，当着他的面说清楚，让大家来评。\"",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「求情的人不少，但求情的理由从来没有变过——都是因为自己。」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这道题用底线和生死做包装，实际在测锋芒——在众人面前你怎么说话，一句之差就是温柔与毒舌。"
+  }
+]

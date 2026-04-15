@@ -1,0 +1,311 @@
+[
+  {
+    "id": "q_zhangxiu_1",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "张绣",
+    "source_story": "学做人",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "「披上一层一层人皮，磨平牙齿，学会对人笑。」张绣的面具是刻意学习的产物。如果你被迫融入不属于你的世界你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "拼命学习他们的规则伪装成",
+        "scores": {
+          "S4": 4,
+          "S1": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "保持自己的方式不刻意融入",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "部分融入保留真实的部分",
+        "scores": {
+          "S4": 3,
+          "S2": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张绣的面具是刻意学习的——嗷呜叫、闻气味、丢树枝是「学做人」的练习。"
+  },
+  {
+    "id": "q_zhangxiu_2",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张绣",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "张绣以婶婶邹氏住处藏伏兵但对亲人的利用毫不手软，但不杀马超、照顾邹氏之子。你认为这种「选择性善良」？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可以理解乱世中只能保",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "善良不该有选择性",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "生存第一善良是奢侈品",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张绣的善良被压缩到极小范围——只对「自己人」有效。"
+  },
+  {
+    "id": "q_zhangxiu_3",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张绣",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「等这双手把你活活撕开。」「切鲜肉回去。」张绣的语言充满对暴力的从容描述。你认为这反映了什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "看透了暴力所以能平静谈论",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "用暴力语言掩饰内心恐惧",
+        "scores": {
+          "S7": 3,
+          "S5": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "天生暴戾不在乎别人感受",
+        "scores": {
+          "S7": 3.5,
+          "S5": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张绣的锋芒是钝器式的——不需要修饰本身就够重。"
+  },
+  {
+    "id": "q_zhangxiu_4",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张绣",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我还想学做人。以后，还请古格不吝赐教。」被人类抛弃、被狼养大的少年说出「我还想学做人」。如果你听到这句话会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "被深深触动愿意帮助他",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "觉得他很有勇气",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "保持距离观察再说",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "温柔得让人心碎。张绣的痛不在失去，在于从未拥有过。"
+  },
+  {
+    "id": "q_zhangxiu_5",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张绣",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "张绣一眼看穿军事部署——「佯装进攻的是袁氏，真正准备出兵的一直是孙氏。」面对复杂军事情报你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "穿透表象直接判断真实意图",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "收集更多信息再判断",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "相信表面的情报，值得关注",
+        "scores": {
+          "S1": 2,
+          "S4": 2.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张绣的权谋是狼的狩猎本能：嗅到弱点一击致命。"
+  },
+  {
+    "id": "q_zhangxiu_6",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张绣",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「不重要……不重要……」用否认代替面对。你认为这种应对方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "理解有时候否认是最好的保护",
+        "scores": {
+          "S2": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不健康但短期内有效",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "应该面对而不是逃避",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张绣面对创伤：用否认代替面对。「阿玛！阿玛！」是极少数泄露的时刻。"
+  },
+  {
+    "id": "q_zhangxiu_7",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "宛城",
+    "city_hint": null,
+    "text": "你是少年军阀，手下士兵要吃饭，粮草只够三天。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "立即想办法筹粮哪怕是抢",
+        "scores": {
+          "S3": 3.5,
+          "S6": 4,
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "节约用粮同时寻找外援",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先稳住军心再想办法",
+        "scores": {
+          "S3": 3.5,
+          "S9": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": null
+  },
+  {
+    "id": "q_zhangxiu_8",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「人啊，只是被人性驱驰的恶兽吧。」",
+        "scores": {
+          "S9": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「养狗的人身上有特殊气味。」",
+        "scores": {
+          "S9": 2.5,
+          "S8": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "A来自张绣对人性的冷酷观察；B是他对广陵王的独特感知。"
+  }
+]

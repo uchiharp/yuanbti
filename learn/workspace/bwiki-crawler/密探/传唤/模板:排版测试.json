@@ -1,0 +1,1410 @@
+{
+  "title": "模板:排版测试",
+  "category": "密探传唤",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly分类密探"
+    },
+    {
+      "type": "narration",
+      "text": "角色ID!用于抽卡模拟器"
+    },
+    {
+      "type": "narration",
+      "text": "品质"
+    },
+    {
+      "type": "narration",
+      "text": "属性"
+    },
+    {
+      "type": "narration",
+      "text": "职业"
+    },
+    {
+      "type": "narration",
+      "text": "标签1"
+    },
+    {
+      "type": "narration",
+      "text": "标签2"
+    },
+    {
+      "type": "narration",
+      "text": "排序飞云2.5绣球2.5绝密1机密2隐密3"
+    },
+    {
+      "type": "narration",
+      "text": "部门"
+    },
+    {
+      "type": "narration",
+      "text": "关键字,,,,,,,,,,,,,,,+sep,"
+    },
+    {
+      "type": "narration",
+      "text": "!尝试"
+    },
+    {
+      "type": "narration",
+      "text": "普攻"
+    },
+    {
+      "type": "narration",
+      "text": "普攻信息"
+    },
+    {
+      "type": "narration",
+      "text": "技能"
+    },
+    {
+      "type": "narration",
+      "text": "技能1"
+    },
+    {
+      "type": "narration",
+      "text": "技能2"
+    },
+    {
+      "type": "narration",
+      "text": "技能3"
+    },
+    {
+      "type": "narration",
+      "text": "队长技能"
+    },
+    {
+      "type": "narration",
+      "text": "队长技能信息"
+    },
+    {
+      "type": "narration",
+      "text": "天赋1"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息1"
+    },
+    {
+      "type": "narration",
+      "text": "天赋2破军灭谛龙盾集谛岐黄道谛default苦谛"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息2破军普攻增伤和技能增伤提升龙盾免伤值提升岐黄自身提供的治疗效果提升default攻击力提升"
+    },
+    {
+      "type": "narration",
+      "text": "天赋3"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息3"
+    },
+    {
+      "type": "narration",
+      "text": "天赋4!初始天赋1"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息4"
+    },
+    {
+      "type": "narration",
+      "text": "天赋5!初始天赋2"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息5"
+    },
+    {
+      "type": "narration",
+      "text": "羁绊"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mitan_top\"传唤 ?出场语音mainlabelheadershide/divdiv class\"mitan_con\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mitan_left\""
+    },
+    {
+      "type": "narration",
+      "text": "! 手机立绘开始"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"dropdownwrap lihui_phone\""
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle立绘/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;position relative;\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "! 立绘结束"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle密探信息/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;\""
+    },
+    {
+      "type": "narration",
+      "text": "class\"wikitable mitan_table\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\" 品质"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\" 属性"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"特色 、"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"职业"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle属性详情/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;\""
+    },
+    {
+      "type": "narration",
+      "text": "class\"wikitable mitan_table\""
+    },
+    {
+      "type": "narration",
+      "text": "!colspan4总属性"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\" 生命"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\" 攻击"
+    },
+    {
+      "type": "narration",
+      "text": "!colspan4探索能力"
+    },
+    {
+      "type": "narration",
+      "text": "link25px纵火link25px传谣"
+    },
+    {
+      "type": "narration",
+      "text": "link25px下毒link25px卧底"
+    },
+    {
+      "type": "narration",
+      "text": "link25px搜集link25px灭火"
+    },
+    {
+      "type": "narration",
+      "text": "link25px净水link25px营救"
+    },
+    {
+      "type": "narration",
+      "text": "!colspan4奇闻属性"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"link30px 绝密500机密350隐密300"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"link30px绝密2600机密1820隐密1570default2600"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"link30px"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle密探技能 /div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;\""
+    },
+    {
+      "type": "narration",
+      "text": "class\"wikitable mitan_table\""
+    },
+    {
+      "type": "narration",
+      "text": "rowspan\"2\"icon"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\" 普攻"
+    },
+    {
+      "type": "narration",
+      "text": "style\"background rgba(255, 255, 255, 0.7);\""
+    },
+    {
+      "type": "narration",
+      "text": "rowspan\"2\"icon"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\" 技能（消耗能量：）"
+    },
+    {
+      "type": "narration",
+      "text": "style\"background rgba(255, 255, 255, 0.7);textalign left;\"div style\"padding 10px;borderbottom 1px solid eee;\"span style\"colorfce09b;fontweight bold;\"等级1：/span/divdiv style\"padding 10px;borderbottom 1px solid eee;\"span style\"colorfce09b;fontweight bold;\"等级2：/span/divdiv style\"padding 10px;borderbottom 1px solid eee;\"span style\"colorfce09b;fontweight bold;\"等级3：/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "rowspan\"2\"icon"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\" 队长技能"
+    },
+    {
+      "type": "narration",
+      "text": "style\"background rgba(255, 255, 255, 0.7);\""
+    },
+    {
+      "type": "narration",
+      "text": "!colspan2天赋"
+    },
+    {
+      "type": "narration",
+      "text": "rowspan\"2\"1"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"()"
+    },
+    {
+      "type": "narration",
+      "text": "style\"background rgba(255, 255, 255, 0.7);\""
+    },
+    {
+      "type": "narration",
+      "text": "rowspan\"2\"2"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"()"
+    },
+    {
+      "type": "narration",
+      "text": "style\"background rgba(255, 255, 255, 0.7);\""
+    },
+    {
+      "type": "narration",
+      "text": "rowspan\"2\"3"
+    },
+    {
+      "type": "narration",
+      "text": "style\"backgroundf3efed;color 5f1414;\"()"
+    },
+    {
+      "type": "narration",
+      "text": "style\"background rgba(255, 255, 255, 0.7);\""
+    },
+    {
+      "type": "narration",
+      "text": "trtd rowspan\"2\"4/tdtd style\"backgroundf3efed;color 5f1414;\"()/td/trtrtd style\"background rgba(255, 255, 255, 0.7);\"/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "trtd rowspan\"2\"5/tdtd style\"backgroundf3efed;color 5f1414;\"()/td/trtrtd style\"background rgba(255, 255, 255, 0.7);\"/td/tr"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "技能"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle命盘/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle密探化极span style\"position absolute;right 5px;fontsize 14px;\"▼展开全部▼/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"\""
+    },
+    {
+      "type": "narration",
+      "text": "/化极表"
+    },
+    {
+      "type": "narration",
+      "text": "1星属性加成生命值+0%、攻击力+0%"
+    },
+    {
+      "type": "narration",
+      "text": "1星其他加成大招等级+1"
+    },
+    {
+      "type": "narration",
+      "text": "! 2星"
+    },
+    {
+      "type": "narration",
+      "text": "2星属性加成生命值+5%、攻击力+5%"
+    },
+    {
+      "type": "narration",
+      "text": "2星其他加成解锁技能："
+    },
+    {
+      "type": "narration",
+      "text": "! 3星"
+    },
+    {
+      "type": "narration",
+      "text": "3星属性加成生命值+10%、攻击力+10%"
+    },
+    {
+      "type": "narration",
+      "text": "3星其他加成大招等级+1"
+    },
+    {
+      "type": "narration",
+      "text": "! 4星"
+    },
+    {
+      "type": "narration",
+      "text": "4星属性加成生命值+15%、攻击力+15%"
+    },
+    {
+      "type": "narration",
+      "text": "4星其他加成解锁技能：破军灭谛龙盾集谛岐黄道谛default苦谛"
+    },
+    {
+      "type": "narration",
+      "text": "! 5星"
+    },
+    {
+      "type": "narration",
+      "text": "5星属性加成隐密生命值+25%、攻击力+25%"
+    },
+    {
+      "type": "narration",
+      "text": "5星其他加成大招等级+1"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "/divdiv class\"mitan_right\""
+    },
+    {
+      "type": "narration",
+      "text": "! 立绘"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"dropdownwrap lihui_pc\""
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle立绘/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;position relative;\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle雀部计簿span style\"position absolute;right 5px;fontsize 14px;\"▼展开全部▼/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent"
+    },
+    {
+      "type": "narration",
+      "text": "table class\"wikitable mitan_table\" style\"textalign left;\""
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle密探传闻span style\"position absolute;right 5px;fontsize 14px;\"▼展开全部▼/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent"
+    },
+    {
+      "type": "narration",
+      "text": "table class\"wikitable mitan_table\" style\"textalign left;\""
+    },
+    {
+      "type": "narration",
+      "text": "/table"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle密探故事（点击可跳转具体章节）/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;\""
+    },
+    {
+      "type": "narration",
+      "text": "class\"wikitable mitan_table\""
+    },
+    {
+      "type": "narration",
+      "text": "第1节  第2节 第3节"
+    },
+    {
+      "type": "narration",
+      "text": "第4节  第5节 第6节"
+    },
+    {
+      "type": "narration",
+      "text": "第7节  第8节 第9节"
+    },
+    {
+      "type": "narration",
+      "text": "第10节  第11节 第12节"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle密探留音/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontent style\"display block;\""
+    },
+    {
+      "type": "narration",
+      "text": "class\"wikitable mitan_table\""
+    },
+    {
+      "type": "narration",
+      "text": "第1节无"
+    },
+    {
+      "type": "narration",
+      "text": "第2节无"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "传唤/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classdropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "div classwraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "div classtitle密探羁绊span style\"position absolute;right 5px;fontsize 14px;\"▼展开全部▼/span/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"glyphicon iconarrowplus\"/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div classwrapcontentbr该密探特立独行，不想与其他密探产生瓜葛，尤其是.......br"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": "webkituserselect none; / Safari /"
+    },
+    {
+      "type": "narration",
+      "text": "mozuserselect none;\t/ Firefox /"
+    },
+    {
+      "type": "narration",
+      "text": "msuserselect none;\t / IE/Edge /"
+    },
+    {
+      "type": "narration",
+      "text": "userselect none;\t\t / 标准语法 /"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_top"
+    },
+    {
+      "type": "narration",
+      "text": "padding 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "border 1px solid 633719;"
+    },
+    {
+      "type": "narration",
+      "text": "color633719;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 26px;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "marginleft auto;"
+    },
+    {
+      "type": "narration",
+      "text": "marginright auto;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily'SourceHanSerifCN';"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_con"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "marginleft auto;"
+    },
+    {
+      "type": "narration",
+      "text": "marginright auto;"
+    },
+    {
+      "type": "narration",
+      "text": "justifycontent spacebetween;"
+    },
+    {
+      "type": "narration",
+      "text": "flexwrap wrap;"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "color9e8a6d;"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_left"
+    },
+    {
+      "type": "narration",
+      "text": "width 50%;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily'SourceHanSerifCN';"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_right"
+    },
+    {
+      "type": "narration",
+      "text": "width 45%;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily'SourceHanSerifCN';"
+    },
+    {
+      "type": "narration",
+      "text": ".lihui_phone displaynone;"
+    },
+    {
+      "type": "narration",
+      "text": "@media (maxwidth 768px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_left"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_right"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".lihui_phone displayblock;"
+    },
+    {
+      "type": "narration",
+      "text": ".lihui_pc displaynone;"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_table"
+    },
+    {
+      "type": "narration",
+      "text": "background rgba(255, 255, 255, 0.7);"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 0;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "color9e8a6d;"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_table    tr  th"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundcolor fef9e5;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5f1414;"
+    },
+    {
+      "type": "narration",
+      "text": ".mitan_table    tr  tdnthchild(odd)"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundcolor f3efed;"
+    },
+    {
+      "type": "narration",
+      "text": ".dropdownwrap .wraptitle .title"
+    },
+    {
+      "type": "narration",
+      "text": "color 5f1414;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight bold;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 0;"
+    },
+    {
+      "type": "narration",
+      "text": "background f7e8cb;"
+    },
+    {
+      "type": "narration",
+      "text": ".dropdownwrap .wraptitle .title"
+    },
+    {
+      "type": "narration",
+      "text": "lineheight 35px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 16px;"
+    },
+    {
+      "type": "narration",
+      "text": ".dropdownwrap .wrapcontent"
+    },
+    {
+      "type": "narration",
+      "text": "background none;"
+    },
+    {
+      "type": "narration",
+      "text": "padding 0px;"
+    },
+    {
+      "type": "narration",
+      "text": "border none;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 0 ;"
+    },
+    {
+      "type": "narration",
+      "text": ".dropdownwrap"
+    },
+    {
+      "type": "narration",
+      "text": "margin 10px 0;"
+    },
+    {
+      "type": "narration",
+      "text": ".dropdownwrap .wraptitle"
+    },
+    {
+      "type": "narration",
+      "text": "height 35px;"
+    },
+    {
+      "type": "narration",
+      "text": "ul.tabbernav"
+    },
+    {
+      "type": "narration",
+      "text": "background f3efed;"
+    },
+    {
+      "type": "narration",
+      "text": "ul.tabbernav li a"
+    },
+    {
+      "type": "narration",
+      "text": "background f3efed;"
+    },
+    {
+      "type": "narration",
+      "text": "border 1px solid f3efed;"
+    },
+    {
+      "type": "narration",
+      "text": "ul.tabbernav li alink"
+    },
+    {
+      "type": "narration",
+      "text": "color9e8a6d;"
+    },
+    {
+      "type": "narration",
+      "text": ".tabber .tabbertab"
+    },
+    {
+      "type": "narration",
+      "text": "padding 0px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin0;"
+    },
+    {
+      "type": "narration",
+      "text": ".lihui_info"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "left 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "color FFFFFF;"
+    },
+    {
+      "type": "narration",
+      "text": "top 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "writingmode verticallr;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight 900;"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily Source Han Serif CN;"
+    },
+    {
+      "type": "narration",
+      "text": ".lihui_info .img"
+    },
+    {
+      "type": "narration",
+      "text": "justifycontent center;"
+    },
+    {
+      "type": "narration",
+      "text": "alignitems center;"
+    },
+    {
+      "type": "narration",
+      "text": "writingmode horizontaltb;"
+    },
+    {
+      "type": "narration",
+      "text": "width 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "flexwrap wrap;"
+    },
+    {
+      "type": "narration",
+      "text": "display flex;"
+    },
+    {
+      "type": "narration",
+      "text": "bstyle"
+    },
+    {
+      "type": "narration",
+      "text": "! / 思源宋体 /"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (minwidth 1160px)"
+    },
+    {
+      "type": "narration",
+      "text": "@fontface"
+    },
+    {
+      "type": "narration",
+      "text": "fontfamily'SourceHanSerifCN';"
+    },
+    {
+      "type": "narration",
+      "text": "fontstylenormal;"
+    },
+    {
+      "type": "narration",
+      "text": "fontdisplayswap;"
+    },
+    {
+      "type": "narration",
+      "text": "srcurl('//cdn.jsdelivr.net/gh/adobefonts/sourcehanserif@2.001R/Variable/WOFF2/TTF/Subset/SourceHanSerifCNVF.ttf.woff2');"
+    },
+    {
+      "type": "narration",
+      "text": "/bstyle"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "! 探索能力颜色 纵火蓝传谣紫下毒蓝卧底橙搜集蓝灭火绿净水蓝营救橙"
+    },
+    {
+      "type": "narration",
+      "text": "! 奇闻属性 属性1攻击力属性2生命值属性3免伤值"
+    },
+    {
+      "type": "narration",
+      "text": "! 普攻、技能、天赋相关信息请前往黄月英技能页面单独编辑"
+    },
+    {
+      "type": "narration",
+      "text": "单独技能页鼓形态"
+    },
+    {
+      "type": "narration",
+      "text": "! 普攻相关信息"
+    },
+    {
+      "type": "narration",
+      "text": "普攻振鼓"
+    },
+    {
+      "type": "narration",
+      "text": "普攻信息对当前目标造成攻击力的伤害，随后进入防御状态(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "! 技能相关信息"
+    },
+    {
+      "type": "narration",
+      "text": "技能钟山鸣鼓"
+    },
+    {
+      "type": "narration",
+      "text": "消耗能量4"
+    },
+    {
+      "type": "narration",
+      "text": "技能1对敌方全体造成攻击力的伤害，降低敌方全体攻击力(回合)，随后进入防御状态(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "技能2对敌方全体造成攻击力的伤害，降低敌方全体攻击力(回合)，随后进入防御状态(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "技能3对敌方全体造成攻击力的伤害，降低敌方全体攻击力(回合)，随后进入防御状态(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "! 队长技能相关信息"
+    },
+    {
+      "type": "narration",
+      "text": "队长技能累累如鼓"
+    },
+    {
+      "type": "narration",
+      "text": "队长技能信息战斗开始时，令敌方全体的攻击力降低"
+    },
+    {
+      "type": "narration",
+      "text": "! 天赋相关信息"
+    },
+    {
+      "type": "narration",
+      "text": "天赋1饮露"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息1每受到次来自敌人的攻击，获得。技能增伤提升。使用技能后，为自身附加可抵挡相当于自身最大生命的伤害的护盾（回合）并清除效果"
+    },
+    {
+      "type": "narration",
+      "text": "天赋2集谛"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息2免伤值提升"
+    },
+    {
+      "type": "narration",
+      "text": "天赋3汲灵"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息3技能消耗的能量"
+    },
+    {
+      "type": "narration",
+      "text": "天赋4唤星"
+    },
+    {
+      "type": "narration",
+      "text": "天赋信息4每回合开始时，若我方有任意拥有唤星效果的密探存活，则会进行一次唤星，拥有唤星效果的密探会根据唤出的星的颜色获得强化。"
+    },
+    {
+      "type": "narration",
+      "text": "唤出蓝星时：自身最大生命提升(可叠加层)"
+    },
+    {
+      "type": "narration",
+      "text": "唤出紫星时：为自身附加可抵挡相当于自身最大生命的护盾(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "唤出橙星时：下一次使用技能后，为全体队友附加(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "自身受到的全部伤害将由黄月英代为承受"
+    },
+    {
+      "type": "narration",
+      "text": "天赋解锁4初始天赋"
+    },
+    {
+      "type": "narration",
+      "text": "!以下需要使用其他模板录入"
+    },
+    {
+      "type": "narration",
+      "text": "命盘"
+    },
+    {
+      "type": "narration",
+      "text": "最大生命值的生命"
+    },
+    {
+      "type": "narration",
+      "text": "最大生命，随后为全体队友附加(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "(可叠加层)。︰持续伤害，伤害最为施加者的攻击力"
+    },
+    {
+      "type": "narration",
+      "text": "最大生命和攻击力"
+    },
+    {
+      "type": "narration",
+      "text": "，攻击力提升"
+    },
+    {
+      "type": "narration",
+      "text": "最大生命的护盾(回合)"
+    },
+    {
+      "type": "narration",
+      "text": "羁绊"
+    },
+    {
+      "type": "narration",
+      "text": "雀部计簿"
+    },
+    {
+      "type": "narration",
+      "text": "。br"
+    },
+    {
+      "type": "narration",
+      "text": "上古时期，为颛顼掌管的灵子之一，身具风雨轮回、日月轮转之力。br"
+    },
+    {
+      "type": "narration",
+      "text": "彼时天道掌握在十巫手中，天地平衡，神巫共生，s人，尚未出现/s。br"
+    },
+    {
+      "type": "narration",
+      "text": "以上均为黄月英自述。br"
+    },
+    {
+      "type": "narration",
+      "text": "，赐号灵子。br"
+    },
+    {
+      "type": "narration",
+      "text": "在祭祀上，神剖出十巫的s眼、脑、心，以为/s祭品，令灵子吞下，并将龙脉引人了玉门灵子的血脉。br"
+    },
+    {
+      "type": "narration",
+      "text": "之后千百年间，同十巫一起掩埋在灵山的最深处，力量消解，时间虚妄。br"
+    },
+    {
+      "type": "narration",
+      "text": "流淌、缠绕。br"
+    },
+    {
+      "type": "narration",
+      "text": "苏醒后，感受到了龙脉的逃散，也感受到了十巫的动荡。灵山白色的肉在搏动，红色的汁液在滴落。br"
+    },
+    {
+      "type": "narration",
+      "text": "s在旷阔的天地间，那股本不该现世的力量在逐渐蔓延。/sbr"
+    },
+    {
+      "type": "narration",
+      "text": "天地亦渐渐在眼前清晰，以及世间千万，她从不曾见过的人和苦难。brbr"
+    },
+    {
+      "type": "narration",
+      "text": "她应该去寻找玉门。好像孩子寻找母亲寻求安抚。br"
+    },
+    {
+      "type": "narration",
+      "text": "……”br"
+    },
+    {
+      "type": "narration",
+      "text": "“我是万物之始，亦是万物之终。”br"
+    },
+    {
+      "type": "narration",
+      "text": "“他和龙脉已经融为一体。他所有的情感都很温柔，像春雨一样。s真是奇怪的人，居然没有恨/s。”"
+    },
+    {
+      "type": "narration",
+      "text": "传闻"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E6%8E%92%E7%89%88%E6%B5%8B%E8%AF%95",
+  "crawled_at": "2026-04-12T21:57:02.748374",
+  "raw_wikitext": "<includeonly>{{面包屑|密探}}[[分类:密探]] {{#set:\n |姓名={{{姓名}}}\n |角色ID={{{角色ID}}}<!--用于抽卡模拟器-->\n |品质={{{品质}}}\n |属性={{{属性}}}\n |职业={{{职业}}}\n |标签1={{{标签1}}}\n |标签2={{{标签2}}}\n |排序={{#switch:{{{姓名}}}|飞云=2.5|绣球=2.5|{{#switch:{{{品质}}}|绝密=1|机密=2|隐密=3}}}}  \n |部门={{{部门}}}\n |关键字={{{姓名}}},{{{标签1}}},{{{标签2}}},{{{出身}}},{{{喜好}}},{{{性格}}},{{{属性1}}},{{{属性2}}},{{{属性3}}},{{{普攻}}},{{{技能}}},{{{天赋1|}}},{{{天赋2|}}},{{{天赋3|}}},{{{天赋4|}}}{{{天赋5|}}},{{{关键词|}}}|+sep=,\n <!--尝试-->\n |普攻={{{普攻}}}\n |普攻信息={{{普攻信息}}}\n |技能={{{技能}}}\n |技能1={{{技能1}}}\n |技能2={{{技能2}}}\n |技能3={{{技能3}}}\n |队长技能={{{队长技能}}}\n |队长技能信息={{{队长技能信息}}}\n |天赋1={{{天赋1}}}\n |天赋信息1={{{天赋信息1}}}\n |天赋2={{#switch:{{{职业}}}||破军=灭谛|龙盾=集谛|岐黄=道谛|#default=苦谛}}\n |天赋信息2={{#switch:{{{职业}}}||破军=普攻增伤和技能增伤提升{{颜色|绿|15}}|龙盾=免伤值提升{{颜色|绿|15}}|岐黄=自身提供的治疗效果提升{{颜色|绿|15%}}|#default=攻击力提升{{颜色|绿|15%}}}}\n |天赋3={{{天赋3}}}\n |天赋信息3={{{天赋信息3}}}\n |天赋4={{{天赋4}}}<!--初始天赋1-->\n |天赋信息4={{{天赋信息4}}}\n |天赋5={{{天赋5}}}<!--初始天赋2-->\n |天赋信息5={{{天赋信息5}}}\n |羁绊={{{羁绊}}}\n }}\n<div class=\"mitan_top\">{{{语录|{{#ask:[[{{{姓名}}}-传唤]]| ?出场语音|mainlabel=-|headers=hide}}}}}</div><div class=\"mitan_con\">\n\t<div class=\"mitan_left\">\n\t<!-- 手机立绘开始-->\n\t\t<div class=\"drop-down-wrap lihui_phone\" >\n\t\t\t<div class=wrap-title>\n\t\t\t<div class=title>立绘</div>\n\t\t\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t\t\t</div>\n\t\t\t<div class=wrap-content style=\"display: block;position: relative;\">\n{{排版测试/立绘|{{{姓名}}}|{{{品质}}}|{{{部门}}}|{{{出身}}}|{{{性格}}}|{{{喜好}}}}}\t\t\t\n</div></div>\n<!-- 立绘结束-->\n\t<div class=drop-down-wrap >\n\t<div class=wrap-title>\n\t<div class=title>密探信息</div>\n\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t</div>\n\t<div class=wrap-content style=\"display: block;\">\n\t{| class=\"wikitable mitan_table\"\n\t|-\n\t|style=\"background:#f3efed;color: #5f1414;\"| 品质 || {{{品质|}}}\n\t|style=\"background:#f3efed;color: #5f1414;\"| 属性 ||{{{属性|}}}\n\t|-\n\t|style=\"background:#f3efed;color: #5f1414;\"|特色 ||{{{标签1|}}}、{{{标签2|}}}\n\t|style=\"background:#f3efed;color: #5f1414;\"|职业||{{{职业|}}}\n\t|}\n\t</div>\n\t</div>\n\n\t<div class=drop-down-wrap >\n\t<div class=wrap-title>\n\t<div class=title>属性详情</div>\n\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t</div>\n\t<div class=wrap-content style=\"display: block;\">\n\t{| class=\"wikitable mitan_table\"\n\t|-\n\t!colspan=4|总属性\n\t|-\n\t|style=\"background:#f3efed;color: #5f1414;\"| 生命 ||{{{生命}}} \n\t|style=\"background:#f3efed;color: #5f1414;\"| 攻击 ||{{{攻击}}}\n\t|-\n\t!colspan=4|探索能力\n\t|-\n\t|[[file:{{{纵火|}}}脸.png|link=|25px]]纵火||[[file:{{{传谣|}}}脸.png|link=|25px]]传谣\n\t|[[file:{{{下毒|}}}脸.png|link=|25px]]下毒||[[file:{{{卧底|}}}脸.png|link=|25px]]卧底\n\t|-\n\t|[[file:{{{搜集|}}}脸.png|link=|25px]]搜集||[[file:{{{灭火|}}}脸.png|link=|25px]]灭火\n\t|[[file:{{{净水|}}}脸.png|link=|25px]]净水||[[file:{{{营救|}}}脸.png|link=|25px]]营救\n\t|-\n\t!colspan=4|奇闻属性\n\t|-\n\t|style=\"background:#f3efed;color: #5f1414;\"|[[File:奇闻属性-攻击力.png|link=|30px]]{{{属性1|}}} ||{{{奇闻攻击|{{#switch:{{{品质}}}|绝密=500|机密=350|隐密=300}}}}}\n\t|style=\"background:#f3efed;color: #5f1414;\"|[[File:奇闻属性-生命值.png|link=|30px]]{{{属性2|}}}||{{{奇闻生命|{{#switch:{{{品质}}}|绝密=2600|机密=1820|隐密=1570|#default=2600}}}}}\n\t|-\n\t|style=\"background:#f3efed;color: #5f1414;\"|[[File:奇闻属性-伤害提高.png|link=|30px]]{{{属性3|}}}||{{{奇闻其他|}}}\n\t|}\n\t</div>\n\t</div>\n\t<div class=drop-down-wrap >\n\t\t<div class=wrap-title>\n\t\t<div class=title>密探技能{{#if:{{{单独技能页|}}}|-{{{单独技能页|}}}| }}</div>\n\t\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t\t</div>\n\t\t<div class=wrap-content style=\"display: block;\">\n\t\t{| class=\"wikitable mitan_table\"\n\t\t|-\n\t\t|rowspan=\"2\"|icon\n\t\t|style=\"background:#f3efed;color: #5f1414;\"| 普攻-{{{普攻}}}\n\t\t|-\n\t\t|style=\"background: rgba(255, 255, 255, 0.7);\"|{{{普攻信息}}}\n\t\t|-\n\t\t|rowspan=\"2\"|icon\n\t\t|style=\"background:#f3efed;color: #5f1414;\"| 技能-{{{技能}}}（消耗能量：{{{消耗能量}}}）\n\t\t|-\n\t\t|style=\"background: rgba(255, 255, 255, 0.7);text-align: left;\"|<div style=\"padding: 10px;border-bottom: 1px solid #eee;\"><span style=\"color:#fce09b;font-weight: bold;\">等级1：</span>{{{技能1}}}</div><div style=\"padding: 10px;border-bottom: 1px solid #eee;\"><span style=\"color:#fce09b;font-weight: bold;\">等级2：</span>{{{技能2}}}</div>{{#if:{{{技能3|}}}|<div style=\"padding: 10px;border-bottom: 1px solid #eee;\"><span style=\"color:#fce09b;font-weight: bold;\">等级3：</span>{{{技能3}}}</div>|}}\n\t\t|-\n\t\t|rowspan=\"2\"|icon\n\t\t|style=\"background:#f3efed;color: #5f1414;\"| 队长技能-{{{队长技能}}}\n\t\t|-\n\t\t|style=\"background: rgba(255, 255, 255, 0.7);\"|{{{队长技能信息}}}\n\t\t|-\n\t\t!colspan=2|天赋\n\t\t|-\n\t\t|rowspan=\"2\"|1\n\t\t|style=\"background:#f3efed;color: #5f1414;\"|{{{天赋1}}}({{颜色|红|密探2星解锁}})\n\t\t|-\n\t\t|style=\"background: rgba(255, 255, 255, 0.7);\"|{{{天赋信息1}}}\n\t\t|-\n\t\t|rowspan=\"2\"|2\n\t\t|style=\"background:#f3efed;color: #5f1414;\"|{{{天赋2}}}({{颜色|红|密探4星解锁}})\n\t\t|-\n\t\t|style=\"background: rgba(255, 255, 255, 0.7);\"|{{{天赋信息2}}}\n\t\t|-\n\t\t|rowspan=\"2\"|3\n\t\t|style=\"background:#f3efed;color: #5f1414;\"|{{{天赋3}}}({{颜色|红|密探觉醒后解锁}})\n\t\t|-\n\t\t|style=\"background: rgba(255, 255, 255, 0.7);\"|{{{天赋信息3}}}\n\t\t|-\n{{#if:{{{天赋4|}}}|<tr><td rowspan=\"2\">4</td><td style=\"background:#f3efed;color: #5f1414;\">{{{天赋4|}}}({{颜色|红|{{{天赋解锁4}}}}})</td></tr><tr><td style=\"background: rgba(255, 255, 255, 0.7);\">{{{天赋信息4|}}}</td></tr>}}\n{{#if:{{{天赋5|}}}|<tr><td rowspan=\"2\">5</td><td style=\"background:#f3efed;color: #5f1414;\">{{{天赋5|}}}({{颜色|红|{{{天赋解锁5}}}}})</td></tr><tr><td style=\"background: rgba(255, 255, 255, 0.7);\">{{{天赋信息5|}}}</td></tr>}}\n|}\n</div></div>\n{{#if:{{{单独技能页|}}}|{{:{{{姓名|}}}-技能}} | }}\n<div class=drop-down-wrap >\n\t\t<div class=wrap-title>\n\t\t<div class=title>命盘</div>\n\t\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t\t</div>\n\t\t<div class=wrap-content style=\"display: block;\">{{{命盘|}}}\n</div></div>{{密探材料表|{{{属性}}}|{{{职业}}}}} \n<div class=drop-down-wrap >\n\t\t<div class=wrap-title>\n\t\t<div class=title>密探化极<span style=\"position: absolute;right: 5px;font-size: 14px;\">▼展开全部▼</span></div>\n\t\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t\t</div>\n\t\t<div class=wrap-content style=\"\">\n{{:{{{姓名}}}/化极表}}{{化极\n|密探={{{姓名|}}}\n|1星属性加成=生命值+0%、攻击力+0%\n|1星其他加成=大招等级+1\n<!-- 2星 -->\n|2星属性加成=生命值+5%、攻击力+5%\n|2星其他加成=解锁技能：{{{天赋1}}}\n<!-- 3星 -->\n|3星属性加成=生命值+10%、攻击力+10%\n|3星其他加成=大招等级+1\n<!-- 4星 -->\n|4星属性加成=生命值+15%、攻击力+15%\n|4星其他加成=解锁技能：{{#switch:{{{职业}}}||破军=灭谛|龙盾=集谛|岐黄=道谛|#default=苦谛}}\n<!-- 5星 -->\n|5星属性加成={{#ifeq:{{{品质|}}}|隐密||生命值+25%、攻击力+25%}}\n|5星其他加成=大招等级+1\n}}\n</div></div>\n\t</div><div class=\"mitan_right\">\n<!-- 立绘-->\n\t\t<div class=\"drop-down-wrap lihui_pc\" >\n\t\t\t<div class=wrap-title>\n\t\t\t<div class=title>立绘</div>\n\t\t\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t\t\t</div>\n\t\t\t<div class=wrap-content style=\"display: block;position: relative;\">\n{{排版测试/立绘|{{{姓名}}}|{{{品质}}}|{{{部门}}}|{{{出身}}}|{{{性格}}}|{{{喜好}}}}}\n</div></div>\n<div class=drop-down-wrap >\n\t<div class=wrap-title>\n\t<div class=title>雀部计簿<span style=\"position: absolute;right: 5px;font-size: 14px;\">▼展开全部▼</span></div>\n\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t</div>\n\t<div class=wrap-content >\n<table class=\"wikitable mitan_table\" style=\"text-align: left;\">\n{{{雀部计簿}}}\n</table>\n</div></div>\n\n<div class=drop-down-wrap >\n\t<div class=wrap-title>\n\t<div class=title>密探传闻<span style=\"position: absolute;right: 5px;font-size: 14px;\">▼展开全部▼</span></div>\n\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t</div>\n\t<div class=wrap-content >\n<table class=\"wikitable mitan_table\" style=\"text-align: left;\">\n{{{传闻|}}}\n</table>\n</div></div>\n\n<div class=drop-down-wrap >\n\t<div class=wrap-title>\n\t<div class=title>密探故事（点击可跳转具体章节）</div>\n\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t</div>\n\t<div class=wrap-content style=\"display: block;\">\n{| class=\"wikitable mitan_table\"\n|-\n| [[{{{姓名|}}}-密探故事/01 |第1节]] || [[{{{姓名|}}}-密探故事/02 |第2节]]|| [[{{{姓名|}}}-密探故事/03 |第3节]] \n| [[{{{姓名|}}}-密探故事/04 |第4节]] || [[{{{姓名|}}}-密探故事/05 |第5节]]|| [[{{{姓名|}}}-密探故事/06 |第6节]] \n|-\n| [[{{{姓名|}}}-密探故事/07 |第7节]] || [[{{{姓名|}}}-密探故事/08 |第8节]]|| [[{{{姓名|}}}-密探故事/09 |第9节]] \n| [[{{{姓名|}}}-密探故事/10 |第10节]] || [[{{{姓名|}}}-密探故事/11 |第11节]]|| [[{{{姓名|}}}-密探故事/12 |第12节]] \n|}\t\t\n\t\t\n</div></div>\n\n<div class=drop-down-wrap >\n\t<div class=wrap-title>\n\t<div class=title>密探留音</div>\n\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t</div>\n\t<div class=wrap-content style=\"display: block;\">\n{| class=\"wikitable mitan_table\"\n|-\n|{{#ifexist: 密探留音/{{{姓名|}}}|[[密探留音/{{{姓名|}}}#{{{姓名|}}}留音-01节|第1节]]|无}}\n|{{#ifexist: 密探留音/{{{姓名|}}}|[[密探留音/{{{姓名|}}}#{{{姓名|}}}留音-02节|第2节]]|无}}\n|} \n</div></div>\n{{:{{{姓名|}}}-传唤}}</div></div>\n<div class=drop-down-wrap >\n\t<div class=wrap-title>\n\t<div class=title>密探羁绊<span style=\"position: absolute;right: 5px;font-size: 14px;\">▼展开全部▼</span></div>\n\t<div class=\"glyphicon icon-arrow-plus\"></div>\n\t</div>\n\t<div class=wrap-content>{{#ifexist: 模板:密探羁绊/{{{姓名}}}|{{密探羁绊/{{{姓名}}}}}|<br>该密探特立独行，不想与其他密探产生瓜葛，尤其是.......<br>}}\n</div></div>\n</div></div>\n{{密探一览}}\n\t{{#css:\n\t* {\n\t\t\t-webkit-user-select: none; /* Safari */\n\t\t\t-moz-user-select: none;\t/* Firefox */\n\t\t\t-ms-user-select: none;\t /* IE/Edge */\n\t\t\tuser-select: none;\t\t /* 标准语法 */\n\t\t}\n\t\t.mitan_top{\n\t\t\tpadding: 10px;\n\t\t\tborder: 1px solid #633719;\n\t\t\tcolor:#633719;\n\t\t\tfont-size: 26px;\n\t\t\ttext-align: center;\n\t\t\tmargin-left: auto;\n\t\t\tmargin-right: auto;\n\t\t\tfont-family:'SourceHanSerifCN';\n\t\t}\n\t\t.mitan_con{\n\t\t\tdisplay: flex;\n\t\t\tmargin-left: auto;\n\t\t\tmargin-right: auto;\n\t\t   justify-content: space-between;\n\t\t   flex-wrap: wrap;\n\t\t\twidth: 100%;\n\t\t\tcolor:#9e8a6d;\n\t\t}\n\t\t.mitan_left{\n\t\t\twidth: 50%;\n\t\t   font-family:'SourceHanSerifCN'; \n\t\t}\n\t\t.mitan_right{\n\t\t\twidth: 45%;\n\t\t\tfont-family:'SourceHanSerifCN';\n\t\t}\n\t   .lihui_phone{ display:none;}\n\t\t@media (max-width: 768px) {\n\t\t\t.mitan_left{\n\t\t\t\twidth: 100%;\n\t\t\t}\n\t\t\t.mitan_right{\n\t\t\t\twidth: 100%;\n\t\t\t}\n\t\t .lihui_phone{ display:block;}\n\t\t .lihui_pc{ display:none;}\n\t\t  }\n\t\t.mitan_table{\n\t\t\tbackground: rgba(255, 255, 255, 0.7);\n\t\t\twidth: 100%;\n\t\t\tmargin: 0;\n\t\t\ttext-align: center;\n\t\t\tcolor:#9e8a6d;\n\t}\n\t.mitan_table > * > tr > th {\n\t   background-color: #fef9e5;\n\t\ttext-align: center;\n\t\tcolor: #5f1414;\n\t}\n\t.mitan_table > * > tr > td:nth-child(odd) {\n\t  background-color: #f3efed;\n\t}\n\t.drop-down-wrap .wrap-title .title {\n\t\tcolor: #5f1414;\n\t\tfont-weight: bold;\n\t\ttext-align: center;\n\t\tborder-radius: 0;\n\t\tbackground: #f7e8cb;\n\t}\n\t.drop-down-wrap .wrap-title .title {\n\t\tline-height: 35px;\n\t\tfont-size: 16px;\n\t}\n\t.drop-down-wrap .wrap-content {\n\t\tbackground: none;\n\t\tpadding: 0px;\n\t\tborder: none;\n\t\tborder-radius: 0 ;\n\t}\n\t.drop-down-wrap{\n\t\tmargin: 10px 0;\n\t}\n\t.drop-down-wrap .wrap-title{\n\t   height: 35px;\n\t}\n\tul.tabbernav{\n\t\tbackground: #f3efed;\n\t}\n\tul.tabbernav li a {\n\t\tbackground: #f3efed;\n\t\tborder: 1px solid #f3efed;\n\t}\n\tul.tabbernav li a:link{\n\t\tcolor:#9e8a6d;\n\t}\n\t.tabber .tabbertab {\n\t\tpadding: 0px;\n\t}\n\tp{\n\t\tmargin:0;\n\t}\n\t.lihui_info{\n\t\tposition: absolute;\n\t\tleft: 20px;\n\t\tcolor: #FFFFFF;\n\t\ttop: 50px;\n\t\twriting-mode: vertical-lr;\n\t\tfont-weight: 900;\n\t\tfont-family: Source Han Serif CN;\n\t}\n\t.lihui_info .img{\n\t\tjustify-content: center;\n\t\talign-items: center;\n\t\twriting-mode: horizontal-tb;\n\t\twidth: 50px;\n\t\tflex-wrap: wrap;\n\t\tdisplay: flex;\n\t}\n}}<bstyle>\n<!-- /* 思源宋体 */ -->\n@media screen and (min-width: 1160px) {\n\t\t@font-face{\n\t\t\tfont-family:'SourceHanSerifCN';\n\t\t\tfont-style:normal;\n\t\t\tfont-display:swap;\n\t\t\tsrc:url('//cdn.jsdelivr.net/gh/adobe-fonts/source-han-serif@2.001R/Variable/WOFF2/TTF/Subset/SourceHanSerifCN-VF.ttf.woff2');\n\t\t}\n}\n</bstyle>\n</includeonly><noinclude>\n{{排版测试\n|姓名=黄月英\n|品质=绝密\n|部门=闲人\n|属性=阳\n|职业=龙盾\n<!-- 标签 -->|标签1=攻守易形|标签2=唤星\n|出身=灵山\n|喜好=打劫\n|性格=怪癖\n|送礼=\n{{密探传唤|喜头}}\n{{道具ask|孜然粉}}\n{{道具ask|藏宝图}}\n{{密探传唤|喜尾}}\n{{密探传唤|厌头}}\n{{道具ask|无}}\n{{密探传唤|厌尾}}\n<!-- 探索能力颜色 -->|纵火=蓝|传谣=紫|下毒=蓝|卧底=橙|搜集=蓝|灭火=绿|净水=蓝|营救=橙\n<!-- 奇闻属性 -->|属性1=攻击力|属性2=生命值|属性3=免伤值\n<!-- 普攻、技能、天赋相关信息请前往黄月英-技能页面单独编辑 -->\n|单独技能页=鼓形态\n<!-- 普攻相关信息 -->\n|普攻=振鼓\n|普攻信息=对当前目标造成{{颜色|绿|80%}}攻击力的伤害，随后进入防御状态({{颜色|绿|1}}回合){{板块|内容结束}}\n<!-- 技能相关信息 -->\n|技能=钟山鸣鼓\n|消耗能量=4\n|技能1=对敌方全体造成{{颜色|绿|300%}}攻击力的伤害，降低敌方全体{{颜色|绿|20%}}攻击力({{颜色|绿|2}}回合)，随后进入防御状态({{颜色|绿|1}}回合)\n|技能2=对敌方全体造成{{颜色|绿|300%}}攻击力的伤害，降低敌方全体{{颜色|绿|25%}}攻击力({{颜色|绿|2}}回合)，随后进入防御状态({{颜色|绿|1}}回合)\n|技能3=对敌方全体造成{{颜色|绿|300%}}攻击力的伤害，降低敌方全体{{颜色|绿|30%}}攻击力({{颜色|绿|2}}回合)，随后进入防御状态({{颜色|绿|1}}回合)\n<!-- 队长技能相关信息 -->\n|队长技能=累累如鼓\n|队长技能信息=战斗开始时，令敌方全体的攻击力降低{{颜色|绿|25%}}{{板块|内容结束}}\n<!-- 天赋相关信息 -->\n|天赋1=饮露\n|天赋信息1=每受到{{颜色|绿|10}}次来自敌人的攻击，获得{{颜色|红|【甘木露】}}。{{颜色|红|【甘木露】}}:技能增伤提升{{颜色|绿|50}}。使用技能后，为自身附加可抵挡相当于自身{{颜色|绿|50%}}最大生命的伤害的护盾（{{颜色|绿|1}}回合）并清除{{颜色|红|【甘木露】}}效果\n|天赋2=集谛\n|天赋信息2=免伤值提升{{颜色|绿|15}}\n|天赋3=汲灵\n|天赋信息3=技能消耗的能量{{颜色|绿|-1}}\n|天赋4=唤星\n|天赋信息4=每回合开始时，若我方有任意拥有<唤星>效果的密探存活，则会进行一次唤星，拥有<唤星>效果的密探会根据唤出的星的颜色获得强化。\n*唤出蓝星时：自身最大生命提升{{颜色|绿|5%}}(可叠加{{颜色|绿|10}}层)\n*唤出紫星时：为自身附加可抵挡相当于自身{{颜色|绿|30%}}最大生命的护盾({{颜色|绿|2}}回合)\n*唤出橙星时：下一次使用技能后，为全体队友附加{{颜色|红|【固守玉门】}}({{颜色|绿|1}}回合)\n{{颜色|红|【固守玉门】}}:自身受到的全部伤害将由黄月英代为承受\n|天赋解锁4=初始天赋\n<!--以下需要使用其他模板录入-->\n|命盘=\n{{密探命盘2|阳明|紫|攻击力中幅提升|攻击力提升{{颜色|绿|8%}}}}\n{{密探命盘2|暗星|紫|防御时恢复生命|防御时，恢复{{颜色|绿|10%}}最大生命值的生命}}\n{{密探命盘2|丹曲|橙|山川妈妈|主武器为鼓时，战斗中仅有一次，自身受到致命伤害时，恢复{{颜色|绿|100%}}最大生命，随后为全体队友附加{{颜色|红|【固守玉门】}}({{颜色|绿|1}}回合)}}\n{{密探命盘2|延寿|橙|尸解|主武器为铃时,使用普攻后，当前目标附加{{颜色|红|【尸解】}}(可叠加{{颜色|绿|99}}层)。{{颜色|红|【尸解】}}︰持续伤害，伤害最为施加者{{颜色|绿|10%}}的攻击力}}\n{{密探命盘2|命宫|蓝|最大生命小幅提升|最大生命提升{{颜色|绿|3%}}}}\n{{密探命盘2|益算|紫|灵倾三台|我方每有一名拥有<唤星>效果的密探，提升我方全体{{颜色|绿|5%}}最大生命和攻击力}}\n{{密探命盘2|北极|橙|羽化|将主武器切换为铃，更换自身的技能效果。自身最大生命降低{{颜色|绿|30%}}，攻击力提升{{颜色|绿|60%}}}}\n{{密探命盘2|太岁|橙|应龙之盾|<唤星>唤到橙星时，为我方全体附加可抵挡相当于自身{{颜色|绿|15%}}最大生命的护盾({{颜色|绿|1}}回合)}}\n{{密探命盘2|天关|蓝|攻击力小幅提升|攻击力提升{{颜色|绿|3%}}}}\n{{密探命盘2|上生|橙|乾坤既定|<唤星>唤到蓝星时，下一次必定唤出紫星}}\n{{密探命盘2|帝君|紫|最大生命中幅提升|最大生命提升{{颜色|绿|8%}}}}\n{{密探命盘2|中天|紫|初始能量+1|初始能量{{颜色|绿|+1}}}}\n|羁绊=\n|雀部计簿=\n{{密探计簿|玉门灵子,存世不足{{黑幕|万年}}。<br>\n上古时期，为颛顼掌管的灵子之一，身具风雨轮回、日月轮转之力。<br>\n彼时天道掌握在十巫手中，天地平衡，神巫共生，<s>人，尚未出现</s>。<br>\n以上均为黄月英自述。<br>}}\n{{密探计簿|绝地天通时，山海倒悬，河川逆流，十巫被镇压在灵山之下。<br>\n经过挑选，颛顼派族中力量最为强盛的巫子看守通往十巫的{{黑幕|玉门}}，赐号灵子。<br>\n在祭祀上，神剖出十巫的<s>眼、脑、心，以为</s>祭品，令灵子吞下，并将龙脉引人了玉门灵子的血脉。<br>\n之后千百年间，同十巫一起掩埋在灵山的最深处，力量消解，时间虚妄。<br>}}\n{{密探计簿|后来有一个声音唤醒了她，那声音随着{{黑幕|龙脉}}流淌、缠绕。<br>\n苏醒后，感受到了龙脉的逃散，也感受到了十巫的动荡。灵山白色的肉在搏动，红色的汁液在滴落。<br>\n<s>在旷阔的天地间，那股本不该现世的力量在逐渐蔓延。</s><br>\n天地亦渐渐在眼前清晰，以及世间千万，她从不曾见过的人和苦难。<br><br>\n她应该去寻找玉门。好像孩子寻找母亲寻求安抚。<br>}}\n{{密探计簿|“一切都不一样了，灵山是我唯一熟悉的地方。”<br>\n“去找玉门，找到玉门……一切都会变回我熟悉的样子。”<br>\n“他说我可以相信那个人，和那个人一起去寻找玉门，因为我们都想……”<br>\n“他错了，道无好坏，道唯自然。”<br>\n“走到那里，我记起来了……我便是玉门，我便是{{黑幕|山川妈妈}}……”<br>\n“我是万物之始，亦是万物之终。”<br>\n“他和龙脉已经融为一体。他所有的情感都很温柔，像春雨一样。<s>真是奇怪的人，居然没有恨</s>。”}}\n|传闻=\n{{密探传闻|灵山村民目睹一少女骑衔火仙鹤，落在灵山山顶。不日后，象山缠绵半月的山火终于熄灭。}}\n{{密探传闻|黄月英并不觉得酆公兄妹的相处有何诡异，是因为来自某个百无禁忌的时代吗……}}\n{{密探传闻|蜂部在灵山山洞内发现大量壁画，疑似是有关十巫记载，楼主派雀部全体前去转拓、破译，黄月英解释只是当年灵子们祭祀时的小抄。}}\n{{密探传闻|「黄月英与左慈论道，隐鸢阁附近天气骤变无常。不！阁主应该是无敌的！」——隐鸢阁弟子}}\n{{密探传闻|诸葛家那位失踪的孩子,最后出现的地点在南阳。黄月英调查后认为早已转移,去了天地万处。}}\n{{密探传闻|张角在书房休息，梦到天上出现了九个太阳和九个月亮，一个女孩在日月间穿梭奔跑，身边围绕着纷飞的星辰。醒来后看到黄月英在院子里和女孩子们玩闹。}}\n{{密探传闻|昨夜，五斗米寿春教坛传出震声，似铃动，似风鼓，持续片刻后停止。然后是教主崩溃的哭声……}}\n{{密探传闻|黄月英时常对着一片头盖骨低语，别人问起时，她会说，他还未死。}}\n{{密探传闻|黄月英借宿期间，绣衣楼内草木疯狂生长，繁盛异常。傅副官很欣喜，菜园丰收。}}\n{{密探传闻|如果仔细观察黄月英衣裙上的纹饰,能看到它们在缓慢流动。}}\n{{密探传闻|广陵雨季，暴雨频发，每逢雷鸣，黄月英都会跑进雨中，她说此时雷鸾飞过，正式天地之气极盛之时。}}\n{{密探传闻|黄月英告诉楼主，九德之气汇集的时节，便是橙色星石频繁出现的时期。}}\n{{密探传闻|每逢满月，黄月英会在灵山的乌泽陷入沉睡，彼时暝蝶覆盖身体，当暝蝶纷飞消散之时，就是黄月英苏醒之际。}}\n{{密探传闻|周群观测到贪狼星相残缺，残缺处状似遭人啃噬，黄月英承认是她干的。}}\n{{密探传闻|黄月英已离开灵山，暂住隐鸢阁，由酆公玖与酆公珠兄妹抚养。}}\n{{密探传闻|黄月英的银铃，声如风起，如鼓动，还能模仿古音。据说是一位人神……}}\n{{密探传闻|黄月英送给楼主一根用金猊鳞甲做的蜡烛，据说可以长明不熄，傅副官很开心。}}\n{{密探传闻|灵山村落有传闻，若夜里听见银铃声，窗外翻飞萤火，次日垂死之人便会离去。}}\n{{密探传闻|在灵山点燃檀荆，会引来一种青蓝色的蠡，将蠡血点在眉间，不久后就会听到逐渐靠近的银铃声。}}\n{{密探传闻|下山后，黄月英对黄金马车产生了兴趣。}}\n}}\n\n</noinclude>"
+}

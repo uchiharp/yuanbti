@@ -1,0 +1,190 @@
+[
+  {
+    "id": "q_pangde_1",
+    "dimension": "S6",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "庞德",
+    "source_story": "义父与道德",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "庞德被马腾从灭族血海中捞起，全部身份认同绑定在「马家养子」上。如果义父的命令与你的道德底线冲突你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "服从义父命令就是一切",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "挣扎很久最终选择道德",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "选择欺骗义父去做对的事",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "庞德选择了欺骗——人生中第一次违背义父的命令。"
+  },
+  {
+    "id": "q_pangde_2",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "庞德",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我只能说'不记得了'，一遍一遍重复，才能让自己相信，不再梦到那些景象。」庞德完全知道自己选择性失忆。如果你有痛苦回忆你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "假装不记得逃避比面对容易",
+        "scores": {
+          "S4": 3.5,
+          "S1": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "直面它不记得不代表不存在",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "偶尔想起来会难过但尽量不去想",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "「不记得了」是庞德的铠甲也是牢笼。"
+  },
+  {
+    "id": "q_pangde_3",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "庞德",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「如果不征战，能随师父们云游听经就好了。」庞德唯一表达过的个人愿望如此朴素。你最大的愿望是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "自由自在无牵无挂地生活",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "有归属有方向地活着",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "实现某个宏大目标",
+        "scores": {
+          "S8": 2,
+          "S9": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "庞德是代号鸢中最安静的悲剧。沙漠中的水叫做宝藏。"
+  },
+  {
+    "id": "q_pangde_4",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你常年随军，有人要给你安排一处私宅。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "婉拒我没有资格拥有这些",
+        "scores": {
+          "S3": 2,
+          "S4": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "接受但觉得不自在",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "欣然接受这是应得的",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "庞德：「真的不用……我没有私宅。」不是简朴是没有资格拥有。"
+  },
+  {
+    "id": "q_pangde_5",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「抱歉，末将又罗嗦了。」",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「如果你要杀我，现在就可以动手。」",
+        "scores": {
+          "S2": 2.5,
+          "S6": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "A是庞德的刹车系统；B是他第一次从「马家的工具」中剥离出来。"
+  }
+]

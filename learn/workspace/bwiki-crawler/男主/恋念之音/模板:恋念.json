@@ -1,0 +1,114 @@
+{
+  "title": "模板:恋念",
+  "category": "恋念之音",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "我div style\"margintop 80px;\"span style\"marginleft 50px;padding0 15px;color fff;textshadow0 0 20px;boxshadow edc26d 0 0 20px ;borderradius 50%;background edc26d5c;\" ——&nbsp;我 &nbsp;——/spandiv style\"boxshadow 10px 10px 50px;padding 2px;border edc26d 1px solid;borderradius 50px;\"div style\"position relative;backgroundcolor rgba(255, 253, 240, 0.512);borderradius 50px;\"span style\"position absolute;bottom 8px;left 10px;\"内廷绣罗内廷绣罗江东乔影江东乔影default广陵王.png110pxlink/spandiv style\"padding 10px;paddingleft100px;color 573218;\"/div/div/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "default"
+    },
+    {
+      "type": "narration",
+      "text": "divdiv class\"gifsize\" style\"width 200px;margin auto;\"pngpngdefaultgiflink/divdiv style\"margintop 50px;boxshadow 10px 10px 50px;padding 2px;border edc26d 1px solid;borderradius 50px;\"div style\"position relative;backgroundcolor rgba(255, 253, 240, 0.512);borderradius 50px;\"span style\"positionabsolute;top25px;right10px;;padding0 15px;color fff;textshadow0 0 20px;boxshadow edc26d 0 0 20px ;borderradius 50%;background edc26d5c;\"——&nbsp;&nbsp;——/spandiv style\"displayflex;padding 10px;paddingleft20px;paddingright 35px;color 573218;\"span style\"displayflex;alignitems center;padding 10px 15px 10px 5px;\"/span/div/div/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "头恋念之音恋念之音"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"color ffe2a9;fontsize30px;fontweight bold;margin auto;textalign center;padding 10px 10px 50px;textshadow 0 0 10px 333;\"——◆通话中◆——/div分类恋念之音"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonlynoinclude"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "brbr"
+    },
+    {
+      "type": "narration",
+      "text": "此模板用于恋念之音的对话模板，要按照录出文档中所标记的小表情进行填写"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "在电话之前请先加上头部"
+    },
+    {
+      "type": "narration",
+      "text": "电话内容模板："
+    },
+    {
+      "type": "narration",
+      "text": "gif图有语音："
+    },
+    {
+      "type": "narration",
+      "text": "png图有语音："
+    },
+    {
+      "type": "narration",
+      "text": "png图无语音【常用】："
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "效果"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "一般的情况"
+    },
+    {
+      "type": "narration",
+      "text": "特别的场合"
+    },
+    {
+      "type": "narration",
+      "text": "如果某些对话强制要求内廷绣罗出场"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "如果某些对话强制要求江东乔影出场"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E6%81%8B%E5%BF%B5",
+  "crawled_at": "2026-04-12T22:06:33.763550",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}\n|我=<div style=\"margin-top: 80px;\"><span style=\"margin-left: 50px;padding:0 15px;color: #fff;text-shadow:0 0 20px;box-shadow: #edc26d 0 0 20px ;border-radius: 50%;background: #edc26d5c;\"> ——&nbsp;我 &nbsp;——</span><div style=\"box-shadow: -10px -10px 50px;padding: 2px;border: #edc26d 1px solid;border-radius: 50px;\"><div style=\"position: relative;background-color: rgba(255, 253, 240, 0.512);border-radius: 50px;\"><span style=\"position: absolute;bottom: -8px;left: -10px;\">[[file:{{#switch:{{{4|}}}|内廷绣罗=内廷绣罗|江东乔影=江东乔影|#default=广陵王}}-{{{3|}}}.png|110px|link=]]</span><div style=\"padding: 10px;padding-left:100px;color: #573218;\">{{{2|}}}</div></div></div></div>\n|#default=\n<div><div class=\"gifsize\" style=\"width: 200px;margin: auto;\">{{#if:{{{3|}}}|[[file:{{{1|}}}-心纸君-{{{3|}}}.{{#switch:{{{5|}}}|png=png|#default=gif}}|link=]]|}}</div><div style=\"margin-top: 50px;box-shadow: -10px -10px 50px;padding: 2px;border: #edc26d 1px solid;border-radius: 50px;\"><div style=\"position: relative;background-color: rgba(255, 253, 240, 0.512);border-radius: 50px;\"><span style=\"position:absolute;top:-25px;right:10px;;padding:0 15px;color: #fff;text-shadow:0 0 20px;box-shadow: #edc26d 0 0 20px ;border-radius: 50%;background: #edc26d5c;\">——&nbsp;{{{1|}}}&nbsp;——</span><div style=\"display:flex;padding: 10px;padding-left:20px;padding-right: 35px;color: #573218;\">{{#if:{{{语音|}}}|<span style=\"display:flex;align-items: center;padding: 10px 15px 10px 5px;\">{{Mp3|{{{语音}}}}}</span>}}{{{2|}}}</div></div></div></div>\n|头={{面包屑|{{#if:{{{2|}}}|{{{2|}}}|}}|恋念之音|{{#if:{{{2|}}}|{{{2|}}}-恋念之音|}}}}\n<div style=\"color: #ffe2a9;font-size:30px;font-weight: bold;margin: auto;text-align: center;padding: 10px 10px 50px;text-shadow: 0 0 10px #333;\">——◆通话中◆——</div>[[分类:恋念之音]]\n}}</includeonly><noinclude>\n==使用方法==\n{{颜色|红|此模板为恋念2.0，新增【语音】、【心纸君gif】}}<br><br>\n此模板用于恋念之音的对话模板，要按照录出文档中所标记的小表情进行填写\n<pre>\n在电话之前请先加上头部\n{{恋念|头|男主}}\n电话内容模板：\n{{恋念|名字|内容|(表情如果有变化则填写没有变化则不填）||(如果用gif，则填gif；如果是png，则不填）|语音=（没有可不填）}}\n\ngif图有语音：{{恋念|名字|内容|(表情如果有变化则填写没有变化则不填）||gif|语音=}}\npng图有语音：{{恋念|名字|内容|(表情如果有变化则填写没有变化则不填）||语音=}}\npng图无语音【常用】：{{恋念|名字|内容|(表情如果有变化则填写没有变化则不填）}}\n</pre>\n{{颜色|红|*注：.gif表情和.png的命名一样，正常填表情就好。}}\n==效果==\n<pre>\n{{恋念|头|男主}}\n{{恋念|我|我说的话|点头}}\n{{恋念|傅融|傅融说的话|正常}}\n{{恋念|傅融|傅融说的话}}\n{{恋念|我|我说的话|惊讶}}\n{{恋念|刘辩|刘辩说的话|正常}}\n{{恋念|刘辩|刘辩在唱歌|开心|语音=BGM-刘辩-不朽花}}\n{{恋念|袁基|袁基说的话|正常}}\n{{恋念|左慈|左慈说的话|正常}}\n{{恋念|左慈|左慈很开心|开心||png}}\n{{恋念|孙策|孙策说的话|正常}}\n{{恋念|我|狐说的话|三国志绒绒版-狐头狐尾}}\n</pre>\n===一般的情况===\n{{恋念|头|男主}}\n{{恋念|我|我说的话|点头}}\n{{恋念|傅融|傅融说的话|正常}}\n{{恋念|傅融|傅融说的话}}\n{{恋念|我|我说的话|惊讶}}\n{{恋念|刘辩|刘辩说的话|正常}}\n{{恋念|刘辩|刘辩在唱歌|开心|语音=BGM-刘辩-不朽花}}\n{{恋念|袁基|袁基说的话|正常}}\n{{恋念|左慈|左慈说的话|正常}}\n{{恋念|左慈|左慈很开心|开心||png}}\n{{恋念|孙策|孙策说的话|正常}}\n{{恋念|我|狐说的话|三国志绒绒版-狐头狐尾}}\n===特别的场合===\n* 如果某些对话强制要求内廷绣罗出场\n{{恋念|我|我说的话|惊讶|内廷绣罗}}<br>\n* 如果某些对话强制要求江东乔影出场\n{{恋念|我|我说的话|惊讶|江东乔影}}\n</noinclude>"
+}

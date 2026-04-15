@@ -1,0 +1,407 @@
+{
+  "title": "陶生/活动剧情/陶生·十七",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙尚香",
+    "孙权",
+    "孙策",
+    "我",
+    "甘宁",
+    "荀彧",
+    "蒯越",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "破——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "阿香？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "真的破了？！总算成功了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "这里是哪呃呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "老宅的……上空……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "成功了……我试了……九十多次，总算成功了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……所以，你也能回溯？原来如此，难怪之前凭空消失……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "嗯，殿下也是吧？我是因为师父的仙胎。你是因为什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "之前都走到最后那一步，我哥把那神棍杀了，然后就完了……他死的时候，怨念瞬间让所有人都蒸发了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……所以，是因为这次没有杀干吉吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "啥玩意砸下来了……啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "三位是从哪凭空落下的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "这就……说来话长了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "荀彧先生，借一步说话！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=荀彧",
+      "emotion": "哎……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "先生带甘宁来，有何目的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……殿下所言，在下不甚明了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我直说吧。许县派来的使者不是你。你也不是被甘宁打劫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是你雇了甘宁，灭口了原来的使者，接替了他此次前来江东的职务。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "吴郡在叛乱。许都以为，这是趁乱除去孙策的良机。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "你不站在任何人那边，你站在苍生与汉室那边。使者前来筹谋刺杀孙策，与你无冲突，你何必阻拦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "孙策若死，扬州必定大乱。但这种乱，是蛰伏的士族所挑起的乱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "动乱会迅速平息，扬州重回士族之手。所以，这不是我想看到的乱，它不够乱。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你想挑动孙策杀士族。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "不止。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "南阳白薯？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "嗯！是我们特意带来的。如果有夜宴的话，可以给各位贵人尝尝鲜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "但为什么那么小颗啊？只有寻常白薯一半大小，好可怜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "咳咳！咳咳咳！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "这是在耍人吗……居然在这么破败的宅子里宴宾客……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=蒯越",
+      "emotion": "这才叫真正的待客啊。比起那些金碧辉煌的豪门，带客人来不加粉饰的老宅，展露了孙氏的赤诚之心啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "啊……这是翠玉吗？从前只劫到过一次，真是漂亮的颜色啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "头像=士燮",
+      "emotion": "离我远点！谁准你近我一步之内的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "话说……今晚其实没有准备夜宴！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "想来想去还是试胆比较好玩啊……把食案都挪开！点蜡烛！",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·十七'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "centerfont class'zhuxiancolor'a href\"top\" 回到顶部/a/font/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E5%8D%81%E4%B8%83",
+  "crawled_at": "2026-04-12T22:07:09.911887",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·十七'''=\n</center>\n\n{{对话-头}}\n{{旁白|【未知之地】}}\n{{旁白|寂静的、黑暗的。}}\n{{旁白|在那疯狂而崩溃的尖叫声中，天地都仿佛成为了盲目者空洞的眼窝。}}\n{{旁白|我们拉着彼此的手，失去知觉的身躯，在一片柔腻的黑暗中下沉……}}\n{{对话|孙尚香|破——|头像=孙尚香}}\n{{旁白|【未知之地】}}\n{{对话|孙策|阿香？！|头像=孙策}}\n{{对话|孙尚香|真的破了？！总算成功了！|头像=孙尚香}}\n{{旁白|心理|我们脱离陶人之境了？！}}\n{{对话|我|这里是哪呃呃——|头像=广陵王-难受}}\n{{对话|孙尚香|老宅的……上空……|头像=孙尚香}}\n{{旁白|【孙氏老宅】}}\n{{旁白|心理|我们是……回来了吗？}}\n{{对话|孙尚香|成功了……我试了……九十多次，总算成功了……|头像=孙尚香}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|我|……所以，你也能回溯？原来如此，难怪之前凭空消失……|头像=广陵王-挑眉}}\n{{对话|孙尚香|嗯，殿下也是吧？我是因为师父的仙胎。你是因为什么？|头像=孙尚香}}\n{{旁白|心理|……可能是因为之前喝了太多巫血了……}}\n{{对话|孙尚香|之前都走到最后那一步，我哥把那神棍杀了，然后就完了……他死的时候，怨念瞬间让所有人都蒸发了。}}\n{{对话|孙策|……所以，是因为这次没有杀干吉吗……|头像=孙策}}\n{{旁白|忽然，回廊尽头传来了众人的脚步声——被我们下坠时的动静吸引，所有人都从主屋出来查看了。}}\n{{对话|甘宁|啥玩意砸下来了……啊？}}\n{{对话|荀彧|三位是从哪凭空落下的？|头像=荀彧}}\n{{对话|孙策|这就……说来话长了。|头像=孙策}}\n{{对话|我|荀彧先生，借一步说话！|头像=广陵王-生气}}\n{{对话|荀彧|哎……哎？|头像=荀彧}}\n{{旁白|我拽过他，拉进了一旁的耳房。}}\n{{旁白|【耳房】}}\n{{对话|我|先生带甘宁来，有何目的？|头像=广陵王-挑眉}}\n{{对话|荀彧|……殿下所言，在下不甚明了。}}\n{{对话|我|我直说吧。许县派来的使者不是你。你也不是被甘宁打劫。|头像=广陵王-摇头}}\n{{对话|我|是你雇了甘宁，灭口了原来的使者，接替了他此次前来江东的职务。|头像=广陵王-严肃}}\n{{对话|荀彧|……}}\n{{对话|荀彧|吴郡在叛乱。许都以为，这是趁乱除去孙策的良机。}}\n{{对话|我|你不站在任何人那边，你站在苍生与汉室那边。使者前来筹谋刺杀孙策，与你无冲突，你何必阻拦？|头像=广陵王-挑眉}}\n{{旁白|陋室幽香，他低低笑了，眉目低垂。}}\n{{对话|荀彧|孙策若死，扬州必定大乱。但这种乱，是蛰伏的士族所挑起的乱。}}\n{{对话|荀彧|动乱会迅速平息，扬州重回士族之手。所以，这不是我想看到的乱，它不够乱。}}\n{{对话|我|你想挑动孙策杀士族。|头像=广陵王-严肃}}\n{{旁白|他抬眼，一抹华光闪过眸色，像转瞬的惊涛。}}\n{{对话|荀彧|不止。}}\n{{旁白|他欠身行礼，退出了耳房。}}\n{{旁白|【主屋】}}\n{{对话|孙权|南阳白薯？}}\n{{对话|诸葛诞|嗯！是我们特意带来的。如果有夜宴的话，可以给各位贵人尝尝鲜。|头像=诸葛诞}}\n{{对话|孙尚香|但为什么那么小颗啊？只有寻常白薯一半大小，好可怜……|头像=孙尚香}}\n{{对话|诸葛瑾|咳咳！咳咳咳！|头像=诸葛瑾}}\n{{对话|士燮|这是在耍人吗……居然在这么破败的宅子里宴宾客……|头像=士燮}}\n{{对话|蒯越|这才叫真正的待客啊。比起那些金碧辉煌的豪门，带客人来不加粉饰的老宅，展露了孙氏的赤诚之心啊。|头像=蒯越}}\n{{对话|甘宁|啊……这是翠玉吗？从前只劫到过一次，真是漂亮的颜色啊……|头像=甘宁}}\n{{对话|士燮|离我远点！谁准你近我一步之内的？|头像=士燮}}\n{{对话|孙策|话说……今晚其实没有准备夜宴！}}\n{{对话|孙策|想来想去还是试胆比较好玩啊……把食案都挪开！点蜡烛！}}\n{{旁白|一时纷闹的主屋、不知该不该准备宴席的侍从……我回头望行屋外。月色中，墙下似有两道朦胧人影。}}\n{{旁白|双瞳异色的男人背负着昏迷的干吉，朝我颔首。云遮月影，月色再明亮时，两人皆已不见。}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·十六|上一章}}</center>\n<br>\n<center><font class='zhuxiancolor'><a href=\"#top\" >回到顶部</a></font></center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

@@ -1,0 +1,435 @@
+{
+  "title": "青丘戏坊/活动剧情/许攸",
+  "category": "活动剧情",
+  "characters": [
+    "我",
+    "许攸"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "以前年少，常和孟德、本初、孟卓来戏坊观百戏。那些旧戏已经很少再唱了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "只是闲聊而已，怎么会是密谋呢？在戏坊、白日、密谋，还能算是密谋吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "哈欠……年纪大了，熬不得夜。不尽快入睡，很容易被往事缠上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "总是在赢的人，承担不起输的风险。啊，殿下又赢了啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "这就是输的滋味吗？没有想象的差。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "殿下不妨猜猜下一局的结果？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "赢得太轻易，会觉得此事有诈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "只是喝酒而已？已经很久没有这样单纯的对局了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "常来戏坊吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "不常来。不是每个主公都愿意自掏腰包让下属吃喝玩乐的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "经常连谈五六椿生意，只报销一壶茶，一碟饵饼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "饵饼呈在碟子一整天，入口时往往已经凉透了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "平日不保养？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "为何要保养？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "越是精心保养，越怕露出瑕疵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "做过哪些亏心事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "何等强势，直接预设在下做过了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "没什么亏心的，做了就做了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "对谁从没说过假话？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "对殿下……哈哈，殿下一定不信。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=q版-许攸",
+      "emotion": "谁会不说假话呢？人连对自己都无法诚实。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头许攸brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''许攸'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"初见对话&水榭戏台/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"水榭戏台/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援火把应援火把"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这样挥就可以吗？……是我的肩膀在响……/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px手持幅巾手持幅巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"年轻人都会做这样的幅巾，去喜爱之人面前挥舞吗？……稍微想了一下，在下去的话有些难堪。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px千里镜千里镜"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"孟德也有一个，是从本初那里借的。借了不还？那不是很正常么？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px鼓掌拍鼓掌拍"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"当着主公的面，岂能用此物来表达欢心喜悦？不诚心啊，这可不行。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px耳塞（青丘戏坊）耳塞"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"做谋士的，闭目塞听可不行啊。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px应援扇应援扇"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我推哪位百戏艺人？……为什么要推人？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px瓜子瓜子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"磨牙之物，多吃易生口疮，在下先行告退了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px铃鼓铃鼓"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"密室相谈时，以此物在屋外击奏，倒是可以隔绝六耳。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px号筒号筒"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"当久了传声筒，会忘记如何发出自己的声音。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具（青丘戏坊）博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"每次背叛主公都是豪赌，赌注越玩越大，已经懒得看这些牌桌上的筹码了。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰饮子（青丘戏坊）冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好冷，但比起殿下的心，还是略逊一筹。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼（青丘戏坊）糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"唔……糕饼中有牛髓、羊髓、蜂蜜，在下说的对吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露紫果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"在下还是不饮酒了，免得醉后失言，说出殿下不爱听的话。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘（青丘戏坊）果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"都是南边的水果，殿下和交州的关系……比想象中更近啊。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px投壶投壶"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"若遇到心胸有限的前主公，前同僚，箭矢不小心飞向在下，岂非效李敢为鹿触杀之事？不妙，不妙。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px赏钱赏钱"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这……无功不受禄，可若要继续聊下去，殿下给得又太少。/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"colora06051\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"常来戏坊吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao平日不保养？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao做过哪些亏心事？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao对谁从没说过假话？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%9D%92%E4%B8%98%E6%88%8F%E5%9D%8A/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E8%AE%B8%E6%94%B8",
+  "crawled_at": "2026-04-12T22:04:44.714039",
+  "raw_wikitext": "{{面包屑|2025活动剧情|青丘戏坊/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:青丘戏坊背景.png}}}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/蛾使|蛾使}}\n{{板块|按钮|青丘戏坊/活动剧情/眭固|眭固}}\n{{板块|按钮|青丘戏坊/活动剧情/雀使|雀使}}\n{{板块|按钮|青丘戏坊/活动剧情/第五天|第五天}}\n{{板块|按钮|青丘戏坊/活动剧情/许攸|许攸}}\n{{板块|按钮|青丘戏坊/活动剧情/许曼|许曼}}\n{{板块|按钮|青丘戏坊/活动剧情/鲁肃|鲁肃}}<br>\n{{板块|按钮|青丘戏坊/活动剧情/戏学|戏学}}\n{{板块|按钮|青丘戏坊/活动剧情/张燕|张燕}}\n{{板块|按钮|青丘戏坊/活动剧情/吕蒙|吕蒙}}\n{{板块|按钮|青丘戏坊/活动剧情/张仲景|张仲景}}\n{{板块|按钮|青丘戏坊/活动剧情/张郃|张郃}}\n{{板块|按钮|青丘戏坊/活动剧情/张飞|张飞}}\n{{板块|按钮|青丘戏坊/活动剧情/华佗|华佗}}\n</center>{{JS|Qiantao.js}}[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-许攸.png|100px|团建密探小头-许攸]]<br><br>\n'''许攸'''\n</center>\n='''<span style=\"color:#a06051\">初见对话&水榭戏台</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|许攸|殿下竟然会邀请我？不可置信。|头像=q版-许攸|语音=许攸-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">水榭戏台</p>\n|\n{{对话-头}}\n{{对话语音|许攸|还在学宫时，有人弹琴，有人鼓瑟，有人击磐，也算一段好时候。|头像=q版-许攸|语音=许攸-水榭戏台}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#a06051\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 戏坊小物 !! 对话内容 !! 性格标签 !! 戏坊小物 !! 对话内容 !! 性格标签\n|-\n| [[file:应援火把.png|30px|应援火把]][[应援火把|应援火把]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=应援火把|对应援火把的喜好=|语音=|性格标签=/|语音内容=这样挥就可以吗？……是我的肩膀在响……}}</nowiki>\">这样挥就可以吗？……是我的肩膀在响……</span>\n|| /\n| [[file:手持幅巾.png|30px|手持幅巾]][[手持幅巾|手持幅巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=手持幅巾|对手持幅巾的喜好=|语音=|性格标签=/|语音内容=年轻人都会做这样的幅巾，去喜爱之人面前挥舞吗？……稍微想了一下，在下去的话有些难堪。}}</nowiki>\">年轻人都会做这样的幅巾，去喜爱之人面前挥舞吗？……稍微想了一下，在下去的话有些难堪。</span>\n|| /\n|-\n| [[file:千里镜.png|30px|千里镜]][[千里镜|千里镜]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=千里镜|对千里镜的喜好=|语音=|性格标签=/|语音内容=孟德也有一个，是从本初那里借的。借了不还？那不是很正常么？}}</nowiki>\">孟德也有一个，是从本初那里借的。借了不还？那不是很正常么？</span>\n|| /\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:鼓掌拍.png|30px|鼓掌拍]][[鼓掌拍|鼓掌拍]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=鼓掌拍|对鼓掌拍的喜好=讨厌|语音=|性格标签=/|语音内容=当着主公的面，岂能用此物来表达欢心喜悦？不诚心啊，这可不行。}}</nowiki>\">当着主公的面，岂能用此物来表达欢心喜悦？不诚心啊，这可不行。</span>\n||/\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:耳塞（青丘戏坊）.png|30px|耳塞（青丘戏坊）]][[耳塞（青丘戏坊）|耳塞]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=耳塞（青丘戏坊）|对耳塞（青丘戏坊）的喜好=讨厌|语音=|性格标签=/|语音内容=做谋士的，闭目塞听可不行啊。}}</nowiki>\">做谋士的，闭目塞听可不行啊。</span>\n|| /\n| [[file:应援扇.png|30px|应援扇]][[应援扇|应援扇]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=应援扇|对应援扇的喜好=|语音=|性格标签=/|语音内容=我推哪位百戏艺人？……为什么要推人？}}</nowiki>\">我推哪位百戏艺人？……为什么要推人？</span>\n|| /\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:瓜子.png|30px|瓜子]][[瓜子|瓜子]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=瓜子|对瓜子的喜好=讨厌|语音=|性格标签=挑剔|语音内容=磨牙之物，多吃易生口疮，在下先行告退了。}}</nowiki>\">磨牙之物，多吃易生口疮，在下先行告退了。</span>\n|| {{色块|命盘红|挑剔}}\n|  <sup>[[file:绿脸.png|18px|link=none]]</sup>[[file:铃鼓.png|30px|铃鼓]][[铃鼓|铃鼓]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=铃鼓|对铃鼓的喜好=喜欢|语音=|性格标签=/|语音内容=密室相谈时，以此物在屋外击奏，倒是可以隔绝六耳。}}</nowiki>\">密室相谈时，以此物在屋外击奏，倒是可以隔绝六耳。</span>\n|| /\n|-\n| [[file:号筒.png|30px|号筒]][[号筒|号筒]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=号筒|对号筒的喜好=|语音=|性格标签=/|语音内容=当久了传声筒，会忘记如何发出自己的声音。}}</nowiki>\">当久了传声筒，会忘记如何发出自己的声音。</span>\n|| /\n| [[file:博具（青丘戏坊）.png|30px|博具（青丘戏坊）]][[博具（青丘戏坊）|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=博具（青丘戏坊）|对博具（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=每次背叛主公都是豪赌，赌注越玩越大，已经懒得看这些牌桌上的筹码了。}}</nowiki>\">每次背叛主公都是豪赌，赌注越玩越大，已经懒得看这些牌桌上的筹码了。</span>\n|| /\n|-\n|[[file:冰饮子（青丘戏坊）.png|30px|冰饮子（青丘戏坊）]][[冰饮子（青丘戏坊）|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=冰饮子（青丘戏坊）|对冰饮子（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=好冷，但比起殿下的心，还是略逊一筹。}}</nowiki>\">好冷，但比起殿下的心，还是略逊一筹。</span>\n|| /\n| [[file:糕饼（青丘戏坊）.png|30px|糕饼（青丘戏坊）]][[糕饼（青丘戏坊）|糕饼]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=糕饼（青丘戏坊）|对糕饼（青丘戏坊）的喜好=|语音=|性格标签=好舌头|语音内容=唔……糕饼中有牛髓、羊髓、蜂蜜，在下说的对吗？}}</nowiki>\">唔……糕饼中有牛髓、羊髓、蜂蜜，在下说的对吗？</span>\n|| {{色块|绿|好舌头}}\n|-\n|[[file:果子露-紫.png|30px|果子露-紫]][[果子露（青丘戏坊）|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=果子露（青丘戏坊）|对果子露（青丘戏坊）的喜好=|语音=|性格标签=/|语音内容=在下还是不饮酒了，免得醉后失言，说出殿下不爱听的话。}}</nowiki>\">在下还是不饮酒了，免得醉后失言，说出殿下不爱听的话。</span>\n|| /\n|[[file:果盘（青丘戏坊）.png|30px|果盘（青丘戏坊）]][[果盘（青丘戏坊）|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=果盘（青丘戏坊）|对果盘（青丘戏坊）的喜好=|语音=|性格标签=竖个耳朵|语音内容=都是南边的水果，殿下和交州的关系……比想象中更近啊。}}</nowiki>\">都是南边的水果，殿下和交州的关系……比想象中更近啊。</span>\n|| {{色块|命盘蓝|竖个耳朵}}\n|-\n| <sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:投壶.png|30px|投壶]][[投壶|投壶]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=投壶|对投壶的喜好=讨厌|语音=|性格标签=以史为鉴|语音内容=若遇到心胸有限的前主公，前同僚，箭矢不小心飞向在下，岂非效李敢为鹿触杀之事？不妙，不妙。}}</nowiki>\">若遇到心胸有限的前主公，前同僚，箭矢不小心飞向在下，岂非效李敢为鹿触杀之事？不妙，不妙。</span>\n|| {{色块|命盘蓝|以史为鉴}}\n| [[file:赏钱.png|30px|赏钱]][[赏钱|赏钱]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{戏坊-喜好-语音/悬浮|密探=许攸|喜好物品=赏钱|对赏钱的喜好=|语音=|性格标签=/|语音内容=这……无功不受禄，可若要继续聊下去，殿下给得又太少。}}</nowiki>\">这……无功不受禄，可若要继续聊下去，殿下给得又太少。</span>\n|| /\n|}\n\n='''<span style=\"color:#a06051\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|许攸|以前年少，常和孟德、本初、孟卓来戏坊观百戏。那些旧戏已经很少再唱了。|头像=q版-许攸}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|许攸|只是闲聊而已，怎么会是密谋呢？在戏坊、白日、密谋，还能算是密谋吗？|头像=q版-许攸}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|许攸|哈欠……年纪大了，熬不得夜。不尽快入睡，很容易被往事缠上。|头像=q版-许攸}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#a06051\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|许攸|总是在赢的人，承担不起输的风险。啊，殿下又赢了啊……|头像=q版-许攸}}\n{{旁白|许攸喝下一杯果子露}}\n{{对话|许攸|这就是输的滋味吗？没有想象的差。|头像=q版-许攸}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|许攸|殿下不妨猜猜下一局的结果？|头像=q版-许攸}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|许攸|赢得太轻易，会觉得此事有诈。|头像=q版-许攸}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|许攸|只是喝酒而已？已经很久没有这样单纯的对局了。|头像=q版-许攸}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#a06051\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">常来戏坊吗？</div>\n{{对话-头}}\n{{对话|我|常来戏坊吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|许攸|不常来。不是每个主公都愿意自掏腰包让下属吃喝玩乐的。|头像=q版-许攸}}\n{{对话|许攸|经常连谈五六椿生意，只报销一壶茶，一碟饵饼。|头像=q版-许攸}}\n{{对话|许攸|饵饼呈在碟子一整天，入口时往往已经凉透了。|头像=q版-许攸}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>平日不保养？</div>\n{{对话-头}}\n{{对话|我|平日不保养？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|许攸|为何要保养？|头像=q版-许攸}}\n{{对话|许攸|越是精心保养，越怕露出瑕疵。|头像=q版-许攸}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>做过哪些亏心事？</div>\n{{对话-头}}\n{{对话|我|做过哪些亏心事？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|许攸|何等强势，直接预设在下做过了吗？|头像=q版-许攸}}\n{{对话|许攸|没什么亏心的，做了就做了。|头像=q版-许攸}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>对谁从没说过假话？</div>\n{{对话-头}}\n{{对话|我|对谁从没说过假话？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|许攸|对殿下……哈哈，殿下一定不信。|头像=q版-许攸}}\n{{对话|许攸|谁会不说假话呢？人连对自己都无法诚实。|头像=q版-许攸}}\n{{对话-尾}}\n<center>\n{{板块|按钮|青丘戏坊/活动剧情/许曼|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

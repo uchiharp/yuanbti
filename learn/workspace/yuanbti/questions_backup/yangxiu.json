@@ -1,0 +1,232 @@
+[
+  {
+    "id": "q_yangxiu_1",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "杨修",
+    "source_story": "双重身份",
+    "route_hint": null,
+    "city_hint": "许县",
+    "text": "「真正的杨修早已病死了。」杨修（刘琦）的真实身份是荆州刘表长子，因继母迫害冒充病死的杨修。如果你被迫成为另一个人你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "全力演好这个角色不露破绽",
+        "scores": {
+          "S4": 5,
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "演但留一些真实的自己",
+        "scores": {
+          "S4": 3,
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "找机会恢复真实身份",
+        "scores": {
+          "S4": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "「真正的杨修早已病死了。」这句话没有主语——他说的到底是杨修还是曾经的天真刘琦？"
+  },
+  {
+    "id": "q_yangxiu_2",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "杨修",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「你这幅画画的是什么呀？棍子吗？」「杀了我也没用你得不到任何东西的」杨修嘴毒犀利。如果你被人冒犯你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用毒舌怼回去",
+        "scores": {
+          "S7": 4,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "冷处理不当回事",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "用幽默化解",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "杨修：嘴毒犀利赌场社交时能言善辩。"
+  },
+  {
+    "id": "q_yangxiu_3",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "杨修",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我想求广陵王一件事。由你亲手杀了我。」杨修的临终托付——把命押在唯一没算计过的人身上。如果你是杨修面对绝境你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "把最后的命交给最信任的人",
+        "scores": {
+          "S6": 3.5,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "自己想办法活下去，值得关注",
+        "scores": {
+          "S6": 2,
+          "S10": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "坦然接受命运，这说明了一",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "临终托付广陵王杀自己——把命押在唯一一个他没有算计过的人身上。"
+  },
+  {
+    "id": "q_yangxiu_4",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你发现一个快冻死在路边的人。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "二话不说救回家",
+        "scores": {
+          "S8": 4,
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "给他些吃的喝的就走",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不关我的事绕过去",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "杨修：「他看起来快冻死了总不能真的活埋了他。」不计后果救陌生人。"
+  },
+  {
+    "id": "q_yangxiu_5",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「踏进赌场哪还有什么全身而退。」你更认同哪种生存哲学？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一旦入局就要玩到底",
+        "scores": {
+          "S3": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "能退的时候就退",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "根本不该踏进赌场",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "杨修的赌徒哲学——清楚自己活在伪装里。"
+  },
+  {
+    "id": "q_yangxiu_6",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "本公子加上头冠身高八尺！不，九尺！",
+        "scores": {
+          "S2": 3.5,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "真正的杨修早已病死了。，值得深思",
+        "scores": {
+          "S2": 2,
+          "S4": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A是杨修虚张声势掩饰恐惧；B是他最令人心碎的坦白。"
+  }
+]

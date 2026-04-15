@@ -1,0 +1,690 @@
+{
+  "title": "天下隐光/活动剧情/伍·往世昭回",
+  "category": "活动剧情",
+  "characters": [
+    "令狐茂",
+    "安期",
+    "左慈",
+    "巫谢",
+    "我",
+    "葛洪",
+    "酆公玖",
+    "酆公珠",
+    "长生塔剑仙"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "长生塔剑仙",
+      "text": "头像=男文人",
+      "emotion": "阁主！徐神带人下午了，还没有消息传回。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "蜀山的四处“锁”有关死吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长生塔剑仙",
+      "text": "头像=男文人",
+      "emotion": "其中两处已经关死。还有南北两处，因为祭坛倒塌、阵眼残缺破损，眼下还没有关死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "地窟的入口已经显露了，下面就是地脉。四处“锁”全部关死，才能阻止杀生仙带走龙气。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "——现在还能让灵河静止多久，王子茂？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "最多一刻……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "灵河水几乎已经被扶桑木的残骸蒸发了……建木和若木根系都在复苏，扶桑残骸的傩也在增长……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "再这样下去，三生石阵眼失守，扶桑火浆会淹没整座蜀山……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "继续维持住水神精魄。吾去锁阵处落锁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……阁主，我好像……快要羽化了……呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "地脉异变会引发仙人羽化，强定心神。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……我能听见……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "……我能听见地脉下，元直的声音……她负伤了，无法带祢衡逃脱……呃！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "师尊在此坐镇，我可带人往南北祭坛修复阵眼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "杀生仙还在游走，山林中皆是恶兽，你们难以抵达。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "但若此地崩溃，战局定然恶化。再者，杀生仙若带走龙气，必将重创西蜀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我熟悉地形，有长生塔剑仙随行，师尊不必担心，我能抵达两处锁阵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……你若要去，带上隐光。只要它还在，应能护你抵达祭坛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "——南北祭坛现在谁在留守？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长生塔剑仙",
+      "text": "头像=男文人",
+      "emotion": "是酆公兄妹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好。让仙门工官随她行动，其余人守住灵河。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "无论杀生仙从外攻来，还是从地窟内杀出，绝不能放弃三生石阵眼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾在此坐镇三生石。修复完祭坛之后，尽快随酆公兄妹回来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "但若有难以应对的意外，绝不要强撑，立刻撤往山门，离开蜀山。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊在此坐镇，我带人往南北祭坛修复阵眼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "……阿兄那边，似乎有些力竭了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "不如别管这座祭坛，去救援阿兄吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "酆公前辈，阵眼的情况如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "啊，是郭姐啊……阵眼？关顾着听他们说死前的秘密，忘记去看阵眼了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前辈你认错了，是我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "哦哦……是玄鸟的孩子呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "总是分不清你们这些年轻的孩子，只能通过兵器来认人了……隐光剑断了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "前往灵河畔的路上断的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "怎么能把自己弄成这样呢……对了，对了，阵眼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "——想起来了，不当心把它压在下面了。你们能把它挖开吗？我想先去阿兄那边……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "唔……听见了，又有一批杀生仙朝这里汇聚了。要我帮忙再杀一遍吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "这是遗言吗？我准备把你的蛇皮扒下来，替香做一把长弓。蛇女。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "姜来了呀。想要前辈的皮吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公珠",
+      "text": "头像=酆公珠",
+      "emotion": "那就靠近一点来取吧……啊，头过来就行了，身子不用过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这处“锁”已经落下了……去下一处吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "呼……好乖好乖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "是小世子吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我带工官前来修复阵眼。灵河情势危急。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "啊……没关系，无论谁输谁赢，我和阿妹都不在乎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "之所以守在这里，只是因为不想跟杀生仙他们一起在地脉里追来赶去罢了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "劳烦前辈继续戒备，工官准备修补祭坛和阵眼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "灵河畔情势紧张，等两处锁阵都落下后，还需请前辈尽快前往支援。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "呼……又来了一群，没事，慢慢吃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "酆公前辈，今夜有局吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "啊，还没约呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "还以为前辈不会和珠前辈分开……既然今夜单身，不如和小仙约一场如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "你驯养的这些灵兽，是第几代了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "是第九代吧？毕竟之前几次动乱，灵兽的寿命没有上古那么漫长了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "这些孩子跟着你从各地山林回仙门的吧……毕竟，大家都很喜欢兔子呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "小仙可是祥瑞白兔哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "啊哈哈……我觉得它们跟着你的时候，倒不会很在意你是什么颜色。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "酆公玖",
+      "text": "头像=酆公玖",
+      "emotion": "这些灵兽的先祖，几乎都是我和珠诞下的。喂食的时候，它们是真的从来没和我们挑剔过兔子的颜色。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=葛洪",
+      "emotion": "它们也没和小仙挑剔过蛇的颜色。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这样一来，南北两座祭坛的阵眼就都修补完成，四处“锁”全部落下了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "！！！呃——又地动了。灵河的方向……！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长生塔剑仙",
+      "text": "头像=男文人",
+      "emotion": "四道锁全部落下了！壶关君！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "头像=令狐茂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "就快结束了。锁阵落下，准备让灵河静止，让吾进入地窟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "令狐茂",
+      "text": "头像=令狐茂",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "壶关君没有意识了……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长生塔剑仙",
+      "text": "头像=男文人",
+      "emotion": "……他开始羽化了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……将隐光交吾。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……蜥蜴蜥蜴，兴云吐雾。雨若滂沱，放汝归去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "临时以隐光作为阵眼，水神无法停留太久。看护隐光，吾前往地窟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "只要地上锁阵不破，此地便安全。动身吧，酆公。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我不能一起去吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "吾留了隐光在此。待在隐光附近，你就是安全的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "留在此地，吾会带元直他们平安回来。地窟内情势未明，你并非仙人，进入后难以自保。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……唔？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……那是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长生塔剑仙",
+      "text": "头像=男文人",
+      "emotion": "等等，你去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "他要去做什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "长生塔剑仙",
+      "text": "头像=男文人",
+      "emotion": "你们去哪？！别过去！都给我停下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "他带走了隐光！呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "祭祀，准备开始了吗？"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"天下隐光/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background899dd3;color5642a6;textaligncenter;!标题背景和字色改这行颜色"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundB7CCEE;!背景2（导航）改B7CCEE"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''伍·往世昭回'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "往世昭回·一"
+    },
+    {
+      "type": "narration",
+      "text": "祭坛·一"
+    },
+    {
+      "type": "narration",
+      "text": "祭坛·二"
+    },
+    {
+      "type": "narration",
+      "text": "往世昭回·二"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E4%BC%8D%C2%B7%E5%BE%80%E4%B8%96%E6%98%AD%E5%9B%9E",
+  "crawled_at": "2026-04-12T22:07:43.568209",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|活动剧情|天下隐光/活动玩法}}\n{{回到顶部|头}}{{背景图片|{{filepath:天下隐光背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">天下隐光</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|天下隐光/活动剧情|序}}\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|壹·天崩地坼}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|贰·王为巫首}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|叁·扶桑已烬}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|肆·白龙垂目}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|伍·往世昭回}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|陆·天下隐光}}\n</center>\n</div></div>\n{{JS|Qiantao.js}}\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#899dd3;color:#5642a6;text-align:center;}<!--标题背景和字色改这行颜色-->\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#B7CCEE;}<!--背景2（导航）改#B7CCEE-->\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n<center>\n='''伍·往世昭回'''=\n</center>\n==往世昭回·一==\n{{对话-头}}\n{{旁白|【灵河畔】}}\n{{旁白|火红的灵河水再度汹涌。河水中央显现出蜀山地窟的入口，火浆从入口周围倾泻而下，散发出浩荡的黑烟。}}\n{{旁白|以三生石为阵眼，法阵无声展开，压制着地窟内涌出的、足以令蜀山崩裂的力量。}}\n{{对话|长生塔剑仙|阁主！徐神带人下午了，还没有消息传回。|头像=男文人}}\n{{对话|左慈|蜀山的四处“锁”有关死吗？}}\n{{对话|长生塔剑仙|其中两处已经关死。还有南北两处，因为祭坛倒塌、阵眼残缺破损，眼下还没有关死。|头像=男文人}}\n{{对话|左慈|地窟的入口已经显露了，下面就是地脉。四处“锁”全部关死，才能阻止杀生仙带走龙气。}}\n{{对话|左慈|——现在还能让灵河静止多久，王子茂？}}\n{{旁白|河岸边，灵花不断盛开，又不断在火浆中化为灰烬。众仙所护卫的高台上，壶关君正在施术，周身都被灵花藤蔓覆盖。}}\n{{对话|令狐茂|最多一刻……}}\n{{对话|令狐茂|灵河水几乎已经被扶桑木的残骸蒸发了……建木和若木根系都在复苏，扶桑残骸的傩也在增长……}}\n{{对话|令狐茂|再这样下去，三生石阵眼失守，扶桑火浆会淹没整座蜀山……}}\n{{对话|左慈|继续维持住水神精魄。吾去锁阵处落锁。|头像=左慈}}\n{{对话|令狐茂|……阁主，我好像……快要羽化了……呃……}}\n{{对话|左慈|地脉异变会引发仙人羽化，强定心神。|头像=左慈}}\n{{对话|令狐茂|……我能听见……}}\n{{对话|令狐茂|……我能听见地脉下，元直的声音……她负伤了，无法带祢衡逃脱……呃！！！}}\n{{旁白|骤然地动，灵河汹涌，被撕裂的河床让河水倒灌，地窟的入口崩塌得更为巨大。}}\n{{旁白|高台上，他身上遍布的灵花骤然昌盛，疯狂蚕食血肉。高耸的祭台有倾塌之兆，整座蜀山在暗夜中泛着火色，像是山石下的渗血。}}\n{{对话|我|师尊在此坐镇，我可带人往南北祭坛修复阵眼。|头像=广陵王-严肃}}\n{{对话|左慈|杀生仙还在游走，山林中皆是恶兽，你们难以抵达。}}\n{{对话|我|但若此地崩溃，战局定然恶化。再者，杀生仙若带走龙气，必将重创西蜀。|头像=广陵王-严肃}}\n{{对话|我|我熟悉地形，有长生塔剑仙随行，师尊不必担心，我能抵达两处锁阵。|头像=广陵王-点头}}\n{{对话|左慈|……你若要去，带上隐光。只要它还在，应能护你抵达祭坛。}}\n{{对话|左慈|——南北祭坛现在谁在留守？}}\n{{对话|长生塔剑仙|是酆公兄妹。|头像=男文人}}\n{{对话|左慈|好。让仙门工官随她行动，其余人守住灵河。}}\n{{对话|左慈|无论杀生仙从外攻来，还是从地窟内杀出，绝不能放弃三生石阵眼。}}\n{{旁白|他将隐光断剑交于我。剑身的剔透剑光变得黯淡了，正在逐渐浑浊。}}\n{{对话|左慈|吾在此坐镇三生石。修复完祭坛之后，尽快随酆公兄妹回来。}}\n{{对话|左慈|但若有难以应对的意外，绝不要强撑，立刻撤往山门，离开蜀山。}}\n{{}}\n{{对话|我|师尊在此坐镇，我带人往南北祭坛修复阵眼。|头像=广陵王-微笑}}\n{{对话-尾}}\n==祭坛·一==\n{{对话-头}}\n{{对话|酆公珠|……阿兄那边，似乎有些力竭了……|头像=酆公珠}}\n{{对话|酆公珠|不如别管这座祭坛，去救援阿兄吧？|头像=酆公珠}}\n{{对话|我|酆公前辈，阵眼的情况如何？|头像=广陵王-微笑}}\n{{对话|酆公珠|啊，是郭姐啊……阵眼？关顾着听他们说死前的秘密，忘记去看阵眼了。|头像=酆公珠}}\n{{旁白|她拍了拍身下的杀生仙头颅。}}\n{{对话|我|前辈你认错了，是我。|头像=广陵王-微笑}}\n{{对话|酆公珠|……|头像=酆公珠}}\n{{对话|酆公珠|哦哦……是玄鸟的孩子呀。|头像=酆公珠}}\n{{旁白|她坐在无数尸首堆砌成的山堆上，彩衣在风中飘荡，被风吹动，宛如蜿蜒游走的蛇鳞。}}\n{{对话|酆公珠|总是分不清你们这些年轻的孩子，只能通过兵器来认人了……隐光剑断了吗？|头像=酆公珠}}\n{{对话|我|前往灵河畔的路上断的……|头像=广陵王-微笑}}\n{{对话|酆公珠|怎么能把自己弄成这样呢……对了，对了，阵眼。|头像=酆公珠}}\n{{旁白|她跃下尸山，带着淡淡的笑意，看向它的下方。}}\n{{对话|酆公珠|——想起来了，不当心把它压在下面了。你们能把它挖开吗？我想先去阿兄那边……|头像=酆公珠}}\n{{对话|酆公珠|唔……听见了，又有一批杀生仙朝这里汇聚了。要我帮忙再杀一遍吗？|头像=酆公珠}}\n{{对话|安期|这是遗言吗？我准备把你的蛇皮扒下来，替香做一把长弓。蛇女。|头像=安期}}\n{{对话|酆公珠|姜来了呀。想要前辈的皮吗？|头像=酆公珠}}\n{{对话|酆公珠|那就靠近一点来取吧……啊，头过来就行了，身子不用过来。|头像=酆公珠}}\n\n{{对话|我|这处“锁”已经落下了……去下一处吧。|头像=广陵王-微笑}}\n{{对话-尾}}\n==祭坛·二==\n{{对话-头}}\n{{对话|酆公玖|呼……好乖好乖……|头像=酆公玖}}\n{{旁白|意外寂静的祭坛中央，月光静谧，彩衣仙人独坐，和蔼地望着手中的夜雀，用掌心的谷穗喂它们。}}\n{{旁白|在今夜遍布厮杀的蜀山，这里宁静得仿佛零基础天地。听见我们的脚步声，仙人抬起头，笑意澄净清澈。}}\n{{对话|酆公玖|是小世子吗？|头像=酆公玖}}\n{{对话|我|我带工官前来修复阵眼。灵河情势危急。|头像=广陵王-微笑}}\n{{对话|酆公玖|啊……没关系，无论谁输谁赢，我和阿妹都不在乎。|头像=酆公玖}}\n{{对话|酆公玖|之所以守在这里，只是因为不想跟杀生仙他们一起在地脉里追来赶去罢了……|头像=酆公玖}}\n{{对话|我|劳烦前辈继续戒备，工官准备修补祭坛和阵眼。|头像=广陵王-微笑}}\n{{对话|我|灵河畔情势紧张，等两处锁阵都落下后，还需请前辈尽快前往支援。|头像=广陵王-微笑}}\n{{对话|酆公玖|呼……又来了一群，没事，慢慢吃……|头像=酆公玖}}\n{{旁白|他仿佛没继续听我的话，低头盯着那些夜雀。}}\n{{对话|葛洪|酆公前辈，今夜有局吗？|头像=葛洪}}\n{{对话|酆公玖|啊，还没约呢。|头像=酆公玖}}\n{{对话|葛洪|还以为前辈不会和珠前辈分开……既然今夜单身，不如和小仙约一场如何？|头像=葛洪}}\n{{旁白|山林间，无数兽声逼近，环绕祭坛。他手中夜雀惊飞，刚回到树间，便伴随凄厉惨叫，被树冠间的黑影拖入树影。}}\n{{旁白|酆公玖苦笑，循着惨叫声看去。}}\n{{对话|酆公玖|你驯养的这些灵兽，是第几代了？|头像=酆公玖}}\n{{对话|酆公玖|是第九代吧？毕竟之前几次动乱，灵兽的寿命没有上古那么漫长了……|头像=酆公玖}}\n{{旁白|一条披着羽毛的巨蟒自树影下现身，围着我们缓缓游走盘踞。}}\n{{旁白|他伸出手。巨蟒有一瞬间做出了攻击态势，然而下一刻，它似乎感应到了什么，温驯地将头贴在了他的掌心。}}\n{{对话|酆公玖|这些孩子跟着你从各地山林回仙门的吧……毕竟，大家都很喜欢兔子呢。|头像=酆公玖}}\n{{对话|葛洪|小仙可是祥瑞白兔哦。|头像=葛洪}}\n{{对话|酆公玖|啊哈哈……我觉得它们跟着你的时候，倒不会很在意你是什么颜色。|头像=酆公玖}}\n{{旁白|下一刻，巨蟒回首，蛇眸注视着葛洪，杀意改换了目标。带着对食欲的饥渴，转向了葛洪。}}\n{{对话|酆公玖|这些灵兽的先祖，几乎都是我和珠诞下的。喂食的时候，它们是真的从来没和我们挑剔过兔子的颜色。|头像=酆公玖}}\n{{对话|葛洪|它们也没和小仙挑剔过蛇的颜色。|头像=葛洪}}\n\n{{对话|我|这样一来，南北两座祭坛的阵眼就都修补完成，四处“锁”全部落下了……|头像=广陵王-微笑}}\n{{对话|我|！！！呃——又地动了。灵河的方向……！|头像=广陵王-微笑}}\n{{对话-尾}}\n==往世昭回·二==\n{{对话-头}}\n{{旁白|【灵河畔】}}\n{{对话|长生塔剑仙|四道锁全部落下了！壶关君！|头像=男文人}}\n{{对话|令狐茂|……|头像=令狐茂}}\n{{对话|左慈|就快结束了。锁阵落下，准备让灵河静止，让吾进入地窟。}}\n{{对话|令狐茂|…………|头像=令狐茂}}\n{{对话|我|壶关君没有意识了……呃！|头像=广陵王-难受}}\n{{旁白|随着地动，高台崩塌，灵河火海近乎疯狂地膨胀。乌角悬住落石和众人，缓缓落地。}}\n{{对话|长生塔剑仙|……他开始羽化了……|头像=男文人}}\n{{对话|左慈|……}}\n{{旁白|火海四溢，蜀山夜空被映得一片血红。}}\n{{旁白|壶关君身上的灵花彻底失控，飞速包裹着他的身躯，从花蕊中不断吐出羽毛，仿佛花苞是无数张咀嚼的嘴，嚼碎被捕获的鸟类。}}\n{{对话|左慈|……将隐光交吾。}}\n{{旁白|我把隐光还给他。已经彻底浑浊的剑身，失去了所有的光华。}}\n{{旁白|他将断剑插入泥土，面朝灵河拜下。}}\n{{对话|左慈|……蜥蜴蜥蜴，兴云吐雾。雨若滂沱，放汝归去。|头像=左慈}}\n{{旁白|天际骤然惊雷，云雨汇聚于隐光上空。暴雨倾盆，烈火地狱泛起霎那的清冷。}}\n{{对话|左慈|临时以隐光作为阵眼，水神无法停留太久。看护隐光，吾前往地窟。}}\n{{对话|左慈|只要地上锁阵不破，此地便安全。动身吧，酆公。}}\n{{对话|我|我不能一起去吗？|头像=广陵王-严肃}}\n{{对话|左慈|吾留了隐光在此。待在隐光附近，你就是安全的。}}\n{{对话|左慈|留在此地，吾会带元直他们平安回来。地窟内情势未明，你并非仙人，进入后难以自保。}}\n{{旁白|暴雨让火浆凝结片刻，他们去往地窟入口，身影消失……}}\n{{旁白|【片刻后】}}\n{{旁白|雨势转小。又发生了几场地动，灵河水再度开始了流淌。}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|……唔？|头像=广陵王-挑眉}}\n{{旁白|我看见远处的天际出现一道雪色，恍然间难辨是日出还是月色。}}\n{{旁白|那道雪光细而漫长，如九天之上破开的一点星光，隐约闪烁……}}\n{{对话|我|……那是……|头像=广陵王-惊讶}}\n{{旁白|——云帝宫。}}\n{{旁白|我看见了，云帝宫浮空而上，悬于九天，成为了与明月相对的另一道清影。}}\n{{对话|长生塔剑仙|等等，你去哪？|头像=男文人}}\n{{旁白|身边的声音拉回我的神智。有一名山水郎忽然跑向河岸，不断朝着地窟入口挣扎跋涉。}}\n{{对话|我|他要去做什么……|头像=广陵王-挑眉}}\n{{旁白|只是转眼，天上的云帝宫消失了，一切仿佛都不曾发生，除了我之外，没有人见到它高悬九天。}}\n{{对话|长生塔剑仙|你们去哪？！别过去！都给我停下！|头像=男文人}}\n{{旁白|一名、两名……越来越多的人不知为何涌向地窟。无论其他人如何呼唤，都无法惊醒他们。}}\n{{旁白|突然天地惊雷，河水汹涌，有护持隐光的剑仙猛地拔出隐光，大笑着怀着断剑，跃入火红的入口之中——}}\n{{旁白|心理|隐光！！！}}\n{{对话|我|他带走了隐光！呃——|头像=广陵王-难受}}\n{{旁白|我刚起身，就被身边的人裹挟着带往地窟入口。所有人都在朝向一个地方蜂拥，我被带着，离入口越来越近——}}\n{{旁白|心理|……}}\n{{旁白|心理|…………}}\n{{对话|巫谢|祭祀，准备开始了吗？|头像=黑人影}}\n{{对话-尾}}\n\n<center>\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|上一页}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

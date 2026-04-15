@@ -1,0 +1,254 @@
+{
+  "title": "南有乔木/22",
+  "category": "主线剧情",
+  "characters": [
+    "吕蒙",
+    "孙策",
+    "守卫",
+    "山贼乙",
+    "山贼头目",
+    "山贼甲",
+    "我",
+    "水军乙",
+    "水军甲"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "运气可真好，直接带了个小美人回去！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "救命啊......",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "救！命！！啊！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼乙",
+      "text": "别让他们追上了！快点！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼乙",
+      "text": "这娘们，有两下子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "追上了！就在前面！人还不少！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军甲",
+      "text": "少主！我来了！唔噗！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "左边有棵树！你看不见吗？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军甲",
+      "text": "戴着眼罩，没……看……见……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军乙",
+      "text": "啊呀呀！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你想去哪？！这个方向！看不见就把面具摘下来啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军乙",
+      "text": "啊呀呀呀呀！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "啊，完全跑反了…….",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "一群废物！少主，我从左边包抄！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "还是你可靠！小心大乔，别伤到她！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "放心放心，嫂夫人的安危就交……阿巴阿巴阿巴巴巴……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "站住！给我把人放了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼乙",
+      "text": "哼，只有你一个人追上来，又有什么用？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "他们人数太多了，少主，回去请援手！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼乙",
+      "text": "这个女的，啧啧，长得可真不错，老大一定喜…",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼乙",
+      "text": "…欢…",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼头目",
+      "text": "怕什么？他只有一个人！围起来杀啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "怕的话就叫出声，我不笑你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不想看就可以闭上眼，不想听就可以捂住耳朵。有我在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我不害怕。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这才对嘛。我在这，你什么都不用怕。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "很快就会结束的。今天的猎物，还是少了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守卫",
+      "text": "回来了！少主和女公子都回来了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "她受了惊吓。让府里准备酽茶，再让医师过来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我先去换身衣服……待会儿收拾好了，就来找你。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "丹阳贼"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8D%97%E6%9C%89%E4%B9%94%E6%9C%A8/22",
+  "crawled_at": "2026-04-12T21:57:13.865264",
+  "raw_wikitext": "==丹阳贼==\n{{JS|Qiantao.js}}\n{{对话-头}}\n{{旁白|心理|这些人…是真的山贼？！不是吴夫人派来的助攻？}}}}\n{{对话|山贼甲|运气可真好，直接带了个小美人回去！}}\n{{嵌套分歧|头}}\n{{嵌套分歧|装柔弱的呼救|1}}\n{{嵌套分歧|干掉他|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|救命啊......}}\n{{旁白|心理|不行，怎么有气无力的。}}}}\n{{对话|我|救！命！！啊！！！}}\n{{旁白|四周又出现了许多山贼，看来，山贼窝点就在附近。}}\n{{对话|山贼乙|别让他们追上了！快点！}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|山贼甲|呃……}}\n{{旁白|我抓了把树叶。擦掉短刀血迹，想等孙策过来。可是，四周出现了几十条人影。}}\n{{对话|山贼乙|这娘们，有两下子……}}\n{{嵌套分歧|内容尾}}\n{{对话|孙策|追上了！就在前面！人还不少！}}\n{{对话|水军甲|少主！我来了！唔噗！}}\n<center>[[file:插图-南有乔木22-1.jpg|link=|300px]]</center>\n{{对话|孙策|左边有棵树！你看不见吗？！}}\n{{对话|水军甲|戴着眼罩，没……看……见……}}\n{{对话|水军乙|啊呀呀！}}\n<center>[[file:插图-南有乔木22-2.jpg|link=|300px]]</center>\n{{对话|孙策|你想去哪？！这个方向！看不见就把面具摘下来啊！}}\n{{对话|水军乙|啊呀呀呀呀！}}\n{{对话|我|啊，完全跑反了…….}}\n{{对话|吕蒙|一群废物！少主，我从左边包抄！}}\n<center>[[file:插图-南有乔木22-3.jpg|link=|300px]]</center>\n{{对话|孙策|还是你可靠！小心大乔，别伤到她！}}\n{{对话|吕蒙|放心放心，嫂夫人的安危就交……阿巴阿巴阿巴巴巴……}}\n<center>[[file:插图-南有乔木22-4.jpg|link=|300px]]</center>\n{{旁白|吕蒙被女装裙摆绊倒，滚下山坡不见了。}}\n{{对话|我|……}}\n{{对话|孙策|……}}\n{{旁白|东汉末年，汉室倾颓，广陵王气死于江东。}}\n<center>[[file:插图-南有乔木22-5.jpg|link=|300px]]</center>\n{{旁白|【丹阳贼营】}}\n{{对话|孙策|站住！给我把人放了！}}\n{{对话|山贼乙|哼，只有你一个人追上来，又有什么用？}}\n{{对话|我|他们人数太多了，少主，回去请援手！}}\n{{对话|山贼乙|这个女的，啧啧，长得可真不错，老大一定喜…}}\n{{旁白|刀光闪现，如清风般吹过他的脖颈。}}\n{{对话|山贼乙|…欢…}}\n{{旁白|他的人头落地前，我己被孙策护到身后。风猎猎吹起他的红袍，像一团盘踞的火。}}\n{{对话|山贼头目|怕什么？他只有一个人！围起来杀啊！}}\n<center>[[file:插图-南有乔木22-6.jpg|link=|300px]]</center>\n{{对话|孙策|怕的话就叫出声，我不笑你。}}\n{{对话|孙策|不想看就可以闭上眼，不想听就可以捂住耳朵。有我在。}}\n{{嵌套分歧|头}}\n{{嵌套分歧|我不害怕|1}}\n{{嵌套分歧|闭上眼|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|我不害怕。}}\n{{旁白|我看着他。刀刃尚在滴血，被血浸得发暖。}}\n<center>[[file:插图-南有乔木22-7.jpg|link=|300px]]</center>\n{{对话|孙策|这才对嘛。我在这，你什么都不用怕。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|我闭上双眼。}}\n{{旁白|刀剑声、血腥味、哀嚎声……}}\n{{旁白|只是，没有任何东西伤害到我。}}\n{{嵌套分歧|内容尾}}\n{{对话|孙策|很快就会结束的。今天的猎物，还是少了！}}\n{{旁白|【寿春】}}\n{{对话|守卫|回来了！少主和女公子都回来了！}}\n{{对话|孙策|她受了惊吓。让府里准备酽茶，再让医师过来。}}\n{{旁白|我准备下马，他伸手扶我。但伸出的双臂满是血迹，他的动作顿了顿。}}\n{{对话|孙策|我先去换身衣服……待会儿收拾好了，就来找你。}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

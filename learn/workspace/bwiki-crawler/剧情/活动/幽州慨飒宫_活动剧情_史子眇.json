@@ -1,0 +1,429 @@
+{
+  "title": "幽州慨飒宫/活动剧情/史子眇",
+  "category": "活动剧情",
+  "characters": [
+    "史子眇",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "骊山的温泉水可治疮病，那是一位神女的住处呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "想听星星的故事吗？从前，有几朵玫瑰和一位小柿子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "我带了点心，不过洒了一半......咦，小鱼漂起来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "原来规则是这样呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "好像没什么味道......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "辩儿若在，一定吵着要出一样的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "咦？我赢了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "莫要贪杯，头疼就不好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最近有什么开心的事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "绣衣楼的后厨找我去帮忙做菜！一定是孩子们很想念我的手艺。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "对了，这个后厨为什么要在脸上再盖一层皮？不会硌到鼻梁上的钉子吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "只有一块点心时会给谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "给左君呀。以前元直就问过我这道题。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "给左君的话，他就能把点心变成两块了。祢衡说他肯定不敢吃被左君变出来的那块，我记得。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "对时间的感知会变得钝化吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "昔日的友人都故去后，确实在很长一段日子里，不再清楚时间的刻度……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "不过，现在有你和辩儿了呀，一天天长大的你们，就是我时间中的刻度。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "对未来有什么期待？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "希望孩子们都平安顺遂……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=温泉-史子眇-Q版",
+      "emotion": "有空的时候，多来找找史君呀。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头史子眇brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''史子眇'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "classyuantable1 style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px温泉蛋温泉蛋"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"原来还可以这么做……是加了水银吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "好学"
+    },
+    {
+      "type": "narration",
+      "text": "30px澡豆澡豆"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这个盒子好紧实，可以用来装怕潮的药草。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鬃刷鬃刷"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好孩子真是周到。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"要不要给左君也送一套？他从前常被你扯头发。/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px熏炉熏炉"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我刚刚在外边就闻到了香气，原来是它的味道。/span"
+    },
+    {
+      "type": "narration",
+      "text": "熏炉遇人"
+    },
+    {
+      "type": "narration",
+      "text": "30px陶搓石陶搓石"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"仙人无需沐浴，竟不知人间的搓石已这么方便了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好孩子喜欢这个口味？我改日做一做。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好贴心呀，谢谢。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰块冰块"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"是用我房里的硝石制的吗？我好像和断肠子放在一起了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px海盐海盐"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"原来是洗浴用品，我好像加到点心里了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"小石从前爱玩这个，现在还在流行吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px牛乳牛乳"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"你小时候掉进膳房奶缸里，那算不算第一次奶浴？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px炙肉拼盘炙肉拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我许久不吃这样的东西了....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"不是水吗？好像没喝出区别……/span"
+    },
+    {
+      "type": "narration",
+      "text": "千杯不倒"
+    },
+    {
+      "type": "narration",
+      "text": "30px木鸭木鸭"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好可爱，孩子们现在还会喜欢这些吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px果盘果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"要把蜜瓜做成小时候喜欢的形状吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "兔兔耳朵"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"最近有什么开心的事？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao只有一块点心时会给谁？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao对时间的感知会变得钝化吗？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao对未来有什么期待？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BD%E5%B7%9E%E6%85%A8%E9%A3%92%E5%AE%AB/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%8F%B2%E5%AD%90%E7%9C%87",
+  "crawled_at": "2026-04-12T22:09:17.284340",
+  "raw_wikitext": "{{面包屑|活动剧情|幽州慨飒宫/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:幽州慨飒宫背景.png}}}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/鸢使|鸢使}}\n{{板块|按钮|幽州慨飒宫/活动剧情/崔烈|崔烈}}\n{{板块|按钮|幽州慨飒宫/活动剧情/楼班|楼班}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨阜|杨阜}}\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|阿蝉}}\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|王异}}\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|史子眇}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|陈登}}\n{{板块|按钮|幽州慨飒宫/活动剧情/刘繇|刘繇}}\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|孙尚香}}\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|程昱}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨修|杨修}}\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|徐庶}}\n{{板块|按钮|幽州慨飒宫/活动剧情/张闿|张闿}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-史子眇.png|100px|团建密探小头-史子眇]]<br><br>\n'''史子眇'''\n</center>\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=yuantable1 style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签\n|-\n| [[file:温泉蛋.png|30px|温泉蛋]][[温泉蛋|温泉蛋]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=温泉蛋|对温泉蛋的喜好=|语音=|性格标签=好学|语音内容=原来还可以这么做……是加了水银吗？}}</nowiki>\">原来还可以这么做……是加了水银吗？</span>\n||好学\n| [[file:澡豆.png|30px|澡豆]][[澡豆|澡豆]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=澡豆|对澡豆的喜好=|语音=|性格标签=/|语音内容=这个盒子好紧实，可以用来装怕潮的药草。}}</nowiki>\">这个盒子好紧实，可以用来装怕潮的药草。</span>\n||/\n|-\n| [[file:鬃刷.png|30px|鬃刷]][[鬃刷|鬃刷]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=鬃刷|对鬃刷的喜好=|语音=|性格标签=/|语音内容=好孩子真是周到。}}</nowiki>\">好孩子真是周到。</span>\n||/\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=要不要给左君也送一套？他从前常被你扯头发。}}</nowiki>\">要不要给左君也送一套？他从前常被你扯头发。</span>\n||/\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:熏炉.png|30px|熏炉]][[熏炉|熏炉]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=熏炉|对熏炉的喜好=喜欢|语音=|性格标签=熏炉遇人|语音内容=我刚刚在外边就闻到了香气，原来是它的味道。}}</nowiki>\">我刚刚在外边就闻到了香气，原来是它的味道。</span>\n||熏炉遇人\n| [[file:陶搓石.png|30px|陶搓石]][[陶搓石|陶搓石]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=陶搓石|对陶搓石的喜好=|语音=|性格标签=/|语音内容=仙人无需沐浴，竟不知人间的搓石已这么方便了......}}</nowiki>\">仙人无需沐浴，竟不知人间的搓石已这么方便了......</span>\n||/\n|-\n| [[file:糕饼.png|30px|糕饼]][[糕饼|糕饼]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=糕饼|对糕饼的喜好=|语音=|性格标签=/|语音内容=好孩子喜欢这个口味？我改日做一做。}}</nowiki>\">好孩子喜欢这个口味？我改日做一做。</span>\n||/\n| [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=素巾|对素巾的喜好=|语音=|性格标签=/|语音内容=好贴心呀，谢谢。}}</nowiki>\">好贴心呀，谢谢。</span>\n|| /\n|-\n|[[file:冰块.png|30px|冰块]][[冰块|冰块]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=冰块|对冰块的喜好=|语音=|性格标签=/|语音内容=是用我房里的硝石制的吗？我好像和断肠子放在一起了......}}</nowiki>\">是用我房里的硝石制的吗？我好像和断肠子放在一起了......</span>\n|| /\n| [[file:海盐.png|30px|海盐]][[海盐|海盐]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=海盐|对海盐的喜好=|语音=|性格标签=/|语音内容=原来是洗浴用品，我好像加到点心里了......}}</nowiki>\">原来是洗浴用品，我好像加到点心里了......</span>\n|| /\n|-\n| [[file:博具.png|30px|博具]][[博具|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=博具|对博具的喜好=|语音=|性格标签=/|语音内容=小石从前爱玩这个，现在还在流行吗？}}</nowiki>\">小石从前爱玩这个，现在还在流行吗？</span>\n|| /\n| [[file:牛乳.png|30px|牛乳]][[牛乳|牛乳]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=牛乳|对牛乳的喜好=|语音=|性格标签=/|语音内容=你小时候掉进膳房奶缸里，那算不算第一次奶浴？}}</nowiki>\">你小时候掉进膳房奶缸里，那算不算第一次奶浴？</span>\n|| /\n|-\n| [[file:炙肉拼盘.png|30px|炙肉拼盘]][[炙肉拼盘|炙肉拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=炙肉拼盘|对炙肉拼盘的喜好=|语音=|性格标签=/|语音内容=我许久不吃这样的东西了......}}</nowiki>\">我许久不吃这样的东西了......</span>\n|| /\n| [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=果子露|对果子露的喜好=|语音=|性格标签=千杯不倒|语音内容=不是水吗？好像没喝出区别……}}</nowiki>\">不是水吗？好像没喝出区别……</span>\n||千杯不倒\n|-\n| [[file:木鸭.png|30px|木鸭]][[木鸭|木鸭]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=木鸭|对木鸭的喜好=|语音=|性格标签=/|语音内容=好可爱，孩子们现在还会喜欢这些吗？}}</nowiki>\">好可爱，孩子们现在还会喜欢这些吗？</span>\n|| /\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:果盘.png|30px|果盘]][[果盘|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=史子眇|喜好物品=果盘|对果盘的喜好=喜欢|语音=|性格标签=兔兔耳朵|语音内容=要把蜜瓜做成小时候喜欢的形状吗？}}</nowiki>\">要把蜜瓜做成小时候喜欢的形状吗？</span>\n||兔兔耳朵\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|史子眇|骊山的温泉水可治疮病，那是一位神女的住处呢。|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|史子眇|想听星星的故事吗？从前，有几朵玫瑰和一位小柿子……|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|史子眇|我带了点心，不过洒了一半......咦，小鱼漂起来了？|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|史子眇|原来规则是这样呀。|头像=温泉-史子眇-Q版}}\n{{旁白|【史子眇喝下一杯果子露】}}\n{{对话|史子眇|好像没什么味道......|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|史子眇|辩儿若在，一定吵着要出一样的。|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|史子眇|咦？我赢了吗？|头像=温泉-史子眇-Q版}}\n{{旁白|【我喝下一杯果子露。】}}\n{{对话|史子眇|莫要贪杯，头疼就不好了。|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n<br>\n|}\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">最近有什么开心的事？</div>\n{{对话-头}}\n{{对话|我|最近有什么开心的事？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|史子眇|绣衣楼的后厨找我去帮忙做菜！一定是孩子们很想念我的手艺。|头像=温泉-史子眇-Q版}}\n{{对话|史子眇|对了，这个后厨为什么要在脸上再盖一层皮？不会硌到鼻梁上的钉子吗？|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>只有一块点心时会给谁？</div>\n{{对话-头}}\n{{对话|我|只有一块点心时会给谁？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|史子眇|给左君呀。以前元直就问过我这道题。|头像=温泉-史子眇-Q版}}\n{{对话|史子眇|给左君的话，他就能把点心变成两块了。祢衡说他肯定不敢吃被左君变出来的那块，我记得。|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>对时间的感知会变得钝化吗？</div>\n{{对话-头}}\n{{对话|我|对时间的感知会变得钝化吗？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|史子眇|昔日的友人都故去后，确实在很长一段日子里，不再清楚时间的刻度……|头像=温泉-史子眇-Q版}}\n{{对话|史子眇|不过，现在有你和辩儿了呀，一天天长大的你们，就是我时间中的刻度。|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>对未来有什么期待？</div>\n{{对话-头}}\n{{对话|我|对未来有什么期待？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|史子眇|希望孩子们都平安顺遂……|头像=温泉-史子眇-Q版}}\n{{对话|史子眇|有空的时候，多来找找史君呀。|头像=温泉-史子眇-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

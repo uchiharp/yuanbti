@@ -1,0 +1,87 @@
+[
+  {
+    "id": "q_anqi_1",
+    "dimension": "S4",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "安期",
+    "source_story": "山隐鸢阁",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "安期身为鸢阁仙门中人，常以温润如玉的面目示人，内心却深藏算计。若有人以利相诱，要你背叛鸢阁的秘密——",
+    "options": [
+      {
+        "label": "A",
+        "text": "欣然应允，趁势套取对方更多信息",
+        "scores": {
+          "S4": 1,
+          "S1": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不动声色，既不拒绝也不答应，静观其变",
+        "scores": {
+          "S4": 3,
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "当面拒绝，绝不以虚伪的面目掩盖真心",
+        "scores": {
+          "S4": 5,
+          "S1": 1,
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "安期选择：以笑意为刃，暗中布局，让对方以为自己掌控全局。"
+  },
+  {
+    "id": "q_anqi_2",
+    "dimension": "S9",
+    "cross_dimension": "S4",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「欲掌天下，先掌人心。」你更认同以下哪种说法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "人心不足蛇吞象，不如以势压人来得直接",
+        "scores": {
+          "S9": 1,
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "势可借一时，心可驭一世，二者缺一不可",
+        "scores": {
+          "S9": 3,
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "人心如水，善驭者无形无迹，方为上策",
+        "scores": {
+          "S9": 5,
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "此题暗合安期之理念——以无形之术驭有形之势。"
+  }
+]

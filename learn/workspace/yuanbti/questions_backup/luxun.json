@@ -1,0 +1,94 @@
+[
+  {
+    "id": "q_luxun_1",
+    "dimension": "S1",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "陆逊",
+    "source_story": "夷陵之战",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "陆逊以火烧连营之计大败刘备，一战成名。面对以少敌多的绝境——",
+    "options": [
+      {
+        "label": "A",
+        "text": "力拼到底，宁战死不退缩",
+        "scores": {
+          "S1": 1,
+          "S5": 4,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "冷静分析局势，寻找对手的破绽",
+        "scores": {
+          "S1": 4,
+          "S6": 3,
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "假意示弱诱敌深入，一举歼灭",
+        "scores": {
+          "S1": 5,
+          "S6": 4,
+          "S4": 4,
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陆逊的选择：隐忍数月不战，待蜀军疲惫后一击致命。"
+  },
+  {
+    "id": "q_luxun_2",
+    "dimension": "S6",
+    "cross_dimension": "S1",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「智者千虑，必有一失。」当你精心布局的计划出现纰漏时——",
+    "options": [
+      {
+        "label": "A",
+        "text": "立刻调整计划，随机应变",
+        "scores": {
+          "S6": 2,
+          "S1": 3,
+          "S5": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "权衡利弊后决定是继续还是放弃",
+        "scores": {
+          "S6": 3,
+          "S1": 3,
+          "S9": 2,
+          "S3": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "即便计划有误，也绝不做违背底",
+        "scores": {
+          "S6": 5,
+          "S1": 2,
+          "S10": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "陆逊的底线坚如磐石，谋略可以变，原则不可改。"
+  }
+]

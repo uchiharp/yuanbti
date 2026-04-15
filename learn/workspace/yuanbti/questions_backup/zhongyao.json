@@ -1,0 +1,85 @@
+[
+  {
+    "id": "q_zhongyao_1",
+    "dimension": "S10",
+    "cross_dimension": "S9",
+    "type": "story_known",
+    "source_character": "钟繇",
+    "source_story": "镇守关中",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "钟繇受命镇守关中，在曹操后方维持稳定。面对关中各路诸侯的明争暗斗——",
+    "options": [
+      {
+        "label": "A",
+        "text": "联合一方打压另一方，以战止战",
+        "scores": {
+          "S10": 1,
+          "S9": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "以朝廷法度为准则，公正处理各方争端",
+        "scores": {
+          "S10": 4,
+          "S9": 3,
+          "S6": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "严刑峻法，铁腕治关，不许任何人越雷池",
+        "scores": {
+          "S10": 5,
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "钟繇的选择：以法度镇关中，恩威并施。"
+  },
+  {
+    "id": "q_zhongyao_2",
+    "dimension": "S6",
+    "cross_dimension": "S10",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你发现绣衣楼的档案中有一份关于你至亲的不利记录——",
+    "options": [
+      {
+        "label": "A",
+        "text": "偷偷销毁记录，保护至亲",
+        "scores": {
+          "S6": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "如实上报，让组织来处理",
+        "scores": {
+          "S6": 4,
+          "S10": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "主动请缨负责此案，确保公正处理",
+        "scores": {
+          "S6": 5,
+          "S10": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "钟繇会以法度为先，公私分明。"
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "title": "模板:密探留音",
+  "category": "密探留音",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "头分类密探留音留音名称__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "default开始"
+    },
+    {
+      "type": "narration",
+      "text": "90px留音节"
+    },
+    {
+      "type": "narration",
+      "text": "brdiv style\"borderradius1px 35px;backgroundrgb(255,255,255,0.7);width 95%;marginauto;boxshadow 66666669 5px 5px 2px;padding20px 20px;colorrgb(99,55,25);marginbottom20px\""
+    },
+    {
+      "type": "narration",
+      "text": "结束/div"
+    },
+    {
+      "type": "narration",
+      "text": "/includeonly"
+    },
+    {
+      "type": "narration",
+      "text": "noinclude"
+    },
+    {
+      "type": "narration",
+      "text": "密探留音录入"
+    },
+    {
+      "type": "narration",
+      "text": "此模板用于录入密探留音"
+    },
+    {
+      "type": "narration",
+      "text": "使用方法"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "密探留音内容（换行请使用br）"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "效果展示"
+    },
+    {
+      "type": "narration",
+      "text": "pre"
+    },
+    {
+      "type": "narration",
+      "text": "内容1内容1内容1内容1brbr"
+    },
+    {
+      "type": "narration",
+      "text": "内容1内容1内容1内容1brbr"
+    },
+    {
+      "type": "narration",
+      "text": "内容1内容1内容1内容1"
+    },
+    {
+      "type": "narration",
+      "text": "内容2内容2内容2内容2"
+    },
+    {
+      "type": "narration",
+      "text": "/pre"
+    },
+    {
+      "type": "narration",
+      "text": "内容1内容1内容1内容1brbr"
+    },
+    {
+      "type": "narration",
+      "text": "内容1内容1内容1内容1brbr"
+    },
+    {
+      "type": "narration",
+      "text": "内容1内容1内容1内容1"
+    },
+    {
+      "type": "narration",
+      "text": "内容2内容2内容2内容2"
+    },
+    {
+      "type": "narration",
+      "text": "/noinclude"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E6%A8%A1%E6%9D%BF%3A%E5%AF%86%E6%8E%A2%E7%95%99%E9%9F%B3",
+  "crawled_at": "2026-04-12T22:44:44.138520",
+  "raw_wikitext": "<includeonly>{{#switch:{{{1|}}}\n|头=[[分类:密探留音]]{{回到顶部|头}}{{面包屑|密探|密探留音|{{{2|}}}}}{{#set:|密探={{{2}}}|留音名称={{{3}}}}}__TOC__\n|#default={{#switch:{{{3|}}}|开始=\n===[[file:小头像-{{{1|}}}.png|90px]]{{{1|}}}留音-{{{2|}}}节===\n<br><div style=\"border-radius:1px 35px;background:rgb(255,255,255,0.7);width: 95%;margin:auto;box-shadow: #66666669 5px 5px 2px;padding:20px 20px;color:rgb(99,55,25);margin-bottom:20px\">\n|结束=</div>}}\n|尾={{:密探留音一览}}{{回到顶部|尾}}\n}}</includeonly>\n<noinclude>\n==密探留音录入==\n此模板用于录入密探留音\n==使用方法==\n<pre>\n{{密探留音|头|密探名|留音名（如有，默认为空）}}\n{{密探留音|密探名|章节名|开始}}\n密探留音内容（换行请使用<br>）\n{{密探留音|密探名|章节名|结束}}\n{{密探故事录入|尾}}\n</pre>\n==效果展示==\n<pre>\n{{密探留音|头|陈登}}\n{{密探留音|陈登|01|开始}}\n内容1内容1内容1内容1<br><br>\n内容1内容1内容1内容1<br><br>\n内容1内容1内容1内容1\n{{密探留音|陈登|01|结束}}\n{{密探留音|陈登|02|开始}}\n内容2内容2内容2内容2\n{{密探留音|陈登|02|结束}}\n{{密探留音|尾}}\n</pre>\n{{密探留音|头|陈登|留音壹}}\n{{密探留音|陈登|01|开始}}\n内容1内容1内容1内容1<br><br>\n内容1内容1内容1内容1<br><br>\n内容1内容1内容1内容1\n{{密探留音|陈登|01|结束}}\n{{密探留音|陈登|02|开始}}\n内容2内容2内容2内容2\n{{密探留音|陈登|02|结束}}\n{{密探留音|尾}}\n</noinclude>"
+}

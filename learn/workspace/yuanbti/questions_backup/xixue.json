@@ -1,0 +1,117 @@
+[
+  {
+    "id": "q_xixue_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "戏学",
+    "source_story": "精卫楼船",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「哎呀，是判官……」一秒内从天真切换到威胁。戏学的面具切换速度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "情绪不稳定，这说明了一些问题",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "演技天花板——三张脸无缝切换",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在故意吓人，这说明了一些问题",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "戏学是代号鸢演技天花板，面具厚度和切换速度排名第一。"
+  },
+  {
+    "id": "q_xixue_02",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "戏学",
+    "source_story": "黑山使者",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「你如今是陛下的心腹，能接触到许多不得了的秘密。这些秘密送去袁氏可以换不少荣华富贵呢……」戏学的拉拢方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在找靠山，从中可以看出他的真",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "精准抓住身份红利，值得关注",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "真的想背叛，这说明了一些问题",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "戏学的权谋——不是为向上攀爬，是为活下来。"
+  },
+  {
+    "id": "q_xixue_03",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "戏学",
+    "source_story": "新阳城守",
+    "route_hint": null,
+    "city_hint": "新阳",
+    "text": "「父亲和三哥，劳烦去城中大户借粮……我和殿下去见校尉，主持城中备战。」指挥调度条理分明，说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的很有能力，这说明了",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "完美扮演少年县令，值得关注",
+        "scores": {
+          "S5": 4,
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在装得了一时装不了一世",
+        "scores": {
+          "S5": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "戏学——调度指挥绝非笨阿七能做到的。"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "庞德_s6_01",
+    "type": "classic",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "庞德",
+    "text": "庞德说「我带了药来，你今日好些了吗？」他看望生病的同袍，坚持履行照顾同伴的责任。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「你也受伤了，先顾自己」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "关心对方但可能转移了焦点→S6:3"
+      },
+      {
+        "label": "B",
+        "text": "说「有你在，我们都会好起来」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "肯定他的责任感和对集体的作用→S6:5"
+      },
+      {
+        "label": "C",
+        "text": "说「别管我了，先去忙别的」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "拒绝他的关心，否定他的责任感→S6:1"
+      }
+    ],
+    "reveal": "「我带了药来，你今日好些了吗？」——庞德探病同袍"
+  },
+  {
+    "id": "庞德_s5_02",
+    "type": "daily",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "庞德",
+    "text": "庞德主动前来找到你，沉声预警：“张修行踪不明，鬼城很快就会发生异变……我担心形势恶化，故而前来。”他不是多话的人，愿意亲自跑一趟，说明事态紧急。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「我们一起去找张修」",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "立即响应，共同行动→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "说「你先去准备，我随后就来」",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "支持但不立即行动→S5:3"
+      },
+      {
+        "label": "C",
+        "text": "说「别慌，再看看」",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "建议等待，行动延迟→S5:1"
+      }
+    ],
+    "reveal": "「张修行踪不明，鬼城很快就会发生异变……我担心形势恶化，故而前来。」——庞德的危机预警"
+  },
+  {
+    "id": "庞德_s7_04",
+    "type": "angst",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "庞德",
+    "text": "与庞德重逢时，他只说了一句：“阿期你还是这样，一点没变……”语气克制，但这简短的话里藏着锋利的评价——他什么都知道，只是不说破。",
+    "options": [
+      {
+        "label": "A",
+        "text": "问「你希望他变吗？」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "挖掘话语背后的锋利意味→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "说「没变也挺好」",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "钝化他的锋芒，安慰式回应→S7:1"
+      },
+      {
+        "label": "C",
+        "text": "沉默，让他继续说",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "不回应也不回避→S7:3"
+      }
+    ],
+    "reveal": "「阿期你还是这样，一点没变……」——庞德的克制重逢"
+  },
+  {
+    "id": "庞德_s3_05",
+    "type": "sweet",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "庞德",
+    "text": "庞德望着远方，叹了口气：“我老了……已经不可能像当年一样，带你们去往各处了。”他坦然承认自己能力的局限，务实地面对现实，不逞强。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「我带你」",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "务实回应，角色反转→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "说「你还有我们」",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "情感安慰但不够具体→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "说「别这么说」",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "空泛安慰，回避现实问题→S3:1"
+      }
+    ],
+    "reveal": "「我老了……已经不可能像当年一样，带你们去往各处了。」——庞德对自己的务实认知"
+  },
+  {
+    "id": "pangde_s10_1",
+    "type": "classic",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "pangde",
+    "text": "庞德说「我带了药来你今日好些了吗」他把药放在桌上。",
+    "options": [
+      {
+        "label": "C",
+        "text": "说谢谢你的药我会按时吃的",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "遵守医嘱尊重对方的关心→S10:5"
+      },
+      {
+        "label": "A",
+        "text": "说放着吧有空再吃",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "接受但不着急→S10:3"
+      },
+      {
+        "label": "B",
+        "text": "说我不用药你拿回去吧",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "拒绝他人的关心和建议→S10:1"
+      }
+    ],
+    "reveal": "庞德沉默寡言但总是用实际行动关心身边的人。"
+  }
+]

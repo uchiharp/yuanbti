@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "q_zhouyu_01",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "三千轮回",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「……第一百二十七次……我记得很清楚。在第一百二十七次回溯时我用尽全力也只是把你的死亡延后了三个月。」周瑜的情感是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "执念太深不健康，值得关注",
+        "scores": {
+          "S2": 3,
+          "S6": 2,
+          "S1": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "带有神性执念的守护，值得深思",
+        "scores": {
+          "S2": 5,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在夸大其词，这说明了一些问题",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜对广陵王的情感——三千次回溯中的守护。"
+  },
+  {
+    "id": "q_zhouyu_02",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "天下大势",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「北地在乱战，袁绍袁术公孙瓒多方混战。秋季顺流艨艟可日夜疾行奇袭许县。一旦入冬水面覆冰机会转瞬即逝。」周瑜的权谋？",
+    "options": [
+      {
+        "label": "A",
+        "text": "普通谋士水平，这说明了一些问题",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "全游戏天花板级别的战，值得深思",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "纸上谈兵，从中可以看出他的真实想法",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜的权谋是全游戏天花板——三千次回溯带来的信息量。"
+  },
+  {
+    "id": "q_zhouyu_03",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "少年窘迫",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「这座学宫的食堂看起来不像是我能吃得起的样子。能借我些零钱吗，我去外面的食肆吃。」周瑜对金钱的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "穷但不愿意承认，值得关注",
+        "scores": {
+          "S3": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "务实清醒光明正大，值得关注",
+        "scores": {
+          "S3": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在博同情，从中可以看出他",
+        "scores": {
+          "S3": 2.5,
+          "S8": 1,
+          "S2": 1
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜——对钱的态度始终是务实的透明的。"
+  },
+  {
+    "id": "q_zhouyu_04",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "慈悲即残忍",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「吃下去就不会痛了……快吃吧……送走了你我就要开始下一场傩了。」周瑜的底线悖论？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太可怕了，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "为了保护可以杀死，值得关注",
+        "scores": {
+          "S6": 4,
+          "S8": 3,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在找借口，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜的底线存在致命悖论——为了保护可以杀死。"
+  },
+  {
+    "id": "q_zhouyu_05",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "给我撞",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「江东艨艟——给我撞——」计算完所有变量后选择最直接最暴力的方案，这说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "鲁莽冲动，从中可以看出",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "谋定而后动——暴力是计",
+        "scores": {
+          "S5": 5,
+          "S1": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "有实力就是可以为所欲为",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜的行动力——谋略的延伸而非冲动。"
+  },
+  {
+    "id": "q_zhouyu_06",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "完美世子",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「这次我不是殿下，唤我公瑾就好。」放下所有身份只以兄长存在，这说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的把广陵王当妹妹",
+        "scores": {
+          "S4": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "面具偶尔卸下时露出最",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在拉近关系，这说明了",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜的面具——把真实的自己藏在层层职责之下。"
+  },
+  {
+    "id": "q_zhouyu_07",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "留琴",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「我不带琴走了把它留在这了。你们走的时候别忘了它。」周瑜的温柔方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "送东西留纪念，这说明了一些问题",
+        "scores": {
+          "S8": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "用行动编织密不透风的保护网",
+        "scores": {
+          "S8": 5,
+          "S5": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "暗示自己可能回不来，值得深思",
+        "scores": {
+          "S4": 4,
+          "S6": 3,
+          "S1": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周瑜的温柔——从不直说我在乎你，而是用行动。"
+  },
+  {
+    "id": "q_zhouyu_08",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "万物生死",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「所有的宇宙最后大抵都是这样的。求生欲望狂喜死去。万物生死皆是如此。」周瑜对秩序的认知？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太悲观了，从中可以看",
+        "scores": {
+          "S10": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "见过太多次文明的建立",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在为自己的行为找借口",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜——见过三千次秩序的建立与毁灭。"
+  },
+  {
+    "id": "q_zhouyu_09",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "瞬间爆发",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「对吕蒙借我刀。再敢说一遍试试。」平时温文尔雅但触碰底线时瞬间爆发，这说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "脾气不好，从中可以看出他的真",
+        "scores": {
+          "S7": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "内敛精准一击致命，值得关注",
+        "scores": {
+          "S7": 4,
+          "S6": 3,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在虚张声势，这说明了一些问题",
+        "scores": {
+          "S7": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜的锋芒——内敛的精准的瞬间爆发。"
+  },
+  {
+    "id": "q_zhouyu_10",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "周瑜",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「我只想这样好好地看着你。」一个人经历了三百多次你的死亡仍然选择重新来过。你觉得这是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "病态的执念，这说明了一些问题",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "超越爱情范畴的带有神，值得深思",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "太傻了，从中可以看出他的真实想法",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜——三千次回溯中的至死不渝。"
+  },
+  {
+    "id": "q_zhouyu_11",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "周瑜",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「你以为是我自以为是替你决定什么对你好吗？！你最后都选了一样的东西没有一次例外！」崩溃到吼出这句话的人，他的面具？",
+    "options": [
+      {
+        "label": "A",
+        "text": "终于崩溃了露出了真面目",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "面具裂开——三百次崩溃",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在道德绑架，这说明了一些问题",
+        "scores": {
+          "S4": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜的面具——在三千次轮回中逐渐异化但仍强撑正常。"
+  },
+  {
+    "id": "q_zhouyu_12",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "周瑜",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「崩溃过差点疯掉过……第一次动手时甚至还吐了。第十次就好多了……第一百次就熟能生巧了。」这种语气说明了什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "已经麻木了，这说明了一些问题",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "底线被磨成了程序，值得关注",
+        "scores": {
+          "S6": 4,
+          "S10": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在吹嘘，从中可以看出他的真实想法",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜的底线——在三千次回溯中早已被磨成了程序。"
+  },
+  {
+    "id": "q_zhouyu_13",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "周瑜",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "一个人从小在贫困中长大，替人抄书赚钱，成年后掌管一方财政。他对钱的态度会是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "补偿心理疯狂敛财，值得关注",
+        "scores": {
+          "S3": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "务实清醒——钱是活路不是面子",
+        "scores": {
+          "S3": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "对钱有阴影，这说明了一些问题",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜——从不避讳谈钱因为钱就是活路。"
+  },
+  {
+    "id": "q_zhouyu_14",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "周瑜",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「不断在一个又一个美梦里生活远离阴谋乱世注定的命运难道不好吗？」一个人有能力创造完美的梦境世界把你在里面永远留住。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "拒绝，宁愿面对真实的残酷",
+        "scores": {
+          "S9": 4,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "考虑一下，美梦也不错",
+        "scores": {
+          "S9": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "完全接受，从中可以看出他",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜的终极诱惑——他有能力创造完美的梦境。"
+  },
+  {
+    "id": "q_zhouyu_15",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "周瑜",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「真羡慕啊能睡一场好觉。我带了些域外的绘卷回来打发时间。」说自己羡慕别人睡觉的人，你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "，有些无病呻吟，值得关注",
+        "scores": {
+          "S8": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "温柔永远指向别人从不",
+        "scores": {
+          "S8": 5,
+          "S6": 4,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "真的很累，从中可以看",
+        "scores": {
+          "S8": 3.5,
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜——他的温柔全在细节里，从不指向自己。"
+  },
+  {
+    "id": "q_zhouyu_16",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「史书传说都是被人心不断腐蚀的事物从来不代表真实。」你对历史的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "历史就是真相，这说明了",
+        "scores": {
+          "S10": 3.5,
+          "S4": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "历史是胜利者书写的叙事",
+        "scores": {
+          "S10": 4,
+          "S3": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "无所谓真假看看就好",
+        "scores": {
+          "S10": 2,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜——作为深度参与历史创造的人太清楚历史如何被书写。"
+  },
+  {
+    "id": "q_zhouyu_17",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人从出生开始就在逃命。我们只是在逃命时出了些小意外。」面对命运你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太悲观了，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "平静地接受然后尽全力，值得深思",
+        "scores": {
+          "S5": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不信命，从中可以看出他的真实想法",
+        "scores": {
+          "S5": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜——在三千次逃命中仍然选择守护。"
+  },
+  {
+    "id": "q_zhouyu_18",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "你负责一场重要战役的指挥，战前夜你做什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "反复推演所有可能性",
+        "scores": {
+          "S5": 5,
+          "S1": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "正常休息保持精力",
+        "scores": {
+          "S5": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "和朋友喝一杯放松",
+        "scores": {
+          "S2": 3.5,
+          "S8": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜——三千次经验让他在战前夜已经推演了所有可能。"
+  },
+  {
+    "id": "q_zhouyu_19",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "明天就要和重要的人分别了。今晚你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "假装没事照常度过，值得关注",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "认真道别说清楚所有想说的话",
+        "scores": {
+          "S2": 4,
+          "S7": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不想明天的事好好享受今晚",
+        "scores": {
+          "S8": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "周瑜——留琴、带绘卷、煮药——用行动说再见。"
+  },
+  {
+    "id": "q_zhouyu_20",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "有人夸你是少年英雄。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "谦虚否认，从中可以看出他的真实想法",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「这不是少年英雄吗…，值得深思",
+        "scores": {
+          "S4": 4,
+          "S7": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "欣然接受，从中可以看出他的真实想法",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "周瑜——太早被推上神坛太清楚英雄二字的重量。"
+  },
+  {
+    "id": "q_zhouyu_21",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我只想这样好好地看着你。」",
+        "scores": {
+          "S2": 5,
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「你最后都选了一样的东西没有一次例外。」",
+        "scores": {
+          "S6": 4,
+          "S4": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都来自周瑜——温柔的极致与崩溃的极致。"
+  },
+  {
+    "id": "q_zhouyu_22",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "周瑜",
+    "source_story": "大局为重",
+    "route_hint": null,
+    "city_hint": "柴桑",
+    "text": "「大局为重，杀成的可能性太小。你不能为了给他出气连脑子都不要了。」周瑜对冲动行为的制止说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太冷酷不讲情面，值得关注",
+        "scores": {
+          "S9": 3.5,
+          "S6": 2.5,
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "权力是润物细无声式的",
+        "scores": {
+          "S9": 4,
+          "S8": 3,
+          "S7": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "在控制别人，这说明了一些问题",
+        "scores": {
+          "S9": 4,
+          "S1": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周瑜——大局为重近乎冷酷。"
+  },
+  {
+    "id": "q_zhouyu_23",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「大局为重，不是不考虑个人，而是个人的得失在大局面前微不足道。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「大局为重，不是不考虑个人，而是个人的得失在大局面前微不足道。」——你怎么看？",
+        "scores": {
+          "S1": 3.5,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「优雅不是天生的，是在无数次狼狈之后练出来的。」——你认同吗？",
+        "scores": {
+          "S1": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「有些人注定要承担更多，不是因为能力，而是因为责任。」——你的看法？",
+        "scores": {
+          "S1": 4,
+          "S6": 3.5,
+          "S10": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "责任、修炼、担当——周瑜式的从容背后是无数次的咬牙。"
+  },
+  {
+    "id": "q_zhouyu_24",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你负责统筹一场多方参与的密探行动，其中两个小队因为过去的恩怨拒绝配合。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你负责统筹一场多方参与的密探行动，其中两个小队因为过去的",
+        "scores": {
+          "S1": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "广陵王让你在一众密探中选拔一位新任队长。你——",
+        "scores": {
+          "S1": 3.5,
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "你在执行任务时受了伤，但伤口不重，任务还没结束。你——",
+        "scores": {
+          "S1": 4,
+          "S6": 3,
+          "S5": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "协调、识人、坚韧——统帅的日常，考验的是格局和定力。"
+  },
+  {
+    "id": "q_zhouyu_25",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「你可以恨我，但不能恨我做的决定，因为那是唯一正确的选择。」",
+        "scores": {
+          "S1": 3,
+          "S6": 2.5,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「我不是不在乎，而是不能在乎。一在乎，就会做错。」",
+        "scores": {
+          "S1": 5,
+          "S6": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "理性到极致就是残忍——但周瑜从不认为这是残忍。"
+  }
+]

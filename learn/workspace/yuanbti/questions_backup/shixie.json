@@ -1,0 +1,320 @@
+[
+  {
+    "id": "q_shixie_1",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "士燮",
+    "source_story": "追兄事件",
+    "route_hint": [
+      "交趾线"
+    ],
+    "city_hint": "广陵",
+    "text": "士燮追查至广陵，表面礼节周到以朝廷特使身份施压。兄长拒绝回去时，他控制欲彻底暴露——打断手足的腿也要带回去。如果你是士燮？",
+    "options": [
+      {
+        "label": "A",
+        "text": "尊重兄长选择转身离开",
+        "scores": {
+          "S4": 2,
+          "S8": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "继续劝说但绝不使用武力",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "用尽一切手段带他回去包括打断腿",
+        "scores": {
+          "S4": 5,
+          "S2": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "「有道理的恶」最让人后背发凉。"
+  },
+  {
+    "id": "q_shixie_2",
+    "dimension": "S1",
+    "cross_dimension": "S4",
+    "type": "story_known",
+    "source_character": "士燮",
+    "source_story": "朝廷特使",
+    "route_hint": [
+      "交趾线"
+    ],
+    "city_hint": "广陵",
+    "text": "士燮以朝廷特使身份出现在广陵，言辞滴水不漏，礼节是武器。面对一个表面客气实际步步紧逼的人你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "以礼还礼不露破绽",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "直接戳穿对方真实意图",
+        "scores": {
+          "S1": 2.5,
+          "S7": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "表面应承暗中观察",
+        "scores": {
+          "S1": 3.5,
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "士燮的每一个「请」都是一把锁。"
+  },
+  {
+    "id": "q_shixie_3",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "士燮",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「他对我说：'我这么做都是为了你好。'然后打断了我的腿。」说话者语气出奇平静。你认为他内心真实的感受是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "已经麻木了不再有感觉，值得深思",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "愤怒被压在平静之下随时可能爆发",
+        "scores": {
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "早就预料到了只是没想到真的会发生",
+        "scores": {
+          "S2": 2.5,
+          "S8": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这个场景来自士燮与兄长的关系。以「为你好」之名行控制之实。"
+  },
+  {
+    "id": "q_shixie_4",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "士燮",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "士燮底线弹性极高——为了家族利益什么都可以做，唯独兄长是盲区。如果你是权谋家，你的底线取决于什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "底线取决于利益得失的权衡",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "底线取决于是否涉及我在乎的人",
+        "scores": {
+          "S6": 3.5,
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "底线是固定的不会因人或事改变",
+        "scores": {
+          "S6": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "士燮底线弹性为5——几乎什么都可以做。"
+  },
+  {
+    "id": "q_shixie_5",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「爱到极致是想把对方关起来。」你对这句话的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "理解这种感受但知道是错的",
+        "scores": {
+          "S9": 3,
+          "S2": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "完全不能认同爱应该是自由",
+        "scores": {
+          "S9": 2,
+          "S2": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "某种程度上认同占有欲也是爱的一部分",
+        "scores": {
+          "S9": 4,
+          "S2": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是士燮的人格核心：以爱之名行控制之实。"
+  },
+  {
+    "id": "q_shixie_6",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "交趾",
+    "city_hint": null,
+    "text": "你是交趾之主，收到密报说兄长出现在千里之外的广陵。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "亲自带人去必须当面带回来",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "写信劝说给兄长自己选择的机会",
+        "scores": {
+          "S5": 2,
+          "S8": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "先派密探打探情况再做决定",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": null
+  },
+  {
+    "id": "q_shixie_7",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "士燮",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个掌握南方财富的人说：「钱不是问题。问题是人不回来。」你愿意花多少代价挽回至亲？",
+    "options": [
+      {
+        "label": "A",
+        "text": "倾尽所有钱可以再赚，值得深思",
+        "scores": {
+          "S3": 2,
+          "S2": 4,
+          "S1": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "设合理上限不能因一人毁了整个家族",
+        "scores": {
+          "S3": 4,
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不需要花钱用其他方式让对方回来",
+        "scores": {
+          "S3": 3,
+          "S1": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "对士燮而言交趾的财富只是手段，他的真正执念是「让所有离开的人回来」。"
+  },
+  {
+    "id": "q_shixie_8",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「温柔是控制最锋利的刀。」",
+        "scores": {
+          "S7": 4,
+          "S4": 5,
+          "S5": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「温柔就是温柔不该被当成武器。」",
+        "scores": {
+          "S7": 2,
+          "S8": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "A是士燮的生存哲学；B是董奉（士壹）的信念。亲兄弟两种截然相反的温柔。"
+  }
+]

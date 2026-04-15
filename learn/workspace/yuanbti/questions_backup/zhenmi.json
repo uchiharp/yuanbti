@@ -1,0 +1,84 @@
+[
+  {
+    "id": "q_zhenmi_01",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "甄宓",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "邺城",
+    "text": "你被困在一座城池中，城破在即。敌军主帅对你有好感，提出只要你愿意侍奉他，便可保全城百姓。你身边的人都说应该假意应承。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直言拒绝，不做任何伪装，值得深思",
+        "scores": {
+          "S4": 2,
+          "S1": 2.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "假意应承以换取时间，暗中寻找脱身之策",
+        "scores": {
+          "S4": 3,
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "精心伪装成柔顺模样，让对方放松警惕",
+        "scores": {
+          "S4": 4,
+          "S1": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自甄宓的密探故事——她善于以柔克刚，外表温婉内心坚韧。"
+  },
+  {
+    "id": "q_zhenmi_02",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你曾深爱一个人，但因家族利益被迫分离。多年后重逢，对方已功成名就，身边也有了他人。对方对你仍有一丝眷恋。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "客套寒暄后就此别过，不再纠缠",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "默默祝福对方，把心意藏在心底",
+        "scores": {
+          "S2": 3,
+          "S8": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "坦诚说出当年未说出口的话，无论结局如何",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "甄宓情感丰富深沉，即便身处权力漩涡也不掩饰真情。"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "title": "南有乔木/24",
+  "category": "主线剧情",
+  "characters": [
+    "孙策",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "不知寿春是何福地，竟能养出这么一群怪人……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "怪人？我的脸很奇怪？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我得回去照照镜子……我娘一直说我鼻子是鼻子眼睛是眼睛……",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8D%97%E6%9C%89%E4%B9%94%E6%9C%A8/24",
+  "crawled_at": "2026-04-12T21:57:17.953992",
+  "raw_wikitext": "{{对话-头}}\n{{旁白|郊外-狩猎结束，返回寿春}}\n{{对话|我|不知寿春是何福地，竟能养出这么一群怪人……}}\n{{对话|孙策|怪人？我的脸很奇怪？}}\n{{对话|孙策|我得回去照照镜子……我娘一直说我鼻子是鼻子眼睛是眼睛……}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

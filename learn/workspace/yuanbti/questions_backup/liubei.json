@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q_liubei_1",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "刘备",
+    "source_story": "徐州·广陵王之局",
+    "route_hint": null,
+    "city_hint": "下邳",
+    "text": "刘备站在城头，望着烽火连天的徐州，声音平静却坚定——「只要能保住尽可能多的人，我刘备什么都愿意做，什么罪名都愿意担下。」他转头看向身边的人：「我的仁道，就是保全尽可能多的百姓。」若你是刘备，面对「牺牲自己换取数十万百姓」的选择，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先保全自身实力，只有活着才能救更多人。",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "如果自己的死能换百姓平安，那就死吧。",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "试着找第三条路，不到万不得已不愿牺牲任何人。",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "刘备的仁道不是口号——在代号鸢的徐州线中，他真的愿意以自身为筹码换取百姓的生存。"
+  }
+]

@@ -1,0 +1,2553 @@
+{
+  "title": "鸢记·农家乐/活动剧情",
+  "category": "鸢记",
+  "characters": [
+    "众人",
+    "傅融",
+    "公鸡",
+    "冶金匠",
+    "孩子",
+    "少年",
+    "张婆",
+    "我",
+    "李傕",
+    "李全",
+    "村妇",
+    "村民",
+    "村民丙",
+    "村民乙",
+    "村民甲",
+    "村长",
+    "渔民",
+    "猎户",
+    "男子丙",
+    "男子乙",
+    "男子甲",
+    "老人",
+    "老婆婆",
+    "蜂使",
+    "采药人",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "回家吃饭啦！天晚了，别再贪玩了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "炊烟都升起来了……傅融，整个村都弥漫着好好闻的菜香。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "闻了那么多天，还觉得这味道新奇吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "哈哈……是呀，平时在王府和绣衣楼，可是闻不到这种恬静山村才有的香味的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呵……苦中作乐，挺好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我今天去南边山道查看。要修复泥石阻断的山路，还需要一段时间。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "着急也没用，既来之则安之，就当放个假。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "贵客，贵客——到饭点了，你们今天有什么想吃的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "不知道有什么好吃的？我们不挑食。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "今天是本月初五，每月初五，村中有面向旅客的食宿活动。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "这是刚刚更新完的晚膳套餐，分为甲乙丙丁四个套餐，还有二人餐和全家福。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "开什么玩笑，为什么又涨价了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "哎呀，山路被毁，我们无法外出采购，只能靠自给自足，肉食都要靠打猎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "村里人说山里有野鸡和兔子，我们自己去打。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "好啊！我也很久没打猎了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "也可以也可以，这是猎具租赁的价目表！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……你看看吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-汗颜",
+      "emotion": "……这村子哪里都好，就是干啥都得花钱……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎户",
+      "text": "头像=屠夫",
+      "emotion": "如果觉得打猎太难，我们还有代打活动，仅限今明两天。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎户",
+      "text": "头像=屠夫",
+      "emotion": "我一天打到猎物都归你，只要两千铢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "采药人",
+      "text": "头像=难民",
+      "emotion": "还可以参加采草药活动，亲自上山挖草药和野菜。一次只要一千二百铢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "采药人",
+      "text": "头像=难民",
+      "emotion": "我全程随行，提供深度草药知识分享，让客人体会到城中体会不到的自然乐趣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那我们采回来的草药，你们收购吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "采药人",
+      "text": "头像=难民",
+      "emotion": "哈哈哈……那都是你们的收获和回忆，可以带回家中，与亲友分享。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "呼……有点想回广陵了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不是白天还说这里不错吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-摇头",
+      "emotion": "那是因为兜里还有钱。谁能想到一个山村里，衣食住行能那么贵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嘘，有动静。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "……不像是打猎，他们手里也没有拿猎叉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哪有这么晚去打猎的，肯定是有事才会上山。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "我越来越觉得，这个村子有很多奇怪的地方。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "同感。小心些，明日开始暗查。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这群人，也许不只是一群贪财的村民。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "……村民可能有问题，但问题也许不止出在村民身上。我觉得……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "村里的人每天都往山里去，但去的时候不带武器，回来也没有带猎物回来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "泥石流之后，山里暂时没有猎物，他们上去一定有其他的目的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "上山去看看，说不定能发现线索。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "趁着夜深无人发现，傅融，我们走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "地形被泥石流改变后，动物已经全部逃离旧巢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这里的气候不好，夏季暴雨，很容易有泥石流。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "买房也要看地形，不能买类似的地方……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-无语",
+      "emotion": "不要执着于买房嘛，傅融。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "如果不买房，你可以自由的去许多地方，人生也会更精彩呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我为什么不在各地都买一套房呢？是因为不喜欢吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是因为买、不、起！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-汗颜",
+      "emotion": "咳，买不起，买不起也可以租呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你在雒阳和广陵的房子都是自己的，根本就不明白租房的痛苦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "房东年年涨价；房东儿子要结婚，限三天内马上搬走；房子漏雨，房东完全不管……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "一个院子租给了三户，一户夫妻打闹，一户婴儿夜啼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "还有一户是戏班子，天不亮就全家起来练乐器和开嗓！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-汗颜",
+      "emotion": "好了好了别说了！我明白了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "你好好干，明年！明年我尽量给你加点薪水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "……你……这是干什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "立字据、画押。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "…………傅融你看，前面！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "真的，快看！前面好像有什么东西？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "那好像是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "有金色的光……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "我在书上见过，这种草好像叫……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "向荆，多长于金矿之上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……！！！这是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "是金矿？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "真的有金子！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民甲",
+      "text": "头像=男文人",
+      "emotion": "真的有金子！！！我们挖了好多天，还以为没有呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民乙",
+      "text": "头像=山贼甲",
+      "emotion": "还是你运气好，我们就是死活找不到！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民丙",
+      "text": "头像=山贼乙",
+      "emotion": "发财了发财了！快挖，肯定还有更多！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……停！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "像你们这么挖，再挖一万年都发现不了金矿。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民甲",
+      "text": "头像=男文人",
+      "emotion": "那你说要怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "听我安排。你们这边，现在有多少人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "傅、傅融？你怎么突然……那么积极……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你们是一组，从这根树枝插入土层的角度，往下挖十尺。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果十尺还没有发现矿脉，直接并入二组。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "然后，二组，沿着山体这个角度往下挖……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "三组不用挖矿，负责记录。这个是人员排班表………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民甲",
+      "text": "头像=男文人",
+      "emotion": "这写的是啥？老二，你识字，给咱念念。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民乙",
+      "text": "头像=山贼甲",
+      "emotion": "日报、周报、拉通、对齐、需求、耦合……还有各组给自己出一个口号……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "傅融！！！你到底在干什么？！你还回不回绣衣楼上班了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "要是能挖出金矿，谁还会去上班？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "有金矿只是有钱，可你的精神世界是空虚的呀！傅融，人空虚的生活只能靠工作来填充……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-摇头",
+      "emotion": "人，终究是要有更高尚的理想的。不能拘泥于金钱……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民甲",
+      "text": "头像=男文人",
+      "emotion": "挖到矿脉了！好多金子！我们发财啦！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "怎样？是不是成色很好？金灿灿的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "冶金匠",
+      "text": "头像=难民",
+      "emotion": "……这个嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "冶金匠",
+      "text": "头像=难民",
+      "emotion": "这个……不是黄金，是黄铁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "什么？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "冶金匠",
+      "text": "头像=难民",
+      "emotion": "你们看啊，这石头上的条纹，是青黑色的，真金的条纹跟它本色一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "冶金匠",
+      "text": "头像=难民",
+      "emotion": "金子是不会被敲碎的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "好啦，傅融，不要失望嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "往好处想，如果真的有金子，可能会引来更大的灾祸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "到时候或许会引来军阀抢夺，村民会陷入危险………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你笑得很开心啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-眯眼笑",
+      "emotion": "哪有哪有，我和你感同身受，也很难过啊……噗嗤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-眯眼笑",
+      "emotion": "噗嗤……对不起……哈哈哈哈哈太惨了哈哈哈哈哈……傅融，你还是得继续上班啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "有银色的光？我们过去看看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "好漂亮的湖，像镜子一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "月色下的银光，原来来自于水面啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不过，这湖有问题，你看那里。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这里原来是一条小河，是从前的泥石流把河道堵了，才在这个凹地形成湖泊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "如果水位继续增高……真的会很危险。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "连日暴雨，湖水的水位已经快满了，随时可能出事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "要管吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-点头",
+      "emotion": "我们暂时也被泥石流困在了这，还是得告诉村民，让他们有些应对。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "匪夷所思。这座湖泊在这边很多年了，从没出过事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "你们说要引流湖水？可是引流的方向，是我们村的祖坟啊，这怎么行？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "放任不管，迟早会决口，到时候村子也会不保。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "祖宗会保佑我们村的！用不着你们两个外人唠叨！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "雨越下越大了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果这几日的雨一直都这么大，只怕用不了三天，水位就要到极限了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "所有人跟我上山！快！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民甲",
+      "text": "头像=男文人",
+      "emotion": "湖堤要崩了！快去高处！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "傅融，我们也动身吧，去高处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "老人家，快去高处，山上的湖水要崩了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "这是我们的宗祠，祖宗都在这，我们不走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "可是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "湖水真的崩了！大家快上来啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "呜呜……我的东西都在家里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎户",
+      "text": "头像=屠夫",
+      "emotion": "你疯了吗？不能折返！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "傅融，它还能撑多久？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没意义了，继续往高处走！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "还有很多村民没有上来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "我们的村子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=少年",
+      "emotion": "爷爷……呜呜呜……爷爷……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "树枝太细，撑不了多久了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "如果能做一根吊索，从这边引到水对面的树，滑过吊索的途中就能救到他们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "风险太大。这个视野，你根本没法确认对面的树能不能承受重量。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "……我想试一下，不能见死不救。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎户",
+      "text": "头像=屠夫",
+      "emotion": "你们要救人吗？我来帮你们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "少年",
+      "text": "头像=少年",
+      "emotion": "我也来！我有绳子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "我也有！我们拉人梯，把绳子引过去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那我牵头走第一个。至于最后滑过滑索的人……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "我来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "你们拉紧这头的绳结，我要过去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "奇怪，我刚才明明看见有光。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我也看见了，大概是岩石的反光，秣陵有座山也会闪烁紫光。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老婆婆",
+      "text": "头像=老年女",
+      "emotion": "那不是岩石，是山鬼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老婆婆",
+      "text": "头像=老年女",
+      "emotion": "你们就是村里来的那两个外乡人吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "我们被泥石流困在村里，要叨扰乡亲们一段时间了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "他们都叫我张婆，我平时会为乡亲们驱邪治病。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "刚才，你说有山鬼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "对，游荡在这座山间的山鬼，是位很善良的守护神。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "如果有人在山里需要帮助，它就能感应到，现身相助。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我们只是来散步的，应该没有需要帮助的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "对啊。天晚了，我们也该回去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "老人家，我们也送你一程，一起下山吧。夜色昏暗，山路很难走的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "呵呵……那就多谢了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-难受",
+      "emotion": "……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-难受",
+      "emotion": "好难受……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "能听见我的声音吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "傅融……你的手好凉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是你的手太热了。别说话了，好好休息。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……热度一点没退……这里也不可能弄到冰袋……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "冰……山村里面，怎么会有冰……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-难受",
+      "emotion": "咳咳咳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "我来迟了，快让我看看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "你这是中了风邪……这碗药水，喝下去就好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "她不能喝来路不明的药。这碗药里有什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "就是些普通的草药，没事的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不行，你得把药方告诉我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "…………傅融…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "喝吧，喝下去就会好了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "什么味道……好香……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果喝不下去就不喝。我再去给你找草药。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "去找……什么？你要去哪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我不去哪。我不走，留下来陪你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "能自己走吗？真的没问题？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "睡了一觉，我已经好多了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那种药好像真的有用……但还是不知道药方，我有点不放心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "好了，我都没事了，你就放心吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "你能起身了呀，感觉好一点了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "好多了，谢谢婆婆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "这都是山鬼保佑，今天天气好，山路好走，我带你去感谢山鬼吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不行。她身体刚好，还要休养一阵子才能走动。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "走罢，去看看。这么好的天气，以后可能不会再有了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "这里的花草都有灵性……那棵花树很淘气，每次都唱歌吓唬路人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "……傅融，你为什么那么淡定？花在唱歌哎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "唱得比小鸦好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "挺好听的，对吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不难听。反正它只是唱歌，也没有要害人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "刚才那个花里真的有声音……你有发现什么端倪吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "可能是腹语。我没感到附近还有别人的存在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "她为何要用腹语来迷惑我们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不知道。她毕竟救了你的命，免费的，可能想事后弄些奇迹，让你付钱？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "前面有蚂蚁聚成一朵花……呵呵，我每次过来，它们都会这样欢迎我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "小心些，别踩到它们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "真有意思，这座山上当真有灵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-眯眼笑",
+      "emotion": "嘘，老人家既然都这么说了，就让她高兴高兴吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "你们跟上。供奉山鬼的小祭坛就在前方了，快来吧…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "张婆的病，还是没有起色吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=少年",
+      "emotion": "早上的时候，我陪娘亲去送药给她，她连话都说不出了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "婆婆前几天还是好好的，怎么突然就病得这么重？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "年纪大了吧……什么事情都很突然。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你要去看看她吗？村民们让她在村东的药师屋中休息。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "这是我家刚煮好的长生果茶，不知道她还能下能喝下去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "村民都来了，看起来大家都很喜欢她。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "张婆是个好人，神佛要保佑她能度过此关啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张婆",
+      "text": "头像=老年女",
+      "emotion": "能替我……去山鬼那里……找一支辛夷花吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "我明白了。婆婆再等一等，我们马上就去找花过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "头像=少年",
+      "emotion": "呜呜……张婆……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "婆婆啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "张婆那怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "张婆仙去了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "好像……刚才有位长辈去世了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "但是她是谁呢？无论如何都想不起来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎户",
+      "text": "头像=屠夫",
+      "emotion": "乡亲们！乡亲们！山上出事了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎户",
+      "text": "头像=屠夫",
+      "emotion": "我刚才去山里打猎，山上供奉山鬼的祭坛塌了，掉进崖下的河里不见了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "先从村民查起。村民还问过你什么问题吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "问是不是只有我们两个人外出、在外面还有没有别的亲友之类的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "好好的问这个做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那个村民养了鸽子，跟我说可以租他的鸽子给外界传信报平安。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我把他打发走了，什么都没告诉他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-点头",
+      "emotion": "嗯……总之从明日开始，我们都要小心些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "早点睡，我守夜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "那到后半夜，你喊醒我，我们换班？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "公鸡",
+      "text": "噢~噢噢——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "……傅融……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "醒了？早饭弄好了，洗洗弄弄，准备吃饭吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我亲手做的，没有买村民的饭，安心吃。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "我还让你后半夜叫醒我，我们俩换个班呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "不然你一个人熬通宵，精神撑得住吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没事，我中午补个觉就好了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "早饭趁热吃，冷了口感就不好了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "虽然这座山村有问题，不过你这几天气色好了许多。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "哈……毕竟远离公务，早睡早起嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "肩膀还痛吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "肩膀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "离开雒阳的时候，你肩膀上的刀伤。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我就记得后来听医官说，伤口没及时处理，没能缝合，你感觉如何？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "早就好了，就是动作大的时候会有点冷痛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "反正不会有你的箭伤严重，别担心我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哼……那个箭伤的债，我还没和你算。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-无语",
+      "emotion": "……那你要趁早和我清算呀，傅副官。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "乱世之中，朝生暮死，说不定哪天，你就找不着我了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "为了我的房贷，劳烦你尽量长命百岁。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……那边。看。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "………那几个男村民，在那边鬼鬼祟祟做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "村长说过，路通之前，所有男人都要去挖路，他们怎么会在这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "把头发和袖子都扎起来，悄悄跟过去看看。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=平民女",
+      "emotion": "天气这么好，两位怎么在这林子里，没到处走走？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我们想活动活动筋骨，就来这爬山了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=平民女",
+      "emotion": "噢噢，这样啊。还以为你们会天天在山道入口看进度呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "我们今天去看了一下挖路的进度，看样子明天就能通了，所以就安心了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=平民女",
+      "emotion": "对了，二位好像有点广陵的口音？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=平民女",
+      "emotion": "我们村有个姑娘嫁到广陵，她说广陵挺不错，真的吗？我们想去那做点小生意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你听岔了，我们的口音是岐山口音，不是广陵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=平民女",
+      "emotion": "原来如此……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=平民女",
+      "emotion": "哎呦，天阴了，可能要下雨。我们也打算下山了，要不一起回村？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我回来了，查清那个人之后的行动了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那个人回村后，找了一个叫李全的人，把我们的对话传递了一遍。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "“传递”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "一字不差地传递。就好像是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……好像是蜂使向雀使汇报情报。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "一个普通的山民，为何要如此？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你有没有感觉到，自从我们到这个村子，他们就一直在盯着我们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我每天去打水，水井附近必有两个人，有时是孩童，有时是村妇。无论如何，一定有两个人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "……怎么那么像是绣衣楼密探盯梢时的安排。两人一组，一正一副………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "总之，万事小心。明日一早，我打算去探探那个李全的口风。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "太厉害了，明明刚经过泥石流，居然还能从山上打来那么多猎物？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "哈哈，毕竟是吃饭的手艺嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你们平日的盐和布匹，都是用这些山货换来的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "是啊，卖得可好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "只卖肉，不卖皮子吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "你说笑呢？当然卖皮子呀，皮子的价格比肉贵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "可惜……这皮子卖不上价了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "这只狐理狡猾的很，实在不肯入套，只得下狠手了。多少还能卖点钱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "天色不早了，我去劈点柴禾，二位要留着用饭吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "李前辈好快的动作，那么多菜，居然能一个人全部搞定？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "熟能生巧嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "看起来色香味俱全，真是不错……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我说啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "给人下药，下药的菜，口味要更重一些。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "动手！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "抓住他们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你走窗口！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "让弩手准备，别让这个女的跑了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "住手！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "老大，这对男女肯定是来暗查我们的探子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "住手！误会，这是个误会啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "玄蜂拜见楼主，见过傅副官。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "……玄蜂？你为何在这？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "这处村落也是绣衣楼的据点。不过因为位置偏远，里面的人员都没见过楼主。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "这是我们自己的地方？傅融，你有印象吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没有……什么时候建的据点？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "啊哈哈，很多很多年前了，还是前任绣衣校尉的时期哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "啊！这样说起来，这位美女和前任楼主长得有几分像啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "傻子，和前任楼主的王妃长得更像！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李全",
+      "text": "头像=强盗",
+      "emotion": "啊哈哈，抱歉抱歉！不知是楼主亲临，多有得罪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "也是本王的疏忽，没有整理上一代留下的秘密据点……傅融，快替他们记录符传。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "既然都来了，楼主，傅副官，好好休个假吧！干杯！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "中间的路有新鲜的脚印，应该是他们留下的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "那就沿中间的岔路走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子甲",
+      "text": "头像=男文人",
+      "emotion": "快凑齐了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子乙",
+      "text": "头像=山贼乙",
+      "emotion": "真的够吗？有点担心啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子丙",
+      "text": "头像=山贼甲",
+      "emotion": "相信大哥的话，绝对没问题的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子甲",
+      "text": "头像=男文人",
+      "emotion": "嗯，我们先试一下，如果能成功，就回去汇报给族长……开始吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子乙",
+      "text": "头像=山贼乙",
+      "emotion": "开始吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "……！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "他、他们在做什么——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子甲",
+      "text": "头像=男文人",
+      "emotion": "脱光光吧！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他们为什么要脱光了拿着石头绕圈跳舞……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-脸红",
+      "emotion": "……我……我一点都不想知道啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子乙",
+      "text": "头像=山贼乙",
+      "emotion": "石头上还有一个洞！我要把手指伸进去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子甲",
+      "text": "头像=男文人",
+      "emotion": "啊啊啊……感受到了……感受到了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子丙",
+      "text": "头像=山贼甲",
+      "emotion": "有反应了……！快记下来，这样做就能有反应！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……捂着眼睛也没用，还是快点弄清楚这个村子到底出了什么问题吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-汗颜",
+      "emotion": "天、天气这么好，随便走走，看你们在忙，不敢打扰。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子甲",
+      "text": "头像=男文人",
+      "emotion": "哈哈哈，不忙不忙。我们正在研究应急食品呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这个东西，和食品有关吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子乙",
+      "text": "头像=山贼乙",
+      "emotion": "它属于易氧化金属哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-汗颜",
+      "emotion": "……傅融……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-汗颜",
+      "emotion": "……要不……我们去查查……其他地方吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我很在意他们要对钱做什么！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他们对我们没有敌意，所有人都没有对我们产生戒备。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "而且，你有没有一种感觉？他们对五铢钱感到很新奇。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "从什么地方来的人，才会从来没见过钱？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "有钱人！巨富之家的有钱人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "只认识金银珊瑚和宝石，根本没见过五铢钱这样的小钱，唯一知道的货币是白金币！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你看他们像吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果真是有钱人，又为什么要我们付五铢钱给他们？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子甲",
+      "text": "头像=男文人",
+      "emotion": "呜呼！又有感应了！我摸到了！我摸到了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子乙",
+      "text": "头像=山贼乙",
+      "emotion": "让我也摸摸！啊……真的！真的来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-挑眉",
+      "emotion": "傅融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是我，我回来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "弄到了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "弄到了，他们白天记载东西的卷轴。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不过他们的文字很奇特。你看。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "一团一团的线条，似乎是某种文字。也许是西域某个小国的文字？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "西域三十六国，没有一个国家的文字是这样的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "也不是粟特、条枝和黎轩的文字。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "这些人长得也不像胡人。也许是他们之间传递信息用的密文？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "是我。我想问一下，二位贵客是不是拿了我们的笔记？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "哈哈哈……没事没事，如果你们喜欢，留个纪念也无妨。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……你有什么事？直说吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "我来是想告诉二位，路已经通啦，两位明天一早就可以离开！我们也要离开了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "这几天你们给了我们很大的帮助，大家都想在离别前当面谢谢你们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "……你们，离开？你们不是这座村子的村民？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "一言难尽哔……咳咳！总之，二位跟我们来就知道了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "咳咳……我简单的讲两句……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "首先，感谢善良的本地人为我们提供了极大的帮助，小小礼物，不成敬意。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "白金币！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "这、这么多钱……为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "因为这种质地的金属没办法作为应急食品，我们需要这种。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子甲",
+      "text": "头像=男文人",
+      "emotion": "谢谢你们给我们那么多应急食品，这样一来，就能坚持到下一个星图区域了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "来！大家手拉手，一起连接吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "等等？连接什么？你们到底在做什么啊？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "月亮？……不，不是月亮……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "如果有机会，欢迎你们到我们的母星来。哔——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男子乙",
+      "text": "头像=山贼乙",
+      "emotion": "再见，我会在考察论文的末尾致谢里写你们名字的！哔——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "………………哔？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "终于可以回家了，我可以和奥□曼一起钓星鲨了哔——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "啊……面□超人应该已经在太空电梯等我了哔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "……………………他们……走了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "这……是梦吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不是。是真的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我们也许遇到……真正的仙人了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "右边的草茎是刚刚被踩折的，走这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "欢迎您下回再来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "你们这里是做什么的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "这里是捕渔体验区，鱼虾都是我们养的，保证肥！一个拖网一百铢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "我划船放拖网，不管网着什么，都归您。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "一百铢？渔获都归我们？傅融，好像挺划算的呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "刚才离开的那个客人，好像似曾相识……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "一百铢！买不了吃亏，买不了上当！要不要试试手气？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "傅融，你说会不会满满一网都是鱼啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……幸好你出生就是皇族，要不然不知道被人骗到哪去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "你这种人好没劲！山村民风淳朴，怎么会有人骗我们呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "这么大的网，一网下去，再差也能捞到十几二十条吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "哎呦！好重！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "啊……哈哈哈，捕鱼这种事嘛，很看运气的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "刚才那位客人可是满载而归，那鱼大的，嘿！那虾肥的，嘿！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "信你个鬼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "真的！不信你们问他。他也是被泥石流堵在村里的，该吃吃该玩玩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "渔民",
+      "text": "头像=难民",
+      "emotion": "对了，要是二位不想打渔，不如，试试做陶器？我妻子开的陶器作坊，我介绍过去可以打折。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "做一件陶器五百铢，烧制加一百铢，彩绘加三百铢，锦盒包装加二百铢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "二人同行能打八折，你们想要什么套餐？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "她想做。我不做。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-微笑",
+      "emotion": "傅融，来都来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-生气",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "……李傕，你的兵器呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "你们的兵器呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "稍等一下，为什么他看到你这副样子一点不惊讶？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "广陵王是女的又怎么样？西凉各部族里，女人称王的事多了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "再说我也只是替董卓办事，我现在在休假，对你们没兴趣。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "回到最初的问题，李傕将军，你的兵器呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "看来跟我们一样，被这群黑心村民骗光了装备啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "呵，既然处境都一样，那就用陶艺定输赢吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "本王可不了解这些工匠的技艺，李将军怕是对我们有什么误解？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "那就肉搏？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村妇",
+      "text": "头像=平民母亲",
+      "emotion": "哎呀……我们的陶艺桌都是特制的呢，打坏可是要赔的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我来吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-脸红",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村长",
+      "text": "头像=摊贩",
+      "emotion": "几位贵客，路通了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "头像=平民女",
+      "emotion": "不过几位真的不考虑再多住几天？我们这还有很多好玩的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "不了，我们真的在这里留太久了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "走吧，下次再见，我就不留情了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-严肃",
+      "emotion": "李将军是个人才，不如弃暗投明，来我绣衣楼如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "道不同不相为谋，就此别过。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "头像=李傕",
+      "emotion": "站住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=内廷绣罗-阴沉",
+      "emotion": "……怎么了？他为何追上来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "李傕",
+      "text": "这东西太累赘了，我懒得带回去，留给你们吧。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "分类鸢记"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%B8%A2%E8%AE%B0%C2%B7%E5%86%9C%E5%AE%B6%E4%B9%90/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:17:18.485566",
+  "raw_wikitext": "{{JS|Qiantao.js}}{{面包屑|傅融|男主鸢记|傅融-鸢记}}\n{{对话-头}}\n{{旁白|【山村】}}\n{{旁白|一群孩子追逐着鸡和狗，在茅屋前呼啸而过。|}}\n{{对话|村妇|回家吃饭啦！天晚了，别再贪玩了！|头像=平民母亲}}\n{{对话|我|炊烟都升起来了……傅融，整个村都弥漫着好好闻的菜香。|头像=内廷绣罗-微笑}}\n{{对话|傅融|闻了那么多天，还觉得这味道新奇吗？}}\n{{对话|我|哈哈……是呀，平时在王府和绣衣楼，可是闻不到这种恬静山村才有的香味的。|头像=内廷绣罗-微笑}}\n{{对话|傅融|呵……苦中作乐，挺好。}}\n{{对话|傅融|我今天去南边山道查看。要修复泥石阻断的山路，还需要一段时间。}}\n{{对话|我|着急也没用，既来之则安之，就当放个假。|头像=内廷绣罗-微笑}}\n{{旁白|我与傅融外出公干，不想在归途时遇上泥石流。出入山村的道路被阻绝，只能在村子里等待山道重通。}}\n{{旁白|我们给了村长一些食宿费，索性继续在山村住一段时日，权当放假。}}\n{{对话|村长|贵客，贵客——到饭点了，你们今天有什么想吃的？}}\n{{对话|我|不知道有什么好吃的？我们不挑食。|头像=内廷绣罗-微笑}}\n{{对话|村长|今天是本月初五，每月初五，村中有面向旅客的食宿活动。}}\n{{对话|村长|这是刚刚更新完的晚膳套餐，分为甲乙丙丁四个套餐，还有二人餐和全家福。}}\n{{旁白|傅融深吸一口气，接过了菜牌。}}\n{{对话|傅融|开什么玩笑，为什么又涨价了？}}\n{{对话|村长|哎呀，山路被毁，我们无法外出采购，只能靠自给自足，肉食都要靠打猎。|头像=摊贩}}\n{{对话|傅融|村里人说山里有野鸡和兔子，我们自己去打。}}\n{{对话|我|好啊！我也很久没打猎了！|头像=内廷绣罗-微笑}}\n{{对话|村长|也可以也可以，这是猎具租赁的价目表！|头像=摊贩}}\n{{旁白|傅融又深吸一口气，接过了价目表。}}\n{{对话|傅融|……你看看吧。}}\n{{对话|我|……这村子哪里都好，就是干啥都得花钱……|头像=内廷绣罗-汗颜}}\n{{对话|猎户|如果觉得打猎太难，我们还有代打活动，仅限今明两天。|头像=屠夫}}\n{{对话|猎户|我一天打到猎物都归你，只要两千铢。|头像=屠夫}}\n{{对话|采药人|还可以参加采草药活动，亲自上山挖草药和野菜。一次只要一千二百铢。|头像=难民}}\n{{对话|采药人|我全程随行，提供深度草药知识分享，让客人体会到城中体会不到的自然乐趣。|头像=难民}}\n{{对话|傅融|那我们采回来的草药，你们收购吗？}}\n{{对话|采药人|哈哈哈……那都是你们的收获和回忆，可以带回家中，与亲友分享。|头像=难民}}\n{{旁白|我和傅融对视一眼，立刻心有灵犀。他伸手重新取过村长手中的菜牌，果断要了两个双人套餐甲。}}\n{{旁白|心理|农家乐了几天，钱……已经快花完了……}}\n{{旁白|【农舍】}}\n{{对话|我|呼……有点想回广陵了。|头像=内廷绣罗-阴沉}}\n{{对话|傅融|不是白天还说这里不错吗？}}\n{{对话|我|那是因为兜里还有钱。谁能想到一个山村里，衣食住行能那么贵……|头像=内廷绣罗-摇头}}\n{{对话|傅融|嘘，有动静。}}\n{{旁白|我立刻噤声。和他坐到一起，看向窗外。}}\n{{旁白|心理|……这么晚了，为什么这些村民都在往山上走？}}\n{{对话|我|……不像是打猎，他们手里也没有拿猎叉。|头像=内廷绣罗-挑眉}}\n{{对话|傅融|哪有这么晚去打猎的，肯定是有事才会上山。}}\n{{对话|我|我越来越觉得，这个村子有很多奇怪的地方。|头像=内廷绣罗-严肃}}\n{{对话|傅融|同感。小心些，明日开始暗查。}}\n{{对话|傅融|这群人，也许不只是一群贪财的村民。}}\n{{对话|我|……村民可能有问题，但问题也许不止出在村民身上。我觉得……|头像=内廷绣罗-严肃}}\n{{嵌套分歧|头}}\n{{嵌套分歧|村子有秘密|1}}\n{{嵌套分歧|村民最可疑|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|村里的人每天都往山里去，但去的时候不带武器，回来也没有带猎物回来。|头像=内廷绣罗-严肃}}\n{{对话|傅融|泥石流之后，山里暂时没有猎物，他们上去一定有其他的目的。}}\n{{对话|我|上山去看看，说不定能发现线索。|头像=内廷绣罗-严肃}}\n{{对话|我|趁着夜深无人发现，傅融，我们走！|头像=内廷绣罗-严肃}}\n{{旁白|【深林】}}\n{{对话|傅融|地形被泥石流改变后，动物已经全部逃离旧巢……}}\n{{对话|傅融|这里的气候不好，夏季暴雨，很容易有泥石流。}}\n{{对话|傅融|买房也要看地形，不能买类似的地方……}}\n{{对话|我|不要执着于买房嘛，傅融。|头像=内廷绣罗-无语}}\n{{对话|我|如果不买房，你可以自由的去许多地方，人生也会更精彩呀。|头像=内廷绣罗-微笑}}\n{{旁白|傅融白了我一眼。}}\n{{对话|傅融|我为什么不在各地都买一套房呢？是因为不喜欢吗？}}\n{{对话|傅融|是因为买、不、起！}}\n{{对话|我|咳，买不起，买不起也可以租呀！|头像=内廷绣罗-汗颜}}\n{{对话|傅融|你在雒阳和广陵的房子都是自己的，根本就不明白租房的痛苦。}}\n{{对话|傅融|房东年年涨价；房东儿子要结婚，限三天内马上搬走；房子漏雨，房东完全不管……}}\n{{对话|傅融|一个院子租给了三户，一户夫妻打闹，一户婴儿夜啼……}}\n{{对话|傅融|还有一户是戏班子，天不亮就全家起来练乐器和开嗓！}}\n{{对话|我|好了好了别说了！我明白了……|头像=内廷绣罗-汗颜}}\n{{对话|我|你好好干，明年！明年我尽量给你加点薪水。|头像=内廷绣罗-微笑}}\n{{旁白|傅融停住脚步，从怀里拿出一张纸与随身笔墨，递到我面前。}}\n{{对话|我|……你……这是干什么？|头像=内廷绣罗-挑眉}}\n{{对话|傅融|立字据、画押。}}\n{{对话|我|…………傅融你看，前面！|头像=内廷绣罗-惊讶}}\n{{旁白|傅融冷笑一声，对我拙劣的借口十分不满意。}}\n{{对话|我|真的，快看！前面好像有什么东西？|头像=内廷绣罗-生气}}\n{{对话|我|那好像是……|头像=内廷绣罗-生气}}\n{{嵌套分歧|头}}\n{{嵌套分歧|有金色的光|1}}\n{{嵌套分歧|有银色的光|2}}\n{{嵌套分歧|有五颜六色的光|3}}\n{{嵌套分歧|尾}}{{嵌套分歧|内容头|显示=1}}\n{{对话|我|有金色的光……？|头像=内廷绣罗-生气}}\n{{旁白|月色照在山间的泥土里，隐隐露出一点淡淡的金色光芒。}}\n{{旁白|薄薄的土层上，长了几株形状特异的草株。}}\n{{对话|我|我在书上见过，这种草好像叫……|头像=内廷绣罗-挑眉}}\n{{对话|傅融|向荆，多长于金矿之上。|头像=傅融}}\n{{旁白|傅融在问荆前蹲下身子，在土层里翻了一会儿，找出一小片闪着金光的金子……}}\n{{对话|傅融|……！！！这是……}}\n{{对话|我|是金矿？！！|头像=内廷绣罗-惊讶}}\n{{对话|？？？|真的有金子！！！}}\n{{旁白|四面八方忽然冒出许多村民，兴奋地围在我们身边，看着他手中的金子。}}\n{{对话|村民甲|真的有金子！！！我们挖了好多天，还以为没有呢！|头像=男文人}}\n{{对话|村民乙|还是你运气好，我们就是死活找不到！|头像=山贼甲}}\n{{对话|村民丙|发财了发财了！快挖，肯定还有更多！|头像=山贼乙}}\n{{旁白|山体上已经被村民们挖出了许多洞，每一个都精准地避开了矿脉。}}\n{{旁白|每个人都闹哄哄的各行其事，乱成一团。|}}\n{{对话|傅融|……停！}}\n{{对话|傅融|像你们这么挖，再挖一万年都发现不了金矿。}}\n{{对话|村民甲|那你说要怎么样？|头像=男文人}}\n{{对话|傅融|听我安排。你们这边，现在有多少人？}}\n{{对话|我|傅、傅融？你怎么突然……那么积极……|头像=内廷绣罗-惊讶}}\n{{旁白|村民们面面相觑，在我们面前集合。一共有三十几个人。}}\n{{旁白|傅融把他们迅速分成六组，各自指派了任务。}}\n{{对话|傅融|你们是一组，从这根树枝插入土层的角度，往下挖十尺。}}\n{{对话|傅融|如果十尺还没有发现矿脉，直接并入二组。}}\n{{对话|傅融|然后，二组，沿着山体这个角度往下挖……}}\n{{对话|傅融|三组不用挖矿，负责记录。这个是人员排班表………}}\n{{旁白|心理|什么时候变出来的排班表啊？！！}}\n{{对话|村民甲|这写的是啥？老二，你识字，给咱念念。|头像=男文人}}\n{{对话|村民乙|日报、周报、拉通、对齐、需求、耦合……还有各组给自己出一个口号……|头像=山贼甲}}\n{{对话|我|傅融！！！你到底在干什么？！你还回不回绣衣楼上班了？|头像=内廷绣罗-生气}}\n{{对话|傅融|要是能挖出金矿，谁还会去上班？}}\n{{对话|我|有金矿只是有钱，可你的精神世界是空虚的呀！傅融，人空虚的生活只能靠工作来填充……|头像=内廷绣罗-生气}}\n{{对话|我|人，终究是要有更高尚的理想的。不能拘泥于金钱……|头像=内廷绣罗-摇头}}\n{{对话|村民甲|挖到矿脉了！好多金子！我们发财啦！！！|头像=男文人}}\n{{旁白|心理|啊……他们……挖出来了……}}\n{{旁白|【山村】}}\n{{旁白|很快，一筐一筐的金子，就被挖出来了，堆满了村子的空地。}}\n{{旁白|负责对外联络的村民翻出了破损的山道，去镇子上请来了冶金匠。}}\n{{对话|村长|怎样？是不是成色很好？金灿灿的！|头像=摊贩}}\n{{对话|冶金匠|……这个嘛……|头像=难民}}\n{{旁白|冶金匠拿起了淡黄色的矿石，掂了掂，又拿起一个小锤敲了敲。}}\n{{对话|冶金匠|这个……不是黄金，是黄铁。|头像=难民}}\n{{对话|众人|什么？！}}\n{{对话|冶金匠|你们看啊，这石头上的条纹，是青黑色的，真金的条纹跟它本色一样。|头像=难民}}\n{{旁白|治金匠指着刚才被敲击的地方，已出现蛛网般的裂纹。}}\n{{对话|冶金匠|金子是不会被敲碎的。|头像=难民}}\n{{旁白|送走了冶金匠，大家都很没精神，傅融更是许久没有说话。}}\n{{对话|我|好啦，傅融，不要失望嘛……|头像=内廷绣罗-微笑}}\n{{对话|我|往好处想，如果真的有金子，可能会引来更大的灾祸。|头像=内廷绣罗-微笑}}\n{{对话|我|到时候或许会引来军阀抢夺，村民会陷入危险………|头像=内廷绣罗-微笑}}\n{{对话|傅融|你笑得很开心啊。}}\n{{对话|我|哪有哪有，我和你感同身受，也很难过啊……噗嗤。|头像=内廷绣罗-眯眼笑}}\n{{对话|傅融|……}}\n{{对话|我|噗嗤……对不起……哈哈哈哈哈太惨了哈哈哈哈哈……傅融，你还是得继续上班啊！|头像=内廷绣罗-眯眼笑}}\n{{对话|傅融|…………}}\n{{对话|傅融|哼。}}\n{{旁白|【绣衣楼】}}\n{{旁白|几个月后，我们收到了来自那个小山村的信。|}}\n{{旁白|村民们一切都好。虽然黄铁矿没有黄金值钱，但是也吸引了许多来挖矿的人。}}\n{{旁白|靠着卖铲子给这些人，村民们也赚了不少钱……}}\n{{旁白|恭喜达成结局【灿金梦】}} \n{{嵌套分歧|内容尾}}{{嵌套分歧|内容头}}\n{{对话|我|有银色的光？我们过去看看！|头像=内廷绣罗-生气}}\n{{旁白|【湖畔】}}\n{{对话|我|好漂亮的湖，像镜子一样。|头像=内廷绣罗-惊讶}}\n{{对话|傅融|月色下的银光，原来来自于水面啊……}}\n{{对话|傅融|不过，这湖有问题，你看那里。}}\n{{旁白|往下几步远的地方，能很明显看出曾经有一条水道，河床上还有一些残留的水。}}\n{{对话|傅融|这里原来是一条小河，是从前的泥石流把河道堵了，才在这个凹地形成湖泊。}}\n{{对话|我|如果水位继续增高……真的会很危险。|头像=内廷绣罗-严肃}}\n{{旁白|心理|如果河道的堵塞口被冲开，巨量的湖水会瞬间冲垮凹地下方的山体，迸流向下游的村庄……}}\n{{对话|傅融|连日暴雨，湖水的水位已经快满了，随时可能出事。}}\n{{对话|傅融|要管吗？}}\n{{对话|我|我们暂时也被泥石流困在了这，还是得告诉村民，让他们有些应对。|头像=内廷绣罗-点头}}\n{{旁白|【山村】|}}\n{{旁白|我与傅融对村长说起山上的湖泊，建议他们尽早处理。}}\n{{对话|村长|匪夷所思。这座湖泊在这边很多年了，从没出过事。|头像=摊贩}}\n{{对话|村长|你们说要引流湖水？可是引流的方向，是我们村的祖坟啊，这怎么行？|头像=摊贩}}\n{{对话|傅融|放任不管，迟早会决口，到时候村子也会不保。}}\n{{对话|村长|祖宗会保佑我们村的！用不着你们两个外人唠叨！|头像=摊贩}}\n{{旁白|村长带着怒意，把我们轰了出去……}}\n{{旁白|【农舍】}}\n{{对话|我|雨越下越大了……|头像=内廷绣罗-生气}}\n{{对话|傅融|如果这几日的雨一直都这么大，只怕用不了三天，水位就要到极限了……}}\n{{对话|村长|所有人跟我上山！快！|头像=摊贩}}\n{{对话|村民甲|湖堤要崩了！快去高处！|头像=男文人}}\n{{旁白|心理|比预想的还要早吗……}}\n{{对话|我|傅融，我们也动身吧，去高处。|头像=内廷绣罗-生气}}\n{{旁白|【山村】}}\n{{旁白|我们跟村民们一起，匆忙赶向高处。一路上，山道上已经出现了几支新的水流。}}\n{{旁白|路过村中祠堂时，发现里面灯火通明，几位年老的村民虔诚地跪在祖宗牌位前，祈祷平安。}}\n{{对话|我|老人家，快去高处，山上的湖水要崩了。|头像=内廷绣罗-生气}}\n{{对话|老人|这是我们的宗祠，祖宗都在这，我们不走。|头像=老年男}}\n{{对话|我|可是……|头像=内廷绣罗-生气}}\n{{旁白|傅融拉着我的手，阻止我再停留，继续向高处跑去。}}\n{{旁白|【高处】}}\n{{对话|村长|湖水真的崩了！大家快上来啊！}}\n{{对话|村妇|呜呜……我的东西都在家里……|头像=平民母亲}}\n{{对话|猎户|你疯了吗？不能折返！|头像=屠夫}}\n{{旁白|铺天盖地的山野暴雨中，我艰难站稳，山间的积水已经淹过了我的脚踝。}}\n{{对话|我|傅融，它还能撑多久？！|头像=内廷绣罗-生气}}\n{{对话|傅融|没意义了，继续往高处走！}}\n{{对话|我|还有很多村民没有上来……|头像=内廷绣罗-严肃}}\n{{旁白|下一刻，天动地摇。}}\n{{旁白|——湖堤崩了。}}\n{{旁白|一瞬间，丈余高的洪水从高处奔涌，重重拍向村子。整个村子低洼处的宗祠顿时不见了踪影。}}\n{{对话|众人|我们的村子……}}\n{{对话|孩子|爷爷……呜呜呜……爷爷……|头像=少年}}\n{{旁白|不远处，有几个孩子趴在树上，树下是湍急的水流。}}\n{{对话|我|树枝太细，撑不了多久了。|头像=内廷绣罗-严肃}}\n{{对话|我|如果能做一根吊索，从这边引到水对面的树，滑过吊索的途中就能救到他们……|头像=内廷绣罗-生气}}\n{{对话|傅融|风险太大。这个视野，你根本没法确认对面的树能不能承受重量。}}\n{{对话|我|……我想试一下，不能见死不救。|头像=内廷绣罗-生气}}\n{{对话|猎户|你们要救人吗？我来帮你们！|头像=屠夫}}\n{{对话|少年|我也来！我有绳子！|头像=少年}}\n{{对话|村妇|我也有！我们拉人梯，把绳子引过去！|头像=平民母亲}}\n{{对话|傅融|那我牵头走第一个。至于最后滑过滑索的人……}}\n{{对话|我|我来。|头像=内廷绣罗-生气}}\n{{旁白|暴雨中，傅融带头扛着绳索，拉着另一个村民的手，跃入洪水。}}\n{{旁白|村民拉着另一个人下水。一股山洪涌来，他们几乎要被冲散……}}\n{{旁白|许久，我终于看见傅融将绳子系在树上。绳子拉直，形成一道洪水之上的滑索，经过孩子们的上方。}}\n{{对话|我|你们拉紧这头的绳结，我要过去了！|头像=内廷绣罗-生气}}\n{{旁白|我从树上跃下，滑向孩子所在的树上；孩子们一个一个被我接到对侧，当最后一个孩子过去的时候……}}\n{{旁白|轰——}}\n{{旁白|那棵树轰然倒下，落入了洪水之中。}}\n{{旁白|【山村】}}\n{{旁白|村子低洼处的房子被毁坏殆尽，只剩下断壁残垣。}}\n{{旁白|昨晚在宗祠里面祈祷的老人们，已不知所踪。}}\n{{旁白|天明时，我们带着幸存者，疲惫地回到了村中……不过，孩子伏在我们的背上，睡得很香。}}\n{{旁白|恭喜达成结局【共工灾】}}\n{{嵌套分歧|内容尾}}{{嵌套分歧|内容头}}\n{{旁白|前面的山崖上似乎有五颜六色的光在闪烁，走近一看，又什么都没有了。|}}\n{{对话|我|奇怪，我刚才明明看见有光。|头像=内廷绣罗-挑眉}}\n{{对话|傅融|我也看见了，大概是岩石的反光，秣陵有座山也会闪烁紫光。}}\n{{对话|老婆婆|那不是岩石，是山鬼。|头像=老年女}}\n{{旁白|一位老妇人身上背着一只竹筐，缓缓从高处走下来。}}\n{{对话|老婆婆|你们就是村里来的那两个外乡人吧？|头像=老年女}}\n{{对话|我|我们被泥石流困在村里，要叨扰乡亲们一段时间了。|头像=内廷绣罗-微笑}}\n{{对话|张婆|他们都叫我张婆，我平时会为乡亲们驱邪治病。|头像=老年女}}\n{{旁白|心理|是乡野间的巫医吗……}}\n{{对话|我|刚才，你说有山鬼……|头像=内廷绣罗-挑眉}}\n{{对话|张婆|对，游荡在这座山间的山鬼，是位很善良的守护神。|头像=老年女}}\n{{对话|张婆|如果有人在山里需要帮助，它就能感应到，现身相助。|头像=老年女}}\n{{对话|傅融|我们只是来散步的，应该没有需要帮助的事。}}\n{{对话|我|对啊。天晚了，我们也该回去了。|头像=内廷绣罗-微笑}}\n{{对话|我|老人家，我们也送你一程，一起下山吧。夜色昏暗，山路很难走的。|头像=内廷绣罗-微笑}}\n{{对话|张婆|呵呵……那就多谢了。|头像=老年女}}\n{{旁白|【农舍】}}\n{{对话|我|……呼……呼……|头像=内廷绣罗-难受}}\n{{对话|我|好难受……|头像=内廷绣罗-难受}}\n{{旁白|一件带着体温的衣服裹在我的身上，是傅融的外套。}}\n{{旁白|在雨水的气味里，犹能闻见他身上的朱栾香。}}\n{{对话|傅融|能听见我的声音吗？|头像=傅融}}\n{{对话|我|……|头像=内廷绣罗-阴沉}}\n{{旁白|不知是风寒还是感染，第二天夜里，我发起了高烧。}}\n{{旁白|村民不通医术，我们也没有随身药物。傅融只能尽量替我保暖，弄来干净的饮水。}}\n{{对话|我|傅融……你的手好凉……|头像=内廷绣罗-阴沉}}\n{{对话|傅融|是你的手太热了。别说话了，好好休息。}}\n{{旁白|傅融伸手探向我的额头，他的眉毛紧锁。}}\n{{对话|傅融|……热度一点没退……这里也不可能弄到冰袋……}}\n{{对话|我|冰……山村里面，怎么会有冰……|头像=内廷绣罗-阴沉}}\n{{对话|我|咳咳咳……|头像=内廷绣罗-难受}}\n{{旁白|我的头越发昏沉胀痛，眼前的傅融形影模糊；忽然，又有一个人影坐到我身边……}}\n{{对话|张婆|我来迟了，快让我看看。|头像=老年女}}\n{{对话|张婆|你这是中了风邪……这碗药水，喝下去就好了。|头像=老年女}}\n{{对话|傅融|她不能喝来路不明的药。这碗药里有什么？}}\n{{对话|张婆|就是些普通的草药，没事的。|头像=老年女}}\n{{对话|傅融|不行，你得把药方告诉我。}}\n{{对话|我|…………傅融…………|头像=内廷绣罗-阴沉}}\n{{旁白|我按住傅融的手，艰难睁开眼。他迟疑了一下，最后还是让步，将那碗药水递了过来。}}\n{{旁白|心理|好清澈的颜色，像水一样……}}\n{{对话|张婆|喝吧，喝下去就会好了……|头像=老年女}}\n{{旁白|我神智越发的模糊，隐约中感到有木勺贴在我的唇上。|}}\n{{对话|我|什么味道……好香……|头像=内廷绣罗-阴沉}}\n{{对话|傅融|如果喝不下去就不喝。我再去给你找草药。}}\n{{旁白|一只手温柔地将我脸上的一缕头发挑到耳后，手掌按在我的额头上，凉凉的，很舒服。}}\n{{对话|我|去找……什么？你要去哪……|头像=内廷绣罗-阴沉}}\n{{对话|傅融|……我不去哪。我不走，留下来陪你。}}\n{{旁白|意识越来越沉重，我松开了他的手，沉沉睡去。}}\n{{旁白|【山村】}}\n{{对话|傅融|能自己走吗？真的没问题？}}\n{{对话|我|睡了一觉，我已经好多了。|头像=内廷绣罗-微笑}}\n{{对话|傅融|那种药好像真的有用……但还是不知道药方，我有点不放心。}}\n{{对话|我|好了，我都没事了，你就放心吧。|头像=内廷绣罗-微笑}}\n{{旁白|他搀扶着我，试着步出住所。我试着稳住脚步，张婆的身影，从远处的小径走向我们。}}\n{{对话|张婆|你能起身了呀，感觉好一点了吗？|头像=老年女}}\n{{对话|我|好多了，谢谢婆婆。|头像=内廷绣罗-微笑}}\n{{对话|张婆|这都是山鬼保佑，今天天气好，山路好走，我带你去感谢山鬼吧……|头像=老年女}}\n{{对话|傅融|不行。她身体刚好，还要休养一阵子才能走动。}}\n{{对话|我|傅融！|头像=内廷绣罗-生气}}\n{{旁白|被我喊住，傅融收住了话。张婆并不生气，还是笑意吟吟地望着我们。}}\n{{对话|张婆|走罢，去看看。这么好的天气，以后可能不会再有了。|头像=老年女}}\n{{旁白|【山林】}}\n{{对话|张婆|这里的花草都有灵性……那棵花树很淘气，每次都唱歌吓唬路人。|头像=老年女}}\n{{旁白|一树桃花正开得灿烂，歌声正从一朵未开的桃花苞中传出。}}\n{{对话|我|……傅融，你为什么那么淡定？花在唱歌哎。|头像=内廷绣罗-挑眉}}\n{{对话|傅融|唱得比小鸦好。}}\n{{对话|张婆|挺好听的，对吧？|头像=老年女}}\n{{对话|傅融|不难听。反正它只是唱歌，也没有要害人。}}\n{{旁白|傅融对这棵会唱歌的树毫无兴趣，继续向前走去。我见张婆正在注意别处，就凑到他耳边问悄悄话。}}\n{{对话|我|刚才那个花里真的有声音……你有发现什么端倪吗？|头像=内廷绣罗-微笑}}\n{{对话|傅融|可能是腹语。我没感到附近还有别人的存在。}}\n{{对话|我|她为何要用腹语来迷惑我们？|头像=内廷绣罗-挑眉}}\n{{对话|傅融|不知道。她毕竟救了你的命，免费的，可能想事后弄些奇迹，让你付钱？}}\n{{旁白|心理|其实如果想要医药费，直说也无妨，何必如此呢……}}\n{{对话|张婆|前面有蚂蚁聚成一朵花……呵呵，我每次过来，它们都会这样欢迎我。|头像=老年女}}\n{{对话|张婆|小心些，别踩到它们。|头像=老年女}}\n{{对话|我|真有意思，这座山上当真有灵。|头像=内廷绣罗-微笑}}\n{{旁白|张婆很高兴地带着我们继续向前走。傅融抬起头，悄悄向树上一指。}}\n{{旁白|树枝上有一个残破的蜂巢，蚂蚁在吃滴在地上的蜂蜜。}}\n{{对话|我|嘘，老人家既然都这么说了，就让她高兴高兴吧。|头像=内廷绣罗-眯眼笑}}\n{{对话|张婆|你们跟上。供奉山鬼的小祭坛就在前方了，快来吧…|头像=老年女}}\n{{旁白|在山阶尽头，有一座小祭坛，依稀能看见石碑上“山鬼”字样，石像已经破旧不堪，看不清容貌。}}\n{{旁白|张婆虔诚地在石像前放下一束辛夷花，双手合起，喃喃自语。}}\n{{旁白|我也学着她的样子，双手合起，轻声感谢。就在话音落下的一瞬，石像前的辛夷花凋零了。}}\n{{旁白|花叶迅速枯槁，由盛转衰。无数银白色的飞虫从花蕊中飞出，融入山林四方……}}\n{{旁白|【山村】}}\n{{对话|村长|张婆的病，还是没有起色吗？}}\n{{对话|孩子|早上的时候，我陪娘亲去送药给她，她连话都说不出了。|头像=少年}}\n{{对话|我|婆婆前几天还是好好的，怎么突然就病得这么重？|头像=内廷绣罗-严肃}}\n{{对话|傅融|年纪大了吧……什么事情都很突然。}}\n{{对话|傅融|你要去看看她吗？村民们让她在村东的药师屋中休息。}}\n{{旁白|我点头，带着傅融前往村东。药师的住处外有不少村民，都是来探望张婆的。}}\n{{对话|村长|这是我家刚煮好的长生果茶，不知道她还能下能喝下去……|头像=摊贩}}\n{{对话|我|村民都来了，看起来大家都很喜欢她。|头像=内廷绣罗-阴沉}}\n{{对话|村妇|张婆是个好人，神佛要保佑她能度过此关啊……|头像=平民母亲}}\n{{旁白|院中的榻上，张婆像是睡着了一样，睡在明亮的日光下。}}\n{{旁白|她身边围着几个懵懂的孩子，将父母送来的药品或者食物递给她。}}\n{{旁白|当我走近时，她似乎有些感应，微微睁开眼睛，对我笑了笑。}}\n{{对话|张婆|能替我……去山鬼那里……找一支辛夷花吗？|头像=老年女}}\n{{对话|我|我明白了。婆婆再等一等，我们马上就去找花过来。|头像=内廷绣罗-微笑}}\n{{旁白|我和傅融又去了一遍山上的小祭坛。}}\n{{旁白|不知为何，今日的祭坛边的辛夷悉数盛放。一路上，我们俩都没有人说话，心里都感到了预兆。}}\n{{对话|孩子|呜呜……张婆……|头像=少年}}\n{{对话|村长|婆婆啊……|头像=摊贩}}\n{{对话|我|张婆那怎么了？|头像=内廷绣罗-生气}}\n{{对话|村妇|张婆仙去了！|头像=平民母亲}}\n{{旁白|我们看向药师住处。黄昏红霞，无数银白的飞虫自院中飞散，像是一场逆飞的雪……}}\n{{旁白|轻声哭泣的村民都讶异地看着这一幕，甚至忘却了哭。}}\n{{旁白|心理|从前在隐鸢阁，我似乎见过这个场面……}}\n{{旁白|心理|……仙人的离去，“仙解”……}}\n{{旁白|飞虫散尽，辛夷成灰。村民们面面相觑，神色中显出些许迷茫。}}\n{{对话|村长|好像……刚才有位长辈去世了……|头像=摊贩}}\n{{对话|村长|但是她是谁呢？无论如何都想不起来了……|头像=摊贩}}\n{{对话|猎户|乡亲们！乡亲们！山上出事了！|头像=屠夫}}\n{{对话|猎户|我刚才去山里打猎，山上供奉山鬼的祭坛塌了，掉进崖下的河里不见了！|头像=屠夫}}\n{{旁白|有人诧异，有人迷茫。人们哭哭笑笑，在绚烂的夕阳下渐渐散去，各自归家……}}\n{{旁白|恭喜达成结局【山鬼邀】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n\n{{嵌套分歧|内容头}}\n{{对话|我|先从村民查起。村民还问过你什么问题吗？|头像=内廷绣罗-严肃}}\n{{对话|傅融|问是不是只有我们两个人外出、在外面还有没有别的亲友之类的。}}\n{{对话|我|好好的问这个做什么？|头像=内廷绣罗-严肃}}\n{{对话|傅融|那个村民养了鸽子，跟我说可以租他的鸽子给外界传信报平安。}}\n{{对话|傅融|我把他打发走了，什么都没告诉他。}}\n{{对话|我|嗯……总之从明日开始，我们都要小心些。|头像=内廷绣罗-点头}}\n{{对话|傅融|早点睡，我守夜。}}\n{{对话|我|那到后半夜，你喊醒我，我们换班？|头像=内廷绣罗-微笑}}\n{{旁白|他点点头，在窗棂边坐下，静静转着手中的茶盏。}}\n{{旁白|夜色渐深，我看着他窗边的身影，沉沉睡去……}}\n{{对话|公鸡|噢~噢噢——}}\n{{对话|我|……唔……|头像=内廷绣罗-阴沉}}\n{{旁白|心理|天亮了吗……}}\n{{对话|我|……傅融……？|头像=内廷绣罗-挑眉}}\n{{旁白|门外，傅融探身进来，穿着布围裙，手里端着一份食案。}}\n{{对话|傅融|醒了？早饭弄好了，洗洗弄弄，准备吃饭吧。}}\n{{对话|傅融|我亲手做的，没有买村民的饭，安心吃。}}\n{{对话|我|我还让你后半夜叫醒我，我们俩换个班呢。|头像=内廷绣罗-微笑}}\n{{对话|我|不然你一个人熬通宵，精神撑得住吗？|头像=内廷绣罗-微笑}}\n{{旁白|他将食案放在我面前，将手在布围裙上擦净，脱掉了围裙。}}\n{{对话|傅融|没事，我中午补个觉就好了。}}\n{{对话|傅融|早饭趁热吃，冷了口感就不好了。}}\n{{旁白|【山村】}}\n{{旁白|一日之晨，男人们排着队走向山道，荷锄去挖开被泥石流堵住的道路。}}\n{{对话|傅融|虽然这座山村有问题，不过你这几天气色好了许多。}}\n{{对话|我|哈……毕竟远离公务，早睡早起嘛。|头像=内廷绣罗-微笑}}\n{{对话|傅融|肩膀还痛吗？}}\n{{对话|我|肩膀？|头像=内廷绣罗-挑眉}}\n{{对话|傅融|离开雒阳的时候，你肩膀上的刀伤。}}\n{{对话|傅融|我就记得后来听医官说，伤口没及时处理，没能缝合，你感觉如何？}}\n{{对话|我|早就好了，就是动作大的时候会有点冷痛。|头像=内廷绣罗-微笑}}\n{{对话|我|反正不会有你的箭伤严重，别担心我。|头像=内廷绣罗-微笑}}\n{{对话|傅融|哼……那个箭伤的债，我还没和你算。}}\n{{对话|我|……那你要趁早和我清算呀，傅副官。|头像=内廷绣罗-无语}}\n{{对话|我|乱世之中，朝生暮死，说不定哪天，你就找不着我了。|头像=内廷绣罗-微笑}}\n{{旁白|傅融翻了个白眼，丢开手上随手抓的一把穗草。|}}\n{{对话|傅融|为了我的房贷，劳烦你尽量长命百岁。}}\n{{旁白|沿着乡间小路，我们并肩散步。日光和暖，山风清新。}}\n{{旁白|我伸了个懒腰，长长舒了一口气。忽然，傅融伸手拦在我身前，示意我小心。}}\n{{对话|傅融|……那边。看。}}\n{{对话|我|………那几个男村民，在那边鬼鬼祟祟做什么？|头像=内廷绣罗-惊讶}}\n{{旁白|——山林间，有几个精壮的男子山石后窃窃私语，接着一起往山林深处走去。|}}\n{{对话|我|村长说过，路通之前，所有男人都要去挖路，他们怎么会在这里？|头像=内廷绣罗-严肃}}\n{{对话|傅融|把头发和袖子都扎起来，悄悄跟过去看看。}}\n{{旁白|【深林】}}\n{{旁白|我们远远地跟着那几个人。}}\n{{旁白|他们熟悉山林道路，身手矫健。在一个下坡处，我们失去了他们的身影。}}\n{{旁白|心理|前方出现了三岔路口……|}}\n{{嵌套分歧|头}}\n{{嵌套分歧|选择左边的路|1}}\n{{嵌套分歧|选择中间的路|2}}\n{{嵌套分歧|选择右边的路|3}}\n{{嵌套分歧|尾}}{{嵌套分歧|内容头|显示=1}}\n{{旁白|我选了左边的路。正打算迅速追上，突然——}}\n{{对话|村民|天气这么好，两位怎么在这林子里，没到处走走？|头像=平民女}}\n{{旁白|心理|我们被发现了！可恶……这群人到底是何方神圣？}}\n{{对话|傅融|我们想活动活动筋骨，就来这爬山了。}}\n{{对话|村民|噢噢，这样啊。还以为你们会天天在山道入口看进度呢。|头像=平民女}}\n{{对话|我|我们今天去看了一下挖路的进度，看样子明天就能通了，所以就安心了。|头像=内廷绣罗-微笑}}\n{{对话|村民|对了，二位好像有点广陵的口音？|头像=平民女}}\n{{对话|村民|我们村有个姑娘嫁到广陵，她说广陵挺不错，真的吗？我们想去那做点小生意。|头像=平民女}}\n{{旁白|心理|……他们似乎在套我们的话。}}\n{{对话|傅融|你听岔了，我们的口音是岐山口音，不是广陵。}}\n{{对话|村民|原来如此……|头像=平民女}}\n{{对话|村民|哎呦，天阴了，可能要下雨。我们也打算下山了，要不一起回村？|头像=平民女}}\n{{旁白|我们答应，顺势一起下山。一路上，村民仍然在和我们搭话，试图套出关于我们的事情……}}\n{{旁白|心理|傅融说得没错。这些村民……绝对有问题。}}\n{{旁白|【农舍】}}\n{{对话|傅融|我回来了，查清那个人之后的行动了。}}\n{{对话|傅融|那个人回村后，找了一个叫李全的人，把我们的对话传递了一遍。}}\n{{对话|我|“传递”？|头像=内廷绣罗-挑眉}}\n{{对话|傅融|一字不差地传递。就好像是……}}\n{{旁白|傅融瞥了眼窗口，确认无人监听。}}\n{{对话|傅融|……好像是蜂使向雀使汇报情报。}}\n{{对话|我|一个普通的山民，为何要如此？|头像=内廷绣罗-严肃}}\n{{对话|傅融|你有没有感觉到，自从我们到这个村子，他们就一直在盯着我们。}}\n{{对话|傅融|我每天去打水，水井附近必有两个人，有时是孩童，有时是村妇。无论如何，一定有两个人。}}\n{{对话|我|……怎么那么像是绣衣楼密探盯梢时的安排。两人一组，一正一副………|头像=内廷绣罗-严肃}}\n{{对话|傅融|总之，万事小心。明日一早，我打算去探探那个李全的口风。}}\n{{旁白|【李全家】}}\n{{旁白|在自家的茅屋门外，李全正在清理打来的猎物。}}\n{{对话|我|太厉害了，明明刚经过泥石流，居然还能从山上打来那么多猎物？|头像=内廷绣罗-惊讶}}\n{{对话|李全|哈哈，毕竟是吃饭的手艺嘛。|头像=强盗}}\n{{对话|傅融|你们平日的盐和布匹，都是用这些山货换来的吗？}}\n{{对话|李全|是啊，卖得可好了。|头像=强盗}}\n{{对话|傅融|只卖肉，不卖皮子吗？}}\n{{对话|李全|你说笑呢？当然卖皮子呀，皮子的价格比肉贵！|头像=强盗}}\n{{对话|我|可惜……这皮子卖不上价了。|头像=内廷绣罗-严肃}}\n{{旁白|狐皮上有几个被利器砍出的破口，看起来是在捕猎时所伤。}}\n{{旁白|猎户捕狐，或是用陷阱夹腿，或是以利箭射其头，都要最大限度的保留皮子完整。}}\n{{对话|李全|这只狐理狡猾的很，实在不肯入套，只得下狠手了。多少还能卖点钱。|头像=强盗}}\n{{旁白|李全看着我和傅融，憨厚地笑笑。}}\n{{对话|李全|天色不早了，我去劈点柴禾，二位要留着用饭吗？|头像=强盗}}\n{{旁白|我们顺着他的话，说要留下用饭。片刻后，李全抱着一捆柴从屋后出来，向厨房走去。}}\n{{旁白|又过了一柱香的时间，他便利落地从厨房端出热腾腾的饭菜。}}\n{{对话|我|李前辈好快的动作，那么多菜，居然能一个人全部搞定？|头像=内廷绣罗-惊讶}}\n{{对话|李全|熟能生巧嘛。|头像=强盗}}\n{{对话|傅融|看起来色香味俱全，真是不错……}}\n{{旁白|傅融用手指点了点我的手背，给我打了暗号，然后用筷子夹起菜叶，凑到鼻边。}}\n{{对话|傅融|……我说啊……}}\n{{对话|傅融|给人下药，下药的菜，口味要更重一些。}}\n{{对话|李全|！！！|头像=强盗}}\n{{对话|我|动手！！！|头像=内廷绣罗-生气}}\n{{对话|李全|抓住他们！|头像=强盗}}\n{{旁白|顷刻间，数名男女带着兵器从厨房冲来；傅融拔出佩刀，挡在我身前。}}\n{{对话|傅融|你走窗口！}}\n{{对话|李全|让弩手准备，别让这个女的跑了！|头像=强盗}}\n{{旁白|生死一刻，剑拔弩张，突然，一个年轻的声音传入战场……|}}\n{{对话|？？？|住手！！！}}\n{{旁白|心理|这个声音是……}}\n{{对话|李全|老大，这对男女肯定是来暗查我们的探子！|头像=强盗}}\n{{对话|蜂使|住手！误会，这是个误会啊。}}\n{{对话|蜂使|玄蜂拜见楼主，见过傅副官。}}\n{{对话|我|……玄蜂？你为何在这？|头像=内廷绣罗-严肃}}\n{{旁白|见蜂使玄蜂向我们行礼，李全与身后村民也丢下兵器，向我们行礼，神色茫然。}}\n{{对话|蜂使|这处村落也是绣衣楼的据点。不过因为位置偏远，里面的人员都没见过楼主。}}\n{{对话|我|这是我们自己的地方？傅融，你有印象吗？|头像=内廷绣罗-严肃}}\n{{对话|傅融|没有……什么时候建的据点？}}\n{{对话|蜂使|啊哈哈，很多很多年前了，还是前任绣衣校尉的时期哦。}}\n{{对话|李全|啊！这样说起来，这位美女和前任楼主长得有几分像啊！|头像=强盗}}\n{{对话|村妇|傻子，和前任楼主的王妃长得更像！|头像=平民母亲}}\n{{对话|李全|啊哈哈，抱歉抱歉！不知是楼主亲临，多有得罪！|头像=强盗}}\n{{对话|我|也是本王的疏忽，没有整理上一代留下的秘密据点……傅融，快替他们记录符传。|头像=内廷绣罗-微笑}}\n{{旁白|大家闹哄哄的，去做菜的做菜，去收拾的收拾。很快，新的菜饭就被做好了，端了上来。}}\n{{对话|蜂使|既然都来了，楼主，傅副官，好好休个假吧！干杯！}}\n{{旁白|恭喜达成结局【镜中影】}}\n{{嵌套分歧|内容尾}}{{嵌套分歧|内容头}}\n{{对话|傅融|中间的路有新鲜的脚印，应该是他们留下的。}}\n{{对话|我|那就沿中间的岔路走。|头像=内廷绣罗-阴沉}}\n{{旁白|没多久，他们的身影就出现在前方的树影之后。}}\n{{旁白|这些人仍然聚在一起，窃窃私语……}}\n{{对话|男子甲|快凑齐了……|头像=男文人}}\n{{对话|男子乙|真的够吗？有点担心啊。|头像=山贼乙}}\n{{对话|男子丙|相信大哥的话，绝对没问题的。|头像=山贼甲}}\n{{对话|男子甲|嗯，我们先试一下，如果能成功，就回去汇报给族长……开始吧。|头像=男文人}}\n{{对话|男子乙|开始吧……|头像=山贼乙}}\n{{对话|我|……？|头像=内廷绣罗-挑眉}}\n{{对话|我|……！！！|头像=内廷绣罗-惊讶}}\n{{对话|我|他、他们在做什么——|头像=内廷绣罗-惊讶}}\n{{对话|男子甲|脱光光吧！！！|头像=男文人}}\n{{旁白|心理|？！！！！！}}\n{{对话|傅融|他们为什么要脱光了拿着石头绕圈跳舞……}}\n{{对话|我|……我……我一点都不想知道啊！|头像=内廷绣罗-脸红}}\n{{对话|男子乙|石头上还有一个洞！我要把手指伸进去！|头像=山贼乙}}\n{{对话|男子甲|啊啊啊……感受到了……感受到了……|头像=男文人}}\n{{对话|男子丙|有反应了……！快记下来，这样做就能有反应！|头像=山贼甲}}\n{{对话|傅融|……捂着眼睛也没用，还是快点弄清楚这个村子到底出了什么问题吧。}}\n{{旁白|我勉强睁开眼，然而，那边的几个男人居然也在看过来。}}\n{{旁白|心理|我们明明藏得很好，他们是怎么发现的？}}\n{{旁白|傅融眼神冷冽，向前一步挡在我的身前，将手按在刀把上。}}\n{{旁白|那几个人也并未心虚和生气，大大方方笑着，还招手欢迎我们加入。}}\n{{对话|我|天、天气这么好，随便走走，看你们在忙，不敢打扰。|头像=内廷绣罗-汗颜}}\n{{对话|男子甲|哈哈哈，不忙不忙。我们正在研究应急食品呢。|头像=男文人}}\n{{旁白|我不安地探出头，见他们中间摆着个箩筐，里面装满了五铢钱。}}\n{{对话|傅融|这个东西，和食品有关吗？}}\n{{对话|男子乙|它属于易氧化金属哦。|头像=山贼乙}}\n{{对话|傅融|……什么？}}\n{{旁白|几个村民丢开手里的石头，又去找新的石头，沉默地端详了许久。我咽了口唾沫，往后退开一步。}}\n{{对话|我|……傅融……|头像=内廷绣罗-汗颜}}\n{{对话|我|……要不……我们去查查……其他地方吧？|头像=内廷绣罗-汗颜}}\n{{对话|傅融|我很在意他们要对钱做什么！}}\n{{旁白|忽然，不知村民们领悟了什么，齐齐对着石头发出恍然大悟的声音，在卷轴上开始记录。}}\n{{对话|傅融|他们对我们没有敌意，所有人都没有对我们产生戒备。}}\n{{对话|傅融|而且，你有没有一种感觉？他们对五铢钱感到很新奇。}}\n{{对话|我|从什么地方来的人，才会从来没见过钱？|头像=内廷绣罗-挑眉}}\n{{旁白|傅融沉默片刻，我却已经想到了。}}\n{{对话|我|有钱人！巨富之家的有钱人！|头像=内廷绣罗-惊讶}}\n{{对话|我|只认识金银珊瑚和宝石，根本没见过五铢钱这样的小钱，唯一知道的货币是白金币！|头像=内廷绣罗-严肃}}\n{{对话|傅融|你看他们像吗？}}\n{{对话|傅融|如果真是有钱人，又为什么要我们付五铢钱给他们？}}\n{{对话|我|唔……|头像=内廷绣罗-严肃}}\n{{对话|男子甲|呜呼！又有感应了！我摸到了！我摸到了！|头像=男文人}}\n{{对话|男子乙|让我也摸摸！啊……真的！真的来了！|头像=山贼乙}}\n{{旁白|村民们举止怪异，又对我和傅融并无敌意。我们看他们这种奇异的行为看了很久，都没发现什么阴谋。}}\n{{旁白|天色晚了，我们只能先行离开……}}\n{{旁白|【农舍】}}\n{{对话|我|傅融？|头像=内廷绣罗-挑眉}}\n{{对话|傅融|是我，我回来了。}}\n{{对话|我|弄到了吗？|头像=内廷绣罗-严肃}}\n{{对话|傅融|弄到了，他们白天记载东西的卷轴。}}\n{{对话|傅融|不过他们的文字很奇特。你看。}}\n{{旁白|傅融从怀中将卷轴取出打开。我看了一眼，就皱起眉头。}}\n{{对话|我|一团一团的线条，似乎是某种文字。也许是西域某个小国的文字？|头像=内廷绣罗-严肃}}\n{{对话|傅融|西域三十六国，没有一个国家的文字是这样的。}}\n{{对话|傅融|也不是粟特、条枝和黎轩的文字。}}\n{{对话|我|这些人长得也不像胡人。也许是他们之间传递信息用的密文？|头像=内廷绣罗-严肃}}\n{{旁白|就在这时，我们的住处门口响起敲门声。}}\n{{旁白|傅融迅速思索一下，将卷轴留给我，把武器藏在身后，装作如常去开门。}}\n{{对话|村长|是我。我想问一下，二位贵客是不是拿了我们的笔记？}}\n{{对话|我|……|头像=内廷绣罗-严肃}}\n{{对话|傅融|……|头像=傅融}}\n{{对话|村长|哈哈哈……没事没事，如果你们喜欢，留个纪念也无妨。}}\n{{对话|傅融|……你有什么事？直说吧。|头像=傅融}}\n{{对话|村长|我来是想告诉二位，路已经通啦，两位明天一早就可以离开！我们也要离开了。}}\n{{对话|村长|这几天你们给了我们很大的帮助，大家都想在离别前当面谢谢你们。}}\n{{对话|我|……你们，离开？你们不是这座村子的村民？|头像=内廷绣罗-生气}}\n{{对话|村长|一言难尽哔……咳咳！总之，二位跟我们来就知道了。}}\n{{旁白|心理|不管答不答应，我们都只有两个人，无法抵挡那么多村民。}}\n{{旁白|心理|……听他的话，跟他去看看吧，尽量不要激怒他。}}\n{{旁白|【山村】}}\n{{旁白|我们跟着村长来到村中的空地，地面被画了一个巨大的奇异符号。所有的村民都在周围，微笑欢迎我们。}}\n{{对话|村长|咳咳……我简单的讲两句……}}\n{{对话|村长|首先，感谢善良的本地人为我们提供了极大的帮助，小小礼物，不成敬意。}}\n{{旁白|村长掏出一个沉甸甸的钱袋，放在我的手中。}}\n{{旁白|我打开钱袋，袋子里露出雪白璀璨的光……}}\n{{对话|我|！！！|头像=内廷绣罗-惊讶}}\n{{对话|傅融|白金币！！！|头像=傅融}}\n{{旁白|村民一个又一个上前，将自己的袋子拿出来，放在我或傅融的手上。}}\n{{对话|我|这、这么多钱……为什么……|头像=内廷绣罗-惊讶}}\n{{对话|村妇|因为这种质地的金属没办法作为应急食品，我们需要这种。|头像=平民母亲}}\n{{旁白|她拿起一枚五铢钱，然后……放进了嘴里。}}\n{{对话|男子甲|谢谢你们给我们那么多应急食品，这样一来，就能坚持到下一个星图区域了！|头像=男文人}}\n{{对话|村长|来！大家手拉手，一起连接吧！}}\n{{对话|我|等等？连接什么？你们到底在做什么啊？！|头像=内廷绣罗-惊讶}}\n{{旁白|我们被他们围在圈中，都有点慌乱。就在此刻，一道刺眼的白光从天而降，将村子照得亮如白昼……}}\n{{对话|傅融|月亮？……不，不是月亮……|头像=傅融}}\n{{旁白|从空中缓缓降下一轮“月亮”，形状扁圆，不断旋转、下降……}}\n{{旁白|村民们微笑着和我们道别，缓缓上浮，飞往银白巨物的方向——}}\n{{对话|村长|如果有机会，欢迎你们到我们的母星来。哔——|头像=摊贩}}\n{{对话|男子乙|再见，我会在考察论文的末尾致谢里写你们名字的！哔——|头像=山贼乙}}\n{{对话|我|………………哔？|头像=内廷绣罗-惊讶}}\n{{对话|村妇|终于可以回家了，我可以和奥□曼一起钓星鲨了哔——|头像=平民母亲}}\n{{对话|老人|啊……面□超人应该已经在太空电梯等我了哔……|头像=老年男}}\n{{旁白|下一刻，村民瞬间消失，“银白月亮”飞速远去，消失于夜空……}}\n{{对话|我|……………………他们……走了？|头像=内廷绣罗-惊讶}}\n{{对话|我|这……是梦吗？|头像=内廷绣罗-惊讶}}\n{{旁白|傅融摇晃手中的钱袋，发出清脆的响声。|}}\n{{对话|傅融|不是。是真的……}}\n{{对话|傅融|我们也许遇到……真正的仙人了。}}\n{{旁白|恭喜达成结局【天人约】}}\n{{嵌套分歧|内容尾}}{{嵌套分歧|内容头}}\n{{对话|我|右边的草茎是刚刚被踩折的，走这里。|头像=内廷绣罗-严肃}}\n{{旁白|我们沿着右边的小径追赶。走了片刻，前方传来了水声，出现了一条小河。}}\n{{旁白|村民们正站在岸边，向着一个离去的人影挥手。}}\n{{对话|渔民|欢迎您下回再来！|头像=难民}}\n{{旁白|他转头看见我和傅融，顿时热情地迎了上来。}}\n{{对话|我|你们这里是做什么的？|头像=内廷绣罗-微笑}}\n{{对话|渔民|这里是捕渔体验区，鱼虾都是我们养的，保证肥！一个拖网一百铢。|头像=难民}}\n{{对话|渔民|我划船放拖网，不管网着什么，都归您。|头像=难民}}\n{{对话|我|一百铢？渔获都归我们？傅融，好像挺划算的呢。|头像=内廷绣罗-微笑}}\n{{旁白|傅融平淡地看我一眼，目光又移向那个远去的客人身影。}}\n{{对话|傅融|刚才离开的那个客人，好像似曾相识……}}\n{{对话|渔民|一百铢！买不了吃亏，买不了上当！要不要试试手气？|头像=难民}}\n{{旁白|【河上】}}\n{{旁白|小河里水波粼粼，不过看不清水下的情景。|}}\n{{旁白|我跃跃欲试，期待地看着渔民拽起拖网。|}}\n{{对话|我|傅融，你说会不会满满一网都是鱼啊？|头像=内廷绣罗-微笑}}\n{{对话|傅融|……幸好你出生就是皇族，要不然不知道被人骗到哪去了。}}\n{{对话|我|你这种人好没劲！山村民风淳朴，怎么会有人骗我们呢？|头像=内廷绣罗-生气}}\n{{对话|我|这么大的网，一网下去，再差也能捞到十几二十条吧。|头像=内廷绣罗-生气}}\n{{对话|渔民|哎呦！好重！|头像=难民}}\n{{旁白|拖网突然紧绷，捞到了重物。我顿时欣喜，更期待地凑近船舷，看着拖网一点一点回收……|}}\n{{对话|我|……|头像=内廷绣罗-惊讶}}\n{{对话|傅融|……}}\n{{旁白|一块硕大的石块，静静地躺在网中。}}\n{{对话|渔民|啊……哈哈哈，捕鱼这种事嘛，很看运气的。|头像=难民}}\n{{对话|渔民|刚才那位客人可是满载而归，那鱼大的，嘿！那虾肥的，嘿！|头像=难民}}\n{{对话|傅融|信你个鬼。}}\n{{对话|渔民|真的！不信你们问他。他也是被泥石流堵在村里的，该吃吃该玩玩。|头像=难民}}\n{{对话|渔民|对了，要是二位不想打渔，不如，试试做陶器？我妻子开的陶器作坊，我介绍过去可以打折。|头像=难民}}\n{{旁白|【陶瓷作坊】}}\n{{旁白|在村民热情地推销下，我们不知怎么的就站在了陶器作坊前面。}}\n{{对话|村妇|做一件陶器五百铢，烧制加一百铢，彩绘加三百铢，锦盒包装加二百铢。|头像=平民母亲}}\n{{对话|村妇|二人同行能打八折，你们想要什么套餐？|头像=平民母亲}}\n{{对话|傅融|她想做。我不做。|头像=傅融}}\n{{对话|我|傅融，来都来了……|头像=内廷绣罗-微笑}}\n{{旁白|我推着傅融向屋内走去。里面有一个正在做陶艺的男客人。此人抬起头，与我们六目相对……}}\n{{旁白|竟是——}}\n{{对话|我|！！！|头像=内廷绣罗-生气}}\n{{对话|傅融|！！！|头像=傅融}}\n{{对话|李傕|！！！}}\n{{旁白|我们与李傕同时后退，虎视眈眈，眼看就是一场死战。}}\n{{对话|我|……李傕，你的兵器呢？|头像=内廷绣罗-严肃}}\n{{对话|李傕|你们的兵器呢？}}\n{{对话|傅融|稍等一下，为什么他看到你这副样子一点不惊讶？}}\n{{对话|李傕|广陵王是女的又怎么样？西凉各部族里，女人称王的事多了。}}\n{{对话|李傕|再说我也只是替董卓办事，我现在在休假，对你们没兴趣。}}\n{{对话|我|回到最初的问题，李傕将军，你的兵器呢？|头像=内廷绣罗-严肃}}\n{{旁白|我冲他挑挑眉，冷笑一声。}}\n{{对话|我|看来跟我们一样，被这群黑心村民骗光了装备啊。|头像=内廷绣罗-严肃}}\n{{旁白|一声冷哼，李傕端来一盆泥，重重放在桌上。}}\n{{对话|李傕|呵，既然处境都一样，那就用陶艺定输赢吧！}}\n{{对话|我|本王可不了解这些工匠的技艺，李将军怕是对我们有什么误解？|头像=内廷绣罗-严肃}}\n{{对话|李傕|那就肉搏？}}\n{{对话|村妇|哎呀……我们的陶艺桌都是特制的呢，打坏可是要赔的……|头像=平民母亲}}\n{{旁白|她微笑提醒我们，想到赔偿金，我们双方都瞬间冷静。}}\n{{对话|傅融|我来吧。}}\n{{旁白|心理|傅融一定能赢！他心灵手巧！}}\n{{旁白|心理|像李傕这样的武人，不过做些杯碟盘盏罢了，我们赢定了！}}\n{{旁白|……片刻后……}}\n{{对话|我|…………|头像=内廷绣罗-脸红}}\n{{对话|傅融|…………}}\n{{旁白|心理|……输了。}}\n{{旁白|李傕捏了一个双马尾的美少女。}}\n{{旁白|【村子】}}\n{{对话|村长|几位贵客，路通了！|头像=摊贩}}\n{{对话|村民|不过几位真的不考虑再多住几天？我们这还有很多好玩的。|头像=平民女}}\n{{对话|我|不了，我们真的在这里留太久了……|头像=内廷绣罗-阴沉}}\n{{旁白|相比我和傅融，李傕一声没吭，大步向村外走去。}}\n{{旁白|前方就是岔路，我们向广陵，李傕往雒阳。}}\n{{对话|李傕|走吧，下次再见，我就不留情了。}}\n{{对话|我|李将军是个人才，不如弃暗投明，来我绣衣楼如何？|头像=内廷绣罗-严肃}}\n{{对话|李傕|道不同不相为谋，就此别过。}}\n{{旁白|李傕的身影滑失在山道上。我和傅融则走向另一条路。}}\n{{旁白|忽然……}}\n{{对话|李傕|站住。|头像=李傕}}\n{{对话|我|……怎么了？他为何追上来？|头像=内廷绣罗-阴沉}}\n{{对话|李傕|这东西太累赘了，我懒得带回去，留给你们吧。}}\n{{旁白|一个锦盒被他抛过来。傅融接过打开，里面是那个……巧夺天工的陶艺作品。}}\n{{旁白|恭喜达成结局【共舟情】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n[[分类:活动剧情]]\n[[分类:鸢记]]"
+}

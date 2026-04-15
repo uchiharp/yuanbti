@@ -1,0 +1,1502 @@
+[
+  {
+    "title": "东郡太守/01",
+    "world_line": "World-0",
+    "estimated_year": "约189年",
+    "year_sort": 189,
+    "confidence": "high",
+    "reasoning": "从雒阳逃回广陵，董卓入京时期",
+    "story_summary": "曹操任东郡太守时期的广陵王故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/01",
+    "world_line": "World-0",
+    "estimated_year": "约193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及徐州、广陵、流寇",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/01",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及长安、袁氏门客、西凉军",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/01",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "提到讨董、传国玉玺，讨董联军时期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/01",
+    "world_line": "World-0",
+    "estimated_year": "约189年",
+    "year_sort": 189,
+    "confidence": "high",
+    "reasoning": "提到行刺董司空、宫内戒严，董卓入京时期",
+    "story_summary": "刘辩在宫中的故事，董卓入京初期",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "秋坟鬼唱/01",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及长安、郭嘉、吕布",
+    "story_summary": "郭嘉和贾诩在长安的暗线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/01",
+    "world_line": "World-0",
+    "estimated_year": "约193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及幽州、江东、周瑜、孙策",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/01",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及李傕、西凉军",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/01",
+    "world_line": "World-0",
+    "estimated_year": "约190-191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及袁基、西凉军",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/02",
+    "world_line": "World-0",
+    "estimated_year": "约193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及徐州、广陵、流寇",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/02",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及长安、袁氏门客、西凉军",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/02",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及江东、庐江，孙策创业初期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/02",
+    "world_line": "World-0",
+    "estimated_year": "约189年",
+    "year_sort": 189,
+    "confidence": "high",
+    "reasoning": "提到行刺董司空、宫内戒严，董卓入京时期",
+    "story_summary": "刘辩在宫中的故事，董卓入京初期",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/02",
+    "world_line": "World-0",
+    "estimated_year": "约190-191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及袁基、西凉军",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "东郡太守/03",
+    "world_line": "World-0",
+    "estimated_year": "约189年",
+    "year_sort": 189,
+    "confidence": "high",
+    "reasoning": "从雒阳逃回广陵，董卓入京时期",
+    "story_summary": "曹操任东郡太守时期的广陵王故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/03",
+    "world_line": "World-0",
+    "estimated_year": "约193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及徐州、广陵、流寇",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/03",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及长安、袁氏门客、西凉军",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/03",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及江东、庐江，孙策创业初期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/03",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、李傕，董卓控制时期",
+    "story_summary": "刘辩被废后流离的故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/03",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及李傕、西凉军",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/03",
+    "world_line": "World-0",
+    "estimated_year": "约190-191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及袁基、西凉军",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/04",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及兖州骑兵攻徐州、陶谦",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/04",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及长安、袁氏门客、西凉军",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/04",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及江东、庐江，孙策创业初期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/04",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、李傕，董卓控制时期",
+    "story_summary": "刘辩被废后流离的故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/04",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及刘备、陶谦、徐州",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "秋坟鬼唱/04",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及长安、郭嘉、吕布",
+    "story_summary": "郭嘉和贾诩在长安的暗线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/04",
+    "world_line": "World-0",
+    "estimated_year": "约193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及幽州、江东、周瑜、孙策",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/04",
+    "world_line": "World-0",
+    "estimated_year": "约190-191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及袁基、西凉军；涉及天命讨论",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/05",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及兖州骑兵攻徐州、陶谦；涉及天命讨论",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/05",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及长安书肆、宫女",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/05",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及江东、庐江，孙策创业初期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/05",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、李傕，董卓控制时期",
+    "story_summary": "刘辩被废后流离的故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/05",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及洛阳、李傕",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "东郡太守/06",
+    "world_line": "World-0",
+    "estimated_year": "约190-191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "广陵地区治理，讨董联军后期",
+    "story_summary": "曹操任东郡太守时期的广陵王故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/06",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及兖州骑兵攻徐州、陶谦",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/06",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及长安书肆、宫女",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/06",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及孙策在江东发展、吴夫人",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/06",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "medium",
+    "reasoning": "涉及西凉军、李傕，董卓控制时期；涉及魂的超自然元素",
+    "story_summary": "刘辩被废后流离的故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/06",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及丹阳兵、刘备、张辽",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "秋坟鬼唱/06",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及长安、广陵、郭嘉",
+    "story_summary": "郭嘉和贾诩在长安的暗线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/06",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及傅融、城门守卫",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/07",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及兖州骑兵攻徐州、陶谦",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/07",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及长安书肆、宫女",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/07",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及孙策在江东发展、吴夫人",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/07",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、李傕，董卓控制时期",
+    "story_summary": "刘辩被废后流离的故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/07",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及洛阳、李傕",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/07",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及傅融、城门守卫",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/08",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及伏寿、刘协、董贵人",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/08",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及孙策在江东发展、吴夫人",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/08",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、李傕，董卓控制时期",
+    "story_summary": "刘辩被废后流离的故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/08",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及幽州、袁术、孙策",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/08",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及天地金银台等调查",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "东郡太守/09",
+    "world_line": "World-0",
+    "estimated_year": "约190-191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "广陵地区治理，讨董联军后期",
+    "story_summary": "曹操任东郡太守时期的广陵王故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/09",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及阙宣、陶谦、徐州战事；涉及天命讨论",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/09",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及伏寿、刘协、董贵人",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/09",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及孙策在江东发展、吴夫人",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/09",
+    "world_line": "World-0",
+    "estimated_year": "约189-190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、李傕，董卓控制时期",
+    "story_summary": "刘辩被废后流离的故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/09",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及丹阳兵、刘备、张辽",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/09",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及天地金银台等调查",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/09",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及傅融、城门守卫",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/10",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及阙宣、陶谦、徐州战事",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/10",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及伏寿、刘协、董贵人",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/10",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及孙策在江东发展、吴夫人",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/10",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及内廷、洛阳皇宫",
+    "story_summary": "刘辩后期的故事，涉及内廷",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "秋坟鬼唱/10",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及长安、广陵、郭嘉",
+    "story_summary": "郭嘉和贾诩在长安的暗线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/11",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及阙宣、陶谦、徐州战事",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/11",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及伏寿、刘协、董贵人",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/11",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及扬州、江东",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/11",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "medium",
+    "reasoning": "涉及内廷、洛阳皇宫；涉及魂的超自然元素",
+    "story_summary": "刘辩后期的故事，涉及内廷",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/11",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及天地金银台等调查",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/11",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、傅融",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "东郡太守/12",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "涉及东郡太守曹操、张超",
+    "story_summary": "曹操任东郡太守时期的广陵王故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/12",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及阙宣、陶谦、徐州战事",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/12",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及刘协、吕布、荀彧",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/12",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及扬州、江东",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/12",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及内廷、洛阳皇宫",
+    "story_summary": "刘辩后期的故事，涉及内廷",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/12",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及丹阳兵、刘备、张辽",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/12",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及幽州、袁术、孙策",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/13",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及阙宣、陶谦、徐州战事",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/13",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及刘协、吕布、荀彧",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/13",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及扬州、江东",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/13",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及内廷、洛阳皇宫",
+    "story_summary": "刘辩后期的故事，涉及内廷",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "秋坟鬼唱/13",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及长安、贾诩、袁基",
+    "story_summary": "郭嘉和贾诩在长安的暗线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/14",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "徐州线中期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/14",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及扬州、江东",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/14",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及内廷、洛阳皇宫",
+    "story_summary": "刘辩后期的故事，涉及内廷",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/14",
+    "world_line": "World-0",
+    "estimated_year": "约191-192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "涉及天地金银台等调查",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/14",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及西凉军、傅融",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/15",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及扬州、江东",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/15",
+    "world_line": "World-0",
+    "estimated_year": "约189年（光熹元年）",
+    "year_sort": 189,
+    "confidence": "high",
+    "reasoning": "退位诏书'传位于陈留王协'，刘辩废帝(189年)",
+    "story_summary": "刘辩退位诏书，历史关键节点",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/15",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及刘备守徐州",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/16",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "徐州线中期；涉及天命讨论",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/16",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及刘协、吕布、荀彧",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/16",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "孙策江东线中后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/16",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及李傕，暗示弘农王之死",
+    "story_summary": "刘辩最后的日子",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/16",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及刘备守徐州；涉及天命讨论",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/16",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及刘虞、袁绍、袁术盟会；涉及魂的超自然元素",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/16",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及买官、李傕",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "鵩鸟承尘/16",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "鵩鸟承尘后期",
+    "story_summary": "袁基在长安的暗线故事",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/17",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "徐州线中期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/17",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "孙策江东线中后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "烈火入喉/17",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "涉及李傕，暗示弘农王之死",
+    "story_summary": "刘辩最后的日子",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "秋坟鬼唱/17",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及长安、贾诩、袁基",
+    "story_summary": "郭嘉和贾诩在长安的暗线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/18",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "徐州线中期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/18",
+    "world_line": "World-0",
+    "estimated_year": "约193-194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及刘协、吕布、荀彧",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/18",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "孙策江东线中后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/18",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及刘备守徐州",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/18",
+    "world_line": "World-0",
+    "estimated_year": "约194年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "涉及刘虞、袁绍、袁术盟会",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/19",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "徐州线中期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/19",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "孙策江东线中后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/19",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及刘备守徐州",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "风起荷影/19",
+    "world_line": "World-0",
+    "estimated_year": "约192-193年",
+    "year_sort": 193,
+    "confidence": "high",
+    "reasoning": "涉及买官、李傕",
+    "story_summary": "傅融相关的调查线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/20",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 194,
+    "confidence": "high",
+    "reasoning": "徐州线中期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/20",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "孙策江东线中后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/20",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "珠履三千后期",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/21",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "丹书白马后期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/21",
+    "world_line": "World-0",
+    "estimated_year": "约196-197年",
+    "year_sort": 197,
+    "confidence": "high",
+    "reasoning": "南有乔木后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "秋坟鬼唱/21",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "秋坟鬼唱后期",
+    "story_summary": "郭嘉和贾诩在长安的暗线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/21",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及刘虞、袁氏兄弟冲突；涉及天命讨论",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/22",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "丹书白马后期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/22",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "涉及曹操迎天子，建安元年",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/22",
+    "world_line": "World-0",
+    "estimated_year": "约196-197年",
+    "year_sort": 197,
+    "confidence": "high",
+    "reasoning": "南有乔木后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/22",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "珠履三千后期",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/23",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "丹书白马后期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/23",
+    "world_line": "World-0",
+    "estimated_year": "约196-197年",
+    "year_sort": 197,
+    "confidence": "high",
+    "reasoning": "南有乔木后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "珠履三千/23",
+    "world_line": "World-0",
+    "estimated_year": "约195-196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "珠履三千后期；涉及天命讨论",
+    "story_summary": "刘备在徐州的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/24",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "丹书白马后期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/24",
+    "world_line": "World-0",
+    "estimated_year": "约196-197年",
+    "year_sort": 197,
+    "confidence": "high",
+    "reasoning": "南有乔木后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "丹书白马/25",
+    "world_line": "World-0",
+    "estimated_year": "约195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "丹书白马后期",
+    "story_summary": "徐州陶谦时期的刘辩线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/25",
+    "world_line": "World-0",
+    "estimated_year": "约196-197年",
+    "year_sort": 197,
+    "confidence": "high",
+    "reasoning": "南有乔木后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "空花阳焰/25",
+    "world_line": "World-0",
+    "estimated_year": "约194-195年",
+    "year_sort": 195,
+    "confidence": "high",
+    "reasoning": "涉及刘虞、袁氏兄弟冲突",
+    "story_summary": "幽州刘虞与袁氏兄弟的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "凤皇鹑笼/26",
+    "world_line": "World-0",
+    "estimated_year": "约196年",
+    "year_sort": 196,
+    "confidence": "high",
+    "reasoning": "凤皇鹑笼后期",
+    "story_summary": "袁基在长安的宫廷线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "南有乔木/26",
+    "world_line": "World-0",
+    "estimated_year": "约196-197年",
+    "year_sort": 197,
+    "confidence": "high",
+    "reasoning": "南有乔木后期",
+    "story_summary": "江东孙策势力的故事线",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（上）/01",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "董卓专政前期，广陵王在雒阳/长安活动",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/01",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "董卓专政中后期，貂蝉接近董卓",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/03",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "董卓专政中后期，貂蝉接近董卓",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（上）/04",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "董卓专政前期，广陵王在雒阳/长安活动",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/06",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "董卓专政中后期，貂蝉接近董卓",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（上）/07",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "董卓专政前期，广陵王在雒阳/长安活动",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（上）/10",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "董卓专政前期，广陵王在雒阳/长安活动",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/10",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "连环计进行中，刺杀密谋",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/13",
+    "world_line": "World-0",
+    "estimated_year": "约191年",
+    "year_sort": 191,
+    "confidence": "high",
+    "reasoning": "连环计进行中，刺杀密谋",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（上）/14",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "董卓专政前期，广陵王在雒阳/长安活动",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（上）/17",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "董卓专政前期，广陵王在雒阳/长安活动",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/17",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "董卓伏诛前后",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/20",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "董卓伏诛前后",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（上）/21",
+    "world_line": "World-0",
+    "estimated_year": "约190年",
+    "year_sort": 190,
+    "confidence": "high",
+    "reasoning": "董卓专政前期，广陵王在雒阳/长安活动",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/24",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "董卓死后，贾诩出场，西凉军余部",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  },
+  {
+    "title": "董逃歌（下）/25",
+    "world_line": "World-0",
+    "estimated_year": "约192年",
+    "year_sort": 192,
+    "confidence": "high",
+    "reasoning": "董卓死后，贾诩出场，西凉军余部",
+    "story_summary": "董卓专政时期的暗线故事，涉及王允、貂蝉、吕布等人的密谋",
+    "guanglingwang_state": "本体"
+  }
+]

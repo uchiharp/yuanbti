@@ -1,0 +1,875 @@
+[
+  {
+    "id": "q_xushu_01",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "小宝日常",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「徐神疼不疼你？左慈好还是徐神好？那是——啾！香一个，睡觉觉！」徐庶对广陵王的情感表达是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太腻了不自在，这说明了一些问题",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "夸张但能感受到真诚偏爱",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "用玩笑掩盖真心，值得关注",
+        "scores": {
+          "S2": 3,
+          "S4": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶的情感表达堪称代号鸢天花板。"
+  },
+  {
+    "id": "q_xushu_02",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "刺董之夜",
+    "route_hint": null,
+    "city_hint": "长安",
+    "text": "「今夜可能闹得比较凶，小宝要替徐神说话呀。去吧去吧。」带着笑意把最危险的任务留给自己说明？",
+    "options": [
+      {
+        "label": "A",
+        "text": "逞能不想让旁人担心",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "用轻松语气掩盖紧张感",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "没把危险当回事，值得关注",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "徐庶行动中展现惊人冷静果断。"
+  },
+  {
+    "id": "q_xushu_03",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "廷议救人",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「汉律让你们对强权低头不顾平民死活，天道会说纵恶等同作恶。你们认廷议裁决老子只认两个字报应。」徐庶的底线触发条件？",
+    "options": [
+      {
+        "label": "A",
+        "text": "有人欺负自己，这说明了一些问题",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "有人伤害弱者和虚伪欺压",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "无论什么情况都绝不退让",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "徐庶底线极硬一旦触碰没有谈判空间。"
+  },
+  {
+    "id": "q_xushu_04",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "山下的后事",
+    "route_hint": null,
+    "city_hint": "成都",
+    "text": "「当年我处理完山下的后事回蜀山时都已经快四十岁了。」用五个字概括前半生这说明她——",
+    "options": [
+      {
+        "label": "A",
+        "text": "记忆力不好忘了细节",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "选择性展示有趣的自己",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "真的没什么好说的",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶面具极深喜剧人设是情感铠甲。"
+  },
+  {
+    "id": "q_xushu_05",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "守护小宝",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「我们小宝可是世上最乖的小宝，你永远都是我的小宝。」徐庶的温柔方式是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "无条件偏爱全方位表达",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "嘴上说说行动上不一定",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "该温柔时温柔该严格时严格",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶是代号鸢中最温柔的守护者。"
+  },
+  {
+    "id": "q_xushu_06",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "暴怒时刻",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「以后会有一群人伸手想把你摁下去。左手摁的砍左手右手摁的砍右手。」徐庶的锋芒特点？",
+    "options": [
+      {
+        "label": "A",
+        "text": "平时柔和触及底线时锋芒毕露",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "永远锋利不给人台阶下",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "嘴上说说而已不会真动手",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "徐庶的锋芒是藏锋式——平时柔和但触及底线时爆发。"
+  },
+  {
+    "id": "q_xushu_07",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "天道信念",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「你们认廷议裁决，老子只认两个字，报应。」徐庶的秩序感来自？",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全不认同任何外在秩序",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有自己的天道准则但与社",
+        "scores": {
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "严格遵守汉律和廷议",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶是有原则的叛逆者——内心有秩序但不认同外在制度。"
+  },
+  {
+    "id": "q_xushu_08",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "蔑视士族",
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "「这群人土皇帝当惯了，都没尝过被人掀桌的滋味。」徐庶对权力的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "痛恨一切权力，",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "看透权力但选择用自己",
+        "scores": {
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "想掌握权力改变现状",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶不是权力崇拜者也不是权力操控者。"
+  },
+  {
+    "id": "q_xushu_09",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "徐庶",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "一个人几乎从不提钱，也不主动争取物质利益。你觉得这个人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不差钱不在乎，这说明了一些问题",
+        "scores": {
+          "S3": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "价值观完全不在物质层面",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "在用不在乎钱来伪装什么",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶的价值观是人大于一切，物质只是工具。"
+  },
+  {
+    "id": "q_xushu_10",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "徐庶",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "长安",
+    "text": "「格杀？老子当年闯法场，全长安的侍卫都没能把老子格杀！」面对绝境时你的反应是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "认怂保命要紧，这说明了一些问题",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "用豪言壮语镇住场面同",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "直接动手打出去，值得关注",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶在绝境中展现最强的行动力。"
+  },
+  {
+    "id": "q_xushu_11",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "徐庶",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「不对头，让我瞧瞧……我不在的时候，你是不是过得不开心呀？」这种关心方式你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太黏人了有点烦，值得关注",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "温暖但让人有压力",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "是用玩笑包装的最真诚",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶的关心方式——先开玩笑再认真。"
+  },
+  {
+    "id": "q_xushu_12",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "徐庶",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「让她再赖一阵呗。她吵不吵？吵就对了，让你这热闹点。」用嫌你吵来表达想你，你觉得这是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的嫌吵，从中可以看出他的真实想法",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不擅长直接表达感情的笨拙方式",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "最高级的温柔——用嫌弃包裹关心",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "用嫌你吵来表达想你——这是最高级的温柔。"
+  },
+  {
+    "id": "q_xushu_13",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "徐庶",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「我是个又瓜又哈的闷噔。」一个人主动示弱让你放松警惕，你觉得？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的不太聪明，这说明了一些问题",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "可能在降低你的防备心",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "主动示弱是最高级的面具",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶的面具系统——让你以为看到了真实，其实只看到了她想让你看到的。"
+  },
+  {
+    "id": "q_xushu_14",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「对不起……徐神来晚了，没有护住你。」用最轻的声音说出最重的话，你认为这种表达？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太沉重了让人不敢接",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "轻描淡写的背后是压到",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不够直接应该说得更多",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶的道歉极简但重量惊人。"
+  },
+  {
+    "id": "q_xushu_15",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「放手去干，天塌不下来。天塌下来又怕个锤子？江湖儿女，无所畏惧！」你觉得这种鼓励？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太鲁莽不负责任，值得关注",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "让人有安全感的信任表达",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "一个人能给出的最高信任",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶给你的信任——天塌了有我顶着。"
+  },
+  {
+    "id": "q_xushu_16",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「口你先人板板的。」面对士族豪强欺压弱者，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "忍气吞声等以后再说",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "当场怼回去不留情面",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "骂完之后再想办法解决问题",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶的底线——触及就爆发，骂完再动手。"
+  },
+  {
+    "id": "q_xushu_17",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「没有意义，反正都活不下去了，打啊，不打等死？」面对绝境你的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "就算死也要有尊严",
+        "scores": {
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "实用主义压倒一切规则",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "越绝望越要按规矩来",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶的实用主义——活着比规矩重要。"
+  },
+  {
+    "id": "q_xushu_18",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼新来一个密探，看起来很紧张。你会怎么接待？",
+    "options": [
+      {
+        "label": "A",
+        "text": "认真介绍环境和规矩",
+        "scores": {
+          "S8": 3,
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "拍拍肩膀说别紧张以后",
+        "scores": {
+          "S2": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "不理会，自己适应就好",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "徐庶会选B——啾！香一个！"
+  },
+  {
+    "id": "q_xushu_19",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你在密探任务中受伤了但伤势不重。回来后你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先汇报任务再处理伤口",
+        "scores": {
+          "S5": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "轻描淡写说没事不让人担心",
+        "scores": {
+          "S4": 4,
+          "S8": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "大张旗鼓让人来照顾",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶受伤后第一反应是别让人担心。"
+  },
+  {
+    "id": "q_xushu_20",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "有人在你面前说广陵王的坏话。你的反应？",
+    "options": [
+      {
+        "label": "A",
+        "text": "当没听见不跟这种人计较",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "笑着问对方再说一遍试试",
+        "scores": {
+          "S7": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接怼回去哪个铲铲敢说我小宝",
+        "scores": {
+          "S7": 4,
+          "S6": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶的底线——谁敢对小宝大声？"
+  },
+  {
+    "id": "q_xushu_21",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "徐庶",
+    "source_story": "受重伤",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "「没事……很久没受这么重的伤了，借用了一点……义母的力量。」徐庶受伤后第一反应是别让人担心，这说明她？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真的很坚强不在乎伤痛",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "习惯性把脆弱藏起来先照顾别人",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "借用义母的力量说明她也有后怕",
+        "scores": {
+          "S4": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "徐庶的温柔——受伤了也先说没事。"
+  },
+  {
+    "id": "q_xushu_22",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我们小宝可是世上最乖的小宝，你永远都是我的小宝。」",
+        "scores": {
+          "S2": 4,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「天道会说，纵恶等同作恶。你们认廷议裁决，老子只认报应。」",
+        "scores": {
+          "S10": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "A来自徐庶的日常温柔，B来自徐庶的底线爆发。"
+  },
+  {
+    "id": "q_xushu_23",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "徐庶",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "洛阳",
+    "text": "面对不公的廷议裁决，一个没有权势的人选择当场掀桌怒斥满朝文武。你认为这个人？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太冲动了不会变通",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "有勇气但不够聪明",
+        "scores": {
+          "S1": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "看得透但不屑于算",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "徐庶的城府——有判断力但不爱用，看得透但不屑于算。"
+  }
+]

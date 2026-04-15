@@ -1,0 +1,82 @@
+[
+  {
+    "id": "q_taishici_01",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "太史慈",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "长沙",
+    "text": "你年少时为报恩，孤身一人冲入敌营救出被掳的恩人之子。事后有人问你不怕死吗。你回答——",
+    "options": [
+      {
+        "label": "A",
+        "text": "「当时没想那么多，只是觉得该去。」",
+        "scores": {
+          "S2": 2,
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「怕。但恩人的孩子不能不救。」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「报恩之事，何惧生死。」",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自太史慈的密探故事——他义薄云天，为报恩可以不顾一切。"
+  },
+  {
+    "id": "q_taishici_02",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": "太史慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼分发月例赏银，你发现账目上多给了你一锭金子。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接收下，可能是楼主的特殊安排",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "先记下，回头找管事确认清楚",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "立刻退回去，不是自己的东西绝不要",
+        "scores": {
+          "S3": 4,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "太史慈为人磊落，不取不义之财。"
+  }
+]

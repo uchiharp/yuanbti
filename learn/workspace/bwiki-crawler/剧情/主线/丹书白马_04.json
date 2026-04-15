@@ -1,0 +1,28 @@
+{
+  "title": "丹书白马/04",
+  "category": "主线剧情",
+  "characters": [
+    "流寇头目"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "流寇头目",
+      "text": "哼哼，我兄弟被你们打败了，可别以为我也那么弱！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流寇头目",
+      "text": "我阿嚏只是阿嚏鸟毛阿嚏过敏阿嚏阿嚏……",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类主线剧情"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%B9%E4%B9%A6%E7%99%BD%E9%A9%AC/04",
+  "crawled_at": "2026-04-12T21:52:29.759118",
+  "raw_wikitext": "{{对话-头}}\n{{旁白|【郊外】}}\n{{旁白|从广陵赶赴彭城。}}\n{{对话|流寇头目|哼哼，我兄弟被你们打败了，可别以为我也那么弱！}}\n{{对话|流寇头目|我阿嚏只是阿嚏鸟毛阿嚏过敏阿嚏阿嚏……}}\n{{对话-尾}}\n[[分类:主线剧情]]"
+}

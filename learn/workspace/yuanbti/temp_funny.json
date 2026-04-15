@@ -1,0 +1,140 @@
+  {
+    "id": "zuoci_funny_01",
+    "type": "funny",
+    "dimension": ["S4", "S7"],
+    "source_character": "左慈",
+    "text": "左慈回忆你小时候和祢衡去撬沉香神像：'说雷劈过的沉香木，煮水后能学会飞。然后一起从塔顶滑下去，抱着神像从雪山往下滚，最后神像碎了，撞塌宿舍五间，引发雪崩，一个摔断了左手一个摔断了右腿。'",
+    "options": [
+      {
+        "label": "A",
+        "text": "辩解道'是祢衡先动的手'",
+        "scores": {"S4": 1, "S7": 1},
+        "tendency": "below"
+      },
+      {
+        "label": "B",
+        "text": "笑着问'那您当时什么反应'",
+        "scores": {"S4": 3, "S7": 3},
+        "tendency": "faithful"
+      },
+      {
+        "label": "C",
+        "text": "得意地说'现在我们飞给你看'",
+        "scores": {"S4": 5, "S7": 5},
+        "tendency": "above"
+      }
+    ],
+    "reveal": "台词出自左慈-约会/七载相逢。左慈用平淡语气讲你小时候的荒唐事，实际是在调侃你。"
+  },
+  {
+    "id": "zuoci_funny_02",
+    "type": "funny",
+    "dimension": ["S3", "S8"],
+    "source_character": "左慈",
+    "text": "左慈说：'张机从前不知听谁说学医会秃头，在家中常备了几顶假发，以备不时之需。嗯，戴上之后，真的有点像辣椒。'",
+    "options": [
+      {
+        "label": "A",
+        "text": "说'不要取笑张机'",
+        "scores": {"S3": 1, "S8": 1},
+        "tendency": "below"
+      },
+      {
+        "label": "B",
+        "text": "跟着笑，问'还有谁戴过假发'",
+        "scores": {"S3": 3, "S8": 3},
+        "tendency": "faithful"
+      },
+      {
+        "label": "C",
+        "text": "说'您要是秃了，我给您织顶狐狸毛的'",
+        "scores": {"S3": 5, "S8": 5},
+        "tendency": "above"
+      }
+    ],
+    "reveal": "台词出自左慈-约会/回乡的诱惑。左慈调侃张机的秃头焦虑，语气轻松有趣。"
+  },
+  {
+    "id": "zuoci_funny_03",
+    "type": "funny",
+    "dimension": ["S5", "S10"],
+    "source_character": "左慈",
+    "text": "左慈说：'吾的头发能留下来不容易。你小时候薅起它们，可是毫不留情。'",
+    "options": [
+      {
+        "label": "A",
+        "text": "道歉说'小时候不懂事'",
+        "scores": {"S5": 1, "S10": 1},
+        "tendency": "below"
+      },
+      {
+        "label": "B",
+        "text": "伸手摸摸他的头发，说'现在不会了'",
+        "scores": {"S5": 3, "S10": 3},
+        "tendency": "faithful"
+      },
+      {
+        "label": "C",
+        "text": "故意抓一把，说'现在也挺好薅的'",
+        "scores": {"S5": 5, "S10": 5},
+        "tendency": "above"
+      }
+    ],
+    "reveal": "台词出自左慈-约会/囚雪。左慈抱怨你小时候薅他头发，其实是甜蜜的回忆。"
+  },
+  {
+    "id": "zuoci_funny_04",
+    "type": "funny",
+    "dimension": ["S1", "S6"],
+    "source_character": "左慈",
+    "text": "左慈说：'你最后会发现，无论作恶还是为善，人间的安定，最终都依赖于没收刀兵、制定律法、约束道德。徐庶会觉得，没意思。但‘有意思’是没办法让人间安定的。'",
+    "options": [
+      {
+        "label": "A",
+        "text": "点头赞同，说'确实如此'",
+        "scores": {"S1": 1, "S6": 1},
+        "tendency": "below"
+      },
+      {
+        "label": "B",
+        "text": "反驳说'但有趣的东西也很重要'",
+        "scores": {"S1": 3, "S6": 3},
+        "tendency": "faithful"
+      },
+      {
+        "label": "C",
+        "text": "说'那您觉得我有趣吗'",
+        "scores": {"S1": 5, "S6": 5},
+        "tendency": "above"
+      }
+    ],
+    "reveal": "台词出自左慈-约会/七载相逢。左慈以仙人的视角调侃人间秩序，顺便吐槽徐庶。"
+  },
+  {
+    "id": "zuoci_funny_05",
+    "type": "funny",
+    "dimension": ["S8", "S9"],
+    "source_character": "左慈",
+    "text": "左慈说：'吾梦见变成了天上的一颗流星，划过学宫附近的山头。你和同学们在山上许愿，吾听到你说，明日停课。一晃神，那颗流星就落在学宫正上方，把你们的学宫砸了个稀巴烂。'",
+    "options": [
+      {
+        "label": "A",
+        "text": "说'这梦太离谱了'",
+        "scores": {"S8": 1, "S9": 1},
+        "tendency": "below"
+      },
+      {
+        "label": "B",
+        "text": "笑问'那院长什么反应'",
+        "scores": {"S8": 3, "S9": 3},
+        "tendency": "faithful"
+      },
+      {
+        "label": "C",
+        "text": "说'下次做梦带我一起砸'",
+        "scores": {"S8": 5, "S9": 5},
+        "tendency": "above"
+      }
+    ],
+    "reveal": "台词出自左慈-约会/回乡的诱惑。左慈用荒诞的梦来调侃你当年想停课的心思。"
+  }

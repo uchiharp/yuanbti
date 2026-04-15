@@ -1,0 +1,87 @@
+[
+  {
+    "id": "q_xiahoudun_01",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "夏侯惇",
+    "source_story": null,
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "战场上你与敌将对峙，对方提出以平民性命为要挟，让你放下兵器。你身后是数千百姓，放下兵器意味着你也可能被杀。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "权衡利弊后暂且放下，待时机再反击",
+        "scores": {
+          "S6": 2,
+          "S9": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "要求对方先释放百姓再谈条件",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "宁可战死也不拿百姓的命做交易",
+        "scores": {
+          "S6": 4,
+          "S5": 3,
+          "S3": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自夏侯惇的密探故事——他为人刚直，宁折不弯，绝不做有违道义之事。"
+  },
+  {
+    "id": "q_xiahoudun_02",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你带兵出征，麾下将士粮草不继、士气低落。你已三天没吃东西，但还有最后一份口粮。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "按军中规矩分配，统帅也不例外",
+        "scores": {
+          "S8": 2,
+          "S6": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "把口粮分给伤兵，自己继续扛着",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "亲自到前线与将士同甘共苦，鼓舞士气",
+        "scores": {
+          "S8": 4,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "夏侯惇以善待部下闻名，常与士卒同食同住，深得军心。"
+  }
+]

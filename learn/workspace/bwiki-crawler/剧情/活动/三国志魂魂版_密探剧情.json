@@ -1,0 +1,4774 @@
+{
+  "title": "三国志魂魂版/密探剧情",
+  "category": "活动剧情",
+  "characters": [
+    "伍丹",
+    "侍女",
+    "吕蒙",
+    "周瑜",
+    "周群",
+    "太史慈",
+    "女师",
+    "妇女丙",
+    "妇女乙",
+    "妇女甲",
+    "孔融",
+    "孙尚香",
+    "孙权",
+    "山九",
+    "张辽",
+    "张邈",
+    "张郃",
+    "张闿",
+    "张飞",
+    "徐庶",
+    "文丑",
+    "楼班",
+    "死士",
+    "毛玠",
+    "甄宓",
+    "甘宁",
+    "蛾使",
+    "蜂使",
+    "西凉军官",
+    "贾诩",
+    "郭嘉",
+    "阿蝉",
+    "陆逊",
+    "陈登",
+    "雀使",
+    "颜良",
+    "高览",
+    "黑衣人",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "妇女甲",
+      "text": "头像=平民女",
+      "emotion": "把那边的回廊堵住，那两个登徒子逃不出纺室的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇女乙",
+      "text": "头像=平民母亲",
+      "emotion": "给我过来！你！有没有见过长这样的两个男人？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇女丙",
+      "text": "头像=民妇",
+      "emotion": "有登徒子啊！正门侧门全部落锁！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "………………好、好像跑过去了。呼，差一点被打成肉泥……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "哎，伯言，你要去哪？别被她们发现了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "……别这么叫我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "我听那人就这么喊你的，伯言伯言伯——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇女甲",
+      "text": "头像=平民女",
+      "emotion": "听见他声音了！在这！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "糟了！快跑！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "呼、呼、呼……我的妈呀，这家纺室怎么那么大？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "当初就说不要往这个方向跑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "少给我事后周公瑾，你当初也没拦我啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇女乙",
+      "text": "头像=平民母亲",
+      "emotion": "熏室里好像有人！谁在里面？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "啊呀~人家是新来的小莲啦~姆妈吓到人家了啦~",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "干嘛呀，这么看我？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "竟会信你带的路，我真是疯了"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "我堂堂白浪营副将，被派来给你个小文秘当护卫我还没发疯呢！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "行了，尽快找到绣衣楼要的线索，尽快回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "今天行动的经过，我会如实上报车虎营的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "“我会如实上报车虎营的”…呿，吓唬谁啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "你做什——呃！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "这家纺室……果然有问题。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "那些人的脚印是向这边来的……这是浴室啊，没其他门窗了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "应该有密道通往其他地方，不会凭空失踪"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "会不会是鬼啊？我记得你最怕鬼了",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "胡说什么？快点找密道！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "也许董卓身边的那名军师，就在密道之后。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "你说这军师是个什么鬼东西，我们一路追查他，居然追查到纺室的浴室？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "难道……是个女人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "董卓，似乎从前不曾重用过女子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "那可说不准，他不是挺疼他女儿的吗？入朝之后立马给他女儿讨要了封号。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "你何时关注这些朝堂的事了？以前连什么叫封号都不知道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "嘿嘿……你的公瑾师父告诉我的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "吃醋啦？他和我说，没和你说？哎呦呦，小眼神都——啊痛痛痛！别踩我！呜啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "冷死了！咦……这是什么……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "真的是密道，还挺长的……伯言，快进来！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "进来啊！等什么呢！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "你是不是怕地道有鬼啊？刚才犹豫那么久都不敢进来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "没什么。只是担心里面有陷阱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "怎么可能有陷阱，这么窄的地方……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "我们现在在哪啊？你还记得路吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "偏东分度十五，行一百三十五步；偏西分度二十，行四百步；偏南……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "对照路观图，我们应该在永和里、中东门附近。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "一直特佩服你这记路的本事，在乌漆嘛黑的地道里都记得路线。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "你以前是不是特意练过？这怎么练的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "我们刚到纺室就遇到了截杀。要么，是他留在那的守卫；要么……我们被人出卖了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "看、看我干嘛？我可不是内鬼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "要说内鬼，你的嫌疑更大吧？孙策和绣衣楼交好，你跟孙策又有血仇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "……瞎猜也有个限度。我出卖我们俩，有什么意义吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "……没有其他痕迹,他们已脱身了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "也好，收工回家睡觉。要不吃个宵夜呗？吃啥我请客！走啦走啦——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "吃不下。别碰我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "没劲，再也不跟你出来了……咦，地上怎么亮闪闪的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "伯言你看！地上有两道车轨，是马车驶过的痕迹，还有金粉！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "真的……是黄金马车驶过的痕迹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "他来过这！从南侧门进入院中，车痕延伸向北方……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "好像有人来了！躲这边！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "女公子，铁钉找回来了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=路人母亲",
+      "emotion": "太好了……你呀，以后可不许追着萤火溜出去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "外面风寒，袁氏的管家嘱咐了，让甄女公子早些回去歇息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=路人母亲",
+      "emotion": "我再在外面待一会儿。客居在此，有些不惯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "什么真女公子假女公子的……伯言，你脸色怎么变了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "……甄女公子……甄氏，是中山甄氏，与袁氏有世交。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "半月前，甄家的女公子参加冬至大祭，寄住在袁氏的别苑中。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "伯言快来！我看到它了，纯金的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "走近了看可真壮观……孙策喜欢这种稀奇古怪的东西，要不偷回去？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "他家的院子够土财主了，不要再添油加醋了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "那，我掀车帘啦！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "——退后！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "是刚才纺室偷袭我们的人，全死在这了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "……是灭口，也是警告。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=陆逊",
+      "emotion": "这真是个……手眼通天的警告啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "走吧，今夜到手的线索，已经够了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "周哥！我找到那家伙了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "哦……找到了吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "阿香！冷静点！！！这里太高了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "无所谓！用力跳就行，喝——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "不要——啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "屋檐应该没挂坏，不需要赔偿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "都怪你！你不帮忙砍人，带那么多把剑干什么？怕妈妈趁你不在把它们送人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……说了出任务要带剑的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "也没说要带六把呀！你又不砍人，你是跟着来记录任务过程中发生的好人好事的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "…………真的会有那种事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "有没有不重要，真不真不重要，重要的是有人信。刚才差点摔下房项不就能写吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "嗯，就写“我连累我妹妹了，由衷表示惭愧”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "是你硬要拽着我一起跳的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "那就写“是我身手不行，回去一定好好训练”啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "是好人好事，又不是自我反省。让我看看以前写的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "“特殊密探风采展示，绣球，把羽毛抖到了蔡琰头顶。蔡琰女公子非常感动，感谢小鸟的馈赠”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "这不是写的很好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "“飞云，在起风时主动用自己的身躯给伍丹取暖。小狗真的是大家的好朋友。”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "对，就这样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "“甘宁，在同事的饭里□□。”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "……很浓墨重彩的点缀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "啊！我有主意了，你就这样写。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "就是……在目标眼看要逃跑的时候，孙尚香挺身而出，全城追击！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "感觉只有个开头，不完整。要不要加一点波澜起伏？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "全城追击……就在这时，我的剑带挂在了瓦当上，阻碍了她追击的脚步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "再加点，有点寡淡了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "把对手写得强一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "他是干了什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "他偷了陈登的鱼竿和一筐鱼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "面对泯灭人性、穷凶极恶、杀人如麻，罪行弊竹难书的罪人，孙尚香毫不畏惧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "这样太扁平了，上次广陵王看你写的报告，说人物没有弧光。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "一开始，当听闻自己被派去追缉该名恶徒时，孙尚香泣不成声……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "妈妈——大哥——阿蒙——我们来生再见——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "但是一想到身为江东虎女的骨气和骄傲……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "前缀加个绣衣密探，毕竟是贴在别人的布告栏的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "好，一想到身为江东虎女、绣衣密探……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "再加个怪盗协会青年精锐！还有这个……那个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "一想到身为江东虎女、绣衣密探、怪盗协会青年精锐、隐鸢阁张姜子弟子、小霸王之妹、绣衣校尉心腹、董卓大患……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……的做骨铮铮，孙尚香毅然决然接下了任务，立下不取敌首不还的军令，慷慨激昂步出绣衣楼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "那个，我们只是抓一个偷渔具的蟊贼，需要写这么长的报告吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "不在于长不长，在于态度。有时候办事的人未必需要什么能力，甚至忠不忠心都是其次。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "重点是此人摆出的态度。夸张一点也无所谓，就是摆出来让人看的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "周哥，你总教他这些，他会变阴暗的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "……原来如此。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "说时迟那时快，孙尚香一个箭步上前，暴喝一声纳命来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "……我没有哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "电光火石间，随着紧绷的声响，我的剑带挂在了屋檐瓦当上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "再来点心理描写，现在这样报流水账有点干。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "霎时，我脑中一片空白。怎么办？难道要因我一己之过，毁掉所有人辛勤工作的成果吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "长度差不多了，可以收尾了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "千钧一发之际，孙尚香一个箭步回头……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "我怎么天天箭步来箭步去的，能好好走路吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "孙尚香飘然回身，宛如天降神兵，一把将跌落半空的我拽回房顶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "我看看……嗯……还行，再加点对话吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "明白了。孙尚香关切地看着我，“你还好吗？”我说“我很好，谢谢，你呢？”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "完美。这样交过去，她应该不会怀疑我们公费旅游了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "可以去买东陵白杏脯了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "好像少了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "不少啦，这加起来比我一年写的字都多了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "我的剑，少了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "我家祖传的剑被偷了？！你有看见那个人吗？这样回去没法和妈妈交代！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "不必慌乱。去高处看看。他带着剑，跑不远。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "南边没有……周哥，阿权，你们看见了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "太阳太大了，睁不开眼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "……因为太阳太好，忍不住躺下睡着了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "最近公务繁忙，车虎营通宵议事好几夜了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "策划什么呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "打荆州。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "啊？怎么可能……兵线现在都没推过会稽郡吧。是要两线作战吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "不，是策划六年后打荆州。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "都策划到六年后了啊……哎！我望见他了！在西北边！快冲——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=孙权",
+      "emotion": "等、等等，别拽我……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "唔！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "我会时常写信回来的，请诸位勿要挂念，也请先生多加保重。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女师",
+      "text": "头像=宫女",
+      "emotion": "刚回来就要走了吗……还以为你回来后，会长留汝南。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "此番一别，不知何日才能相见了。学生……拜别先生。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "“调查董卓身边的军师，收集关于此人的所有情报”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "近日的调查大多围绕此人，可见楼主十分忌惮他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "从前都没注意过，本地有这么大的歌楼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "咦，那个人是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=郭嘉",
+      "emotion": "哎呀呀……长大了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "呼、呼……果然是你！你到底是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "在父亲刺杀董卓的前夜，我在家中见过你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=郭嘉",
+      "emotion": "原来是伍孚的孩子啊。我是你父亲的好友，郭嘉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "……………………？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "为何这么看着我？有奇怪的东西吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "！！！——小心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "别担心，我不会死在今天的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "呵呵，瞧你这傻孩子，满头都是冷汗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "这些刺客是冲谁来的？为何在这时出手……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "小脑瓜想不明白就先别想了，你还小——唔呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "那先来说你的事。父亲突然刺董，和你有没有关系。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "一定是有人蛊惑他那么做的。你知道什么？告诉我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "唔……咳咳……唔……松……松开……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "……我也是……绣衣楼的人，松开！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "绣衣楼？你有何凭证？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "等我喘口气。脖子都差点断了……现在的孩子啊……唔呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "蝉姐说过，说话答非所问的人，直接干掉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "现在开始，我问什么，你答什么，听懂了就点点头。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "那个……蝉……她……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "你说的那个蝉姐……她漂亮吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "连蝉姐漂不漂亮都不知道，还敢说是绣衣楼的人？！受死吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "等等！伍孚刺杀董卓的内幕，杀了我，你就永远无从得知了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "你这种人的话，我一句都不信！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "绣衣楼主亲笔手书，还不信吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "她不放心你独自调查董卓军师的线索，派我来帮你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "从街头走到街尾，有查到什么关于这名军师的线索吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "说说话嘛，别总板着脸。现在的孩子啊，心思都重，没劲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "……他很有钱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "楼主之所以派我来查，是因为一种墨，汝南平舆产的墨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "那名军师的书信被绣衣楼截获，书信上用的墨是平舆玉墨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "父亲说，只要用过一次玉墨，就不会再想用其他的杂墨了。你用过吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "我读书时候都蹭学长用剩下的墨，也觉得挺好的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "所以啊，那个人有没有可能和我一样，是蹭别人用剩下的墨？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "啊！这……也许……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "……呼，傻孩子，逗你玩呢——没可能的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "他为隐藏身份，刻意改了字迹。书写时，难免会多次改动笔迹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "如此反复改动，靠着蹭别人砚台里的残墨，可不够用啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "你怎么才来？我陪孩子逛了半天的街，快要认干女儿了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "是个有趣的孩子，差点把我的脖子都打断啦……嘶，痛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "可惜她不知道，平舆所有墨店，有关玉墨的账簿条目，都被提前“处理”好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "真可怜，这孩子得白跑一趟了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "之前为了控制伍孚，你扣押了他几个堂亲。他们已经没用了，放回吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "嗯？你还制住了今天的刺客？问我怎么处理？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "就地解决，不留活口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "哼哼哼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "在这里做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "啊……看看有没有适合耕作的地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "即墨多是碱地。墨家想在这里建村久居，需要足够的耕地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "是吗……那这片地如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "等一场雨水吧。现在都是硬土。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "我带人来松土……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "呵……这可经不起细看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "毕竟旁边就是士族的坞堡……物资丰富，甚至还有细粮和战马……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……别这副表情嘛。这些也都是民脂民膏啊，哪里来的回哪里去嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "搬到这里之后，还以为会过上平静的生活。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "平静的生活？很难想象是什么样子的。上次在广陵，那个女方士怎么说我的命来着……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "她对你学猫叫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "那是后面的事。她好像说我命里带刑？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "然后她对你学猫叫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "毕竟不是什么好命嘛……命里带刑的人，似乎多接触土行的事物会好？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "要让我一起来种地吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "先要拌种子……然后再这样将土地犁出一道一道的沟……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "我总觉得你漏了一步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "是吗？……漏了哪一步……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "一开始好像会花半天的时间，把地里结块的石头和泥巴捡掉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "我没见过这一步，是时辰的关系吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "应该是吧。我是蜉蝣军，夜里出征偷袭，黎明回营。你们是中军，都是白天出征的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "农户都是黎明就起来下地了，睡到中午，地都要荒了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "原来如此……那就先处理地里的硬块。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "这里至少有两亩地，要一家人捡一天。你一个人，打算捡到什么时候？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "一个人慢慢捡，总能捡完的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "直接叫我一声，「文丑，你能帮忙下地干点农活吗」，我就会下地一起捡石头。反正都是一家人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "你不喜欢做农活。我一个人来就好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "在广陵，还帮广陵王殿下的副官一起整理过一片很小的菜地……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "那都是种着玩的吧，最近好像很流行在府邸里开一片小菜园什么的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "不，傅副官是很认真地在照顾那片地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "种地的时候会很安心……他是这样说的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "把种子带上，去下一个地方吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "还没有种出来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "没办法，骑兵打过来了，坚壁清野，田已经被毁了，至少要来年才能重新长东西。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "下一个落脚点，会很远吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "还好。有门徒探完回来了，说至多二十余里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "这次是被两家府兵殃及了……搬远一点，应该就没问题了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "别打打闹闹的往马前闯，小心马蹄。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "要是有蜂巢就好了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "蜂蜜可是金贵的东西，一发现就会卖给袁术那种人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "有次前阵的士兵烧伤了，袁绍将军也拿了蜂蜜出来给他治伤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "因为袁绍是个好人。虽然世上的人不是简单用好和坏区分的……但的确是个好人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "慈不掌兵啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "有时候觉得，人真是矛盾的动物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "不如说人是动物中唯一的矛盾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "你喜欢这种矛盾吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "你当年没把我的脑袋切下来，不也是因为矛盾吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……那边的树上，是不是野蜂巢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "树枝快要压断了，换个体型轻些的人上去吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "没事，我不怕蜜蜂……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "摔下来就会再出现一个伤病患者，很麻烦的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "没事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "不幸中的万幸……还好昨天下过雨，土堆松软。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "咳……咳……嗯，蜂巢也摘到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "再捡干柴生火，烧一口热水，泡些蜂蜜……蜂蜜水对寒热有好处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "她好像好些了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "毕竟还有其他家人，彼此扶持，就还能走下去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……你有找到你的家人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "我的生母？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……记得你去琅琊找过，好像最后的踪迹是在王氏……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……然后，行踪便断了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "一定能找到的。说不定她也在找你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "她见到你，该喊你什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……要是喊一声公子就尴尬了。嗯？怎么站在那不走了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……你是说笑的，还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "说笑的，说笑的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "这并不是适合说笑的话题。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "是我失言……别生气了，跟上吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……怎么还在生气？真这么生气的话，不如再在当年的地方补一刀吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……是我说错话了。我认错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "我也不想听你认错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "那你又想听什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "不重要。我想听什么根本不重要。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "不说对方想听的话，那就是吵架了。难道想大吵一架？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "真的大吵一架，也比你特意说我想听的话要好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "你吵不过我的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "我八岁就能一个人和四五个仆役吵了，为了争一炉子炭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "十三岁时候最高战绩是和主母院子里所有的仆役对吵，对面大概有三十多人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "要吵吗？我随时都可以。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……吵吧。我不太擅长这个，可能要学一下……好，我准备好了。开始吵吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "要不……快日暮了，一起去帮忙拾柴生火吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "是快要准备晚膳的时辰了……不对，我们还在吵架。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……那你开始啊，等你半天了，是吵还是不吵？是你说要吵的，要掰扯什么自己都掰扯不清楚吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "抱歉！等我再想一下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "这种时候你要说「自己说了什么心里没点数吗」，对方会辩解「我没说」，你追上「管你说没说今天我一定要一个说法」。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……你在记什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "记跟人吵架的步骤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "重点是不要自证，比如对方说你说了什么，你别管自己说没说过，直接回「有你什么事」。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "来，练一下。你说这话到底什么意思？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "呃……应该是与你无关之事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "啊——不行！你没法学这个！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "就是说，你们事先并不知道围剿绣衣楼的消息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "头像=副将",
+      "emotion": "……我们是李傕将军一派的人，哪知道郭汜那边的行军安排？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "纵火绣衣楼的，不是李傕的人马，而是郭汜的人马？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "我知道的事全部告诉你了，快把我放了！围剿绣衣楼和我们没关系！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "知道郭汜驻扎在哪个营地吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "虽然都是董卓的部下，但我是李傕军的，真不知道郭汜军的事啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "快放了我！我和你们无冤无仇，哪有这样不讲道——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军官",
+      "text": "……理……喀呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……张辽将军，为何？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽",
+      "emotion": "你分心了。他装作叽喳聒噪，就是为了让你轻敌。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "他护腕下藏着短刀。我听见刀鞘的声音了，应付得了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽",
+      "emotion": "哦？难道你想说，我多事了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽",
+      "emotion": "说。是不是我多事了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "…………是。你把他杀了，就什么都问不出来了，"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "你这个……你这个……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "……不懂事的孩子！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "别装不认识了，这里没有其他人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……文远叔。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=张辽",
+      "emotion": "哦，原来你还记得我是谁啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "当年为何要走？我们找了你很久。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "我还给马超写了信。你倒好，一走了之。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……对不起，文远叔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "绣衣楼的人，知道你以前的事吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……不知。我没有提起过。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "把话放出去，让广陵王知道又何妨？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "让他知道，养大你的人都不是好得罪的。否则，这种王公贵胄……哼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "这次是要找回一批没有送达据点的情报……好！太疾驰，太及时，我开干了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "不需要帮忙吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "我来！母亲在旁边喝茶休息便是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "呦……这不是老妈忠心小狗阿慈吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "你、你怎么会在这？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "当然是来给老妈尽孝的呀。老妈气色不好，肯定是你调皮了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "只是换了新的胡粉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "这是谁的脑袋……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "啊，不认识。路上见到他手上有我喜欢的任务，我就……嘿嘿，替他代劳了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "哥哥可是浪子回头，怎么？不感动？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "怎么一步一回头？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "你不是负责去那边找的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "义兄是担心你。老妈走远了，万一你被什么狼啊虎啊的咬了可怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "喂，阿慈啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "我们联手，做掉老妈怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "什么疯话！我是不会背弃母亲的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "乌有社可是块肥肉，有它在，你的那个小组织起不来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "来啊，听我的，我们杀了她，平分了她的势力……她拖你们拖了那么久，也不放你们出仕………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "我们来去自由，母亲从没有阻拦过我们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你还不知道啊？她打算……把你们打包卖给那个人了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "……“那个人”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "广陵王啊。你们就要变成她的家畜了，一辈子都要当那个人的小狗狗了哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "啊，我知道啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "就这个事啊？上个月就已经开始谈了。人力价格方面，我们还在和傅副官进行什么商业谈判。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "我回来了……咦？你们在聊绣衣楼吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "母亲！他说他想杀……唔唔唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "别听他告状。老妈，你真的忍心把他们都卖给绣衣楼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "要不要考虑加入我的锦帆寨啊？从此无忧无虑，为所欲为！天下谁人不可杀、谁人可……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "老妈……好冷酷，对自己的孩子都下得了杀手？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "你到底是怎么想的？想来离间我们和殿下的关系？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "“我们和殿下的关系”……我们……你们以为，自己在绣衣楼眼里算什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "……哦，是嫉妒啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "嫉妒大家都好好生活在一起，偏偏只不带你玩吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……哈……哈哈哈哈……好毒啊，当妈妈的说话这么毒，孩子的性格可是会剑走偏锋的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "要是让你们真的越过越好，那可太不爽了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=张闿",
+      "emotion": "别像个孩子似的，得不到就躺地上大哭大闹。下来吧，阿宁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你让我下来我就下来，我多没面子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "义兄，下来吧，赖在上面真的很幼稚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "嘿嘿……嘿嘿嘿……那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "你们谁都别想走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=太史慈",
+      "emotion": "你居然出卖我们的行踪？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "“你居然出卖我们的行踪！”……哈哈……好生气啊，生气的时候感觉小尾巴在不停地摇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "别总摆出那副正义使者一样地口气说话，傻得冒泡。你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "……这树怎么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=甘宁",
+      "emotion": "呃？！唔啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "在看什么，看得那么入神？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "经过从前读书的地方，怀念片刻，也是人之常情吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "倒是你，文和，好似对这没有感情？当年同窗之情，和学宫一起入土了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "同窗之情？满学宫抓郭奉孝的同窗之情吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "翘课、搭讪、抄功课、堂上抽烟……你每次惹事，那人就要我抓你回来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "我看你被学长差使，也挺甘之如饴的。文和，我给你的学宫生活添了多少乐趣啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "呼……今年的亡郎香真是金叶上品，咽入喉中，竟有一股胭脂香。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "烟酒不离手，日夜混在歌楼……迟早有一天，那人得去歌女床上给你收尸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "世上几人能有这么美的死法？多谢文和同学的吉言了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "不必谢我。你八成是没有的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "刚才开始就故意在这停留，吸引追兵前来……你更可能死在这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "啧，郭奉孝一介白身书生，病骨支离，哪经得住那么多西凉壮士一起上？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "可你看着还挺期待的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "和女孩子们玩久了，偶尔和西凉军玩，也挺新鲜刺激的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "再说，这些伏兵是谁勾引来的，还真说不准呀——你说呢？贾诩。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "咳咳……这片地方，从前是南楼吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "楼边有座矮墙，趴上去能看见学长和夫子们读书的院子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "院中池边种满梅花，照水朱砂梅骨贴水而生，如美人照镜……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "奉孝，关于刚才那些西凉军，你不想谈谈吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "……无量我的天尊。比起辟雍真正的中流砥柱，你对西凉军更感兴趣？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "是。你第一天知道吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "当年我们阻止董卓进京，功亏一篑。那时觉得，西凉军比你们可靠。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "当年……不知天高地厚的当年啊。三个书生，竟敢走到那一步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "差一点，就成功了——挑起西凉内讧，让董卓错过入京时机，守住壶关……结果……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "结果……从壶关的死人堆里，我被学长挖出来。你还在旁边说风凉话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "唔，想必是记错了。你伤太重，神志恍惚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "还在死人堆边把我的祭台祭品摆出来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "咳咳咳咳……错觉，错觉啊，文和。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "还给我点了三炷香，祝我早日超升。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "你，一点没担心我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "这话说的，像是在怪我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "奉孝，因为你从一开始就知道，我不会死在壶关。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "你说罢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "除了绣衣楼之外，我也在替西凉军办事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "“有意思的话”……就这？还有吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "还有，我要把你……卖给他们了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "王鼎断壁……这里，原是讲学的所在。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "我们三人，是在此地相遇的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "当年你初来乍到，张口把《书》倒背如流，名动辟雍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "学长回了寝室就对我唠叨个不停，让我跟你好好学。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "那么，你那年的公孙策论，考了几等？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "缺考。跟女同学踏青去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "……怪不得，学长那天气疯了。那是我唯一一次见到学长发火。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "发现没有，你重新喊他“学长”了。之前，你都喊他“那个人”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "文和，你没有自己想得那么恨他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "我不恨他？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "付出多少心血、牺牲多少人才走到那一步——他毁掉了一切！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "就算他牺牲壶关、拦下西凉前锋，也并不意味计划能成功……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "……够了！我不想听这堆话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "文和，你听我说完……别走！我还不至于追不上一个瘸子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "……呼……你既然不想听这堆话，那我说其他的，你听不听？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "是……呼……是很有意思的话。呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "……你说罢。说完就走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "除了绣衣楼之外……呼……我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "我也在替西凉军办事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "还有，我啊，也把你卖给西凉军了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "对不住了，文和。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "呼……差点死在那。还以为你和西凉军很熟，他们认出你就会收手……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "无聊的算计……你想证实，我是西凉军中哪一边的人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "郭汜、郭嘉……原来如此。凭着同姓之亲，你混入了郭汜那里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "刚才来的，就是郭将军的人。他们不认得你，说明，你只是李傕的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "你在排除我是董卓直属的可能性……你怀疑，董卓身边的那名军师，是我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "你不是也怀疑过我吗？那名军师的手法与我有几分相似，这口黑锅，我背得不冤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "他在战场上从不露面，乘坐黄金马车……和你那辆黄金马车极为相似。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "说不定是呢？回颍川和学长告状啊，趴他肩上哭啊——你又不是没干过。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "瞧你那计较的样子。行了，我也该回歌楼了，女孩子在等我呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "奉孝留步。我想起些有趣的事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "上个月，天子被鸩杀，广陵王身陷宫中，绣衣楼本营被西凉军围剿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "李傕在宫中搜捕广陵王，根本不知道绣衣楼的本营被找到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "……是其他将领带兵围剿的吧。事发突然，消息没传达到也是常有的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "郭汜事后拿此邀功，连董卓都十分惊讶。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "某个人出卖了绣衣楼，而且只卖给了郭汜。怎会有如此险恶的人啊，奉孝"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=郭嘉",
+      "emotion": "跟我说又没有用。你得回绣衣楼和殿下告状啊，趴她肩上哭啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "告谁的状？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=郭嘉",
+      "emotion": "当然是……告董卓身边那名坏军师的状呀。不然呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "成何体统？！此为处理公务的书房，岂容白日酣睡！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……啊？睡个午觉……哈欠……又不会塌下来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "哈欠……我继续睡……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "起来。日出而作，日落而息<ref>《庄子·让王》：“日出而作，日入而息，逍遥于天地之间而心意自得。”</ref>，白日昼寝，乃是劳逸无道的颓丧之相<ref>《论语·公冶长》:宰予昼寝。子曰：“朽木不可雕也，粪土之墙不可杇也！” </ref>。圣人云……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "云你个头啊，你要么出去，要么一起来睡。来来来，我往里面挪挪，小陈你也往里面挪挪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "好了，位置腾出来了，来睡吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……你搞啥呀。刚才大家窝一块，还暖暖烘烘的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "以身作则。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "以身作蔗，你杵那像根甘蔗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "……做则，则！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "让我瞧瞧小宝有啥事……哦，找个叛徒啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "以身作蔗，来，来，我俩一块去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "君子，不行无备之事<ref>《管子·霸言》：事无备则废。</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "这是国器冠军剑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "……国器……哪一位将军的剑？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "卫将军那把。小霍将军那把我请不出，明年我多带点冷吃兔给它上贡试试看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "它就跟卫将军一样宽厚持重，默默守护着武帝天下的荣光……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "…………但现在不是光武一脉吗？它护的应该是武帝那一脉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "你怎能用小人之心度君子之腹？卫将军啊那可是。是你说的那种……那种斤斤计较的人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "这可是国器，知道啥叫国器吗？人家的眼界才不止于皇帝是谁家的，人家心怀的是黎民苍生！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "原来如此……是后生驽钝，竟无能感悟将军护国护民的大义……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "秉持这样的大义，方能造福苍生，来，带着这把剑，我们一起去完成小宝的任务吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "等等。《易》有云，阴阳相倚，那时虽国运充沛，但百姓也过得很苦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "哪有现在苦。当年可是年年能收上税的，有这把剑的庇护，北海的官仓今年一定能收满存粮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "看待问题不能死板，好了，好了……别拜了，起来，我们去……执行……任务……起来啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "……格老子的，后悔带你出来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "你自己要求的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "我也没想到你那么爱走路啊！我们从广陵走到这，走了至少十几里地啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "骑马不合礼仪。目的地太近，且我们身无朝廷正式的公干公文，不该占用马匹……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "……瞧，走不动了吧？腿疼了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "来，我扶着你，到路边坐下歇一会。渴不渴？那边有个老农卖梨子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "不时不食<ref>《论语·乡党》：“食不厌精，脍不厌细。食饐而餲，鱼馁而肉败不食。色恶不食。臭恶不食。失饪不食。不时不食。”不在饭点不吃东西。</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "那我自己吃。老伯！帮忙来五个梨子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "…………你刚才是不是瞟了我一眼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "……没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "想吃就说嘛。给。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "不时不……唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像= 徐庶",
+      "emotion": "啊啊！要不要紧？……没事哈，就额头鼓了个包……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "你怎么了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……毒……梨子……有毒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "你原也是为绣衣楼做事的人，有立世之本、反正之心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "奈何做贼，背弃主公，为世人所不齿的奸佞之事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "绣衣校尉从未见过我，谈何重用我？怀才不遇，明珠暗投，自然要为自己择一新主。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "你的新主又是如何重用你的？他让你行歹毒无道之举，残害无辜妇孺……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "她也杀过不少人的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "那这条去掉。人生在世，当为君子。大丈夫于乱世立命，当怀夜行圣意<ref>《鹖冠子》：鬼见不能为人业。故圣人贵夜行。</ref>，光明心怀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "广陵王虽不识你，缺不曾轻慢凌虐。君不识臣，臣当自勉，以直报怨，以德报德<ref>《论语·宪问》</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "殿下不曾与你结怨，你却背弃出卖绣衣楼，残害昔日同僚。你的新主更是纵你为恶，毫不训诫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "何等纵恶之主、无知之臣！还有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "呱唧、呱唧……啊，毒性都过了，还没说完啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "圣人云，邦有道，则仕，邦无道，则可卷而怀之<ref>《论语·卫灵公》</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "若认为绣衣楼有不足之处，上者直言进谏，中者敬而远之<ref>《论语·雍也》：“务民之义，敬鬼神而远之。”</ref>。唯有最下者以怨报德<ref>《国语·周语》：“以怨报德，不仁。”</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "啊……是我……是我因一己之私，行了无道之事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "这天也晚了，你把没毒的梨子清出来给我们，再看看接下来怎么办吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "死士",
+      "text": "头像=黑衣人",
+      "emotion": "不——让我以死明志！喝啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "别别别，那句话叫什么来着……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "杀身成仁<ref>《论语·卫灵公》：“志士仁人，无求生以害仁，有杀身以成仁。”</ref>，舍生取义<ref>《孟子·告子上》：“生，亦我所欲也，义，亦我所欲也。二者不可得兼，舍生而取义者也。”</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……不是不是，是劝人别死的那句。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=孔融",
+      "emotion": "身体发肤受之父母，不敢毁伤<ref>《孝经·开宗明义》</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "虽然我搞不清楚为什么一会儿可以杀身成仁一会儿又不敢毁伤，但总之你先别死。来，你把小推车支起来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "啊，终于可以不用自己走了……辛苦小哥你推我们回广陵哈，出发！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "……有点紧张，呼，呼，呼……在手心写三个人字咽下去……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "真的有用吗？呼……试试……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "……唔……啊啊更紧张了，会不会忘带兵器……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "忘带兵器也太夸张了，前辈你在说什么呀！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "对，对，不至于忘带兵器的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "我也好紧张……在里八华被压榨那么多年，终于……终于要和真正的首席一起出任务了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "见首席有什么注意事项吗，前辈？是要作揖、鞠躬还是跪礼？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "啊，不用的不用的，首席其实挺随和的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "我也觉得，应该只是看上去比较乖僻，毕竟那几年他是唯一给我发过实习补贴的人……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "而且，我们的身段也不能放太低了，要有点骨气才能避免被压榨。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "首席——首席你坐！喝茶，擦汗。来，我替首席提兵器！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "啊？……呃，我来替首席提箱子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞",
+      "emotion": "不停地鞠躬，为什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "可悲的肌肉记忆罢了。首席，这是我从中山老家带来的特产果干，你品鉴品鉴。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "我出来前长老们特意嘱咐，要会来事，眼里要有活。首席有什么工作都可以交给我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "甄宓，你之前说身段……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "前辈，你也在鞠躬。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞",
+      "emotion": "别鞠了，眼花。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "…………烟花？啊！我明白了，是死士行动前的仪式，讲究开门红对吗？我立刻去准备！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "我去找！烟花应该在王府里有！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "别闹了。都放下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "首席有什么指示？我来做会议记录。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "首先这是灰雁阶的行动。行动前，照例问清你们的诉求。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "行动报酬、赡养族人的费用，以及要准备的随身密器机关或者兵器……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "首席，那个，我可能需要……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "能跟首席一起出任务，我们没有别的要求！只要能学到东西就好了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "前辈，别冒险。别忘了华胥的口头禅。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "他们对我说，像你这种连辟雍太学都没考上的人还敢提工资？你不干有的是太学生干！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "啊……春梦也经常说，你不干有的是十梦干……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "所以，稳。我们要稳住，掌握节奏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "重点是能真正跟首席学到真材实料。我们别无所求，请首席安排任务。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "所以一共十五个任务，送药、砍柴、押运粗盐至东陵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "然后是暗杀对象五人，绑架四人、接张鲁放学、盯着王粲喝药……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "我、我可能只能帮忙送药、接张鲁放学和看王粲喝药。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞",
+      "emotion": "为何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "……我忘记带兵器了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞",
+      "emotion": "……出门前不说？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "我想说的！但是被摁下去了，对不起——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "啊啊对不起——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "快动手吧，不然天都要黑了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "好，我来扛兵器……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "我来提箱子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "对了，首席，完成这个任务，我真的能正式加入绣衣楼的编制吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "她没说。要问吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "有点担心……以前被画了好大的饼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "“虽然你架构上不是十梦，但在我心里已经是十梦了，我会以十梦的标准来衡量你的工作。”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "你当真了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "我……我给老家写信说受到了上级的重视，长老跟亲戚说，我会是华胥下一届的高层。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "居然相信了吗？人应该听不懂猴子的话才对。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "当备选人员，真的是传说中月休两天月薪三千吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "前辈，不要相信那种谣言。是两个月休一天，一年三千。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "绣衣楼的待遇，一定比华胥要好，对吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "……对、对吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "税后……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "首席，上次你说完，那个新人就跑了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "没事。干吧。比华胥好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "食堂是包饭的，有萝卜皮炒萝卜，咸菜豆豉，瓜子炒瓜皮……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "说起来春梦当时说要裁员，裁了半天，只裁掉了首席和我……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=张飞",
+      "emotion": "赔偿金，有四千，不加税。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=甄宓",
+      "emotion": "接下来，据说所有的事情都没人干了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "哎？还是有人的。狂梦每天窝在窗边护肤，晓梦每天睡觉，双梦也是有关系的，经常不来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "我……每天在花园里浇花……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "所以，确实是没人干活了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "因为都是首席留下来的活，大家都不知道怎么干……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "………………所以，华胥上下所有的活，难的活都是首席干，跑腿的活都是我干？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=张郃",
+      "emotion": "这样听下来，好像是没错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "他们说你在这钓了半天了。可钓上什么没有？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "啊，张贤兄来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "贤兄难得回徐州，这次是为何事而回？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "绣衣楼在陈留的人把事办砸了，她托我帮忙善后。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "回来的路上，就顺道来看看你。竹篓空的，今天没鱼，一起回府吃个冰碗吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "心静自然凉。昨天我去浮屠问了，神佛说今天能钓上鲥鱼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "什么大事，要鲥鱼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "给主公的。主公上个月提了一句当季的鲥鱼很肥美。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "搞什么……这么多年都没给为兄送过一条鱼，认识个亲王，立刻赶着送鲥鱼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "而且送鲥鱼，多寒酸，就送一两条。之前陈氏有一台先秦的金钟，送去呗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "其实送去过，给夜宴撑场面的。后来，傅融总是巴巴地看上面的金饰……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "哎？鱼竿是不是动了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "刚好。你要是钓到鲥鱼，就把我送的薄礼一起带去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "贤兄，你居然会给人送礼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "为兄也算个体面人。看，还好好包了个礼盒呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "礼不在贵重，在人心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "哎，是不是又动了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "真是的……鲥鱼也很好啊，又稀有，又肥美，连鱼鳞都很鲜美。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "傅融会拿蜜酒和紫苏搭配它，据说对身体也有好处。贤兄，帮我打个窝。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "我在喝茶呢。让侍从帮你丢那堆鱼食吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "会把鱼吓走的。他们脚步重，你比较瘦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "……直说就是脚步虚浮半死不活对吧？好吧……为了殿下的鲥鱼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "贤见给主公送的礼，该不会还是珍珠吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "打开看看？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "又是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "什么叫又是。这么大的海珠，外面有的是人感意拿一郡之守的官位来换。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "还特意给她挑了一粒孔雀绿的，这金绿的珠光，多霸气。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "黑漆漆的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "得了，给我收起来，山猪吃细糠，整天就知道鱼鱼鱼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "能找到的能找到的……别担心别担心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "……你是属泥鳅的吗，手那么滑？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "找到了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "没有，是捞到鲥鱼了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "……唔……我是不是睡了一觉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "嗯。你刚才靠着凭肘睡着了。我让侍从把蚊帐挂上，摆了冰盆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "你又开始钓鱼了啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "虽然捞到了鲥鱼，但不是亲手钓到的，实在不甘心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "小陈，你鱼竿动了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "这次一定是——啊……是先秦石碑啊。不是鲥鱼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "我一直很想问，你为什么除了鱼什么都能钓上来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我也是能钓上鱼的！上次跟主公去东陵亭，一口气钓了七条白鳗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "也好，钓鱼修身养性。我们俩见面就叮咚响，你能做些安逸的事也好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "为什么叮咚响？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "两个药罐子啊。你最近还犯病吗？上次夜宴，你突然剧痛吐血，昏厥在地，阿应都被你吓坏了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "有虫疾要多喝药，少吃生冷。去拜浮屠没有用的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我知道。我自己的身体，自己清楚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "多大人啊，说这种颓丧之语。我都还没知天命呢，打算当个长命百岁男妖精。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "……这条鱼，好像不太舒服。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "一直在水面上喘气……是水不干净，还是……呃，它吐了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=张邈",
+      "emotion": "珍珠！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "目标出现后，天蛾命令蛾部的八个小组，共计百余人同时出动，将目标淹没在我们自己人之中！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "因此导致了目标失踪，整个任务失败！我认为蛾部需要为失败负责。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "啊？八个组同时出动，是因为雀部给出的目标人物情报啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "在你给的情报里，目标身高九尺，体重千斤，其武力不可估量。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "蛾部派出八个小组是非常合理的，责任是你们的吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "我们是根据蜂部提供的情报，来估算目标的武力。情报上面有蜂部的印章。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "蜂部的情报没有错，我们都是按流程办事的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "太阳打西边出来，蜂部都不可能按流程办事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "我没有甩锅！上个月云雀发现蛾部花钱如流水，忍无可忍，缩减了全楼的办公成本！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "缩减成本是正常手段，和情报出错有什么关系……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "蜂部上下紧衣缩食，记录情报的竹简都得双面使用。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "你们看竹简的背面，背面才是寿春任务的情报啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "头像=蛾使",
+      "emotion": "那正面写的又是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "正面是绣球的体检信息啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "男的靠左，女的靠右，有序打卡，严格考勤！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "甘缇姐姐你来啦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "嘘，是我，玄蜂，我来替甘缇打卡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "妾身拜见高览使君。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "关靖大哥，你咋穿着女装来上班了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "我记下你的名字了，赶紧进去吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "郭嘉，是你啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "嘘，还是我，玄蜂，郭嘉宿醉起不来，我来替他打卡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "酒间花前，莫要惊人春梦……咳咳，高使君……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "……绣球？你怎么骑着飞云来了……快进去，我把你俩的名字都记上了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "云雀，天蛾，崔烈，周群，畦固，你们一起来啦？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "嘘，还是我，我们都是玄蜂，情况确实有点复杂，以后再解释。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=蜂使",
+      "emotion": "高使君，我们是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "谁把黄金马车开到正门了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "我先把你的名字记下了，明天记得走后门，开进去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=伍丹",
+      "emotion": "傅副官来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "不对，你不是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "你是蜂使伪装的吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "哼哼，别狡辩了，我已经看出了你的破绽。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "全绣衣楼都知道楼主给傅副官置办了一身新行头，那天我还去围观了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "你这一身太破了！骗不了我！蜂使假扮傅副官打卡，二人均记旷工一天！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "羌大人稍候。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "候什么？杀了他我们就下班了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "根据绣衣楼的刺杀流程，动手前要登记黑衣人的个人信息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "名目在我手里，稍等，你叫什么？嗯……确实是目标人物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "还有性别……年龄……家庭住址……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "好了，登记好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "现在行了吧，我要动手了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "羌大人别急。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "除了黑衣人的信息，还要登记执行密探的个人信息，女公子麻烦将你的姓名和绣衣楼的职位报给我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "……你不是知道吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "虽然我知道……但还是得要本人亲自填的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "写完了，我可以动手了吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "稍安勿躁！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "又怎么了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "刀具的使用情况，要在行刺前后各记录一遍，方便日后向雀部申请维护费用。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "你能不能别废话了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=楼班",
+      "emotion": "再不动手，目标就要跑了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "跑？这位目标，你也稍安勿躁。绣衣楼新规定，目标逃跑是要走一套流程的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑衣人",
+      "text": "头像=黑衣人",
+      "emotion": "啊？我也要走流程？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "没错，因为任务名单里有你的名字。你这样随随便便跑，万一路上出事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "比如摔伤绊倒、遇到劫匪、迷路失踪……为了防止家属来绣衣楼闹，我们会先签一份免责声明。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "这里有一张表，你填写好后，我为你发起审批。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "毛玠",
+      "text": "头像=毛玠",
+      "emotion": "审批一般要经过十五个工作日，就是证明你在逃跑过程中发生了意外，绣衣楼概不负责。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑衣人",
+      "text": "头像=黑衣人",
+      "emotion": "这么麻烦，那我不跑了………我、我直接投降吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "据统计，本月观星台已经掉落了三百二十块蓝色星石，一百五十二块紫色星石，而橙色星石的数量……竟然是零。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "根据掉率计算，接下来，有十之八九的可能，掉落橙色星石！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "经过严谨计算的结果，看起来比观星术更靠谱啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "呵，前辈真这么觉得吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "在下根据云气和星象的异动，加之时节与地动频率，预测接下来天边出现的，应不是星石，而是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "陨石。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "前辈，你的数学测算可以算到陨石吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "……别太得意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "八退一还五去三，九退一还五去四，我算得天边即刻会出现闪电！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "不可能……这分明是异象………你如何计算得出？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "因为现在周瑜正在楼里和郭嘉打牌。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "根据周瑜的胜率计算……如果他不想输，那该行傩出千、逆转天道回溯光阴了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "天生异象？一定有大事即将发生，我必须赶紧去通知楼主。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "你又算错了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "根据统计，左君每年会集中在这几个月下山探望楼主，每次会带来大量橙色星石。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "和玄学比，还是数学更靠谱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "山九老师，我的确测算不出这是什么了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "我也从没见过这种双星，所以概率是零，零乘以任何数都是零……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "山九老师，那颗星石……是史君？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山九",
+      "text": "头像=山九",
+      "emotion": "我看看……另一颗星石……是炼丹炉……"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__noTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mainlinewrap\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabs\""
+    },
+    {
+      "type": "narration",
+      "text": "ul class\"resptabslist clearfix\" style\"margin15px 5px\""
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"span class\"tabpanel\"陆逊/span/li!默认第1个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 孙权/span/li!默认第2个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 伍丹/span/li!默认第3个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 颜良/span/li!默认第4个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 张辽/span/li!默认第5个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 甘宁/span/li!默认第6个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 贾诩/span/li!默认第7个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 徐庶/span/li!默认第8个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 张飞/span/li!默认第9个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 张邈/span/li!默认第10个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 检讨/span/li!默认第11个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 考勤/span/li!默认第12个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 刺杀/span/li!默认第13个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 观星/span/li!默认第14个标签"
+    },
+    {
+      "type": "narration",
+      "text": "!想添加更多标签，可以复制上面一行"
+    },
+    {
+      "type": "narration",
+      "text": "/ul"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displayblock\"!陆逊回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在庐江挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "陆逊回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "陆逊回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "陆逊回忆叁"
+    },
+    {
+      "type": "narration",
+      "text": "陆逊回忆肆"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!孙权回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在江都挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "孙权回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "孙权回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!伍丹回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在巨鹿挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "伍丹回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "伍丹回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "伍丹回忆叁"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!颜良回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在寿春挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "颜良回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "颜良回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "颜良回忆叁"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!张辽回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在天水挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "张辽回忆"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!甘宁回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在平皋挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "甘宁回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "甘宁回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!贾诩回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在山阳挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "贾诩回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "贾诩回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "贾诩回忆叁"
+    },
+    {
+      "type": "narration",
+      "text": "贾诩回忆肆"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!徐庶回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在成都挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "徐庶回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "徐庶回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!张飞回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在江州挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "张飞回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "张飞回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!张邈回忆"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在宛城挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "张邈回忆壹"
+    },
+    {
+      "type": "narration",
+      "text": "张邈回忆贰"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!检讨"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在广陵挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "检讨"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!考勤"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在巨鹿挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "考勤"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!刺杀"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在平皋挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "刺杀"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!观星"
+    },
+    {
+      "type": "narration",
+      "text": "big'''在山阳挖掘秘密后解锁'''/big"
+    },
+    {
+      "type": "narration",
+      "text": "观星"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "!想添加更多标签，可以复制上面3行.注意标签数量和标签内容要一致"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div/div/div/div/div/div/div/div/div/div/div/div/div"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%9B%BD%E5%BF%97%E9%AD%82%E9%AD%82%E7%89%88/%E5%AF%86%E6%8E%A2%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:05:11.499360",
+  "raw_wikitext": "{{面包屑|2024活动一览|三国志魂魂版/活动玩法}}{{#Widget:RespTabAnchorSupport}}<!--支持url锚点激活对应tab页-->\n[[分类:活动剧情]]\n__noTOC__\n{{背景图片|{{filepath:周年活动背景.png}}}}\n{{板块|按钮|三国志魂魂版/活动剧情|大事记}}\n{{板块|按钮|三国志魂魂版/巡查剧情|巡查剧情}}\n{{板块|按钮|三国志魂魂版/密探剧情|密探剧情}}\n<div class=\"main-line-wrap\">\n<div class=\"resp-tabs\">\n<ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">\n<li class=\"active bili-list-style\"><span class=\"tab-panel\">陆逊</span></li><!--默认第1个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >孙权</span></li><!--默认第2个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >伍丹</span></li><!--默认第3个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >颜良</span></li><!--默认第4个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >张辽</span></li><!--默认第5个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >甘宁</span></li><!--默认第6个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >贾诩</span></li><!--默认第7个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >徐庶</span></li><!--默认第8个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >张飞</span></li><!--默认第9个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >张邈</span></li><!--默认第10个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >检讨</span></li><!--默认第11个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >考勤</span></li><!--默认第12个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >刺杀</span></li><!--默认第13个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >观星</span></li><!--默认第14个标签-->\n<!--想添加更多标签，可以复制上面一行-->\n</ul>\n<div class=\"resp-tabs-container\">\n<div class=\"resp-tab-content\" style=\"display:block\"><!--陆逊回忆-->\n*<big>'''在庐江挖掘秘密后解锁'''</big>\n==陆逊回忆壹==\n{{对话-头}}\n{{旁白|【纺室·厨房】}}\n{{对话|妇女甲|把那边的回廊堵住，那两个登徒子逃不出纺室的！|头像=平民女}}\n{{对话|妇女乙|给我过来！你！有没有见过长这样的两个男人？！|头像=平民母亲}}\n{{对话|妇女丙|有登徒子啊！正门侧门全部落锁！|头像=民妇}}\n{{对话|吕蒙|………………好、好像跑过去了。呼，差一点被打成肉泥……}}\n{{对话|吕蒙|哎，伯言，你要去哪？别被她们发现了！}}\n{{对话|陆逊|……别这么叫我。|头像=陆逊}}\n{{对话|吕蒙|我听那人就这么喊你的，伯言伯言伯——}}\n{{对话|妇女甲|听见他声音了！在这！！！|头像=平民女}}\n{{对话|吕蒙|糟了！快跑！！！}}\n{{旁白|【纺室·熏室】}}\n{{对话|吕蒙|呼、呼、呼……我的妈呀，这家纺室怎么那么大？}}\n{{对话|陆逊|当初就说不要往这个方向跑。|头像=陆逊}}\n{{对话|吕蒙|少给我事后周公瑾，你当初也没拦我啊！}}\n{{对话|妇女乙|熏室里好像有人！谁在里面？！|头像=平民母亲}}\n{{对话|吕蒙|啊呀~人家是新来的小莲啦~姆妈吓到人家了啦~}}\n{{旁白|妇女被骗过，渐渐走远了……}}\n{{对话|吕蒙|干嘛呀，这么看我？}}\n{{对话|陆逊|竟会信你带的路，我真是疯了|头像=陆逊}}\n{{对话|吕蒙|我堂堂白浪营副将，被派来给你个小文秘当护卫我还没发疯呢！}}\n{{对话|陆逊|行了，尽快找到绣衣楼要的线索，尽快回去。|头像=陆逊}}\n{{对话|陆逊|今天行动的经过，我会如实上报车虎营的。|头像=陆逊}}\n{{对话|吕蒙|“我会如实上报车虎营的”…呿，吓唬谁啊？}}\n{{旁白|陆逊只想快些离开这个地方，从角落起身。}}\n{{旁白|但一只手从旁伸来，按住他的肩膀；他整个人被吕蒙拉回了角落。}}\n{{对话|陆逊|你做什——呃！！！}}\n{{对话|吕蒙|这家纺室……果然有问题。}}\n{{对话-尾}}\n==陆逊回忆贰==\n{{对话-头}}\n{{旁白|【浴室】}}\n{{对话|吕蒙|那些人的脚印是向这边来的……这是浴室啊，没其他门窗了。}}\n{{对话|陆逊|应该有密道通往其他地方，不会凭空失踪|头像=陆逊}}\n{{对话|吕蒙|会不会是鬼啊？我记得你最怕鬼了}}\n{{对话|陆逊|胡说什么？快点找密道！|头像=陆逊}}\n{{对话|陆逊|也许董卓身边的那名军师，就在密道之后。|头像=陆逊}}\n{{旁白|绣衣楼在追查董卓身边的一名军师。}}\n{{旁白|此人从未露出真容，巡视战局时，会乘坐一台黄金马车。}}\n{{旁白|这些日子，他们都在追查他的行踪。此人疑似经过这座纺室，将这作为一个传命地点。}}\n{{对话|吕蒙|你说这军师是个什么鬼东西，我们一路追查他，居然追查到纺室的浴室？}}\n{{对话|吕蒙|难道……是个女人？}}\n{{对话|陆逊|董卓，似乎从前不曾重用过女子……|头像=陆逊}}\n{{对话|吕蒙|那可说不准，他不是挺疼他女儿的吗？入朝之后立马给他女儿讨要了封号。}}\n{{对话|陆逊|你何时关注这些朝堂的事了？以前连什么叫封号都不知道。|头像=陆逊}}\n{{对话|吕蒙|嘿嘿……你的公瑾师父告诉我的！}}\n{{对话|陆逊|……|头像=陆逊}}\n{{对话|吕蒙|吃醋啦？他和我说，没和你说？哎呦呦，小眼神都——啊痛痛痛！别踩我！呜啊——}}\n{{旁白|浴室地上湿滑，吕蒙在躲闪间一步没踩稳，翻进了角落里的水缸。}}\n{{对话|吕蒙|冷死了！咦……这是什么……}}\n{{旁白|他摸到水缸底下的东西--似乎是条铁索，稍稍用些力就可以拉动。}}\n{{旁白|吕蒙试着拔动它，在浴室的某处，一块翻板悄无声息地翻开，露出狭窄的入口……}}\n{{对话|吕蒙|真的是密道，还挺长的……伯言，快进来！}}\n{{对话|陆逊|……|头像=陆逊}}\n{{对话|吕蒙|进来啊！等什么呢！}}\n{{旁白|【密道】}}\n{{对话|吕蒙|你是不是怕地道有鬼啊？刚才犹豫那么久都不敢进来。}}\n{{对话|陆逊|没什么。只是担心里面有陷阱。|头像=陆逊}}\n{{对话|吕蒙|怎么可能有陷阱，这么窄的地方……}}\n{{旁白|咔哒。}}\n{{旁白|——砰！！！}}\n{{对话-尾}}\n==陆逊回忆叁==\n{{对话-头}}\n{{旁白|【神秘庭院】}}\n{{旁白|离开密道后，一股清新的夜风顿时吹拂而来。}}\n{{对话|吕蒙|我们现在在哪啊？你还记得路吗？}}\n{{对话|陆逊|偏东分度十五，行一百三十五步；偏西分度二十，行四百步；偏南……|头像=陆逊}}\n{{对话|陆逊|对照路观图，我们应该在永和里、中东门附近。|头像=陆逊}}\n{{对话|吕蒙|一直特佩服你这记路的本事，在乌漆嘛黑的地道里都记得路线。}}\n{{对话|吕蒙|你以前是不是特意练过？这怎么练的？}}\n{{旁白|陆逊没有理睬他，沉心环顾四周。这处庭院极尽清雅，并非寻常人家的庭院。}}\n{{旁白|地上的脚印还很新，刚才袭击他们的神秘人进入了庭院深处。}}\n{{对话|陆逊|我们刚到纺室就遇到了截杀。要么，是他留在那的守卫；要么……我们被人出卖了。}}\n{{对话|吕蒙|看、看我干嘛？我可不是内鬼！|头像=吕蒙}}\n{{对话|吕蒙|要说内鬼，你的嫌疑更大吧？孙策和绣衣楼交好，你跟孙策又有血仇……|头像=吕蒙}}\n{{对话|陆逊|……瞎猜也有个限度。我出卖我们俩，有什么意义吗？}}\n{{旁白|他不想再说从前的事，查看四周环境。}}\n{{对话|陆逊|……没有其他痕迹,他们已脱身了。}}\n{{对话|吕蒙|也好，收工回家睡觉。要不吃个宵夜呗？吃啥我请客！走啦走啦——|头像=吕蒙}}\n{{对话|陆逊|吃不下。别碰我。}}\n{{旁白|陆逊挣开他的手臂。在庭院的石地上，吕蒙被推了个踉跄。}}\n{{对话|吕蒙|没劲，再也不跟你出来了……咦，地上怎么亮闪闪的？}}\n{{对话|吕蒙|伯言你看！地上有两道车轨，是马车驶过的痕迹，还有金粉！}}\n{{对话|陆逊|真的……是黄金马车驶过的痕迹。|头像=陆逊}}\n{{对话|陆逊|他来过这！从南侧门进入院中，车痕延伸向北方……|头像=陆逊}}\n{{对话|吕蒙|好像有人来了！躲这边！|头像=吕蒙}}\n{{旁白|他们躲入竹影后。远处的池边，两道纤细窈窕的身影步入月下….….}}\n{{对话-尾}}\n==陆逊回忆肆==\n{{对话-头}}\n{{旁白|【神秘庭院】}}\n{{对话|侍女|女公子，铁钉找回来了！}}\n{{对话|？？？|太好了……你呀，以后可不许追着萤火溜出去了。|头像=路人母亲}}\n{{旁白|白猫伏在少女的怀中，轻轻叫唤了一声。}}\n{{对话|侍女|外面风寒，袁氏的管家嘱咐了，让甄女公子早些回去歇息。|头像=宫女}}\n{{对话|？？？|我再在外面待一会儿。客居在此，有些不惯。|头像=路人母亲}}\n{{对话|吕蒙|什么真女公子假女公子的……伯言，你脸色怎么变了？}}\n{{对话|陆逊|……甄女公子……甄氏，是中山甄氏，与袁氏有世交。|头像=陆逊}}\n{{对话|陆逊|半月前，甄家的女公子参加冬至大祭，寄住在袁氏的别苑中。|头像=陆逊}}\n{{旁白|董卓军师的黄金马车，出现在袁氏的别苑中。}}\n{{旁白|有那么一瞬间，陆逊想过就此停手，不再往下查。有些事情再查下去，并不会得到好结果。}}\n{{对话|吕蒙|伯言快来！我看到它了，纯金的！}}\n{{旁白|陆逊回过神——吕蒙已站在那处门边，拼命冲他挥手。}}\n{{旁白|黄金马车就在那里。月色下，不知为何，它的金色显得有几分森然。}}\n{{对话|吕蒙|走近了看可真壮观……孙策喜欢这种稀奇古怪的东西，要不偷回去？}}\n{{对话|陆逊|他家的院子够土财主了，不要再添油加醋了。|头像=陆逊}}\n{{对话|吕蒙|那，我掀车帘啦！}}\n{{旁白|然而，涌入视野的却是……}}\n{{对话|吕蒙|——退后！！！}}\n{{旁白|——血。从黄金马车内汹涌而出的血。}}\n{{旁白|随着车帘翻动，从里面涌出的血、断肢、脏腑……倾泻一地。}}\n{{对话|吕蒙|是刚才纺室偷袭我们的人，全死在这了……}}\n{{对话|陆逊|……是灭口，也是警告。|头像=陆逊}}\n{{对话|陆逊|这真是个……手眼通天的警告啊。|头像=陆逊}}\n{{旁白|他缓缓退开一步，避开了即将蔓延到脚边的血海。}}\n{{对话|陆逊|走吧，今夜到手的线索，已经够了。}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--孙权回忆-->\n*<big>'''在江都挖掘秘密后解锁'''</big>\n==孙权回忆壹==\n{{对话-头}}\n{{对话|孙尚香|周哥！我找到那家伙了！|头像=孙尚香}}\n{{对话|周瑜|哦……找到了吗。|头像=周瑜}}\n{{对话|孙权|阿香！冷静点！！！这里太高了！|头像=孙权}}\n{{对话|孙尚香|无所谓！用力跳就行，喝——|头像=孙尚香}}\n{{对话|孙权|不要——啊啊啊——|头像=孙权}}\n{{旁白|刺啦一声。}}\n{{旁白|少女正准备带着他从一处屋顶跃向另一处屋顶，他的剑带挂在了屋顶的瓦当上,两个人全都滞在半空，被挂在瓦当上，晃来晃去。}}\n{{对话|周瑜|屋檐应该没挂坏，不需要赔偿……|头像=周瑜}}\n{{对话|孙尚香|都怪你！你不帮忙砍人，带那么多把剑干什么？怕妈妈趁你不在把它们送人吗？|头像=孙尚香}}\n{{对话|孙权|……说了出任务要带剑的。|头像=孙权}}\n{{对话|孙尚香|也没说要带六把呀！你又不砍人，你是跟着来记录任务过程中发生的好人好事的！|头像=孙尚香}}\n{{对话|孙权|…………真的会有那种事吗？|头像=孙权}}\n{{对话|周瑜|有没有不重要，真不真不重要，重要的是有人信。刚才差点摔下房项不就能写吗？|头像=周瑜}}\n{{对话|孙尚香|嗯，就写“我连累我妹妹了，由衷表示惭愧”。|头像=孙尚香}}\n{{对话|孙权|是你硬要拽着我一起跳的。|头像=孙权}}\n{{对话|孙尚香|那就写“是我身手不行，回去一定好好训练”啊。|头像=孙尚香}}\n{{对话|孙权|是好人好事，又不是自我反省。让我看看以前写的……|头像=孙权}}\n{{对话|孙权|“特殊密探风采展示，绣球，把羽毛抖到了蔡琰头顶。蔡琰女公子非常感动，感谢小鸟的馈赠”。|头像=孙权}}\n{{对话|周瑜|这不是写的很好吗？|头像=周瑜}}\n{{对话|孙权|“飞云，在起风时主动用自己的身躯给伍丹取暖。小狗真的是大家的好朋友。”|头像=孙权}}\n{{对话|周瑜|对，就这样。|头像=周瑜}}\n{{对话|孙权|“甘宁，在同事的饭里□□。”|头像=孙权}}\n{{对话|周瑜|……很浓墨重彩的点缀。|头像=周瑜}}\n{{对话|孙尚香|啊！我有主意了，你就这样写。|头像=孙尚香}}\n{{对话|孙尚香|就是……在目标眼看要逃跑的时候，孙尚香挺身而出，全城追击！|头像=孙尚香}}\n{{对话|周瑜|感觉只有个开头，不完整。要不要加一点波澜起伏？|头像=周瑜}}\n{{对话|孙权|全城追击……就在这时，我的剑带挂在了瓦当上，阻碍了她追击的脚步。|头像=孙权}}\n{{对话|周瑜|再加点，有点寡淡了。|头像=周瑜}}\n{{旁白|三人在路边坐下，孙权拿出记笔铺开卷轴，开始打草稿。}}\n{{对话|周瑜|把对手写得强一点。|头像=周瑜}}\n{{对话|孙权|他是干了什么……|头像=孙权}}\n{{对话|孙尚香|他偷了陈登的鱼竿和一筐鱼。|头像=孙尚香}}\n{{对话|孙权|面对泯灭人性、穷凶极恶、杀人如麻，罪行弊竹难书的罪人，孙尚香毫不畏惧……|头像=孙权}}\n{{对话|周瑜|这样太扁平了，上次广陵王看你写的报告，说人物没有弧光。|头像=周瑜}}\n{{对话|孙权|一开始，当听闻自己被派去追缉该名恶徒时，孙尚香泣不成声……|头像=孙权}}\n{{对话|孙尚香|妈妈——大哥——阿蒙——我们来生再见——|头像=孙尚香}}\n{{对话|孙权|但是一想到身为江东虎女的骨气和骄傲……|头像=孙权}}\n{{对话|周瑜|前缀加个绣衣密探，毕竟是贴在别人的布告栏的。|头像=周瑜}}\n{{对话|孙权|好，一想到身为江东虎女、绣衣密探……|头像=孙权}}\n{{对话|孙尚香|再加个怪盗协会青年精锐！还有这个……那个……|头像=孙尚香}}\n{{对话-尾}}\n==孙权回忆贰==\n{{对话-头}}\n{{对话|孙权|一想到身为江东虎女、绣衣密探、怪盗协会青年精锐、隐鸢阁张姜子弟子、小霸王之妹、绣衣校尉心腹、董卓大患……|头像=孙权}}\n{{对话|孙权|……的做骨铮铮，孙尚香毅然决然接下了任务，立下不取敌首不还的军令，慷慨激昂步出绣衣楼。|头像=孙权}}\n{{对话|孙权|那个，我们只是抓一个偷渔具的蟊贼，需要写这么长的报告吗？|头像=孙权}}\n{{对话|周瑜|不在于长不长，在于态度。有时候办事的人未必需要什么能力，甚至忠不忠心都是其次。|头像=周瑜}}\n{{对话|周瑜|重点是此人摆出的态度。夸张一点也无所谓，就是摆出来让人看的。|头像=周瑜}}\n{{对话|孙尚香|周哥，你总教他这些，他会变阴暗的。|头像=孙尚香}}\n{{对话|孙权|……原来如此。|头像=孙权}}\n{{对话|孙权|说时迟那时快，孙尚香一个箭步上前，暴喝一声纳命来。|头像=孙权}}\n{{对话|孙尚香|……我没有哦。|头像=孙尚香}}\n{{对话|孙尚香|电光火石间，随着紧绷的声响，我的剑带挂在了屋檐瓦当上。|头像=孙尚香}}\n{{对话|周瑜|再来点心理描写，现在这样报流水账有点干。|头像=周瑜}}\n{{对话|孙权|霎时，我脑中一片空白。怎么办？难道要因我一己之过，毁掉所有人辛勤工作的成果吗？|头像=孙权}}\n{{对话|周瑜|长度差不多了，可以收尾了。|头像=周瑜}}\n{{对话|孙权|千钧一发之际，孙尚香一个箭步回头……|头像=孙权}}\n{{对话|孙尚香|我怎么天天箭步来箭步去的，能好好走路吗？|头像=孙尚香}}\n{{对话|孙权|孙尚香飘然回身，宛如天降神兵，一把将跌落半空的我拽回房顶……|头像=孙权}}\n{{对话|周瑜|我看看……嗯……还行，再加点对话吧？|头像=周瑜}}\n{{对话|孙权|明白了。孙尚香关切地看着我，“你还好吗？”我说“我很好，谢谢，你呢？”|头像=孙权}}\n{{对话|周瑜|完美。这样交过去，她应该不会怀疑我们公费旅游了……|头像=周瑜}}\n{{对话|孙尚香|可以去买东陵白杏脯了！|头像=孙尚香}}\n{{旁白|三人收拾东西起身，突然，孙权呆住了，觉得少了些什么。}}\n{{对话|孙权|好像少了……|头像=孙权}}\n{{对话|孙尚香|不少啦，这加起来比我一年写的字都多了。|头像=孙尚香}}\n{{对话|孙权|我的剑，少了……|头像=孙权}}\n{{对话|孙尚香|我家祖传的剑被偷了？！你有看见那个人吗？这样回去没法和妈妈交代！|头像=孙尚香}}\n{{对话|周瑜|不必慌乱。去高处看看。他带着剑，跑不远。|头像=周瑜}}\n{{对话|孙尚香|南边没有……周哥，阿权，你们看见了吗？|头像=孙尚香}}\n{{对话|孙权|太阳太大了，睁不开眼……|头像=孙权}}\n{{对话|周瑜|呼……呼……|头像=周瑜}}\n{{对话|孙尚香|……因为太阳太好，忍不住躺下睡着了。|头像=孙尚香}}\n{{对话|孙权|最近公务繁忙，车虎营通宵议事好几夜了。|头像=孙权}}\n{{对话|孙尚香|策划什么呀？|头像=孙尚香}}\n{{对话|孙权|打荆州。|头像=孙权}}\n{{对话|孙尚香|啊？怎么可能……兵线现在都没推过会稽郡吧。是要两线作战吗？|头像=孙尚香}}\n{{对话|孙权|不，是策划六年后打荆州。|头像=孙权}}\n{{对话|孙尚香|都策划到六年后了啊……哎！我望见他了！在西北边！快冲——|头像=孙尚香}}\n{{对话|孙权|等、等等，别拽我……唔啊！|头像=孙权}}\n{{对话|周瑜|唔！！！|头像=周瑜}}\n{{对话|孙尚香|啊啊啊——|头像=孙尚香}}\n{{旁白|兄妹俩不知谁绊到了躺着的周瑜，一阵稀里哗啦，三个人一起滚下屋椎，被挂在瓦当上，晃晃悠悠……}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--伍丹回忆-->\n*<big>'''在巨鹿挖掘秘密后解锁'''</big>\n==伍丹回忆壹==\n{{对话-头}}\n{{旁白|【汝南·红罗院】}}\n{{对话|伍丹|我会时常写信回来的，请诸位勿要挂念，也请先生多加保重。|头像=伍丹}}\n{{对话|女师|刚回来就要走了吗……还以为你回来后，会长留汝南。|头像=宫女}}\n{{旁白|伍丹出身汝南平舆。 在此次绣衣楼行动时，顺途探望故人。}}\n{{旁白|红罗院是袁氏出资建造的女学，随父进京前，她曾在此开蒙就读。}}\n{{对话|伍丹|此番一别，不知何日才能相见了。学生……拜别先生。|头像=伍丹}}\n{{旁白|【汝南·平舆】}}\n{{对话|伍丹|“调查董卓身边的军师，收集关于此人的所有情报”……|头像=伍丹}}\n{{对话|伍丹|近日的调查大多围绕此人，可见楼主十分忌惮他。|头像=伍丹}}\n{{旁白|平舆是汝南重镇，民生繁盛。}}\n{{旁白|经过一处歌舞繁华地时，伍丹不由被其中传出的丝竹管弦所吸引，驻足片刻。}}\n{{对话|伍丹|从前都没注意过，本地有这么大的歌楼。|头像=伍丹}}\n{{对话|伍丹|咦，那个人是……|头像=伍丹}}\n{{旁白|她的目光，被高楼上一个倚靠扶栏的身影吸引了。}}\n{{旁白|那具病弱苍白的身躯，被层层锦衣与华饰围绕——仿佛被艳丽花瓣包裹的白骨。}}\n{{对话|？？？|哎呀呀……长大了呀。|头像=郭嘉}}\n{{旁白|【歌楼】}}\n{{对话|伍丹|呼、呼……果然是你！你到底是谁？|头像=伍丹}}\n{{对话|伍丹|在父亲刺杀董卓的前夜，我在家中见过你！|头像=伍丹}}\n{{对话|？？？|原来是伍孚的孩子啊。我是你父亲的好友，郭嘉。|头像=郭嘉}}\n{{对话|伍丹|……………………？|头像=伍丹}}\n{{对话|郭嘉|为何这么看着我？有奇怪的东西吗？|头像=郭嘉}}\n{{对话|伍丹|！！！——小心！|头像=伍丹}}\n{{旁白|她拽开郭嘉：下一刻，一支长箭从远处射来，钉在郭嘉方才站的位置。|头像= }}\n{{对话-尾}}\n==伍丹回忆贰==\n{{对话-头}}\n{{旁白|【歌楼】}}\n{{对话|郭嘉|别担心，我不会死在今天的。|头像=郭嘉}}\n{{对话|郭嘉|呵呵，瞧你这傻孩子，满头都是冷汗。|头像=郭嘉}}\n{{对话|伍丹|这些刺客是冲谁来的？为何在这时出手……|头像=伍丹}}\n{{对话|郭嘉|小脑瓜想不明白就先别想了，你还小——唔呃！！！|头像=郭嘉}}\n{{旁白|郭嘉没想到伍丹接下来的行动——少女直接扑向他，用膝盖压住他的喉咙。|头像= }}\n{{对话|伍丹|那先来说你的事。父亲突然刺董，和你有没有关系。|头像=伍丹}}\n{{旁白|刺杀董卓，无论成败，留在雒阳的伍氏都会有灭顶之灾。|头像= }}\n{{旁白|父亲不是不顾家族的人，却瞒着族人突然行刺。若非绣衣楼救助，全族都已被董卓灭尽。}}\n{{对话|伍丹|一定是有人蛊惑他那么做的。你知道什么？告诉我。|头像=伍丹}}\n{{对话|郭嘉|唔……咳咳……唔……松……松开……|头像=郭嘉}}\n{{对话|郭嘉|……我也是……绣衣楼的人，松开！|头像=郭嘉}}\n{{对话|伍丹|绣衣楼？你有何凭证？|头像=伍丹}}\n{{对话|郭嘉|等我喘口气。脖子都差点断了……现在的孩子啊……唔呃！！！|头像=郭嘉}}\n{{旁白|他刚打算和她周旋，又被打翻在地。|头像= }}\n{{对话|伍丹|蝉姐说过，说话答非所问的人，直接干掉。|头像=伍丹}}\n{{对话|伍丹|现在开始，我问什么，你答什么，听懂了就点点头。|头像=伍丹}}\n{{对话|郭嘉|那个……蝉……她……|头像=郭嘉}}\n{{旁白|伍丹稍稍松开了力道，让这人有力气说话。|头像= }}\n{{对话|郭嘉|你说的那个蝉姐……她漂亮吗？|头像=郭嘉}}\n{{对话|伍丹|连蝉姐漂不漂亮都不知道，还敢说是绣衣楼的人？！受死吧！|头像=伍丹}}\n{{对话|郭嘉|等等！伍孚刺杀董卓的内幕，杀了我，你就永远无从得知了……|头像=郭嘉}}\n{{对话|伍丹|你这种人的话，我一句都不信！|头像=伍丹}}\n{{旁白|伍丹手中短刀举起，郭嘉合上双眼，轻叹一声。|头像= }}\n{{旁白|——在她动手前的瞬间，他取出了袖中的竹简。看见那上面的字迹，伍丹的动作停住了。|头像= }}\n{{对话|郭嘉|绣衣楼主亲笔手书，还不信吗？|头像=郭嘉}}\n{{对话|郭嘉|她不放心你独自调查董卓军师的线索，派我来帮你。|头像=郭嘉}}\n{{对话-尾}}\n==伍丹回忆叁==\n{{对话-头}}\n{{旁白|【汝南·平舆】}}\n{{旁白|董卓身边有一名神秘军师，为他出谋划策、控制朝政 。}}\n{{旁白|此人从未露面，总坐于一台黄金马车之中，跟随董卓左右。}}\n{{对话|郭嘉|从街头走到街尾，有查到什么关于这名军师的线索吗？|头像=郭嘉}}\n{{对话|郭嘉|说说话嘛，别总板着脸。现在的孩子啊，心思都重，没劲。|头像=郭嘉}}\n{{对话|伍丹|……他很有钱。|头像=伍丹}}\n{{旁白|郭嘉一怔，脚步微微顿了顿。}}\n{{对话|伍丹|楼主之所以派我来查，是因为一种墨，汝南平舆产的墨。|头像=伍丹}}\n{{对话|伍丹|那名军师的书信被绣衣楼截获，书信上用的墨是平舆玉墨。|头像=伍丹}}\n{{旁白|汝南是尚学之地，当地人对笔墨极为讲究。平舆玉墨的墨色明润内敛，与众不同。}}\n{{旁白|但造价昂贵，一品玉墨将近半斗赤金，若非豪族世家子弟，根本用不起。}}\n{{对话|伍丹|父亲说，只要用过一次玉墨，就不会再想用其他的杂墨了。你用过吗？|头像=伍丹}}\n{{对话|郭嘉|我读书时候都蹭学长用剩下的墨，也觉得挺好的。|头像=郭嘉}}\n{{对话|郭嘉|所以啊，那个人有没有可能和我一样，是蹭别人用剩下的墨？|头像=郭嘉}}\n{{对话|伍丹|啊！这……也许……|头像=伍丹}}\n{{对话|郭嘉|……呼，傻孩子，逗你玩呢——没可能的。|头像=郭嘉}}\n{{对话|郭嘉|他为隐藏身份，刻意改了字迹。书写时，难免会多次改动笔迹。|头像=郭嘉}}\n{{对话|郭嘉|如此反复改动，靠着蹭别人砚台里的残墨，可不够用啊。|头像=郭嘉}}\n{{旁白|伍丹定下心来，继续走访平舆的诸多墨店，寻找线索。 }}\n{{旁白|不知不觉，他们离得越来越远。郭嘉隐于人群，看她走进下一家墨店。}}\n{{旁白|他手中烟管烟香甜醇，有人穿过薄烟，无声来到他身后。郭嘉背对来人，没有回头。 }}\n{{对话|郭嘉|你怎么才来？我陪孩子逛了半天的街，快要认干女儿了。|头像=郭嘉}}\n{{对话|郭嘉|是个有趣的孩子，差点把我的脖子都打断啦……嘶，痛。|头像=郭嘉}}\n{{对话|郭嘉|可惜她不知道，平舆所有墨店，有关玉墨的账簿条目，都被提前“处理”好了。|头像=郭嘉}}\n{{对话|郭嘉|真可怜，这孩子得白跑一趟了……|头像=郭嘉}}\n{{旁白|他苦笑着倚靠在石墙阴影后，低垂双目。}}\n{{对话|郭嘉|之前为了控制伍孚，你扣押了他几个堂亲。他们已经没用了，放回吧。|头像=郭嘉}}\n{{对话|郭嘉|嗯？你还制住了今天的刺客？问我怎么处理？|头像=郭嘉}}\n{{对话|郭嘉|………………|头像=郭嘉}}\n{{对话|郭嘉|就地解决，不留活口。|头像=郭嘉}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--颜良回忆-->\n*<big>'''在寿春挖掘秘密后解锁'''</big>\n==颜良回忆壹==\n{{对话-头}}\n{{旁白|【即墨】}}\n{{对话|文丑|哼哼哼……|头像=文丑}}\n{{对话|颜良|在这里做什么？|头像=颜良}}\n{{对话|文丑|啊……看看有没有适合耕作的地。|头像=文丑}}\n{{对话|文丑|即墨多是碱地。墨家想在这里建村久居，需要足够的耕地。|头像=文丑}}\n{{对话|颜良|是吗……那这片地如何？|头像=颜良}}\n{{对话|文丑|等一场雨水吧。现在都是硬土。|头像=文丑}}\n{{对话|颜良|我带人来松土……|头像=颜良}}\n{{旁白|他往前走了一步，但文丑没有让开。这片土地很坚实，异常的坚实，好像被人仔细地压过。}}\n{{对话|颜良|……|头像=颜良}}\n{{对话|文丑|呵……这可经不起细看。|头像=文丑}}\n{{对话|文丑|毕竟旁边就是士族的坞堡……物资丰富，甚至还有细粮和战马……|头像=文丑}}\n{{对话|文丑|……别这副表情嘛。这些也都是民脂民膏啊，哪里来的回哪里去嘛。|头像=文丑}}\n{{对话|颜良|搬到这里之后，还以为会过上平静的生活。|头像=颜良}}\n{{对话|文丑|平静的生活？很难想象是什么样子的。上次在广陵，那个女方士怎么说我的命来着……|头像=文丑}}\n{{对话|颜良|她对你学猫叫。|头像=颜良}}\n{{对话|文丑|那是后面的事。她好像说我命里带刑？|头像=文丑}}\n{{对话|颜良|然后她对你学猫叫。|头像=颜良}}\n{{对话|文丑|毕竟不是什么好命嘛……命里带刑的人，似乎多接触土行的事物会好？|头像=文丑}}\n{{对话|文丑|要让我一起来种地吗？|头像=文丑}}\n{{旁白|他不会种地。也很清楚，其实颜良也不会，大多是随军行至何处，就地看附近的农户怎么种地。}}\n{{对话|颜良|先要拌种子……然后再这样将土地犁出一道一道的沟……|头像=颜良}}\n{{对话|文丑|我总觉得你漏了一步。|头像=文丑}}\n{{对话|颜良|是吗？……漏了哪一步……|头像=颜良}}\n{{对话|文丑|一开始好像会花半天的时间，把地里结块的石头和泥巴捡掉。|头像=文丑}}\n{{对话|颜良|我没见过这一步，是时辰的关系吗？|头像=颜良}}\n{{对话|文丑|应该是吧。我是蜉蝣军，夜里出征偷袭，黎明回营。你们是中军，都是白天出征的。|头像=文丑}}\n{{对话|文丑|农户都是黎明就起来下地了，睡到中午，地都要荒了。|头像=文丑}}\n{{对话|颜良|原来如此……那就先处理地里的硬块。|头像=颜良}}\n{{旁白|文丑坐在旁边的匠台上，看他一个人默默捡石块，好像完全不觉得哪里不合理，不由笑了。}}\n{{对话|文丑|这里至少有两亩地，要一家人捡一天。你一个人，打算捡到什么时候？|头像=文丑}}\n{{对话|颜良|一个人慢慢捡，总能捡完的。|头像=颜良}}\n{{对话|文丑|直接叫我一声，「文丑，你能帮忙下地干点农活吗」，我就会下地一起捡石头。反正都是一家人。|头像=文丑}}\n{{对话|颜良|你不喜欢做农活。我一个人来就好。|头像=颜良}}\n{{对话|颜良|在广陵，还帮广陵王殿下的副官一起整理过一片很小的菜地……|头像=颜良}}\n{{对话|文丑|那都是种着玩的吧，最近好像很流行在府邸里开一片小菜园什么的。|头像=文丑}}\n{{对话|颜良|不，傅副官是很认真地在照顾那片地。|头像=颜良}}\n{{对话|颜良|种地的时候会很安心……他是这样说的。|头像=颜良}}\n{{对话-尾}}\n==颜良回忆贰==\n{{对话-头}}\n{{旁白|【即墨】}}\n{{对话|颜良|……|头像=颜良}}\n{{对话|文丑|把种子带上，去下一个地方吧。|头像=文丑}}\n{{对话|颜良|还没有种出来……|头像=颜良}}\n{{对话|文丑|没办法，骑兵打过来了，坚壁清野，田已经被毁了，至少要来年才能重新长东西。|头像=文丑}}\n{{对话|颜良|下一个落脚点，会很远吗？|头像=颜良}}\n{{对话|文丑|还好。有门徒探完回来了，说至多二十余里。|头像=文丑}}\n{{对话|文丑|这次是被两家府兵殃及了……搬远一点，应该就没问题了。|头像=文丑}}\n{{旁白|【郊野】}}\n{{旁白|墨家门徒们慢慢行过郊野，抛下身后的废墟。众人都没有什么家产，带上路的大多是粮草物资。}}\n{{对话|文丑|别打打闹闹的往马前闯，小心马蹄。|头像=文丑}}\n{{旁白|几个孩子无忧无虑在队伍前后玩闹。大人们骑马或是驾牛车，缓慢地前往下一个落脚点。}}\n{{旁白|骑马的人，马上都会捎带两三个孩子。颜良那边的孩子很安静，好像发烧了。}}\n{{对话|颜良|要是有蜂巢就好了……|头像=颜良}}\n{{对话|文丑|蜂蜜可是金贵的东西，一发现就会卖给袁术那种人。|头像=文丑}}\n{{对话|颜良|有次前阵的士兵烧伤了，袁绍将军也拿了蜂蜜出来给他治伤。|头像=颜良}}\n{{对话|文丑|因为袁绍是个好人。虽然世上的人不是简单用好和坏区分的……但的确是个好人。|头像=文丑}}\n{{对话|文丑|慈不掌兵啊……|头像=文丑}}\n{{对话|颜良|有时候觉得，人真是矛盾的动物。|头像=颜良}}\n{{对话|文丑|不如说人是动物中唯一的矛盾。|头像=文丑}}\n{{对话|颜良|你喜欢这种矛盾吗？|头像=颜良}}\n{{对话|文丑|你当年没把我的脑袋切下来，不也是因为矛盾吗？|头像=文丑}}\n{{旁白|沉默。许久的沉默。每次他提起当年的事，颜良都不知如何应对。当年发生了许多不堪回首的事，好像被血泡满又干涸的锦缎。}}\n{{旁白|忽然，文丑勒马。}}\n{{对话|文丑|……那边的树上，是不是野蜂巢？|头像=文丑}}\n{{旁白|【林间】}}\n{{对话|文丑|树枝快要压断了，换个体型轻些的人上去吧？|头像=文丑}}\n{{对话|颜良|没事，我不怕蜜蜂……啊！|头像=颜良}}\n{{对话|文丑|摔下来就会再出现一个伤病患者，很麻烦的。|头像=文丑}}\n{{对话|颜良|没事……|头像=颜良}}\n{{旁白|他浑身都用布料罩住，艰难地爬上树，把手伸向蜂巢。下一刻，伴随树枝折断的轻响，他从高处坠下——}}\n{{对话-尾}}\n==颜良回忆叁==\n{{对话-头}}\n{{旁白|【郊野】}}\n{{对话|文丑|不幸中的万幸……还好昨天下过雨，土堆松软。|头像=文丑}}\n{{对话|颜良|咳……咳……嗯，蜂巢也摘到了。|头像=颜良}}\n{{对话|颜良|再捡干柴生火，烧一口热水，泡些蜂蜜……蜂蜜水对寒热有好处。|头像=颜良}}\n{{旁白|一行人从林中步出，走向古道上等候的队伍。}}\n{{旁白|人们都很安静地围着一对母女，母亲呆呆抱着女儿，被毯子裹着的孩子，脸上已经失去了血色。}}\n{{旁白|【水边】}}\n{{旁白|坟土掩埋了小小的身躯。他们的丧仪很简单，没有陪葬和葬礼，所谓的墓碑，也都是木制的。}}\n{{旁白|木头会随着风雨腐朽，回归泥土。木制的墓碑化为灰烬时，这个人便等于彻底魂归天地。}}\n{{对话|颜良|她好像好些了……|头像=颜良}}\n{{对话|文丑|毕竟还有其他家人，彼此扶持，就还能走下去。|头像=文丑}}\n{{对话|颜良|……你有找到你的家人吗？|头像=颜良}}\n{{对话|文丑|我的生母？|头像=文丑}}\n{{对话|颜良|……记得你去琅琊找过，好像最后的踪迹是在王氏……|头像=颜良}}\n{{对话|文丑|……然后，行踪便断了。|头像=文丑}}\n{{对话|颜良|一定能找到的。说不定她也在找你。|头像=颜良}}\n{{对话|文丑|她见到你，该喊你什么？|头像=文丑}}\n{{对话|颜良|……|头像=颜良}}\n{{对话|文丑|……要是喊一声公子就尴尬了。嗯？怎么站在那不走了？|头像=文丑}}\n{{对话|颜良|……你是说笑的，还是……|头像=颜良}}\n{{对话|文丑|说笑的，说笑的。|头像=文丑}}\n{{对话|颜良|这并不是适合说笑的话题。|头像=颜良}}\n{{对话|文丑|是我失言……别生气了，跟上吧。|头像=文丑}}\n{{对话|文丑|……怎么还在生气？真这么生气的话，不如再在当年的地方补一刀吧？|头像=文丑}}\n{{旁白|那人转过头，神色更加板正，难得真生气了。}}\n{{对话|文丑|……是我说错话了。我认错。|头像=文丑}}\n{{对话|颜良|我也不想听你认错。|头像=颜良}}\n{{对话|文丑|那你又想听什么？|头像=文丑}}\n{{对话|颜良|不重要。我想听什么根本不重要。|头像=颜良}}\n{{对话|文丑|不说对方想听的话，那就是吵架了。难道想大吵一架？|头像=文丑}}\n{{对话|颜良|真的大吵一架，也比你特意说我想听的话要好。|头像=颜良}}\n{{对话|文丑|你吵不过我的。|头像=文丑}}\n{{对话|颜良|呃……|头像=颜良}}\n{{对话|文丑|我八岁就能一个人和四五个仆役吵了，为了争一炉子炭。|头像=文丑}}\n{{对话|文丑|十三岁时候最高战绩是和主母院子里所有的仆役对吵，对面大概有三十多人。|头像=文丑}}\n{{对话|颜良|………………|头像=颜良}}\n{{对话|文丑|要吵吗？我随时都可以。|头像=文丑}}\n{{对话|颜良|……吵吧。我不太擅长这个，可能要学一下……好，我准备好了。开始吵吧。|头像=颜良}}\n{{对话|文丑|……|头像=文丑}}\n{{对话|颜良|……|头像=颜良}}\n{{对话|文丑|要不……快日暮了，一起去帮忙拾柴生火吧？|头像=文丑}}\n{{对话|颜良|是快要准备晚膳的时辰了……不对，我们还在吵架。|头像=颜良}}\n{{对话|文丑|……那你开始啊，等你半天了，是吵还是不吵？是你说要吵的，要掰扯什么自己都掰扯不清楚吗？|头像=文丑}}\n{{对话|颜良|抱歉！等我再想一下……|头像=颜良}}\n{{对话|文丑|这种时候你要说「自己说了什么心里没点数吗」，对方会辩解「我没说」，你追上「管你说没说今天我一定要一个说法」。|头像=文丑}}\n{{对话|文丑|……你在记什么？|头像=文丑}}\n{{对话|颜良|记跟人吵架的步骤……|头像=颜良}}\n{{对话|文丑|重点是不要自证，比如对方说你说了什么，你别管自己说没说过，直接回「有你什么事」。|头像=文丑}}\n{{对话|文丑|来，练一下。你说这话到底什么意思？|头像=文丑}}\n{{对话|颜良|呃……应该是与你无关之事……|头像=颜良}}\n{{对话|文丑|……|头像=文丑}}\n{{对话|文丑|啊——不行！你没法学这个！|头像=文丑}}\n{{旁白|日暮下，他们沿着水边，一前一后走向扎营处。方才还在争论的事已经不知不觉过去，无人再提。}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--张辽回忆-->\n*<big>'''在天水挖掘秘密后解锁'''</big>\n==张辽回忆==\n{{对话-头}}\n{{旁白|【李傕军营】}}\n{{对话|阿蝉|就是说，你们事先并不知道围剿绣衣楼的消息。|头像=阿蝉}}\n{{对话|西凉军官|……我们是李傕将军一派的人，哪知道郭汜那边的行军安排？|头像=副将}}\n{{对话|阿蝉|纵火绣衣楼的，不是李傕的人马，而是郭汜的人马？|头像=阿蝉}}\n{{旁白|前段时间，绣衣楼在雒阳的本部地点暴露，被西凉军放火围剿。}}\n{{旁白|真正的本部一向隐藏严密，广陵王怀疑内部有叛徒，将地点出卖给了西凉军。}}\n{{对话|西凉军官|我知道的事全部告诉你了，快把我放了！围剿绣衣楼和我们没关系！}}\n{{对话|阿蝉|知道郭汜驻扎在哪个营地吗？|头像=阿蝉}}\n{{对话|西凉军官|虽然都是董卓的部下，但我是李傕军的，真不知道郭汜军的事啊！}}\n{{对话|西凉军官|快放了我！我和你们无冤无仇，哪有这样不讲道——}}\n{{旁白|话音未落，一道雪亮剑光如白鸟飞入帐中，环过那人脖颈，不沾一滴血色。}}\n{{对话|西凉军官|……理……喀呃……}}\n{{旁白|直到身躯倒地，头颅才从颈上滚落。一把短刀，从死人的护腕下滑出。}}\n{{对话|阿蝉|……张辽将军，为何？}}\n{{对话|张辽|你分心了。他装作叽喳聒噪，就是为了让你轻敌。|头像=张辽}}\n{{对话|阿蝉|他护腕下藏着短刀。我听见刀鞘的声音了，应付得了。}}\n{{对话|张辽|哦？难道你想说，我多事了？|头像=张辽}}\n{{对话|阿蝉|…………}}\n{{对话|张辽|说。是不是我多事了？|头像=张辽}}\n{{对话|阿蝉|…………是。你把他杀了，就什么都问不出来了，|头像=阿蝉}}\n{{旁白|张辽死死瞪着她，逼近半步；似乎因为愤怒，他握剑的手青筋暴起。}}\n{{对话|张辽|你这个……你这个……}}\n{{旁白|张辽将手伸向阿蝉的头，然后……}}\n{{对话|阿蝉|啊！}}\n{{旁白|他用手指戳了她的眉心，把她戳得晃了晃。}}\n{{对话|张辽|……不懂事的孩子！}}\n\n{{旁白|【合肥·东衢地】}}\n{{对话|张辽|别装不认识了，这里没有其他人。}}\n{{旁白|阿蝉的神色微微有些松动，原本故作冷漠的神情变了，呈现出几分愧疚。}}\n{{对话|阿蝉|……文远叔。}}\n{{对话|张辽|哦，原来你还记得我是谁啊？|头像=张辽}}\n{{旁白|阿蝉低着头，轻轻点了点头。}}\n{{对话|张辽|当年为何要走？我们找了你很久。}}\n{{对话|张辽|我还给马超写了信。你倒好，一走了之。}}\n{{对话|阿蝉|……对不起，文远叔。|头像=阿蝉}}\n{{旁白|她小心抬眼看他。张辽的眼中总带着不耐的微怒，她一直弄不懂他是不是真的生气。}}\n{{对话|张辽|绣衣楼的人，知道你以前的事吗？}}\n{{对话|阿蝉|……不知。我没有提起过。|头像=阿蝉}}\n{{对话|张辽|把话放出去，让广陵王知道又何妨？}}\n{{对话|张辽|让他知道，养大你的人都不是好得罪的。否则，这种王公贵胄……哼。}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--甘宁回忆-->\n*<big>'''在平皋挖掘秘密后解锁'''</big>\n==甘宁回忆壹==\n{{对话-头}}\n{{旁白|【战场遗迹】}}\n{{对话|太史慈|这次是要找回一批没有送达据点的情报……好！太疾驰，太及时，我开干了！|头像=太史慈}}\n{{对话|张闿|不需要帮忙吗？|头像=张闿}}\n{{对话|太史慈|我来！母亲在旁边喝茶休息便是！|头像=太史慈}}\n{{旁白|他往前跑了两步，突然顿住了脚步，似乎见到了不太想见的人。}}\n{{对话|甘宁|呦……这不是老妈忠心小狗阿慈吗？|头像=甘宁}}\n{{对话|太史慈|你、你怎么会在这？|头像=太史慈}}\n{{对话|甘宁|当然是来给老妈尽孝的呀。老妈气色不好，肯定是你调皮了。|头像=甘宁}}\n{{对话|张闿|只是换了新的胡粉。|头像=张闿}}\n{{旁白|他晃着手里血淋淋的布袋子，慢悠悠朝太史慈逼近，一路走，袋子里的血就一路滴落。}}\n{{对话|太史慈|这是谁的脑袋……|头像=太史慈}}\n{{对话|甘宁|啊，不认识。路上见到他手上有我喜欢的任务，我就……嘿嘿，替他代劳了呀。|头像=甘宁}}\n{{旁白|人头被他丢开。甘宁笑嘻嘻蹲在战场中不知名的尸首上，拿着短剑翻翻找找。}}\n{{对话|甘宁|哥哥可是浪子回头，怎么？不感动？|头像=甘宁}}\n{{旁白|装着情报的箱子不知在混战中留在何处，他们渐渐朝着附近尚未被坚壁清野的树林间找去。四下无人，太史慈感觉那人离自己越来越近。}}\n{{对话|甘宁|怎么一步一回头？|头像=甘宁}}\n{{对话|太史慈|你不是负责去那边找的吗？|头像=太史慈}}\n{{对话|甘宁|义兄是担心你。老妈走远了，万一你被什么狼啊虎啊的咬了可怎么办？|头像=甘宁}}\n{{对话|甘宁|喂，阿慈啊……|头像=甘宁}}\n{{旁白|他笑着拦在太史慈身前。两人的手都按在刀柄上。}}\n{{对话|甘宁|我们联手，做掉老妈怎么样？|头像=甘宁}}\n{{对话-尾}}\n==甘宁回忆贰==\n{{对话-头}}\n{{旁白|【战场遗迹】}}\n{{对话|太史慈|什么疯话！我是不会背弃母亲的！|头像=太史慈}}\n{{对话|甘宁|乌有社可是块肥肉，有它在，你的那个小组织起不来的。|头像=甘宁}}\n{{对话|甘宁|来啊，听我的，我们杀了她，平分了她的势力……她拖你们拖了那么久，也不放你们出仕………|头像=甘宁}}\n{{对话|太史慈|我们来去自由，母亲从没有阻拦过我们！|头像=太史慈}}\n{{对话|甘宁|你还不知道啊？她打算……把你们打包卖给那个人了。|头像=甘宁}}\n{{对话|太史慈|……“那个人”？|头像=太史慈}}\n{{对话|甘宁|广陵王啊。你们就要变成她的家畜了，一辈子都要当那个人的小狗狗了哦。|头像=甘宁}}\n{{对话|太史慈|……|头像=太史慈}}\n{{对话|太史慈|啊，我知道啊。|头像=太史慈}}\n{{对话|甘宁|……啊？|头像=甘宁}}\n{{对话|太史慈|就这个事啊？上个月就已经开始谈了。人力价格方面，我们还在和傅副官进行什么商业谈判。|头像=太史慈}}\n{{对话|张闿|我回来了……咦？你们在聊绣衣楼吗？|头像=张闿}}\n{{对话|太史慈|母亲！他说他想杀……唔唔唔！|头像=太史慈}}\n{{对话|甘宁|别听他告状。老妈，你真的忍心把他们都卖给绣衣楼？|头像=甘宁}}\n{{对话|甘宁|要不要考虑加入我的锦帆寨啊？从此无忧无虑，为所欲为！天下谁人不可杀、谁人可……|头像=甘宁}}\n{{旁白|飞镰摇影，刺穿他的身影。甘宁早已不在原地，声音从另一边的高树上传来。}}\n{{对话|甘宁|老妈……好冷酷，对自己的孩子都下得了杀手？|头像=甘宁}}\n{{对话|太史慈|你到底是怎么想的？想来离间我们和殿下的关系？|头像=太史慈}}\n{{对话|甘宁|“我们和殿下的关系”……我们……你们以为，自己在绣衣楼眼里算什么？|头像=甘宁}}\n{{对话|张闿|……哦，是嫉妒啊。|头像=张闿}}\n{{对话|张闿|嫉妒大家都好好生活在一起，偏偏只不带你玩吗？|头像=张闿}}\n{{对话|甘宁|……哈……哈哈哈哈……好毒啊，当妈妈的说话这么毒，孩子的性格可是会剑走偏锋的！|头像=甘宁}}\n{{对话|甘宁|要是让你们真的越过越好，那可太不爽了！|头像=甘宁}}\n{{对话|张闿|别像个孩子似的，得不到就躺地上大哭大闹。下来吧，阿宁。|头像=张闿}}\n{{对话|甘宁|你让我下来我就下来，我多没面子。|头像=甘宁}}\n{{对话|太史慈|义兄，下来吧，赖在上面真的很幼稚。|头像=太史慈}}\n{{对话|甘宁|………………|头像=甘宁}}\n{{对话|甘宁|嘿嘿……嘿嘿嘿……那……|头像=甘宁}}\n{{对话|甘宁|你们谁都别想走了。|头像=甘宁}}\n{{旁白|周围的树影下，无声出现了死士身影。那都是荆州那边的死士。}}\n{{对话|太史慈|你居然出卖我们的行踪？！|头像=太史慈}}\n{{对话|甘宁|“你居然出卖我们的行踪！”……哈哈……好生气啊，生气的时候感觉小尾巴在不停地摇。|头像=甘宁}}\n{{对话|甘宁|别总摆出那副正义使者一样地口气说话，傻得冒泡。你……|头像=甘宁}}\n{{旁白|嘎吱……嘎吱……}}\n{{对话|甘宁|……这树怎么……|头像=甘宁}}\n{{旁白|嘎吱……嘎吱嘎吱嘎吱……}}\n{{对话|甘宁|呃？！唔啊——|头像=甘宁}}\n{{旁白|高树轰然倒地，树干从中间被啮齿啃断；芾芾从树桩上探出头，抖掉身上的木屑。}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--贾诩回忆-->\n*<big>'''在山阳挖掘秘密后解锁'''</big>\n==贾诩回忆壹==\n{{对话-头}}\n{{旁白|【辟雍遗址外】}}\n{{旁白|辟雍学宫……}}\n{{旁白|昔日朝廷太学，无数儒生学者趋之若鹜。但随着长安战乱，如今已成为一片废墟。}}\n{{旁白|在追查董卓身边某位军师的途中，他们经过了故地。}}\n{{对话|贾诩|在看什么，看得那么入神？|头像=贾诩}}\n{{对话|郭嘉|经过从前读书的地方，怀念片刻，也是人之常情吧。|头像=郭嘉}}\n{{对话|郭嘉|倒是你，文和，好似对这没有感情？当年同窗之情，和学宫一起入土了？|头像=郭嘉}}\n{{对话|贾诩|同窗之情？满学宫抓郭奉孝的同窗之情吗？}}\n{{对话|贾诩|翘课、搭讪、抄功课、堂上抽烟……你每次惹事，那人就要我抓你回来。}}\n{{对话|郭嘉|我看你被学长差使，也挺甘之如饴的。文和，我给你的学宫生活添了多少乐趣啊……|头像=郭嘉}}\n{{旁白|他吞云吐雾，香烟如帘，他们渐看不清彼此的神色。}}\n{{对话|郭嘉|呼……今年的亡郎香真是金叶上品，咽入喉中，竟有一股胭脂香。}}\n{{对话|贾诩|烟酒不离手，日夜混在歌楼……迟早有一天，那人得去歌女床上给你收尸。|头像=贾诩}}\n{{对话|郭嘉|世上几人能有这么美的死法？多谢文和同学的吉言了。}}\n{{对话|贾诩|不必谢我。你八成是没有的。|头像=贾诩}}\n{{对话|贾诩|刚才开始就故意在这停留，吸引追兵前来……你更可能死在这。|头像=贾诩}}\n{{旁白|那双带着缠绵病色的双眼，仍如盈润的春水，和暖淌过四周。}}\n{{旁白|四面八方皆是西凉军的伏兵……与其说是伏兵，不如说是正大光明的包围。}}\n{{对话|郭嘉|啧，郭奉孝一介白身书生，病骨支离，哪经得住那么多西凉壮士一起上？}}\n{{对话|贾诩|可你看着还挺期待的。|头像=贾诩}}\n{{旁白|烟草恰好燃尽，落一寸余灰于风中。}}\n{{旁白|他低笑数声，双眼眯着笑看向贾诩，露出野狐般的神情。}}\n{{对话|郭嘉|和女孩子们玩久了，偶尔和西凉军玩，也挺新鲜刺激的。}}\n{{对话|郭嘉|再说，这些伏兵是谁勾引来的，还真说不准呀——你说呢？贾诩。}}\n{{对话-尾}}\n==贾诩回忆贰==\n{{对话-头}}\n{{旁白|【辟雍遗址·南楼】}}\n{{对话|郭嘉|咳咳……这片地方，从前是南楼吧？}}\n{{对话|郭嘉|楼边有座矮墙，趴上去能看见学长和夫子们读书的院子……}}\n{{对话|郭嘉|院中池边种满梅花，照水朱砂梅骨贴水而生，如美人照镜……}}\n{{对话|贾诩|奉孝，关于刚才那些西凉军，你不想谈谈吗？|头像=贾诩}}\n{{对话|郭嘉|……无量我的天尊。比起辟雍真正的中流砥柱，你对西凉军更感兴趣？}}\n{{对话|贾诩|是。你第一天知道吗？|头像=贾诩}}\n{{对话|贾诩|当年我们阻止董卓进京，功亏一篑。那时觉得，西凉军比你们可靠。|头像=贾诩}}\n{{对话|郭嘉|当年……不知天高地厚的当年啊。三个书生，竟敢走到那一步。|头像=郭嘉}}\n{{对话|贾诩|差一点，就成功了——挑起西凉内讧，让董卓错过入京时机，守住壶关……结果……|头像=贾诩}}\n{{旁白|他自嘲地笑了笑，手掌轻拍在自己残疾的腿上。}}\n{{对话|贾诩|结果……从壶关的死人堆里，我被学长挖出来。你还在旁边说风凉话。}}\n{{对话|郭嘉|唔，想必是记错了。你伤太重，神志恍惚。|头像=郭嘉}}\n{{对话|贾诩|还在死人堆边把我的祭台祭品摆出来了。}}\n{{对话|郭嘉|咳咳咳咳……错觉，错觉啊，文和。|头像=郭嘉}}\n{{对话|贾诩|还给我点了三炷香，祝我早日超升。}}\n{{对话|贾诩|你，一点没担心我。}}\n{{对话|郭嘉|这话说的，像是在怪我……|头像=郭嘉}}\n{{对话|贾诩|奉孝，因为你从一开始就知道，我不会死在壶关。}}\n{{对话|郭嘉|………………|头像=郭嘉}}\n{{旁白|一语中的。}}\n{{旁白|贾诩|奉孝的脸色不好，想必是累了。想休息片刻，听些有意思的话吗？}}\n{{对话|郭嘉|你说罢。|头像=郭嘉}}\n{{对话|贾诩|除了绣衣楼之外，我也在替西凉军办事。}}\n{{旁白|远处，再次传来铁骑动地之声。}}\n{{旁白|第二波追兵，即将包围这里。}}\n{{对话|郭嘉|“有意思的话”……就这？还有吗？}}\n{{对话|贾诩|还有，我要把你……卖给他们了。|头像=贾诩}}\n{{对话-尾}}\n==贾诩回忆叁==\n{{对话-头}}\n{{旁白|【辟雍遗址】}}\n{{旁白|虽是成功脱身，甩开了那些铁骑兵，但贾诩还在身边。}}\n{{旁白|他没有特意去甩开贾诩，任由这位昔日同窗跟随。}}\n{{旁白|两人继续在遗迹中漫步，仿佛回到了当年的学子生涯，仿佛方才无事发生。}}\n{{对话|贾诩|王鼎断壁……这里，原是讲学的所在。|头像=贾诩}}\n{{对话|贾诩|我们三人，是在此地相遇的。|头像=贾诩}}\n{{对话|郭嘉|当年你初来乍到，张口把《书》倒背如流，名动辟雍。|头像=郭嘉}}\n{{对话|郭嘉|学长回了寝室就对我唠叨个不停，让我跟你好好学。|头像=郭嘉}}\n{{对话|贾诩|那么，你那年的公孙策论，考了几等？|头像=贾诩}}\n{{对话|郭嘉|缺考。跟女同学踏青去了。|头像=郭嘉}}\n{{对话|贾诩|……怪不得，学长那天气疯了。那是我唯一一次见到学长发火。|头像=贾诩}}\n{{旁白|不知何时开始，郭嘉没有说话，只是淡笑着听他说。}}\n{{对话|郭嘉|发现没有，你重新喊他“学长”了。之前，你都喊他“那个人”。|头像=郭嘉}}\n{{对话|郭嘉|文和，你没有自己想得那么恨他。|头像=郭嘉}}\n{{对话|贾诩|我不恨他？|头像=贾诩}}\n{{对话|贾诩|付出多少心血、牺牲多少人才走到那一步——他毁掉了一切！|头像=贾诩}}\n{{对话|郭嘉|就算他牺牲壶关、拦下西凉前锋，也并不意味计划能成功……|头像=郭嘉}}\n{{对话|贾诩|……够了！我不想听这堆话。|头像=贾诩}}\n{{对话|郭嘉|文和，你听我说完……别走！我还不至于追不上一个瘸子！|头像=郭嘉}}\n{{旁白|一个病人，追着一个瘸子，两人就这样一前一后走过废墟。}}\n{{对话|郭嘉|……呼……你既然不想听这堆话，那我说其他的，你听不听？|头像=郭嘉}}\n{{对话|郭嘉|是……呼……是很有意思的话。呼……|头像=郭嘉}}\n{{对话|贾诩|……你说罢。说完就走。|头像=贾诩}}\n{{对话|郭嘉|除了绣衣楼之外……呼……我……|头像=郭嘉}}\n{{对话|郭嘉|我也在替西凉军办事。|头像=郭嘉}}\n{{旁白|贾诩停住脚步。他见到数道人影从断壁后步出，不知何时等候在此。}}\n{{对话|郭嘉|还有，我啊，也把你卖给西凉军了。|头像=郭嘉}}\n{{对话|郭嘉|对不住了，文和。|头像=郭嘉}}\n{{对话-尾}}\n==贾诩回忆肆==\n{{对话-头}}\n{{旁白|【辟雍遗址·旧院】}}\n{{对话|郭嘉|呼……差点死在那。还以为你和西凉军很熟，他们认出你就会收手……|头像=郭嘉}}\n{{对话|贾诩|无聊的算计……你想证实，我是西凉军中哪一边的人？|头像=贾诩}}\n{{旁白|凉州军阀林立，其中西凉一脉隶属董卓。}}\n{{旁白|西凉军中也有派系，董卓手下两名副将——李傕和郭汜，一直在暗中争权。}}\n{{对话|贾诩|郭汜、郭嘉……原来如此。凭着同姓之亲，你混入了郭汜那里。|头像=贾诩}}\n{{对话|郭嘉|刚才来的，就是郭将军的人。他们不认得你，说明，你只是李傕的人。|头像=郭嘉}}\n{{旁白|若贾诩是董卓的人，郭汜的兵马就不敢对他造次；若他是郭汜的人，两边相认后就会停手。}}\n{{旁白|然而没有，那就说明，他只会是李傕的人。}}\n{{对话|贾诩|你在排除我是董卓直属的可能性……你怀疑，董卓身边的那名军师，是我。|头像=贾诩}}\n{{对话|郭嘉|你不是也怀疑过我吗？那名军师的手法与我有几分相似，这口黑锅，我背得不冤。|头像=郭嘉}}\n{{对话|郭嘉|他在战场上从不露面，乘坐黄金马车……和你那辆黄金马车极为相似。|头像=郭嘉}}\n{{对话|贾诩|说不定是呢？回颍川和学长告状啊，趴他肩上哭啊——你又不是没干过。|头像=贾诩}}\n{{对话|郭嘉|瞧你那计较的样子。行了，我也该回歌楼了，女孩子在等我呢……|头像=郭嘉}}\n{{旁白|他转身欲走，但，一个声音喊住了他。}}\n{{对话|贾诩|奉孝留步。我想起些有趣的事。|头像=贾诩}}\n{{对话|贾诩|上个月，天子被鸩杀，广陵王身陷宫中，绣衣楼本营被西凉军围剿……|头像=贾诩}}\n{{对话|贾诩|李傕在宫中搜捕广陵王，根本不知道绣衣楼的本营被找到了。|头像=贾诩}}\n{{对话|郭嘉|……是其他将领带兵围剿的吧。事发突然，消息没传达到也是常有的。|头像=郭嘉}}\n{{旁白|贾诩|是郭汜带兵围剿的，你说，巧不巧？|头像=贾诩}}\n{{对话|贾诩|郭汜事后拿此邀功，连董卓都十分惊讶。|头像=贾诩}}\n{{旁白|说明这场行动，连董卓都没事先得到消息。}}\n{{旁白|围剿绣衣楼，并不是董卓身边那名军师的手笔。}}\n{{对话|贾诩|某个人出卖了绣衣楼，而且只卖给了郭汜。怎会有如此险恶的人啊，奉孝|头像=贾诩}}\n{{旁白|回答他的，只有一团亡郎香的青烟。那人吞吐烟雾，眼中笑意氤氲。}}\n{{对话|郭嘉|跟我说又没有用。你得回绣衣楼和殿下告状啊，趴她肩上哭啊。|头像=郭嘉}}\n{{对话|贾诩|告谁的状？|头像=贾诩}}\n{{对话|贾诩|当然是……告董卓身边那名坏军师的状呀。不然呢？|头像=郭嘉}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--徐庶回忆-->\n*<big>'''在成都挖掘秘密后解锁'''</big>\n==徐庶回忆壹==\n{{对话-头}}\n{{旁白|【书房】}}\n{{对话|徐庶|呼……呼……|头像=徐庶 }}\n{{旁白|门砰然打开，孔融从门外迈入，环视着横七竖八睡了一屋子的人。}}\n{{对话|孔融|成何体统？！此为处理公务的书房，岂容白日酣睡！|头像=孔融}}\n{{对话|徐庶|……啊？睡个午觉……哈欠……又不会塌下来……|头像=徐庶}}\n{{对话|徐庶|哈欠……我继续睡……|头像=徐庶}}\n{{对话|孔融|起来。日出而作，日落而息<ref>《庄子·让王》：“日出而作，日入而息，逍遥于天地之间而心意自得。”</ref>，白日昼寝，乃是劳逸无道的颓丧之相<ref>《论语·公冶长》:宰予昼寝。子曰：“朽木不可雕也，粪土之墙不可杇也！” </ref>。圣人云……|头像=孔融 }}\n{{对话|徐庶|云你个头啊，你要么出去，要么一起来睡。来来来，我往里面挪挪，小陈你也往里面挪挪……|头像=徐庶}}\n{{对话|徐庶|好了，位置腾出来了，来睡吧。|头像=徐庶}}\n{{旁白|孔融在书房的案前坐下，无视周围人，开始研磨展卷。过了一会，第一个人受不了了，爬起来离开了书房。}}\n{{旁白|然后第二个、第三个人陆续离开，躲避那种克己复礼的气场。}}\n{{对话|徐庶|……你搞啥呀。刚才大家窝一块，还暖暖烘烘的。|头像=徐庶}}\n{{对话|孔融|以身作则。|头像=孔融}}\n{{对话|徐庶|以身作蔗，你杵那像根甘蔗。|头像=徐庶}}\n{{对话|孔融|……做则，则！|头像=孔融}}\n{{旁白|一只绣云鸢落于窗棂，用喙敲着窗框。徐庶一边扎起头发，一边摸到鸢爪上的竹筒。}}\n{{对话|徐庶|让我瞧瞧小宝有啥事……哦，找个叛徒啊。|头像=徐庶}}\n{{对话|徐庶|以身作蔗，来，来，我俩一块去。|头像=徐庶}}\n{{对话|孔融|君子，不行无备之事<ref>《管子·霸言》：事无备则废。</ref>。|头像=孔融}}\n{{对话|徐庶|……|头像=徐庶}}\n{{旁白|铿锵一声，一把白玉为鞘的长剑被重重砸在他眼前，虽于鞘中，而剑气横流。}}\n{{对话|徐庶|这是国器冠军剑。|头像=徐庶}}\n{{对话|孔融|……国器……哪一位将军的剑？|头像=孔融}}\n{{对话|徐庶|卫将军那把。小霍将军那把我请不出，明年我多带点冷吃兔给它上贡试试看。|头像=徐庶}}\n{{对话|徐庶|它就跟卫将军一样宽厚持重，默默守护着武帝天下的荣光……|头像=徐庶}}\n{{对话|孔融|…………但现在不是光武一脉吗？它护的应该是武帝那一脉……|头像=孔融}}\n{{对话|徐庶|……|头像=徐庶}}\n{{对话|徐庶|你怎能用小人之心度君子之腹？卫将军啊那可是。是你说的那种……那种斤斤计较的人吗？|头像=徐庶}}\n{{对话|徐庶|这可是国器，知道啥叫国器吗？人家的眼界才不止于皇帝是谁家的，人家心怀的是黎民苍生！|头像=徐庶}}\n{{对话|孔融|！！！|头像=孔融}}\n{{旁白|下一刻，他拂袖起身，向着长剑行了大礼。}}\n{{对话|孔融|原来如此……是后生驽钝，竟无能感悟将军护国护民的大义……|头像=孔融}}\n{{对话|徐庶|秉持这样的大义，方能造福苍生，来，带着这把剑，我们一起去完成小宝的任务吧。|头像=徐庶}}\n{{对话|孔融|等等。《易》有云，阴阳相倚，那时虽国运充沛，但百姓也过得很苦……|头像=孔融}}\n{{对话|徐庶|哪有现在苦。当年可是年年能收上税的，有这把剑的庇护，北海的官仓今年一定能收满存粮。|头像=徐庶}}\n{{对话|徐庶|看待问题不能死板，好了，好了……别拜了，起来，我们去……执行……任务……起来啊！|头像=徐庶}}\n{{对话-尾}}\n==徐庶回忆贰==\n{{对话-头}}\n{{旁白|【郊野】}}\n{{对话|徐庶|……格老子的，后悔带你出来了……|头像= 徐庶}}\n{{对话|孔融|你自己要求的。|头像=孔融}}\n{{对话|徐庶|我也没想到你那么爱走路啊！我们从广陵走到这，走了至少十几里地啊！|头像= 徐庶}}\n{{对话|孔融|骑马不合礼仪。目的地太近，且我们身无朝廷正式的公干公文，不该占用马匹……唔……|头像=孔融}}\n{{对话|徐庶|……瞧，走不动了吧？腿疼了吧？|头像= 徐庶}}\n{{对话|徐庶|来，我扶着你，到路边坐下歇一会。渴不渴？那边有个老农卖梨子。|头像= 徐庶}}\n{{对话|孔融|不时不食<ref>《论语·乡党》：“食不厌精，脍不厌细。食饐而餲，鱼馁而肉败不食。色恶不食。臭恶不食。失饪不食。不时不食。”不在饭点不吃东西。</ref>。|头像=孔融}}\n{{对话|徐庶|那我自己吃。老伯！帮忙来五个梨子！|头像= 徐庶}}\n{{对话|徐庶|……|头像= 徐庶}}\n{{对话|徐庶|…………你刚才是不是瞟了我一眼？|头像= 徐庶}}\n{{对话|孔融|……没有。|头像=孔融}}\n{{对话|徐庶|想吃就说嘛。给。|头像= 徐庶}}\n{{对话|孔融|不时不……唔！|头像=孔融}}\n{{旁白|她大概想直接把梨子塞进他嘴里，结果没对准，野梨结结实实拍在了他脸上。}}\n{{对话|徐庶|啊啊！要不要紧？……没事哈，就额头鼓了个包……|头像= 徐庶}}\n{{旁白|孔融寒着脸整理仪容、扳正发冠。突然，一声轻响，徐庶咳了一口血，面色苍白。}}\n{{对话|孔融|你怎么了？！|头像=孔融}}\n{{对话|徐庶|……毒……梨子……有毒……|头像=徐庶}}\n{{旁白|他看向那卖梨的“老人”。男人摘下脸上的白色胡子，丢掉斗笠，拔出藏在梨子下的战刀，朝他们走来。}}\n{{对话|孔融|你原也是为绣衣楼做事的人，有立世之本、反正之心。|头像=孔融}}\n{{对话|孔融|奈何做贼，背弃主公，为世人所不齿的奸佞之事？|头像=孔融}}\n{{对话|死士|绣衣校尉从未见过我，谈何重用我？怀才不遇，明珠暗投，自然要为自己择一新主。|头像=黑衣人}}\n{{对话|孔融|你的新主又是如何重用你的？他让你行歹毒无道之举，残害无辜妇孺……|头像=孔融}}\n{{对话|死士|她也杀过不少人的。|头像=黑衣人}}\n{{对话|孔融|那这条去掉。人生在世，当为君子。大丈夫于乱世立命，当怀夜行圣意<ref>《鹖冠子》：鬼见不能为人业。故圣人贵夜行。</ref>，光明心怀。|头像=孔融}}\n{{对话|孔融|广陵王虽不识你，缺不曾轻慢凌虐。君不识臣，臣当自勉，以直报怨，以德报德<ref>《论语·宪问》</ref>。|头像=孔融}}\n{{对话|孔融|殿下不曾与你结怨，你却背弃出卖绣衣楼，残害昔日同僚。你的新主更是纵你为恶，毫不训诫。|头像=孔融}}\n{{对话|孔融|何等纵恶之主、无知之臣！还有……|头像=孔融}}\n{{对话|徐庶|呱唧、呱唧……啊，毒性都过了，还没说完啊……|头像=徐庶}}\n{{对话|孔融|圣人云，邦有道，则仕，邦无道，则可卷而怀之<ref>《论语·卫灵公》</ref>。|头像=孔融}}\n{{对话|孔融|若认为绣衣楼有不足之处，上者直言进谏，中者敬而远之<ref>《论语·雍也》：“务民之义，敬鬼神而远之。”</ref>。唯有最下者以怨报德<ref>《国语·周语》：“以怨报德，不仁。”</ref>。|头像=孔融}}\n{{对话|死士|啊……是我……是我因一己之私，行了无道之事……|头像=黑衣人}}\n{{对话|徐庶|这天也晚了，你把没毒的梨子清出来给我们，再看看接下来怎么办吧。|头像=徐庶}}\n{{对话|死士|不——让我以死明志！喝啊——|头像=黑衣人}}\n{{旁白|徐庶一把拉住他，从石头前拽开。}}\n{{对话|徐庶|别别别，那句话叫什么来着……|头像=徐庶}}\n{{对话|孔融|杀身成仁<ref>《论语·卫灵公》：“志士仁人，无求生以害仁，有杀身以成仁。”</ref>，舍生取义<ref>《孟子·告子上》：“生，亦我所欲也，义，亦我所欲也。二者不可得兼，舍生而取义者也。”</ref>。|头像=孔融}}\n{{对话|徐庶|……不是不是，是劝人别死的那句。|头像=徐庶}}\n{{对话|孔融|身体发肤受之父母，不敢毁伤<ref>《孝经·开宗明义》</ref>。|头像=孔融}}\n{{对话|徐庶|虽然我搞不清楚为什么一会儿可以杀身成仁一会儿又不敢毁伤，但总之你先别死。来，你把小推车支起来……|头像=徐庶}}\n{{旁白|她让那人支起卖梨子的手推车，拉着孔融坐到车上。}}\n{{对话|徐庶|啊，终于可以不用自己走了……辛苦小哥你推我们回广陵哈，出发！|头像=徐庶}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--张飞回忆-->\n*<big>'''在江州挖掘秘密后解锁'''</big>\n==张飞回忆壹==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{对话|甄宓|……有点紧张，呼，呼，呼……在手心写三个人字咽下去……}}\n{{对话|张郃|真的有用吗？呼……试试……|头像=张郃}}\n{{对话|张郃|……唔……啊啊更紧张了，会不会忘带兵器……|头像=张郃}}\n{{对话|甄宓|忘带兵器也太夸张了，前辈你在说什么呀！}}\n{{对话|张郃|对，对，不至于忘带兵器的！|头像=张郃}}\n{{对话|甄宓|我也好紧张……在里八华被压榨那么多年，终于……终于要和真正的首席一起出任务了！}}\n{{对话|甄宓|见首席有什么注意事项吗，前辈？是要作揖、鞠躬还是跪礼？}}\n{{对话|张郃|啊，不用的不用的，首席其实挺随和的。|头像=张郃}}\n{{对话|甄宓|我也觉得，应该只是看上去比较乖僻，毕竟那几年他是唯一给我发过实习补贴的人……}}\n{{对话|甄宓|而且，我们的身段也不能放太低了，要有点骨气才能避免被压榨。}}\n{{旁白|一阵如落叶般清静的脚步声从门后传来，张飞提着画箱和兵器走向约好的地点，困惑地看着两个呆滞的人。}}\n{{对话|甄宓|首席——首席你坐！喝茶，擦汗。来，我替首席提兵器！}}\n{{对话|张郃|啊？……呃，我来替首席提箱子……|头像=张郃}}\n{{对话|张飞|不停地鞠躬，为什么？|头像=张飞}}\n{{对话|甄宓|可悲的肌肉记忆罢了。首席，这是我从中山老家带来的特产果干，你品鉴品鉴。}}\n{{对话|甄宓|我出来前长老们特意嘱咐，要会来事，眼里要有活。首席有什么工作都可以交给我。}}\n{{对话|张郃|甄宓，你之前说身段……|头像=张郃}}\n{{对话|甄宓|前辈，你也在鞠躬。}}\n{{对话|张飞|别鞠了，眼花。|头像=张飞}}\n{{对话|甄宓|…………烟花？啊！我明白了，是死士行动前的仪式，讲究开门红对吗？我立刻去准备！}}\n{{对话|张郃|我去找！烟花应该在王府里有！|头像=张郃}}\n{{旁白|张飞茫然看着两人满院子乱窜，不知道忙什么忙了半天，抱着各色烟花、气喘吁吁回来了。}}\n{{对话|张飞|别闹了。都放下。}}\n{{对话|甄宓|首席有什么指示？我来做会议记录。|头像=甄宓}}\n{{旁白|张郃惊愕地看她不知从哪里变出了记笔和卷轴。}}\n{{对话|张飞|首先这是灰雁阶的行动。行动前，照例问清你们的诉求。}}\n{{对话|张飞|行动报酬、赡养族人的费用，以及要准备的随身密器机关或者兵器……}}\n{{旁白|张郃突然举手。}}\n{{对话|张郃|首席，那个，我可能需要……}}\n{{旁白|甄宓把他的手抓住按了下去。}}\n{{对话|甄宓|能跟首席一起出任务，我们没有别的要求！只要能学到东西就好了！}}\n{{旁白|张郃犹豫着又举起手，又被她摁下来。}}\n{{对话|甄宓|前辈，别冒险。别忘了华胥的口头禅。}}\n{{对话|甄宓|他们对我说，像你这种连辟雍太学都没考上的人还敢提工资？你不干有的是太学生干！}}\n{{对话|张郃|啊……春梦也经常说，你不干有的是十梦干……|头像=张郃}}\n{{对话|甄宓|所以，稳。我们要稳住，掌握节奏。|头像=甄宓}}\n{{旁白|她彻底把张郃的手摁了下去，信心满满回话。}}\n{{对话|甄宓|重点是能真正跟首席学到真材实料。我们别无所求，请首席安排任务。|头像=甄宓}}\n{{对话-尾}}\n\n==张飞回忆贰==\n{{对话-头}}\n{{旁白|【高邮】}}\n{{对话|甄宓|所以一共十五个任务，送药、砍柴、押运粗盐至东陵……}}\n{{对话|甄宓|然后是暗杀对象五人，绑架四人、接张鲁放学、盯着王粲喝药……}}\n{{对话|张郃|我、我可能只能帮忙送药、接张鲁放学和看王粲喝药。|头像=张郃}}\n{{对话|张飞|为何？|头像=张飞}}\n{{对话|张郃|……我忘记带兵器了。|头像=张郃}}\n{{对话|张飞|……出门前不说？|头像=张飞}}\n{{对话|张郃|我想说的！但是被摁下去了，对不起——|头像=张郃}}\n{{对话|甄宓|啊啊对不起——}}\n{{旁白|大概持续了半个时辰的鞠躬。张飞抱着矛，耐心地等他们停下。}}\n{{对话|张飞|快动手吧，不然天都要黑了。}}\n{{对话|甄宓|好，我来扛兵器……|头像=甄宓}}\n{{对话|张郃|我来提箱子。|头像=张郃}}\n{{对话|甄宓|对了，首席，完成这个任务，我真的能正式加入绣衣楼的编制吗？|头像=甄宓}}\n{{对话|张飞|她没说。要问吗？}}\n{{对话|甄宓|有点担心……以前被画了好大的饼。|头像=甄宓}}\n{{对话|甄宓|“虽然你架构上不是十梦，但在我心里已经是十梦了，我会以十梦的标准来衡量你的工作。”|头像=甄宓}}\n{{对话|张郃|你当真了吗？|头像=张郃}}\n{{对话|甄宓|我……我给老家写信说受到了上级的重视，长老跟亲戚说，我会是华胥下一届的高层。|头像=甄宓}}\n{{对话|张飞|居然相信了吗？人应该听不懂猴子的话才对。}}\n{{对话|张郃|当备选人员，真的是传说中月休两天月薪三千吗？|头像=张郃}}\n{{对话|甄宓|前辈，不要相信那种谣言。是两个月休一天，一年三千。|头像=甄宓}}\n{{对话|甄宓|绣衣楼的待遇，一定比华胥要好，对吧？|头像=甄宓}}\n{{对话|张飞|……}}\n{{对话|张郃|……|头像=张郃}}\n{{对话|甄宓|……对、对吧？|头像=甄宓}}\n{{对话|张飞|…………}}\n{{对话|张郃|…………|头像=张郃}}\n{{旁白|死一般的寂静中，三人默默穿过林间。忽然，张飞停下了脚步。}}\n{{对话|张飞|税后……}}\n{{对话|张郃|首席，上次你说完，那个新人就跑了。|头像=张郃}}\n{{对话|甄宓|………………|头像=甄宓}}\n{{对话|张飞|没事。干吧。比华胥好。}}\n{{对话|张郃|食堂是包饭的，有萝卜皮炒萝卜，咸菜豆豉，瓜子炒瓜皮……|头像=张郃}}\n{{旁白|一声闷响，是斧头砍在树上的声音。一片萝卜皮从张飞袖子上落下来。}}\n{{对话|甄宓|说起来春梦当时说要裁员，裁了半天，只裁掉了首席和我……}}\n{{对话|张飞|赔偿金，有四千，不加税。|头像=张飞}}\n{{对话|甄宓|接下来，据说所有的事情都没人干了……|头像=甄宓}}\n{{对话|张郃|哎？还是有人的。狂梦每天窝在窗边护肤，晓梦每天睡觉，双梦也是有关系的，经常不来……|头像=张郃}}\n{{对话|张郃|我……每天在花园里浇花……|头像=张郃}}\n{{对话|甄宓|所以，确实是没人干活了。}}\n{{对话|张郃|因为都是首席留下来的活，大家都不知道怎么干……|头像=张郃}}\n{{对话|甄宓|………………所以，华胥上下所有的活，难的活都是首席干，跑腿的活都是我干？}}\n{{对话|张郃|这样听下来，好像是没错。|头像=张郃}}\n{{旁白|又是一声裂响，甄宓一斧头劈断了一棵树，红着眼眶，疯狂砍下一棵。}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--张邈回忆-->\n*<big>'''在宛城挖掘秘密后解锁'''</big>\n==张邈回忆壹==\n{{对话-头}}\n{{对话|陈登|唔……|头像=陈登}}\n{{对话|张邈|他们说你在这钓了半天了。可钓上什么没有？|头像=张邈}}\n{{对话|陈登|啊，张贤兄来了。|头像=陈登}}\n{{对话|陈登|贤兄难得回徐州，这次是为何事而回？|头像=陈登}}\n{{对话|张邈|绣衣楼在陈留的人把事办砸了，她托我帮忙善后。|头像=张邈}}\n{{对话|张邈|回来的路上，就顺道来看看你。竹篓空的，今天没鱼，一起回府吃个冰碗吧？|头像=张邈}}\n{{对话|陈登|心静自然凉。昨天我去浮屠问了，神佛说今天能钓上鲥鱼。|头像=陈登}}\n{{旁白|侍从在垂钓的陈登身边布固了坐屏风、坐垫、凭肘与食案，烧炉煮水，奉上香茶。张邈在布置妥当的屏风中坐下，吹拂茶沫。}}\n{{对话|张邈|什么大事，要鲥鱼？|头像=张邈}}\n{{对话|陈登|给主公的。主公上个月提了一句当季的鲥鱼很肥美。|头像=陈登}}\n{{对话|张邈|搞什么……这么多年都没给为兄送过一条鱼，认识个亲王，立刻赶着送鲥鱼。|头像=张邈}}\n{{对话|张邈|而且送鲥鱼，多寒酸，就送一两条。之前陈氏有一台先秦的金钟，送去呗？|头像=张邈}}\n{{对话|陈登|其实送去过，给夜宴撑场面的。后来，傅融总是巴巴地看上面的金饰……|头像=陈登}}\n{{对话|张邈|哎？鱼竿是不是动了？|头像=张邈}}\n{{旁白|陈登提竿，钓上来了一个破土罐。}}\n{{对话|张邈|刚好。你要是钓到鲥鱼，就把我送的薄礼一起带去。|头像=张邈}}\n{{对话|陈登|贤兄，你居然会给人送礼？|头像=陈登}}\n{{对话|张邈|为兄也算个体面人。看，还好好包了个礼盒呢。|头像=张邈}}\n{{对话|陈登|礼不在贵重，在人心。|头像=陈登}}\n{{对话|张邈|哎，是不是又动了？|头像=张邈}}\n{{旁白|陈登提竿，约上来了一个车轮。}}\n{{对话|陈登|真是的……鲥鱼也很好啊，又稀有，又肥美，连鱼鳞都很鲜美。|头像=陈登}}\n{{对话|陈登|傅融会拿蜜酒和紫苏搭配它，据说对身体也有好处。贤兄，帮我打个窝。|头像=陈登}}\n{{对话|张邈|我在喝茶呢。让侍从帮你丢那堆鱼食吧。|头像=张邈}}\n{{对话|陈登|会把鱼吓走的。他们脚步重，你比较瘦……|头像=陈登}}\n{{对话|张邈|……直说就是脚步虚浮半死不活对吧？好吧……为了殿下的鲥鱼……|头像=张邈}}\n{{旁白|片刻后，仍然一鱼未上。两人至树荫下休息，高大的长青木下，早已淮备好了白帷帐与诸多香器。}}\n{{旁白|各色味道清淡的点心配着莲花茶端上。张邈胃口不好，兴许是苦夏。}}\n{{对话|陈登|贤见给主公送的礼，该不会还是珍珠吧？|头像=陈登}}\n{{对话|张邈|打开看看？|头像=张邈}}\n{{旁白|打开，珍珠，果然。}}\n{{对话|陈登|又是……|头像=陈登}}\n{{对话|张邈|什么叫又是。这么大的海珠，外面有的是人感意拿一郡之守的官位来换。|头像=张邈}}\n{{对话|张邈|还特意给她挑了一粒孔雀绿的，这金绿的珠光，多霸气。|头像=张邈}}\n{{对话|陈登|黑漆漆的……|头像=陈登}}\n{{对话|张邈|得了，给我收起来，山猪吃细糠，整天就知道鱼鱼鱼。|头像=张邈}}\n{{旁白|陈登正要收起珍珠，怎料指间一滑，滚圆的珍珠直接飞了出去，一路滚向河边，随着绝望的轻响没入河流……}}\n{{对话-尾}}\n\n==张邈回忆贰==\n{{对话-头}}\n{{旁白|侍从们的捞网在河里此起彼伏，寻找那颗珍珠。}}\n{{旁白|张邈靠着凭肘，指尖轻揉着太阳穴。陈登在旁边，拼命给他扇风。}}\n{{对话|陈登|能找到的能找到的……别担心别担心……|头像=陈登}}\n{{对话|张邈|……你是属泥鳅的吗，手那么滑？|头像=张邈}}\n{{旁白|有人忽然喊出了声，陈登立刻激动起身。}}\n{{对话|张邈|找到了？|头像=张邈}}\n{{对话|陈登|没有，是捞到鲥鱼了。|头像=陈登}}\n{{旁白|张邈寒着脸，又倚着凭肘，靠了下去。}}\n{{对话|张邈|……唔……我是不是睡了一觉？|头像=张邈}}\n{{对话|陈登|嗯。你刚才靠着凭肘睡着了。我让侍从把蚊帐挂上，摆了冰盆。|头像=陈登}}\n{{对话|张邈|你又开始钓鱼了啊……|头像=张邈}}\n{{对话|陈登|虽然捞到了鲥鱼，但不是亲手钓到的，实在不甘心。|头像=陈登}}\n{{旁白|两人都没有再聊珍珠。虽然珍贵，但对于张邈而言也并非什么倾尽家财才可到手的宝物。}}\n{{旁白|弄丢便弄丢了，再找更好的便是，何必为了一颗珠子伤了总角之交。}}\n{{对话|张邈|小陈，你鱼竿动了。|头像=张邈}}\n{{对话|陈登|这次一定是——啊……是先秦石碑啊。不是鲥鱼。|头像=陈登}}\n{{对话|张邈|我一直很想问，你为什么除了鱼什么都能钓上来？|头像=张邈}}\n{{对话|陈登|我也是能钓上鱼的！上次跟主公去东陵亭，一口气钓了七条白鳗。|头像=陈登}}\n{{对话|张邈|也好，钓鱼修身养性。我们俩见面就叮咚响，你能做些安逸的事也好。|头像=张邈}}\n{{对话|陈登|为什么叮咚响？|头像=陈登}}\n{{对话|张邈|两个药罐子啊。你最近还犯病吗？上次夜宴，你突然剧痛吐血，昏厥在地，阿应都被你吓坏了。|头像=张邈}}\n{{对话|张邈|有虫疾要多喝药，少吃生冷。去拜浮屠没有用的。|头像=张邈}}\n{{对话|陈登|我知道。我自己的身体，自己清楚。|头像=陈登}}\n{{对话|张邈|多大人啊，说这种颓丧之语。我都还没知天命呢，打算当个长命百岁男妖精。|头像=张邈}}\n{{旁白|陈登收起钓竿。天晚了，今口似乎真的不会再有鱼来了。}}\n{{旁白|提着那条意外被打捞上来的鲥鱼，两人步向马车准备同去广陵。张邈注意到什么，皱起眉头。}}\n{{对话|张邈|……这条鱼，好像不太舒服。|头像=张邈}}\n{{对话|陈登|一直在水面上喘气……是水不干净，还是……呃，它吐了……|头像=陈登}}\n{{对话|张邈|珍珠！|头像=张邈}}\n{{旁白|鲥鱼吐出了嘴里的珍珠，恹恹沉入水底，吐出一串泡泡。}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--检讨-->\n*<big>'''在广陵挖掘秘密后解锁'''</big>\n==检讨==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{旁白|“寿春任务”失败，行动中，目标在众目睽睽之中消失……}}\n{{对话|雀使|目标出现后，天蛾命令蛾部的八个小组，共计百余人同时出动，将目标淹没在我们自己人之中！}}\n{{对话|雀使|因此导致了目标失踪，整个任务失败！我认为蛾部需要为失败负责。}}\n{{对话|蛾使|啊？八个组同时出动，是因为雀部给出的目标人物情报啊！|头像=蛾使}}\n{{对话|蛾使|在你给的情报里，目标身高九尺，体重千斤，其武力不可估量。|头像=蛾使}}\n{{对话|蛾使|蛾部派出八个小组是非常合理的，责任是你们的吧？|头像=蛾使}}\n{{对话|雀使|我们是根据蜂部提供的情报，来估算目标的武力。情报上面有蜂部的印章。}}\n{{对话|蜂使|蜂部的情报没有错，我们都是按流程办事的……|头像=蜂使}}\n{{对话|蛾使|太阳打西边出来，蜂部都不可能按流程办事。|头像=蛾使}}\n{{对话|蜂使|我没有甩锅！上个月云雀发现蛾部花钱如流水，忍无可忍，缩减了全楼的办公成本！|头像=蜂使}}\n{{对话|雀使|缩减成本是正常手段，和情报出错有什么关系……}}\n{{对话|蜂使|蜂部上下紧衣缩食，记录情报的竹简都得双面使用。|头像=蜂使}}\n{{对话|蜂使|你们看竹简的背面，背面才是寿春任务的情报啊！|头像=蜂使}}\n{{对话|蛾使|那正面写的又是什么？|头像=蛾使}}\n{{对话|蜂使|正面是绣球的体检信息啊！|头像=蜂使}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--考勤-->\n*<big>'''在巨鹿挖掘秘密后解锁'''</big>\n==考勤==\n{{对话-头}}\n{{旁白|【绣衣楼】}}\n{{旁白|绣农楼的上班考勤处，轮到高览当值。}}\n{{对话|高览|男的靠左，女的靠右，有序打卡，严格考勤！}}\n{{对话|伍丹|甘缇姐姐你来啦。|头像=伍丹}}\n{{对话|蜂使|嘘，是我，玄蜂，我来替甘缇打卡。|头像=蜂使}}\n{{对话|蜂使|妾身拜见高览使君。|头像=蜂使}}\n{{对话|高览|关靖大哥，你咋穿着女装来上班了？}}\n{{对话|高览|我记下你的名字了，赶紧进去吧。}}\n{{旁白|片刻后}}\n{{对话|伍丹|郭嘉，是你啊……}}\n{{对话|蜂使|嘘，还是我，玄蜂，郭嘉宿醉起不来，我来替他打卡。|头像=蜂使}}\n{{对话|蜂使|酒间花前，莫要惊人春梦……咳咳，高使君……|头像=蜂使}}\n{{对话|高览|……绣球？你怎么骑着飞云来了……快进去，我把你俩的名字都记上了。|头像=高览}}\n{{旁白|片刻后}}\n{{对话|伍丹|云雀，天蛾，崔烈，周群，畦固，你们一起来啦？}}\n{{对话|蜂使|嘘，还是我，我们都是玄蜂，情况确实有点复杂，以后再解释。|头像=蜂使}}\n{{对话|蜂使|高使君，我们是……|头像=蜂使}}\n{{对话|高览|谁把黄金马车开到正门了？！|头像=高览}}\n{{对话|高览|我先把你的名字记下了，明天记得走后门，开进去吧。|头像=高览}}\n{{旁白|片刻后}}\n{{对话|伍丹|傅副官来了……|头像=伍丹}}\n{{对话|高览|不对，你不是……}}\n{{对话|高览|你是蜂使伪装的吧？}}\n{{对话|高览|哼哼，别狡辩了，我已经看出了你的破绽。}}\n{{对话|高览|全绣衣楼都知道楼主给傅副官置办了一身新行头，那天我还去围观了！}}\n{{对话|高览|你这一身太破了！骗不了我！蜂使假扮傅副官打卡，二人均记旷工一天！}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--刺杀-->\n*<big>'''在平皋挖掘秘密后解锁'''</big>\n==刺杀==\n{{对话-头}}\n{{旁白|【街道】}}\n{{旁白|寂静深夜，楼班制服黑衣人，毛玠紧随其后。}}\n{{对话|毛玠|羌大人稍候。|头像=毛玠}}\n{{对话|楼班|候什么？杀了他我们就下班了。|头像=楼班}}\n{{对话|毛玠|根据绣衣楼的刺杀流程，动手前要登记黑衣人的个人信息。|头像=毛玠}}\n{{对话|毛玠|名目在我手里，稍等，你叫什么？嗯……确实是目标人物。|头像=毛玠}}\n{{对话|毛玠|还有性别……年龄……家庭住址……|头像=毛玠}}\n{{对话|毛玠|好了，登记好了。|头像=毛玠}}\n{{对话|楼班|现在行了吧，我要动手了。|头像=楼班}}\n{{旁白|楼班挥起长刀，对准黑衣人的脖颈。}}\n{{对话|毛玠|羌大人别急。|头像=毛玠}}\n{{对话|毛玠|除了黑衣人的信息，还要登记执行密探的个人信息，女公子麻烦将你的姓名和绣衣楼的职位报给我。|头像=毛玠}}\n{{对话|楼班|……你不是知道吗？|头像=楼班}}\n{{对话|毛玠|虽然我知道……但还是得要本人亲自填的。|头像=毛玠}}\n{{对话|楼班|写完了，我可以动手了吧。|头像=楼班}}\n{{旁白|楼班的手握紧刀柄，眼中闪过凶光。}}\n{{对话|毛玠|稍安勿躁！|头像=毛玠}}\n{{对话|楼班|又怎么了！|头像=楼班}}\n{{对话|毛玠|刀具的使用情况，要在行刺前后各记录一遍，方便日后向雀部申请维护费用。|头像=毛玠}}\n{{对话|楼班|你能不能别废话了！|头像=楼班}}\n{{对话|楼班|再不动手，目标就要跑了！|头像=楼班}}\n{{对话|毛玠|跑？这位目标，你也稍安勿躁。绣衣楼新规定，目标逃跑是要走一套流程的。|头像=毛玠}}\n{{对话|黑衣人|啊？我也要走流程？|头像=黑衣人}}\n{{对话|毛玠|没错，因为任务名单里有你的名字。你这样随随便便跑，万一路上出事……|头像=毛玠}}\n{{对话|毛玠|比如摔伤绊倒、遇到劫匪、迷路失踪……为了防止家属来绣衣楼闹，我们会先签一份免责声明。|头像=毛玠}}\n{{对话|毛玠|这里有一张表，你填写好后，我为你发起审批。|头像=毛玠}}\n{{对话|毛玠|审批一般要经过十五个工作日，就是证明你在逃跑过程中发生了意外，绣衣楼概不负责。|头像=毛玠}}\n{{对话|黑衣人|这么麻烦，那我不跑了………我、我直接投降吧。|头像=黑衣人}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--观星-->\n*<big>'''在山阳挖掘秘密后解锁'''</big>\n==观星==\n{{对话-头}}\n{{旁白|【观星台】}}\n{{对话|山九|据统计，本月观星台已经掉落了三百二十块蓝色星石，一百五十二块紫色星石，而橙色星石的数量……竟然是零。|头像=山九}}\n{{对话|山九|根据掉率计算，接下来，有十之八九的可能，掉落橙色星石！|头像=山九}}\n{{旁白|周群和山九遥望天际，一颗橙色星石正巧划过天际。}}\n{{对话|山九|经过严谨计算的结果，看起来比观星术更靠谱啊。|头像=山九}}\n{{对话|周群|呵，前辈真这么觉得吗？|头像=周群}}\n{{对话|周群|在下根据云气和星象的异动，加之时节与地动频率，预测接下来天边出现的，应不是星石，而是……|头像=周群}}\n{{对话|周群|陨石。|头像=周群}}\n{{旁白|周群话音刚落，一簇火光划过天边，火光的中心依稀可见一颗黑点，正是陨石。}}\n{{对话|周群|前辈，你的数学测算可以算到陨石吗？|头像=周群}}\n{{对话|山九|……别太得意。|头像=山九}}\n{{对话|山九|八退一还五去三，九退一还五去四，我算得天边即刻会出现闪电！|头像=山九}}\n{{旁白|果然，不远的天边闪电汇集，频闪异常，稍纵即逝。}}\n{{对话|周群|不可能……这分明是异象………你如何计算得出？|头像=周群}}\n{{对话|山九|因为现在周瑜正在楼里和郭嘉打牌。|头像=山九}}\n{{对话|山九|根据周瑜的胜率计算……如果他不想输，那该行傩出千、逆转天道回溯光阴了。|头像=山九}}\n{{旁白|周群不甘，立刻捏指，势必测出下一个天象，却忽地睁大双眼，不敢相信自己算到的结果。}}\n{{旁白|顷刻之后，天边无数橙色星石如同骤雨坠落。}}\n{{对话|周群|天生异象？一定有大事即将发生，我必须赶紧去通知楼主。|头像=周群}}\n{{对话|山九|你又算错了！|头像=山九}}\n{{旁白|山九拉住周群，指向飞过天边的隐鸢。}}\n{{对话|山九|根据统计，左君每年会集中在这几个月下山探望楼主，每次会带来大量橙色星石。|头像=山九}}\n{{对话|山九|和玄学比，还是数学更靠谱！|头像=山九}}\n{{对话|周群|……|头像=周群}}\n{{旁白|轰隆——}}\n{{旁白|突然，天边一声巨响，一对奇怪的双星出现，伴随浓烟和刺鼻的味道。}}\n{{对话|周群|山九老师，我的确测算不出这是什么了……|头像=周群}}\n{{对话|山九|我也从没见过这种双星，所以概率是零，零乘以任何数都是零……|头像=山九}}\n{{旁白|山九飞速拨动算珠，周群不断掐指测算。}}\n{{对话|周群|山九老师，那颗星石……是史君？|头像=周群}}\n{{对话|山九|我看看……另一颗星石……是炼丹炉……|头像=山九}}\n{{对话-尾}}\n</div>\n<!--想添加更多标签，可以复制上面3行.注意标签数量和标签内容要一致-->\n</div></div></div></div></div></div></div></div></div></div></div></div></div></div>"
+}

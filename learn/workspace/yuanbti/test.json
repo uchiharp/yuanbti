@@ -1,0 +1,14 @@
+[
+  {
+    "id": "test",
+    "type": "sweet",
+    "dimension": [
+      "S1",
+      "S2"
+    ],
+    "source_character": "孙策",
+    "text": "测试",
+    "options": [],
+    "reveal": "测试"
+  }
+]

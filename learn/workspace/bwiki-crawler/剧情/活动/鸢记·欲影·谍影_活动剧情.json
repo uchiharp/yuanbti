@@ -1,0 +1,3544 @@
+{
+  "title": "鸢记·欲影·谍影/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "使者",
+    "侍卫",
+    "侍女",
+    "军需官",
+    "刺客",
+    "妇人",
+    "守官",
+    "小若",
+    "广陵尉",
+    "广陵文官乙",
+    "广陵文官甲",
+    "心纸君",
+    "我",
+    "斥候",
+    "蛾使",
+    "蛾使甲",
+    "蜂使乙",
+    "蜂使甲",
+    "袁基",
+    "袁氏侍从",
+    "袁氏文官",
+    "袁氏斥候",
+    "间谍",
+    "阿蝉",
+    "陈登",
+    "雀使",
+    "鸢使甲"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "袁氏的车马来了……这次的确是袁氏的旗帜，不是彭城的货车。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "一定要让袁氏的人进城吗？晚生一样可以为殿下弄来粮草。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "陈氏的粮仓在西面，运输道路被曹军截断。袁氏能从南面运来粮草，是眼下最快的交易对象。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "许久不见，殿下。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "三千石粮草已送至前镇军营。不知这边是否准备好了约定好的药品及白盐？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我们想今晚连夜去前镇，清点粮草数量。清点完毕后，药品和白盐差不多也会备齐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "“差不多”？那是还未备齐吗？曹操距离广陵，可是只有十座城池了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "你是怀疑广陵给不出？广陵的盐场产量……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "陈登。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基，你应该不介意广陵尉先去前镇，确认粮草数量吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "前镇是袁氏的军事重地，能否让外人进入，要先与本初商议。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "缺盐和缺粮都会死人，何不从权？莫非长公子没有决策权？换个有决策权的来谈判！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "陈太守，说话夹枪带棒，是没法加快交易进展的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "哪里有枪和棒？本王可没听见。长公子，你听见了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "虽未听见，却是切肤之痛般地感受到了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "说到底是想先让广陵给白盐。给了白盐，三千石粮草就是广陵的了，若出问题，也算广陵的，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "由在下作保，殿下大可放心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "本王不放心。到时银货两讫，你走了，粮食有问题，那要到何处找你？袁氏的大军之中吗?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "天气一日比一日冷，战事也是一日比一日紧张，粮食的货价，每日都在变。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "自古军粮都是按谈判时的成交价码来计算，如何有按日期来算的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "军事瞬息万变，从未有过什么“自古的规矩”！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "还继续吗，殿下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "三句话里掀桌，最后逼他们一步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "广陵若不想交易，袁氏也不介意把粮草转卖彭城！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "袁氏和广陵说是联手抗曹，到底联手在哪？三千石粮草换五百车盐，广陵吃的亏够多了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=侍从",
+      "emotion": "白盐四季都有，粮食只有两季，到底谁在吃亏？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "嗓子哑了吧？尝尝这种茶。是最近从南越送来的花茶。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "呼……咳咳……嗓子松快了好多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "手没事吧？刚才你那边掀桌，案角好像刮到了你的手背。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我没事。刚才你那个“切肤之痛般地感受到了”，我可学会了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "哈……刚才殿下是不是和陈登约好了掀桌，想最后再逼一逼？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你是不是也和你的人这样说？哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "没办法。今年大荒，粮食太贵了，贱卖的话没法和二弟交代。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "懂。不过跟你谈判好难，我身边没有擅长谈判的人才，方才差点让你赢了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真的？殿下在谈判席上，风格是以退为进，游刃有余，很是老辣。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "哪里游刃有余？徐州可是快被曹操逼到绝境了。袁基，现在这没有旁人，说说你心里的价。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "这……粮价起伏大，又是乱世，谁心中能有公价呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我跟你说实话。加一点……也不是不可以。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "实话？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯，实话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "那，加这个数……说实话，我也好回去给二弟交代了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "实话？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "嗯，实话。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "这就没劲了。袁公子竟是个这样没劲的人？你看，这个价……行不行？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下是宗亲，袁氏是臣，当亲王的，多少要给臣子留一口饭。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你袁氏一日二食，能吃几口饭？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "粮食不足，我也只敢一日二食了……我是不是瘦了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下……罢了，那“这样”……行不行？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "最少只能“这样”了。不然本初要和我断绝关系了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "弟弟长大了都要分家搬出去的，你不要太舍不得他们。“这样”如何？就“这样”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "“这样”……加“这样”，怎么样？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真是的……这个价，都让人不敢应声了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "那……这样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……实在是……不好给本初交代。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "怎么总想着家人呀？也该想想自己。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "此刻的心里只想着……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……殿下瘦了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "心乱如麻……除此之外，什么都无力去想。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "外面怎么了？有些吵闹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你这样走出去，别人会怀疑你私下给了我“交代”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "既是两厢情愿的交代，如何见不得人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈……袁氏要是担心你徇私，可怎么办呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "广陵王殿下和袁氏长公子说定的事，就是广陵和袁氏说定的事，何来徇私？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……那我还有句话叮嘱你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今天谈判可要摸着良心说话，本王的名字在你心口盯着你呢。记住了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "记住了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "公子！公子！不好了！于君出事了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "到底是谁干的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=宫女",
+      "emotion": "会不会曹军那边的细作干的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "于君被杀了，侍卫都没听见动静。长公子，会不会是孙氏的刺客……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "孙氏虽然已与袁氏决裂，但不至于行刺……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "孙氏？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "那个孙策之前……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "小若，殿下自有判断，不要生事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "可、可是他之前给袁氏寄了那样的信……我看不下去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "什么信？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……一些……血气方刚的话，殿下实在不必听。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "说不出口，殿下直接看吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你居然随身带着……我看看。“□□□□，□□□□□□□，□□□”……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "长公子不要听！是恶言恶语！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "彻查此事。以及加强守卫，确保宾客的安全。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "之前曹军那边有间谍潜伏在这，我让你留下她，暗中调查她的上线。她不在这次的嫌疑人之中？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "是。袁氏的宾客事关重大，所以在袁基到来前，我就让人借故将她调离谒舍附近了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "事发当夜，她整夜都在女官值更室，没有机会去谒舍行刺。刺客不是她。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "明白了……那使者死后，她有动作吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "派人加强监视，别打草惊蛇。她的密信用新的蜡丸装好，照旧送回曹营。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "至于嫌疑人范围中的几人，趁他们落单时带去蛾部查问。做隐秘些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "我安排伍丹去办。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "此事要慎之再慎。还有，陶谦从彭城派来的货车，最近不要查验了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "属下记住了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你来了。他睡下了吗？……哈……我和他？我和他挺好的。私情是私情，公务是公务。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……哦……原来如此。他也有这样的心思。那你觉得呢？……回避什么？直说便是了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……他倒是不避讳你。不，他可能也在试探你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……唉。赌吧。毕竟和袁公子猜心，还是很有意思的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "你神色不好，昨夜没睡好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "我们长公子昨夜发了梦魇。袁氏的使者死了，凶手又没找到……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "别说这种话，让殿下操心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嫌犯的身份，已经稍有眉目了。只是想抓活口，所以尚未收网。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "那真是太好了。尽快找到真凶，粮草的谈判也可以尽快继续……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "放宽心吧。今日午膳准备得很丰盛，袁氏一日二食，我可不想把长公子饿瘦了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "长公子，先等一下……让它们先尝。昨日二公子在信里嘱咐的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "太失礼了，快收起来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "谨慎是应当的。本王也不希望长公子在广陵出事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "饭菜有毒！保护主人！！！将食官扣下！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "膳房的食材、人员都排查完了，在沟渠里发现了食官的尸身，不确定是自杀还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "别在贵客面前说这些。去雀部汇报吧，这几日都要谨慎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基，你还好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……无事。反倒是殿下，切勿太过忧虑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "相比曹操，袁氏是全然站在广陵这边的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这几日，你也只能“站”在广陵这边，与我同吃同住了。若有风险，我与你共担。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下乃千金之体，不该为我涉险。刺客身份不明，还是应该……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我还是比较喜欢你昨夜的样子，那种……真实的失态。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……真实的东西，就像未曾敷粉的面容一样……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "有细纹、有斑驳……有许多的不堪，真的不想让殿下看见那些。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "局有城府，情无真假。无论如……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基啊……袁基……你觉不觉得，我们这样很有趣？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下本就是个有趣的人……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我是说，明明都是背手执刀，不知为何，和你猜心别有风情……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "还什么“君子”呢，光天白日的……哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "人不可见，天不可见，为何不能顺心而为？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "君子慎独啊，就算是在没有旁人的场合，不也要遵循礼数吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "可是，此地此刻并非只有我独身一人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "既非独身一人，何来慎独……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "昨夜知道了一些事，简直是心如刀绞……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "心……哎呀，我刻在你心口的名字，还有点红痕呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "像木地板一样，人心很容易留下伤痕的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这话就不知所云了。我可是很敬重长公子了，哪里伤过你的心？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈……地板嘎吱嘎吱的声音太响了，我听不清……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "好啊！你在我身边安了间谍！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "试试让第三、五、七个字的发音圆一些、有点颤动的感觉，半惊半怒的感觉会更真实。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "唔……好啊！你在我身边安了间谍！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下待袁氏的人好，袁氏也会待殿下的人好。礼尚往来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "……哎呀，被发现了呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "本初想杀，我留他了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "就算是间谍，也是殿下送给我的。我会好好保护他的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁公子送我的间谍，也是精挑细选的人才。不做间谍的时候，工作也很细致。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "是啊……是个稳重可靠的人。所以，昨夜他告诉我殿下的计划时，我是真的伤心了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……为何要在我的饭菜里下毒？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "哪是什么毒，是醒酒药罢了……吃下去只是会略微反胃，让你以为自己中毒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "殿下这样做，是为了威吓？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "才不是呢。我是为了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我是为了确定，你在我身边留的间谍是谁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "安插间谍也不跟人家说一声……我怕亏待袁公子的人，只能这样一个个去试。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "辛苦殿下……啊，先别动……你突然动，吓了我一跳。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "我哪里吓得到你？你顺水推舟，自己给自己下剧毒，还把我吓了一、跳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "啊…………！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "说。为什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下不是已经明白了吗……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……别乱动，很危险的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我让医师在外预备着，断了会给你缝回去的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真是让人心向往之的医术——呃！殿下！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "身体虽然在谈私事，脑子还是得谈公务呀……你给自己下毒，为什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "想抽身出来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……属于袁氏的袁基，想暂时从袁氏中抽身出来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……若不抽身而退……那这次来广陵，就真的只谈公务了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "只有这样做，才能被你留在身边，肆无忌惮地享乐片刻……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……你真是疯了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "就当是片刻的幻梦吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "人在幻梦里，本就是欲海里的疯子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……外面的水声，是侍从们在准备汤沐的水吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "说不定是准备一锅煮你的沸水……把你煮到骨头酥烂，方便毁尸灭迹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "呵呵……可惜，在下连逃也不想逃了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不知不觉，就在彼此身边空耗了一天啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "才回过神来，我上当了……为了“保护”被下毒未遂的袁公子，必须得像这样，日夜陪着你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "有殿下的细心“守护”，袁氏使团在广陵一定能平安无事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "今夜的雪月真是明亮……你看，窗外的松枝和竹影，被照得一清二楚。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "今雪“何”来兮，梦“云”泽。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……问雪何“原”兮，自“乌”江。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下还有下一句吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "我如何还能有？袁公子呢？还有下一句吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "才疏学浅，尚未想出下一句。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那就权当它只有两句，如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "有的时候，真的很苦恼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "总在这种事情上心有灵犀……意识到的瞬间，惊心动魄。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他睡了。出来吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "乌吉被他查出来了。他是为了掩护你的存在……但是，也许只是袁基希望我这样以为。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "默许对方的间谍留在自己身边，也算是一种示好吧。他若默许，你就继续留下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "礼尚往来，他在我身边留的最后一个人，我也会默许。毕竟……有些事，要靠你们来传递……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……去吧。去安排汤沐。他睡得很浅，后半夜若是醒了，汤沐一下会舒服些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵尉",
+      "text": "头像=帅武将",
+      "emotion": "前镇粮草的清点已经完毕，除去部分受潮的粮米，粮草总数无误。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "此次可谓是皆大欢喜。袁氏得到白盐，广陵不仅得到粮草，也查到了数名曹军间谍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "广陵能安然越冬，在下也安心了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "此次一别，怕是要来年再见了。望殿下保重。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "也望袁氏众人一路顺遂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "诸位都上车吧。准备启程。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "侍从，替长公子把保暖的毡帘挂上，别让雪灌进去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "还没到时候……现在可是白日，你刚刚被下毒未遂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下打算从何查起？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁氏使者于君被刺身亡，你被下毒未遂。动手的应该不是一个人，但却可能是同一个势力。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "目前几名嫌疑者，他们可能接触的是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "楼主，你在书房里吗？属下有要事汇报。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "我知道了……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "缠得好紧……打成死结了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "楼主？楼主？里面发生何事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "朱女官，怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "我有要事回禀，可书房里似乎出事了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "会不会是刺客？！来人！保护殿下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基，去那里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "殿下不在里面吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "我刚才还听见楼主的声音……花瓶碎了，四周没有血迹和打斗痕迹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "糟了！殿下会不会被掠走了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "呵……咳。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘。快把衣带解开……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "朱女官，你是不是有急事找殿下？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "有人认罪了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "那不是好事吗？这就破案了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "……不，事情更复杂了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "啊……是不是解反了？好像缠得更紧了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "全都缠在你的组玉佩上了……啊，小心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "那边隔间是不是有什么声音？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "有吗？我没听见……朱女官你看，窗台有痕迹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "对了，认罪的人是谁啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "是个中年仆役，声称自己要向袁氏复仇，于是策划了刺杀和下毒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "不是曹操的间谍？这样可不妙，如果是曹军间谍，那广陵和袁氏就是同仇敌忾；如果不是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "那就是广陵王府守卫使者不力，错在我方。谈判的时候，就会很被动……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "仆役是被收买的棋子，招供的事情有限……至少证明背后有主使，事情还有转机。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……有意思。真有意思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁基，你觉得他背后的主使是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "预设一个敌人，是很危险的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "提前除掉预设的敌人，不就能彻底解决潜在的危险了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "——呃！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……设这个圈套，是为了打压谈判中的对手？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "呃……咳……咳咳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "嘘。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "殿下似乎不在书房……院中有吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "也不在院子里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他们随时可能拉开隔间门……你猜，他们会看见什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "…………哈……哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "殿下在这——噫！！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……真是的……没轻没重……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "嘶！轻点。我让她们把磨指甲的匣子拿过来了，你待会去廊下磨一磨吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "左侧敷完药了。还有右侧……忍一忍，我会尽量轻的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "现在知道轻了……背上的抓痕，不知道要多久才能消下去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "所以，是袁氏临时收买仆役自称刺客，来打压谈判对手、抬高粮草的价码。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁氏抬高粮价，我出不起价，别无选择，就只能赊借别的东西——盐场。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "彭城的陶谦在往这边运秸秆……晒盐需要大量秸秆铺地，估计是在为接管盐场做准备。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "所以是袁氏和陶谦联手。袁氏得到盐场，由徐州牧陶谦代管，共分鱼肉？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "既能高价卖出粮草，又得到了盐场这个一本万利的东西……真是好算盘。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那你可想过，袁氏为何要用这个必破之局？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "收买杂役顶罪，他必定会被审问。贪财之人无法守口如瓶，这个局，是瞒不住的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "是啊……这是我唯一想不通的地方。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "云雀，你如今看到的是什么局面？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "袁氏弄权，袁氏与广陵的交易几乎破裂，与陶谦联手压榨广陵。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你是雀部首座，知道内幕和仆人的供词。若是其他人，譬如曹军的间谍，她会看见什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "——会看见广陵和袁氏的粮草交易谈判破裂，而陶谦不断向广陵派来货车。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "曹军的参谋会如何判断，这封密信已经证实了。云雀，跟我去一个地方，眼见为实。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "久等了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "一切如殿下所料。曹军的参谋认为，货车里的是粮草。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "他们判断，在与袁氏的谈判破裂后，殿下同陶谦冰释前嫌，转而向陶谦购买粮草。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "所以他们认为，广陵收得粮草，陶谦的彭城粮草空虚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "“若奇袭彭城，则战果唾手可得”……一丝贪念，踏入末路。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "伏兵和滚石，已设在长蛇谷上两侧了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "一切安排稳妥。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "无论设伏结果如何，此次与殿下的合作……我都会铭记在心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "与你演这一场戏，若能伏击成功，便可重创曹操……若是失败……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "那也死而无憾。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "哈……哈……殿下，纸窗——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你怕被人看见？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "这里是广陵王府，你敢送上门，我就敢让你有去无回。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "——纸窗要破了……外面有人！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……这样可不行呀，袁公子还是怕被人知道白日欢娱，损了名声啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "哪里顾得上自己的名声，只是担心殿下的清誉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "本王要什么清誉？圣贤才要清誉去坐祠堂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……你要清誉？那……我就不玷污公子的清誉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……说好要一同沉入弱水的，凭什么独自先走？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "因为不走的话，就会有人来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵文官甲",
+      "text": "头像=男文人",
+      "emotion": "张义兄，关于今晚新的谈判，你这边准备得如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵文官乙",
+      "text": "头像=文官",
+      "emotion": "真是愁人。发生了那么多事，又是刺杀又是下毒，袁氏肯定会伺机打压我方，要求抬价。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵文官甲",
+      "text": "头像=男文人",
+      "emotion": "朱女官说，她那边会赶在谈判前给我们证据。但我又担心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嘘，外面都是人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "唔……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不知道会不会有不懂规矩的人，偷偷戳破窗纸偷看里面……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵文官甲",
+      "text": "头像=男文人",
+      "emotion": "不知道殿下和袁氏长公子谈得如何了……粮草太重要了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵文官乙",
+      "text": "头像=文官",
+      "emotion": "殿下到底在不在书房啊？我支开窗子偷偷看一眼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "不行……！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "现在停下的话，我就看不清你的眼睛了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "文书都散了一地了……就算现在想停下也来不及了。你看，这文书上是我打算新开的交易条件……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "把手拿开……不要怕，把手交给我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵文官甲",
+      "text": "头像=男文人",
+      "emotion": "怎么还没有来？算了，还是看一眼吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "头像=雀使",
+      "emotion": "人都到齐了吗？不要偷看书房，殿下不喜欢被人窥视，会大发雷霆的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "广陵文官甲",
+      "text": "头像=男文人",
+      "emotion": "啊，抱歉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "怎么办，袁基，他们都要进来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我们也要快一些……把我们的公事谈清楚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下……想……呃……怎么谈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "很简单地按个手印，就算成交了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……呃！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嘘嘘嘘……轻些，十几个人在书房外……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "唔！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……殿下在……做什么……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……呃……殿下——？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "长公子！长公子慢些走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏侍从",
+      "text": "头像=摊贩",
+      "emotion": "这是怎么了呀？怎么突然要走……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏文官",
+      "text": "头像=美型文官",
+      "emotion": "不是晚上还要谈判的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……不用谈了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "袁基，等一下！袁基！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "今日不宜议事。殿下请回吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "等等等等！还可以再谈的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "虽然按了手印，但也可以稍微再让你们一些……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "既然已经按了手印，就应该跟着殿下开的条件进行交易。不必再议了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "马车真宽敞……当年你怎么说的？“殿下与袁氏有同车之缘”……看在同车之缘的份上，让我赔罪吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "岂敢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "袁基……话别闷在心里。你是觉得没法向袁绍交代？我说了，广陵还能调整交易条件……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下与在下做到这一步，仅仅是为了交易吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……哈，原来气这个呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那你敢摸着良心起誓，你亲近我的举动没有一丁点为了利益？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "只许你为了利益翻云覆雨，不许别人把你变成那团云？这可不公平。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "反正从一开始就不可能是纯然的爱慕……反正都混杂了利益熏心，何不让它混杂得艳丽些？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "花开到至艳，则盛极而衰。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "既然是花，就迟早有开的那日，也有开败的那日。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "……若我说，利益之心里也有纯然的爱慕，殿下信吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "那一瞬间，是真真正正以纯然爱慕之心与殿下亲近……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "放下了自己的利益之心，却措不及防，被另一颗利益之心撞得鲜血淋漓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那鲜血淋漓之后，你就重新用利益之心对我了，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那为何……不接受我修改条件的提议呢？既是利益之心，就该利益优先。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "有谁希望被人以利益之心对待？既然已以纯然爱慕相待，便不会希望那人也受伤害。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若按你说是纯然爱慕，那就以纯然爱慕的方式赔罪，如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "纯然的爱慕难以估价，又何来赔偿？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那本王就先行告退了。袁公子。请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "现场的调查有什么眉目吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "凶杀发生在室内，结束得非常快，侍卫都没有听见声响。除此之外就是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "被刺的使者于君所住的客房，原是给袁基住的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……原本被安排住在那的是袁基？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "是的。那处客房的南院在修葺，作为随侍，他要求与长公子交换住处。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……这一点着重关注。你暗中调查，小心里八华的介入。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "楼主放心。除了楼主之外，我不会再轻信任何人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "让礼官小心招待袁氏使者……无论如何，确保明夜的谈判顺利进行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "楼主，恕我直言，谈判势必会被刺杀之事影响。广陵事先开的条件，袁氏恐怕不会满足。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "楼主，负责谒舍的密探汇报了最新的消息。袁氏那边在商议撤回前镇的粮草。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……袁基发话了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "他让随行的侍从传信回去给袁绍，但不知道信件内容。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "拦下那封信，有没有可能？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使",
+      "text": "属下尽力。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "让食官准备些夜茶点，本王去谒舍，安抚一下袁氏。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "现在这个时辰……？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "他每天只睡一个时辰，离他入睡还早。让食官去准备吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "承让。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "承让。说起来，你今夜也太客气了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "并非客套，在下棋艺不精，让殿下见笑。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "太耗心力了。深夜来找你，其实只想聊些犹豫不决的事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "身居高位，少有知心之人。殿下若不弃，我愿倾听一二。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "越是私密与不堪的心事，越是需要与人倾诉。否则便会如毒火，焚烧五脏。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "多么不堪都可以问？你会为我解答？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "不敢当“解答”二字，不过是随心而论。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "真的？你确定？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下，请问。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "——你为什么射我的副官？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基，你刚才那瞬间的眼神……没藏住，知不知道？它就像这样……上下震了震。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "除此之外我还想再问一个问题……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下想问的，与我想问的事，或许是同一件。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……殿下神色如常，看来是已有觉察。不愧是绣衣校尉。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "诡辩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "诡辩的规则就是，谁先挑明对方在诡辩，谁就失去了诡辩的机会。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "再开一局好吗？或许某些棋局，本不需要耗费心力。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "公平起见，我让殿下一子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "说起来，被刺杀的使者住的客房，原来是你的客房。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "让人惋惜的巧合。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你没有加强守卫？于君被刺，很可能真的是巧合。刺客的目标，原本说不定是你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "广陵做东道主，我们无所畏惧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "本王会找到凶手，给你们一个交代。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下这一步走得很妙……黑子后行，后发制人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不如袁公子。白子先行，霹雳雷霆。那些粮草，是否已经从前镇撤回袁氏的粮库了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "这需要等本初来定夺。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "……袁基，黑子局势险恶，让我一子。下一局峰回路转，我让你三子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "也许本局之中，你我可以互相让子。但黑白厮杀，本无让子之说。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "真不能让？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "棋局规则所限，终有无能为力之处。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "刺客已经被抓住的事，多少人知道？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "依照楼主的命令严格保密。只有我与两名蛾使知晓。四部首座都不知道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你是曹操的人。原本想刺杀的，是袁基，对吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=黑衣人",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "一言不发，对威胁或奖赏都无动于衷，看来是忠心的死士。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=黑衣人",
+      "emotion": "给我一条绳索，我自行了断。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "蝼蚁尚且求生，我不逼你，壮士又何必求死？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "阿蝉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你一定是为了大义，才成为曹操的死士。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=黑衣人",
+      "emotion": "曹使君有匡扶汉室之志，与你这样的宗贼不同。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "每个人对这世道都有自己的认知，本王无意反驳你的认知。这杯酒先敬壮士的胆魄。请。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不知在壮士眼中，袁氏是何等存在？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刺客",
+      "text": "头像=黑衣人",
+      "emotion": "狼子野心，一丘之貉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那我若再给你一次刺杀袁基的机会呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你奉曹操的命令，前来刺杀袁氏要员，破坏袁氏与广陵的谈判。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "任务的过程不重要，重要的是结果。你难道不想完成任务，替曹操贯彻大义吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "如何行事，壮士自行决断。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "他会如主公计划中那般行事吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……难料，不过……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我也不止安排了他一个。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军需官",
+      "text": "头像=贵族中年男",
+      "emotion": "快点清点完毕，这批粮草要撤回邺城！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军需官",
+      "text": "头像=贵族中年男",
+      "emotion": "小心护卫，不可出半点差错！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=绣衣楼密探",
+      "emotion": "长官！长公子的车马已经到前镇外了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守官",
+      "text": "头像=西凉军丙",
+      "emotion": "派人接应，通知二公子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他用了替身……看来也有觉察和提防。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……不。有什么不对劲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使甲",
+      "text": "头像=鸢使",
+      "emotion": "楼主！情况有变！我们趁辎重守军前去救援的间隙去烧辎重车，车上却都是沙子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "………………………啧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他算到了。撤退。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "心纸君",
+      "text": "头像=小纸人",
+      "emotion": "楼主，有间谍趁楼主等人外出，纵火粮仓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "心纸君",
+      "text": "头像=小纸人",
+      "emotion": "他被抓住时断臂逃生，不见了踪迹。火势太大，粮仓救不回来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "加强防卫。我们马上回来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "夜黑风高，你与他们待在郊外，不怕劫匪吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "风清月明，心如明镜，黑暗便无需畏惧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可是黑暗中无法瞄准猎物，你唯一防身的手段都没有了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "相比广陵，此地离袁氏驻军的前镇更近，殿下无需担心。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "本是要回去的。可是行至半途，还是犹豫了……粮草的交易，其实完全不必中止。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "为何？广陵还有存粮，还不用这么心急买粮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "粮草交易，不止有交易一个名目。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "难道袁公子慷他人之慨，愿意把袁氏的粮草白送于本王？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……三茶六礼，若是以送礼为名的相赠呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "——我好失望啊，袁公子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "猜心正猜得如火如荼，结果你直接说不猜了，浇了本王一头冷水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下，这是最后的机会。明日，所有粮草会被运回邺城；而曹操的军队，每日都在接近。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你以为，我的粮仓被烧了，没有退路了，是么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "间谍",
+      "text": "头像=内监",
+      "emotion": "长公子……广陵……广陵的粮仓有异……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "间谍",
+      "text": "头像=内监",
+      "emotion": "我放了火才发现……里面不是粮草，都是秸秆！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "…………哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……回去罢。袁基，月黑风高，人心如海，实在不必强行泅水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "是啊……都只是偶尔浮上水面，竭尽全力喘息罢了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "这局未尽，是我扰了殿下的棋兴。来日重开一局，愿陪殿下走到尽兴。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "白子先行。殿下。请。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "请。我还以为，你今夜会早点入睡，毕竟白天太过混乱……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "心内有事，难以安眠。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "想起被害的于君……他所住的客房，原是给我的。若非临时调换住所……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "人生无常，莫要自责。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "使者被刺，明晚的谈判……看来是无法进行了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "本初那边，我会尽力为殿下争取。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "场面话谁不会说。场面之下，广陵和袁氏决裂的消息，怕是已经以讹传讹了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "天更寒了……不知存粮还能支撑几日。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "莫要忧心。此事我会安排。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "如何安排？再如何，这批粮也不可能白送给广陵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "也许……有一种可能。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "如果，这些粮草顺理成章地变成你的所有物……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你输了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "天晚了，早些歇息吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下也是。请。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "楼主。此次行动，随行者皆已到齐。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "遵照楼主的命令，没有告知四部首座。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "除了你与他们，无人知晓这场行动，确定吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "是。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "准备出发吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使甲",
+      "text": "头像=平民母亲",
+      "emotion": "方才斥候传回密信，曹军已有拔营的征兆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "主力中军也在其中？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使甲",
+      "text": "头像=平民母亲",
+      "emotion": "是。三军皆有动作，全军进发广陵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "明白了。陈登届时会安抚人心、坐镇广陵，不必担心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我们该出发了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使甲",
+      "text": "头像=平民母亲",
+      "emotion": "曹军已抵达发干县。我们之后需要日夜策马，才能在他打下彭程之前抵达许县。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "让小沛据点的人准备三日的快马，与我们一同上路。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "阿蝉，让众人歇息一刻。我们去那边说话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "她有传信回去吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "昨日和前日，她传了两次情报回去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "信鸽不如鸢的速度快，算算时间，曹操的参谋应该今天收到第一封情报……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……继续赶路，无论曹操会不会撤军，我们都去许县。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "楼主，前面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……真是有意思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真巧。不知殿下欲往何处？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "袁公子又欲往何处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "于君横死，长公子希望去见他的族人，亲自说明此事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "是吗？那他的族人居于何处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "该不会是……许县吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还以为你会等我们抓到凶手，再前去吊唁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小若",
+      "text": "头像=黑人影",
+      "emotion": "长公子说死者为大，不想让家属多等一日。况且，殿下现在不该在调查凶手的身份吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我是担心真的查下去，兜兜转转，查到什么不该查的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "刺客应是曹军的间谍，难道，还有其他身份吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "半途重逢，殿下要再手谈一局吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "让众人去水边休息吧，让马匹也饮水歇息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你在摆残谱吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "从前经过巴楚，在道旁见过一局残棋。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "有趣的残局啊……黑白子同争一处生门，棋局偏在此处断了，不知夺取生门的是黑还是白。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若是非黑即白，就还能推测胜负；若是黑白同落……那就真真有趣了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "不管结果如何，在旁人眼中，黑子与白子的棋手都是对手。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "譬如，曹操。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "使者一死，在曹操眼中，广陵和袁氏交易破裂。广陵得不到过冬粮草，穷途末路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "所以他趁广陵“势弱”之时出兵了。偏偏这才是殿下的设计。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "也是你的设计。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "——诱他出兵。然后奇袭许县，夺天子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "同车之缘，同道中人，殿下是知音。那夜想杀于君的，是你我双方的刺客。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我的刺客抵达谒舍时，发现他已经身亡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "死得干净利落，说明杀手是于君认识的人；侍卫毫无知觉，说明这是你特意的安排。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "我们走了同样的一步。现在，我们又走了同样的一步。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "现在问题来了。现在的这一步，谁先得到“生门”？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "阿蝉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "过来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蛾使甲",
+      "text": "头像=平民母亲",
+      "emotion": "呃——放开我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "她就是我的十万大军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "她是曹操的间谍。我们奇袭许县营救天子的计划，她已经传回曹营了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "…………！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没错，你懂了。曹操即将分兵，一支兵力前去回援许县，另一支兵力继续攻打徐州。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你猜，回援许县的那支军队，会在途中遇到什么惊喜？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏斥候",
+      "text": "头像=士兵",
+      "emotion": "长公子，我们遇到了回援许县的曹军！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "回援的曹军，会把遇到袁军的消息，传给前线的中军。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "徐州永远在那不会跑，但天子只有一个，被抢了可就再也没有了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……攻打徐州的曹军，也会折返回来，支援这支回援许县的曹军……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "抱歉，短兵交接，怕是无法好好向殿下道别了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "这局棋，在下先记下了。期待来日再开新局。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "普通的棋局无甚趣味，不如来下盲棋如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "好。在下不擅盲棋，还望殿下留情。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "先来猜子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不必。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "——从猜子开始就闭上双眼，如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……连自己是黑是白都不清楚的盲棋么？这想法着实有趣。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "其实本王也是第一次这样下盲棋。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "闭上双眼，棋路反而格外清晰。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "真不愧是袁公子。啊……我要少说几句。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "说话的时候容易分心，忘记刚才落子何处了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "秋角四四。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "冬柱四三。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "秋柱二二。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈……我们竟然真的下得有来有回。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "多事之秋，能有些寄情之物也是好的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "秋角七五。袁基，你为什么猜你是黑子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "若说是触感，殿下信吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=袁基",
+      "emotion": "黑色显小，所以工匠们在打磨棋子时，总会无意识地将白子磨小一些。秋角一二。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "原来如此……它们看起来一样大，其实黑子摸起来要比白子来得大啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "眼睛是最容易骗到自己的东西。只有亲身接触了，才知道差异在何处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁基，若我愿意与袁氏结盟，与曹操不死不休……你能给袁氏的盟友支援多少粮草？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "楼主回来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "有信送回来吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "曹操怎么说？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "这是最新的密信，主人请看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "广陵这边的情报，你继续半真半假的传给曹操，小心行事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "根据这封文书上的地点安排辎重，去接应两批粮草。直接运去东阳，交给陈氏保管。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "袁氏的人明天中午启程，需要做什么安排吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不用。你全力负责粮草的接应，确保它们安全送至东阳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "这样的要事为何这么迟才报回来？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使甲",
+      "text": "头像=蜂使",
+      "emotion": "没办法，当时情况太混乱了啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使乙",
+      "text": "头像=屠夫",
+      "emotion": "就是就是。你们雀部坐班喝茶的不知道我们跑外勤的辛苦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "楼主，粮草辎重出事了——在小沛北郊的古道上遇到突袭，被纵火焚烧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-冷笑",
+      "emotion": "呵，怎会如此呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁公子，站在火边很危险的，很容易引火烧身。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "多谢殿下提醒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "行至半途，见到路边有辎重车失火，不由停车观看……原来是广陵的辎重吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "袁公子真是热心，竟停车围观了那么久，等到本王前来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "因为还有挂心的事。殿下与我，还有残局未尽。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "记得残局是这样摆的……殿下看黑白子的位置对不对。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不对。你摆错了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "从哪一步开始摆错了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "第一步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……哈。原来那夜，我们都拿了黑子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "黑吃黑，往往吃起来口感最好。不过居然烧我的粮草，是不是过分了呀，袁公子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "从前，在下听过一个黑吃黑的故事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "主角是一只狐狸。在深林中猛兽环伺，它想寻求庇护。于是它找到了蟒。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "它对蟒说，自己会成为蟒的同伴，一起对抗豺狼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "它又找到豺狼。说自己愿意和豺狼联手，抵挡蟒蛇。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "豺狼和蟒蛇是不是都心地善良，愿意给狐狸一点过冬的肉？所谓的兽性，有时比人性更温暖呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "肉太大了。狐狸拖着这块肉，只能慢慢地走。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "回过神的豺狼和蟒蛇追上它。殿下你猜，它会怎么样？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "……啊……啊……啊啊……曹营也有袁氏的人……啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "假称与双方结盟，收下双方的粮草……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "为了让双方信服，将一方的行踪卖给另一方，再把一方行刺计划卖给另一方。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "真是踏丝过悬崖，胆识过人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "可惜现在一切清零了。好不容易弄到手的“肉”，被袁公子一把火“烤熟”了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这一把火，烧掉了我六仓粮草。好狠的心啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "就在此时此地，重开广陵与袁氏的粮草交易，如何？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "让我看看……哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "不要。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "殿下，没有粮草，广陵无法越过这个冬天，以及曹操的兵马。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "点火前，你检查过这些辎重车吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "粮草，能烧那么久吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "……！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "真正运送粮草的辎重车，走的是另一条路。她招供的这条路，是假的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "作茧之人，终究自缚。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我知道。刺杀使者于君的凶手是你安排的，目的是为了抬高谈判时的筹码。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你猜，于君是谁的人？你再猜，你身边还有多少只“绣云鸢”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "呵……明明被拆了局、被算计，可心里竟无一丝气愤……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那你的心里，此刻是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "士之耽兮<ref>《诗经·卫风·氓》：“于嗟女兮，无与士耽。士之耽兮，犹可说也。女之耽兮，不可说也。”此处反其意而用之</ref>，不只是无可救。抱歉，是真的抱歉……明明在如此不合时宜的时刻……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "——我对你，动心了。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "分类鸢记"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%B8%A2%E8%AE%B0%C2%B7%E6%AC%B2%E5%BD%B1%C2%B7%E8%B0%8D%E5%BD%B1/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:10:27.445972",
+  "raw_wikitext": "{{JS|Qiantao.js}}{{面包屑|袁基|男主鸢记|袁基-鸢记}}\n{{对话-头}}\n{{旁白|【广陵】}}\n{{对话|广陵尉|袁氏的车马来了……这次的确是袁氏的旗帜，不是彭城的货车。|头像=帅武将}}\n{{旁白|一列漫长车队穿过风雪，接近广陵。}}\n{{对话|陈登|一定要让袁氏的人进城吗？晚生一样可以为殿下弄来粮草。}}\n{{对话|我|陈氏的粮仓在西面，运输道路被曹军截断。袁氏能从南面运来粮草，是眼下最快的交易对象。|头像=广陵王-严肃}}\n{{旁白|心理|冬日了，曹操却在此时攻打徐州……江水结冰，船只都无法渡江，要买粮草，只能靠陆运了。}}\n{{旁白|城楼下，袁氏的人陆续下了马车。一袭青色竹影步过雪雾，抬头望向我……}}\n{{对话|袁基|许久不见，殿下。}}\n\n{{旁白|【广陵王府】}}\n{{对话|使者|三千石粮草已送至前镇军营。不知这边是否准备好了约定好的药品及白盐？|头像=侍从}}\n{{对话|陈登|我们想今晚连夜去前镇，清点粮草数量。清点完毕后，药品和白盐差不多也会备齐。|头像=陈登}}\n{{对话|使者|“差不多”？那是还未备齐吗？曹操距离广陵，可是只有十座城池了。|头像=侍从}}\n{{对话|陈登|你是怀疑广陵给不出？广陵的盐场产量……|头像=陈登}}\n{{对话|我|陈登。|头像=广陵王-严肃}}\n{{旁白|心理|盐场和白盐的产量，目前是广陵最大的筹码了，还是不能随意透露。}}\n{{对话|我|袁基，你应该不介意广陵尉先去前镇，确认粮草数量吧？|头像=广陵王-微笑}}\n{{对话|袁基|前镇是袁氏的军事重地，能否让外人进入，要先与本初商议。}}\n{{对话|陈登|缺盐和缺粮都会死人，何不从权？莫非长公子没有决策权？换个有决策权的来谈判！|头像=陈登}}\n{{对话|使者|陈太守，说话夹枪带棒，是没法加快交易进展的。|头像=侍从}}\n{{对话|我|哪里有枪和棒？本王可没听见。长公子，你听见了？|头像=广陵王-严肃}}\n{{对话|袁基|虽未听见，却是切肤之痛般地感受到了。}}\n{{旁白|谈判席上，双方明枪暗箭谈了一个时辰，灯油与烛台都换了一轮，仍未达成共识。}}\n{{对话|我|说到底是想先让广陵给白盐。给了白盐，三千石粮草就是广陵的了，若出问题，也算广陵的，对吗？|头像=广陵王-严肃}}\n{{对话|袁基|由在下作保，殿下大可放心。}}\n{{对话|我|本王不放心。到时银货两讫，你走了，粮食有问题，那要到何处找你？袁氏的大军之中吗?|头像=广陵王-摇头}}\n{{对话|使者|天气一日比一日冷，战事也是一日比一日紧张，粮食的货价，每日都在变。|头像=侍从}}\n{{对话|陈登|自古军粮都是按谈判时的成交价码来计算，如何有按日期来算的？|头像=陈登}}\n{{对话|使者|军事瞬息万变，从未有过什么“自古的规矩”！|头像=侍从}}\n{{旁白|心理|还能再逼一逼吗？看袁基的状态，他应该也在思索要不要继续……}}\n{{对话|陈登|还继续吗，殿下？|头像=陈登}}\n{{对话|我|三句话里掀桌，最后逼他们一步。|头像=广陵王-严肃}}\n{{旁白|对面的案后，袁基也隐约给他的人打了个手势，但是看不真切。}}\n{{对话|使者|广陵若不想交易，袁氏也不介意把粮草转卖彭城！|头像=侍从}}\n{{对话|陈登|袁氏和广陵说是联手抗曹，到底联手在哪？三千石粮草换五百车盐，广陵吃的亏够多了！|头像=陈登}}\n{{对话|使者|白盐四季都有，粮食只有两季，到底谁在吃亏？！|头像=侍从}}\n{{旁白|两声哗然，双方同时掀桌。}}\n\n{{旁白|【谒舍】}}\n{{对话|袁基|嗓子哑了吧？尝尝这种茶。是最近从南越送来的花茶。}}\n{{对话|我|呼……咳咳……嗓子松快了好多。|头像=广陵王-微笑}}\n{{对话|袁基|手没事吧？刚才你那边掀桌，案角好像刮到了你的手背。}}\n{{对话|我|我没事。刚才你那个“切肤之痛般地感受到了”，我可学会了。|头像=广陵王-摇头}}\n{{对话|袁基|哈……刚才殿下是不是和陈登约好了掀桌，想最后再逼一逼？}}\n{{对话|我|你是不是也和你的人这样说？哈……|头像=广陵王-微笑}}\n{{对话|袁基|没办法。今年大荒，粮食太贵了，贱卖的话没法和二弟交代。}}\n{{对话|我|懂。不过跟你谈判好难，我身边没有擅长谈判的人才，方才差点让你赢了。|头像=广陵王-点头}}\n{{旁白|他抱着杯盏，舒了口气。茶烟后，那双温润的眼眸暧昧不清。}}\n{{对话|袁基|真的？殿下在谈判席上，风格是以退为进，游刃有余，很是老辣。}}\n{{对话|我|哪里游刃有余？徐州可是快被曹操逼到绝境了。袁基，现在这没有旁人，说说你心里的价。|头像=广陵王-严肃}}\n{{对话|袁基|这……粮价起伏大，又是乱世，谁心中能有公价呢……}}\n{{旁白|我也抱着杯盏，挪近了他。两杯茶的烟雾交织在一起，仿佛半透屏风，掩住我们的眼神。}}\n{{对话|我|我跟你说实话。加一点……也不是不可以。|头像=广陵王-微笑}}\n{{对话|袁基|实话？}}\n{{对话|我|嗯，实话。|头像=广陵王-点头}}\n{{对话|袁基|那，加这个数……说实话，我也好回去给二弟交代了。}}\n{{旁白|他的指尖在我掌心写了几个字。我微微睁大眼睛。}}\n{{对话|我|实话？|头像=广陵王-惊讶}}\n{{对话|袁基|嗯，实话。}}\n{{对话|我|这就没劲了。袁公子竟是个这样没劲的人？你看，这个价……行不行？|头像=广陵王-无语}}\n{{旁白|我在他的手心写了新的条件。袁基苦笑，无奈叹气。}}\n{{对话|袁基|殿下是宗亲，袁氏是臣，当亲王的，多少要给臣子留一口饭。}}\n{{对话|我|你袁氏一日二食，能吃几口饭？|头像=广陵王-严肃}}\n{{旁白|我拉住他的手，按在自己的手背上。}}\n{{对话|我|粮食不足，我也只敢一日二食了……我是不是瘦了？|头像=广陵王-难过}}\n{{对话|袁基|殿下……罢了，那“这样”……行不行？}}\n{{对话|袁基|最少只能“这样”了。不然本初要和我断绝关系了。}}\n{{对话|我|弟弟长大了都要分家搬出去的，你不要太舍不得他们。“这样”如何？就“这样”。|头像=广陵王-摇头}}\n{{对话|袁基|“这样”……加“这样”，怎么样？}}\n{{旁白|我们不断在对方手上写写画画、讨价还价。}}\n{{旁白|每一个“这样”，都像细剑抵着对方咽喉，逼对方退后，或是撞剑穿喉。}}\n{{对话|我|这样……|头像=广陵王-微笑}}\n{{旁白|我的手指从他的手心，写到了他的肩膀。}}\n{{对话|袁基|真是的……这个价，都让人不敢应声了。}}\n{{对话|我|那……这样？|头像=广陵王-惊讶}}\n{{旁白|我的指尖，落在他的胸口，轻轻写下字迹。}}\n{{对话|袁基|……实在是……不好给本初交代。}}\n{{对话|我|怎么总想着家人呀？也该想想自己。|头像=广陵王-微笑}}\n{{对话|袁基|此刻的心里只想着……}}\n{{对话|袁基|……殿下瘦了。}}\n{{旁白|他的指尖，落在我的衣带上，在织锦上缓缓滑动……}}\n{{对话|袁基|心乱如麻……除此之外，什么都无力去想。}}\n\n{{旁白|【谒舍客房】}}\n{{对话|我|外面怎么了？有些吵闹……|头像=广陵王-惊讶}}\n{{旁白|今晨，我与他共用早膳。外面不知为何有些吵闹。}}\n{{旁白|内室没有侍从，袁基正打算起身，亲自出去查看。}}\n{{对话|我|你这样走出去，别人会怀疑你私下给了我“交代”。|头像=广陵王-微笑}}\n{{对话|袁基|既是两厢情愿的交代，如何见不得人？}}\n{{对话|我|哈……袁氏要是担心你徇私，可怎么办呀。|头像=广陵王-微笑}}\n{{对话|袁基|广陵王殿下和袁氏长公子说定的事，就是广陵和袁氏说定的事，何来徇私？}}\n{{对话|我|……那我还有句话叮嘱你。|头像=广陵王-微笑}}\n{{旁白|我拽过他的衣袖，撩开他衣襟，用指甲在他胸口划下几个字。}}\n{{对话|我|今天谈判可要摸着良心说话，本王的名字在你心口盯着你呢。记住了？|头像=广陵王-微笑}}\n{{对话|袁基|记住了……}}\n{{对话|小若|公子！公子！不好了！于君出事了！|头像=黑人影}}\n\n\n{{旁白|【随从客房】}}\n{{对话|侍卫|到底是谁干的……|头像=士兵}}\n{{对话|侍卫|会不会曹军那边的细作干的？|头像=宫女}}\n{{旁白|于君，袁氏一方的使者，被发现死于客房中，胸口插着一把短刀 。}}\n{{对话|小若|于君被杀了，侍卫都没听见动静。长公子，会不会是孙氏的刺客……|头像=黑人影}}\n{{对话|袁基|孙氏虽然已与袁氏决裂，但不至于行刺……}}\n{{对话|我|孙氏？|头像=广陵王-严肃}}\n{{对话|小若|那个孙策之前……|头像=黑人影}}\n{{对话|袁基|小若，殿下自有判断，不要生事。}}\n{{对话|小若|可、可是他之前给袁氏寄了那样的信……我看不下去！|头像=黑人影}}\n{{对话|我|什么信？|头像=广陵王-惊讶}}\n{{对话|袁基|……一些……血气方刚的话，殿下实在不必听。}}\n{{对话|小若|说不出口，殿下直接看吧！|头像=黑人影}}\n{{对话|我|你居然随身带着……我看看。“□□□□，□□□□□□□，□□□”……|头像=广陵王-惊讶}}\n{{对话|小若|长公子不要听！是恶言恶语！|头像=黑人影}}\n{{旁白|心理|确实风格鲜明。但怎么看都是单纯的骂战吧……}}\n{{旁白|心理|嫌疑更大的是曹操。也许他想借着于君被刺之事，破坏广陵与袁氏的交易……}}\n{{对话|我|彻查此事。以及加强守卫，确保宾客的安全。|头像=广陵王-严肃}}\n\n{{旁白|【书房】}}\n{{旁白|因为使者被刺，交易不得不中止。深夜，我召集数名心腹在绣衣楼密室相谈。}}\n{{对话|我|之前曹军那边有间谍潜伏在这，我让你留下她，暗中调查她的上线。她不在这次的嫌疑人之中？|头像=广陵王-严肃}}\n{{对话|雀使|是。袁氏的宾客事关重大，所以在袁基到来前，我就让人借故将她调离谒舍附近了。}}\n{{对话|雀使|事发当夜，她整夜都在女官值更室，没有机会去谒舍行刺。刺客不是她。}}\n{{对话|我|明白了……那使者死后，她有动作吗？|头像=广陵王-点头}}\n{{旁白|云雀点头，将案上的匣子打开。里面是一枚蜡丸，蜡丸中，藏着极薄的丝帛密信。}}\n{{旁白|心理|“袁使被刺”……仅此四字而已。究竟是单纯的例行汇报，还是行动成功后的汇报？}}\n\n{{嵌套分歧|头}}\n{{嵌套分歧|调查间谍|1}}\n{{嵌套分歧|安抚袁氏|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|派人加强监视，别打草惊蛇。她的密信用新的蜡丸装好，照旧送回曹营。|头像=广陵王-严肃}}\n{{对话|我|至于嫌疑人范围中的几人，趁他们落单时带去蛾部查问。做隐秘些。|头像=广陵王-严肃}}\n{{对话|雀使|我安排伍丹去办。}}\n{{对话|我|此事要慎之再慎。还有，陶谦从彭城派来的货车，最近不要查验了。|头像=广陵王-严肃}}\n{{对话|雀使|属下记住了。}}\n{{旁白|安排完事务，云雀带人离开了密室。我独自在室内等待。}}\n{{旁白|心理|……来了。}}\n{{旁白|轻而又轻的脚步声，来到了门外。}}\n{{对话|我|你来了。他睡下了吗？……哈……我和他？我和他挺好的。私情是私情，公务是公务。|头像=广陵王-微笑}}\n{{对话|我|……哦……原来如此。他也有这样的心思。那你觉得呢？……回避什么？直说便是了。|头像=广陵王-严肃}}\n{{对话|我|……他倒是不避讳你。不，他可能也在试探你。|头像=广陵王-严肃}}\n{{对话|我|……唉。赌吧。毕竟和袁公子猜心，还是很有意思的。|头像=广陵王-严肃}}\n{{旁白|脚步声离开了。}}\n\n\n{{旁白|【红梅院】}}\n{{对话|我|你神色不好，昨夜没睡好吗？|头像=广陵王-惊讶}}\n{{对话|小若|我们长公子昨夜发了梦魇。袁氏的使者死了，凶手又没找到……|头像=黑人影}}\n{{对话|袁基|别说这种话，让殿下操心。}}\n{{对话|我|嫌犯的身份，已经稍有眉目了。只是想抓活口，所以尚未收网。|头像=广陵王-微笑}}\n{{对话|袁基|那真是太好了。尽快找到真凶，粮草的谈判也可以尽快继续……}}\n{{对话|我|放宽心吧。今日午膳准备得很丰盛，袁氏一日二食，我可不想把长公子饿瘦了。|头像=广陵王-微笑}}\n{{旁白|我们相视一笑。今日天气好，是难得的暖冬日，我让人在红梅院布置食案。}}\n{{对话|小若|长公子，先等一下……让它们先尝。昨日二公子在信里嘱咐的……|头像=黑人影}}\n{{旁白|侍从取出一个竹笼，里面有只小灰鼠。}}\n{{对话|袁基|太失礼了，快收起来。}}\n{{对话|我|谨慎是应当的。本王也不希望长公子在广陵出事。|头像=广陵王-微笑}}\n{{旁白|侍从将饭菜各盛了一些，喂给那只灰鼠。紧接着……}}\n{{对话|我|！！！|头像=广陵王-微笑}}\n{{对话|袁基|！！！}}\n{{对话|侍卫|饭菜有毒！保护主人！！！将食官扣下！！！|头像=士兵}}\n\n{{旁白|【书房】}}\n{{对话|侍卫|膳房的食材、人员都排查完了，在沟渠里发现了食官的尸身，不确定是自杀还是……|头像=士兵}}\n{{对话|我|别在贵客面前说这些。去雀部汇报吧，这几日都要谨慎。|头像=广陵王-严肃}}\n{{对话|我|袁基，你还好吗？|头像=广陵王-严肃}}\n{{对话|袁基|……无事。反倒是殿下，切勿太过忧虑。}}\n{{对话|袁基|相比曹操，袁氏是全然站在广陵这边的。}}\n{{对话|我|这几日，你也只能“站”在广陵这边，与我同吃同住了。若有风险，我与你共担。|头像=广陵王-严肃}}\n{{对话|袁基|殿下乃千金之体，不该为我涉险。刺客身份不明，还是应该……}}\n{{对话|我|嘘。|头像=广陵王-严肃}}\n{{旁白|我凑近他身前，伸手抵住他的嘴唇。}}\n{{对话|我|……我还是比较喜欢你昨夜的样子，那种……真实的失态。|头像=广陵王-微笑}}\n{{对话|袁基|……}}\n{{对话|袁基|……真实的东西，就像未曾敷粉的面容一样……}}\n{{对话|袁基|有细纹、有斑驳……有许多的不堪，真的不想让殿下看见那些。}}\n{{对话|袁基|局有城府，情无真假。无论如……唔！}}\n{{旁白|我堵住了他的双唇，拽下窗上垂帘。竹丝帘瞬间掩去半室光华，只留下暧昧含糊的形影。}}\n{{对话|我|袁基啊……袁基……你觉不觉得，我们这样很有趣？|头像=广陵王-微笑}}\n{{对话|袁基|殿下本就是个有趣的人……}}\n{{对话|我|我是说，明明都是背手执刀，不知为何，和你猜心别有风情……唔……|头像=广陵王-微笑}}\n{{旁白|他反过来吻住我。}}\n{{旁白|青竹香气暗涌，口齿交缠间，发出宛若蛇身游走的轻响……}}\n\n{{嵌套分歧|头}}\n{{嵌套分歧|继续|1}}\n{{嵌套分歧|停止|2}}\n{{嵌套分歧|抢主动权|3}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|还什么“君子”呢，光天白日的……哈……|头像=广陵王-冷笑}}\n{{对话|袁基|人不可见，天不可见，为何不能顺心而为？}}\n{{对话|我|君子慎独啊，就算是在没有旁人的场合，不也要遵循礼数吗？|头像=广陵王-微笑}}\n{{对话|袁基|可是，此地此刻并非只有我独身一人。}}\n{{对话|袁基|既非独身一人，何来慎独……}}\n{{旁白|老旧的木地板上发出闷响。我们倒落在地，繁复的衣物像层层软垫，松软地垫在下方。}}\n{{对话|袁基|昨夜知道了一些事，简直是心如刀绞……}}\n{{对话|我|心……哎呀，我刻在你心口的名字，还有点红痕呢。|头像=广陵王-惊讶}}\n{{对话|袁基|像木地板一样，人心很容易留下伤痕的。}}\n{{对话|我|这话就不知所云了。我可是很敬重长公子了，哪里伤过你的心？|头像=广陵王-微笑}}\n{{旁白|他凑在我耳边，轻轻说了一句话。话语落在失去掩盖的躯体间，变得隐秘而绵长。}}\n{{对话|我|哈……地板嘎吱嘎吱的声音太响了，我听不清……|头像=广陵王-微笑}}\n{{旁白|他将唇贴在我心口，双唇微动，重复了一遍那句话。}}\n{{对话|我|好啊！你在我身边安了间谍！|头像=广陵王-严肃}}\n{{对话|袁基|试试让第三、五、七个字的发音圆一些、有点颤动的感觉，半惊半怒的感觉会更真实。}}\n{{对话|我|唔……好啊！你在我身边安了间谍！|头像=广陵王-微笑}}\n{{对话|袁基|殿下待袁氏的人好，袁氏也会待殿下的人好。礼尚往来……}}\n{{对话|我|……哎呀，被发现了呀……|头像=广陵王-汗颜}}\n{{对话|袁基|本初想杀，我留他了。}}\n{{对话|袁基|就算是间谍，也是殿下送给我的。我会好好保护他的。}}\n{{对话|我|袁公子送我的间谍，也是精挑细选的人才。不做间谍的时候，工作也很细致。|头像=广陵王-微笑}}\n{{旁白|他低低笑了，将头枕在我胸口，也在我心口的皮肤上描摹自己的名字。}}\n{{对话|袁基|是啊……是个稳重可靠的人。所以，昨夜他告诉我殿下的计划时，我是真的伤心了。|头像=袁基}}\n{{对话|袁基|……为何要在我的饭菜里下毒？|头像=袁基}}\n{{对话|我|哪是什么毒，是醒酒药罢了……吃下去只是会略微反胃，让你以为自己中毒。|头像=广陵王-摇头}}\n{{对话|袁基|殿下这样做，是为了威吓？|头像=袁基}}\n{{对话|我|才不是呢。我是为了……|头像=广陵王-微笑}}\n{{旁白|我抓住他的手，将头靠在他的掌心，含笑望着他。}}\n{{对话|我|……我是为了确定，你在我身边留的间谍是谁。|头像=广陵王-微笑}}\n{{对话|我|安插间谍也不跟人家说一声……我怕亏待袁公子的人，只能这样一个个去试。|头像=广陵王-微笑}}\n{{旁白|他眸色平静，了然了我的做法。昨夜，我故意让“毒杀”计划被某个密探知晓。}}\n{{旁白|——如果计划暴露，这个密探的间谍身份也随之坐实。}}\n{{旁白|整个广陵都在找“曹操的间谍”，在这片混乱之中，我想顺带清查袁氏的间谍。}}\n{{对话|袁基|辛苦殿下……啊，先别动……你突然动，吓了我一跳。}}\n{{对话|我|我哪里吓得到你？你顺水推舟，自己给自己下剧毒，还把我吓了一、跳……|头像=广陵王-无语}}\n{{对话|袁基|啊…………！}}\n{{旁白|他摁住我的肩膀，神情微微变得难耐；木地板重重嘎吱一声，掩盖了他喉间的呻吟。}}\n{{对话|我|说。为什么？|头像=广陵王-微笑}}\n{{对话|袁基|殿下不是已经明白了吗……唔！}}\n{{对话|袁基|……别乱动，很危险的。}}\n{{对话|我|我让医师在外预备着，断了会给你缝回去的。|头像=广陵王-微笑}}\n{{对话|袁基|真是让人心向往之的医术——呃！殿下！！！}}\n{{对话|我|身体虽然在谈私事，脑子还是得谈公务呀……你给自己下毒，为什么？|头像=广陵王-无语}}\n{{旁白|被汗水津润的眼角和额角闪着微光，春意缱绻的眼眸深处沉着冷意，带着丝丝幽怨，裹着我的双眸……}}\n{{对话|袁基|想抽身出来……}}\n{{对话|袁基|……属于袁氏的袁基，想暂时从袁氏中抽身出来……}}\n{{对话|袁基|……若不抽身而退……那这次来广陵，就真的只谈公务了。}}\n{{对话|袁基|只有这样做，才能被你留在身边，肆无忌惮地享乐片刻……}}\n{{对话|我|……你真是疯了……|头像=广陵王-微笑}}\n{{对话|袁基|就当是片刻的幻梦吧……}}\n{{对话|袁基|人在幻梦里，本就是欲海里的疯子。}}\n\n{{旁白|【寝室】}}\n{{对话|袁基|……外面的水声，是侍从们在准备汤沐的水吗？|头像=袁基}}\n{{对话|我|说不定是准备一锅煮你的沸水……把你煮到骨头酥烂，方便毁尸灭迹。|头像=广陵王-微笑}}\n{{对话|袁基|呵呵……可惜，在下连逃也不想逃了。}}\n{{旁白|被揉烂的席子，已经难以与绸衣区分。我懒懒翻过身，趴在软垫上看他的侧脸。}}\n{{对话|我|不知不觉，就在彼此身边空耗了一天啊……|头像=广陵王-微笑}}\n{{对话|我|才回过神来，我上当了……为了“保护”被下毒未遂的袁公子，必须得像这样，日夜陪着你。|头像=广陵王-微笑}}\n{{对话|袁基|有殿下的细心“守护”，袁氏使团在广陵一定能平安无事。}}\n{{对话|袁基|今夜的雪月真是明亮……你看，窗外的松枝和竹影，被照得一清二楚。}}\n{{旁白|他侧身拥住我，长长叹了口气。我望着那片纸窗雪光，不禁轻笑。}}\n{{对话|我|今雪“何”来兮，梦“云”泽。|头像=广陵王-微笑}}\n{{对话|袁基|……问雪何“原”兮，自“乌”江。}}\n{{旁白|何、云。}}\n{{旁白|原、乌……}}\n{{旁白|——何俊、云峥，是他在我身边安插的间谍。}}\n{{旁白|——原华、乌吉，是我在他身边安插的间谍。}}\n{{对话|袁基|殿下还有下一句吗？}}\n{{对话|我|我如何还能有？袁公子呢？还有下一句吗？|头像=广陵王-摇头}}\n{{对话|袁基|才疏学浅，尚未想出下一句。}}\n{{对话|我|那就权当它只有两句，如何？|头像=广陵王-微笑}}\n{{旁白|他拉起我的手，盖在他的心口。我那夜用指甲留下的划痕，只余下最后一丝残红。}}\n{{对话|袁基|有的时候，真的很苦恼……}}\n{{对话|袁基|总在这种事情上心有灵犀……意识到的瞬间，惊心动魄。}}\n\n{{旁白|【红梅院】}}\n{{旁白|雪还在落。}}\n{{旁白|很深的夜里，雪落得格外凶恶，像是无数层白雾屏风，掩盖了世上所有人的真容。}}\n{{对话|我|他睡了。出来吧。|头像=广陵王-严肃}}\n{{对话|我|乌吉被他查出来了。他是为了掩护你的存在……但是，也许只是袁基希望我这样以为。|头像=广陵王-严肃}}\n{{对话|我|默许对方的间谍留在自己身边，也算是一种示好吧。他若默许，你就继续留下。|头像=广陵王-严肃}}\n{{对话|我|礼尚往来，他在我身边留的最后一个人，我也会默许。毕竟……有些事，要靠你们来传递……|头像=广陵王-严肃}}\n{{对话|我|……去吧。去安排汤沐。他睡得很浅，后半夜若是醒了，汤沐一下会舒服些。|头像=广陵王-微笑}}\n{{旁白|暗处的人无声离开。浅浅的足迹，迅速湮灭在风雪之中。}}\n\n{{旁白|【广陵王府】}}\n{{旁白|数日后……}}\n{{对话|广陵尉|前镇粮草的清点已经完毕，除去部分受潮的粮米，粮草总数无误。|头像=帅武将}}\n{{对话|我|此次可谓是皆大欢喜。袁氏得到白盐，广陵不仅得到粮草，也查到了数名曹军间谍。|头像=广陵王-微笑}}\n{{对话|袁基|广陵能安然越冬，在下也安心了。}}\n{{旁白|他向我行礼。车马已备，袁氏的人即将启程离开了。}}\n{{对话|袁基|此次一别，怕是要来年再见了。望殿下保重。}}\n{{对话|我|也望袁氏众人一路顺遂。|头像=广陵王-微笑}}\n{{对话|袁基|诸位都上车吧。准备启程。}}\n{{对话|我|侍从，替长公子把保暖的毡帘挂上，别让雪灌进去。|头像=广陵王-微笑}}\n{{对话|小若|是。|头像=黑人影}}\n{{旁白|侍从利落地挂上绒毡，袁基的面容被掩在阴影之后。}}\n{{旁白|然后，少年回头看向我。平平无奇的眉目间，浮起一缕转瞬即逝的笑容。}}\n{{旁白|'''恭喜达成结局【大隐于侧】'''}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|还没到时候……现在可是白日，你刚刚被下毒未遂。|头像=广陵王-严肃}}\n{{旁白|他浅笑着，将额头抵在我额上。外面落起小雪，喘息声与雪落声混杂一处，听不真切。}}\n{{对话|袁基|殿下打算从何查起？}}\n{{对话|我|袁氏使者于君被刺身亡，你被下毒未遂。动手的应该不是一个人，但却可能是同一个势力。|头像=广陵王-严肃}}\n{{对话|我|目前几名嫌疑者，他们可能接触的是……|头像=广陵王-严肃}}\n{{对话|雀使|楼主，你在书房里吗？属下有要事汇报。|头像=雀使}}\n{{对话|我|我知道了……啊！|头像=广陵王-难受}}\n{{旁白|腰上被什么重重勾了一下；踉跄半步，我不慎打翻了窗边的花瓶——}}\n{{旁白|心理|衣带缠在一起了！}}\n{{对话|袁基|缠得好紧……打成死结了。}}\n{{对话|雀使|楼主？楼主？里面发生何事？|头像=雀使}}\n{{对话|侍卫|朱女官，怎么了？|头像=士兵}}\n{{对话|雀使|我有要事回禀，可书房里似乎出事了……|头像=雀使}}\n{{对话|侍卫|会不会是刺客？！来人！保护殿下！|头像=士兵}}\n{{对话|我|袁基，去那里……|头像=广陵王-微笑}}\n{{旁白|我拽着打结的腰带，带他跌跌撞撞进了一旁的隔间；进入隔间的霎那，侍卫们进了书房……}}\n\n{{旁白|【隔间】}}\n{{旁白|无光的狭小隔间里，我们紧挨着彼此。心跳、气息，也在这咫尺之间无限放大。}}\n{{对话|侍卫|殿下不在里面吗？|头像=士兵}}\n{{对话|雀使|我刚才还听见楼主的声音……花瓶碎了，四周没有血迹和打斗痕迹……|头像=雀使}}\n{{对话|侍卫|糟了！殿下会不会被掠走了？|头像=士兵}}\n{{对话|袁基|呵……咳。}}\n{{对话|我|嘘。快把衣带解开……|头像=广陵王-严肃}}\n{{旁白|他的手指钩住衣带的死结，黑暗中，我看不见他的动作，只能听见外面人的声音……}}\n{{对话|侍卫|朱女官，你是不是有急事找殿下？|头像=士兵}}\n{{对话|雀使|有人认罪了……|头像=雀使}}\n{{对话|侍卫|那不是好事吗？这就破案了呀。|头像=士兵}}\n{{对话|雀使|……不，事情更复杂了。|头像=雀使}}\n{{对话|袁基|啊……是不是解反了？好像缠得更紧了。}}\n{{对话|我|全都缠在你的组玉佩上了……啊，小心！|头像=广陵王-惊讶}}\n{{旁白|繁复的组玉佩碰出轻响，我们连忙把它捏住，两人的手不约而同紧握在一起。}}\n{{对话|雀使|那边隔间是不是有什么声音？|头像=雀使}}\n{{对话|侍卫|有吗？我没听见……朱女官你看，窗台有痕迹。|头像=士兵}}\n{{对话|侍卫|对了，认罪的人是谁啊？|头像=士兵}}\n{{对话|雀使|是个中年仆役，声称自己要向袁氏复仇，于是策划了刺杀和下毒。|头像=雀使}}\n{{对话|侍卫|不是曹操的间谍？这样可不妙，如果是曹军间谍，那广陵和袁氏就是同仇敌忾；如果不是……|头像=士兵}}\n{{对话|雀使|那就是广陵王府守卫使者不力，错在我方。谈判的时候，就会很被动……|头像=雀使}}\n{{对话|雀使|仆役是被收买的棋子，招供的事情有限……至少证明背后有主使，事情还有转机。|头像=雀使}}\n{{旁白|叮。玉佩又碰出一声轻响。还好，有个侍卫同时打了个喷嚏。}}\n{{对话|我|……有意思。真有意思。|头像=广陵王-严肃}}\n{{对话|我|袁基，你觉得他背后的主使是谁？|头像=广陵王-微笑}}\n{{对话|袁基|预设一个敌人，是很危险的。}}\n{{对话|我|提前除掉预设的敌人，不就能彻底解决潜在的危险了吗？|头像=广陵王-微笑}}\n{{旁白|一阵疾风穿过庭院，抖落树上千层积雪，雪声满天地。}}\n{{旁白|同时玉声叮当——我抽走他的组玉佩，连同衣带一起扯落。衣带勒住他的颈脖，我将他摁倒在地……}}\n{{对话|袁基|——呃！}}\n{{对话|我|……设这个圈套，是为了打压谈判中的对手？|头像=广陵王-严肃}}\n{{旁白|他说不出话，昏暗中，那双眼眸只有幽幽的碎光。}}\n{{对话|袁基|呃……咳……咳咳……}}\n{{对话|我|嘘。|头像=广陵王-严肃}}\n{{对话|侍卫|殿下似乎不在书房……院中有吗？|头像=士兵}}\n{{对话|侍女|也不在院子里……|头像=宫女}}\n{{旁白|被勒紧的喉咙，难以说出完整的话语；他的手却没有挣扎抵抗，而是抚上我的脸庞……}}\n{{对话|我|他们随时可能拉开隔间门……你猜，他们会看见什么？|头像=广陵王-微笑}}\n{{对话|袁基|……哈……}}\n{{对话|袁基|…………哈……哈……}}\n{{旁白|窒息中逐渐混沌的意识，让他露出了迷乱笑意。那双手向下流连，滑过我的颈脖。}}\n{{旁白|沿着松散的衣襟，它如同蛇躯，环绕我的腰身。}}\n{{旁白|礼数胡乱崩坏，生死山峦崩塌。痉挛的指尖，含着最后的力气在我背后留下抓痕……}}\n{{旁白|下一刻，光亮骤然从拉开的纸门外射入——}}\n{{对话|雀使|殿下在这——噫！！！！！！|头像=雀使}}\n{{旁白|门瞬间又被拉上。}}\n\n{{旁白|【寝室】}}\n{{对话|我|……真是的……没轻没重……|头像=广陵王-无语}}\n{{对话|我|嘶！轻点。我让她们把磨指甲的匣子拿过来了，你待会去廊下磨一磨吧。|头像=广陵王-无语}}\n{{对话|袁基|左侧敷完药了。还有右侧……忍一忍，我会尽量轻的。|头像=袁基}}\n{{对话|我|现在知道轻了……背上的抓痕，不知道要多久才能消下去。|头像=广陵王-无语}}\n{{旁白|淡淡药香之中，我们不约而同笑出了声。}}\n{{旁白|他替我处理完背后的抓痕，披上了中衣……}}\n\n{{旁白|【密室】}}\n{{对话|雀使|所以，是袁氏临时收买仆役自称刺客，来打压谈判对手、抬高粮草的价码。}}\n{{旁白|我收起手里的密信。彭城那边又有几支车队出发了，运的还是秸秆。}}\n{{对话|我|袁氏抬高粮价，我出不起价，别无选择，就只能赊借别的东西——盐场。|头像=广陵王-严肃}}\n{{对话|我|彭城的陶谦在往这边运秸秆……晒盐需要大量秸秆铺地，估计是在为接管盐场做准备。|头像=广陵王-严肃}}\n{{对话|雀使|所以是袁氏和陶谦联手。袁氏得到盐场，由徐州牧陶谦代管，共分鱼肉？}}\n{{对话|雀使|既能高价卖出粮草，又得到了盐场这个一本万利的东西……真是好算盘。}}\n{{对话|我|那你可想过，袁氏为何要用这个必破之局？|头像=广陵王-严肃}}\n{{对话|我|收买杂役顶罪，他必定会被审问。贪财之人无法守口如瓶，这个局，是瞒不住的。|头像=广陵王-严肃}}\n{{对话|雀使|是啊……这是我唯一想不通的地方。}}\n{{对话|我|云雀，你如今看到的是什么局面？|头像=广陵王-严肃}}\n{{对话|雀使|袁氏弄权，袁氏与广陵的交易几乎破裂，与陶谦联手压榨广陵。}}\n{{对话|我|你是雀部首座，知道内幕和仆人的供词。若是其他人，譬如曹军的间谍，她会看见什么？|头像=广陵王-严肃}}\n{{旁白|我拿起下一封密信。它是曹军内部的间谍传回的机密，曹军方才有动作，派出了一支夜行军。}}\n{{对话|我|——会看见广陵和袁氏的粮草交易谈判破裂，而陶谦不断向广陵派来货车。|头像=广陵王-严肃}}\n{{对话|我|曹军的参谋会如何判断，这封密信已经证实了。云雀，跟我去一个地方，眼见为实。|头像=广陵王-严肃}}\n\n{{旁白|【长蛇谷山崖】}}\n{{旁白|山崖之上，袁氏的车马早一步等待在此。}}\n{{旁白|清影静立。我们的目光交错而过，如舔过蜜糖的舌尖，已知笑意。}}\n{{对话|我|久等了。|头像=广陵王-微笑}}\n{{对话|袁基|一切如殿下所料。曹军的参谋认为，货车里的是粮草。}}\n{{对话|袁基|他们判断，在与袁氏的谈判破裂后，殿下同陶谦冰释前嫌，转而向陶谦购买粮草。}}\n{{对话|我|所以他们认为，广陵收得粮草，陶谦的彭城粮草空虚。|头像=广陵王-微笑}}\n{{对话|袁基|“若奇袭彭城，则战果唾手可得”……一丝贪念，踏入末路。}}\n{{旁白|利用曹操的间谍，我们传去了最真实的“假情报”。}}\n{{旁白|就在刚才，曹操派出急行军向彭城进发。他们会途径此处名为长蛇的峡谷……}}\n{{对话|我|伏兵和滚石，已设在长蛇谷上两侧了吗？|头像=广陵王-严肃}}\n{{对话|袁基|一切安排稳妥。}}\n{{对话|袁基|无论设伏结果如何，此次与殿下的合作……我都会铭记在心。}}\n{{对话|我|与你演这一场戏，若能伏击成功，便可重创曹操……若是失败……|头像=广陵王-严肃}}\n{{旁白|我的指尖划过他颈脖的勒痕，他的手掌抚在我背上的抓痕。}}\n{{对话|袁基|那也死而无憾。}}\n{{旁白|'''恭喜达成结局【礼坏乐崩】'''}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|我将他压在纸窗上，反客为主，强行咬住他的脖颈。}}\n{{对话|袁基|哈……哈……殿下，纸窗——}}\n{{对话|我|你怕被人看见？|头像=广陵王-微笑}}\n{{对话|我|这里是广陵王府，你敢送上门，我就敢让你有去无回。|头像=广陵王-眯眼笑}}\n{{对话|袁基|——纸窗要破了……外面有人！}}\n{{旁白|在纸窗濒临破碎的瞬间，袁基终于认输，强行推开了我，死死扣住了窗棂。}}\n{{旁白|慌乱粗重的喘息声中，他的额发被汗水黏在脸颊上，双眼带着湿润的眼神注视着我。}}\n{{对话|我|……这样可不行呀，袁公子还是怕被人知道白日欢娱，损了名声啊。|头像=广陵王-微笑}}\n{{对话|袁基|哪里顾得上自己的名声，只是担心殿下的清誉。}}\n{{对话|我|本王要什么清誉？圣贤才要清誉去坐祠堂。|头像=广陵王-微笑}}\n{{对话|我|……你要清誉？那……我就不玷污公子的清誉了。|头像=广陵王-惊讶}}\n{{旁白|我松开他的衣带。松手的瞬间，他拉住了我的手。}}\n{{对话|袁基|……说好要一同沉入弱水的，凭什么独自先走？}}\n{{对话|我|因为不走的话，就会有人来了。|头像=广陵王-微笑}}\n{{对话|广陵文官甲|张义兄，关于今晚新的谈判，你这边准备得如何？|头像=男文人}}\n{{对话|广陵文官乙|真是愁人。发生了那么多事，又是刺杀又是下毒，袁氏肯定会伺机打压我方，要求抬价。|头像=文官}}\n{{对话|广陵文官甲|朱女官说，她那边会赶在谈判前给我们证据。但我又担心……|头像=男文人}}\n{{对话|我|嘘，外面都是人……|头像=广陵王-微笑}}\n{{旁白|窗外人影重重，都是等候接见的文官与谋士。我把他的衣带丢到捡不到的地方，两人一起滚落到书案后面……}}\n{{对话|袁基|唔……唔……|头像=袁基}}\n{{对话|我|不知道会不会有不懂规矩的人，偷偷戳破窗纸偷看里面……|头像=广陵王-微笑}}\n{{对话|袁基|！！！|头像=袁基}}\n{{对话|广陵文官甲|不知道殿下和袁氏长公子谈得如何了……粮草太重要了。|头像=男文人}}\n{{对话|广陵文官乙|殿下到底在不在书房啊？我支开窗子偷偷看一眼……|头像=文官}}\n{{旁白|窗棂微动。他的身躯微微颤抖了起来，带着为难的神色不断摇头……}}\n{{对话|袁基|不行……！}}\n{{对话|我|现在停下的话，我就看不清你的眼睛了。|头像=广陵王-微笑}}\n{{对话|我|文书都散了一地了……就算现在想停下也来不及了。你看，这文书上是我打算新开的交易条件……|头像=广陵王-微笑}}\n{{旁白|窗框动了动，那人第一次的窥探没有成功，被身边人拦下了。}}\n{{旁白|他掩住面容，深深喘息着。}}\n{{对话|我|把手拿开……不要怕，把手交给我。|头像=广陵王-微笑}}\n{{旁白|我抓住他的手腕，翻身换了个位置。他的手腕被按在地上，指尖不断颤动，充血变红。}}\n{{对话|广陵文官甲|怎么还没有来？算了，还是看一眼吧……|头像=男文人}}\n{{旁白|他的手指绷紧了，整齐的指甲掐进我的手背里，像是被蛇牙咬住……}}\n{{对话|雀使|人都到齐了吗？不要偷看书房，殿下不喜欢被人窥视，会大发雷霆的。|头像=雀使}}\n{{对话|广陵文官甲|啊，抱歉……|头像=男文人}}\n{{对话|我|怎么办，袁基，他们都要进来了……|头像=广陵王-汗颜}}\n{{对话|我|我们也要快一些……把我们的公事谈清楚。|头像=广陵王-微笑}}\n{{对话|袁基|殿下……想……呃……怎么谈……}}\n{{对话|我|很简单地按个手印，就算成交了。|头像=广陵王-微笑}}\n{{旁白|他想摇头，却被我吻住双唇，扣住手腕。}}\n{{对话|袁基|……呃！！！}}\n{{对话|我|嘘嘘嘘……轻些，十几个人在书房外……|头像=广陵王-微笑}}\n{{对话|袁基|唔！！！}}\n{{旁白|我捂住他的嘴，身下人像是扑岸瞬间的海浪，弓起，又沉寂。}}\n{{旁白|他的手指几乎陷进我的手背里，已经因为缺血而苍白。}}\n{{对话|袁基|………………}}\n{{旁白|胸口的起伏缓慢而深，蜿蜒在地的长发布满细汗。我吻掉他眼角无意识流的泪，从书案下挪出印泥……}}\n{{对话|袁基|……殿下在……做什么……}}\n{{对话|袁基|……呃……殿下——？！}}\n{{旁白|我已经按着他的手指，在写着交易条件的公事文书上盖了手印。}}\n\n{{旁白|【广陵王府】}}\n{{对话|小若|长公子！长公子慢些走！|头像=黑人影}}\n{{对话|袁氏侍从|这是怎么了呀？怎么突然要走……|头像=摊贩}}\n{{对话|袁氏文官|不是晚上还要谈判的吗？|头像=美型文官}}\n{{对话|袁基|……不用谈了。}}\n{{对话|我|袁基，等一下！袁基！|头像=广陵王-生气}}\n{{旁白|我快步追上袁氏的人群。双方的随从都不明所以，不知道是跟着还是阻拦。}}\n{{对话|袁基|今日不宜议事。殿下请回吧。}}\n{{对话|我|等等等等！还可以再谈的！|头像=广陵王-生气}}\n{{旁白|见他要登车，我一把拽住他袖子，揽住他的胳膊。}}\n{{对话|我|虽然按了手印，但也可以稍微再让你们一些……|头像=广陵王-汗颜}}\n{{对话|袁基|既然已经按了手印，就应该跟着殿下开的条件进行交易。不必再议了。}}\n{{旁白|袁基将手从我怀里抽出来，默默上了马车。他的侍从正打算跟上，被我按住肩膀，推到一侧。}}\n\n\n{{旁白|【马车】}}\n{{对话|我|马车真宽敞……当年你怎么说的？“殿下与袁氏有同车之缘”……看在同车之缘的份上，让我赔罪吧。|头像=广陵王-微笑}}\n{{对话|袁基|岂敢。}}\n{{对话|我|袁基……话别闷在心里。你是觉得没法向袁绍交代？我说了，广陵还能调整交易条件……|头像=广陵王-汗颜}}\n{{对话|袁基|殿下与在下做到这一步，仅仅是为了交易吗？}}\n{{对话|我|……哈，原来气这个呀。|头像=广陵王-惊讶}}\n{{旁白|我抓着他的手，贴在自己的心口，注视着他微寒的目光。}}\n{{对话|我|那你敢摸着良心起誓，你亲近我的举动没有一丁点为了利益？|头像=广陵王-严肃}}\n{{对话|袁基|……}}\n{{对话|我|只许你为了利益翻云覆雨，不许别人把你变成那团云？这可不公平。|头像=广陵王-微笑}}\n{{旁白|抱着他的手，我将头靠在他的肩上，轻轻摇晃着。}}\n{{对话|我|反正从一开始就不可能是纯然的爱慕……反正都混杂了利益熏心，何不让它混杂得艳丽些？|头像=广陵王-微笑}}\n{{对话|袁基|花开到至艳，则盛极而衰。|头像=袁基}}\n{{对话|我|既然是花，就迟早有开的那日，也有开败的那日。|头像=广陵王-微笑}}\n{{旁白|他垂下眼眸，一时无话。雪无声积在车顶，雪堆散落发出轻响。}}\n{{对话|袁基|……若我说，利益之心里也有纯然的爱慕，殿下信吗？|头像=袁基}}\n{{对话|袁基|那一瞬间，是真真正正以纯然爱慕之心与殿下亲近……|头像=袁基}}\n{{对话|袁基|放下了自己的利益之心，却措不及防，被另一颗利益之心撞得鲜血淋漓。|头像=袁基}}\n{{对话|我|那鲜血淋漓之后，你就重新用利益之心对我了，对吗？\n|头像=广陵王-微笑}}\n{{对话|我|那为何……不接受我修改条件的提议呢？既是利益之心，就该利益优先。|头像=广陵王-微笑}}\n{{对话|袁基|有谁希望被人以利益之心对待？既然已以纯然爱慕相待，便不会希望那人也受伤害。|头像=袁基}}\n{{旁白|我低低笑了，在宽大的马车里站到他面前，望着他的双眼。}}\n{{对话|我|若按你说是纯然爱慕，那就以纯然爱慕的方式赔罪，如何？|头像=广陵王-微笑}}\n{{对话|袁基|纯然的爱慕难以估价，又何来赔偿？}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|那本王就先行告退了。袁公子。请。|头像=广陵王-严肃}}\n{{旁白|我转身走向车帘处，准备离开马车。}}\n{{旁白|就在掀起车帘的前一瞬，我的袖角被身后的手攥住。紧紧地攥住……}}\n{{旁白|'''恭喜达成结局【折戟沉沙】'''}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n\n{{嵌套分歧|内容头}}\n{{对话|我|现场的调查有什么眉目吗？|头像=广陵王-严肃}}\n{{对话|雀使|凶杀发生在室内，结束得非常快，侍卫都没有听见声响。除此之外就是……}}\n{{对话|雀使|被刺的使者于君所住的客房，原是给袁基住的。}}\n{{对话|我|……原本被安排住在那的是袁基？|头像=广陵王-惊讶}}\n{{对话|雀使|是的。那处客房的南院在修葺，作为随侍，他要求与长公子交换住处。}}\n{{对话|我|……这一点着重关注。你暗中调查，小心里八华的介入。|头像=广陵王-严肃}}\n{{对话|雀使|楼主放心。除了楼主之外，我不会再轻信任何人。}}\n{{对话|我|让礼官小心招待袁氏使者……无论如何，确保明夜的谈判顺利进行。|头像=广陵王-严肃}}\n{{对话|雀使|楼主，恕我直言，谈判势必会被刺杀之事影响。广陵事先开的条件，袁氏恐怕不会满足。}}\n{{旁白|心理|这是必然的……只是不知他们会把价码抬到什么地步。}}\n{{对话|蛾使|楼主，负责谒舍的密探汇报了最新的消息。袁氏那边在商议撤回前镇的粮草。}}\n{{对话|我|……袁基发话了吗？|头像=广陵王-严肃}}\n{{对话|蛾使|他让随行的侍从传信回去给袁绍，但不知道信件内容。}}\n{{对话|我|拦下那封信，有没有可能？|头像=广陵王-严肃}}\n{{对话|蛾使|属下尽力。}}\n{{旁白|灯花爆裂，人言无声。我望着猝然明灭的火光，沉默片刻。}}\n{{对话|我|让食官准备些夜茶点，本王去谒舍，安抚一下袁氏。|头像=广陵王-严肃}}\n{{对话|雀使|现在这个时辰……？}}\n{{对话|我|他每天只睡一个时辰，离他入睡还早。让食官去准备吧。|头像=广陵王-点头}}\n\n{{旁白|【谒舍】}}\n{{对话|袁基|承让。}}\n{{对话|我|承让。说起来，你今夜也太客气了。|头像=广陵王-微笑}}\n{{对话|袁基|并非客套，在下棋艺不精，让殿下见笑。}}\n{{旁白|手谈数局，外面三更的更声敲响。他理好棋子，眼神似乎在询问我是否再开一局。}}\n{{对话|我|太耗心力了。深夜来找你，其实只想聊些犹豫不决的事。|头像=广陵王-微笑}}\n{{对话|袁基|身居高位，少有知心之人。殿下若不弃，我愿倾听一二。}}\n{{对话|袁基|越是私密与不堪的心事，越是需要与人倾诉。否则便会如毒火，焚烧五脏。}}\n{{对话|我|多么不堪都可以问？你会为我解答？|头像=广陵王-严肃}}\n{{对话|袁基|不敢当“解答”二字，不过是随心而论。}}\n{{对话|我|真的？你确定？|头像=广陵王-惊讶}}\n{{对话|袁基|殿下，请问。}}\n{{对话|我|——你为什么射我的副官？|头像=广陵王-严肃}}\n{{对话|袁基|……………………}}\n{{对话|我|袁基，你刚才那瞬间的眼神……没藏住，知不知道？它就像这样……上下震了震。|头像=广陵王-严肃}}\n{{旁白|他的手无意识地紧扣棋盘一角，颤抖转瞬即逝。}}\n{{旁白|我用双手合着他的手，微笑望着他。}}\n{{对话|我|除此之外我还想再问一个问题……|头像=广陵王-严肃}}\n{{对话|袁基|殿下想问的，与我想问的事，或许是同一件。}}\n{{旁白|他凑近我耳畔，低语了一句话……}}\n{{对话|袁基|……殿下神色如常，看来是已有觉察。不愧是绣衣校尉。}}\n{{对话|我|诡辩。|头像=广陵王-严肃}}\n{{对话|袁基|诡辩的规则就是，谁先挑明对方在诡辩，谁就失去了诡辩的机会。}}\n{{对话|袁基|再开一局好吗？或许某些棋局，本不需要耗费心力。}}\n{{嵌套分歧|头}}\n{{嵌套分歧|拿黑子|1}}\n{{嵌套分歧|拿白子|2}}\n{{嵌套分歧|盲棋|3}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|猜子之后，我执黑棋。}}\n{{对话|袁基|公平起见，我让殿下一子。}}\n{{对话|我|说起来，被刺杀的使者住的客房，原来是你的客房。|头像=广陵王-微笑}}\n{{对话|袁基|让人惋惜的巧合。}}\n{{对话|我|你没有加强守卫？于君被刺，很可能真的是巧合。刺客的目标，原本说不定是你。|头像=广陵王-严肃}}\n{{对话|袁基|广陵做东道主，我们无所畏惧。}}\n{{对话|我|本王会找到凶手，给你们一个交代。|头像=广陵王-点头}}\n{{对话|袁基|殿下这一步走得很妙……黑子后行，后发制人。}}\n{{对话|我|不如袁公子。白子先行，霹雳雷霆。那些粮草，是否已经从前镇撤回袁氏的粮库了？|头像=广陵王-微笑}}\n{{对话|袁基|这需要等本初来定夺。}}\n{{对话|我|……袁基，黑子局势险恶，让我一子。下一局峰回路转，我让你三子。|头像=广陵王-汗颜}}\n{{对话|袁基|也许本局之中，你我可以互相让子。但黑白厮杀，本无让子之说。}}\n{{旁白|我按住他即将落子的手，深深呼吸。}}\n{{对话|我|真不能让？|头像=广陵王-严肃}}\n{{对话|袁基|棋局规则所限，终有无能为力之处。}}\n{{旁白|我松开了他的手，停了此局，向他告辞。}}\n\n{{旁白|【地牢】}}\n{{旁白|幽暗的地牢中，偶尔会响起几声呜咽。}}\n{{旁白|我与阿蝉站在一处牢门前，望着牢内的人影。}}\n{{对话|我|刺客已经被抓住的事，多少人知道？|头像=广陵王-严肃}}\n{{对话|阿蝉|依照楼主的命令严格保密。只有我与两名蛾使知晓。四部首座都不知道。}}\n{{对话|我|你是曹操的人。原本想刺杀的，是袁基，对吗？|头像=广陵王-严肃}}\n{{对话|刺客|……|头像=黑衣人}}\n{{对话|我|一言不发，对威胁或奖赏都无动于衷，看来是忠心的死士。|头像=广陵王-严肃}}\n{{对话|刺客|给我一条绳索，我自行了断。|头像=黑衣人}}\n{{对话|我|蝼蚁尚且求生，我不逼你，壮士又何必求死？|头像=广陵王-摇头}}\n{{对话|我|阿蝉。|头像=广陵王-微笑}}\n{{旁白|阿蝉打开牢门，取来一壶蒲桃酒。我在他对面坐下，笑意柔和。}}\n{{对话|我|你一定是为了大义，才成为曹操的死士。|头像=广陵王-严肃}}\n{{对话|刺客|曹使君有匡扶汉室之志，与你这样的宗贼不同。|头像=黑衣人}}\n{{对话|我|每个人对这世道都有自己的认知，本王无意反驳你的认知。这杯酒先敬壮士的胆魄。请。|头像=广陵王-严肃}}\n{{旁白|他毫不畏缩，将酒一饮而尽。}}\n{{对话|我|不知在壮士眼中，袁氏是何等存在？|头像=广陵王-微笑}}\n{{对话|刺客|狼子野心，一丘之貉。|头像=黑衣人}}\n{{对话|我|那我若再给你一次刺杀袁基的机会呢？|头像=广陵王-微笑}}\n{{旁白|他冷眼看我，眼神如漆黑之冰。}}\n{{对话|我|你奉曹操的命令，前来刺杀袁氏要员，破坏袁氏与广陵的谈判。|头像=广陵王-微笑}}\n{{对话|我|任务的过程不重要，重要的是结果。你难道不想完成任务，替曹操贯彻大义吗？|头像=广陵王-微笑}}\n{{旁白|我接过阿蝉的布囊，推到他面前。}}\n{{对话|我|如何行事，壮士自行决断。|头像=广陵王-微笑}}\n\n{{旁白|【广陵王府】}}\n{{旁白|因刺杀之事，袁氏与广陵的粮草谈判暂停。今日，袁基与众人将启程离开广陵，回到袁氏的邺城。}}\n{{旁白|我与陈登送走他们，看着他们的马车消失在视野中。}}\n{{对话|陈登|他会如主公计划中那般行事吗？}}\n{{对话|我|……难料，不过……|头像=广陵王-严肃}}\n{{旁白|侍从牵着我们的马匹，来到我们身后。我和几名鸢使翻身上马。}}\n{{对话|我|我也不止安排了他一个。|头像=广陵王-微笑}}\n\n{{旁白|【前镇】}}\n{{旁白|前镇是袁绍军队驻军的前线重镇，负责补给与后勤。此刻，一列辎重车正在镇外集结。}}\n{{对话|军需官|快点清点完毕，这批粮草要撤回邺城！|头像=贵族中年男}}\n{{对话|军需官|小心护卫，不可出半点差错！|头像=贵族中年男}}\n{{对话|斥候|长官！长公子的车马已经到前镇外了！|头像=绣衣楼密探}}\n{{对话|守官|派人接应，通知二公子。|头像=西凉军丙}}\n{{旁白|一队甲兵森严守在辎重车两侧，固若金汤。我们在高处观测局势，能望见前镇的另一头的车队。}}\n{{旁白|那是袁氏的使者团。}}\n{{对话|阿蝉|……来了。|头像=阿蝉}}\n{{旁白|突然，一袭黑影从林中杀出，直直杀向袁基的马车——}}\n{{旁白|心理|那名死士，果然动手了。}}\n{{旁白|队伍顷刻大乱，前镇的守军吹响号角，冲去护卫；那刺客杀进马车，却中途停手——}}\n{{旁白|他的匕首断了。}}\n{{旁白|心理|我让鸢部在他兵器上做了手脚，此人之前能杀错目标，说明并不心细，不曾检查自己的兵器。}}\n{{旁白|转眼间，刺客已伏诛。然而从马车里掀帘而出的不是袁基，只是个随侍文官。}}\n{{对话|我|他用了替身……看来也有觉察和提防。|头像=广陵王-严肃}}\n{{对话|我|……不。有什么不对劲。|头像=广陵王-严肃}}\n{{对话|鸢使甲|楼主！情况有变！我们趁辎重守军前去救援的间隙去烧辎重车，车上却都是沙子！|头像=鸢使}}\n{{对话|我|………………………啧。|头像=广陵王-严肃}}\n{{对话|我|他算到了。撤退。|头像=广陵王-严肃}}\n{{旁白|我们无声迅速撤离原地。就在这时，心纸君传来伍丹的声音——}}\n{{对话|心纸君|楼主，有间谍趁楼主等人外出，纵火粮仓。|头像=小纸人}}\n{{对话|心纸君|他被抓住时断臂逃生，不见了踪迹。火势太大，粮仓救不回来了……|头像=小纸人}}\n{{对话|我|加强防卫。我们马上回来。|头像=广陵王-严肃}}\n\n{{旁白|【郊外】}}\n{{旁白|我们一行人夜行回城，离开了前镇。}}\n{{旁白|前方的侍卫突然勒马，他看见了前面的景象，回头请我示下。}}\n{{对话|我|夜黑风高，你与他们待在郊外，不怕劫匪吗？|头像=广陵王-严肃}}\n{{旁白|马车停在前方。他站在道边吹一支竹笛，虽是简单的调子，但笛声清越悠长。}}\n{{旁白|一曲吹罢。袁基将竹笛交给身边的侍从，向我行礼。}}\n{{对话|袁基|风清月明，心如明镜，黑暗便无需畏惧。}}\n{{对话|我|可是黑暗中无法瞄准猎物，你唯一防身的手段都没有了。|头像=广陵王-严肃}}\n{{对话|袁基|相比广陵，此地离袁氏驻军的前镇更近，殿下无需担心。}}\n{{对话|袁基|本是要回去的。可是行至半途，还是犹豫了……粮草的交易，其实完全不必中止。}}\n{{对话|我|为何？广陵还有存粮，还不用这么心急买粮。|头像=广陵王-惊讶}}\n{{旁白|他望着我的眼神微微动了，泛起很细碎隐秘的涟漪，化入黑暗。}}\n{{对话|袁基|粮草交易，不止有交易一个名目。}}\n{{对话|我|难道袁公子慷他人之慨，愿意把袁氏的粮草白送于本王？|头像=广陵王-惊讶}}\n{{对话|袁基|……三茶六礼，若是以送礼为名的相赠呢？}}\n{{对话|我|哈……|头像=广陵王-无语}}\n{{旁白|我没有下马，骑马慢慢接近他，居高临下望向他。}}\n{{对话|我|——我好失望啊，袁公子。|头像=广陵王-严肃}}\n{{对话|我|猜心正猜得如火如荼，结果你直接说不猜了，浇了本王一头冷水。|头像=广陵王-严肃}}\n{{对话|袁基|殿下，这是最后的机会。明日，所有粮草会被运回邺城；而曹操的军队，每日都在接近。}}\n{{对话|我|你以为，我的粮仓被烧了，没有退路了，是么？|头像=广陵王-微笑}}\n{{旁白|远方响起马蹄声。一个血淋淋的人勉强在马上支撑，朝这里赶来。}}\n{{旁白|——是那个断了手臂的纵火间谍。}}\n{{对话|间谍|长公子……广陵……广陵的粮仓有异……|头像=内监}}\n{{对话|间谍|我放了火才发现……里面不是粮草，都是秸秆！|头像=内监}}\n{{对话|袁基|…………哈……}}\n{{旁白|他了然一切，低头浅笑。}}\n{{旁白|——我也把粮仓里所有的粮食调换了，藏在了安全处。}}\n{{对话|我|……回去罢。袁基，月黑风高，人心如海，实在不必强行泅水。|头像=广陵王-严肃}}\n{{对话|袁基|是啊……都只是偶尔浮上水面，竭尽全力喘息罢了。}}\n{{对话|袁基|这局未尽，是我扰了殿下的棋兴。来日重开一局，愿陪殿下走到尽兴。}}\n{{旁白|'''恭喜达成结局【黑风孽海】'''}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|猜子之后，我执白棋。}}\n{{对话|袁基|白子先行。殿下。请。}}\n{{对话|我|请。我还以为，你今夜会早点入睡，毕竟白天太过混乱……|头像=广陵王-微笑}}\n{{对话|袁基|心内有事，难以安眠。}}\n{{对话|袁基|想起被害的于君……他所住的客房，原是给我的。若非临时调换住所……}}\n{{对话|我|人生无常，莫要自责。|头像=广陵王-严肃}}\n{{对话|我|使者被刺，明晚的谈判……看来是无法进行了。|头像=广陵王-摇头}}\n{{对话|袁基|本初那边，我会尽力为殿下争取。}}\n{{对话|我|场面话谁不会说。场面之下，广陵和袁氏决裂的消息，怕是已经以讹传讹了。|头像=广陵王-严肃}}\n{{旁白|心理|无论双方是否真的决裂，曹操都会伺机而动……}}\n{{对话|我|天更寒了……不知存粮还能支撑几日。|头像=广陵王-严肃}}\n{{对话|袁基|莫要忧心。此事我会安排。}}\n{{对话|我|如何安排？再如何，这批粮也不可能白送给广陵……|头像=广陵王-严肃}}\n{{对话|袁基|也许……有一种可能。}}\n{{旁白|他停下执棋的手，望着我的眼神，带着从未有过的光亮。}}\n{{旁白|——就像是距离自己的目标只差一步，只要再一伸手就能碰触到的那种……眸光。}}\n{{对话|袁基|如果，这些粮草顺理成章地变成你的所有物……}}\n{{对话|我|袁基。|头像=广陵王-严肃}}\n{{对话|我|你输了。|头像=广陵王-严肃}}\n{{旁白|他愣了一瞬，看向棋盘，旋即失笑。我也笑了，让他理好棋子。}}\n{{对话|我|天晚了，早些歇息吧。|头像=广陵王-微笑}}\n{{对话|袁基|殿下也是。请。}}\n\n{{旁白|【绣衣楼密室】}}\n{{对话|阿蝉|楼主。此次行动，随行者皆已到齐。}}\n{{对话|阿蝉|遵照楼主的命令，没有告知四部首座。}}\n{{对话|我|除了你与他们，无人知晓这场行动，确定吗？|头像=广陵王-严肃}}\n{{对话|阿蝉|是。}}\n{{对话|我|准备出发吧。|头像=广陵王-严肃}}\n{{对话|蛾使甲|方才斥候传回密信，曹军已有拔营的征兆。|头像=平民母亲}}\n{{对话|我|主力中军也在其中？|头像=广陵王-严肃}}\n{{对话|蛾使甲|是。三军皆有动作，全军进发广陵。|头像=平民母亲}}\n{{对话|我|明白了。陈登届时会安抚人心、坐镇广陵，不必担心。|头像=广陵王-点头}}\n{{对话|我|我们该出发了。|头像=广陵王-严肃}}\n\n{{旁白|【郊外】}}\n{{旁白|在数日疾驰之后，我们抵达了彭城西郊。}}\n{{对话|蛾使甲|曹军已抵达发干县。我们之后需要日夜策马，才能在他打下彭程之前抵达许县。|头像=平民母亲}}\n{{对话|阿蝉|让小沛据点的人准备三日的快马，与我们一同上路。}}\n{{对话|我|阿蝉，让众人歇息一刻。我们去那边说话。|头像=广陵王-微笑}}\n{{旁白|众人放马饮水，我带着阿蝉来到僻静处，确定四下无人。}}\n{{对话|我|她有传信回去吗？|头像=广陵王-严肃}}\n{{对话|阿蝉|昨日和前日，她传了两次情报回去。}}\n{{对话|我|信鸽不如鸢的速度快，算算时间，曹操的参谋应该今天收到第一封情报……|头像=广陵王-严肃}}\n{{旁白|透过树影，我们看向远处的蛾使。她和众人一起坐在火边休憩，看上去毫无异常。}}\n{{对话|我|……继续赶路，无论曹操会不会撤军，我们都去许县。|头像=广陵王-严肃}}\n{{旁白|天子刘协，目前御驾在许县。}}\n{{旁白|曹军主力如今正在前往徐州，许县密探回报，许县的防卫薄弱。}}\n\n{{旁白|【界碑】}}\n{{对话|阿蝉|楼主，前面。|头像=阿蝉}}\n{{对话|我|……真是有意思。|头像=广陵王-严肃}}\n{{旁白|在界碑古道的前方，停着一队车马。}}\n{{旁白|掀起的车帘后，那人正独坐饮茶。我们见到彼此，眼中都有笑意一晃而过。}}\n{{对话|袁基|真巧。不知殿下欲往何处？}}\n{{对话|我|袁公子又欲往何处？|头像=广陵王-微笑}}\n{{对话|小若|于君横死，长公子希望去见他的族人，亲自说明此事。|头像=黑人影}}\n{{对话|我|是吗？那他的族人居于何处？|头像=广陵王-惊讶}}\n{{对话|我|该不会是……许县吧？|头像=广陵王-严肃}}\n{{旁白|我下了马，微笑着迎向他。}}\n{{对话|我|还以为你会等我们抓到凶手，再前去吊唁。|头像=广陵王-微笑}}\n{{对话|小若|长公子说死者为大，不想让家属多等一日。况且，殿下现在不该在调查凶手的身份吗？|头像=黑人影}}\n{{对话|我|我是担心真的查下去，兜兜转转，查到什么不该查的。|头像=广陵王-严肃}}\n{{对话|袁基|刺客应是曹军的间谍，难道，还有其他身份吗？}}\n{{旁白|风从我们中间呼啸而过，像是将我们推远，又欲将我们席卷在一处。}}\n{{对话|袁基|半途重逢，殿下要再手谈一局吗？}}\n{{对话|我|让众人去水边休息吧，让马匹也饮水歇息。|头像=广陵王-微笑}}\n{{对话|阿蝉|是。|头像=阿蝉}}\n{{旁白|我与他身边的人逐渐散去。袁基将棋案摆在青石上，请我坐下。}}\n{{对话|我|你在摆残谱吗？|头像=广陵王-微笑}}\n{{对话|袁基|从前经过巴楚，在道旁见过一局残棋。}}\n{{对话|袁基|有趣的残局啊……黑白子同争一处生门，棋局偏在此处断了，不知夺取生门的是黑还是白。}}\n{{对话|我|若是非黑即白，就还能推测胜负；若是黑白同落……那就真真有趣了。|头像=广陵王-微笑}}\n{{对话|袁基|不管结果如何，在旁人眼中，黑子与白子的棋手都是对手。}}\n{{对话|我|譬如，曹操。|头像=广陵王-严肃}}\n{{对话|我|使者一死，在曹操眼中，广陵和袁氏交易破裂。广陵得不到过冬粮草，穷途末路。|头像=广陵王-严肃}}\n{{对话|袁基|所以他趁广陵“势弱”之时出兵了。偏偏这才是殿下的设计。}}\n{{对话|我|也是你的设计。|头像=广陵王-严肃}}\n{{旁白|三军出征，许县防卫薄弱。我们真正的目标，就像是迷雾后的日光，逐渐显露明晰——}}\n{{对话|我|——诱他出兵。然后奇袭许县，夺天子。|头像=广陵王-严肃}}\n{{对话|袁基|同车之缘，同道中人，殿下是知音。那夜想杀于君的，是你我双方的刺客。}}\n{{对话|我|我的刺客抵达谒舍时，发现他已经身亡。|头像=广陵王-严肃}}\n{{对话|我|死得干净利落，说明杀手是于君认识的人；侍卫毫无知觉，说明这是你特意的安排。|头像=广陵王-严肃}}\n{{旁白|——使者于君被刺杀，真凶是袁基的人。}}\n{{对话|袁基|我们走了同样的一步。现在，我们又走了同样的一步。}}\n{{对话|袁基|现在问题来了。现在的这一步，谁先得到“生门”？}}\n{{旁白|在他身后的林中，袁氏甲兵的铁甲在叶间漏光下闪烁。前镇的袁绍军隐秘行军，随他前往许县。}}\n{{对话|我|阿蝉。|头像=广陵王-严肃}}\n{{对话|阿蝉|过来。}}\n{{对话|蛾使甲|呃——放开我！|头像=平民母亲}}\n{{对话|我|她就是我的十万大军。|头像=广陵王-微笑}}\n{{旁白|袁基不认识这个陌生女子，笑意掩住困惑，并未答话。}}\n{{对话|我|她是曹操的间谍。我们奇袭许县营救天子的计划，她已经传回曹营了。|头像=广陵王-微笑}}\n{{对话|袁基|……}}\n{{对话|袁基|…………！！！}}\n{{对话|我|没错，你懂了。曹操即将分兵，一支兵力前去回援许县，另一支兵力继续攻打徐州。|头像=广陵王-微笑}}\n{{对话|我|你猜，回援许县的那支军队，会在途中遇到什么惊喜？|头像=广陵王-微笑}}\n{{对话|袁氏斥候|长公子，我们遇到了回援许县的曹军！|头像=士兵}}\n{{旁白|远处黄沙惊起，是一场一触即发的短兵交接；我在残局生门处落子，起身上马。}}\n{{对话|我|回援的曹军，会把遇到袁军的消息，传给前线的中军。|头像=广陵王-微笑}}\n{{对话|我|徐州永远在那不会跑，但天子只有一个，被抢了可就再也没有了。|头像=广陵王-微笑}}\n{{对话|袁基|……攻打徐州的曹军，也会折返回来，支援这支回援许县的曹军……}}\n{{旁白|三军折返，军粮每日的消耗以十万计。三个月内，曹军难以再征讨徐州了。}}\n{{对话|袁基|抱歉，短兵交接，怕是无法好好向殿下道别了。}}\n{{对话|袁基|这局棋，在下先记下了。期待来日再开新局。}}\n{{旁白|'''恭喜达成结局【洞烛机先】'''}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|普通的棋局无甚趣味，不如来下盲棋如何？|头像=广陵王-微笑}}\n{{对话|袁基|好。在下不擅盲棋，还望殿下留情。}}\n{{对话|袁基|先来猜子……}}\n{{对话|我|不必。|头像=广陵王-微笑}}\n{{对话|我|——从猜子开始就闭上双眼，如何？|头像=广陵王-微笑}}\n{{对话|袁基|……连自己是黑是白都不清楚的盲棋么？这想法着实有趣。}}\n{{旁白|他唤来代为执子的侍从。黑暗中，我们摸索着猜子。}}\n{{对话|我|其实本王也是第一次这样下盲棋。|头像=广陵王-微笑}}\n{{对话|袁基|闭上双眼，棋路反而格外清晰。|头像=袁基}}\n{{对话|我|真不愧是袁公子。啊……我要少说几句。|头像=广陵王-微笑}}\n{{对话|我|说话的时候容易分心，忘记刚才落子何处了。|头像=广陵王-微笑}}\n{{旁白|我们背对棋盘，开始落子。}}\n{{对话|我|秋角四四。|头像=广陵王-微笑}}\n{{对话|袁基|冬柱四三。|头像=袁基}}\n{{对话|我|秋柱二二。|头像=广陵王-微笑}}\n{{对话|我|哈……我们竟然真的下得有来有回。|头像=广陵王-微笑}}\n{{对话|袁基|多事之秋，能有些寄情之物也是好的。|头像=袁基}}\n{{对话|我|秋角七五。袁基，你为什么猜你是黑子？|头像=广陵王-微笑}}\n{{对话|袁基|若说是触感，殿下信吗？|头像=袁基}}\n{{对话|袁基|黑色显小，所以工匠们在打磨棋子时，总会无意识地将白子磨小一些。秋角一二。|头像=袁基}}\n{{对话|我|原来如此……它们看起来一样大，其实黑子摸起来要比白子来得大啊……|头像=广陵王-惊讶}}\n{{旁白|棋子落下的声响，一下一下落在棋盘上。}}\n{{对话|我|眼睛是最容易骗到自己的东西。只有亲身接触了，才知道差异在何处。|头像=广陵王-微笑}}\n{{对话|我|袁基，若我愿意与袁氏结盟，与曹操不死不休……你能给袁氏的盟友支援多少粮草？|头像=广陵王-严肃}}\n\n{{旁白|【绣衣楼】}}\n{{对话|阿蝉|楼主回来了。}}\n{{对话|我|有信送回来吗？|头像=广陵王-微笑}}\n{{旁白|阿蝉点头。在她背后，有一位面目寻常的妇人。}}\n{{对话|我|曹操怎么说？|头像=广陵王-严肃}}\n{{对话|妇人|这是最新的密信，主人请看。|头像=平民母亲}}\n{{对话|我|广陵这边的情报，你继续半真半假的传给曹操，小心行事。|头像=广陵王-严肃}}\n{{旁白|看完了密信，我将它丢入炭盆。}}\n{{旁白|她无声退入黑暗，继续扮演雀部眼中的“曹军间谍”。室内只余下我与阿蝉。}}\n{{对话|我|根据这封文书上的地点安排辎重，去接应两批粮草。直接运去东阳，交给陈氏保管。|头像=广陵王-严肃}}\n{{旁白|两批粮草，一批是袁氏的粮草，我表示愿意与袁氏成为盟友，袁基先行给我作为凭证的“定金”。}}\n{{旁白|另一批粮草，则来自曹操。}}\n{{旁白|心理|陆续让间谍带给曹操“广陵欲降曹对抗袁氏”的消息，他一直半信半疑。今夜才终于有回应了……}}\n{{对话|阿蝉|袁氏的人明天中午启程，需要做什么安排吗？}}\n{{对话|我|不用。你全力负责粮草的接应，确保它们安全送至东阳。|头像=广陵王-摇头}}\n\n{{旁白|【广陵王府】}}\n{{旁白|袁氏的人离开了。今天的雪很大，它们的马车很快消失在道路尽头。}}\n{{旁白|就这样，两日过去了……}}\n{{旁白|一切似乎恢复了常态。两批粮食正从两地运来，曹军仍然对徐州虎视眈眈。}}\n{{旁白|然而，一阵喧哗打破深夜。}}\n{{对话|雀使|这样的要事为何这么迟才报回来？！}}\n{{对话|蜂使甲|没办法，当时情况太混乱了啊！|头像=蜂使}}\n{{对话|蜂使乙|就是就是。你们雀部坐班喝茶的不知道我们跑外勤的辛苦……|头像=屠夫}}\n{{对话|雀使|楼主，粮草辎重出事了——在小沛北郊的古道上遇到突袭，被纵火焚烧！}}\n{{对话|我|…………|头像=广陵王-严肃}}\n{{对话|我|呵，怎会如此呢……|头像=广陵王-冷笑}}\n\n{{旁白|【小沛北郊】}}\n{{旁白|沉重的辎重车如雪海中的一团火球，火光烧至冲天。}}\n{{旁白|火光前有一队袁氏的车马，仿佛等候已久。}}\n{{对话|我|袁公子，站在火边很危险的，很容易引火烧身。|头像=广陵王-严肃}}\n{{对话|袁基|多谢殿下提醒。}}\n{{对话|袁基|行至半途，见到路边有辎重车失火，不由停车观看……原来是广陵的辎重吗？}}\n{{对话|我|袁公子真是热心，竟停车围观了那么久，等到本王前来。|头像=广陵王-严肃}}\n{{旁白|我翻身下马，迈过深深的积雪走到他面前。}}\n{{对话|袁基|因为还有挂心的事。殿下与我，还有残局未尽。}}\n{{旁白|棋台被抬到火前。我与他在棋台两侧对座，一侧烈火，一侧冰雪。}}\n{{对话|袁基|记得残局是这样摆的……殿下看黑白子的位置对不对。}}\n{{对话|我|不对。你摆错了。|头像=广陵王-摇头}}\n{{对话|袁基|从哪一步开始摆错了？}}\n{{对话|我|第一步。|头像=广陵王-严肃}}\n{{旁白|我摊开手掌，手心有一颗棋子——}}\n{{旁白|黑子。}}\n{{对话|袁基|……哈。原来那夜，我们都拿了黑子。}}\n{{对话|我|黑吃黑，往往吃起来口感最好。不过居然烧我的粮草，是不是过分了呀，袁公子？|头像=广陵王-严肃}}\n{{对话|袁基|从前，在下听过一个黑吃黑的故事。}}\n{{对话|袁基|主角是一只狐狸。在深林中猛兽环伺，它想寻求庇护。于是它找到了蟒。}}\n{{对话|袁基|它对蟒说，自己会成为蟒的同伴，一起对抗豺狼。}}\n{{对话|袁基|它又找到豺狼。说自己愿意和豺狼联手，抵挡蟒蛇。}}\n{{对话|我|豺狼和蟒蛇是不是都心地善良，愿意给狐狸一点过冬的肉？所谓的兽性，有时比人性更温暖呢。|头像=广陵王-严肃}}\n{{对话|袁基|肉太大了。狐狸拖着这块肉，只能慢慢地走。}}\n{{对话|袁基|回过神的豺狼和蟒蛇追上它。殿下你猜，它会怎么样？}}\n{{旁白|火光炽烈，照亮他素来淡如茶烟的眼眸，像是细而鲜艳的蛇信。}}\n{{旁白|他的手下押着一名女子上前，那名广陵和曹营的双面间谍。}}\n{{对话|妇人|……啊……啊……啊啊……曹营也有袁氏的人……啊啊……|头像=平民母亲}}\n{{旁白|心理|她看上去彻底崩溃了，应该是什么都招了吧……}}\n{{对话|袁基|假称与双方结盟，收下双方的粮草……}}\n{{对话|袁基|为了让双方信服，将一方的行踪卖给另一方，再把一方行刺计划卖给另一方。}}\n{{对话|袁基|真是踏丝过悬崖，胆识过人。}}\n{{对话|我|可惜现在一切清零了。好不容易弄到手的“肉”，被袁公子一把火“烤熟”了。|头像=广陵王-严肃}}\n{{对话|我|这一把火，烧掉了我六仓粮草。好狠的心啊。|头像=广陵王-严肃}}\n{{旁白|飞雪与烈火交织，白雾交缠在双方眉目之上。他把一卷文书取出，放在棋盘正中的天元。}}\n{{对话|袁基|就在此时此地，重开广陵与袁氏的粮草交易，如何？}}\n{{对话|我|让我看看……哈……|头像=广陵王-严肃}}\n{{旁白|我只瞥了一眼文书末尾的条件，就把它丢进火中。}}\n{{对话|我|不要。|头像=广陵王-严肃}}\n{{对话|袁基|殿下，没有粮草，广陵无法越过这个冬天，以及曹操的兵马。}}\n{{对话|我|点火前，你检查过这些辎重车吗？|头像=广陵王-严肃}}\n{{对话|我|粮草，能烧那么久吗？|头像=广陵王-严肃}}\n{{对话|袁基|……！！！}}\n{{旁白|——这些辎重车里，只有表面盖了浅浅一层粮食。下方只有木柴和火油。}}\n{{对话|我|真正运送粮草的辎重车，走的是另一条路。她招供的这条路，是假的。|头像=广陵王-微笑}}\n{{旁白|大火将尽，大雪将尽。}}\n{{旁白|雪与火的蒸腾化为无尽的烟雾，淹没了我们的身影。}}\n{{旁白|浓雾中，我感到他俯身靠近我。看不清的眼神，听不清的气息，最终都只是汇入了一声苦笑。}}\n{{对话|袁基|作茧之人，终究自缚。}}\n{{对话|我|我知道。刺杀使者于君的凶手是你安排的，目的是为了抬高谈判时的筹码。|头像=广陵王-微笑}}\n{{对话|我|你猜，于君是谁的人？你再猜，你身边还有多少只“绣云鸢”？|头像=广陵王-微笑}}\n{{旁白|烟雾外人影重重，如是鬼魅。他轻叹，双唇浅浅擦过我的额头。}}\n{{对话|袁基|呵……明明被拆了局、被算计，可心里竟无一丝气愤……}}\n{{对话|我|那你的心里，此刻是什么？|头像=广陵王-微笑}}\n{{对话|袁基|士之耽兮<ref>《诗经·卫风·氓》：“于嗟女兮，无与士耽。士之耽兮，犹可说也。女之耽兮，不可说也。”此处反其意而用之</ref>，不只是无可救。抱歉，是真的抱歉……明明在如此不合时宜的时刻……}}\n{{对话|袁基|——我对你，动心了。}}\n{{旁白|'''恭喜达成结局【士之耽兮】'''}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n[[分类:活动剧情]]\n[[分类:鸢记]]"
+}

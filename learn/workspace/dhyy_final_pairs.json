@@ -1,0 +1,3254 @@
+[
+  {
+    "char_a": "傅融",
+    "char_b": "阿蝉",
+    "chapter_count": 45,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 45
+      }
+    ]
+  },
+  {
+    "char_a": "诸葛瑾",
+    "char_b": "诸葛诞",
+    "chapter_count": 36,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 36
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "飞云",
+    "chapter_count": 32,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 32
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "徐庶",
+    "chapter_count": 31,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 31
+      }
+    ]
+  },
+  {
+    "char_a": "贾诩",
+    "char_b": "郭嘉",
+    "chapter_count": 31,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 31
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陈登",
+    "chapter_count": 29,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 29
+      }
+    ]
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "陈登",
+    "chapter_count": 28,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 28
+      }
+    ]
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "祢衡",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "师徒",
+        "nature": "师徒",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "陈登",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "孙策",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "阿蝉",
+    "chapter_count": 25,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "徐庶",
+    "chapter_count": 23,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "师徒",
+        "nature": "师徒",
+        "count": 23
+      }
+    ]
+  },
+  {
+    "char_a": "戏学",
+    "char_b": "袁基",
+    "chapter_count": 23,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "从属",
+        "nature": "从属",
+        "count": 23
+      }
+    ]
+  },
+  {
+    "char_a": "董白",
+    "char_b": "马超",
+    "chapter_count": 23,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "搭档",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "搭档",
+        "nature": "友好",
+        "count": 23
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "史子眇",
+    "chapter_count": 22,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "孙策",
+    "chapter_count": 22,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄妹",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄妹",
+        "nature": "血亲",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛瑾",
+    "chapter_count": 21,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "主从",
+        "nature": "从属",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "诸葛诞",
+    "chapter_count": 21,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "徐庶",
+    "chapter_count": 20,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚（绣衣楼）",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "同僚（绣衣楼）",
+        "nature": "其他",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "孙策",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "挚友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "挚友",
+        "nature": "友好",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "张仲景",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "挚友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "挚友",
+        "nature": "友好",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "袁绍",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "袁基",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "char_a": "周群",
+    "char_b": "徐庶",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "孙权",
+    "chapter_count": 19,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄妹",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄妹",
+        "nature": "血亲",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "阿蝉",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "char_a": "郭嘉",
+    "char_b": "陈登",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "甘宁",
+    "chapter_count": 18,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "敌对→收编",
+    "edgeRelType": "对立",
+    "rankedRelations": [
+      {
+        "relation": "敌对→收编",
+        "nature": "对立",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "郭嘉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "师生（辟雍学宫）",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "师生（辟雍学宫）",
+        "nature": "师徒",
+        "count": 17
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "周群",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "主从",
+        "nature": "从属",
+        "count": 17
+      }
+    ]
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "郭嘉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 17
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "董奉",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "君子之交",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "君子之交",
+        "nature": "友好",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "马超",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "华胥同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "华胥同门",
+        "nature": "友好",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙策",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚（江东）",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "同僚（江东）",
+        "nature": "从属",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "张飞",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "华胥同门",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "华胥同门",
+        "nature": "师徒",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "贾诩",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "",
+        "nature": "其他",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "贾诩",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "周群",
+    "char_b": "阿蝉",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "陈登",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "甘宁",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "君臣",
+        "nature": "从属",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "甘宁",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "君臣",
+        "nature": "从属",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "葛洪",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "袁基",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "医患",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "医患",
+        "nature": "其他",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "贾诩",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "主从",
+        "nature": "从属",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "郭嘉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "前同窗",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "前同窗",
+        "nature": "师徒",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "郭嘉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "郭嘉",
+    "chapter_count": 15,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "诸葛瑾",
+    "chapter_count": 15,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "从属",
+        "nature": "从属",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "甘宁",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "仇敌",
+    "edgeRelType": "对立",
+    "rankedRelations": [
+      {
+        "relation": "仇敌",
+        "nature": "对立",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "刘璋",
+    "char_b": "庞羲",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "君臣",
+        "nature": "从属",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "孙尚香",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "张飞",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "敌对",
+        "nature": "对立",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "吴夫人",
+    "char_b": "孙策",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "母子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "母子",
+        "nature": "血亲",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "张昭",
+    "char_b": "虞翻",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "郭嘉",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "敌对",
+        "nature": "对立",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张角",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "师徒",
+        "nature": "师徒",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "傅融",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "诸葛瑾",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "贾诩",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "郭嘉",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "文丑",
+    "char_b": "颜良",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "蒯良",
+    "char_b": "蒯越",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "马腾",
+    "char_b": "马超",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "亦敌亦友",
+        "nature": "其他",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "陈登",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "张辽",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "亦敌亦友",
+        "nature": "其他",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张角",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "亦敌亦友",
+        "nature": "其他",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "荀彧",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "蔡琰",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "char_a": "酆公玖",
+    "char_b": "酆公珠",
+    "chapter_count": 13,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄妹",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄妹",
+        "nature": "血亲",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙权",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "君臣",
+        "nature": "从属",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "周瑜",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "上下级",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "上下级",
+        "nature": "从属",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "徐庶",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "戏学",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张修",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张邈",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "贾诩",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "董奉",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "荀彧",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "飞云",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "葛洪",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "郭嘉",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "荀攸",
+    "char_b": "钟繇",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "黄盖",
+    "chapter_count": 12,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "刘辩",
+    "chapter_count": 12,
+    "categories": [
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "张郃",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "敌对",
+        "nature": "对立",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "张仲景",
+    "char_b": "葛洪",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "吕布",
+    "char_b": "张辽",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "收养",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "收养",
+        "nature": "血亲",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙尚香",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "太史慈",
+    "char_b": "孙策",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "君臣",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "君臣",
+        "nature": "从属",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "贾诩",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张鲁",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "张角",
+    "char_b": "张鲁",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "袁基",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "袁术",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "法正",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "周群",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "陈登",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "阿蝉",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陆绩",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "徐庶",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "陆逊",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "从属",
+        "nature": "从属",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "陆逊",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "夏侯渊",
+    "char_b": "张飞",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "敌对",
+        "nature": "对立",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "张郃",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "亦敌亦友",
+        "nature": "其他",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "安期",
+    "char_b": "左慈",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张邈",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "贾诩",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "荀彧",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "荀攸",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "叔侄",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "叔侄",
+        "nature": "血亲",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "袁尚",
+    "chapter_count": 10,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "父子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "父子",
+        "nature": "血亲",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "陈登",
+    "char_b": "飞云",
+    "chapter_count": 10,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "char_a": "夏侯渊",
+    "char_b": "张郃",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "亦敌亦友",
+        "nature": "其他",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "徐庶",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "绣球",
+    "char_b": "飞云",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "张邈",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗",
+        "nature": "友好",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "程普",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "钟繇",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "董奉",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "贾诩",
+    "char_b": "陈登",
+    "chapter_count": 9,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "孙权",
+    "chapter_count": 9,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "严白虎",
+    "char_b": "孙策",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "对立",
+    "edgeRelType": "对立",
+    "rankedRelations": [
+      {
+        "relation": "对立",
+        "nature": "对立",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "满宠",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "夏侯渊",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "郭嘉",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "旧识",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "旧识",
+        "nature": "其他",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "袁术",
+    "char_b": "袁绍",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "甄宓",
+    "char_b": "袁熙",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "亲人",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "亲人",
+        "nature": "血亲",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "曹丕",
+    "char_b": "甄宓",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "朋友前同事·暗恋",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "朋友前同事",
+        "nature": "友好",
+        "count": 8
+      },
+      {
+        "relation": "暗恋",
+        "nature": "情感",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "曹丕",
+    "char_b": "曹植",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "周群",
+    "char_b": "法正",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "飞云",
+    "chapter_count": 8,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张让",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "对立",
+    "edgeRelType": "对立",
+    "rankedRelations": [
+      {
+        "relation": "对立",
+        "nature": "对立",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "周忠",
+    "char_b": "小乔",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "师徒",
+    "edgeRelType": "师徒",
+    "rankedRelations": [
+      {
+        "relation": "师徒",
+        "nature": "师徒",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "孙坚",
+    "char_b": "孙策",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "父子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "父子",
+        "nature": "血亲",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "朱然",
+    "char_b": "虞翻",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "法正",
+    "char_b": "阿蝉",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "妇兵",
+    "char_b": "王异",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "从属",
+        "nature": "从属",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "白龙",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陈应",
+    "chapter_count": 7,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "char_a": "吕布",
+    "char_b": "马腾",
+    "chapter_count": 5,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "亦敌亦友",
+        "nature": "其他",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "char_a": "吴夫人",
+    "char_b": "孙权",
+    "chapter_count": 5,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "母子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "母子",
+        "nature": "血亲",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "鲁肃",
+    "chapter_count": 5,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "char_a": "凌统",
+    "char_b": "张辽",
+    "chapter_count": 5,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "char_a": "刘豹",
+    "char_b": "呼厨泉",
+    "chapter_count": 3,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "叔侄",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "叔侄",
+        "nature": "血亲",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "char_a": "何太后",
+    "char_b": "刘辩",
+    "chapter_count": 3,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "母子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "母子",
+        "nature": "血亲",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "char_a": "刘协",
+    "char_b": "刘辩",
+    "chapter_count": 3,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "曹操",
+    "chapter_count": 3,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "主从",
+        "nature": "从属",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "char_a": "孙坚",
+    "char_b": "孙权",
+    "chapter_count": 2,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "父子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "父子",
+        "nature": "血亲",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张昭",
+    "chapter_count": 2,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "曹操",
+    "chapter_count": 2,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "主从",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "主从",
+        "nature": "从属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "char_a": "吴夫人",
+    "char_b": "孙尚香",
+    "chapter_count": 2,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "母子",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "母子",
+        "nature": "血亲",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "char_a": "司马徽",
+    "char_b": "徐庶",
+    "chapter_count": 1,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "吕布",
+    "char_b": "曹操",
+    "chapter_count": 1,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "亦敌亦友",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "敌对",
+        "nature": "对立",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "鲁肃",
+    "chapter_count": 1,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "张昭",
+    "chapter_count": 1,
+    "categories": [
+      "活动剧情"
+    ],
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚",
+        "nature": "友好",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "安期",
+    "chapter_count": 6,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "师徒·情侣",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "师徒",
+        "nature": "师徒",
+        "count": 6
+      },
+      {
+        "relation": "情侣",
+        "nature": "情感",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "char_a": "诸葛瑾",
+    "char_b": "诸葛亮",
+    "chapter_count": 6,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "char_a": "诸葛诞",
+    "char_b": "诸葛亮",
+    "chapter_count": 5,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "兄弟",
+        "nature": "血亲",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "小乔",
+    "chapter_count": 4,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "婚约",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "婚约",
+        "nature": "其他",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "阿蝉",
+    "chapter_count": 33,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "收养",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "收养",
+        "nature": "血亲",
+        "count": 33
+      }
+    ]
+  },
+  {
+    "char_a": "戏学",
+    "char_b": "张燕",
+    "chapter_count": 14,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同门",
+        "nature": "友好",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "干吉",
+    "chapter_count": 16,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "亦敌亦友·上下级",
+    "edgeRelType": "其他",
+    "rankedRelations": [
+      {
+        "relation": "亦敌亦友",
+        "nature": "其他",
+        "count": 16
+      },
+      {
+        "relation": "上下级",
+        "nature": "从属",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "char_a": "马超",
+    "char_b": "阿蝉",
+    "chapter_count": 22,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "干兄妹",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "干兄妹",
+        "nature": "血亲",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "char_a": "袁熙",
+    "char_b": "袁基",
+    "chapter_count": 1,
+    "categories": [],
+    "edgeLabel": "亲人",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "亲人",
+        "nature": "血亲",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "刘豹",
+    "char_b": "蔡琰",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "好友·情侣",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "好友",
+        "nature": "友好",
+        "count": 9
+      },
+      {
+        "relation": "情侣",
+        "nature": "情感",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "刘豹",
+    "char_b": "王异",
+    "chapter_count": 3,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "好友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "好友",
+        "nature": "友好",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "王异",
+    "chapter_count": 9,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "好友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "好友",
+        "nature": "友好",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "char_a": "吕布",
+    "char_b": "阿蝉",
+    "chapter_count": 17,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "收养",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "收养",
+        "nature": "血亲",
+        "count": 17
+      }
+    ]
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "刘辩",
+    "chapter_count": 11,
+    "categories": [
+      "密探故事",
+      "活动剧情"
+    ],
+    "edgeLabel": "收养",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "收养",
+        "nature": "血亲",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "我",
+    "chapter_count": 61,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "双胞胎兄妹",
+    "edgeRelType": "血亲",
+    "rankedRelations": [
+      {
+        "relation": "双胞胎兄妹",
+        "nature": "血亲",
+        "count": 61
+      }
+    ]
+  },
+  {
+    "char_a": "我",
+    "char_b": "孙策",
+    "chapter_count": 132,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "情侣",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "情侣",
+        "nature": "情感",
+        "count": 132
+      }
+    ]
+  },
+  {
+    "char_a": "我",
+    "char_b": "傅融",
+    "chapter_count": 168,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "情侣",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "情侣",
+        "nature": "情感",
+        "count": 168
+      }
+    ]
+  },
+  {
+    "char_a": "我",
+    "char_b": "刘辩",
+    "chapter_count": 142,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "情侣·亦敌亦友",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "情侣",
+        "nature": "情感",
+        "count": 142
+      },
+      {
+        "relation": "亦敌亦友",
+        "nature": "情感",
+        "count": 142
+      }
+    ]
+  },
+  {
+    "char_a": "我",
+    "char_b": "左慈",
+    "chapter_count": 90,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "情侣",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "情侣",
+        "nature": "情感",
+        "count": 90
+      }
+    ]
+  },
+  {
+    "char_a": "我",
+    "char_b": "袁基",
+    "chapter_count": 127,
+    "categories": [
+      "密探故事",
+      "主线剧情",
+      "活动剧情"
+    ],
+    "edgeLabel": "情侣·亦敌亦友",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "情侣",
+        "nature": "情感",
+        "count": 127
+      },
+      {
+        "relation": "亦敌亦友",
+        "nature": "情感",
+        "count": 127
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "马超",
+    "chapter_count": 1,
+    "categories": [],
+    "edgeLabel": "隐形下级",
+    "edgeRelType": "从属",
+    "rankedRelations": [
+      {
+        "relation": "隐形下级",
+        "nature": "从属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "诸葛瑾",
+    "chapter_count": 1,
+    "categories": [],
+    "edgeLabel": "同窗（辟雍学宫）",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同窗（辟雍学宫）",
+        "nature": "友好",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "杨修",
+    "chapter_count": 1,
+    "categories": [],
+    "edgeLabel": "同僚（绣衣楼）",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "同僚（绣衣楼）",
+        "nature": "友好",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "陈登",
+    "chapter_count": 1,
+    "categories": [],
+    "edgeLabel": "挚友",
+    "edgeRelType": "友好",
+    "rankedRelations": [
+      {
+        "relation": "挚友",
+        "nature": "友好",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "char_a": "郭女王",
+    "char_b": "甄宓",
+    "chapter_count": 6,
+    "categories": [
+      "密探故事"
+    ],
+    "edgeLabel": "好友·暗恋",
+    "edgeRelType": "情感",
+    "rankedRelations": [
+      {
+        "relation": "好友",
+        "nature": "友好",
+        "count": 6
+      },
+      {
+        "relation": "暗恋",
+        "nature": "情感",
+        "count": 6
+      }
+    ]
+  }
+]

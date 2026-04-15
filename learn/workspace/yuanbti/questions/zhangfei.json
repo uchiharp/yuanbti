@@ -1,0 +1,392 @@
+[
+  {
+    "id": "张飞_batch_1",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "张飞",
+    "text": "张飞带灰雁阶出任务前，照例逐一问清诉求，包括报酬、赡养族人、随身兵器。你觉得这种做法体现了张飞带队的规矩比谁都清楚。", 
+    "options": [
+      {
+        "label": "A",
+        "text": "「不用那么细吧」",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "觉得有点过但没阻止→S3:3"
+      },
+      {
+        "label": "B",
+        "text": "等他问完再说正事",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "不参与务实流程→S3:1"
+      },
+      {
+        "label": "C",
+        "text": "跟在旁边把每个人的需求记下来",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "务实跟进每个细节→S3:5"
+      }
+    ],
+    "reveal": "「首先这是灰雁阶的行动。行动前，照例问清你们的诉求。行动报酬、赡养族人的费用……」张飞带队的规矩比谁都清楚。"
+  },
+  {
+    "id": "张飞_batch_2",
+    "type": "funny",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "张飞",
+    "text": "张飞看着甄宓和雀使吵架，说了句快动手吧，不然天都要黑了。他等了一整天终于受不了了，耐心只够撑到天黑。", 
+    "options": [
+      {
+        "label": "A",
+        "text": "「他说得对，别吵了开干」",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "站到行动派一边→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "偷笑，继续看戏",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "不急但也不阻止→S5:3"
+      },
+      {
+        "label": "C",
+        "text": "劝他们先说清楚再行动",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "压制行动冲动→S5:1"
+      }
+    ],
+    "reveal": "「快动手吧，不然天都要黑了。」张飞的耐心只够撑到天黑。"
+  },
+  {
+    "id": "张飞_batch_3",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "张飞",
+    "text": "张飞在夜市上卖画，看到你来了，第一句话是来了不买吗，然后又说刚刺杀完回来暂时不接。张飞见你来了，假装不在意但话变多了。", 
+    "options": [
+      {
+        "label": "A",
+        "text": "「你这画多少钱」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "用交易维持对话→S2:3"
+      },
+      {
+        "label": "B",
+        "text": "「刺杀完了还能卖画，挺忙啊你」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "用亲昵调侃回应→S2:5"
+      },
+      {
+        "label": "C",
+        "text": "点头就走",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "不给情感回应→S2:1"
+      }
+    ],
+    "reveal": "「来了，不买吗？」「刚刺杀完回来，暂时不接。」张飞见你来了，假装不在意但话变多了。"
+  },
+  {
+    "id": "张飞_batch_4",
+    "type": "classic",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "张飞",
+    "text": "张飞看着猴子说话，说居然相信了吗，人应该听不懂猴子的话才对。他一脸无语，吐槽的时候最真实。", 
+    "options": [
+      {
+        "label": "A",
+        "text": "「可能猴子说的是人话呢」",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "半开玩笑回应→S7:3"
+      },
+      {
+        "label": "B",
+        "text": "笑了笑没接话",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了笑了笑没接话……S7倾向较低→S7:1"
+      },
+      {
+        "label": "C",
+        "text": "「那你怎么听懂了」怼回去",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "用锋利回击他的吐槽→S7:5"
+      }
+    ],
+    "reveal": "「居然相信了吗？人应该听不懂猴子的话才对。」张飞吐槽的时候最真实。"
+  },
+  {
+    "id": "张飞_batch_6",
+    "type": "classic",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "张飞",
+    "text": "张飞对你说她没说，要问吗。他在犹豫要不要追问某个信息，可见张飞不是莽夫，行动之前会先确认信息。", 
+    "options": [
+      {
+        "label": "A",
+        "text": "「你去问，我在后面看着」",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "战略性安排→S1:5"
+      },
+      {
+        "label": "B",
+        "text": "「别问了，她自己会说」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "选择不追问但有理由→S1:3"
+      },
+      {
+        "label": "C",
+        "text": "「随便你」",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "不在意情报→S1:1"
+      }
+    ],
+    "reveal": "「她没说。要问吗？」张飞不是莽夫，行动之前会先确认信息。"
+  },
+  {
+    "id": "张飞_batch_7",
+    "type": "angst",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "张飞",
+    "text": "张飞在孙策的约会里说大哥说，要突破自己的舒适圈。他在尝试新事物，但语气不像是自愿的，嘴上说着要改变，但笑起来还是那个张飞。", 
+    "options": [
+      {
+        "label": "A",
+        "text": "「试试看？说不定适合你」",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "温和推动但不强求→S4:3"
+      },
+      {
+        "label": "B",
+        "text": "「你不用勉强，做自己就好」",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "鼓励他卸下面具→S4:1"
+      },
+      {
+        "label": "C",
+        "text": "「大哥说得对」",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "认同外在权威的要求→S4:5"
+      }
+    ],
+    "reveal": "「大哥说，要突破自己的舒适圈。」张飞嘴上说着要改变，但笑起来还是那个张飞。"
+  },
+  {
+    "id": "张飞_batch_8",
+    "type": "daily",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "张飞",
+    "text": "张飞吃饭时随口问你有仇人吗。他问仇人不是聊天，是职业习惯。", 
+    "options": [
+      {
+        "label": "A",
+        "text": "「有，要帮我处理吗」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "说有啊要不要帮忙，反正闲着也是闲着→S6:3"
+      },
+      {
+        "label": "B",
+        "text": "「没有仇人」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避触碰底线话题→S6:1"
+      },
+      {
+        "label": "C",
+        "text": "「你先吃饭，仇人以后再说」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "折中处理「你先吃饭，仇人……S6处于中等水平→S6:3"
+      }
+    ],
+    "reveal": "「嗯。你有仇人吗？」「嗯，华胥的杀手。」张飞问仇人不是聊天，是职业习惯。"
+  },
+  {
+    "id": "zhangfei_补1",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "张飞",
+    "text": "张飞摆摊卖画，但一幅都没卖出去。他看着空荡荡的摊位，嘟囔了一句「很饿，来吃个饭」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "掏钱把他的画全买了",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "用实际行动解决他的困难，不问原因直接帮忙，温柔且体贴→S8:5"
+      },
+      {
+        "label": "B",
+        "text": "拍拍他肩膀，请他去吃碗面",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "用请吃饭的方式间接关心他，有温度但不刻意，适度的温柔→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "说画技不行别怪没人买",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "用毒舌回应他的困境，完全不体贴他的感受，没有温柔可言→S8:1"
+      }
+    ],
+    "reveal": "张飞虽然嘴上不饶人，但卖不出画的时候会小声说饿，笨拙地表达自己的脆弱。"
+  },
+  {
+    "id": "zhangfei_补2",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "张飞",
+    "text": "张飞算人头钱：「一个人头五十万，十颗四百八十万，三十颗一千两百万。」他看着广陵王，等一个反应。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说这笔买卖可以做，问他什么时候动手",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "把悬赏当成一笔生意来谈，用务实态度对待权力与暴力，既不追捧也不排斥→S9:3"
+      },
+      {
+        "label": "B",
+        "text": "皱眉说人命不是用来做买卖的",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "明确反对将人命商品化，站在道德立场拒绝这种权力交易，对权力持有批判态度→S9:1"
+      },
+      {
+        "label": "C",
+        "text": "笑着问他自己的人头值多少",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "拿自己的命开玩笑，对生死和权力地位完全无所谓，展现出对权力最超然的态度→S9:5"
+      }
+    ],
+    "reveal": "张飞把杀人和卖画当成同一种谋生手段，对权力的理解就是明码标价。"
+  },
+  {
+    "id": "zhangfei_补3",
+    "type": "funny",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "张飞",
+    "text": "张飞被要求填写一份军中行动报告，他提笔写了两行就摔了笔：「大哥说要突破舒适圈，但这玩意儿比杀人难多了。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "帮他填完报告，顺便教他格式",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动帮他遵守文书规范，重视制度的执行，秩序感很强→S10:5"
+      },
+      {
+        "label": "B",
+        "text": "把报告撕了，说口头汇报就行了",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接破坏文书制度，用更随意的方式替代正式流程，完全无视秩序→S10:1"
+      },
+      {
+        "label": "C",
+        "text": "让他口述，帮他整理成报告",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "不强迫他亲自遵守制度，但最终还是会完成规范流程，秩序感适中→S10:3"
+      }
+    ],
+    "reveal": "张飞性格粗犷，最烦写文书。但刘备说过要突破舒适圈，他只好硬着头皮上。"
+  }
+]

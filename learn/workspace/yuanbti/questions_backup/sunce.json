@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "q_sunce_01",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "广陵城外十万大军压境，夜色中孙策忽然说：「如果我为你而死……你要每年都撑着伞，来看我一回呀。就唤我一声'伯符'，就够了。」面对生死未卜的战场，你最想对身边的人说什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "把后事交代清楚，确保对方知道该怎么做",
+        "scores": {
+          "S2": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "说一句含蓄的嘱托，不想让气氛太沉重",
+        "scores": {
+          "S2": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "把心里所有想说的话都说出来，哪怕是最自私的愿望",
+        "scores": {
+          "S2": 5,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策的选择：每年撑伞来唤一声「伯符」就够了——他不怕死，只怕死后被忘记。"
+  },
+  {
+    "id": "q_sunce_02",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "空花阳焰/01",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "孙策接到袁术的命令：攻占广陵、杀掉广陵王。他直接绑了人质进城：「打个赌？杀了你，我一样能从广陵正门口出去。」面对危险任务，你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先摸清敌情，制定周密计划再行动",
+        "scores": {
+          "S5": 2,
+          "S2": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "边做边想，根据实际情况随时调整",
+        "scores": {
+          "S5": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接冲上去，先干了再说",
+        "scores": {
+          "S5": 5,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策的选择：直接绑人质进城打赌——行动永远先于思考。"
+  },
+  {
+    "id": "q_sunce_03",
+    "dimension": "S7",
+    "cross_dimension": "S1",
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "守城期间士族散布谣言动摇军心。孙策当众质问：「嘴上说着要投袁术，身体又一动不敢动，该说你是贱呢还是贱呢？」面对明面上的敌人，你的风格是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "暗中收集证据，找合适的时机一举拿下",
+        "scores": {
+          "S7": 2,
+          "S1": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "当面对峙，但措辞留有余地",
+        "scores": {
+          "S7": 3,
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "当众开骂，一字一句戳到对方脸上",
+        "scores": {
+          "S7": 5,
+          "S1": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策的选择：当众怒骂「媚上欺下，贱人」——锋芒毕露。"
+  },
+  {
+    "id": "q_sunce_04",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "守城物资紧缺，有人建议节省开支。孙策却说：「给你的给你的！钱嘛，一句话的事。」面对手头紧张的情况，你的态度是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "精打细算，每一笔钱都要花在刀刃上",
+        "scores": {
+          "S3": 5,
+          "S8": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "该省的省，该花的花，量入为出",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "钱的事不叫事，花就是了",
+        "scores": {
+          "S3": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的选择：「钱嘛，一句话的事」——对金钱几乎不在意。"
+  },
+  {
+    "id": "q_sunce_05",
+    "dimension": "S10",
+    "cross_dimension": "S7",
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "城外敌人主帅的信鸽带来蛊惑人心的信件。孙策直接撕了：「这种蛊惑人心的玩意竟敢念出来？舌头不想要了？！」有人说先看看内容，他说：「人为什么要有避讳呢？」面对规矩和禁忌，你的态度是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "规矩自有其道理，不了解清楚之前",
+        "scores": {
+          "S10": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "看情况，有用的守，没用的就不理",
+        "scores": {
+          "S10": 3,
+          "S6": 2,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "规矩？谁的规矩？我不认，值得深思",
+        "scores": {
+          "S10": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的选择：「人为什么要有避讳呢」——直接质疑一切礼法规矩。"
+  },
+  {
+    "id": "q_sunce_06",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "孙策谈及为何拼命往上爬：「将军、正将军、太守、大将军、扬州牧……我站得越高，他们的前程就越好。」「弟弟妹妹的前程全靠我了。」你对权力最核心的看法是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "权力本身就是目的，站得越高越好",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "权力是工具，用它保护想保护的人",
+        "scores": {
+          "S9": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "对权力没什么兴趣，只想过好自己的日子",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的选择：拼命往上爬，但每一步算的是家人的出路。"
+  },
+  {
+    "id": "q_sunce_07",
+    "dimension": "S2",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "孙策身负重伤后说出：「……真丢人，说了要保护你，结果居然这样……可不许说出去。我怕被人说软骨头的。」受伤后你最想对身边的人说什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「没事，别担心。」不想让对方看到脆弱",
+        "scores": {
+          "S2": 2,
+          "S8": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「有点疼，但还能撑。」承认脆弱但不愿让对方太担心",
+        "scores": {
+          "S2": 3,
+          "S8": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「真丢人……别告诉别人啊。」半撒娇半坦诚地摊开软弱",
+        "scores": {
+          "S2": 5,
+          "S8": 4,
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策的选择：受伤后怕丢人——脆弱只给最亲近的人看。"
+  },
+  {
+    "id": "q_sunce_08",
+    "dimension": "S5",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "孙策得知广陵王可能乔装出城去联络袁绍：「别别别！你不熟悉袁氏，我可在他们手下吃够苦头了。我来这之前就已经想好了，我可以为你死。」看到在乎的人要冒险，你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先分析利弊，评估风险后再决定是否阻拦",
+        "scores": {
+          "S5": 2,
+          "S2": 2,
+          "S3": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "拦下来，但会想办法提供替代方案",
+        "scores": {
+          "S5": 3,
+          "S2": 3,
+          "S6": 2,
+          "S10": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拦下来，直接说「我去，你别去」",
+        "scores": {
+          "S5": 5,
+          "S2": 5,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策的选择：「我可以为你死。只要能让你活下去，我什么都愿意做。」"
+  },
+  {
+    "id": "q_sunce_09",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "孙策",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "寿春",
+    "text": "你在一位权贵手下效力多年，战功赫赫。一日，这位权贵将你所有军功全部扣光，只因为他心情不好。你的反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "忍了，暗中记下这笔账",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "当面据理力争，但留有余地",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "当场翻脸走人，不伺候了",
+        "scores": {
+          "S1": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这个场景来自孙策被袁术扣光军功的经历——他的反应是当场翻脸走人。"
+  },
+  {
+    "id": "q_sunce_10",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "孙策",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你的心上人因为你做的事生闷气，一句话都不说。你的反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "给对方空间，等气消了再说，值得深思",
+        "scores": {
+          "S6": 4,
+          "S7": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "试探着问几句，试图弄清对方在想什么",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "慌了，开始撒娇认错：「别生我气了」",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策面对广陵王沉默时——不太擅长处理微妙情绪冲突，会立刻服软认错。"
+  },
+  {
+    "id": "q_sunce_11",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "story_anon",
+    "source_character": "孙策",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在外人面前永远是最张扬、最大声、最不好惹的那个人。但深夜独处时，你偶尔会想：「有时候……真的很累。」这种「累」，你会让谁看到？",
+    "options": [
+      {
+        "label": "A",
+        "text": "谁都不让看到，自己扛着就好了",
+        "scores": {
+          "S4": 5,
+          "S2": 1,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "偶尔对信任的朋友流露一二，但不会全说",
+        "scores": {
+          "S4": 3,
+          "S2": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "只对那一个人全部摊开：「又不知道能找谁说",
+        "scores": {
+          "S4": 2,
+          "S2": 5,
+          "S8": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的「江东小霸王」面具——张狂是铠甲，疲惫只对广陵王摘下。"
+  },
+  {
+    "id": "q_sunce_12",
+    "dimension": "S8",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "守城前夜，孙策忽然说：「我那么喜欢热闹的人，和你在一起的时候，反而希望周围的人少些。」你觉得真正的温柔是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "温柔是细心体贴，照顾对方的一切需要",
+        "scores": {
+          "S8": 4,
+          "S2": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "温柔是愿意为对方改变自己的习惯",
+        "scores": {
+          "S8": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "温柔是明明最喜欢热闹，却只愿和你安静地待着",
+        "scores": {
+          "S8": 2.5,
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的温柔不是细声细语，而是一个最需要热闹的人为你选择了安静。"
+  },
+  {
+    "id": "q_sunce_13",
+    "dimension": "S2",
+    "cross_dimension": "S5",
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "守城最危急的一夜，广陵王在城头大喊「我信你！」孙策转头对敌军大喊：「听见了吗？我心上人说她信我，你们有吗？！」然后独战到天明。你觉得这种当众表白的方式——",
+    "options": [
+      {
+        "label": "A",
+        "text": "太冲动了，感情是两个人的事",
+        "scores": {
+          "S2": 2,
+          "S5": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "虽然有点莽，但那一刻确实很热血",
+        "scores": {
+          "S2": 3,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "就该这样！心里想什么就喊什么",
+        "scores": {
+          "S2": 5,
+          "S5": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策的选择：感情从不藏着，爱要喊给全世界听。"
+  },
+  {
+    "id": "q_sunce_14",
+    "dimension": "S5",
+    "cross_dimension": "S6",
+    "type": "story_anon",
+    "source_character": "孙策",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在战场上砍翻了几十个敌人，忽然发现左臂抬不起来了。你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先退下来包扎，伤不养好再上去也是送死",
+        "scores": {
+          "S5": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "简单包扎继续战斗，但注意保护伤臂",
+        "scores": {
+          "S5": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「没断就没事……包扎一下，还能再战」",
+        "scores": {
+          "S5": 5,
+          "S6": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自孙策守城时——左臂抬不起来，第一反应是「还能再战」。"
+  },
+  {
+    "id": "q_sunce_15",
+    "dimension": "S9",
+    "cross_dimension": "S5",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「已经爬上这座白骨山了，不爬到山顶，没有理由下来。」这句话让你最共鸣的是哪层意思？",
+    "options": [
+      {
+        "label": "A",
+        "text": "权力之路没有回头，一旦开始就必须走到最高",
+        "scores": {
+          "S9": 5,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "身不由己的清醒——知道代价，也知道没有退路",
+        "scores": {
+          "S9": 3,
+          "S5": 3,
+          "S3": 2.5,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不是野心，是责任——身后的人都指望着你往上走",
+        "scores": {
+          "S9": 2,
+          "S5": 4,
+          "S6": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这句话出自孙策——他清醒地知道自己踩着白骨往上爬，但每一步算的是家人的前程。"
+  },
+  {
+    "id": "q_sunce_16",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我的就是你的。」你觉得这句话背后的态度是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "太天真了，人不该把全部轻易交给别人",
+        "scores": {
+          "S3": 4,
+          "S6": 3,
+          "S4": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "要看对谁说，对值得的人可以",
+        "scores": {
+          "S3": 3,
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "钱和东西永远排在感情后面，给就给了",
+        "scores": {
+          "S3": 1,
+          "S2": 2,
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这句话出自孙策——麒麟角灯笼、狻猊、凤凰、龙，全部给广陵王。"
+  },
+  {
+    "id": "q_sunce_17",
+    "dimension": "S7",
+    "cross_dimension": "S10",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「士族的脖子就是铁打的吗？一样一刀一个。」你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "说得对，权贵没什么了不起的",
+        "scores": {
+          "S7": 5,
+          "S10": 1,
+          "S9": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "虽然解气，但这样说太冲动了",
+        "scores": {
+          "S7": 3,
+          "S10": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "太鲁莽了，得罪士族只会给自己树敌",
+        "scores": {
+          "S7": 1,
+          "S10": 5,
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这句话出自孙策——对士族的不屑刻在骨子里。"
+  },
+  {
+    "id": "q_sunce_18",
+    "dimension": "S4",
+    "cross_dimension": "S2",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我那么喜欢热闹的人，和你在一起的时候，反而希望周围的人少些。」你觉得这种反差说明了什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说明这个人的热闹一直是假的，内心很孤独",
+        "scores": {
+          "S4": 5,
+          "S2": 4,
+          "S7": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "说明这个人对你的感情超越了所有习惯",
+        "scores": {
+          "S4": 2,
+          "S2": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "说明这个人有两面，但都在用真心",
+        "scores": {
+          "S4": 3,
+          "S2": 2,
+          "S7": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这句话出自孙策——热闹是铠甲，安静是对广陵王的真心。"
+  },
+  {
+    "id": "q_sunce_19",
+    "dimension": "S6",
+    "cross_dimension": "S7",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「过线者，死。」面对这句话，你更认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太极端了，底线可以有弹性",
+        "scores": {
+          "S6": 4,
+          "S7": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "看对谁，对敌人硬对自己人软",
+        "scores": {
+          "S6": 3,
+          "S7": 3,
+          "S8": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "就该这样，敢动我的人就别想全身而退",
+        "scores": {
+          "S6": 2,
+          "S7": 5,
+          "S5": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这句话出自孙策——对外底线极硬，对广陵王又会立刻服软。"
+  },
+  {
+    "id": "q_sunce_20",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「大丈夫为心上人死，死得坦坦荡荡，我不怕。」面对生死你最认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活着才能守护对方，死是最蠢的选择",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "理解这种感情，但希望自己不必面临这个选择",
+        "scores": {
+          "S2": 3,
+          "S8": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "如果必须死，那就为最在乎的人死",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这句话出自孙策守城时——他不怕死，只怕死得憋屈。"
+  },
+  {
+    "id": "q_sunce_21",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼月度例会上，有人提议为每位密探制定详细的行动报告格式和提交时限。你作为密探之一——",
+    "options": [
+      {
+        "label": "A",
+        "text": "支持，规矩越多执行力越强",
+        "scores": {
+          "S10": 5,
+          "S6": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "可以有个基本格式，但别太死板",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "写报告？不如让我多砍两个敌人来得实在",
+        "scores": {
+          "S10": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策大概会说：「打仗我可是熟练工！写报告就算了吧。」"
+  },
+  {
+    "id": "q_sunce_22",
+    "dimension": "S1",
+    "cross_dimension": "S7",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼截获密信，内容涉及某位世家子弟暗中通敌。广陵王让你处理。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "暗中布局，找到确凿证据后一举揭发",
+        "scores": {
+          "S1": 4,
+          "S7": 2,
+          "S4": 3.5,
+          "S5": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先核实情报真假，再决定下一步",
+        "scores": {
+          "S1": 3,
+          "S7": 3,
+          "S4": 2.5,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接拿着密信找他对质，值得深思",
+        "scores": {
+          "S1": 1,
+          "S7": 5,
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策大概会直接找上门当面质问——权谋不是他的风格。"
+  },
+  {
+    "id": "q_sunce_23",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "深夜巡楼归来，你发现广陵王还在灯下处理公务。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不打扰，默默给她续一杯热茶就离开",
+        "scores": {
+          "S8": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "问一句要不要帮忙，不强求",
+        "scores": {
+          "S8": 3,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接把人从桌前拉起来：「不睡了？",
+        "scores": {
+          "S8": 2.5,
+          "S6": 1,
+          "S5": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的温柔是行动派的——不说关心，而是直接做。"
+  },
+  {
+    "id": "q_sunce_24",
+    "dimension": "S3",
+    "cross_dimension": "S10",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼年终盘点，你负责采购新装备。预算有限，但你看到一把非常称手的兵器远超预算。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "算了，按预算来，实用就好",
+        "scores": {
+          "S3": 5,
+          "S10": 4,
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "犹豫一下，实在想要就自掏腰包补差价",
+        "scores": {
+          "S3": 3,
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "买！钱的事回头再说，好兵器不能错过",
+        "scores": {
+          "S3": 1,
+          "S10": 1,
+          "S6": 2,
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策逛夜市每个摊位都要玩、要比、要赢，完全不考虑花费。"
+  },
+  {
+    "id": "q_sunce_25",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "南有乔木",
+    "route_hint": null,
+    "city_hint": "寿春",
+    "text": "寿春初遇时，孙策大咧咧闯入广陵王的视野，见到大乔直接说：「你比我想象得要……水！江东话，意思就是好看！」然后自己把自己绕晕了。面对初次见到觉得好看的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "保持礼貌，用得体的方式表达赞赏",
+        "scores": {
+          "S5": 2,
+          "S7": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直说好看，但不会太夸张，值得深思",
+        "scores": {
+          "S5": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接夸，还可能把自己绕进去",
+        "scores": {
+          "S5": 5,
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策的初遇：夸大乔「水」，然后自己绕晕——想到什么说什么。"
+  },
+  {
+    "id": "q_sunce_26",
+    "dimension": "S2",
+    "cross_dimension": "S5",
+    "type": "story_anon",
+    "source_character": "孙策",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你为了心上人向神明下跪，磕头磕到额头流血，嘶吼着：「显灵啊！！！那么多人拜你，你不是神吗？！显灵啊！！！」你觉得这种做法——",
+    "options": [
+      {
+        "label": "A",
+        "text": "太失态了，无论多焦急都不该这样",
+        "scores": {
+          "S2": 2,
+          "S5": 2,
+          "S6": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "能理解，人在绝望的时候什么都会做",
+        "scores": {
+          "S2": 3,
+          "S5": 2,
+          "S8": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "这就是爱到极致的样子——什么都不管了",
+        "scores": {
+          "S2": 5,
+          "S5": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自孙策在西王母庙前为广陵王祈祷——一个从不信神的人跪地磕头求神显灵。"
+  },
+  {
+    "id": "q_sunce_27",
+    "dimension": "S9",
+    "cross_dimension": "S5",
+    "type": "story_anon",
+    "source_character": "孙策",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "守城即将胜利，有人问你守完城想做什么。你说——",
+    "options": [
+      {
+        "label": "A",
+        "text": "借此战功向朝廷请封更大的官职",
+        "scores": {
+          "S9": 5,
+          "S2": 1
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先把这场仗打完，以后的事以后再说",
+        "scores": {
+          "S9": 3,
+          "S2": 2,
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「我要穿着那套广陵王妃的礼服",
+        "scores": {
+          "S9": 2,
+          "S5": 5,
+          "S10": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策守城后的愿望：「老子要穿着那套玩意儿，一辈子站你身边」——权力不是目的。"
+  },
+  {
+    "id": "q_sunce_28",
+    "dimension": "S6",
+    "cross_dimension": "S10",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "广陵王派你去处理一个犯事的士族，这个人在城中颇有势力。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "按律法办事，但注意方式方法，不要得罪太多人",
+        "scores": {
+          "S6": 4,
+          "S10": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "按规矩处理，但会留些余地，值得深思",
+        "scores": {
+          "S6": 3,
+          "S10": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「这种家伙，放在城里也是祸害。直接处理了」",
+        "scores": {
+          "S6": 2,
+          "S10": 1,
+          "S5": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "孙策的风格：对外硬，不拘小节——「这种家伙，放在城里也是祸害」。"
+  },
+  {
+    "id": "q_sunce_29",
+    "dimension": "S8",
+    "cross_dimension": "S5",
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我都能明白的，就算你不想和我说话，我也能明白的。」",
+        "scores": {
+          "S8": 4,
+          "S5": 2,
+          "S7": 3,
+          "S6": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「谁干的？你喊一声我就来了，为什么不说？」",
+        "scores": {
+          "S8": 2.5,
+          "S5": 5,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A出自孙策守城时对广陵王的温柔等待，B出自他保护广陵王时的第一反应——温柔和行动都是他爱人的方式。"
+  },
+  {
+    "id": "q_sunce_30",
+    "dimension": "S4",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "孙策",
+    "source_story": "广陵守城·围城",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "守城深夜，孙策睡不着来找广陵王：「那个，你怎么想？……我是不是有点矫情啊？这世上没了爹的孩子多了去了……但我睡不着。」你觉得这种主动暴露脆弱的行为——",
+    "options": [
+      {
+        "label": "A",
+        "text": "说明他很信任你，愿意把最柔软的一面给你看",
+        "scores": {
+          "S4": 2,
+          "S8": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "说明他心里很不安，需要安慰但又不知道怎么开口",
+        "scores": {
+          "S4": 3,
+          "S8": 2.5,
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "说明他不够成熟，成年人不该这么轻易表露脆弱",
+        "scores": {
+          "S4": 5,
+          "S8": 1,
+          "S7": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "孙策深夜来找广陵王聊父亲的死——他把脆弱当礼物送给唯一允许自己软弱的人。"
+  },
+  {
+    "id": "q_sunce_31",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「命是天给的，但路是自己走的。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「命是天给的，但路是自己走的。」——你怎么看？",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「打不过就跑有什么丢人的？活着才有机会翻盘。」——你更认同？",
+        "scores": {
+          "S1": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「如果注定要输，我也要输得漂亮。」——你的看法？",
+        "scores": {
+          "S1": 4,
+          "S6": 3,
+          "S10": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "顺应命运、务实生存、体面抗争——三种面对困境的姿态。"
+  },
+  {
+    "id": "q_sunce_32",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「兄弟不是说出来的，是打出来的。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「兄弟不是说出来的，是打出来的。」——你觉得？",
+        "scores": {
+          "S1": 3.5,
+          "S7": 2.5,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「谁说我只会蛮干？我只是懒得跟你们绕弯子。」——你的看法？",
+        "scores": {
+          "S1": 2,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「开心的时候就要大笑，难过的时候也别硬撑。」——你认同吗？",
+        "scores": {
+          "S1": 4,
+          "S2": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "行动验证、坦率表达、真实情感——孙策式直爽的三个维度。"
+  },
+  {
+    "id": "q_sunce_33",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在校场练武时，有个密探嘲笑你'只会动武不会动脑'。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你在校场练武时，有个密探嘲笑你'只会动武不会动脑'。你——",
+        "scores": {
+          "S1": 3.5,
+          "S6": 2.5,
+          "S5": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "广陵王派你和一位文人密探搭档执行任务，两人理念完全不合。你——",
+        "scores": {
+          "S1": 2,
+          "S9": 1,
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "你带队突袭敌营大获全胜，但战利品分配上引起了争执。你——",
+        "scores": {
+          "S1": 4,
+          "S3": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "直来直去还是能屈能伸，反映你对外界评价的敏感度。"
+  },
+  {
+    "id": "q_sunce_34",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼举行比武大会，你被分到了实力最强的那一组。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "绣衣楼举行比武大会，你被分到了实力最强的那一组。你——",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "你得知一位朋友在背后说你坏话，但你还没核实。你——",
+        "scores": {
+          "S1": 3.5,
+          "S4": 3,
+          "S9": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "广陵王让你去安抚一群因为战败而士气低落的密探。你——",
+        "scores": {
+          "S1": 4,
+          "S9": 3,
+          "S8": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "面对竞争和冲突，你是迎难而上还是另有策略？"
+  },
+  {
+    "id": "q_sunce_35",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「就算全世界都不信我，我也要相信自己选的路。」",
+        "scores": {
+          "S1": 3,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「如果连自己都保护不了，谈什么保护别人？」",
+        "scores": {
+          "S1": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "信念至上还是能力优先——两种英雄主义。"
+  }
+]

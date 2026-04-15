@@ -1,0 +1,1052 @@
+[
+  {
+    "char_a": "曹丕",
+    "char_b": "甄宓",
+    "edgeLabel": "恋人",
+    "edgeRelType": "情感",
+    "reason": "曹丕纳甄宓为妻，二人为夫妻关系"
+  },
+  {
+    "char_a": "甄宓",
+    "char_b": "袁熙",
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "reason": "甄宓原为袁熙之妻，后归曹丕"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张邈",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "荀彧",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "法正",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同为绣衣楼/蜀地阵营，多次共同出现在密探故事中"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "董奉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属曹氏阵营关联人物，多次共现"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "荀彧",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "傅融为绣衣楼副官，荀彧为曹氏谋士，双方有阵营交集"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "颜良",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事，无明确深层关系"
+  },
+  {
+    "char_a": "徐庶",
+    "char_b": "郭嘉",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "哔哥",
+    "char_b": "庞统",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC与密探，多次共现"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "贾诩",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "太史慈",
+    "char_b": "芾芾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现，无明确深层关系"
+  },
+  {
+    "char_a": "公孙珊",
+    "char_b": "刘辩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "公孙珊为刘辩相关NPC"
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "夏侯渊",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "reason": "夏侯惇与夏侯渊为族兄弟"
+  },
+  {
+    "char_a": "夏侯惇",
+    "char_b": "张郃",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属曹氏阵营将领"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事和活动剧情"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事和活动剧情"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "飞云",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼"
+  },
+  {
+    "char_a": "干吉",
+    "char_b": "张修",
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "reason": "同为太平道/五斗米道相关人物"
+  },
+  {
+    "char_a": "副将",
+    "char_b": "孙策",
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "reason": "副将为孙策麾下"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "孙策",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC与孙策共现"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "张辽",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "西凉军",
+    "char_b": "阿蝉",
+    "edgeLabel": "对立",
+    "edgeRelType": "对立",
+    "reason": "西凉军与绣衣楼为敌对阵营"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "左慈",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼关联人物"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "史子眇",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "刘辩与绣衣楼成员有交集"
+  },
+  {
+    "char_a": "董奉",
+    "char_b": "郭嘉",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "马腾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同属西凉/北方军事集团关联人物"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张邈",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "曹丕",
+    "char_b": "曹植",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "reason": "曹丕与曹植为同父异母兄弟"
+  },
+  {
+    "char_a": "令狐茂",
+    "char_b": "刘辩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "马腾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于西凉相关剧情"
+  },
+  {
+    "char_a": "飞云",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "绣衣楼与西凉阵营交集"
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼关联"
+  },
+  {
+    "char_a": "令狐茂",
+    "char_b": "祢衡",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "孙权",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "绣衣楼与江东阵营有交集"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "贾诩",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属曹氏阵营关联"
+  },
+  {
+    "char_a": "周忠",
+    "char_b": "张飞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "安期",
+    "char_b": "左慈",
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "reason": "同为隐士/方士体系人物"
+  },
+  {
+    "char_a": "张超",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "葛洪",
+    "char_b": "黄月英",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为方士/机关术相关人物"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "reason": "诸葛瑾为孙权麾下重臣"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情，阵营交集"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "绣球",
+    "char_b": "飞云",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼"
+  },
+  {
+    "char_a": "袁术",
+    "char_b": "袁绍",
+    "edgeLabel": "兄弟",
+    "edgeRelType": "血亲",
+    "reason": "袁术与袁绍为同父异母兄弟"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "少年",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC共现"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "少年",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC共现"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC与密探共现"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "满宠",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫相关，多次共现"
+  },
+  {
+    "char_a": "满宠",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "张角",
+    "char_b": "张鲁",
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "reason": "同为太平道/五斗米道领袖人物"
+  },
+  {
+    "char_a": "周忠",
+    "char_b": "周群",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现，可能为同族"
+  },
+  {
+    "char_a": "周忠",
+    "char_b": "小乔",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "张辽",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "张让",
+    "edgeLabel": "对立",
+    "edgeRelType": "对立",
+    "reason": "张让为十常侍，与刘辩对立"
+  },
+  {
+    "char_a": "妇兵",
+    "char_b": "王异",
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "reason": "妇兵为王异麾下"
+  },
+  {
+    "char_a": "董白",
+    "char_b": "马腾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同属西凉阵营"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "钟繇",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为荆州/中原文士，多次共现"
+  },
+  {
+    "char_a": "荀攸",
+    "char_b": "蒯越",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "戏学",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "法正",
+    "char_b": "阿蝉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼关联"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "张辽",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "颜良",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "张辽",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "颜良",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "王朗",
+    "char_b": "虞翻",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为江东文士，多次共现"
+  },
+  {
+    "char_a": "箬箬",
+    "char_b": "许曼",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC共现"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "郭嘉",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫相关，多次共现"
+  },
+  {
+    "char_a": "贾诩",
+    "char_b": "钟繇",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为中原谋士，多次共现"
+  },
+  {
+    "char_a": "张修",
+    "char_b": "颜良",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "赵昱",
+    "char_b": "陈应",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于西凉相关剧情"
+  },
+  {
+    "char_a": "张燕",
+    "char_b": "张邈",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "陆逊",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属江东阵营将领"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "徐庶",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "孙氏少年",
+    "char_b": "黄盖",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC与江东老将共现"
+  },
+  {
+    "char_a": "荀攸",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "袁基",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "曹氏与袁氏阵营交集"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "陆绩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同属江东阵营"
+  },
+  {
+    "char_a": "王异",
+    "char_b": "蔡琰",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "徐庶",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫相关"
+  },
+  {
+    "char_a": "刘繇",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "诸葛瑾",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "诸葛亮",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "傅融（司马懿伪装）与诸葛亮为宿命对手"
+  },
+  {
+    "char_a": "公孙珊",
+    "char_b": "刘和",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC共现"
+  },
+  {
+    "char_a": "夏侯渊",
+    "char_b": "夏侯西",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同族关联"
+  },
+  {
+    "char_a": "严白虎",
+    "char_b": "孙策",
+    "edgeLabel": "对立",
+    "edgeRelType": "对立",
+    "reason": "严白虎为孙策征伐江东时的敌手"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "酆公玖",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为医者/方士相关人物"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "孙策",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "士燮为交州太守，与江东有交集"
+  },
+  {
+    "char_a": "孙尚香",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "飞云",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "妇人",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC共现"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "张绣",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "董奉",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼关联"
+  },
+  {
+    "char_a": "老人",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC与密探共现"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "男人",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC共现"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "张仲景",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为方士/医者相关人物"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "刘辩",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "傅融为绣衣楼副官，刘辩为绣衣楼广陵王下属"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "西凉军",
+    "edgeLabel": "对立",
+    "edgeRelType": "对立",
+    "reason": "绣衣楼与西凉军敌对"
+  },
+  {
+    "char_a": "妇人",
+    "char_b": "少女",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "NPC共现"
+  },
+  {
+    "char_a": "袁基",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "袁氏与绣衣楼有交集"
+  },
+  {
+    "char_a": "华佗",
+    "char_b": "司马徽",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为隐士/名士相关人物"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "张郃",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "甄宓",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "史子眇",
+    "char_b": "祢衡",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "伍丹",
+    "char_b": "陈登",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼关联"
+  },
+  {
+    "char_a": "周群",
+    "char_b": "蒯越",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "刘辩",
+    "char_b": "庞羲",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "江东与绣衣楼交集"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "蔡琰",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "张邈",
+    "char_b": "荀彧",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫相关"
+  },
+  {
+    "char_a": "荀彧",
+    "char_b": "蔡琰",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "蔡琰为名士之后，与荀彧有士族交集"
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "袁基",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "贾诩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "蔡琰",
+    "char_b": "郭嘉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "张角",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "阿蝉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "江东与绣衣楼交集"
+  },
+  {
+    "char_a": "阿蝉",
+    "char_b": "颜良",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "周忠",
+    "char_b": "耿公子",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "蒯越",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "张修",
+    "char_b": "葛洪",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "同为方士相关人物"
+  },
+  {
+    "char_a": "孙坚",
+    "char_b": "孙策",
+    "edgeLabel": "父子",
+    "edgeRelType": "血亲",
+    "reason": "孙坚为孙策之父"
+  },
+  {
+    "char_a": "刘繇",
+    "char_b": "满宠",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "董奉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "安期",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "张绣",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "程昱",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "曹氏与绣衣楼人物交集"
+  },
+  {
+    "char_a": "周忠",
+    "char_b": "荀攸",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "耿公子",
+    "char_b": "荀攸",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "蒯越",
+    "char_b": "许曼",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "陈登",
+    "char_b": "马超",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "绣衣楼与西凉阵营交集"
+  },
+  {
+    "char_a": "孔融",
+    "char_b": "徐庶",
+    "edgeLabel": "同窗",
+    "edgeRelType": "友好",
+    "reason": "辟雍学宫同窗"
+  },
+  {
+    "char_a": "朱然",
+    "char_b": "虞翻",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属江东阵营"
+  },
+  {
+    "char_a": "傅融",
+    "char_b": "陈应",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属绣衣楼关联"
+  },
+  {
+    "char_a": "士燮",
+    "char_b": "陈登",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "左慈",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "孙权",
+    "char_b": "陆逊",
+    "edgeLabel": "从属",
+    "edgeRelType": "从属",
+    "reason": "陆逊为孙权麾下重臣"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "贾诩",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "吕蒙",
+    "char_b": "孙尚香",
+    "edgeLabel": "同僚",
+    "edgeRelType": "友好",
+    "reason": "同属江东阵营"
+  },
+  {
+    "char_a": "左慈",
+    "char_b": "白龙",
+    "edgeLabel": "同门",
+    "edgeRelType": "友好",
+    "reason": "白龙为左慈相关灵体/神兽"
+  },
+  {
+    "char_a": "祢衡",
+    "char_b": "酆公玖",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "周瑜",
+    "char_b": "干吉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "孙策",
+    "char_b": "荀彧",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "江东与曹氏阵营交集"
+  },
+  {
+    "char_a": "甘宁",
+    "char_b": "诸葛诞",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "张辽",
+    "char_b": "董奉",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于活动剧情"
+  },
+  {
+    "char_a": "张郃",
+    "char_b": "祢衡",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  },
+  {
+    "char_a": "张绣",
+    "char_b": "荀攸",
+    "edgeLabel": "相识",
+    "edgeRelType": "其他",
+    "reason": "多次共现于密探故事"
+  }
+]

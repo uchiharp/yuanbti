@@ -1,0 +1,826 @@
+[
+  {
+    "idx": 0,
+    "characters": [
+      "南有乔木",
+      "严白虎-密探故事",
+      "凌统-密探故事",
+      "令狐茂-密探故事",
+      "公孙珊-密探故事"
+    ],
+    "files": [
+      "/tmp/char_南有乔木.txt",
+      "/tmp/char_严白虎-密探故事.txt",
+      "/tmp/char_凌统-密探故事.txt",
+      "/tmp/char_令狐茂-密探故事.txt",
+      "/tmp/char_公孙珊-密探故事.txt"
+    ],
+    "totalChapters": 122
+  },
+  {
+    "idx": 1,
+    "characters": [
+      "刘璋-密探故事",
+      "刘豹-密探故事",
+      "刘繇-密探故事",
+      "华佗-密探故事",
+      "卢植-密探故事"
+    ],
+    "files": [
+      "/tmp/char_刘璋-密探故事.txt",
+      "/tmp/char_刘豹-密探故事.txt",
+      "/tmp/char_刘繇-密探故事.txt",
+      "/tmp/char_华佗-密探故事.txt",
+      "/tmp/char_卢植-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 2,
+    "characters": [
+      "史子眇-密探故事",
+      "司马徽-密探故事",
+      "吕布-密探故事",
+      "吕蒙-密探故事",
+      "周忠-密探故事"
+    ],
+    "files": [
+      "/tmp/char_史子眇-密探故事.txt",
+      "/tmp/char_司马徽-密探故事.txt",
+      "/tmp/char_吕布-密探故事.txt",
+      "/tmp/char_吕蒙-密探故事.txt",
+      "/tmp/char_周忠-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 3,
+    "characters": [
+      "周瑜-密探故事",
+      "士燮-密探故事",
+      "夏侯惇-密探故事",
+      "夏侯渊-密探故事",
+      "太史慈-密探故事"
+    ],
+    "files": [
+      "/tmp/char_周瑜-密探故事.txt",
+      "/tmp/char_士燮-密探故事.txt",
+      "/tmp/char_夏侯惇-密探故事.txt",
+      "/tmp/char_夏侯渊-密探故事.txt",
+      "/tmp/char_太史慈-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 4,
+    "characters": [
+      "孙尚香-密探故事",
+      "孔融-密探故事",
+      "孙权-密探故事",
+      "安期-密探故事",
+      "小乔-密探故事"
+    ],
+    "files": [
+      "/tmp/char_孙尚香-密探故事.txt",
+      "/tmp/char_孔融-密探故事.txt",
+      "/tmp/char_孙权-密探故事.txt",
+      "/tmp/char_安期-密探故事.txt",
+      "/tmp/char_小乔-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 5,
+    "characters": [
+      "干吉-密探故事",
+      "张燕-密探故事",
+      "庞统-密探故事",
+      "庞德-密探故事",
+      "庞羲-密探故事"
+    ],
+    "files": [
+      "/tmp/char_干吉-密探故事.txt",
+      "/tmp/char_张燕-密探故事.txt",
+      "/tmp/char_庞统-密探故事.txt",
+      "/tmp/char_庞德-密探故事.txt",
+      "/tmp/char_庞羲-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 6,
+    "characters": [
+      "张修-密探故事",
+      "张仲景-密探故事",
+      "张昭-密探故事",
+      "张绣-密探故事",
+      "张角-密探故事"
+    ],
+    "files": [
+      "/tmp/char_张修-密探故事.txt",
+      "/tmp/char_张仲景-密探故事.txt",
+      "/tmp/char_张昭-密探故事.txt",
+      "/tmp/char_张绣-密探故事.txt",
+      "/tmp/char_张角-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 7,
+    "characters": [
+      "张郃-密探故事",
+      "张辽-密探故事",
+      "张邈-密探故事",
+      "张闿-密探故事",
+      "张飞-密探故事"
+    ],
+    "files": [
+      "/tmp/char_张郃-密探故事.txt",
+      "/tmp/char_张辽-密探故事.txt",
+      "/tmp/char_张邈-密探故事.txt",
+      "/tmp/char_张闿-密探故事.txt",
+      "/tmp/char_张飞-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 8,
+    "characters": [
+      "徐庶-密探故事",
+      "张鲁-密探故事",
+      "戏学-密探故事",
+      "文丑-密探故事",
+      "曹丕-密探故事"
+    ],
+    "files": [
+      "/tmp/char_徐庶-密探故事.txt",
+      "/tmp/char_张鲁-密探故事.txt",
+      "/tmp/char_戏学-密探故事.txt",
+      "/tmp/char_文丑-密探故事.txt",
+      "/tmp/char_曹丕-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 9,
+    "characters": [
+      "贾诩-密探故事",
+      "曹植-密探故事",
+      "朱然-密探故事",
+      "法正-密探故事",
+      "杨修-密探故事"
+    ],
+    "files": [
+      "/tmp/char_贾诩-密探故事.txt",
+      "/tmp/char_曹植-密探故事.txt",
+      "/tmp/char_朱然-密探故事.txt",
+      "/tmp/char_法正-密探故事.txt",
+      "/tmp/char_杨修-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 10,
+    "characters": [
+      "满宠-密探故事",
+      "王异-密探故事",
+      "甄宓-密探故事",
+      "王粲-密探故事",
+      "甘宁-密探故事"
+    ],
+    "files": [
+      "/tmp/char_满宠-密探故事.txt",
+      "/tmp/char_王异-密探故事.txt",
+      "/tmp/char_甄宓-密探故事.txt",
+      "/tmp/char_王粲-密探故事.txt",
+      "/tmp/char_甘宁-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 11,
+    "characters": [
+      "祢衡-密探故事",
+      "程昱-密探故事",
+      "程普-密探故事",
+      "荀彧-密探故事",
+      "葛洪-密探故事"
+    ],
+    "files": [
+      "/tmp/char_祢衡-密探故事.txt",
+      "/tmp/char_程昱-密探故事.txt",
+      "/tmp/char_程普-密探故事.txt",
+      "/tmp/char_荀彧-密探故事.txt",
+      "/tmp/char_葛洪-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 12,
+    "characters": [
+      "简雍-密探故事",
+      "荀攸-密探故事",
+      "董奉-密探故事",
+      "董白-密探故事",
+      "蒯良-密探故事"
+    ],
+    "files": [
+      "/tmp/char_简雍-密探故事.txt",
+      "/tmp/char_荀攸-密探故事.txt",
+      "/tmp/char_董奉-密探故事.txt",
+      "/tmp/char_董白-密探故事.txt",
+      "/tmp/char_蒯良-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 13,
+    "characters": [
+      "蒯越-密探故事",
+      "蔡琰-密探故事",
+      "虞翻-密探故事",
+      "诸葛亮-密探故事",
+      "许攸-密探故事"
+    ],
+    "files": [
+      "/tmp/char_蒯越-密探故事.txt",
+      "/tmp/char_蔡琰-密探故事.txt",
+      "/tmp/char_虞翻-密探故事.txt",
+      "/tmp/char_诸葛亮-密探故事.txt",
+      "/tmp/char_许攸-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 14,
+    "characters": [
+      "许曼-密探故事",
+      "诸葛瑾-密探故事",
+      "诸葛诞-密探故事",
+      "郭嘉-密探故事",
+      "郭女王-密探故事"
+    ],
+    "files": [
+      "/tmp/char_许曼-密探故事.txt",
+      "/tmp/char_诸葛瑾-密探故事.txt",
+      "/tmp/char_诸葛诞-密探故事.txt",
+      "/tmp/char_郭嘉-密探故事.txt",
+      "/tmp/char_郭女王-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 15,
+    "characters": [
+      "郭解-密探故事",
+      "酆公玖-密探故事",
+      "酆公珠-密探故事",
+      "钟繇-密探故事",
+      "阿蝉-密探故事"
+    ],
+    "files": [
+      "/tmp/char_郭解-密探故事.txt",
+      "/tmp/char_酆公玖-密探故事.txt",
+      "/tmp/char_酆公珠-密探故事.txt",
+      "/tmp/char_钟繇-密探故事.txt",
+      "/tmp/char_阿蝉-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 16,
+    "characters": [
+      "陆逊-密探故事",
+      "陈纪-密探故事",
+      "陆绩-密探故事",
+      "陈应-密探故事",
+      "陈登-密探故事"
+    ],
+    "files": [
+      "/tmp/char_陆逊-密探故事.txt",
+      "/tmp/char_陈纪-密探故事.txt",
+      "/tmp/char_陆绩-密探故事.txt",
+      "/tmp/char_陈应-密探故事.txt",
+      "/tmp/char_陈登-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 17,
+    "characters": [
+      "陈群-密探故事",
+      "颜良-密探故事",
+      "马腾-密探故事",
+      "马超-密探故事",
+      "黄盖-密探故事"
+    ],
+    "files": [
+      "/tmp/char_陈群-密探故事.txt",
+      "/tmp/char_颜良-密探故事.txt",
+      "/tmp/char_马腾-密探故事.txt",
+      "/tmp/char_马超-密探故事.txt",
+      "/tmp/char_黄盖-密探故事.txt"
+    ],
+    "totalChapters": 120
+  },
+  {
+    "idx": 18,
+    "characters": [
+      "鲁肃-密探故事",
+      "黄月英-密探故事",
+      "丹书白马",
+      "陶生",
+      "凤皇鹑笼"
+    ],
+    "files": [
+      "/tmp/char_鲁肃-密探故事.txt",
+      "/tmp/char_黄月英-密探故事.txt",
+      "/tmp/char_丹书白马.txt",
+      "/tmp/char_陶生.txt",
+      "/tmp/char_凤皇鹑笼.txt"
+    ],
+    "totalChapters": 106
+  },
+  {
+    "idx": 19,
+    "characters": [
+      "烈火入喉",
+      "东海海水浴场",
+      "寒夜厄境",
+      "幽州慨飒宫",
+      "青丘戏坊"
+    ],
+    "files": [
+      "/tmp/char_烈火入喉.txt",
+      "/tmp/char_东海海水浴场.txt",
+      "/tmp/char_寒夜厄境.txt",
+      "/tmp/char_幽州慨飒宫.txt",
+      "/tmp/char_青丘戏坊.txt"
+    ],
+    "totalChapters": 77
+  },
+  {
+    "idx": 20,
+    "characters": [
+      "梦入浮生",
+      "三国志绒绒版",
+      "刘辩-约会",
+      "傅融-约会",
+      "孙策-约会"
+    ],
+    "files": [
+      "/tmp/char_梦入浮生.txt",
+      "/tmp/char_三国志绒绒版.txt",
+      "/tmp/char_刘辩-约会.txt",
+      "/tmp/char_傅融-约会.txt",
+      "/tmp/char_孙策-约会.txt"
+    ],
+    "totalChapters": 65
+  },
+  {
+    "idx": 21,
+    "characters": [
+      "左慈-约会",
+      "袁基-约会",
+      "珠履三千",
+      "风起荷影",
+      "鵩鸟承尘"
+    ],
+    "files": [
+      "/tmp/char_左慈-约会.txt",
+      "/tmp/char_袁基-约会.txt",
+      "/tmp/char_珠履三千.txt",
+      "/tmp/char_风起荷影.txt",
+      "/tmp/char_鵩鸟承尘.txt"
+    ],
+    "totalChapters": 55
+  },
+  {
+    "idx": 22,
+    "characters": [
+      "月海夜航船",
+      "董逃歌（下）",
+      "空花阳焰",
+      "朝歌之战",
+      "秋坟鬼唱"
+    ],
+    "files": [
+      "/tmp/char_月海夜航船.txt",
+      "/tmp/char_董逃歌（下）.txt",
+      "/tmp/char_空花阳焰.txt",
+      "/tmp/char_朝歌之战.txt",
+      "/tmp/char_秋坟鬼唱.txt"
+    ],
+    "totalChapters": 42
+  },
+  {
+    "idx": 23,
+    "characters": [
+      "董逃歌（上）",
+      "天下隐光",
+      "斧蝶梦",
+      "燕歌行",
+      "回乡偶书"
+    ],
+    "files": [
+      "/tmp/char_董逃歌（上）.txt",
+      "/tmp/char_天下隐光.txt",
+      "/tmp/char_斧蝶梦.txt",
+      "/tmp/char_燕歌行.txt",
+      "/tmp/char_回乡偶书.txt"
+    ],
+    "totalChapters": 34
+  },
+  {
+    "idx": 24,
+    "characters": [
+      "仙殒",
+      "元夕灯如昼",
+      "躬耕南阳",
+      "东郡太守",
+      "剑剑剑来"
+    ],
+    "files": [
+      "/tmp/char_仙殒.txt",
+      "/tmp/char_元夕灯如昼.txt",
+      "/tmp/char_躬耕南阳.txt",
+      "/tmp/char_东郡太守.txt",
+      "/tmp/char_剑剑剑来.txt"
+    ],
+    "totalChapters": 28
+  },
+  {
+    "idx": 25,
+    "characters": [
+      "咪教模拟器",
+      "披荆斩棘的实习考核",
+      "乘风破浪的公务",
+      "傅融-恋念剧情",
+      "孙策-恋念剧情"
+    ],
+    "files": [
+      "/tmp/char_咪教模拟器.txt",
+      "/tmp/char_披荆斩棘的实习考核.txt",
+      "/tmp/char_乘风破浪的公务.txt",
+      "/tmp/char_傅融-恋念剧情.txt",
+      "/tmp/char_孙策-恋念剧情.txt"
+    ],
+    "totalChapters": 22
+  },
+  {
+    "idx": 26,
+    "characters": [
+      "左慈-恋念剧情",
+      "三国志魂魂版",
+      "刘辩-恋念剧情",
+      "广陵成长计划",
+      "袁基-恋念剧情"
+    ],
+    "files": [
+      "/tmp/char_左慈-恋念剧情.txt",
+      "/tmp/char_三国志魂魂版.txt",
+      "/tmp/char_刘辩-恋念剧情.txt",
+      "/tmp/char_广陵成长计划.txt",
+      "/tmp/char_袁基-恋念剧情.txt"
+    ],
+    "totalChapters": 16
+  },
+  {
+    "idx": 27,
+    "characters": [
+      "张辽-活动剧情",
+      "阿蝉-活动剧情",
+      "双魂成行",
+      "夕情欢馀牙轴",
+      "七夕欢情·刘辩"
+    ],
+    "files": [
+      "/tmp/char_张辽-活动剧情.txt",
+      "/tmp/char_阿蝉-活动剧情.txt",
+      "/tmp/char_双魂成行.txt",
+      "/tmp/char_夕情欢馀牙轴.txt",
+      "/tmp/char_七夕欢情·刘辩.txt"
+    ],
+    "totalChapters": 9
+  },
+  {
+    "idx": 28,
+    "characters": [
+      "七夕欢情·孙策",
+      "七夕欢情·左慈",
+      "七夕欢情·袁基",
+      "【测试刊01】",
+      "七夕欢情"
+    ],
+    "files": [
+      "/tmp/char_七夕欢情·孙策.txt",
+      "/tmp/char_七夕欢情·左慈.txt",
+      "/tmp/char_七夕欢情·袁基.txt",
+      "/tmp/char_【测试刊01】.txt",
+      "/tmp/char_七夕欢情.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 29,
+    "characters": [
+      "七夕欢情·傅融",
+      "七载相逢之秋",
+      "七载重逢之秋",
+      "三千宇宙",
+      "乌云白云·地下遗迹"
+    ],
+    "files": [
+      "/tmp/char_七夕欢情·傅融.txt",
+      "/tmp/char_七载相逢之秋.txt",
+      "/tmp/char_七载重逢之秋.txt",
+      "/tmp/char_三千宇宙.txt",
+      "/tmp/char_乌云白云·地下遗迹.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 30,
+    "characters": [
+      "乌飞·地下遗迹",
+      "乙巳年春节晚会",
+      "书山私语",
+      "云梦巫乡",
+      "傅副官的休沐日"
+    ],
+    "files": [
+      "/tmp/char_乌飞·地下遗迹.txt",
+      "/tmp/char_乙巳年春节晚会.txt",
+      "/tmp/char_书山私语.txt",
+      "/tmp/char_云梦巫乡.txt",
+      "/tmp/char_傅副官的休沐日.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 31,
+    "characters": [
+      "再探桃源",
+      "冬月农庄",
+      "华堂夜宴",
+      "却扇歌·地下遗迹",
+      "围城·地下遗迹"
+    ],
+    "files": [
+      "/tmp/char_再探桃源.txt",
+      "/tmp/char_冬月农庄.txt",
+      "/tmp/char_华堂夜宴.txt",
+      "/tmp/char_却扇歌·地下遗迹.txt",
+      "/tmp/char_围城·地下遗迹.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 32,
+    "characters": [
+      "塞上正春风",
+      "夕情欢馀·傅融",
+      "夕情欢馀·刘辩",
+      "夕情欢馀·孙策",
+      "夕情欢馀·左慈"
+    ],
+    "files": [
+      "/tmp/char_塞上正春风.txt",
+      "/tmp/char_夕情欢馀·傅融.txt",
+      "/tmp/char_夕情欢馀·刘辩.txt",
+      "/tmp/char_夕情欢馀·孙策.txt",
+      "/tmp/char_夕情欢馀·左慈.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 33,
+    "characters": [
+      "夕情欢馀·袁基",
+      "密探寄语",
+      "师子狻猊·地下遗迹",
+      "御风临雪宫",
+      "快意江海游"
+    ],
+    "files": [
+      "/tmp/char_夕情欢馀·袁基.txt",
+      "/tmp/char_密探寄语.txt",
+      "/tmp/char_师子狻猊·地下遗迹.txt",
+      "/tmp/char_御风临雪宫.txt",
+      "/tmp/char_快意江海游.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 34,
+    "characters": [
+      "惊甜幽市行",
+      "挑灯夜集",
+      "新人特训",
+      "春月柳",
+      "春月柳·傅融"
+    ],
+    "files": [
+      "/tmp/char_惊甜幽市行.txt",
+      "/tmp/char_挑灯夜集.txt",
+      "/tmp/char_新人特训.txt",
+      "/tmp/char_春月柳.txt",
+      "/tmp/char_春月柳·傅融.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 35,
+    "characters": [
+      "春月柳·刘辩",
+      "春月柳·孙策",
+      "春月柳·左慈",
+      "春月柳·袁基",
+      "望祈丰年"
+    ],
+    "files": [
+      "/tmp/char_春月柳·刘辩.txt",
+      "/tmp/char_春月柳·孙策.txt",
+      "/tmp/char_春月柳·左慈.txt",
+      "/tmp/char_春月柳·袁基.txt",
+      "/tmp/char_望祈丰年.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 36,
+    "characters": [
+      "望祈丰年·贰",
+      "极乐之宴·地下遗迹",
+      "桃源村志",
+      "桃源温泉山庄",
+      "梦中雪·地下遗迹"
+    ],
+    "files": [
+      "/tmp/char_望祈丰年·贰.txt",
+      "/tmp/char_极乐之宴·地下遗迹.txt",
+      "/tmp/char_桃源村志.txt",
+      "/tmp/char_桃源温泉山庄.txt",
+      "/tmp/char_梦中雪·地下遗迹.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 37,
+    "characters": [
+      "欲影·谍影·地下遗迹",
+      "欲追日影·地下遗迹",
+      "水村酒旗风",
+      "江东万里船",
+      "浮白与离光·地下遗迹"
+    ],
+    "files": [
+      "/tmp/char_欲影·谍影·地下遗迹.txt",
+      "/tmp/char_欲追日影·地下遗迹.txt",
+      "/tmp/char_水村酒旗风.txt",
+      "/tmp/char_江东万里船.txt",
+      "/tmp/char_浮白与离光·地下遗迹.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 38,
+    "characters": [
+      "海岛漂流",
+      "渺渺兮仙乡",
+      "狐截尾·地下遗迹",
+      "湖心之梦·地下遗迹",
+      "灯之国·地下遗迹"
+    ],
+    "files": [
+      "/tmp/char_海岛漂流.txt",
+      "/tmp/char_渺渺兮仙乡.txt",
+      "/tmp/char_狐截尾·地下遗迹.txt",
+      "/tmp/char_湖心之梦·地下遗迹.txt",
+      "/tmp/char_灯之国·地下遗迹.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 39,
+    "characters": [
+      "燃灯照夜",
+      "狐虎度假游",
+      "璃魂月魄·地下遗迹",
+      "盛宴·地下遗迹",
+      "破浪虎跳峡"
+    ],
+    "files": [
+      "/tmp/char_燃灯照夜.txt",
+      "/tmp/char_狐虎度假游.txt",
+      "/tmp/char_璃魂月魄·地下遗迹.txt",
+      "/tmp/char_盛宴·地下遗迹.txt",
+      "/tmp/char_破浪虎跳峡.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 40,
+    "characters": [
+      "神游·地下遗迹",
+      "竹露闲煮秋",
+      "紫藤醉日·地下遗迹",
+      "绣衣楼半周年团建：绝密录像",
+      "若书之说·地下遗迹"
+    ],
+    "files": [
+      "/tmp/char_神游·地下遗迹.txt",
+      "/tmp/char_竹露闲煮秋.txt",
+      "/tmp/char_紫藤醉日·地下遗迹.txt",
+      "/tmp/char_绣衣楼半周年团建：绝密录像.txt",
+      "/tmp/char_若书之说·地下遗迹.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 41,
+    "characters": [
+      "谷雨春风",
+      "谷雨春风·傅融",
+      "谷雨春风·刘辩",
+      "谷雨春风·孙策",
+      "谷雨春风·左慈"
+    ],
+    "files": [
+      "/tmp/char_谷雨春风.txt",
+      "/tmp/char_谷雨春风·傅融.txt",
+      "/tmp/char_谷雨春风·刘辩.txt",
+      "/tmp/char_谷雨春风·孙策.txt",
+      "/tmp/char_谷雨春风·左慈.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 42,
+    "characters": [
+      "谷雨春风·袁基",
+      "邺城之战",
+      "重阳踏秋",
+      "重阳踏秋·傅融",
+      "重阳踏秋·刘辩"
+    ],
+    "files": [
+      "/tmp/char_谷雨春风·袁基.txt",
+      "/tmp/char_邺城之战.txt",
+      "/tmp/char_重阳踏秋.txt",
+      "/tmp/char_重阳踏秋·傅融.txt",
+      "/tmp/char_重阳踏秋·刘辩.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 43,
+    "characters": [
+      "重阳踏秋·孙策",
+      "重阳踏秋·左慈",
+      "重阳踏秋·袁基",
+      "阆苑秋光暮",
+      "陶然方外乐"
+    ],
+    "files": [
+      "/tmp/char_重阳踏秋·孙策.txt",
+      "/tmp/char_重阳踏秋·左慈.txt",
+      "/tmp/char_重阳踏秋·袁基.txt",
+      "/tmp/char_阆苑秋光暮.txt",
+      "/tmp/char_陶然方外乐.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 44,
+    "characters": [
+      "魇·地下遗迹",
+      "雪野仙踪",
+      "魂生一串",
+      "鸢记·农家乐",
+      "鸢记·华宵"
+    ],
+    "files": [
+      "/tmp/char_魇·地下遗迹.txt",
+      "/tmp/char_雪野仙踪.txt",
+      "/tmp/char_魂生一串.txt",
+      "/tmp/char_鸢记·农家乐.txt",
+      "/tmp/char_鸢记·华宵.txt"
+    ],
+    "totalChapters": 5
+  },
+  {
+    "idx": 45,
+    "characters": [
+      "鸢记·围城",
+      "鸢记·山可崩",
+      "鸢记·欲影·谍影"
+    ],
+    "files": [
+      "/tmp/char_鸢记·围城.txt",
+      "/tmp/char_鸢记·山可崩.txt",
+      "/tmp/char_鸢记·欲影·谍影.txt"
+    ],
+    "totalChapters": 3
+  }
+]

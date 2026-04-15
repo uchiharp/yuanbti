@@ -1,0 +1,85 @@
+[
+  {
+    "id": "q_ganji_1",
+    "dimension": "S6",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "干吉",
+    "source_story": "太平道",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "干吉创太平道，以符水治病救人。若有人利用他的符水欺骗百姓牟利——",
+    "options": [
+      {
+        "label": "A",
+        "text": "怒不可遏，当众揭露骗子的真面目",
+        "scores": {
+          "S6": 4,
+          "S7": 3,
+          "S10": 3.5
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "不动声色，暗中调查后再做处理",
+        "scores": {
+          "S6": 3,
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "以德报怨，用真正的道法感化对方",
+        "scores": {
+          "S6": 5,
+          "S8": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "干吉的选择：坚守道义底线，以慈悲之心化解恶意。"
+  },
+  {
+    "id": "q_ganji_2",
+    "dimension": "S8",
+    "cross_dimension": "S6",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「救人一命胜造七级浮屠。」面对一个素不相识的重伤之人——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先确认此人是否值得救，值得深思",
+        "scores": {
+          "S8": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "能救就救，但也不会把自己搭进去",
+        "scores": {
+          "S8": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不问来历，不计代价，全力以赴救治",
+        "scores": {
+          "S8": 5,
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "干吉以符水济世，从不问来者身份。"
+  }
+]

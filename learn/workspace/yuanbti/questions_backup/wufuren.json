@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q_wufuren_1",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "吴夫人",
+    "source_story": "寿春·家中日常",
+    "route_hint": null,
+    "city_hint": "寿春",
+    "text": "吴夫人笑着拉过身边人的手，语气温柔——「对对对，听伯符的，千万别拘束。这是今年的桂花新酿，快尝尝。」转头又念叨：「管事，快去纺室问问，她什么时候回来？」若你是吴夫人，在乱世之中操持一大家子，你最希望给孩子们什么——",
+    "options": [
+      {
+        "label": "A",
+        "text": "安稳的生活就够了，外面的纷争让他们去操心。",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "让每个孩子都感受到，这个家永远有人在等他们回来。",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "教他们武艺和权术，乱世里心软是要吃亏的。",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "吴夫人是孙策孙权背后的温暖依靠——她不是不知道世道险恶，只是选择以温柔对抗乱世。"
+  }
+]

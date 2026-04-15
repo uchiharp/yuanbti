@@ -1,0 +1,80 @@
+[
+  {
+    "id": "q_liuzhang_01",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "刘璋",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "你是益州之主，治下百姓安乐。有谋士建议你趁机出兵扩张版图，但你的将士大多没有打仗的经验。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "听从谋士建议，趁机出兵",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "加强军备，等待更好的时机",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "拒绝出兵，不忍让百姓因战乱受苦",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自刘璋的密探故事——他以仁厚著称，宁可保守也不愿百姓遭殃。"
+  },
+  {
+    "id": "q_liuzhang_02",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你身边有两个人：一个对你忠心耿耿但能力平庸，一个才华出众但心思难测。你要选一个做近臣。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "选忠心的，至少不会背叛",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "两个都用，各取所长",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "设局考验有才华的那位",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "刘璋为人宽厚但缺乏识人之明与权谋手腕，常被心思深沉之人利用。"
+  }
+]

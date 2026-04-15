@@ -1,0 +1,441 @@
+{
+  "title": "东海海水浴场/活动剧情/伍丹",
+  "category": "活动剧情",
+  "characters": [
+    "伍丹",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "刚捡的贝壳，想全都送给殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "原来海下也有漂亮的花，我可以带回去给小张将军看吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "海面黑漆漆的，海水下会藏着什么呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "呀！哎？我喝的是果汁吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "呼……呼……果汁好冰……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "咦？平局就要这样碰杯？碰！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "居然赢了！嘿嘿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "楼主的眼睛怎么越喝越亮呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最近的一次哭泣？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "......上个月，和蝉姐一起出任务，我太着急，差点搞砸了。她没怪我，我反而更想哭，好没出息......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "要是能再快一点变成蝉姐那样的人就好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "最讨厌什么称呼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "非要说的话，不喜欢别人以“小孩子”开头评价我。“还是个小孩子，已经很不错了”，“小孩子也会这个，真厉害”，很不喜欢这样的话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "很多话……听起来是优待、夸奖，其实是轻蔑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "对自己最满意的是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "最近蛾部在特训！上午跟马腾伯伯练体能，下午跟黄盖伯伯练伏击，晚上跟张绣的狼狗一起拉练六十里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "累的累的，甘宁都说累！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "休沐最喜欢的放松方式？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "上回在江东，看到有位伯伯打铁，乱七八糟的废铜贴被他扔进炉子里，很快就淬出一把新刃，真是好看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=浴场-伍丹-Q版",
+      "emotion": "后来休沐我就常去工部，锤锤敲敲，脑子里的不开心都被砸没了。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头伍丹brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''伍丹'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"初见对话&私汤对话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"初见对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"私汤对话/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "class\"yuantable1\" style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 浴场小物 !! 对话内容 !! 性格标签 !! 浴场小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px解暑丸药解暑丸药"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"刚才晕晕的，吃完好多啦！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"唔唔唔唔哦！擦好了，我们蛾部都是这样擦脸的。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px螺号螺号"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"楼主快看！那边的海鸥会跟着螺号起舞！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px浮板浮板"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"楼主楼主，看我游得快不快？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px沙滩藤球沙滩藤球"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"接我一球！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px防晒膏防晒膏"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"楼主帮我看看涂匀没。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px捞网捞网"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"捞到了小贝壳！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰饮子冰饮子"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"唔！吃太急，冰到牙了......！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px羊皮筏羊皮筏"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"有点怕......可以抓住楼主的衣袖吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px鲜瓜果盘鲜瓜果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"哇，一下不知该先吃哪一种呢！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px竹水枪竹水枪"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好玩好玩！楼主陪我再玩一次！/span"
+    },
+    {
+      "type": "narration",
+      "text": "流连忘返"
+    },
+    {
+      "type": "narration",
+      "text": "30px海鲜拼盘海鲜拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"鱼和虾都甜丝丝的。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"嘿嘿，甜甜的！这个我可以多喝一点吗？（她喝的是果汁）/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px堆沙套组堆沙套组"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"我来堆一个绣衣楼！/span"
+    },
+    {
+      "type": "narration",
+      "text": "堆高高"
+    },
+    {
+      "type": "narration",
+      "text": "30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"楼主要给我梳辫子？......呀！小揪揪梳歪了！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup30px遮阳帽遮阳帽"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"哎呀，大到遮住脸啦......什么也看不清。/span"
+    },
+    {
+      "type": "narration",
+      "text": "一帽障目"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"最近的一次哭泣？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao最讨厌什么称呼？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao对自己最满意的是？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao休沐最喜欢的放松方式？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%9C%E6%B5%B7%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%9C%BA/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E4%BC%8D%E4%B8%B9",
+  "crawled_at": "2026-04-12T21:59:11.250117",
+  "raw_wikitext": "{{面包屑|活动剧情|东海海水浴场/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:东海海水浴场背景.png}}}}\n<center>\n{{板块|按钮|东海海水浴场/活动剧情}}<br>\n{{板块|按钮|东海海水浴场/活动剧情/甘缇|甘缇}}\n{{板块|按钮|东海海水浴场/活动剧情/伍丹|伍丹}}\n{{板块|按钮|东海海水浴场/活动剧情/李脱|李脱}}\n{{板块|按钮|东海海水浴场/活动剧情/李真|李真}}\n{{板块|按钮|东海海水浴场/活动剧情/颜良|颜良}}\n{{板块|按钮|东海海水浴场/活动剧情/文丑|文丑}}\n{{板块|按钮|东海海水浴场/活动剧情/张辽|张辽}}<br>\n{{板块|按钮|东海海水浴场/活动剧情/周瑜|周瑜}}\n{{板块|按钮|东海海水浴场/活动剧情/陆逊|陆逊}}\n{{板块|按钮|东海海水浴场/活动剧情/孙权|孙权}}\n{{板块|按钮|东海海水浴场/活动剧情/张修|张修}}\n{{板块|按钮|东海海水浴场/活动剧情/荀彧|荀彧}}\n{{板块|按钮|东海海水浴场/活动剧情/郭嘉|郭嘉}}\n{{板块|按钮|东海海水浴场/活动剧情/贾诩|贾诩}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-伍丹.png|100px|团建密探小头-伍丹]]<br><br>\n'''伍丹'''\n</center>\n='''<span style=\"color:#082d3d\">初见对话&私汤对话</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">初见对话</p>\n|\n{{对话-头}}\n{{对话语音|伍丹|楼主快看，贝壳亮晶晶的！|头像=浴场-伍丹-Q版|语音=伍丹-初见对话}}\n{{对话-尾}}\n|-\n|<p class=\"label\" style=\" \">私汤对话</p>\n|\n{{对话-头}}\n{{对话语音|伍丹|游水游得好畅快！噗噜噜噜噜一一|头像=浴场-伍丹-Q版|语音=伍丹-私汤对话}}\n{{对话-尾}}\n|}\n\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=\"yuantable1\" style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 浴场小物 !! 对话内容 !! 性格标签 !! 浴场小物 !! 对话内容 !! 性格标签\n|-\n| [[file:解暑丸药.png|30px|解暑丸药]][[解暑丸药|解暑丸药]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=解暑丸药|对解暑丸药的喜好=|语音=|性格标签=/|语音内容=刚才晕晕的，吃完好多啦！}}</nowiki>\">刚才晕晕的，吃完好多啦！</span>\n|| /\n| [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=素巾|对素巾的喜好=|语音=|性格标签=/|语音内容=唔唔唔唔哦！擦好了，我们蛾部都是这样擦脸的。}}</nowiki>\">唔唔唔唔哦！擦好了，我们蛾部都是这样擦脸的。</span>\n|| /\n|-\n| [[file:螺号.png|30px|螺号]][[螺号|螺号]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=螺号|对螺号的喜好=|语音=|性格标签=/|语音内容=楼主快看！那边的海鸥会跟着螺号起舞！}}</nowiki>\">楼主快看！那边的海鸥会跟着螺号起舞！</span>\n|| /\n| [[file:浮板.png|30px|浮板]][[浮板|浮板]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=浮板|对浮板的喜好=|语音=|性格标签=/|语音内容=楼主楼主，看我游得快不快？}}</nowiki>\">楼主楼主，看我游得快不快？</span>\n|| /\n|-\n| [[file:沙滩藤球.png|30px|沙滩藤球]][[沙滩藤球|沙滩藤球]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=沙滩藤球|对沙滩藤球的喜好=|语音=|性格标签=/|语音内容=接我一球！}}</nowiki>\">接我一球！</span>\n|| /\n| [[file:防晒膏.png|30px|防晒膏]][[防晒膏|防晒膏]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=防晒膏|对防晒膏的喜好=|语音=|性格标签=/|语音内容=楼主帮我看看涂匀没。}}</nowiki>\">楼主帮我看看涂匀没。</span>\n|| /\n|-\n| [[file:捞网.png|30px|捞网]][[捞网|捞网]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=捞网|对捞网的喜好=|语音=|性格标签=/|语音内容=捞到了小贝壳！}}</nowiki>\">捞到了小贝壳！</span>\n|| /\n| [[file:冰饮子.png|30px|冰饮子]][[冰饮子|冰饮子]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=冰饮子|对冰饮子的喜好=|语音=|性格标签=/|语音内容=唔！吃太急，冰到牙了......！}}</nowiki>\">唔！吃太急，冰到牙了......！</span>\n|| /\n|-\n| [[file:羊皮筏.png|30px|羊皮筏]][[羊皮筏|羊皮筏]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=羊皮筏|对羊皮筏的喜好=|语音=|性格标签=/|语音内容=有点怕......可以抓住楼主的衣袖吗？}}</nowiki>\">有点怕......可以抓住楼主的衣袖吗？</span>\n|| /\n| [[file:鲜瓜果盘.png|30px|鲜瓜果盘]][[鲜瓜果盘|鲜瓜果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=鲜瓜果盘|对鲜瓜果盘的喜好=|语音=|性格标签=/|语音内容=哇，一下不知该先吃哪一种呢！}}</nowiki>\">哇，一下不知该先吃哪一种呢！</span>\n|| /\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:竹水枪.png|30px|竹水枪]][[竹水枪|竹水枪]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=竹水枪|对竹水枪的喜好=喜欢|语音=|性格标签=流连忘返|语音内容=好玩好玩！楼主陪我再玩一次！}}</nowiki>\">好玩好玩！楼主陪我再玩一次！</span>\n|| 流连忘返\n| [[file:海鲜拼盘.png|30px|海鲜拼盘]][[海鲜拼盘|海鲜拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=海鲜拼盘|对海鲜拼盘的喜好=|语音=|性格标签=/|语音内容=鱼和虾都甜丝丝的。}}</nowiki>\">鱼和虾都甜丝丝的。</span>\n|| /\n|-\n| [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=果子露|对果子露的喜好=|语音=|性格标签=/|语音内容=嘿嘿，甜甜的！这个我可以多喝一点吗？（她喝的是果汁）}}</nowiki>\">嘿嘿，甜甜的！这个我可以多喝一点吗？（她喝的是果汁）</span>\n|| /\n| [[file:堆沙套组.png|30px|堆沙套组]][[堆沙套组|堆沙套组]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=堆沙套组|对堆沙套组的喜好=|语音=|性格标签=堆高高|语音内容=我来堆一个绣衣楼！}}</nowiki>\">我来堆一个绣衣楼！</span>\n|| 堆高高\n|-\n| [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=梳篦套装|对梳篦套装的喜好=|语音=|性格标签=/|语音内容=楼主要给我梳辫子？......呀！小揪揪梳歪了！}}</nowiki>\">楼主要给我梳辫子？......呀！小揪揪梳歪了！</span>\n|| /\n|<sup>[[file:紫脸.png|18px|link=none]]</sup>[[file:遮阳帽.png|30px|遮阳帽]][[遮阳帽|遮阳帽]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{浴场-喜好-语音/悬浮|密探=伍丹|喜好物品=遮阳帽|对遮阳帽的喜好=讨厌|语音=|性格标签=一帽障目|语音内容=哎呀，大到遮住脸啦......什么也看不清。}}</nowiki>\">哎呀，大到遮住脸啦......什么也看不清。</span>\n|| 一帽障目\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|伍丹|刚捡的贝壳，想全都送给殿下。|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|伍丹|原来海下也有漂亮的花，我可以带回去给小张将军看吗？|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|伍丹|海面黑漆漆的，海水下会藏着什么呢？|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|伍丹|呀！哎？我喝的是果汁吗？|头像=浴场-伍丹-Q版}}\n{{旁白|伍丹喝下一杯果汁}}\n{{对话|伍丹|呼……呼……果汁好冰……|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|伍丹|咦？平局就要这样碰杯？碰！|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|伍丹|居然赢了！嘿嘿……|头像=浴场-伍丹-Q版}}\n{{旁白|我喝下一杯果子露。}}\n{{对话|伍丹|楼主的眼睛怎么越喝越亮呀？|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n<br>\n|}\n\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">最近的一次哭泣？</div>\n{{对话-头}}\n{{对话|我|最近的一次哭泣？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|伍丹|......上个月，和蝉姐一起出任务，我太着急，差点搞砸了。她没怪我，我反而更想哭，好没出息......|头像=浴场-伍丹-Q版}}\n{{对话|伍丹|要是能再快一点变成蝉姐那样的人就好了。|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>最讨厌什么称呼？</div>\n{{对话-头}}\n{{对话|我|最讨厌什么称呼？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|伍丹|非要说的话，不喜欢别人以“小孩子”开头评价我。“还是个小孩子，已经很不错了”，“小孩子也会这个，真厉害”，很不喜欢这样的话。|头像=浴场-伍丹-Q版}}\n{{对话|伍丹|很多话……听起来是优待、夸奖，其实是轻蔑。|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>对自己最满意的是？</div>\n{{对话-头}}\n{{对话|我|对自己最满意的是？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|伍丹|最近蛾部在特训！上午跟马腾伯伯练体能，下午跟黄盖伯伯练伏击，晚上跟张绣的狼狗一起拉练六十里……|头像=浴场-伍丹-Q版}}\n{{对话|伍丹|累的累的，甘宁都说累！|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>休沐最喜欢的放松方式？</div>\n{{对话-头}}\n{{对话|我|休沐最喜欢的放松方式？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|伍丹|上回在江东，看到有位伯伯打铁，乱七八糟的废铜贴被他扔进炉子里，很快就淬出一把新刃，真是好看。|头像=浴场-伍丹-Q版}}\n{{对话|伍丹|后来休沐我就常去工部，锤锤敲敲，脑子里的不开心都被砸没了。|头像=浴场-伍丹-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|东海海水浴场/活动剧情/李脱|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

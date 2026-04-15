@@ -1,0 +1,138 @@
+[
+  {
+    "id": "q_xunyu_1",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "荀彧",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "荀彧对广陵王说：「如果无法让所有人获得公平的幸福，那就应该让所有人获得公平的不幸。」又道：「这个天下，需要一次『重启』。」他代管荀府时，将所有仆人的工资涨了七十倍。面对一个用极端手段追求公平的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "他的出发点是好的，但手段太极端了",
+        "scores": {
+          "S6": 4,
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "理解他的逻辑，但不能认同用战争做「重启」",
+        "scores": {
+          "S6": 3,
+          "S1": 3,
+          "S8": 2,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "乱世之中，温和的手段根本改变不了什么",
+        "scores": {
+          "S6": 2,
+          "S1": 4,
+          "S8": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "荀彧的回答：「哪怕是蜉蝣般弱小的人……我至少，想给他们一次机会。」他的温柔藏在冷酷的计划之下。"
+  },
+  {
+    "id": "q_xunyu_2",
+    "dimension": "S6",
+    "cross_dimension": "S3",
+    "type": "story_anon",
+    "source_character": "荀彧",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人给你看一本账本：「天下的士族门阀，大致是可以算清的。以袁氏为首，它所拥有的粮、钱、盐，可以倒推到所有的士族身上。」他说：「天下士族所拥有的钱粮和田地，如果均分给每个百姓，那如今就会是个盛世。」他打算怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "希望他找到和平的方式重新分配，不动刀兵",
+        "scores": {
+          "S6": 4,
+          "S3": 2,
+          "S8": 3,
+          "S5": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "这账本说得对，但均分不现实，需要想别的办法",
+        "scores": {
+          "S6": 3,
+          "S3": 2.5,
+          "S7": 2,
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "既然和平做不到，那就用战争把旧秩序打碎",
+        "scores": {
+          "S6": 2,
+          "S3": 4,
+          "S10": 1,
+          "S8": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这是荀彧对天下资源分配的分析。他选择的方式是：让所有人卷入一场大战，「绞成肉泥」，让弱者和强者经历同等的苦难。"
+  },
+  {
+    "id": "q_xunyu_3",
+    "dimension": "S3",
+    "cross_dimension": "S10",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「朱门一世朱门，竹门一世竹门。殿下，不觉得无奈吗？」以下哪句话更接近你对「阶层与财富」的看法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "无奈归无奈，但出身不该决定人的一生",
+        "scores": {
+          "S3": 2,
+          "S10": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "现实就是这样，与其抱怨不如想想怎么改变",
+        "scores": {
+          "S3": 3,
+          "S10": 3,
+          "S6": 2,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "既然规则不公平，那就把规则本身推翻",
+        "scores": {
+          "S3": 4,
+          "S10": 3,
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "荀彧选择用账本丈量天下的不公，然后用七十倍的涨薪在小范围内实现公平，最后用战争在大范围内追求「公平的不幸」。"
+  }
+]

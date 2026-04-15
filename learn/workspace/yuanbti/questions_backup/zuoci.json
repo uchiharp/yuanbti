@@ -1,0 +1,1375 @@
+[
+  {
+    "id": "q_zuoci_01",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "七夕欢情·左慈",
+    "route_hint": null,
+    "city_hint": "成都",
+    "text": "七夕市集上，有人烤肉摊前驻足，他却说「吾辟谷，不食炙肉，你吃吧」，又轻声道「多食些炙肉，对身体好。你要多吃有营养的东西，肉、蛋、鱼虾都是好的。」后来又说「没事，你慢慢吃。吾替你烤。」——他不吃肉，却替你烤肉。面对亲近之人的饮食起居，你的方式更像哪一种？",
+    "options": [
+      {
+        "label": "A",
+        "text": "我自己也不怎么吃，但会记住你爱吃的东西，默默给你备好",
+        "scores": {
+          "S8": 5,
+          "S2": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "你吃好我就开心，不过我会直接陪你一起吃，不想看你一个人吃",
+        "scores": {
+          "S8": 3.5,
+          "S6": 2.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "我更在意你有没有按时吃饭，提醒过了就够了，各自安好",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈辟谷不食，却替广陵王烤肉、吹凉麦草汤、帮她撕肉干——仙人的温柔，藏在每一个不起眼的日常动作里。"
+  },
+  {
+    "id": "q_zuoci_02",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "三国志绒绒版·犬都纪事",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "各地士族鼓动追杀西凉余孽，百姓也需要一个公敌来宣泄情绪。左慈说：「最理智的做法，就是像其他大都人一样驱逐所有的西凉犬。」「抱着成为下一个公敌的觉悟，做你觉得正确的事吧。无论发生何事，吾都会站在你这边。」——面对众人的立场与你的信念相悖，你会如何选择？",
+    "options": [
+      {
+        "label": "A",
+        "text": "从众是最安全的选择，不必为众人公敌付出代价",
+        "scores": {
+          "S10": 4,
+          "S3": 3.5,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "我会衡量利弊，在力所能及的范围内做正确的事",
+        "scores": {
+          "S10": 3,
+          "S6": 2,
+          "S5": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "即便成为公敌也要做，因为正确的事不因人多而改变",
+        "scores": {
+          "S10": 1,
+          "S6": 2,
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈看透了局势，却选择站在她身边。他提醒了雪球的危险，但没有阻止她。"
+  },
+  {
+    "id": "q_zuoci_03",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "七夕欢情·左慈",
+    "route_hint": null,
+    "city_hint": "成都",
+    "text": "市集上，你额角都是汗，他说「夏天吃热汤面不热吗？看你额角都是汗。」凉面卖完了因为没有冰，他说「稍等……好了，吾替他造了一桶冰。可以点凉面了。」——你的照顾方式更像哪一种？",
+    "options": [
+      {
+        "label": "A",
+        "text": "注意到你冷了热了不舒服了，但不会直接说，默默解决",
+        "scores": {
+          "S8": 5,
+          "S7": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "直接告诉你该穿什么该吃什么，行动力拉满",
+        "scores": {
+          "S8": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "问你要不要加件衣服、换个凉快的地方，尊重你的选择",
+        "scores": {
+          "S8": 2,
+          "S6": 1,
+          "S5": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈没有说「我去给你买冰」，而是直接造了一桶冰。他不问你要不要，只看你需不需要。"
+  },
+  {
+    "id": "q_zuoci_04",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "三国志绒绒版·犬都纪事",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "左慈谈及西凉余孽的处置：「清算西凉军在三辅的罪行，是三辅的廷议奉朝廷之命裁决。如果他们在广陵作乱，则在广陵廷议裁决。否则便是私刑。」——关于「规则」与「公义」，你更认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "罪行归罪行，地域归地域，按规矩办，私刑不可取",
+        "scores": {
+          "S10": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "规矩是人定的，特殊情况可以变通，但不能全无章法",
+        "scores": {
+          "S10": 3,
+          "S6": 2.5,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "乱世之中规矩早已崩坏，何必拘泥于形式",
+        "scores": {
+          "S10": 1,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈虽然道家超然，但在程序正义上极为严谨——私刑就是私刑，哪怕对方罪有应得。"
+  },
+  {
+    "id": "q_zuoci_05",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "左慈-恋念剧情/乌飞",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "左慈说：「吾的话，不必句句都记住。只有一句，为师希望你记得。」——「乱世恩仇，皆是明月芦花。唯有吾，无论发生何事，都会站在你那一边。」——如果你是师尊，你对最亲近之人说的唯一一句话，会是哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「无论如何，我都站在你这边。」——即使全世界与你为敌",
+        "scores": {
+          "S6": 1,
+          "S10": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「照顾好自己。」——我无法时刻在你身边，你要学会独处",
+        "scores": {
+          "S6": 3,
+          "S8": 2,
+          "S10": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「别走弯路，听我的。」——我是为你好，所以你该听",
+        "scores": {
+          "S6": 5,
+          "S2": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈的底线只有广陵王。他不是控制她、约束她，而是成为她最后的退路。"
+  },
+  {
+    "id": "q_zuoci_06",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "剑剑剑来·肆·剑魂仍惆怅",
+    "route_hint": null,
+    "city_hint": "长安",
+    "text": "左慈分析局势时说：「天时，地利，人和。三者得其一可存，得其二可不败，得其三则必胜。」「把长安变成这样，也是需要事先投入天价军费的。要下很狠的手，榨到离死只有一步再停。执行起来是一套非常精密的流程，任何一个环节失控，王朝的经济都会顷刻崩塌。」——你对局势的判断方式更像哪一种？",
+    "options": [
+      {
+        "label": "A",
+        "text": "看透全局链条，从经济到军事到人心，精准预判每一步",
+        "scores": {
+          "S1": 5,
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "抓住主要矛盾，集中力量解决最关键的环节",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "走一步看一步，根据实际情况随机应变",
+        "scores": {
+          "S1": 1,
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "八百年阅历让左慈能一眼看穿王朝兴衰的经济逻辑——不是占卜，是推演。"
+  },
+  {
+    "id": "q_zuoci_07",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "仙殒·伍·缑氏山头",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "仙殒之后重逢，他说：「吾听了你的话，吾没有放弃，坚持了几十年、几百年……你告诉吾的，吾全都做到了……吾一直相信会有这一天。相信你一定会在这一天，选择一遍遍救吾。」——面对深爱的人，你会如何表达「我一直在等你」？",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接说出来：「我等了很久，每一刻都在等你。」",
+        "scores": {
+          "S2": 5,
+          "S7": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "用行动证明：我在你身边，从未离开",
+        "scores": {
+          "S2": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不会说出口，但重逢那一刻的眼神和拥抱已经说明一切",
+        "scores": {
+          "S2": 2,
+          "S8": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈是全男主中最坦率的。他不说「你终于来了」，而是说「我相信你一定会来」。"
+  },
+  {
+    "id": "q_zuoci_08",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "左慈-恋念剧情/紫藤醉日",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "左慈不小心打翻了你的妆盒，于是去请教女弟子、试过虫子和太岁肉，最后说：「打翻了你的妆盒，所以想重新给你制一些胡粉。」他坦然承认自己的笨拙，从不掩饰。当你犯了错，你更倾向于——",
+    "options": [
+      {
+        "label": "A",
+        "text": "坦率承认，然后想办法弥补，不需要解释太多",
+        "scores": {
+          "S4": 1,
+          "S6": 2,
+          "S7": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "承认错误，但会适当解释原因，不想被误解",
+        "scores": {
+          "S4": 2.5,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先观察对方的反应，再决定是否坦白或用其他方式化解",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "道家道法自然，左慈从不遮掩自己的笨拙——仙人不擅长化妆，那就去学。"
+  },
+  {
+    "id": "q_zuoci_09",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "三国志绒绒版·犬都纪事",
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "左慈用雪球作喻：「雪球一旦开始从山顶滚落……一旦开始……无论你抱有多大的意志和勇气张开双臂，都无法阻挡它的滚落。」——你表达警示的方式更像哪一种？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用比喻和故事点破，让你自己领悟危险",
+        "scores": {
+          "S7": 3.5,
+          "S8": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "直截了当告诉你后果有多严重，不拐弯抹角",
+        "scores": {
+          "S7": 2,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "委婉提醒，怕话说重了伤感情",
+        "scores": {
+          "S7": 1,
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈的锋芒藏在温和的外壳下。他用雪球的故事让你自己看见深渊，而不是拽着你退回来。"
+  },
+  {
+    "id": "q_zuoci_10",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "左慈-恋念剧情/紫藤醉日",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "打翻妆盒后，左慈说：「问了几位女弟子，她们觉得用花比较好。除此之外，吾还试过虫子、太岁肉、夜莺粪……」八百岁的仙人为你做胡粉，试遍了材料。你为在意之人做事的风格更像——",
+    "options": [
+      {
+        "label": "A",
+        "text": "默默做完所有准备工作，最后端到你面前，中间过程一句不说",
+        "scores": {
+          "S5": 3.5,
+          "S7": 2.5,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "做的时候会告诉你我在做什么，但不会邀功",
+        "scores": {
+          "S5": 2.5,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先承诺「我来搞定」，然后雷厉风行地去做",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈的行动沉稳内敛——不邀功、不声张，等你发现了才知道他做了多少。"
+  },
+  {
+    "id": "q_zuoci_11",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "三国志绒绒版·猫邦纪事",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "左慈谈及权力时说：「权力是石头，你把它裹上丝绸也好、染成彩色也好，它的本质都是石头。拿起石头，先让他们恐惧你，才能让他们爱你。」——你看待权力的方式更像——",
+    "options": [
+      {
+        "label": "A",
+        "text": "权力是工具，本质冷酷，用好了可以保护想保护的人",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "权力是责任，得到它不是为了自己，是为了能做更多事",
+        "scores": {
+          "S9": 3.5,
+          "S6": 2.5,
+          "S5": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "权力是欲望的放大器，离它越远越好",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈八百年看过太多朝代更迭，对权力既不渴望也不恐惧——他只是看得太透了。"
+  },
+  {
+    "id": "q_zuoci_12",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "七夕欢情·左慈",
+    "route_hint": null,
+    "city_hint": "成都",
+    "text": "七夕下棋赢了六个月观星台收益，左慈说：「要赌什么吗？观星台一个月的收益？隐鸢阁不是吾的，但观星台是，几个月的收益，吾还是能做主的。」——你对金钱的态度更像——",
+    "options": [
+      {
+        "label": "A",
+        "text": "钱是身外之物，够用就行，不会刻意追求",
+        "scores": {
+          "S3": 1,
+          "S6": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "钱是保障，手里有钱心里才踏实",
+        "scores": {
+          "S3": 3,
+          "S2": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "钱是筹码，积累越多能做的事越多",
+        "scores": {
+          "S3": 5,
+          "S5": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈辟谷不食，八百岁仙人几乎不涉及世俗金钱。他拿观星台收益做赌注，不是看重钱，而是觉得无所谓。"
+  },
+  {
+    "id": "q_zuoci_13",
+    "dimension": "S8",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "三国志绒绒版·相见对话/左慈",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「晨间露水会打湿爪垫，踩在吾背上走吧。」「走罢。去哪里都可以，吾都陪你。」「今日想往何处去？吾都随你。」——日常相处中，你更习惯以哪种方式表达陪伴？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不问去哪，你说去哪我就去哪，安静陪在身边就好",
+        "scores": {
+          "S8": 5,
+          "S2": 3,
+          "S7": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "会主动提议去哪里，但随时可以根据你的想法改变计划",
+        "scores": {
+          "S8": 3,
+          "S2": 3,
+          "S5": 2.5,
+          "S10": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "我也有想去的地方，一起商量着来，不必迁就",
+        "scores": {
+          "S8": 2,
+          "S2": 2,
+          "S6": 1,
+          "S3": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈的陪伴从不缺席。不问为什么、不问去哪里——你在人间，他就在。"
+  },
+  {
+    "id": "q_zuoci_14",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "左慈",
+    "source_story": "左慈-恋念剧情/紫藤醉日",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "左慈回忆年轻时：「所有的臣民都可以教你做事，警告你不要沉溺于享乐。比如吃饭的时候，礼官会盯着你，记录你一口饭嚼几下。」「礼乐、宗法刚形成的时代，所有人都恐惧它的坍塌，都在偏执地执行和维护它。」——你如何看待繁文缛节？",
+    "options": [
+      {
+        "label": "A",
+        "text": "规矩太多反而让人失去本真，道法自然最好",
+        "scores": {
+          "S10": 1,
+          "S6": 2,
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "适当的规矩是必要的，但不能偏执到令人窒息",
+        "scores": {
+          "S10": 3,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "规矩是社会运转的基石，没有规矩就会乱",
+        "scores": {
+          "S10": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "左慈年轻时被规矩束缚了太久，所以他选择道法自然——不是不懂规矩，是看透了规矩的本质。"
+  },
+  {
+    "id": "q_zuoci_15",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "左慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说过：「里八华下任家主，已在绣衣楼」「伪装、渗透、离间，是它惯用的手法」。他对暗流涌动了如指掌，却不主动出手干预，只在需要时点拨你。面对复杂的势力博弈，你的风格更像——",
+    "options": [
+      {
+        "label": "A",
+        "text": "看清所有棋局，但不下棋，只在关键时刻说一句",
+        "scores": {
+          "S1": 4,
+          "S7": 3,
+          "S6": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "主动布局，提前埋好棋子，掌控全局走向",
+        "scores": {
+          "S1": 5,
+          "S5": 4,
+          "S9": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "专注于眼前的事，大势所趋顺其自然",
+        "scores": {
+          "S1": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这个场景来自左慈的剧情。八百年的阅历让他看穿一切，但他选择旁观而非操控。"
+  },
+  {
+    "id": "q_zuoci_16",
+    "dimension": "S2",
+    "cross_dimension": "S4",
+    "type": "story_anon",
+    "source_character": "左慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个活了八百年的人对你说：「你看，仙人的心里，一样也有杂念。」「顺从杂念吧……这也是心里的自然之欲啊。」——面对内心不可言说的情感，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "坦然面对，承认它、接受它，不觉得有什么羞耻",
+        "scores": {
+          "S2": 5,
+          "S4": 1,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "承认有这份感情，但不会轻易说出来，放在心里就好",
+        "scores": {
+          "S2": 3,
+          "S4": 2.5,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "会努力压制它，因为理智告诉我不该被情绪左右",
+        "scores": {
+          "S2": 1,
+          "S4": 4,
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这个场景来自左慈的剧情。道法自然让他成为全男主中最坦率的人——仙人也有杂念，那就承认好了。"
+  },
+  {
+    "id": "q_zuoci_17",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "左慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你正经历一段极其疲惫的时光。有个人对你说：「不必觉得不好意思。如果不想让别人知道，可以向吾倾诉。吾会为你保守所有秘密。因为，吾没有任何可以倾诉的人。」——面对你在意的人的脆弱，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "把自己变成你最安全的避风港，你可以对我展示所有软弱",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "陪着你，给你空间，想说了就听，不想说就安静待着",
+        "scores": {
+          "S8": 3.5,
+          "S7": 2.5,
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "帮你分析问题、出谋划策，让你尽快振作起来",
+        "scores": {
+          "S8": 2,
+          "S1": 1,
+          "S5": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这个场景来自左慈的剧情。「吾没有任何可以倾诉的人」——把自己唯一的秘密空间让给了你。"
+  },
+  {
+    "id": "q_zuoci_18",
+    "dimension": "S10",
+    "cross_dimension": "S6",
+    "type": "story_anon",
+    "source_character": "左慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你对某人说：「她若失德，有吾管教约束。若无失德，就轮不到别人来议论。」——关于「谁有权评判一个人」，你更认同——",
+    "options": [
+      {
+        "label": "A",
+        "text": "亲近之人才有资格管教，外人没有立场说三道四",
+        "scores": {
+          "S10": 2,
+          "S6": 1,
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "公道自在人心，做了什么别人自然看得见",
+        "scores": {
+          "S10": 4,
+          "S6": 3,
+          "S5": 3,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "是非对错自有标准，不该因亲疏远近而改变",
+        "scores": {
+          "S10": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自左慈的剧情。他三重声明：护短、管教权归自己、拒绝外人干涉——看似不讲规矩，实则是对秩序的独特理解。"
+  },
+  {
+    "id": "q_zuoci_19",
+    "dimension": "S6",
+    "cross_dimension": "S1",
+    "type": "story_anon",
+    "source_character": "左慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说过两次：「除了吾，不要相信任何人。」——如果你是说出这句话的人，你这样说的原因是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "因为我看透了人心险恶，只有我能真正保护你",
+        "scores": {
+          "S6": 1,
+          "S1": 4,
+          "S4": 2,
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "因为我太害怕失去你，所以想成为你唯一的依靠",
+        "scores": {
+          "S6": 1,
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "因为信任是奢侈品，我宁愿你自己谨慎一些",
+        "scores": {
+          "S6": 3,
+          "S1": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "这个场景来自左慈的剧情。「除了吾，不要相信任何人」——不是占有，是八百年阅历凝结的忠告。"
+  },
+  {
+    "id": "q_zuoci_20",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "左慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人听说你抱恙，千里迢迢赶来，只说了一句：「吾途径此地，听说你抱恙，来看你的病情。」——你为在意之人行动时，更像哪种风格？",
+    "options": [
+      {
+        "label": "A",
+        "text": "闻讯即至，但绝口不提自己走了多远、费了多大功夫",
+        "scores": {
+          "S5": 3.5,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "放下手头所有事赶过去，到了才告诉你",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先派人探望，确认情况严重再亲自去",
+        "scores": {
+          "S5": 2,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这个场景来自左慈的剧情。仙人途径广陵——一个「途径」轻描淡写，背后的牵挂不言而喻。"
+  },
+  {
+    "id": "q_zuoci_21",
+    "dimension": "S7",
+    "cross_dimension": "S2",
+    "type": "story_anon",
+    "source_character": "左慈",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说：「梅花本是无所谓风雪的……忽然有一天，它有了赏花人。从此之后，梅花就想——风雪小些就好了。」——这句话最打动你的是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不说「你是我的」，而是说「希望你不会冷」——克制到极致的深情",
+        "scores": {
+          "S7": 3.5,
+          "S2": 3,
+          "S6": 2.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "梅花有了赏花人之后的改变——被爱改变了一个人的存在方式",
+        "scores": {
+          "S7": 2,
+          "S2": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "梅花本无所谓风雪——独立而坚强的本心，才是最美的",
+        "scores": {
+          "S7": 1,
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这个场景来自左慈的剧情。道家式的占有欲——不说「你是我的」，只说「风雪小些就好了」。"
+  },
+  {
+    "id": "q_zuoci_22",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下哪种生活状态，最接近你理想中的样子？",
+    "options": [
+      {
+        "label": "A",
+        "text": "辟谷不食，世外脱俗，物欲极低，精神富足",
+        "scores": {
+          "S3": 1,
+          "S6": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "衣食无忧即可，但该有的体面不能少",
+        "scores": {
+          "S3": 2.5,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "积累财富，让身边的人过上最好的生活",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈辟谷不食，八百岁仙人几乎不涉及世俗金钱——物质对他而言如浮云。"
+  },
+  {
+    "id": "q_zuoci_23",
+    "dimension": "S9",
+    "cross_dimension": "S10",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「天下隐光」之中，仙门出山是为了压制里八华，但门内对此也有争议。有人说：「有啊（指异议），但大家都会很自觉地埋在心里了。」——你更认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "组织决策一旦做出，个人意见应该服从大局",
+        "scores": {
+          "S9": 2,
+          "S10": 1,
+          "S5": 1
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "可以保留意见，但行动上必须一致",
+        "scores": {
+          "S9": 3,
+          "S10": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "有异议就应该说出来，埋在心里早晚会出问题",
+        "scores": {
+          "S9": 1,
+          "S10": 2,
+          "S7": 2,
+          "S2": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈对权力和秩序的态度都是超然的——他知道异议存在，但选择了「不说」。"
+  },
+  {
+    "id": "q_zuoci_24",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "深夜，你收到密探传来的三封信：一封是前线战报，一封是某位密探的家书（他不知该不该寄出），一封是绣衣楼内部的人事调动令。夜已深，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先拆那封家书，帮他看看措辞，再决定怎么处理。",
+        "scores": {
+          "S8": 5,
+          "S7": 4,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "先看战报，军情不等人。其余两封处理完再说",
+        "scores": {
+          "S8": 2,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "三封都拆，按紧急程度处理，家书看完帮他回一封",
+        "scores": {
+          "S8": 3.5,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "左慈的风格——医者仁心，深夜的温柔从不在意公事的紧急程度。"
+  },
+  {
+    "id": "q_zuoci_25",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "隐鸢阁有位老臣提议开放步道运建材，但需要砍掉一片梅林。新来的弟子急着想走这条路，老臣觉得年轻人不懂规矩。你作为决策者——",
+    "options": [
+      {
+        "label": "A",
+        "text": "梅林不可动，另寻他路。规矩立了就是规矩，不能因为方便就破坏",
+        "scores": {
+          "S10": 5,
+          "S6": 4,
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "和老臣商量折中方案，尽量少砍，修一条窄路即可",
+        "scores": {
+          "S10": 3,
+          "S8": 2,
+          "S3": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "梅林年年都会再长，先运建材要紧，回头再种新的",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "鸢记·山可崩中，左慈面对类似的情况，选择调人帮忙修路而非破坏梅林——仙人也惜花。"
+  },
+  {
+    "id": "q_zuoci_26",
+    "dimension": "S4",
+    "cross_dimension": "S7",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "在绣衣楼的密探聚会上，有人问你：「你觉得广陵王最大的弱点是什么？」在场都是你信得过的人——",
+    "options": [
+      {
+        "label": "A",
+        "text": "实话实说，弱点就是弱点，藏着掖着没有意义",
+        "scores": {
+          "S4": 1,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "挑一个无关痛痒的「弱点」说，既不撒谎也不暴露",
+        "scores": {
+          "S4": 3,
+          "S7": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "笑着把话题带过去，这种问题不该在公开场合讨论",
+        "scores": {
+          "S4": 4,
+          "S7": 1,
+          "S6": 3
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈的道家坦荡——不遮掩不是口无遮拦，而是看场合说真话。"
+  },
+  {
+    "id": "q_zuoci_27",
+    "dimension": "S2",
+    "cross_dimension": "S8",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你收到了一件来自在意之人的礼物——不是什么贵重之物，但你知道他花了很长时间准备。你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "心里一暖，什么也不说，但会好好收着，用行动回应",
+        "scores": {
+          "S2": 2,
+          "S8": 1,
+          "S5": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "直接告诉他我很感动，谢谢你为我花的心思",
+        "scores": {
+          "S2": 4,
+          "S8": 3,
+          "S5": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "笑着说「这也太……」然后不知道该说什么，手足无措",
+        "scores": {
+          "S2": 2,
+          "S8": 2,
+          "S7": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "左慈打翻妆盒后做了整盒胡粉——有些温柔不需要语言，但你一定能感受到。"
+  },
+  {
+    "id": "q_zuoci_28",
+    "dimension": "S8",
+    "cross_dimension": "S10",
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「顺从杂念吧……这也是心里的自然之欲啊。」",
+        "scores": {
+          "S8": 4,
+          "S10": 1,
+          "S2": 3
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「万事万物，都有它的规律。无非是已被参透，还是未被参透。」",
+        "scores": {
+          "S8": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "A来自左慈的剧情——道家坦荡，承认欲望而非压抑。B同样来自左慈——道家对秩序的理解，规律是客观存在的。两句话都是他说的，代表了左慈性格的两个侧面。"
+  },
+  {
+    "id": "q_zuoci_29",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「万物皆有裂痕，那是光照进来的地方。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「万物皆有裂痕，那是光照进来的地方。」——你怎么理解？",
+        "scores": {
+          "S1": 3,
+          "S8": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「得道多助，失道寡助。」——在你看来，「道」是什么？",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "C",
+        "text": "「天命所归？不过是强者的借口罢了。」——你的看法？",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "接受缺陷、相信正义、质疑权威——三种面对世界的方式。"
+  },
+  {
+    "id": "q_zuoci_30",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「人生如梦，何必太执着？」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「人生如梦，何必太执着？」——但如果是你珍视的东西呢？",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「有些事不是做不到，而是你还没找到正确的方法。」——你认同吗？",
+        "scores": {
+          "S1": 3.5,
+          "S6": 3,
+          "S5": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「放下不是放弃，而是换一种方式拿起。」——你觉得呢？",
+        "scores": {
+          "S1": 4,
+          "S6": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "超脱、钻研、转化——面对困境的三种哲学。"
+  },
+  {
+    "id": "q_zuoci_31",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在绣衣楼藏书阁发现一本被列为禁书的典籍，内容涉及天文异象。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你在绣衣楼藏书阁发现一本被列为禁书的典籍，内容涉及天文异象。你",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "一位密探请你帮忙卜卦，问的是出任务的吉凶。你——",
+        "scores": {
+          "S1": 3,
+          "S9": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "广陵王要你用术数预测一场战役的胜算。你——",
+        "scores": {
+          "S1": 3,
+          "S9": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "知识、善意、责任——面对超出常理的请求，你如何抉择。"
+  },
+  {
+    "id": "q_zuoci_32",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人传言你是妖人，因为你准确预测了一场天灾。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "有人传言你是妖人，因为你准确预测了一场天灾。你——",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "你在集市上看到一个孩子正在被欺负，周围无人帮忙。你——",
+        "scores": {
+          "S1": 2,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "绣衣楼要举办一次驱邪仪式，但你认为根本没有什么邪祟。你——",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "被误解时的反应，体现你对外界眼光的在意程度。"
+  },
+  {
+    "id": "q_zuoci_33",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「如果天命注定要失败，我也要逆天而行。」",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「有些真相知道了反而会让人更痛苦，不如不知道。」",
+        "scores": {
+          "S1": 2,
+          "S6": 1,
+          "S4": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "抗争宿命还是接受无知——左慈的选择，从来都不是表面上那么简单。"
+  }
+]

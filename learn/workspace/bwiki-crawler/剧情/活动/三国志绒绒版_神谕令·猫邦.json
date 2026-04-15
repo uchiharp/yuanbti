@@ -1,0 +1,2521 @@
+{
+  "title": "三国志绒绒版/神谕令·猫邦",
+  "category": "活动剧情",
+  "characters": [
+    "不防晒死士犬",
+    "众猫",
+    "伪装侍从",
+    "使者",
+    "信徒",
+    "凌统",
+    "刘繇",
+    "别院守卫",
+    "右爪灰",
+    "周瑜",
+    "喵语犬",
+    "孔融",
+    "孙尚香",
+    "孙权",
+    "学宫值守",
+    "守门信徒",
+    "安期",
+    "尾尖棕",
+    "尾尖白",
+    "尾尖黑",
+    "市井高手",
+    "张修",
+    "张昭",
+    "张绣",
+    "张辽",
+    "张邈",
+    "张郃",
+    "张闿",
+    "张鲁",
+    "戏学",
+    "我",
+    "敬业刺客犬",
+    "斗篷客",
+    "新人猫侠",
+    "温柔刀疤",
+    "猫邦叛徒",
+    "猫邦巡卫",
+    "猫隐士",
+    "甘宁",
+    "荀彧",
+    "葛洪",
+    "董奉",
+    "蒯越",
+    "蔡琰",
+    "诸葛瑾",
+    "诸葛诞",
+    "郭嘉",
+    "陆逊",
+    "陈登",
+    "马腾",
+    "马超",
+    "黄盖"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "饿了。这个可以吃吗？不管了，啃一口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "我和嬢嬢一个毛色，和爹爹一个品种！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "呜哇——你欺负我——我要告诉爹爹！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "我很厉害吧？我能一口气吃下这么大一条鱼呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "对间谍来说，越是混乱无序，越是如鱼得水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "暴露了……对不住，不能让殿下泄露消息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "看来只能放弃任务……马将军、快撤！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=狗绒绒·凌统",
+      "emotion": "得罪了。暂时还不能放你走……送你去马将军处听经吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "头像=狗绒绒·马腾",
+      "emotion": "见到许多熟面孔。猫邦也要热闹起来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "头像=狗绒绒·马腾",
+      "emotion": "放下执念，出爪就是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "头像=狗绒绒·马腾",
+      "emotion": "胜负皆为缘法，无须执迷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马腾",
+      "text": "头像=狗绒绒·马腾",
+      "emotion": "你入障了……好自为之。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "嗷呜——嗷、不让嚎？那……劲汪！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "哪有小狐狸……尾巴长得真攒劲！来打一架！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "劲啊，差点把我尾巴咬断了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=狗绒绒·马超",
+      "emotion": "哈哈哈——我果然更强——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "别嚎了，吵得我耳朵疼……说你呢马超！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "我看看，有只小狐狸混进了猫堆里，尾巴怎么不藏好了呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "嘶……牙口倒是比我想象的好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=狗绒绒·张辽",
+      "emotion": "抓住你的狐狸尾巴了，呆狐狸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "在看我的腿？呵呵，我不过是猫而已，当然只有四条腿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "看啊，多么肥美的孩子，尤其是尾巴。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "听见了吗，那个声音……它说，你可能不是一只猫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "来，吃些果子吧。烦恼、痛楚……很快，就都会消散了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "……有个不情之请……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "现在到处抓捕犬都细作，学宫中也要清查违禁物品，书阁早年收藏的犬都典籍要是被搜出，必遭焚毁……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "若是殿下能设法将这些书册运出学宫，我定有重谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "偷书嘛，这个容易。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "读书猫的事情，怎么能叫偷！是窃书……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "学宫值守",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "都警醒点啊！不许偷偷睡觉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "学宫失火，是殿下干的吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "是啊，调猫离山，方便偷书。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "就因为这把火，本月当值记作失察，全员上下罚了一年的鱼俸……喵呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "也没交代不能纵火啊……反正书册已经偷出来了，重谢呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=猫绒绒·孔融",
+      "emotion": "罢了，猫无信不立、猫无信不立<ref>《论语·颜渊》：“自古皆有死，民无信不立。”</ref>……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=猫绒绒·诸葛诞",
+      "emotion": "殿下要的货齐了，是走鲜鱼还是走吱富宝直款呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "走鲜鱼。你们送货上门要另外收费么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=猫绒绒·诸葛诞",
+      "emotion": "城里最近查得严，货从犬都运过来已经是冒着掉爪子的风险。最后这段路，殿下还是自己想办法……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "停车，例行检查。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "都是些普通食物，没什么违禁品，就不用开箱查验了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "抱歉，这是律法规定，殿下也不能例外——卸货。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "住手、那个箱子不能搬！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "不是说没有违禁之物么，为何如此紧张？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "那箱东西不禁摔，还是别搬了，就在车上查验。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "放心，一定轻拿轻放——开箱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "柑橘？！呜、好难闻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "还有几箱狐狐！要打开查验么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "不、不必了……放行、快放行……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "等等、这里还落下一颗——喵呜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "被熏得晕过去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "看看这条如何？早上刚钓的，有二十斤呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐尔摩斯——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "陈生——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "主公，我们好像迷路了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "怎么可能呢狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "根据地图，叛徒的藏身处就在前面了……猫邦的叛徒真的躲藏在这吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=猫绒绒·孙权",
+      "emotion": "喵呜……迷路了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=猫绒绒·孙权",
+      "emotion": "那个……张昭先生，振作一点，看一下罗盘吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "锵锵！原来是孙权和张昭啊，你们在这里做什么呢？我们正在调查猫邦的叛徒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张昭",
+      "text": "头像=猫绒绒·张昭",
+      "emotion": "我……在林子里……找适合自挂东南枝的树……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=猫绒绒·孙权",
+      "emotion": "我在阻止他找那棵树啊啊啊他又把绳子挂上去了啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=猫绒绒·孙权",
+      "emotion": "呜啊啊啊张昭先生坚持住啊――我们马上就能到前面的杏林济生舍了，坚持住啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "二位加油！这边就继续去找叛徒了！……哎？树下好像压着一只猫……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "是刚才战斗时候被断裂的大树压到的啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫邦叛徒",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "啊啊——啊啊啊—可恶啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "张鲁会被带去哪里呢？黑灯瞎火，什么也看不见……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗯？有虾的味道……张鲁被带走时好像的确抱了一盆虾仁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守门信徒",
+      "text": "头像=猫绒绒·凶狠",
+      "emotion": "慢着，对完暗语再进。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "三眼猫神，恩泽九州！绒绒乱世，喵喵长生！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守门信徒",
+      "text": "头像=猫绒绒·凶狠",
+      "emotion": "虽然记错暗语，但你的喵喵声已经表达出对三眼猫神由衷的崇敬。进去吧，下次可别再忘记暗语啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "好、好的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "烧水——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信徒",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "烧水——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "皂角——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信徒",
+      "text": "头像=狗绒绒·老年男",
+      "emotion": "皂角——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "不不不要搓我师父——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这一次我站你师父！乖乖洗澡！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "搓搓……搓搓……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "咕噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "饿了。这个可以吃吗？不管了，啃一口。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "嬢嬢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "嬢嬢嬢嬢嬢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你是……张鲁？怎么脏成这样，差点把你当成流浪猫……你爹爹呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "不知道。只记得路上看到一只蚂蚱，嚼起来脆脆的，然后……然后就和爹爹走散了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "后来遇到师父，师父要狐狐跟他走……但是师父不给鱼干吃，也不给鸡腿吃，狐狐实在太饿，就跑出来啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "跟我回绣衣楼洗澡梳毛，让厨房给你煮什锦海鲜汤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "能不能只吃海鲜不洗澡？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不能。但你可以边吃海鲜边洗澡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "好哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "总算睡着了……轻点收拾，别惊醒他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伪装侍从",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "是，殿下也早些休息吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你有些面生——不对，你不是绣衣楼的猫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "谁指使你来行刺的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伪装侍从",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "无意惊动殿下，我们只要——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "呜哇——嬢嬢救我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "放开我！我不会丢下师父的！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斗篷客",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "……………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斗篷客",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "吐出来啊你这只馋猫！吐、吐出来啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "咕噜噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斗篷客",
+      "text": "头像=狗绒绒·黑影",
+      "emotion": "把张修教主吐出来啊呜呜呜呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "呕——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "啊啊啊真的吐出来了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斗篷客",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "咳……咳咳……不当心……被这个孩子……吞下去了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=猫绒绒·张鲁",
+      "emotion": "师父，你不会怪我吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=猫绒绒·张修",
+      "emotion": "吼——啊呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "他把张鲁吞下去带走了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=猫绒绒·诸葛诞",
+      "emotion": "这是混合荆芥和木天蓼的草球哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=猫绒绒·诸葛诞",
+      "emotion": "这是混合荆芥和木天蓼的草球哦，虽然价格贵了点……但舔着吃可以吃很久，还能点燃做熏香使用——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=猫绒绒·诸葛瑾",
+      "emotion": "阿诞别闹了，这是违禁品……快、快熄灭香炉……喵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "他上头好快啊……但我没什么感觉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=猫绒绒·诸葛诞",
+      "emotion": "唔……狐狐猫和猫的耐受程度不一样，再等等……喵、好香！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=猫绒绒·郭嘉",
+      "emotion": "呼……闻到喵，是上好的荆芥香……给我来一口……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你什么时候从窗户钻进来——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=猫绒绒·蔡琰",
+      "emotion": "这个……清香……不会过敏喵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "殿下、前辈……也让学生……闻一闻……呜喵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "辟雍是在附近开同学会么……喂，你们快从窗台上下来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众猫",
+      "text": "头像=猫绒绒·黑影",
+      "emotion": "呜喵——呜喵喵——呜——香喵——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不喵了，这个动静听起来太糟糕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "开门、风纪整顿！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=猫绒绒·陆逊",
+      "emotion": "别想……跑……呜喵……香……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "怪不得会被列做违禁品，几乎没有猫能够抵抗这种诱惑……不对，为什么我还没上头呢？好奇怪啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "他们在做什么呢？今天是同窗会吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "兄长，你也闻了没有感觉吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=狐绒·周瑜",
+      "emotion": "嗅嗅……奇怪的熏香，但确实没有什么感觉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=猫绒绒·孙尚香",
+      "emotion": "哎呀，还醒着喵？我记得你平时没这么晚睡……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "孙尚香，大清早不睡觉，来绣衣楼用猫砂盆？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=猫绒绒·孙尚香",
+      "emotion": "嘘！不要叫我大名，叫我喵头鹰姬……怪盗协会的任务更新啦，这次我一定要拿第一！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "什么任务？偷猫砂？要用过的还是没用过的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=猫绒绒·孙尚香",
+      "emotion": "当然不是，是要炸一一别关门，我还没说完喵！嫂嫂，帮帮香香子吧！我想拿第一——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不行狐！别家的盆我不管，反正绣衣楼的盆绝对不能炸！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=猫绒绒·孙尚香",
+      "emotion": "好吧……我先去炸别的盆……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=猫绒绒·安期",
+      "emotion": "你醒了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "前辈，你为什么出现在绣衣楼的猫砂盆里……我有种不祥的预感狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=猫绒绒·安期",
+      "emotion": "阿香的愿望，我都会帮她实现。全猫邦，只有你的盆还没被炸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐……都炸得只剩这一个盆了，她还不能拿第一吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=猫绒绒·安期",
+      "emotion": "保险起见，要让对手无盆可炸一一建木、遮蔽猫砂盆喵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不啊啊啊我的百年绣衣猫砂盆一一"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "听说郊外山洞来了个云游方士……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "听说郊外山洞来了个云游方士，摸一次肚肚毛换一次预言，很灵验。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "能不能让他预言一下路观图的碎片所在啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "不知道，可以试试。但对方遇到皮毛特别漂亮的动物才会现身……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我们这里谁皮毛最漂亮？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "看我做什么？这种狸谱的计策我是不会——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "徐州小兰花，拜会先生……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "别害羞嘛，大声点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "瞧你狸欲熏心的样子……唔啊啊啊不要不要拎我的尾巴吱吱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=兔绒·葛洪",
+      "emotion": "好一只油光水滑的河狸啊！能否让小仙摸摸肚肚绒毛？作为回报，小仙可以告诉你想知道的任何事情，包准的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "你、你要做什么好色兔子！不许——不许摸啊啊啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=兔绒·葛洪",
+      "emotion": "啊啊……这滑滑的手感……雍容、绵密……啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "不要啊吱吱——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=兔绒·葛洪",
+      "emotion": "肚肚毛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=狸绒·张邈",
+      "emotion": "不许摸肚肚毛不许摸肚肚毛——这可是……这可是呆呆睡午觉的位置吱吱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=猫绒绒·凌统",
+      "emotion": "对间谍来说，越是混乱无序，越是如鱼得水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫邦巡卫",
+      "text": "头像=猫绒绒·少年",
+      "emotion": "发现犬都的死士了喵！别跑——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "今天真热闹呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=猫绒绒·凌统",
+      "emotion": "呼哧呼哧呼哧——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫邦巡卫",
+      "text": "头像=猫绒绒·少年",
+      "emotion": "那边还有一道可疑的白影——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=鼬绒·张郃",
+      "emotion": "哎咻哎咻哎咻——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "唔啊啊……张郃你吓了我一跳！怎么突然扑进屋里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=鼬绒·张郃",
+      "emotion": "啊啊殿下救命咻！唔一一"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "谁在屋外拽他！不、不许抓他！他是我的友猫狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=猫绒绒·凌统",
+      "emotion": "谁在屋里拽他……放过他，他……他不是我方派来的间谍，我才是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=鼬绒·张郃",
+      "emotion": "呜哇放开我我被越拉越长了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=鼬绒·张郃",
+      "emotion": "你们不要再拉了……要、要被扯成超级长条年糕了——咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=猫绒绒·凌统",
+      "emotion": "唔啊……脱爪了，弹回去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=猫绒绒·凌统",
+      "emotion": "使君别怕，我是犬都人，可以带你回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=鼬绒·张郃",
+      "emotion": "我、我不是犬都人咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=猫绒绒·凌统",
+      "emotion": "哎？你不是……腊肠犬汪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=鼬绒·张郃",
+      "emotion": "不是咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "凌统",
+      "text": "头像=猫绒绒·凌统",
+      "emotion": "非常抱歉一一这个作为赔偿给你们！汪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "蒯越，有个情报——咦，你养的小鸟呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "昨晚回家就不见了。呜……不，为什么要对你说这么多，这……这不关你的事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "哎，那……那打扰了，我先……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "……拉住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "……………………失态了，能不能帮我找到它们……虽然在猫邦养鸟是异类，但是……但是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "棘手的案件，就交给狐尔摩斯吧！猫邦出现案件，第一件事情应该做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "呃，调查现场？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不，是怀疑本地唯一的一只比格——甘宁！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "嗷呜——谁在喊老子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "真的是他，鸟笼就顶在他的头上！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "把我的小鸟还给我！那是殿下送我的鸟蛋……我一点点孵化出来的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "我的小鸟，毫发无伤……太好了……咴！咴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=猫绒绒·蒯越",
+      "emotion": "殿下想要什么，我都可以献给你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "看看这条如何？早上刚钓的，有二十斤呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "主公，不好了……贤兄被抓了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "被谁抓走了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "是城中的巡卫，说近日接到不少失踪案子，受害猫都是去了美绒苑后就消失不见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "贤兄身为店掌柜，被当做嫌犯逮捕了……."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我怀疑张邈可能……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "如果犯人在店内犯案，河狸们为何丝毫无觉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "或许，真凶并不是在店内下手的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你看，美容苑后门正对的这处院落，角门是最近才封的，砖缝里的泥浆都还没干透……甚至，还有狗毛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "这处院落，是刘繇名下的百戏坊“青丘”的后门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "走，去见刘繇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "王弟今日好兴致啊！新排的歌舞，赏光瞧瞧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "旁边的美绒苑附近，最近时常有失踪的猫，你有头绪吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "小王一生坦荡，做了就不会遮遮掩掩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "美绒苑后门、青丘的角门上有缺口，缺口里还有狗毛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "阿休，是不是你那些犬都的小伙伴？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=猫绒绒·诸葛诞",
+      "emotion": "铛铛——当然不可能啦繇哥，那些人去年就已经回老家了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=猫绒绒·诸葛诞",
+      "emotion": "角门那里的小房间也早就废弃了，一直有闹鬼的传闻呢喵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这里就是那间小房间吗……地上有狗爪印……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "不对，这个爪印……好像左右是反的。左边的是右脚的爪印，右边是左脚的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……唔……真是奇怪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘繇",
+      "text": "头像=狗绒绒·刘繇",
+      "emotion": "至少有这条线索，老张的嫌疑已经能洗清了吧？可喜可贺，可喜可贺，哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "贤兄怎会如此行事？也许是旁猫陷害……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不是说他做了什么，而是说，他或许被牵扯其中却不自知。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "好像有点牵强哦，狐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "是啊喵。能把他反过来利用到这一步的猫，得要长九个脑子吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "果然，耳房下面是暗道，失踪猫应该就是从这里被带走的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "这暗道不知通向何处，万一有危险……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "无事，我刚磨过爪子，走吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "别院守卫",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "你们是谁……贼！有贼啊、抓贼啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=猫绒绒·荀彧",
+      "emotion": "殿下，爪下留猫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你怎么会在这？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=猫绒绒·荀彧",
+      "emotion": "此处别院是荀氏的宅邸。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "我们前来调查失踪案，荀氏的府兵，为何聚集在此？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=猫绒绒·荀彧",
+      "emotion": "别院空置多年，近期，发现有猫借此地买卖猫口……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=猫绒绒·荀彧",
+      "emotion": "他们不知从那里弄来了狗皮和狗的断肢，伪装成犬族，假造地上的犬脚印……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "不妙啊……贤兄毕竟将美绒苑地下空置的房子租给了他们……如果说完全不知情也说不过去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "不过也得到荀氏的担保文书，可以先去把他救出来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "犬都使者到了，还给主公带了一车礼物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "满满一车猫抓板？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "满满一车，很有诚意呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "唔……虽然很有诚意，但真的需要让他活着回去吗？舔舔……舔舔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "呼噜呼噜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "使者还吃的习惯嘛狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "呼噜呼噜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "嗅嗅……嗯？海鲜汤里怎么有巧克力的味道？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "被你发现了狐，是洗澡水，我加了马超的洗澡水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "呜汪！卑鄙的猫！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "巧克力味的狗爪印往这边走了，但好像有别狗的爪印……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "嗯……猫的气味？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "就凭你们两只小猫，也想拦住我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "瞧不起猫？看招——嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "别想阻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "不要跑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "……完全被拖延住了呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "快上树！狗都是不会爬树的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "……你也不会啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "狐……我、我会的狐……只是比较吃力……嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "气味消失了……明明刚才还在。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "又来了只狗……是使者。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "呼……汪、前面那只狗，你是犬都派来接应我的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "呼……让我瞧瞧，哎呀……感觉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张绣",
+      "text": "头像=狗绒绒·张绣",
+      "emotion": "感觉都是骨头，没有什么口感很好的地方……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "什、什么一一呜汪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=猫绒绒·董奉",
+      "emotion": "啊，狗咬狗了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "噫………………好惨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "使者还吃的习惯嘛狐！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "咳，一般。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "明明是按狗不理菜谱做的，使者为什么不喜欢呢？难道……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "使者，你看暗处那位黑猫乐师毛色如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "黑猫？那不是一只冻黑的暹罗猫么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "大晚上视力这么好，你根本不是狗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "使者",
+      "text": "头像=猫绒绒·青年男2",
+      "emotion": "喵……百密一疏！卸去伪装！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=猫绒绒·张闿",
+      "emotion": "多谢款待，但是我要告辞了喵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "抓住她——哎，那份鱼片看上去好新鲜……舔舔、舔舔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "找到张闿的猫窝了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=猫绒绒·陈登",
+      "emotion": "黑山猫头目说知道使者下落，但要三船鸡腿；还有个叫甘宁的，曾是张闿养子，只要一车鱼干就能提供张闿的行踪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "我们可是黑山喵喵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "三船鸡腿都在这里了，使者呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "哎？什么使者，我们可是黑山喵喵，当然要黑喵吃黑喵喵――上呀，猫王咪将、宁有鸡腿呼！<ref>《史记·陈涉世家》：“王侯将相，宁有种乎？”</ref>"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "呜，殿下，人家错了喵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "阿打——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "喵呜燕子救我喵呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "这个……这个使者给你，这三船鸡腿我就带走了哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "这还差不多……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "嚼一口鸡腿……唔唔……鸡腿为什么是辣的呀喵？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "戏学",
+      "text": "头像=猫绒绒·戏学",
+      "emotion": "不对，全都是长得像鸡腿的生姜！被骗了喵！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "老妈最喜欢把吃不完的鱼藏在这儿，你要找那个什么使者肯定也在这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "你先进去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "怎么，还怕我诈你？放心，老子可是出了名的大孝犬——门没锁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄盖",
+      "text": "头像=猫绒绒·黄盖",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "黄盖将军？你怎么在这……啊，使者……已经断气了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄盖",
+      "text": "头像=猫绒绒·黄盖",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-三国志绒绒版-狐头狐尾",
+      "emotion": "甘宁，这是什么情况，解释狐！为什么黄盖将军会先来干掉使者狐？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=狗绒绒·甘宁",
+      "emotion": "啊，忘了说，猫窝的位置我也卖给斑子队了……一鱼两吃不是很正常么，哈哈哈哈哈挠我啊哈哈哈哈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖白",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "唔，你的小鱼干是在哪里买的呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖白",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "你这是什么眼神，会吓到小鱼干的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖白",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "给我留一根吧，就一根，求求你了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖白",
+      "text": "头像=猫绒绒·青年男",
+      "emotion": "一切觊觎鱼干的邪恶，终将绳之以法！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖黑",
+      "text": "头像=猫绒绒·青年女",
+      "emotion": "是货真价实的海鲜汤哦，不是预制汤料包。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖黑",
+      "text": "头像=猫绒绒·青年女",
+      "emotion": "你也是被香味吸引来的对吧？……对吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖黑",
+      "text": "头像=猫绒绒·青年女",
+      "emotion": "别打了，要洒出来了！……三个数之内，是不是还能吃？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖黑",
+      "text": "头像=猫绒绒·青年女",
+      "emotion": "竟然赢了……你一定放水，不、放汤了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖棕",
+      "text": "头像=猫绒绒·少女",
+      "emotion": "一根磨牙棒传三代，按年龄看，它应该算是我的小姨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖棕",
+      "text": "头像=猫绒绒·少女",
+      "emotion": "牙痒痒就去啃树皮，别在这转来转去的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖棕",
+      "text": "头像=",
+      "emotion": "这根磨牙棒我含着怕化了，捧着怕摔了……你要好好对待它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "尾尖棕",
+      "text": "头像=猫绒绒·少女",
+      "emotion": "输一赔十。没这规矩？那现在有了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "右爪灰",
+      "text": "头像=猫绒绒·少年",
+      "emotion": "小时候没朋友，养了一只虾称兄道弟，后来……兄弟真香。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "右爪灰",
+      "text": "头像=猫绒绒·少年",
+      "emotion": "犯我虾仁者，虽远必诛<ref>《汉书》载陈汤上汉元帝书：“明犯强汉者，虽远必诛。”</ref>。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "右爪灰",
+      "text": "头像=猫绒绒·少年",
+      "emotion": "哼，虾仁什么的，也没有多好吃……但你也不能全端走啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "右爪灰",
+      "text": "头像=猫绒绒·少年",
+      "emotion": "缴了这点虾就想走？把虾壳虾线剔干净再说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "喵语犬",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "谁这么缺德往我饭盆里扔生姜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "喵语犬",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "我一瞧你的嘴筒子和尾巴，就知道你铁定是犬科。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "喵语犬",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "好像骨折了…你咬合力这么强，肯定是犬科！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "喵语犬",
+      "text": "头像=狗绒绒·老年男2",
+      "emotion": "像你这么弱的犬族不适合做潜伏工作，还是回犬都养老吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫隐士",
+      "text": "头像=猫绒绒·老年男",
+      "emotion": "猫邦最强的猫……应该是虎斑吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫隐士",
+      "text": "头像=猫绒绒·老年男",
+      "emotion": "我听说过你！奇怪的狐狐猫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫隐士",
+      "text": "头像=猫绒绒·老年男",
+      "emotion": "完、完全打不过……这就是狐狐猫的天赋吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫隐士",
+      "text": "头像=猫绒绒·老年男",
+      "emotion": "怕了吧？像我这么厉害的猫还有很多！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "温柔刀疤",
+      "text": "头像=猫绒绒·凶狠2",
+      "emotion": "摸鱼有什么意思？我只想摸摸其他猫的尾巴……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "温柔刀疤",
+      "text": "头像=猫绒绒·凶狠2",
+      "emotion": "你是什么品种的猫？尾巴好蓬松，看上去很好摸的样子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "温柔刀疤",
+      "text": "头像=猫绒绒·凶狠2",
+      "emotion": "你把我打成这样，赔我一次摸摸你尾巴的机会，不过分吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "温柔刀疤",
+      "text": "头像=猫绒绒·凶狠2",
+      "emotion": "对不起、对不起，我不是故意弄脏你尾巴的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "市井高手",
+      "text": "头像=狗绒绒·老年女2",
+      "emotion": "刚我抓那只飞天老鼠呢，怎么一扭头就不见了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "市井高手",
+      "text": "头像=狗绒绒·老年女2",
+      "emotion": "你的嘴筒子和尾巴好特别……哦，狐狐猫是吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "市井高手",
+      "text": "头像=狗绒绒·老年女2",
+      "emotion": "完全打不过……爪子这么锋利，肯定是猫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "市井高手",
+      "text": "头像=狗绒绒·老年女2",
+      "emotion": "哼，小猫咪实力不过如此。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "新人猫侠",
+      "text": "头像=猫绒绒·可怜",
+      "emotion": "嗯?刚刚好像看到我的梦中情猫路过了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "新人猫侠",
+      "text": "头像=猫绒绒·可怜",
+      "emotion": "有没有不那么粗鲁的方式分胜负……要不我们比谁吃得多？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "新人猫侠",
+      "text": "头像=猫绒绒·可怜",
+      "emotion": "我昨天刚吹的造型！你真是太粗鲁啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "新人猫侠",
+      "text": "头像=猫绒绒·可怜",
+      "emotion": "……想当一只不爱打架性格温和的猫，好难。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "不防晒死士犬",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "说谁内卷呢……这是学习狼族先祖、弘扬狼性文化！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "不防晒死士犬",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "做狗没有梦想，和肉干有什么区别？请赐教！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "不防晒死士犬",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "自己的失败固然可怕，同僚的成功更让狗揪心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "不防晒死士犬",
+      "text": "头像=狗绒绒·青年男2",
+      "emotion": "果然天道酬勤……什么？击败狐狐猫不算绩效是什么意思？？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "敬业刺客犬",
+      "text": "头像=狗绒绒·青年女2",
+      "emotion": "我不是猫，但我的同僚是真的狗，卷到最后只会一无所有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "敬业刺客犬",
+      "text": "头像=狗绒绒·青年女2",
+      "emotion": "满嘴都是梦想的狗最可怕了，挨打都挨得兴高采烈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "敬业刺客犬",
+      "text": "头像=狗绒绒·青年女2",
+      "emotion": "在哪里跌倒，就在哪里睡觉……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "敬业刺客犬",
+      "text": "头像=狗绒绒·青年女2",
+      "emotion": "我就是洗衣桶里的蔡侯纸，把我卷烂了谁都别想好过。"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"三国志绒绒版/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mainlinewrap\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabs\""
+    },
+    {
+      "type": "narration",
+      "text": "ul class\"resptabslist clearfix\" style\"margin15px 5px\""
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"span class\"tabpanel\"密探对话/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"span class\"tabpanel\"密探剧情/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"span class\"tabpanel\"NPC对话/span/li"
+    },
+    {
+      "type": "narration",
+      "text": "/ul"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"overflowauto;\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displayblock\"!密探对话"
+    },
+    {
+      "type": "narration",
+      "text": "center密探对话/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''张鲁'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''凌统'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''马腾'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''马超'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''张辽'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''张修'''"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!密探剧情"
+    },
+    {
+      "type": "narration",
+      "text": "center密探剧情/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''孔融'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''诸葛诞'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''陈登'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''守门信徒'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''张鲁'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''诸葛诞'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''孙尚香'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''董奉'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''凌统'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''蒯越'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''陈登2'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''陈登3'''"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"\"!NPC对话"
+    },
+    {
+      "type": "narration",
+      "text": "centerNPC对话/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''尾尖白'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''尾尖黑'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''尾尖棕'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''右爪灰'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''喵语犬'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''猫隐士'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''温柔刀疤'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''市井高手'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''新人猫侠'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''不防晒死士犬'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''敬业刺客犬'''"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "overflowhidden;"
+    },
+    {
+      "type": "narration",
+      "text": "margin10px 0px;"
+    },
+    {
+      "type": "narration",
+      "text": "displaytable;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft"
+    },
+    {
+      "type": "narration",
+      "text": "displaytablecell;"
+    },
+    {
+      "type": "narration",
+      "text": "verticalalign middle;"
+    },
+    {
+      "type": "narration",
+      "text": "width140px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding10px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbold;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize16px;"
+    },
+    {
+      "type": "narration",
+      "text": "background7B5F44;"
+    },
+    {
+      "type": "narration",
+      "text": "colorF2E3C6;"
+    },
+    {
+      "type": "narration",
+      "text": "textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright"
+    },
+    {
+      "type": "narration",
+      "text": "displaytablecell;"
+    },
+    {
+      "type": "narration",
+      "text": "verticalalign middle;"
+    },
+    {
+      "type": "narration",
+      "text": "widthcalc(100%  100px);"
+    },
+    {
+      "type": "narration",
+      "text": "padding10px;"
+    },
+    {
+      "type": "narration",
+      "text": "colorcbbba4;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan"
+    },
+    {
+      "type": "narration",
+      "text": "float left;"
+    },
+    {
+      "type": "narration",
+      "text": "width 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "color 848080!important;"
+    },
+    {
+      "type": "narration",
+      "text": "background DCCF9E;"
+    },
+    {
+      "type": "narration",
+      "text": "padding 3px 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundEAECF0;"
+    },
+    {
+      "type": "narration",
+      "text": "transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan"
+    },
+    {
+      "type": "narration",
+      "text": "width48%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin4px 1%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft"
+    },
+    {
+      "type": "narration",
+      "text": "displayblock;"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright"
+    },
+    {
+      "type": "narration",
+      "text": "displayblock;"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%9B%BD%E5%BF%97%E7%BB%92%E7%BB%92%E7%89%88/%E7%A5%9E%E8%B0%95%E4%BB%A4%C2%B7%E7%8C%AB%E9%82%A6",
+  "crawled_at": "2026-04-12T22:05:28.403222",
+  "raw_wikitext": "__NOTOC__\n[[分类:活动剧情]]{{回到顶部|头}}{{面包屑|2025活动剧情|三国志绒绒版/活动玩法}}{{活动背景}}\n{{JS|Qiantao.js}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">三国志绒绒版</div>\n<div class=\"map-dh-right\">\n{{板块|按钮|三国志绒绒版/神谕令·猫邦|神谕令·猫邦对话}}\n{{板块|按钮|三国志绒绒版/神谕令·犬都|神谕令·犬都对话}}\n</div></div>\n<div class=\"main-line-wrap\">\n<div class=\"resp-tabs\">\n<ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">\n<li class=\"active bili-list-style\"><span class=\"tab-panel\">密探对话</span></li>\n<li class=\"active bili-list-style\"><span class=\"tab-panel\">密探剧情</span></li>\n<li class=\"active bili-list-style\"><span class=\"tab-panel\">NPC对话</span></li>\n</ul>\n<div style=\"overflow:auto;\">\n<div class=\"resp-tabs-container\">\n<div class=\"resp-tab-content\" style=\"display:block\"><!--密探对话-->\n=<center>密探对话</center>=\n=='''张鲁'''==\n{{对话-头}}\n{{对话|张鲁|饿了。这个可以吃吗？不管了，啃一口。|头像=猫绒绒·张鲁}}\n{{对话|张鲁|我和嬢嬢一个毛色，和爹爹一个品种！|头像=猫绒绒·张鲁}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|张鲁|呜哇——你欺负我——我要告诉爹爹！|头像=猫绒绒·张鲁}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|张鲁|我很厉害吧？我能一口气吃下这么大一条鱼呢！|头像=猫绒绒·张鲁}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''凌统'''==\n{{对话-头}}\n{{对话|凌统|对间谍来说，越是混乱无序，越是如鱼得水。|头像=狗绒绒·凌统}}\n{{对话|凌统|暴露了……对不住，不能让殿下泄露消息。|头像=狗绒绒·凌统}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|凌统|看来只能放弃任务……马将军、快撤！|头像=狗绒绒·凌统}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|凌统|得罪了。暂时还不能放你走……送你去马将军处听经吧？|头像=狗绒绒·凌统}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''马腾'''==\n{{对话-头}}\n{{对话|马腾|见到许多熟面孔。猫邦也要热闹起来了。|头像=狗绒绒·马腾}}\n{{对话|马腾|放下执念，出爪就是。|头像=狗绒绒·马腾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|马腾|胜负皆为缘法，无须执迷。|头像=狗绒绒·马腾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|马腾|你入障了……好自为之。|头像=狗绒绒·马腾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''马超'''==\n{{对话-头}}\n{{对话|马超|嗷呜——嗷、不让嚎？那……劲汪！！！|头像=狗绒绒·马超}}\n{{对话|马超|哪有小狐狸……尾巴长得真攒劲！来打一架！|头像=狗绒绒·马超}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|马超|劲啊，差点把我尾巴咬断了！|头像=狗绒绒·马超}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|马超|哈哈哈——我果然更强——|头像=狗绒绒·马超}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''张辽'''==\n{{对话-头}}\n{{对话|张辽|别嚎了，吵得我耳朵疼……说你呢马超！|头像=狗绒绒·张辽}}\n{{对话|张辽|我看看，有只小狐狸混进了猫堆里，尾巴怎么不藏好了呢？|头像=狗绒绒·张辽}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|张辽|嘶……牙口倒是比我想象的好。|头像=狗绒绒·张辽}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|张辽|抓住你的狐狸尾巴了，呆狐狸。|头像=狗绒绒·张辽}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''张修'''==\n{{对话-头}}\n{{对话|张修|在看我的腿？呵呵，我不过是猫而已，当然只有四条腿……|头像=猫绒绒·张修}}\n{{对话|张修|看啊，多么肥美的孩子，尤其是尾巴。|头像=猫绒绒·张修}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|张修|听见了吗，那个声音……它说，你可能不是一只猫。|头像=猫绒绒·张修}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|张修|来，吃些果子吧。烦恼、痛楚……很快，就都会消散了。|头像=猫绒绒·张修}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n\n<div class=\"resp-tab-content\"><!--密探剧情-->\n=<center>密探剧情</center>=\n=='''孔融'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击孔融】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孔融|……有个不情之请……|头像=猫绒绒·孔融}}\n{{对话|孔融|现在到处抓捕犬都细作，学宫中也要清查违禁物品，书阁早年收藏的犬都典籍要是被搜出，必遭焚毁……|头像=猫绒绒·孔融}}\n{{对话|孔融|若是殿下能设法将这些书册运出学宫，我定有重谢。|头像=猫绒绒·孔融}}\n{{对话|我|偷书嘛，这个容易。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孔融|读书猫的事情，怎么能叫偷！是窃书……|头像=猫绒绒·孔融}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击学宫值守】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|学宫值守|都警醒点啊！不许偷偷睡觉。|头像=猫绒绒·青年男}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击巡猎】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|心理|书阁的值守不少，得想个办法引开他们。}}\n{{嵌套分歧|内容尾}}\n{{旁白|心理|仓库里存了这么多灯油，太适合纵火了，狐狐。}}\n{{旁白|点燃了仓库，很快猛烈地火势就吸引了书阁值守的注意。}}\n{{旁白|趁所有值守们救火时，潜入书阁偷出了所有犬都典籍……}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击孔融】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击交谈】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孔融|学宫失火，是殿下干的吧？|头像=猫绒绒·孔融}}\n{{对话|我|是啊，调猫离山，方便偷书。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孔融|就因为这把火，本月当值记作失察，全员上下罚了一年的鱼俸……喵呜……|头像=猫绒绒·孔融}}\n{{对话|我|也没交代不能纵火啊……反正书册已经偷出来了，重谢呢！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孔融|罢了，猫无信不立、猫无信不立<ref>《论语·颜渊》：“自古皆有死，民无信不立。”</ref>……|头像=猫绒绒·孔融}}\n{{嵌套分歧|内容尾}}{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''诸葛诞'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击诸葛诞】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|诸葛诞|殿下要的货齐了，是走鲜鱼还是走吱富宝直款呢？|头像=猫绒绒·诸葛诞}}\n{{对话|我|走鲜鱼。你们送货上门要另外收费么？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|诸葛诞|城里最近查得严，货从犬都运过来已经是冒着掉爪子的风险。最后这段路，殿下还是自己想办法……|头像=猫绒绒·诸葛诞}}\n{{对话|陆逊|停车，例行检查。|头像=猫绒绒·陆逊}}\n{{对话|我|都是些普通食物，没什么违禁品，就不用开箱查验了吧？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陆逊|抱歉，这是律法规定，殿下也不能例外——卸货。|头像=猫绒绒·陆逊}}\n{{旁白|心理|要是卸下所有货箱，藏着走私肉的暗格就会被发现……对了，我记得有一个箱子里装的是……}}\n{{对话|我|住手、那个箱子不能搬！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陆逊|不是说没有违禁之物么，为何如此紧张？|头像=猫绒绒·陆逊}}\n{{对话|我|那箱东西不禁摔，还是别搬了，就在车上查验。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陆逊|放心，一定轻拿轻放——开箱！|头像=猫绒绒·陆逊}}\n{{旁白|木箱的封盖被撬开，黄澄澄的柑橘滚落而出，清新而浓郁的酸甜气息瞬间弥散开来……}}\n{{对话|陆逊|柑橘？！呜、好难闻……|头像=猫绒绒·陆逊}}\n{{对话|我|还有几箱狐狐！要打开查验么？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陆逊|不、不必了……放行、快放行……|头像=猫绒绒·陆逊}}\n{{对话|陆逊|等等、这里还落下一颗——喵呜！|头像=猫绒绒·陆逊}}\n{{对话|我|被熏得晕过去了……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''陈登'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击陈登】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|陈登|看看这条如何？早上刚钓的，有二十斤呢！|头像=猫绒绒·陈登}}\n{{嵌套分歧|内容尾}}\n{{对话|我|狐尔摩斯——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|陈生——|头像=猫绒绒·陈登}}\n{{旁白|查什么查不到什么合集之—————}}\n{{对话|陈登|主公，我们好像迷路了。|头像=猫绒绒·陈登}}\n{{对话|我|怎么可能呢狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|根据地图，叛徒的藏身处就在前面了……猫邦的叛徒真的躲藏在这吗？|头像=猫绒绒·陈登}}\n{{对话|孙权|喵呜……迷路了……|头像=猫绒绒·孙权}}\n{{对话|孙权|那个……张昭先生，振作一点，看一下罗盘吧……|头像=猫绒绒·孙权}}\n{{对话|我|锵锵！原来是孙权和张昭啊，你们在这里做什么呢？我们正在调查猫邦的叛徒！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张昭|我……在林子里……找适合自挂东南枝的树……|头像=猫绒绒·张昭}}\n{{对话|孙权|我在阻止他找那棵树啊啊啊他又把绳子挂上去了啊啊啊——|头像=猫绒绒·孙权}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|为了阻止张昭自挂东南枝，事先打败了张昭，日行一善！}}\n{{对话|孙权|呜啊啊啊张昭先生坚持住啊――我们马上就能到前面的杏林济生舍了，坚持住啊——|头像=猫绒绒·孙权}}\n{{对话|陈登|二位加油！这边就继续去找叛徒了！……哎？树下好像压着一只猫……|头像=猫绒绒·陈登}}\n{{对话|我|是刚才战斗时候被断裂的大树压到的啊……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|猫邦叛徒|啊啊——啊啊啊—可恶啊啊啊——|头像=猫绒绒·青年男}}\n{{旁白|——成功带回了叛徒！不愧是神探狐！}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''守门信徒'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击守门信徒】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|张鲁会被带去哪里呢？黑灯瞎火，什么也看不见……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|嗯？有虾的味道……张鲁被带走时好像的确抱了一盆虾仁？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|循着虾仁咸鲜的气味，大家狂奔追赶，来到了古旧的宅院……}}\n{{嵌套分歧|内容尾}}\n{{对话|守门信徒|慢着，对完暗语再进。|头像=猫绒绒·凶狠}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|三眼猫神，恩泽九州！绒绒乱世，喵喵长生！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|守门信徒|虽然记错暗语，但你的喵喵声已经表达出对三眼猫神由衷的崇敬。进去吧，下次可别再忘记暗语啦！|头像=猫绒绒·凶狠}}\n{{对话|我|好、好的……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张修|烧水——|头像=猫绒绒·张修}}\n{{对话|信徒|烧水——|头像=狗绒绒·老年男}}\n{{旁白|心理|竟然聚集了这么多信徒，不但有猫和狗……}}\n{{对话|张修|皂角——|头像=猫绒绒·张修}}\n{{对话|信徒|皂角——|头像=狗绒绒·老年男}}\n{{对话|张鲁|不不不要搓我师父——|头像=猫绒绒·张鲁}}\n{{对话|我|这一次我站你师父！乖乖洗澡！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张修|搓搓……搓搓……|头像=猫绒绒·张修}}\n{{对话|张鲁|咕噜噜噜——|头像=猫绒绒·张鲁}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''张鲁'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击张鲁】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|张鲁|饿了。这个可以吃吗？不管了，啃一口。|头像=猫绒绒·张鲁}}\n{{嵌套分歧|内容尾}}\n{{对话|张鲁|嬢嬢！|头像=猫绒绒·张鲁}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张鲁|嬢嬢嬢嬢嬢！|头像=猫绒绒·张鲁}}\n{{对话|我|你是……张鲁？怎么脏成这样，差点把你当成流浪猫……你爹爹呢？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张鲁|不知道。只记得路上看到一只蚂蚱，嚼起来脆脆的，然后……然后就和爹爹走散了。|头像=猫绒绒·张鲁}}\n{{对话|张鲁|后来遇到师父，师父要狐狐跟他走……但是师父不给鱼干吃，也不给鸡腿吃，狐狐实在太饿，就跑出来啦！|头像=猫绒绒·张鲁}}\n{{对话|我|跟我回绣衣楼洗澡梳毛，让厨房给你煮什锦海鲜汤。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张鲁|能不能只吃海鲜不洗澡？|头像=猫绒绒·张鲁}}\n{{对话|我|不能。但你可以边吃海鲜边洗澡。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张鲁|好哦！|头像=猫绒绒·张鲁}}\n{{旁白|回到绣衣楼后，张鲁从傍晚吃到深夜，最后抱着一盆虾仁，沉沉睡去。}}\n{{对话|我|总算睡着了……轻点收拾，别惊醒他。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|伪装侍从|是，殿下也早些休息吧。|头像=猫绒绒·青年男}}\n{{对话|我|你有些面生——不对，你不是绣衣楼的猫。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|谁指使你来行刺的？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|伪装侍从|无意惊动殿下，我们只要——|头像=猫绒绒·青年男}}\n{{对话|张鲁|呜哇——嬢嬢救我！|头像=猫绒绒·张鲁}}\n{{旁白|几个披着斗篷、看不清是猫是狗的动物站在院墙上，方才还在熟睡的张鲁正被他们挟持着。}}\n{{对话|张鲁|放开我！我不会丢下师父的！！|头像=猫绒绒·张鲁}}\n{{对话|斗篷客|……………………|头像=猫绒绒·黑影}}\n{{对话|斗篷客|吐出来啊你这只馋猫！吐、吐出来啊！！！|头像=狗绒绒·黑影}}\n{{对话|张鲁|咕噜噜噜噜——|头像=猫绒绒·张鲁}}\n{{对话|斗篷客|把张修教主吐出来啊呜呜呜呜——|头像=狗绒绒·黑影}}\n{{对话|张鲁|呕——|头像=猫绒绒·张鲁}}\n{{对话|我|啊啊啊真的吐出来了！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|斗篷客|……|头像=猫绒绒·黑影}}\n{{对话|张修|咳……咳咳……不当心……被这个孩子……吞下去了呢……|头像=猫绒绒·张修}}\n{{对话|张鲁|师父，你不会怪我吧……|头像=猫绒绒·张鲁}}\n{{对话|张修|……|头像=猫绒绒·张修}}\n{{对话|张修|吼——啊呜——|头像=猫绒绒·张修}}\n{{对话|我|他把张鲁吞下去带走了！！！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''诸葛诞'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击诸葛诞】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|诸葛诞|这是混合荆芥和木天蓼的草球哦。|头像=猫绒绒·诸葛诞}}\n{{嵌套分歧|内容尾}}\n{{对话|诸葛诞|这是混合荆芥和木天蓼的草球哦，虽然价格贵了点……但舔着吃可以吃很久，还能点燃做熏香使用——|头像=猫绒绒·诸葛诞}}\n{{对话|诸葛瑾|阿诞别闹了，这是违禁品……快、快熄灭香炉……喵！|头像=猫绒绒·诸葛瑾}}\n{{对话|我|他上头好快啊……但我没什么感觉？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|诸葛诞|唔……狐狐猫和猫的耐受程度不一样，再等等……喵、好香！|头像=猫绒绒·诸葛诞}}\n{{对话|郭嘉|呼……闻到喵，是上好的荆芥香……给我来一口……|头像=猫绒绒·郭嘉}}\n{{对话|我|你什么时候从窗户钻进来——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|蔡琰|这个……清香……不会过敏喵……|头像=猫绒绒·蔡琰}}\n{{对话|戏学|殿下、前辈……也让学生……闻一闻……呜喵……|头像=猫绒绒·戏学}}\n{{对话|我|辟雍是在附近开同学会么……喂，你们快从窗台上下来。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|众猫|呜喵——呜喵喵——呜——香喵——|头像=猫绒绒·黑影}}\n{{对话|我|不喵了，这个动静听起来太糟糕……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陆逊|开门、风纪整顿！|头像=猫绒绒·陆逊}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|陆逊|别想……跑……呜喵……香……|头像=猫绒绒·陆逊}}\n{{对话|我|怪不得会被列做违禁品，几乎没有猫能够抵抗这种诱惑……不对，为什么我还没上头呢？好奇怪啊……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|他们在做什么呢？今天是同窗会吗？|头像=狐绒·周瑜}}\n{{对话|我|兄长，你也闻了没有感觉吧？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|周瑜|嗅嗅……奇怪的熏香，但确实没有什么感觉……|头像=狐绒·周瑜}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''孙尚香'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击孙尚香】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孙尚香|哎呀，还醒着喵？我记得你平时没这么晚睡……|头像=猫绒绒·孙尚香}}\n{{对话|我|孙尚香，大清早不睡觉，来绣衣楼用猫砂盆？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙尚香|嘘！不要叫我大名，叫我喵头鹰姬……怪盗协会的任务更新啦，这次我一定要拿第一！|头像=猫绒绒·孙尚香}}\n{{对话|我|什么任务？偷猫砂？要用过的还是没用过的……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|孙尚香|当然不是，是要炸一一别关门，我还没说完喵！嫂嫂，帮帮香香子吧！我想拿第一——|头像=猫绒绒·孙尚香}}\n{{对话|我|不行狐！别家的盆我不管，反正绣衣楼的盆绝对不能炸！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|孙尚香|好吧……我先去炸别的盆……|头像=猫绒绒·孙尚香}}\n{{旁白|【猫邦·街道】}}\n{{对话|安期|你醒了。|头像=猫绒绒·安期}}\n{{对话|我|前辈，你为什么出现在绣衣楼的猫砂盆里……我有种不祥的预感狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|安期|阿香的愿望，我都会帮她实现。全猫邦，只有你的盆还没被炸。|头像=猫绒绒·安期}}\n{{对话|我|狐……都炸得只剩这一个盆了，她还不能拿第一吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|安期|保险起见，要让对手无盆可炸一一建木、遮蔽猫砂盆喵！|头像=猫绒绒·安期}}\n{{对话|我|不啊啊啊我的百年绣衣猫砂盆一一|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''董奉'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击董奉】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|董奉|听说郊外山洞来了个云游方士……|头像=猫绒绒·董奉}}\n{{嵌套分歧|内容尾}}\n{{对话|董奉|听说郊外山洞来了个云游方士，摸一次肚肚毛换一次预言，很灵验。|头像=猫绒绒·董奉}}\n{{对话|我|能不能让他预言一下路观图的碎片所在啊？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董奉|不知道，可以试试。但对方遇到皮毛特别漂亮的动物才会现身……|头像=猫绒绒·董奉}}\n{{对话|我|我们这里谁皮毛最漂亮？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张邈|看我做什么？这种狸谱的计策我是不会——|头像=狸绒·张邈}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【巡猎成功】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|张邈|徐州小兰花，拜会先生……|头像=狸绒·张邈}}\n{{对话|我|别害羞嘛，大声点。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张邈|瞧你狸欲熏心的样子……唔啊啊啊不要不要拎我的尾巴吱吱！|头像=狸绒·张邈}}\n{{对话|葛洪|好一只油光水滑的河狸啊！能否让小仙摸摸肚肚绒毛？作为回报，小仙可以告诉你想知道的任何事情，包准的。|头像=兔绒·葛洪}}\n{{对话|张邈|你、你要做什么好色兔子！不许——不许摸啊啊啊！！！|头像=狸绒·张邈}}\n{{对话|葛洪|啊啊……这滑滑的手感……雍容、绵密……啊啊……|头像=兔绒·葛洪}}\n{{对话|张邈|不要啊吱吱——|头像=狸绒·张邈}}\n{{对话|葛洪|肚肚毛……|头像=兔绒·葛洪}}\n{{对话|张邈|不许摸肚肚毛不许摸肚肚毛——这可是……这可是呆呆睡午觉的位置吱吱！|头像=狸绒·张邈}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''凌统'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击凌统】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|凌统|对间谍来说，越是混乱无序，越是如鱼得水。|头像=猫绒绒·凌统}}\n{{嵌套分歧|内容尾}}\n{{对话|猫邦巡卫|发现犬都的死士了喵！别跑——|头像=猫绒绒·少年}}\n{{对话|我|今天真热闹呢……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|凌统|呼哧呼哧呼哧——|头像=猫绒绒·凌统}}\n{{对话|猫邦巡卫|那边还有一道可疑的白影——|头像=猫绒绒·少年}}\n{{对话|张郃|哎咻哎咻哎咻——|头像=鼬绒·张郃}}\n{{对话|我|唔啊啊……张郃你吓了我一跳！怎么突然扑进屋里……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张郃|啊啊殿下救命咻！唔一一|头像=鼬绒·张郃}}\n{{对话|我|谁在屋外拽他！不、不许抓他！他是我的友猫狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|凌统|谁在屋里拽他……放过他，他……他不是我方派来的间谍，我才是……|头像=猫绒绒·凌统}}\n{{对话|张郃|呜哇放开我我被越拉越长了——|头像=鼬绒·张郃}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|张郃|你们不要再拉了……要、要被扯成超级长条年糕了——咻！|头像=鼬绒·张郃}}\n{{对话|凌统|唔啊……脱爪了，弹回去了……|头像=猫绒绒·凌统}}\n{{对话|凌统|使君别怕，我是犬都人，可以带你回去。|头像=猫绒绒·凌统}}\n{{对话|张郃|我、我不是犬都人咻！|头像=鼬绒·张郃}}\n{{对话|凌统|哎？你不是……腊肠犬汪？|头像=猫绒绒·凌统}}\n{{对话|张郃|不是咻……|头像=鼬绒·张郃}}\n{{对话|凌统|非常抱歉一一这个作为赔偿给你们！汪。|头像=猫绒绒·凌统}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''蒯越'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击蒯越】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|蒯越|呜……|头像=猫绒绒·蒯越}}\n{{嵌套分歧|内容尾}}\n{{对话|我|蒯越，有个情报——咦，你养的小鸟呢？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|蒯越|昨晚回家就不见了。呜……不，为什么要对你说这么多，这……这不关你的事！|头像=猫绒绒·蒯越}}\n{{对话|我|哎，那……那打扰了，我先……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|蒯越|……拉住。|头像=猫绒绒·蒯越}}\n{{对话|蒯越|……………………失态了，能不能帮我找到它们……虽然在猫邦养鸟是异类，但是……但是……|头像=猫绒绒·蒯越}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【巡猎成功】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|棘手的案件，就交给狐尔摩斯吧！猫邦出现案件，第一件事情应该做什么？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|蒯越|呃，调查现场？|头像=猫绒绒·蒯越}}\n{{对话|我|不，是怀疑本地唯一的一只比格——甘宁！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|甘宁|嗷呜——谁在喊老子？|头像=狗绒绒·甘宁}}\n{{对话|蒯越|真的是他，鸟笼就顶在他的头上！|头像=猫绒绒·蒯越}}\n{{对话|蒯越|把我的小鸟还给我！那是殿下送我的鸟蛋……我一点点孵化出来的……|头像=猫绒绒·蒯越}}\n{{旁白|此处略去大发狐威击败甘宁、救回小鸟的战斗过程，一个任务能力判定一次就够了谁还想再打战斗关卡啊！}}\n{{对话|蒯越|我的小鸟，毫发无伤……太好了……咴！咴！|头像=猫绒绒·蒯越}}\n{{对话|蒯越|殿下想要什么，我都可以献给你！|头像=猫绒绒·蒯越}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''陈登2'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击陈登】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|陈登|看看这条如何？早上刚钓的，有二十斤呢！|头像=猫绒绒·陈登}}\n{{对话|陈登|主公，不好了……贤兄被抓了！|头像=猫绒绒·陈登}}\n{{对话|我|被谁抓走了？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|是城中的巡卫，说近日接到不少失踪案子，受害猫都是去了美绒苑后就消失不见。|头像=猫绒绒·陈登}}\n{{对话|陈登|贤兄身为店掌柜，被当做嫌犯逮捕了…….|头像=猫绒绒·陈登}}\n{{对话|我|我怀疑张邈可能……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【是被陷害的】|1}}\n{{嵌套分歧|【可能参与其中】|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|陈登|如果犯人在店内犯案，河狸们为何丝毫无觉？|头像=猫绒绒·陈登}}\n{{对话|我|或许，真凶并不是在店内下手的……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|前往美绒苑探查，绕着屋舍巡视了一圈，似乎有了}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【巡猎成功】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【去找刘繇吧！】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|你看，美容苑后门正对的这处院落，角门是最近才封的，砖缝里的泥浆都还没干透……甚至，还有狗毛。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|这处院落，是刘繇名下的百戏坊“青丘”的后门。|头像=猫绒绒·陈登}}\n{{对话|我|走，去见刘繇。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击刘繇】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|刘繇|王弟今日好兴致啊！新排的歌舞，赏光瞧瞧？|头像=狗绒绒·刘繇}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击交谈】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|旁边的美绒苑附近，最近时常有失踪的猫，你有头绪吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘繇|小王一生坦荡，做了就不会遮遮掩掩。|头像=狗绒绒·刘繇}}\n{{对话|我|美绒苑后门、青丘的角门上有缺口，缺口里还有狗毛……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘繇|阿休，是不是你那些犬都的小伙伴？|头像=狗绒绒·刘繇}}\n{{对话|诸葛诞|铛铛——当然不可能啦繇哥，那些人去年就已经回老家了。|头像=猫绒绒·诸葛诞}}\n{{对话|诸葛诞|角门那里的小房间也早就废弃了，一直有闹鬼的传闻呢喵……|头像=猫绒绒·诸葛诞}}\n{{对话|我|这里就是那间小房间吗……地上有狗爪印……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|不对，这个爪印……好像左右是反的。左边的是右脚的爪印，右边是左脚的……|头像=猫绒绒·陈登}}\n{{对话|我|……唔……真是奇怪……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|刘繇|至少有这条线索，老张的嫌疑已经能洗清了吧？可喜可贺，可喜可贺，哈哈哈——|头像=狗绒绒·刘繇}}\n{{旁白|用狗爪印的线索，保释了张邈。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|陈登|贤兄怎会如此行事？也许是旁猫陷害……|头像=猫绒绒·陈登}}\n{{对话|我|不是说他做了什么，而是说，他或许被牵扯其中却不自知。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|……|头像=猫绒绒·陈登}}\n{{对话|我|……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|我|好像有点牵强哦，狐。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|是啊喵。能把他反过来利用到这一步的猫，得要长九个脑子吧？|头像=猫绒绒·陈登}}\n{{旁白|与陈登前往美绒苑探查，在室内仔仔细细检视一圈后，便发现——}}\n{{对话|我|果然，耳房下面是暗道，失踪猫应该就是从这里被带走的。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|这暗道不知通向何处，万一有危险……|头像=猫绒绒·陈登}}\n{{对话|我|无事，我刚磨过爪子，走吧。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{旁白|心理|好雅致的别院，不知是……}}\n{{对话|别院守卫|你们是谁……贼！有贼啊、抓贼啊！|头像=猫绒绒·青年男}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|荀彧|殿下，爪下留猫。|头像=猫绒绒·荀彧}}\n{{对话|我|你怎么会在这？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|荀彧|此处别院是荀氏的宅邸。|头像=猫绒绒·荀彧}}\n{{对话|我|我们前来调查失踪案，荀氏的府兵，为何聚集在此？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|荀彧|别院空置多年，近期，发现有猫借此地买卖猫口……|头像=猫绒绒·荀彧}}\n{{对话|荀彧|他们不知从那里弄来了狗皮和狗的断肢，伪装成犬族，假造地上的犬脚印……|头像=猫绒绒·荀彧}}\n{{对话|陈登|不妙啊……贤兄毕竟将美绒苑地下空置的房子租给了他们……如果说完全不知情也说不过去……|头像=猫绒绒·陈登}}\n{{对话|我|不过也得到荀氏的担保文书，可以先去把他救出来了！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''陈登3'''==\n{{对话-头}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【点击陈登】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|陈登|犬都使者到了，还给主公带了一车礼物。|头像=猫绒绒·陈登}}\n{{对话|我|满满一车猫抓板？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|满满一车，很有诚意呢！|头像=猫绒绒·陈登}}\n{{对话|董奉|唔……虽然很有诚意，但真的需要让他活着回去吗？舔舔……舔舔……|头像=猫绒绒·董奉}}\n{{对话|使者|呼噜呼噜……|头像=狗绒绒·青年男2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【干掉使者】|1}}\n{{嵌套分歧|【款待使者】|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|使者还吃的习惯嘛狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|使者|呼噜呼噜……|头像=狗绒绒·青年男2}}\n{{对话|使者|嗅嗅……嗯？海鲜汤里怎么有巧克力的味道？|头像=狗绒绒·青年男2}}\n{{对话|我|被你发现了狐，是洗澡水，我加了马超的洗澡水。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|使者|呜汪！卑鄙的猫！|头像=狗绒绒·青年男2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【巡猎成功】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|去找张绣吧！}}\n{{对话|我|巧克力味的狗爪印往这边走了，但好像有别狗的爪印……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张绣|嗯……猫的气味？|头像=狗绒绒·张绣}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【先手偷袭】|1}}\n{{嵌套分歧|【撤退观察】|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|张绣|就凭你们两只小猫，也想拦住我？|头像=狗绒绒·张绣}}\n{{对话|我|瞧不起猫？看招——嗷呜——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张绣|嗷呜——|头像=狗绒绒·张绣}}\n{{对话|张绣|别想阻……|头像=狗绒绒·张绣}}\n{{对话|我|嗷呜——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张绣|嗷呜——|头像=狗绒绒·张绣}}\n{{对话|张绣|不要跑……|头像=狗绒绒·张绣}}\n{{对话|我|嗷呜——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张绣|嗷呜——|头像=狗绒绒·张绣}}\n{{对话|董奉|……完全被拖延住了呢。|头像=猫绒绒·董奉}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|快上树！狗都是不会爬树的！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|董奉|……你也不会啊。|头像=猫绒绒·董奉}}\n{{对话|我|狐……我、我会的狐……只是比较吃力……嘿咻……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|张绣|气味消失了……明明刚才还在。|头像=狗绒绒·张绣}}\n{{对话|董奉|又来了只狗……是使者。|头像=猫绒绒·董奉}}\n{{对话|使者|呼……汪、前面那只狗，你是犬都派来接应我的吗？|头像=狗绒绒·青年男2}}\n{{对话|张绣|呼……让我瞧瞧，哎呀……感觉……|头像=狗绒绒·张绣}}\n{{对话|张绣|感觉都是骨头，没有什么口感很好的地方……|头像=狗绒绒·张绣}}\n{{对话|使者|什、什么一一呜汪！|头像=狗绒绒·青年男2}}\n{{对话|董奉|啊，狗咬狗了……|头像=猫绒绒·董奉}}\n{{对话|我|噫………………好惨。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|使者还吃的习惯嘛狐！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|使者|咳，一般。|头像=狗绒绒·青年男2}}\n{{对话|我|明明是按狗不理菜谱做的，使者为什么不喜欢呢？难道……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【诱哄成功】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|使者，你看暗处那位黑猫乐师毛色如何？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|使者|黑猫？那不是一只冻黑的暹罗猫么？|头像=狗绒绒·青年男2}}\n{{对话|我|大晚上视力这么好，你根本不是狗！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|使者|喵……百密一疏！卸去伪装！|头像=猫绒绒·青年男2}}\n{{对话|张闿|多谢款待，但是我要告辞了喵。|头像=猫绒绒·张闿}}\n{{对话|陈登|抓住她——哎，那份鱼片看上去好新鲜……舔舔、舔舔……|头像=猫绒绒·陈登}}\n{{对话|我|找到张闿的猫窝了吗？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|陈登|黑山猫头目说知道使者下落，但要三船鸡腿；还有个叫甘宁的，曾是张闿养子，只要一车鱼干就能提供张闿的行踪。|头像=猫绒绒·陈登}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【与黑山猫交易】|1}}\n{{嵌套分歧|【与甘宁交易】|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|戏学|我们可是黑山喵喵。|头像=猫绒绒·戏学}}\n{{对话|我|三船鸡腿都在这里了，使者呢？|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|戏学|哎？什么使者，我们可是黑山喵喵，当然要黑喵吃黑喵喵――上呀，猫王咪将、宁有鸡腿呼！<ref>《史记·陈涉世家》：“王侯将相，宁有种乎？”</ref>|头像=猫绒绒·戏学}}\n{{嵌套分歧|头}}\n{{嵌套分歧|【战斗胜利】|1}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|戏学|呜，殿下，人家错了喵……|头像=猫绒绒·戏学}}\n{{对话|我|阿打——|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|戏学|喵呜燕子救我喵呜——|头像=猫绒绒·戏学}}\n{{对话|戏学|这个……这个使者给你，这三船鸡腿我就带走了哈……|头像=猫绒绒·戏学}}\n{{对话|我|这还差不多……|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|戏学|嚼一口鸡腿……唔唔……鸡腿为什么是辣的呀喵？！|头像=猫绒绒·戏学}}\n{{对话|戏学|不对，全都是长得像鸡腿的生姜！被骗了喵！|头像=猫绒绒·戏学}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|甘宁|老妈最喜欢把吃不完的鱼藏在这儿，你要找那个什么使者肯定也在这里。|头像=狗绒绒·甘宁}}\n{{对话|我|你先进去。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|甘宁|怎么，还怕我诈你？放心，老子可是出了名的大孝犬——门没锁？|头像=狗绒绒·甘宁}}\n{{对话|黄盖|……|头像=猫绒绒·黄盖}}\n{{对话|我|黄盖将军？你怎么在这……啊，使者……已经断气了。|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|黄盖|……|头像=猫绒绒·黄盖}}\n{{对话|我|甘宁，这是什么情况，解释狐！为什么黄盖将军会先来干掉使者狐？！|头像=小头像-三国志绒绒版-狐头狐尾}}\n{{对话|甘宁|啊，忘了说，猫窝的位置我也卖给斑子队了……一鱼两吃不是很正常么，哈哈哈哈哈挠我啊哈哈哈哈——|头像=狗绒绒·甘宁}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div></div>\n\n<div class=\"resp-tab-content\" style=\"\"><!--NPC对话-->\n=<center>NPC对话</center>=\n=='''尾尖白'''==\n{{对话-头}}\n{{对话|尾尖白|唔，你的小鱼干是在哪里买的呀？|头像=猫绒绒·青年男}}\n{{对话|尾尖白|你这是什么眼神，会吓到小鱼干的！|头像=猫绒绒·青年男}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|尾尖白|给我留一根吧，就一根，求求你了！|头像=猫绒绒·青年男}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|尾尖白|一切觊觎鱼干的邪恶，终将绳之以法！|头像=猫绒绒·青年男}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''尾尖黑'''==\n{{对话-头}}\n{{对话|尾尖黑|是货真价实的海鲜汤哦，不是预制汤料包。|头像=猫绒绒·青年女}}\n{{对话|尾尖黑|你也是被香味吸引来的对吧？……对吧？|头像=猫绒绒·青年女}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|尾尖黑|别打了，要洒出来了！……三个数之内，是不是还能吃？|头像=猫绒绒·青年女}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|尾尖黑|竟然赢了……你一定放水，不、放汤了吧？|头像=猫绒绒·青年女}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''尾尖棕'''==\n{{对话-头}}\n{{对话|尾尖棕|一根磨牙棒传三代，按年龄看，它应该算是我的小姨。|头像=猫绒绒·少女}}\n{{对话|尾尖棕|牙痒痒就去啃树皮，别在这转来转去的。|头像=猫绒绒·少女}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|尾尖棕|这根磨牙棒我含着怕化了，捧着怕摔了……你要好好对待它。|头像=}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|尾尖棕|输一赔十。没这规矩？那现在有了。|头像=猫绒绒·少女}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''右爪灰'''==\n{{对话-头}}\n{{对话|右爪灰|小时候没朋友，养了一只虾称兄道弟，后来……兄弟真香。|头像=猫绒绒·少年}}\n{{对话|右爪灰|犯我虾仁者，虽远必诛<ref>《汉书》载陈汤上汉元帝书：“明犯强汉者，虽远必诛。”</ref>。|头像=猫绒绒·少年}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|右爪灰|哼，虾仁什么的，也没有多好吃……但你也不能全端走啊！|头像=猫绒绒·少年}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|右爪灰|缴了这点虾就想走？把虾壳虾线剔干净再说。|头像=猫绒绒·少年}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''喵语犬'''==\n{{对话-头}}\n{{对话|喵语犬|谁这么缺德往我饭盆里扔生姜啊！|头像=狗绒绒·老年男2}}\n{{对话|喵语犬|我一瞧你的嘴筒子和尾巴，就知道你铁定是犬科。|头像=狗绒绒·老年男2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|喵语犬|好像骨折了…你咬合力这么强，肯定是犬科！|头像=狗绒绒·老年男2}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|喵语犬|像你这么弱的犬族不适合做潜伏工作，还是回犬都养老吧。|头像=狗绒绒·老年男2}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''猫隐士'''==\n{{对话-头}}\n{{对话|猫隐士|猫邦最强的猫……应该是虎斑吧？|头像=猫绒绒·老年男}}\n{{对话|猫隐士|我听说过你！奇怪的狐狐猫。|头像=猫绒绒·老年男}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|猫隐士|完、完全打不过……这就是狐狐猫的天赋吗？|头像=猫绒绒·老年男}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|猫隐士|怕了吧？像我这么厉害的猫还有很多！|头像=猫绒绒·老年男}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''温柔刀疤'''==\n{{对话-头}}\n{{对话|温柔刀疤|摸鱼有什么意思？我只想摸摸其他猫的尾巴……|头像=猫绒绒·凶狠2}}\n{{对话|温柔刀疤|你是什么品种的猫？尾巴好蓬松，看上去很好摸的样子。|头像=猫绒绒·凶狠2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|温柔刀疤|你把我打成这样，赔我一次摸摸你尾巴的机会，不过分吧？|头像=猫绒绒·凶狠2}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|温柔刀疤|对不起、对不起，我不是故意弄脏你尾巴的。|头像=猫绒绒·凶狠2}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''市井高手'''==\n{{对话-头}}\n{{对话|市井高手|刚我抓那只飞天老鼠呢，怎么一扭头就不见了……|头像=狗绒绒·老年女2}}\n{{对话|市井高手|你的嘴筒子和尾巴好特别……哦，狐狐猫是吗？|头像=狗绒绒·老年女2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|市井高手|完全打不过……爪子这么锋利，肯定是猫。|头像=狗绒绒·老年女2}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|市井高手|哼，小猫咪实力不过如此。|头像=狗绒绒·老年女2}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''新人猫侠'''==\n{{对话-头}}\n{{对话|新人猫侠|嗯?刚刚好像看到我的梦中情猫路过了。|头像=猫绒绒·可怜}}\n{{对话|新人猫侠|有没有不那么粗鲁的方式分胜负……要不我们比谁吃得多？|头像=猫绒绒·可怜}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|新人猫侠|我昨天刚吹的造型！你真是太粗鲁啦！|头像=猫绒绒·可怜}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|新人猫侠|……想当一只不爱打架性格温和的猫，好难。|头像=猫绒绒·可怜}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''不防晒死士犬'''==\n{{对话-头}}\n{{对话|不防晒死士犬|说谁内卷呢……这是学习狼族先祖、弘扬狼性文化！|头像=狗绒绒·青年男2}}\n{{对话|不防晒死士犬|做狗没有梦想，和肉干有什么区别？请赐教！|头像=狗绒绒·青年男2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|不防晒死士犬|自己的失败固然可怕，同僚的成功更让狗揪心。|头像=狗绒绒·青年男2}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|不防晒死士犬|果然天道酬勤……什么？击败狐狐猫不算绩效是什么意思？？|头像=狗绒绒·青年男2}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n=='''敬业刺客犬'''==\n{{对话-头}}\n{{对话|敬业刺客犬|我不是猫，但我的同僚是真的狗，卷到最后只会一无所有。|头像=狗绒绒·青年女2}}\n{{对话|敬业刺客犬|满嘴都是梦想的狗最可怕了，挨打都挨得兴高采烈。|头像=狗绒绒·青年女2}}\n{{嵌套分歧|头}}\n{{嵌套分歧|战胜对话|1}}\n{{嵌套分歧|战败对话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|敬业刺客犬|在哪里跌倒，就在哪里睡觉……呼……|头像=狗绒绒·青年女2}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|敬业刺客犬|我就是洗衣桶里的蔡侯纸，把我卷烂了谁都别想好过。|头像=狗绒绒·青年女2}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div></div></div></div>\n\n{{#css:\n.map-dh {\n    width:100%;\n    overflow:hidden;\n    margin:10px 0px;\n    display:table;\n    border-radius: 4px;\n}\n\n.map-dh-left {\n    display:table-cell;\n    vertical-align: middle;\n    width:140px;\n    padding:10px;\n    font-weight:bold;\n    font-size:16px;\n    background:#7B5F44;\n    color:#F2E3C6;\n    text-align:center;\n}\n\n.map-dh-right {\n    display:table-cell;\n    vertical-align: middle;\n    width:calc(100% - 100px);\n    padding:10px;\n    color:#cbbba4;\n    background:#eee;\n}\n\n.map-dh-an {\n    float: left;\n    width: 120px;\n    color: #848080!important;\n    background: #DCCF9E;\n    padding: 3px 10px;\n    text-align: center;\n    border-radius: 4px;\n    margin:4px;\n}\n\n.map-dh-an:hover {\n    background:#EAECF0;\n    transition:.2s;\n}\n\n@media only screen and (max-width:759px){\n    .map-dh-an {\n        width:48%;\n        margin:4px 1%;\n    }\n\n    .map-dh-left {\n        display:block;\n        width:100%;\n    }\n\n    .map-dh-right {\n        display:block;\n        width:100%;\n    }\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n    \n @media screen and (max-width: 600px){\n    .chengzhang{\n        width: 120% !important;\n        transform: translateX(-8%);\n    }\n    .title{\n        position: absolute;\n        top: 38px;\n        left: 50px;\n        font-size: 2rem;\n    }\n}\n}}"
+}

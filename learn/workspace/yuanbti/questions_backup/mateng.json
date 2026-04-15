@@ -1,0 +1,87 @@
+[
+  {
+    "id": "q_mateng_1",
+    "dimension": "S5",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "马腾",
+    "source_story": "西凉雄狮",
+    "route_hint": [
+      "西凉线"
+    ],
+    "city_hint": null,
+    "text": "马腾起兵西凉，以勇武著称。面对董卓残暴治下的百姓哀号——",
+    "options": [
+      {
+        "label": "A",
+        "text": "暂且隐忍，积蓄力量再举义旗",
+        "scores": {
+          "S5": 1,
+          "S6": 3
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "联络各路诸侯共同讨伐",
+        "scores": {
+          "S5": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "立即起兵，就算只有自己一人",
+        "scores": {
+          "S5": 5,
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马腾的选择：西凉铁骑出征，只为还百姓一个公道。"
+  },
+  {
+    "id": "q_mateng_2",
+    "dimension": "S6",
+    "cross_dimension": "S5",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "你的同袍在战斗中临阵脱逃，导致小队陷入险境。事后——",
+    "options": [
+      {
+        "label": "A",
+        "text": "上军事法庭，按军法处置，值得深思",
+        "scores": {
+          "S6": 5,
+          "S5": 2,
+          "S10": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "严厉批评，但给他一个将功折罪的机会",
+        "scores": {
+          "S6": 3,
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "先问问原因，也许有不得已的苦衷",
+        "scores": {
+          "S6": 2,
+          "S5": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "马腾治军严明，但重情义，会视情况而定。"
+  }
+]

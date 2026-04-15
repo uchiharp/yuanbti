@@ -1,0 +1,201 @@
+[
+  {
+    "id": "q_zhangkai_1",
+    "dimension": "S4",
+    "cross_dimension": "S8",
+    "type": "story_known",
+    "source_character": "张闿",
+    "source_story": "双重面孔",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我一直期盼着和殿下如此清谈，所以换了殿下可能喜欢的样子。」张闿可以随意变换外貌。如果你是张闿你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "为了接近目标变成任何样子",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "偶尔伪装但保留真实的自己",
+        "scores": {
+          "S4": 3,
+          "S1": 4,
+          "S2": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不做伪装做真实的自己",
+        "scores": {
+          "S4": 2,
+          "S1": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张闿：皮囊只是工具。面具与人完全分离。"
+  },
+  {
+    "id": "q_zhangkai_2",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张闿",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「所有没被这个世道爱过的孩子，乌有社的张闿都会成为他的母亲。」你如何看待这种「母性」？",
+    "options": [
+      {
+        "label": "A",
+        "text": "被需要就是存在的意义",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "母性是本能不应被当工具",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "这种关系本质上是控制",
+        "scores": {
+          "S8": 2,
+          "S9": 3.5
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "张闿的母亲底色是真实的，但温柔也是政治武器。"
+  },
+  {
+    "id": "q_zhangkai_3",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张闿",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "被自己养大的孩子叛变重伤后张闿的第一反应是反思自己。如果你被最亲近的人背叛你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先反思自己是不是做错",
+        "scores": {
+          "S6": 3.5,
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "愤怒然后想报复，值得关注",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "断绝关系不再来往",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "被太史慈重伤后第一反应是反思——这份温柔让人卸防。"
+  },
+  {
+    "id": "q_zhangkai_4",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「不强横，不强存，当常则常，当灭则灭。」你更认同哪种面对无常的态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "接受无常顺其自然，值得关注",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在无常中寻找可以掌控的部分",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "对抗无常建立自己的秩序",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张闿的草芥之道——道法自然。"
+  },
+  {
+    "id": "q_zhangkai_5",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": "广陵",
+    "city_hint": null,
+    "text": "你可以变换外貌，面对一个你关心但不想让对方知道的人你会选什么面孔？",
+    "options": [
+      {
+        "label": "A",
+        "text": "变成对方最亲近的人的",
+        "scores": {
+          "S2": 3.5,
+          "S4": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "变成温和无害的陌生人",
+        "scores": {
+          "S2": 3,
+          "S4": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不伪装远远看着就好",
+        "scores": {
+          "S2": 4,
+          "S4": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": null
+  }
+]

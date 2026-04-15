@@ -1,0 +1,2948 @@
+{
+  "title": "孙策-约会/七载相逢",
+  "category": "约会",
+  "characters": [
+    "众人",
+    "侍卫",
+    "信使",
+    "副将",
+    "可疑少年",
+    "可疑骑兵",
+    "吴夫人",
+    "周瑜",
+    "商人",
+    "士兵",
+    "妇人",
+    "妇兵",
+    "孙策",
+    "我",
+    "护军",
+    "护卫",
+    "文官",
+    "斥候",
+    "曹军间谍",
+    "水军",
+    "水军将领",
+    "流民",
+    "甲士",
+    "男人",
+    "百姓",
+    "船员",
+    "董奉",
+    "诸葛诞",
+    "辎重兵",
+    "骑兵",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "水流湍急，又开始下雨了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "是那种会让庄稼枯萎的雨……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "起初徐州全境大旱，颗粒无收，广陵各县的义仓很快见底了。旱灾之后是蝗灾，蝗灾之后便是乱军……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "后来，天上突然下雨了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "众人狂喜，以为得救。但这种雨，入口酸涩，无法饮用，植物触之即萎……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "江东那边是不间断的血热病，孩子生下来活不久，浑身出血而死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "喏，这不是看着她要生了，所以才拖家带口离开江东的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "但是，江东至少没有战乱吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "有啊，曹军早就从荆州打过去了，刺客间谍没有停过，只是大军没有压过江罢了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "扬州六郡不停地在反叛，到最后都杀红眼了，孙策打下繇哥之后，可是拿他杀鸡儆猴的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "反正吃过饭了，想听细节吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "什么细节，点天灯还是放风筝？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "哎呀，公子是行家呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "好粗糙的手艺……行了，你要渡江吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "渡江至少可以避开重军。渡江，去扬州吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "你们要是去扬州的话，我们就得分道扬镳了。班子里有孕妇呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=诸葛诞",
+      "emotion": "我去关中投奔我哥了，就此别过！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "……真的要去扬州吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "去扬州也好啊，又富足，又太平……就是不知道孙氏会不会待百姓好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "商人",
+      "text": "头像=摊贩",
+      "emotion": "是啊……上次上游砍头，说是抓曹军的卧底，牵连杀了好多人，江水都红了……而且，孙氏和我们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "局势不好，关系恶化。四年前，孙氏封锁了这边的航道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "五万人没有楼船和渡口，渡江就只能靠竹筏或小舟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……这样的湍流，不能靠小船。不然，最后活着到对面的人，连三成都不到。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我先渡江联络孙策，让他那边派楼船来接。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "先不说渡江的风险，如今，他还会帮你？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他会。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "你没有广陵和绣衣楼了。他最多只会庇护你，不会管这里的五万人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若是那样，我会回来找你，走最后的路，带他们去交趾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "替我备船吧，杏林君。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "船……船不断在往下游飘，附近石头太多了……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=孙策",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士兵",
+      "text": "头像=士兵",
+      "emotion": "将军！将军！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "孙策将军跳下去了！快放浮木下去接人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "跟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "跟战船抢道……想喂鱼吗？<ref>[[南有乔木/05]]</ref>",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……孙策。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "你醒了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我睡了多久？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "没多久，两个时辰而已。有些寒热，医师在外面备药。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "你经历了什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我从七年前，来到了此时。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "是被什么力量牵扯入了乱流中了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "宇宙有自己纠错的能力，不属于这里的人，很快会被送回原位。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……那我走了的话，这里的我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……嗯。这个宇宙中的你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "确实，在七年前的船难中罹难了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "是吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你怎么样？有喝药吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "问了，说是刚添了水。还要再熬一煎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "来，把灯拿近些……你看看他，还认得出吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "当然认得出，我又没怎么变。你看看你哥，你哥这几年憔悴了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没有，都认得出。还和七年前差不多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "这话就哄人了。确实憔悴了，从前的衣服都空落了，也没时间让人重新去裁做。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "身体不好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……没办法。天意啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "她说的事，你让人去看过了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "刚才吕蒙去查看了。现在有暴雨湍流，楼船无法逆行。等雨势渐小，就让他们去接对面的人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这几年，长江的乱流越来越无法预测了……江东的水，没有庇护江东的人啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……其他人都还在吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "有些老人走了……母亲最近有郁症，在卧榻休息。等她醒了，我们去见见她。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "仲谋长大了，在驻守徐州方向的濡须关口。阿香很少回来，上次回来是三年前。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "其他人都在各地驻守，平定叛乱……太史慈不在了，去年病逝的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你兄长要去荆州前线了，明日带兵出征。等他回来就有楼船了，雨季应该也会过去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "荆州前线，打到哪里了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "柴桑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "两州决战，渡过彭蠡泽，背后便是扬州。不能退，也不能败。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你是不是高了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "当然高了，我还在长身体的时候呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "公瑾，外面江风吹着很清爽，要不要下马车走一走？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "也好……让你兄长多休息片刻，也好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这些年，他太累了。你失踪之后，很多局面都变了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我刚回来，就见到了广陵的大火。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "我以前，没想过它会如此……后来，我送走了陈登。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……一直站在我这边，直到最后的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他最后说了什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我最后见到他在廊后，分别的时候，好像对我说……他想通了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "是啊……想通了，就安心了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他有说，他以后想当什么吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "变成浮木。看看鱼，晒晒太阳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "子义想变成松鼠。也是一样，在树上晒晒太阳。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "人到最后，思考下一世想做什么时，似乎都会想，变成个悠闲的事物，每日晒太阳。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "公瑾，你上次说，你想变什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……唔……我睡着了吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你累了？还是回去休息吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……没事。刚才隐约听见有人叫我，怎么了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "没什么。夜风起了，我们要回去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "又要下雨了……今年，江水里几乎没有鱼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嗯，那种异样的雨在挪移过来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "就跟徐州一样，先是作物，再是渔获。再然后，原本百年不会朽烂的船木，在那种雨中都开始损毁了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "去看看它们吧，好久不见了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不管怎么样，它还在。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "孙氏第一条自己造出来的艨艟，我们初遇时，我坐的就是它。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "它叫什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "北宫婴儿子。母亲起的名字，她想它长长久久陪着孙氏，不要被江水带走。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "北宫至孝女，彻其环瑱，至老不嫁不离家<ref>《战国策·赵威后问齐使》：“北宫之女婴儿子无恙耶？彻其环瑱，至老不嫁，以养父母。”</ref>……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "别听他吹牛。这条船很早就不用了。你们初遇的时候，北宫已经封航很久了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我没吹牛！哥你说良心话，她来寿春的那天，我是不是带你们去东山船坞了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "别的船都好好的，就只有它有点吃不住水了。我说，你们去营里议事吧，我出去遛遛船。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "胡扯。吃不住水的是“方远”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "屁的“方远”，就是北宫。我八十岁躺榻上了都不会记错，我见你妹那天，乘的就是北宫！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "瞎三话四。我看账目的。那年修葺栏目上，艨艟名写的是方远。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "“北宫婴儿子”五个字写起来麻烦，肯定是誊抄的人贪省事写了方远。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……是这条船。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我记得。初遇那天，你乘的就是它。我到八十岁都不会记错！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哈哈……等我们俩都八十了，就天天对你哥瞎三话四，你跟他说，阿哥阿哥你当年欠我一千万呢！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你哥就记不清啦，你哥就会说，好好好，我努力攒钱还你们两个赤佬。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "就这样，慢慢攒钱，攒啊，攒啊……就这样，不知不觉，大家就都变成长命百岁的赤佬了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "明天就要分开了。我往柴桑打荆州，你们去九江丹阳平叛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……我不带琴走了，把它留在这了。你们走的时候，别忘了它。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你把我的剑带上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "这把剑又不好，你从哪随手捡的？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "谁说的？这可是价值一千万白金币的宝剑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "务必人剑俱归。你要是不把它好好带回来，就真欠我一千万了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哎，见者有份，我也要算个债主。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=周瑜",
+      "emotion": "骗份子钱呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "啥叫骗啊，来来来，随个定金……哇你看！你哥钱包里居然放钱了！抢抢抢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "我瞧瞧！……哇真的！居然有钱了！抢一个抢一个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "怎么了，兄长？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "没什么……我要走了，要回家了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "伯符，伯符。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哎，我在呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "你要陪她走下去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "无论如何，走下去，走到最后。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "一辈子的生死兄弟，你放心。我说我跟她，她只要不丢下我，我到死随她。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "辎重兵",
+      "text": "头像=侍从",
+      "emotion": "……都是自己人打自己人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护军",
+      "text": "头像=副将",
+      "emotion": "闭嘴。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "辎重兵",
+      "text": "头像=侍从",
+      "emotion": "本来就没必要打了……粮食也收不上来，家畜也都死了……刚出生的孩子，才哭了一声就……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甲士",
+      "text": "头像=士兵",
+      "emotion": "肯定是天命不庇佑了。孙氏杀性太重，江东的水不会再庇佑江东人了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护军",
+      "text": "头像=副将",
+      "emotion": "都闭嘴！听见没有？！扰乱军心者，杀无赦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "信鸽都飞不远，没办法在这种雨里面远行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你担心留在徐州的人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "中途摆脱了曹军，才能抵达江畔。若是停留太久，追兵一样会追上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "相信你哥，楼船会回来的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他可是在这么多破事下面，还让车虎营坚挺到现在啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "将军，斥候迟归了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "有见长烟吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "雨水太大，观测不到长烟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "已经点了一支人马往南去了，程普的前营没有接应。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "日暮前渡肥水，再派人去与前营报信。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "草木上有兵马行经痕迹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我知道，是假行军。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那边的林子里有伏兵，就是为了让人注意到行军痕迹，避入林中，再发动突袭。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "先派材官带三百轻兵，推冲车清扫肥水两侧芦苇荡。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "敌军的伏兵和骨突舟定然藏在其中，计划等我们在林中遭到突袭，慌不择路涉水时，从水上冲杀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "清理肥水两侧伏兵后立刻渡水。无论前营是否失陷，一定要在明日日出前推进到合肥北侧十五里扎营。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "敌军已占合肥城，完全有备夜袭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "舒城有情报送来，合肥内部不安定，叛军在排查孙氏安插的人，全城宵禁，不会开城门。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "信鸽无法行动，只能靠人传递。密探的损耗越来越大，哪怕幸存，几乎也不可能再混入敌营。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "是这里吧……应该是这里。看一下……还好，裹得很紧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "在找什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "乔氏那位小女公子的墓。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "她和家人没在一起，从舒城朝寿春送信时，在这里睡着了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "留了遗言，想和父亲重聚。舒城已经是战场了，就从舒城把乔公的遗骨带来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这里比舒城清静些，坟冢都能保全。可以安心睡下了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "怎么跟出家了似的，戴这个？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……那不是七年前，以为你不在了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我不在了，你就戴念珠了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你不在，我就出家去了呀。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这叫什么出家……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "哈哈……当年不是说好了，我只拜你的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我这辈子，没信过鬼神。我想我杀了很多人，人又没有好坏，沦落在乱世里，杀人人杀，哪来什么道理。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "要是有鬼神，我就试第一批遭报应的。可又没有。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "所以啊，我拜拜你。你不开心了，我们就吵两句嘴。你开心了，我们就在一起。人生如此，就已经足够了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你不想以后吗？若不打仗了，不必再攻城略地了，大家可以鸣金收兵，卸甲养老。那之后，你想怎么过？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "乱世是不会过去的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "现在用兵马相杀，刀砍在脖子上，脖子断了就断了。这叫乱世。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "等之后，就用道德相杀。不用刀了，用刑场。叫做盛世。自己不用动手，就能把仇家一批一批送上刑场。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "总是二者选其一，人构成的人间，倾轧和相残是无法避免的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "只能尽量让大多数人不受苦，尽可能拖延再度陷入兵马相争的日子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那你觉得，用兵马杀人，比用道德要好？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……兵马无可避。若是道德，常人至少有苟全之地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "或是依附，或是矫饰，或是加入堆砌道德的坞堡……或许虚伪、麻木、痛苦，但至少能活下去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你以前，可不是这么说的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你说，会有个人人得以安居的清平之世。那时候你可没提过，这清平之世里，还有道德杀人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "那时候还小啊。还相信人性，相信人。觉得只要不打仗，大家就能心满意足地生活在一起。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "现在不信了吗？人可真是无可救药。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "现在不信了。变成了期盼吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "知道人性之恶了，谎言、背叛、贪欲、嫉妒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "强大的人意欲成神，抛下一点碎肉让下面自相残杀。失权的人凑成兽群去撕扯他人，以此幻想拥有断人是非生死的大权。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "但就算这样，还是会期盼人性。偶现的明光，是何等的奇迹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "光凭期盼，就想救世人吗？明知救了也无法改变什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "能不能被改变，是世道的事。怀揣的是善或恶，是他人的事。我想救人活命，是我自己的事，与天地何干？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他们若不想被你救呢？或是被你救了，转头就围着你将你劫掠了呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那也是他们的事，与我何干？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你当年也不是这样说的。你从前说，若是救人，自然有救人之力，后备之路，及时抽身。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "生死来去，何必强求。问心无愧就好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你要再走，我就真出家。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "真的呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "真的！我说到做到。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哈哈……你可不能这样。许多人指望着你呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "指望着我往前打？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "指望你下令，说打完了，大家可以归家了。虽然我也知道，你停不下来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "所以，有我在，儒家那个上古大同世界就来不了。封地怎么看怎么觉得小，旁边地界的长官怎么看怎么不顺眼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "目光所及还看见有一块地方不服自己，就会辗转反侧，好像喉咙里卡了鱼刺。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "全州都打下来，就想打过江，打去许都。打去许都了，就想往北继续打，打去幽州。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "日子总是好过一阵，难过一阵的。好日子啊，像喝醉酒后做了几夜的醉梦，醒了就散了。再去找酒，再醉一场。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "怎么几年不见，说话都会用比喻了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "尸山血海里爬了几百个来回，听白骨说话听会的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对了，我还听会了一句话，你想不想听？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……什么神仙来了，江东孙策都不皈依<ref>[[孙策-恋念剧情/金窗绣户]]</ref>……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……这不是你自己说的话吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我骗你的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……你走后，我皈依了很多神佛，问了很多宫庙，求了扶乩问灵……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "忘记求了多少次神佛，问了玄女、铁母、少司命、大司命、伏羲、神农，还去过阴庙……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "绕了一圈，绕了好几年，突然想，他们在耍我呢，把我当猴一样耍……于是，我又杀了他们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "杀光了，烧光了。还是回到从前，只余下母亲敬奉的王母。就在前几天，我随她去拜王母。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我想，王母啊，最后一次，给我些征兆吧，我没办法了。你只要给我征兆，我到死都供奉你。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……那，王母显灵了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那天夜里……我做了梦。我梦见我乘着北宫婴儿子，乘着这条早已不用的船，船在跟我说话。她说……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "她说，你杀了许多人，罪孽滔天，你也供奉给我许多生灵，杀性里有彻悟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "“你去遇她处遇她。我只为你如愿一次。一次如愿，要用一世的炼狱来换，你同意吗？”我说我愿意。我从船上跳下，醒来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "第二天，我说，我要乘这条船。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他们以为我疯了，它很老了，不知道在湍流里会不会粉碎……我在暴雨里行船，最后，听见了你在喊我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "丹阳的叛军正在渡牛渚，急行军至此大约还有三日！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "让先攻继续往前推，要把合肥打下来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "将军，云梯已经不够了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "把剩下的撞木集中在东城门。工兵继续分五组挖地道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若继续攻城，我替你往舒城调云梯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "好。副官，去左军点一支三十人轻骑护卫同去，剩下的人一刻后鸣金回营。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你走六安过去，六安守军是自己人。再往前，或多或少都被曹操那边的人渗透了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "是流民……众人戒备。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不要离太近，保持距离，尽快经过。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "……不行，他们围拢过来了。准备突围！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "骑兵",
+      "text": "头像=士兵",
+      "emotion": "不——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流民",
+      "text": "头像=难民",
+      "emotion": "呕……呕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "你疯了？！你在做什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "可疑骑兵",
+      "text": "杀！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "没有必要。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "可疑骑兵",
+      "text": "……各为其主，对不住。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "舒城尉！舒城尉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "城中守军不在内营！去尉官室找！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "合肥那边等不了多久了！必须尽快调到云梯！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "是这里！舒城尉在里面吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "孙策将军持符调云梯，舒城这边的云梯需要调往合肥，需尽快点兵！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "舒城尉？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "……自尽了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "死了几日了……那舒城的军士……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "护卫",
+      "text": "头像=绣衣楼密探",
+      "emotion": "应该流散了……只能去外营找云梯，尽可能送往合肥了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "还有居巢。那边驻军在坞堡中，应该有齐全的战备。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你们往居巢，我带人清点舒城的云梯，先行送去前线。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "将军有令！转向柴桑行军！将军有令！转向柴桑行军！将军有令！转向柴桑行军——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "叛军暂时压制……我们支援柴桑，就能见到你兄长了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……你发烧了，要换马车吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我不能换马车。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我必须骑在马上，让所有人看到。所有人都快到极限了，我不能倒下去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "至少停一下，敷上金疮。伤口见骨了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我没有伤。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……它发炎了，你撑不住的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我没有伤。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "众人想回寿春？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "柴桑危急。柴桑之后便是扬州……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "诸位！扬州好啊，扬州是个好地方！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "田里什么都能种，长江水冬夏不枯，扬州的士族都不敢招摇过市，江里田里的东西，收上来都是你们自己的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你们甘心让出扬州？扬州……扬州！是我们兄弟们出生入死，用血、用命、用骨头堆起来的！！！谁狗日他祖宗的愿意让？！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "去柴桑……打下柴桑！太史慈走前说的话都还记得吗？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "大丈夫……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "大丈夫生于乱世，当带七尺之长剑，立不世之战功，平荡四海、气吞天地，以升天子之阶！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "若志不遂……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……死之奈何……死之奈何……<ref>韦曜《吴书》“慈临亡，叹息曰：丈夫生世，当带七尺之剑，以升天子之阶。今所志未从，奈何而死乎！”全文今不存，见于裴松之《三国志注》 </ref>",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "将军！将军！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "让军医过来！快！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我们要到柴桑了，孙策……没事了，我们抵达沘水渡口就能到柴桑了！孙策！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "调马车过来！让辎重调马车来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "将军他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "他什么事都没有！传令全军继续向柴桑进发，抵达六安扎营后全营戒严！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "斥候",
+      "text": "头像=伪装宾客",
+      "emotion": "全军继续向柴桑进发！抵达六安扎营！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "用行炉烧水，必须用干净的水先冲洗伤口。军医，替他把伤口烧上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……没事。孙策，没事的。到柴桑就没事了，就能和兄长汇合了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没事的……我在这。没事的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……柴桑那边……有传信来接应吗……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "快了，今夜应该就会有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……不知道……你兄长那边……怎么样了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……一开始，我们……在乡里打架……后来，我回扬州……想打一片地盘……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "停不下来的……吴郡、会稽、九江、庐江……扬州……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我不想……当皇帝……但我喜欢胜……一统江东的霸业近在眼前，如何能收手……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "孙策，其实，有一次，你停下来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我怎么能……停下来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "真的。你遇到的那次，我的小船在艨艟前面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那一次，你停下来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "是啊……是啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我终究还是为了你……停下来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他睡了。怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "出什么事了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "……柴桑那边有信送来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信使",
+      "text": "头像=男文人",
+      "emotion": "……殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信使",
+      "text": "头像=男文人",
+      "emotion": "……这是周将军……最后要交给殿下的剑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信使",
+      "text": "头像=男文人",
+      "emotion": "周瑜将军于五日前病情转重……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信使",
+      "text": "头像=男文人",
+      "emotion": "柴桑沦陷，豫章失守。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=副将",
+      "emotion": "殿下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……把手给我。我在这……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "信使",
+      "text": "头像=男文人",
+      "emotion": "……今日暮时，周瑜将军病逝于柴桑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "吓了我一跳……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "兄长！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "兄长，你在啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "一惊一乍的……我当然在啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……这个宇宙，很漂亮吧？只有无穷无尽的白沙。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好刺的沙子，像白骨变成的沙子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "是这个宇宙中的人，在灭亡后，留下的骸骨变成了沙尘吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……也许吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "所有的宇宙，最后大抵都是这样的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "求生，欲望，狂喜，死去。万物生死，皆是如此。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那你还跟他打天下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "既是生时人，自然做生人之事。生人之事，出生时喝奶，长大了吃饭，懂事了，谋求利益，找自己要做的事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "出生时是一个人，死去时，也是一个人。就像旅行了一圈，最后还是回到了家。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "可是，你出生时不是一个人呀！我们……我们是两个人一起出生的哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "哎……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "是呀，我们是一起出生的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "所以，出生时候就不会孤单，走的时候也不会的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "那多不吉。若一个人先走了，岂不是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "没关系的！如果……如果你觉得孤单……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "如果我们都做完了自己想做的事，如果天意如此，没有遗憾了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那，我们就可以一起走呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这就是家人啊，家人就是，永远都会和彼此在一起，和彼此走下去的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……好啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯！那就说好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……好啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "兄长？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "…………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "兄长？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "……对不起……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "对不起，我先走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "对不起。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "要带衣服上去喊名字了，是交给哪位亲属……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我拿去给她……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "……不行的呀……不能给她的呀……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "她上去喊，那所有人都知道她是……不行的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……我们上去喊名字吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "公瑾——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "公瑾——公瑾——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……兄……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……兄长……兄长！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "兄长——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "……囡囡，嘘，囡囡……快，快下来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……夫人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "我知道……你快下来，不能让别人看到的呀，囡囡……快……快……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "我的儿……囡囡……我的儿……我的儿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "没事的，姆姆在的，囡囡，姆姆一直在的……你是我的儿啊，是姆姆心里的肉啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "头像=吴夫人",
+      "emotion": "你以后……以后就来姆姆这里，就来这。姆姆不让别人欺负你……会欢喜你……你不要太伤心……还有姆姆……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……扶灵回来了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嗯，回来了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……安神药喝了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "……不用那个。我没事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你哥小时候……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你哥小时候，话很少。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "他本身话也不多呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "不，小时候话更少。我们怕他被欺负，到哪都带着他。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "有次，你母亲生病了。妈妈很担心，抽我们带着药材出门，去给邻居家送。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我说，你叫什么呀？你总不说话，只知道你姓周。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "喜欢弹琴啊？琴很贵的，下次我们父辈从战场回来，看看能不能给你缴一台。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他就不说话呀，就静静望着我们。我们很吵闹，叽叽喳喳帮他家里做家务……邻居嘛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "然后，有一天要走了的时候，忽然，他叫住了我们。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "“我叫周瑜。与母亲在本地借居，多谢照应。”",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我跟你说，我本来觉得，这人真没意思，话少，不爱动， 跟江东人混不到一起。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "但他说完了，我又觉得，哎，可以啊，挺好挺好，能当兄弟。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……怎么那么好说话？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "年纪小啊，就容易交朋友。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我们是寒门啊，家里又是当兵的，就特别崇拜那种读书好的人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "他有次说，其实他还有个妹妹。我们说那得重聚啊，哪能一家人散两地呀？多可怜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "查啊查，查啊查……说……说查到了广陵王府。那广陵王，名声不太好，坏了，妹妹要是落他手上，岂不是被欺负？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我说你你你包我身上！走，阿香，抄家伙！王侯将相宁有种乎，为兄弟两肋插刀的时候到了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "……哈……哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这……哈哈……这真是两肋插刀啊！我还说，我说救出你妹，大家把那个混球一顿毒打。打完了就跑，去外地避风头。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "去豫章啊，不知道通缉令挂几年呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "就这样……就这样……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……就这样，我就来找你了……然后……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "…………然后……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "睡吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我要……去打柴桑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我知道……带艨艟走吧，我设法带他们去交趾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我去柴桑前，会先帮你把他们接过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我答应过你的。言而无信的人，是不能当霸王的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "董奉的信鸽……曹军近了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "意料之中。不能再晚了，必须尽快把人接过来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "还有多少台艨艟？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军将领",
+      "text": "头像=副将",
+      "emotion": "从柴桑回来的还有五十台艨艟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军将领",
+      "text": "头像=副将",
+      "emotion": "将军，雨季江水湍急……艨艟都损伤严重，逆行不易。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "到底是江东的水……到最后，会庇护我一把的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "开船吧。点灯，让对岸的人准备。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "船员",
+      "text": "头像=士兵",
+      "emotion": "对面晃灯了！右偏舵，往渡口东停靠！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "董奉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "曹军！曹军来了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "马步太近了，不能在停靠时交战，装满人的船就回航！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军将领",
+      "text": "东列船回航！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……董奉不见了，我得下船去找他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "岸上太乱了，我跟你去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "你得留在船上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "董奉！董奉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你有见到杏林君吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "啊啊！啊啊啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "董奉？！董——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "不！我不想死！救我！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "走！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……以前，那里晚上有很多灯火，因为大部分时间没有宵禁。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "都是过去的事了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "回去之后，也许也可以撤掉几天宵禁，让大家轻松一下啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "毕竟，都刚刚死里逃生……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=男文人",
+      "emotion": "着火了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "船员",
+      "text": "头像=士兵",
+      "emotion": "有敌军混进来了！！！有人纵火杀人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "所有人注意自己身边的人！有曹军的间谍……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "孙策！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……别松开……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "不……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……放手吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "不……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……没事的，放手吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我已经，和王母……说好了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "不……呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "不……凭什么……你们都……呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-愤怒",
+      "emotion": "孙策！！！孙策！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……我说啊，我啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我还是……还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……还是……对不起你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……对不起……我没有……没有护住你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "小心船上有人纵火杀人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "可疑少年",
+      "text": "头像=少年",
+      "emotion": "？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军",
+      "text": "你在做什么？！手上拿的是什么？！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "水军",
+      "text": "是火油！小心船上！有曹军的细作混上来了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呃！有人放冷箭？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军间谍",
+      "text": "头像=士兵",
+      "emotion": "啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "孙策……唔！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "呃……呃……唔呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹军间谍",
+      "text": "头像=士兵",
+      "emotion": "……去死……唔！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "吴夫人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吴夫人",
+      "text": "搭板！上船支援！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇兵",
+      "text": "头像=平民母亲",
+      "emotion": "是！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "头像=董奉",
+      "emotion": "寿春的夜市，好像很多年都没有出现了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我要出征了。出征前，总要让众人热闹热闹啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "去柴桑？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "嗯，先把柴桑打下来。现在人多了，可以赶制新的艨艟……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……那个……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嗯？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "想问……你会留下吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "还是说，会打回长江另一头，回广陵？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我会留下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "你愿意和我在一起？一直在一起？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "我愿意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "那……可是……那……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我都……我都没准备好信物……我应该在家里问的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "哈……我等你准备好啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "……我会回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……啊，我明白。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我肯定帮你打回去的。等一切安定了，还是和以前一样。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "天气好，我就渡江来看你。天气不好，就写信给你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "但是……但是我要留个信物！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "信物？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "对啊，万一……万一你回去了，不理我怎么办？我肯定要个信物啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "那，我等你准备好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我去前面看看，找找有没有什么适合当信物的……不然……不然我身上不是刀就是匕首，不好……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "很好啊，匕首也算常见的信物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "他们都是送匕首，我从前也送你好多兵器了。太寻常了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "我要去夜市，找个特别的。你等等我，不许偷看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "董奉",
+      "text": "……你要走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……我要走了，孙策……"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·壹"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·贰"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·叁"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·肆"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·伍"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·陆"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·柒"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·捌"
+    },
+    {
+      "type": "narration",
+      "text": "濡须·玖"
+    },
+    {
+      "type": "narration",
+      "text": "centerlink300px/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%AD%99%E7%AD%96-%E7%BA%A6%E4%BC%9A/%E4%B8%83%E8%BD%BD%E7%9B%B8%E9%80%A2",
+  "crawled_at": "2026-04-12T22:14:34.377830",
+  "raw_wikitext": "{{回到顶部|头}}\n{{面包屑|2024活动剧情|七载相逢之秋/活动玩法}}{{背景图片|{{filepath:七载相逢之秋背景2.png}}}}[[分类:活动剧情]][[分类:约会]]\n__TOC__\n{{板块|按钮|七载重逢之秋/活动剧情|序章}}\n{{板块|按钮|刘辩-约会/七载相逢|刘辩线剧情}}\n{{板块|按钮|傅融-约会/七载相逢|傅融线剧情}}\n{{板块|按钮|袁基-约会/七载相逢|袁基线剧情}}\n{{板块|按钮|左慈-约会/七载相逢|左慈线剧情}}\n{{板块|按钮|孙策-约会/七载相逢|孙策线剧情}}\n{{板块|按钮|七载重逢之秋/活动剧情/尾声|尾声}}\n{{JS|Qiantao.js}}\n==濡须·壹==\t\n{{对话-头}}\n{{旁白|【海西】}}\n{{对话|诸葛诞|水流湍急，又开始下雨了。}}\n{{对话|董奉|是那种会让庄稼枯萎的雨……|头像=董奉}}\n{{对话|董奉|起初徐州全境大旱，颗粒无收，广陵各县的义仓很快见底了。旱灾之后是蝗灾，蝗灾之后便是乱军……}}\n{{对话|董奉|后来，天上突然下雨了。}}\n{{对话|董奉|众人狂喜，以为得救。但这种雨，入口酸涩，无法饮用，植物触之即萎……}}\n{{对话|诸葛诞|江东那边是不间断的血热病，孩子生下来活不久，浑身出血而死。|头像=诸葛诞}}\n{{对话|诸葛诞|喏，这不是看着她要生了，所以才拖家带口离开江东的吗？}}\n{{对话|我|但是，江东至少没有战乱吧？|头像=广陵王-微笑}}\n{{对话|诸葛诞|有啊，曹军早就从荆州打过去了，刺客间谍没有停过，只是大军没有压过江罢了。}}\n{{对话|诸葛诞|扬州六郡不停地在反叛，到最后都杀红眼了，孙策打下繇哥之后，可是拿他杀鸡儆猴的。}}\n{{对话|诸葛诞|反正吃过饭了，想听细节吗？}}\n{{旁白|董奉面无表情看了他一眼，用小刀削下腊鼠腿的肉片，塞进嘴里。}}\n{{对话|董奉|什么细节，点天灯还是放风筝？}}\n{{对话|诸葛诞|哎呀，公子是行家呀。|头像=诸葛诞}}\n{{对话|董奉|好粗糙的手艺……行了，你要渡江吗？}}\n{{对话|我|渡江至少可以避开重军。渡江，去扬州吧。|头像=广陵王-点头}}\n{{对话|诸葛诞|你们要是去扬州的话，我们就得分道扬镳了。班子里有孕妇呢。|头像=诸葛诞}}\n{{对话|诸葛诞|我去关中投奔我哥了，就此别过！|头像=诸葛诞}}\n{{旁白|他们又丁零当啷地上路了，且歌且舞，颜色艳丽的傩面架子逐渐远去，消失在古道尽头。}}\n{{对话|百姓|……真的要去扬州吗？|头像=男文人}}\n{{对话|妇人|去扬州也好啊，又富足，又太平……就是不知道孙氏会不会待百姓好……|头像=平民母亲}}\n{{对话|商人|是啊……上次上游砍头，说是抓曹军的卧底，牵连杀了好多人，江水都红了……而且，孙氏和我们……|头像=摊贩}}\n{{旁白|我看向董奉。他正在看舆图，与人商议还没被摧毁的渡口有哪些。}}\n{{对话|董奉|局势不好，关系恶化。四年前，孙氏封锁了这边的航道。}}\n{{对话|董奉|五万人没有楼船和渡口，渡江就只能靠竹筏或小舟。}}\n{{对话|我|……这样的湍流，不能靠小船。不然，最后活着到对面的人，连三成都不到。|头像=广陵王-摇头}}\n{{对话|我|我先渡江联络孙策，让他那边派楼船来接。|头像=广陵王-微笑}}\n{{对话|董奉|先不说渡江的风险，如今，他还会帮你？}}\n{{对话|我|他会。|头像=广陵王-微笑}}\n{{对话|董奉|你没有广陵和绣衣楼了。他最多只会庇护你，不会管这里的五万人。}}\n{{对话|我|若是那样，我会回来找你，走最后的路，带他们去交趾。|头像=广陵王-微笑}}\n{{对话|我|替我备船吧，杏林君。|头像=广陵王-微笑}}\n{{旁白|暴雨倾盆，我身边只带了两名侍卫，伏在如巨浪碎叶般的小船上。}}\n{{旁白|雨季的长江水流湍急，惊涛骇浪击打天幕。有人吐了，但一动也不敢动。}}\n{{对话|侍卫|船……船不断在往下游飘，附近石头太多了……呃！|头像=绣衣楼密探}}\n{{旁白|湍流席卷，木船撞在水石上，船舷木片飞溅。我们将身子伏得更低，免得船身被掀翻。}}\n{{旁白|然而……}}\n{{对话|我|呃！！！|头像=广陵王-难受}}\n{{旁白|心理|船底！！！}}\n{{旁白|船底被水石重重磕到，水流立刻泛入船中，船身剧烈摇晃起来。}}\n{{旁白|有人哀嚎着落水。我和剩下的人死死抓住船舷，下一刻，木船发出绝望的木声，从中断裂成两截——}}\n{{旁白|另一个人也不见了，没入水中。唯剩我一人抱着碎得越来越小的木板，在水中飘零沉浮。}}\n{{旁白|就在这时……}}\n{{旁白|在灰蒙雨雾之后，依稀有若山峦般的船影。}}\n{{旁白|在力竭前的瞬间，我不顾一切，向那里喊了一个名字……}}\n{{旁白|心理|……是幻觉吗……还是一团雾气而已……}}\n{{旁白|心理|……}}\n{{旁白|心理|…………}}\n{{旁白|仿佛有人跳下水，游近了……}}\n{{旁白|心理|……}}\n{{旁白|心理|…………}}\n{{对话|？？？|呃——|头像=孙策}}\n{{对话|我|！！！|头像=广陵王-惊讶}}\n{{对话|士兵|将军！将军！|头像=士兵}}\n{{对话|副将|孙策将军跳下去了！快放浮木下去接人！|头像=副将}}\n{{旁白|水声震天动地，若碎石拍在脸上。那人紧紧抱着我，陌生而熟悉的气息若水中的不灭之火，让一切都像水汽般上腾……}}\n{{对话|孙策|跟……}}\n{{对话|孙策|跟战船抢道……想喂鱼吗？<ref>[[南有乔木/05]]</ref>}}\n{{旁白|那张脸上带着笑意，水滴自他眼角滑下，不知是江水，还是泪水。}}\n{{对话|我|……孙策。|头像=广陵王-微笑}}\n{{对话-尾}}\n\n==濡须·贰==\n{{对话-头}}\n{{旁白|【寝室】}}\n{{对话|我|……唔……|头像=广陵王-疲惫}}\n{{对话|周瑜|你醒了？}}\n{{对话|我|……我睡了多久？|头像=广陵王-微笑}}\n{{对话|周瑜|没多久，两个时辰而已。有些寒热，医师在外面备药。}}\n{{对话|周瑜|你经历了什么？}}\n{{对话|我|……我从七年前，来到了此时。|头像=广陵王-微笑}}\n{{对话|周瑜|是被什么力量牵扯入了乱流中了……}}\n{{对话|周瑜|宇宙有自己纠错的能力，不属于这里的人，很快会被送回原位。}}\n{{对话|我|……那我走了的话，这里的我……|头像=广陵王-严肃}}\n{{对话|周瑜|……嗯。这个宇宙中的你……}}\n{{对话|周瑜|确实，在七年前的船难中罹难了。}}\n{{对话|我|是吗……|头像=广陵王-难过}}\n{{旁白|夜深了，更漏声残。外面有人来传话，说孙策从渡口回来了。}}\n{{旁白|一阵脚步声，有人从渡廊过来，在门口卸下外袍。侍从替他抖去衣上落叶，衣料猎猎中，他掀帘进来。}}\n{{旁白|灯火下，是一张已经洗去少年气的脸，那些跳脱的火光从他眼眸中湮灭了，化为了冷夜似的静河。}}\n{{对话|孙策|你怎么样？有喝药吗？}}\n{{对话|周瑜|问了，说是刚添了水。还要再熬一煎。|头像=周瑜}}\n{{对话|周瑜|来，把灯拿近些……你看看他，还认得出吗？|头像=周瑜}}\n{{对话|孙策|当然认得出，我又没怎么变。你看看你哥，你哥这几年憔悴了。}}\n{{对话|我|没有，都认得出。还和七年前差不多。|头像=广陵王-摇头}}\n{{旁白|兄长略笑，睫毛落在眼下，留下寥落清减的青影。}}\n{{对话|周瑜|这话就哄人了。确实憔悴了，从前的衣服都空落了，也没时间让人重新去裁做。}}\n{{对话|我|身体不好吗？|头像=广陵王-挑眉}}\n{{对话|周瑜|……没办法。天意啊……}}\n{{旁白|药煎好了。我闻到了外面的药味。大家都有意避开此事，没有再聊。}}\n{{对话|周瑜|她说的事，你让人去看过了？}}\n{{对话|孙策|刚才吕蒙去查看了。现在有暴雨湍流，楼船无法逆行。等雨势渐小，就让他们去接对面的人。}}\n{{对话|孙策|这几年，长江的乱流越来越无法预测了……江东的水，没有庇护江东的人啊。}}\n{{对话|我|……其他人都还在吗？|头像=广陵王-微笑}}\n{{对话|孙策|有些老人走了……母亲最近有郁症，在卧榻休息。等她醒了，我们去见见她。}}\n{{对话|孙策|仲谋长大了，在驻守徐州方向的濡须关口。阿香很少回来，上次回来是三年前。}}\n{{对话|孙策|其他人都在各地驻守，平定叛乱……太史慈不在了，去年病逝的。}}\n{{旁白|他在榻边坐下，身上的气息，像是沉淀了血和沙的战场余烬。}}\n{{旁白|手背上满是伤疤，两节指骨变形了，像是被重物砸过，但没有时间休养。}}\n{{对话|孙策|你兄长要去荆州前线了，明日带兵出征。等他回来就有楼船了，雨季应该也会过去。}}\n{{对话|我|荆州前线，打到哪里了？|头像=广陵王-微笑}}\n{{对话|周瑜|柴桑。|头像=周瑜}}\n{{对话|周瑜|两州决战，渡过彭蠡泽，背后便是扬州。不能退，也不能败。|头像=周瑜}}\n{{旁白|——荆州已与扬州恶战多年，即将在这场雨季中决战。}}\n\n{{旁白|【船坞】}}\n{{旁白|雨短暂停了，趁着这个间隙，我们策马去了江畔。}}\n{{旁白|之前，已经往江对岸放飞了信鸽，不知董奉有无收到。}}\n{{对话|我|你是不是高了？|头像=广陵王-微笑}}\n{{对话|孙策|当然高了，我还在长身体的时候呢。}}\n{{对话|孙策|公瑾，外面江风吹着很清爽，要不要下马车走一走？}}\n{{旁白|周瑜坐在车中，淡淡拨弦应了一声。}}\n{{对话|孙策|也好……让你兄长多休息片刻，也好。}}\n{{对话|孙策|这些年，他太累了。你失踪之后，很多局面都变了。}}\n{{对话|我|我刚回来，就见到了广陵的大火。|头像=广陵王-严肃}}\n{{对话|我|我以前，没想过它会如此……后来，我送走了陈登。|头像=广陵王-难过}}\n{{对话|我|……一直站在我这边，直到最后的人。|头像=广陵王-难过}}\n{{旁白|他拍了拍我的肩。月色昏暗，江水若黑龙汹涌，看不见对岸的火光。}}\n{{对话|孙策|他最后说了什么？}}\n{{对话|我|……我最后见到他在廊后，分别的时候，好像对我说……他想通了。|头像=广陵王-微笑}}\n{{对话|孙策|是啊……想通了，就安心了。}}\n{{对话|孙策|他有说，他以后想当什么吗？}}\n{{对话|我|变成浮木。看看鱼，晒晒太阳。|头像=广陵王-微笑}}\n{{对话|孙策|子义想变成松鼠。也是一样，在树上晒晒太阳。}}\n{{对话|孙策|人到最后，思考下一世想做什么时，似乎都会想，变成个悠闲的事物，每日晒太阳。}}\n{{对话|孙策|公瑾，你上次说，你想变什么？}}\n{{旁白|车内静了。没有人声，没有琴声。}}\n{{旁白|我过去掀开车帘，发现他睡去了，伏在琴上，裹着厚重的布毯。掀帘时，外面的冷风吹在他脸上，微微惊醒了。}}\n{{对话|周瑜|……唔……我睡着了吗……}}\n{{对话|我|你累了？还是回去休息吧。|头像=广陵王-微笑}}\n{{对话|周瑜|……没事。刚才隐约听见有人叫我，怎么了？}}\n{{对话|我|没什么。夜风起了，我们要回去了。|头像=广陵王-摇头}}\n{{旁白|我递了靠枕过去，他反而醒了，说是不用。说着便坐起身来，慢慢下了车。}}\n{{对话|周瑜|又要下雨了……今年，江水里几乎没有鱼。}}\n{{对话|孙策|嗯，那种异样的雨在挪移过来。}}\n{{对话|孙策|就跟徐州一样，先是作物，再是渔获。再然后，原本百年不会朽烂的船木，在那种雨中都开始损毁了。}}\n{{旁白|他指着南面江岸浅滩边的巨大黑影。它们被拖上岸，架起高大的雨棚避免雨水侵蚀。}}\n{{旁白|曾经动如雷霆的江东艨艟，盛时有将近千船，横贯长江。}}\n{{旁白|如今在岸上的，只余三百船，零落地成为浅滩上的孤影。}}\n{{对话|孙策|去看看它们吧，好久不见了。}}\n\n{{旁白|楼船高耸的黑影，在雨夜里森然静立。}}\n{{旁白|孙策翻身下马，步至船边，伸出手，轻轻拍在船身上。}}\n{{对话|孙策|不管怎么样，它还在。}}\n{{对话|孙策|孙氏第一条自己造出来的艨艟，我们初遇时，我坐的就是它。}}\n{{对话|我|它叫什么？|头像=广陵王-微笑}}\n{{对话|孙策|北宫婴儿子。母亲起的名字，她想它长长久久陪着孙氏，不要被江水带走。}}\n{{对话|我|北宫至孝女，彻其环瑱，至老不嫁不离家<ref>《战国策·赵威后问齐使》：“北宫之女婴儿子无恙耶？彻其环瑱，至老不嫁，以养父母。”</ref>……|头像=广陵王-微笑}}\n{{对话|周瑜|别听他吹牛。这条船很早就不用了。你们初遇的时候，北宫已经封航很久了。|头像=周瑜}}\n{{对话|孙策|我没吹牛！哥你说良心话，她来寿春的那天，我是不是带你们去东山船坞了？}}\n{{对话|孙策|别的船都好好的，就只有它有点吃不住水了。我说，你们去营里议事吧，我出去遛遛船。}}\n{{对话|周瑜|胡扯。吃不住水的是“方远”。|头像=周瑜}}\n{{对话|孙策|屁的“方远”，就是北宫。我八十岁躺榻上了都不会记错，我见你妹那天，乘的就是北宫！}}\n{{对话|周瑜|瞎三话四。我看账目的。那年修葺栏目上，艨艟名写的是方远。}}\n{{对话|孙策|“北宫婴儿子”五个字写起来麻烦，肯定是誊抄的人贪省事写了方远。}}\n{{对话|我|……是这条船。|头像=广陵王-点头}}\n{{旁白|我也伸手，抚摸黑色的船木。冰冷酥烂的船底，宛如这条年迈战船的皱纹。}}\n{{对话|我|我记得。初遇那天，你乘的就是它。我到八十岁都不会记错！|头像=广陵王-微笑}}\n{{对话|孙策|哈哈……等我们俩都八十了，就天天对你哥瞎三话四，你跟他说，阿哥阿哥你当年欠我一千万呢！}}\n{{对话|孙策|你哥就记不清啦，你哥就会说，好好好，我努力攒钱还你们两个赤佬。}}\n{{对话|孙策|就这样，慢慢攒钱，攒啊，攒啊……就这样，不知不觉，大家就都变成长命百岁的赤佬了。}}\n{{旁白|说笑间，我们步过江岸。带雨的江风猎猎卷起衣袍，流影入夜光。}}\n{{对话|周瑜|明天就要分开了。我往柴桑打荆州，你们去九江丹阳平叛。}}\n{{对话|周瑜|……我不带琴走了，把它留在这了。你们走的时候，别忘了它。}}\n{{对话|我|你把我的剑带上。|头像=广陵王-微笑}}\n{{对话|周瑜|这把剑又不好，你从哪随手捡的？}}\n{{对话|我|谁说的？这可是价值一千万白金币的宝剑。|头像=广陵王-无语}}\n{{对话|我|务必人剑俱归。你要是不把它好好带回来，就真欠我一千万了。|头像=广陵王-无语}}\n{{对话|孙策|哎，见者有份，我也要算个债主。}}\n{{对话|周瑜|骗份子钱呀？|头像=周瑜}}\n{{对话|孙策|啥叫骗啊，来来来，随个定金……哇你看！你哥钱包里居然放钱了！抢抢抢……}}\n{{对话|我|我瞧瞧！……哇真的！居然有钱了！抢一个抢一个……|头像=广陵王-眯眼笑}}\n{{旁白|他苦笑着捂住钱包，躲着我们俩的手，跌跌撞撞逃向马车，钻进车里。}}\n{{旁白|雨落大了。我们翻身上马，带马车回城。到城门口时，他忽然升起车帘，在黑夜中寻找我们的身影。}}\n{{对话|我|怎么了，兄长？|头像=广陵王-惊讶}}\n{{对话|周瑜|……}}\n{{旁白|夜幕下，他依稀笑了笑，微微垂下双目。}}\n{{对话|周瑜|没什么……我要走了，要回家了。}}\n{{对话|周瑜|伯符，伯符。}}\n{{对话|孙策|哎，我在呢。|头像=孙策}}\n{{对话|周瑜|你要陪她走下去。}}\n{{对话|周瑜|无论如何，走下去，走到最后。}}\n{{旁白|风雨涌入车中，打湿了他的鬓发眉目。孙策骑在马上，回头对他抱手。}}\n{{对话|孙策|一辈子的生死兄弟，你放心。我说我跟她，她只要不丢下我，我到死随她。}}\n{{对话-尾}}\n\n==濡须·叁==\n{{对话-头}}\n{{旁白|【寿春】}}\n{{旁白|日出前，两军拔营。大家喝了酒，分道扬镳。}}\n{{旁白|丹阳、九江两郡叛乱。孙策亲自带兵平叛。风雨飘摇，他已不能离开太远，像从前那样自己打前线。}}\n{{对话|辎重兵|……都是自己人打自己人……|头像=侍从}}\n{{对话|护军|闭嘴。|头像=副将}}\n{{对话|辎重兵|本来就没必要打了……粮食也收不上来，家畜也都死了……刚出生的孩子，才哭了一声就……|头像=侍从}}\n{{对话|甲士|肯定是天命不庇佑了。孙氏杀性太重，江东的水不会再庇佑江东人了……|头像=士兵}}\n{{对话|护军|都闭嘴！听见没有？！扰乱军心者，杀无赦！|头像=副将}}\n{{旁白|军阵在缓慢而颓然地前行。七年前的少年军阵，已被数不尽的天灾与异象折磨得面目全非。}}\n{{对话|我|信鸽都飞不远，没办法在这种雨里面远行。|头像=广陵王-微笑}}\n{{对话|孙策|你担心留在徐州的人？}}\n{{对话|我|中途摆脱了曹军，才能抵达江畔。若是停留太久，追兵一样会追上。|头像=广陵王-微笑}}\n{{对话|孙策|相信你哥，楼船会回来的。}}\n{{对话|孙策|他可是在这么多破事下面，还让车虎营坚挺到现在啊。}}\n{{旁白|雨绵延无尽。有人颓然坐在道边石上，茫然看着眼前的水雾。那种雨水落在身上，久而久之便会刺痛。}}\n{{对话|副将|将军，斥候迟归了。|头像=副将}}\n{{对话|孙策|有见长烟吗？}}\n{{对话|副将|雨水太大，观测不到长烟。|头像=副将}}\n{{对话|副将|已经点了一支人马往南去了，程普的前营没有接应。|头像=副将}}\n{{对话|孙策|日暮前渡肥水，再派人去与前营报信。}}\n{{对话|我|草木上有兵马行经痕迹。|头像=广陵王-微笑}}\n{{对话|孙策|我知道，是假行军。}}\n{{对话|孙策|那边的林子里有伏兵，就是为了让人注意到行军痕迹，避入林中，再发动突袭。}}\n\n{{旁白|【水边】}}\n{{旁白|行军停了一刻。我们在马上察看舆图。会稽、豫章二郡已叛，叛军游走九江及丹阳，寻找突破。}}\n{{对话|孙策|先派材官带三百轻兵，推冲车清扫肥水两侧芦苇荡。}}\n{{对话|孙策|敌军的伏兵和骨突舟定然藏在其中，计划等我们在林中遭到突袭，慌不择路涉水时，从水上冲杀。}}\n{{对话|孙策|清理肥水两侧伏兵后立刻渡水。无论前营是否失陷，一定要在明日日出前推进到合肥北侧十五里扎营。}}\n{{对话|我|敌军已占合肥城，完全有备夜袭。|头像=广陵王-微笑}}\n{{对话|孙策|舒城有情报送来，合肥内部不安定，叛军在排查孙氏安插的人，全城宵禁，不会开城门。}}\n{{对话|孙策|信鸽无法行动，只能靠人传递。密探的损耗越来越大，哪怕幸存，几乎也不可能再混入敌营。}}\n\n{{旁白|渡水前，军阵暂歇芍陂畔，芍陂塘水被夕阳染成一抹血色，在晚风残雨中粼粼，似少女眼眸。}}\n{{对话|孙策|是这里吧……应该是这里。看一下……还好，裹得很紧。}}\n{{对话|我|在找什么？|头像=广陵王-微笑}}\n{{对话|孙策|乔氏那位小女公子的墓。}}\n{{对话|孙策|她和家人没在一起，从舒城朝寿春送信时，在这里睡着了。}}\n{{对话|孙策|留了遗言，想和父亲重聚。舒城已经是战场了，就从舒城把乔公的遗骨带来了。}}\n{{旁白|他将从马鞍上解下的锦袋放到土堆前，用石块刨出一个浅坑。}}\n{{对话|孙策|这里比舒城清静些，坟冢都能保全。可以安心睡下了。}}\n{{旁白|掩埋锦袋后，他在塘边坐下，折着水边芦苇，随手编成小船。我看见他腕上缠着一串朱砂数珠，在残阳中艳红闪烁。}}\n{{对话|我|怎么跟出家了似的，戴这个？|头像=广陵王-微笑}}\n{{对话|孙策|……那不是七年前，以为你不在了吗？}}\n{{对话|我|我不在了，你就戴念珠了？|头像=广陵王-微笑}}\n{{对话|孙策|你不在，我就出家去了呀。}}\n{{对话|我|这叫什么出家……|头像=广陵王-微笑}}\n{{对话|孙策|哈哈……当年不是说好了，我只拜你的吗？}}\n{{对话|孙策|我这辈子，没信过鬼神。我想我杀了很多人，人又没有好坏，沦落在乱世里，杀人人杀，哪来什么道理。}}\n{{对话|孙策|要是有鬼神，我就试第一批遭报应的。可又没有。}}\n{{对话|孙策|所以啊，我拜拜你。你不开心了，我们就吵两句嘴。你开心了，我们就在一起。人生如此，就已经足够了。}}\n{{对话|我|你不想以后吗？若不打仗了，不必再攻城略地了，大家可以鸣金收兵，卸甲养老。那之后，你想怎么过？|头像=广陵王-微笑}}\n{{对话|孙策|……}}\n{{旁白|他望着塘水，眸光里有渐渐熄灭的残阳。手中的芦苇编船落进水里，没有飘起来，侧翻了，慢慢被水淹没。}}\n{{对话|孙策|乱世是不会过去的。}}\n{{对话|孙策|现在用兵马相杀，刀砍在脖子上，脖子断了就断了。这叫乱世。}}\n{{对话|孙策|等之后，就用道德相杀。不用刀了，用刑场。叫做盛世。自己不用动手，就能把仇家一批一批送上刑场。}}\n{{对话|我|总是二者选其一，人构成的人间，倾轧和相残是无法避免的。|头像=广陵王-微笑}}\n{{对话|我|只能尽量让大多数人不受苦，尽可能拖延再度陷入兵马相争的日子。|头像=广陵王-微笑}}\n{{对话|孙策|那你觉得，用兵马杀人，比用道德要好？}}\n{{对话|我|……兵马无可避。若是道德，常人至少有苟全之地。|头像=广陵王-微笑}}\n{{对话|我|或是依附，或是矫饰，或是加入堆砌道德的坞堡……或许虚伪、麻木、痛苦，但至少能活下去。|头像=广陵王-微笑}}\n{{对话|孙策|你以前，可不是这么说的。}}\n{{对话|孙策|你说，会有个人人得以安居的清平之世。那时候你可没提过，这清平之世里，还有道德杀人。}}\n{{对话|我|那时候还小啊。还相信人性，相信人。觉得只要不打仗，大家就能心满意足地生活在一起。|头像=广陵王-摇头}}\n{{对话|孙策|现在不信了吗？人可真是无可救药。}}\n{{对话|我|现在不信了。变成了期盼吧。|头像=广陵王-微笑}}\n{{旁白|我将水中的船打捞起来，重新摆在水上。船飘飘荡荡，浮起来了。}}\n{{对话|我|知道人性之恶了，谎言、背叛、贪欲、嫉妒……|头像=广陵王-微笑}}\n{{对话|我|强大的人意欲成神，抛下一点碎肉让下面自相残杀。失权的人凑成兽群去撕扯他人，以此幻想拥有断人是非生死的大权。|头像=广陵王-微笑}}\n{{对话|我|但就算这样，还是会期盼人性。偶现的明光，是何等的奇迹……|头像=广陵王-微笑}}\n{{对话|孙策|光凭期盼，就想救世人吗？明知救了也无法改变什么？}}\n{{对话|我|能不能被改变，是世道的事。怀揣的是善或恶，是他人的事。我想救人活命，是我自己的事，与天地何干？|头像=广陵王-摇头}}\n{{对话|孙策|他们若不想被你救呢？或是被你救了，转头就围着你将你劫掠了呢？}}\n{{对话|我|那也是他们的事，与我何干？|头像=广陵王-微笑}}\n{{对话|孙策|你当年也不是这样说的。你从前说，若是救人，自然有救人之力，后备之路，及时抽身。}}\n{{旁白|我笑个不停，看着那条小船逐渐飘荡远去，最后，沉没在了水中央。}}\n{{对话|我|生死来去，何必强求。问心无愧就好。|头像=广陵王-微笑}}\n{{对话|孙策|你要再走，我就真出家。}}\n{{对话|我|真的呀？|头像=广陵王-微笑}}\n{{对话|孙策|真的！我说到做到。}}\n{{对话|我|哈哈……你可不能这样。许多人指望着你呢。|头像=广陵王-微笑}}\n{{对话|孙策|指望着我往前打？}}\n{{对话|我|指望你下令，说打完了，大家可以归家了。虽然我也知道，你停不下来的。|头像=广陵王-微笑}}\n{{对话|孙策|所以，有我在，儒家那个上古大同世界就来不了。封地怎么看怎么觉得小，旁边地界的长官怎么看怎么不顺眼……}}\n{{对话|孙策|目光所及还看见有一块地方不服自己，就会辗转反侧，好像喉咙里卡了鱼刺。}}\n{{对话|孙策|全州都打下来，就想打过江，打去许都。打去许都了，就想往北继续打，打去幽州。}}\n{{对话|孙策|日子总是好过一阵，难过一阵的。好日子啊，像喝醉酒后做了几夜的醉梦，醒了就散了。再去找酒，再醉一场。}}\n{{对话|我|怎么几年不见，说话都会用比喻了？|头像=广陵王-微笑}}\n{{对话|孙策|尸山血海里爬了几百个来回，听白骨说话听会的。}}\n{{对话|孙策|对了，我还听会了一句话，你想不想听？}}\n{{旁白|我点了点头。他挪坐过来，附在我耳边。}}\n{{对话|孙策|……什么神仙来了，江东孙策都不皈依<ref>[[孙策-恋念剧情/金窗绣户]]</ref>……}}\n{{对话|我|……这不是你自己说的话吗？|头像=广陵王-微笑}}\n{{对话|孙策|……我骗你的。}}\n{{对话|孙策|……你走后，我皈依了很多神佛，问了很多宫庙，求了扶乩问灵……}}\n{{对话|孙策|忘记求了多少次神佛，问了玄女、铁母、少司命、大司命、伏羲、神农，还去过阴庙……}}\n{{对话|孙策|绕了一圈，绕了好几年，突然想，他们在耍我呢，把我当猴一样耍……于是，我又杀了他们。}}\n{{对话|孙策|杀光了，烧光了。还是回到从前，只余下母亲敬奉的王母。就在前几天，我随她去拜王母。}}\n{{对话|孙策|我想，王母啊，最后一次，给我些征兆吧，我没办法了。你只要给我征兆，我到死都供奉你。}}\n{{对话|我|……那，王母显灵了吗？|头像=广陵王-惊讶}}\n{{对话|孙策|那天夜里……我做了梦。我梦见我乘着北宫婴儿子，乘着这条早已不用的船，船在跟我说话。她说……}}\n{{对话|孙策|她说，你杀了许多人，罪孽滔天，你也供奉给我许多生灵，杀性里有彻悟。}}\n{{对话|孙策|“你去遇她处遇她。我只为你如愿一次。一次如愿，要用一世的炼狱来换，你同意吗？”我说我愿意。我从船上跳下，醒来了。}}\n{{对话|孙策|第二天，我说，我要乘这条船。}}\n{{对话|孙策|他们以为我疯了，它很老了，不知道在湍流里会不会粉碎……我在暴雨里行船，最后，听见了你在喊我。}}\n{{对话-尾}}\n\n==濡须·肆==\n{{对话-头}}\n{{旁白|【合肥】}}\n{{旁白|城内外火光冲天，叛军自南北两处平原夹击，阻止中军攻城。}}\n{{旁白|云梯若利齿咬住城墙，轰然巨响中，黑烟升腾，遮天蔽日。}}\n{{对话|副将|丹阳的叛军正在渡牛渚，急行军至此大约还有三日！|头像=副将}}\n{{对话|孙策|让先攻继续往前推，要把合肥打下来。}}\n{{对话|副将|将军，云梯已经不够了……|头像=副将}}\n{{对话|孙策|把剩下的撞木集中在东城门。工兵继续分五组挖地道。}}\n{{对话|我|若继续攻城，我替你往舒城调云梯。|头像=广陵王-微笑}}\n{{对话|孙策|好。副官，去左军点一支三十人轻骑护卫同去，剩下的人一刻后鸣金回营。}}\n{{对话|孙策|你走六安过去，六安守军是自己人。再往前，或多或少都被曹操那边的人渗透了。}}\n\n{{旁白|【古道】}}\n{{旁白|我带兵回撤，返回六安。}}\n{{旁白|庐江昔日书礼之地，如今已面目全非。古道两侧是黑色的大地，但并非泥土，而是伏在层层尸骨上的蝇虫。}}\n{{旁白|马蹄经过，黑蝇若乌云腾飞，遮蔽月色。}}\n{{对话|护卫|是流民……众人戒备。}}\n{{对话|我|不要离太近，保持距离，尽快经过。|头像=广陵王-微笑}}\n{{对话|护卫|……不行，他们围拢过来了。准备突围！}}\n{{旁白|下一刻，自黑色大地上隐现的背脊，若海浪汹涌流向我们；众人立刻策马飞奔，试图摆脱两侧源源不断涌来的手。}}\n{{对话|骑兵|不——|头像=士兵}}\n{{旁白|有马蹄被抓住了，是队伍最末的两名骑兵，连人带马瞬间被黑色的人影淹没。}}\n{{旁白|剩下的人加快马速，两侧时而有人暴起，用尖利的竹枪刺穿马腹。只要倒地，就会立刻被人群拖入黑暗深处。}}\n{{旁白|一支竹枪几乎擦着我的脖颈刺过；我扭头，见到黑夜中一双微亮的眼眸。瘦如骷髅、双眼深深凹陷入眼眶，属于孩童的眼神。}}\n{{旁白|那孩子用尽全力刺中第二刺，刺伤马后腿。战马嘶鸣，马上的行李囊袋松落了，里面落出了两块干燥粗糙的豆渣饵饼。}}\n{{旁白|见到吃的，他立刻扑上，夺走了食物。又有人从他手中抢走了食物，人群撕咬扭打起来，若群鲨分食鱼肉。}}\n{{对话|流民|呕……呕……|头像=难民}}\n{{旁白|心理|倒下了……饵饼？饵饼有毒！}}\n{{旁白|我猛然回头，凭借的几乎是瞬间的直觉；身后刺来的是骑兵的长矛，打飞了我的头冠。}}\n{{对话|护卫|你疯了？！你在做什么？！|头像=绣衣楼密探}}\n{{对话|可疑骑兵|杀！}}\n{{旁白|心理|是刺客！！！}}\n{{旁白|我反手一刀劈在他肩甲上。这是在战场得到的战刀，只是寻常铁器，刀刃卡在肩甲和皮肉的缝隙里，被他用手死死抓住。}}\n{{对话|我|没有必要。|头像=广陵王-严肃}}\n{{对话|可疑骑兵|……各为其主，对不住。}}\n{{旁白|他强行拔出我砍入他肩甲的刀，举矛冲杀过来。下一刻，从旁侧扑出数名流民身影，与他在马上缠斗起来，将人拖拽下马。}}\n{{旁白|最后一刻，一只信鸽被他抛出，飞向北方，飞向江那头曹氏驻军的方向。}}\n{{旁白|心理|孙氏军中，也已经被渗透了……}}\n\n{{旁白|【舒城】}}\n{{对话|护卫|舒城尉！舒城尉！|头像=绣衣楼密探}}\n{{对话|我|城中守军不在内营！去尉官室找！|头像=广陵王-生气}}\n{{对话|我|合肥那边等不了多久了！必须尽快调到云梯！|头像=广陵王-生气}}\n{{旁白|【尉官室】}}\n{{对话|护卫|是这里！舒城尉在里面吗？}}\n{{对话|护卫|孙策将军持符调云梯，舒城这边的云梯需要调往合肥，需尽快点兵！}}\n{{对话|我|舒城尉？|头像=广陵王-挑眉}}\n{{旁白|我推开门。木门碰到了什么东西，被晃动的东西碰了碰门角。}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|护卫|……自尽了……|头像=绣衣楼密探}}\n{{对话|我|死了几日了……那舒城的军士……|头像=广陵王-严肃}}\n{{对话|护卫|应该流散了……只能去外营找云梯，尽可能送往合肥了。|头像=绣衣楼密探}}\n{{对话|我|还有居巢。那边驻军在坞堡中，应该有齐全的战备。|头像=广陵王-严肃}}\n{{对话|我|你们往居巢，我带人清点舒城的云梯，先行送去前线。|头像=广陵王-严肃}}\n{{对话-尾}}\n\n==濡须·伍==\n{{对话-头}}\n{{旁白|【古道】}}\n{{旁白|我们护送着几台云梯穿过原路时，流民已散，转移去了其他地方求生。}}\n{{旁白|日出了。远处合肥战场黑烟冲天，喊杀声仿佛能传到此地。}}\n{{旁白|这一战，最后两败俱伤。虽然打下了合肥城，但军中的间谍在饮食中放下了毒药，加上饮水不洁，伤亡惨重。}}\n{{旁白|合肥没有被固守太久。已经在战争中被打成残骸的城池没有仓廪、没有净水，城内外的尸山绵延十五里。}}\n{{旁白|幸存者向寿春徒步，或是往庐江。茫茫大地上，黑色的队伍朝两个方向缓缓蔓延，望不到尽头。}}\n{{旁白|风一吹就有无数人倒落，倒地的人立刻被野狼覆盖。}}\n\n{{旁白|【九江】}}\n{{对话|斥候|将军有令！转向柴桑行军！将军有令！转向柴桑行军！将军有令！转向柴桑行军——|头像=伪装宾客}}\n{{旁白|几名斥候策马在全军前后呼喊传报。军阵中，不断地、此起彼伏地浮起叹息声。}}\n{{旁白|他的伤口发炎了，我策马在他身边，能看见铠甲缝隙中溢出的脓水。}}\n{{对话|孙策|叛军暂时压制……我们支援柴桑，就能见到你兄长了。}}\n{{对话|我|……你发烧了，要换马车吗？|头像=广陵王-严肃}}\n{{对话|孙策|……我不能换马车。}}\n{{对话|孙策|我必须骑在马上，让所有人看到。所有人都快到极限了，我不能倒下去。}}\n{{对话|我|至少停一下，敷上金疮。伤口见骨了。|头像=广陵王-微笑}}\n{{旁白|我拉住他铠甲的带子，他按住我的手，摇了摇头。}}\n{{对话|孙策|我没有伤。}}\n{{对话|我|……它发炎了，你撑不住的。|头像=广陵王-摇头}}\n{{对话|孙策|……我没有伤。}}\n{{旁白|四面八方涌来目光，怀疑、质疑、不安、恐慌……}}\n{{旁白|落在他昏暗的眸光中、他铠甲的渗血中、他渐弱的喘息中。孙策抬起头，缓缓环顾四周。}}\n{{对话|孙策|众人想回寿春？}}\n{{旁白|军阵寂静。}}\n{{对话|孙策|柴桑危急。柴桑之后便是扬州……}}\n{{对话|孙策|诸位！扬州好啊，扬州是个好地方！}}\n{{对话|孙策|田里什么都能种，长江水冬夏不枯，扬州的士族都不敢招摇过市，江里田里的东西，收上来都是你们自己的！}}\n{{对话|孙策|你们甘心让出扬州？扬州……扬州！是我们兄弟们出生入死，用血、用命、用骨头堆起来的！！！谁狗日他祖宗的愿意让？！！}}\n{{对话|孙策|去柴桑……打下柴桑！太史慈走前说的话都还记得吗？！}}\n{{旁白|他坐直身躯，目光越过漫长军阵，望向如血目的残阳，声嘶力竭。}}\n{{对话|孙策|大丈夫……}}\n{{对话|孙策|大丈夫生于乱世，当带七尺之长剑，立不世之战功，平荡四海、气吞天地，以升天子之阶！}}\n{{对话|孙策|若志不遂……}}\n{{对话|孙策|……死之奈何……死之奈何……<ref>韦曜《吴书》“慈临亡，叹息曰：丈夫生世，当带七尺之剑，以升天子之阶。今所志未从，奈何而死乎！”全文今不存，见于裴松之《三国志注》 </ref>}}\n{{旁白|声音在极远的天地间徘徊碎散，像他的身躯一样，渐渐垂落；孙策抓紧缰绳，竭力坐直……}}\n{{旁白|然而就在下一刻，这个高大的人往旁侧倒落，倒落马下。}}\n{{对话|副将|将军！将军！|头像=副将}}\n{{对话|我|让军医过来！快！|头像=广陵王-严肃}}\n{{对话|我|我们要到柴桑了，孙策……没事了，我们抵达沘水渡口就能到柴桑了！孙策！！！|头像=广陵王-严肃}}\n{{对话|副将|调马车过来！让辎重调马车来！|头像=副将}}\n{{对话|斥候|将军他……|头像=伪装宾客}}\n{{对话|我|他什么事都没有！传令全军继续向柴桑进发，抵达六安扎营后全营戒严！|头像=广陵王-严肃}}\n{{对话|斥候|全军继续向柴桑进发！抵达六安扎营！|头像=伪装宾客}}\n{{旁白|传令声此起彼伏，渐渐远去。我们把孙策抬上马车，解开铠甲后，下面是触目惊心的伤口。}}\n{{对话|我|用行炉烧水，必须用干净的水先冲洗伤口。军医，替他把伤口烧上。|头像=广陵王-严肃}}\n{{对话|我|……没事。孙策，没事的。到柴桑就没事了，就能和兄长汇合了。|头像=广陵王-微笑}}\n{{对话|我|没事的……我在这。没事的……|头像=广陵王-微笑}}\n\n{{旁白|军队在六安扎营，我身穿战甲，持刀坐在他榻边。}}\n{{旁白|内外都安排了心腹把守，让军医也换上了斥候衣物，掩饰他重伤之事。}}\n{{对话|孙策|……柴桑那边……有传信来接应吗……}}\n{{对话|我|快了，今夜应该就会有。|头像=广陵王-点头}}\n{{对话|孙策|……不知道……你兄长那边……怎么样了……}}\n{{对话|孙策|……一开始，我们……在乡里打架……后来，我回扬州……想打一片地盘……}}\n{{对话|孙策|停不下来的……吴郡、会稽、九江、庐江……扬州……}}\n{{对话|孙策|……我不想……当皇帝……但我喜欢胜……一统江东的霸业近在眼前，如何能收手……}}\n{{对话|我|孙策，其实，有一次，你停下来了。|头像=广陵王-微笑}}\n{{对话|孙策|……我怎么能……停下来……}}\n{{对话|我|真的。你遇到的那次，我的小船在艨艟前面。|头像=广陵王-点头}}\n{{对话|我|那一次，你停下来了。|头像=广陵王-微笑}}\n{{旁白|榻上的他似是笑了。有一滴泪，从眼角滑落下来。}}\n{{对话|孙策|是啊……是啊……}}\n{{对话|孙策|……我终究还是为了你……停下来了。}}\n{{旁白|我握着他从榻边垂落的手，因为伤重，这只手微微有些发凉。}}\n{{旁白|我双手合住它，将额头贴在手心上。}}\n\n{{旁白|【树林】}}\n{{对话|副将|殿下……|头像=副将}}\n{{对话|我|他睡了。怎么了？|头像=广陵王-微笑}}\n{{对话|副将|……|头像=副将}}\n{{对话|我|出什么事了？|头像=广陵王-严肃}}\n{{对话|副将|……柴桑那边有信送来。|头像=副将}}\n{{旁白|心理|似乎是某种预感。}}\n{{旁白|夜风的声音，传信人的语气，军营的死寂，他的泪水……一切的一切，都凝结成了某种预兆。}}\n{{旁白|柴桑的信使垂首站在帐前，浑身被血水覆盖。他的手中，捧着一样事物。}}\n{{对话|信使|……殿下……|头像=男文人}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{对话|信使|……这是周将军……最后要交给殿下的剑。|头像=男文人}}\n{{旁白|断剑。}}\n{{对话|信使|周瑜将军于五日前病情转重……|头像=男文人}}\n{{对话|信使|柴桑沦陷，豫章失守。|头像=男文人}}\n{{旁白|断剑。}}\n{{对话|副将|殿下……|头像=副将}}\n{{旁白|断剑。}}\n{{旁白|我听见后面有人掀开帐门的声音。他听见了传报声，强撑着出来了。}}\n{{对话|孙策|……把手给我。我在这……}}\n{{旁白|断剑。}}\n{{对话|信使|……今日暮时，周瑜将军病逝于柴桑。|头像=男文人}}\n{{旁白|断剑从我手中落地。}}\n{{旁白|天地轰鸣。}}\n{{对话-尾}}\n\n==濡须·陆==\n{{对话-头}}\n{{旁白|【未知之地】}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|吓了我一跳……}}\n{{对话|我|兄长！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|兄长，你在啊……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|一惊一乍的……我当然在啊。}}\n{{对话|周瑜|……这个宇宙，很漂亮吧？只有无穷无尽的白沙。}}\n{{对话|我|好刺的沙子，像白骨变成的沙子。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|是这个宇宙中的人，在灭亡后，留下的骸骨变成了沙尘吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|……也许吧。}}\n{{对话|周瑜|所有的宇宙，最后大抵都是这样的。}}\n{{对话|周瑜|求生，欲望，狂喜，死去。万物生死，皆是如此。}}\n{{对话|我|那你还跟他打天下……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|既是生时人，自然做生人之事。生人之事，出生时喝奶，长大了吃饭，懂事了，谋求利益，找自己要做的事。}}\n{{对话|周瑜|出生时是一个人，死去时，也是一个人。就像旅行了一圈，最后还是回到了家。}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|可是，你出生时不是一个人呀！我们……我们是两个人一起出生的哦！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|哎……}}\n{{对话|周瑜|是呀，我们是一起出生的……}}\n{{对话|我|所以，出生时候就不会孤单，走的时候也不会的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|那多不吉。若一个人先走了，岂不是……}}\n{{对话|我|没关系的！如果……如果你觉得孤单……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|如果我们都做完了自己想做的事，如果天意如此，没有遗憾了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|那，我们就可以一起走呀！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|这就是家人啊，家人就是，永远都会和彼此在一起，和彼此走下去的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|……好啊。}}\n{{对话|我|嗯！那就说好了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|……好啊……}}\n{{对话|我|兄长？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|……}}\n{{对话|周瑜|…………}}\n{{对话|我|兄长？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|………………}}\n{{对话|周瑜|……对不起……}}\n{{对话|周瑜|对不起，我先走了。|头像=离魂周瑜-魂魂}}\n{{对话|周瑜|对不起。|头像=离魂周瑜-魂魂}}\n{{旁白|我没有兄长了。}}\n{{旁白|我没有最后一个家人了。 }}\n{{对话-尾}}\n\n==濡须·柒==\n{{对话-头}}\n{{旁白|【寿春】}}\n{{旁白|身穿白衣的人影来来去去，准备丧事。}}\n{{旁白|雨中，白衣影影绰绰。有人与我说话，但我听不真切。}}\n{{对话|文官|要带衣服上去喊名字了，是交给哪位亲属……|头像=文官}}\n{{对话|孙策|……我拿去给她……|头像=孙策}}\n{{旁白|他抱着外袍，穿过灵棚，走到了我面前。周围有人目光诧异，窃窃私语。}}\n{{旁白|一只手抓住了孙策的衣袖，将他拉住了。}}\n{{对话|吴夫人|……不行的呀……不能给她的呀……}}\n{{对话|孙策|……啊……|头像=孙策}}\n{{对话|吴夫人|她上去喊，那所有人都知道她是……不行的……}}\n{{旁白|即将交到我手里的衣服，又被收了回去。孙策怔了片刻，叫来了吕蒙他们。}}\n{{对话|孙策|……我们上去喊名字吧。}}\n{{旁白|几人上了屋顶，很快，灵棚中听见了喊名字的声音。}}\n{{对话|众人|公瑾——}}\n{{对话|众人|公瑾——公瑾——}}\n{{旁白|声音被雨水卷走，回荡了很远。}}\n\n{{旁白|子时了。}}\n{{旁白|我重新来到了灵棚。棚中已经没有人了。}}\n{{旁白|那件外衣挂在幡上，在夜风里飘荡。}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{旁白|我小心攀上竹梯，站上了房顶。}}\n{{旁白|风声在四周回荡，空洞呼啸。}}\n{{对话|我|……|头像=广陵王-疲惫}}\n{{对话|我|……兄……|头像=广陵王-疲惫}}\n{{对话|我|……兄长……兄长！|头像=广陵王-疲惫}}\n{{对话|我|兄长——|头像=广陵王-疲惫}}\n{{旁白|我的声音融化在风声里，惊起了一阵零落的夜雀。雀声静了，四周又寂静无声，我独立的身影在月光下，时而被外衣的影子遮掩。}}\n{{旁白|忽然，旁边响起了很轻的脚步声，伴随着低声的呼喊……}}\n{{对话|吴夫人|……囡囡，嘘，囡囡……快，快下来……|头像=吴夫人}}\n{{对话|我|……夫人……|头像=广陵王-疲惫}}\n{{对话|吴夫人|我知道……你快下来，不能让别人看到的呀，囡囡……快……快……|头像=吴夫人}}\n{{旁白|我下了房顶，摇摇晃晃走向她。她紧紧抱住了我，拼命拍着我的背。}}\n\n{{对话|吴夫人|我的儿……囡囡……我的儿……我的儿……|头像=吴夫人}}\n{{对话|吴夫人|没事的，姆姆在的，囡囡，姆姆一直在的……你是我的儿啊，是姆姆心里的肉啊……|头像=吴夫人}}\n{{对话|吴夫人|你以后……以后就来姆姆这里，就来这。姆姆不让别人欺负你……会欢喜你……你不要太伤心……还有姆姆……|头像=吴夫人}}\n{{旁白|许久、许久之后，她派人送我回了住处。}}\n\n{{旁白|【寝室】}}\n{{对话|我|……扶灵回来了吗？|头像=广陵王-疲惫}}\n{{对话|孙策|嗯，回来了。}}\n{{旁白|他来不及卸下外袍，在榻边坐了下来，身上还带着露水的气味。}}\n{{对话|孙策|……安神药喝了吗？}}\n{{对话|我|……不用那个。我没事。|头像=广陵王-摇头}}\n{{对话|孙策|……}}\n{{对话|孙策|你哥小时候……}}\n{{对话|孙策|你哥小时候，话很少。}}\n{{对话|我|他本身话也不多呀。|头像=广陵王-微笑}}\n{{对话|孙策|不，小时候话更少。我们怕他被欺负，到哪都带着他。}}\n{{对话|孙策|有次，你母亲生病了。妈妈很担心，抽我们带着药材出门，去给邻居家送。}}\n{{对话|孙策|我说，你叫什么呀？你总不说话，只知道你姓周。}}\n{{对话|孙策|喜欢弹琴啊？琴很贵的，下次我们父辈从战场回来，看看能不能给你缴一台。}}\n{{对话|孙策|他就不说话呀，就静静望着我们。我们很吵闹，叽叽喳喳帮他家里做家务……邻居嘛。}}\n{{对话|孙策|然后，有一天要走了的时候，忽然，他叫住了我们。}}\n{{对话|孙策|“我叫周瑜。与母亲在本地借居，多谢照应。”}}\n{{对话|孙策|我跟你说，我本来觉得，这人真没意思，话少，不爱动， 跟江东人混不到一起。}}\n{{对话|孙策|但他说完了，我又觉得，哎，可以啊，挺好挺好，能当兄弟。}}\n{{旁白|我略笑着，蜷了蜷身子，用被子把自己埋了起来。}}\n{{对话|我|……怎么那么好说话？|头像=广陵王-微笑}}\n{{对话|孙策|年纪小啊，就容易交朋友。}}\n{{对话|孙策|我们是寒门啊，家里又是当兵的，就特别崇拜那种读书好的人。}}\n{{对话|孙策|他有次说，其实他还有个妹妹。我们说那得重聚啊，哪能一家人散两地呀？多可怜。}}\n{{对话|孙策|查啊查，查啊查……说……说查到了广陵王府。那广陵王，名声不太好，坏了，妹妹要是落他手上，岂不是被欺负？}}\n{{对话|孙策|我说你你你包我身上！走，阿香，抄家伙！王侯将相宁有种乎，为兄弟两肋插刀的时候到了！}}\n{{对话|我|……哈……哈哈……|头像=广陵王-眯眼笑}}\n{{对话|孙策|这……哈哈……这真是两肋插刀啊！我还说，我说救出你妹，大家把那个混球一顿毒打。打完了就跑，去外地避风头。}}\n{{对话|我|去哪？|头像=广陵王-惊讶}}\n{{对话|孙策|去豫章啊，不知道通缉令挂几年呢。}}\n{{对话|孙策|就这样……就这样……}}\n{{旁白|他靠着我的手腕，因为重伤初愈，神色中难以抑制浮起疲惫。}}\n{{对话|孙策|……就这样，我就来找你了……然后……}}\n{{对话|孙策|…………然后……}}\n{{旁白|他困了……}}\n{{对话|我|睡吧……|头像=广陵王-微笑}}\n{{对话|孙策|……我要……去打柴桑。|头像=孙策}}\n{{对话|我|我知道……带艨艟走吧，我设法带他们去交趾。|头像=广陵王-微笑}}\n{{对话|孙策|……我去柴桑前，会先帮你把他们接过来。|头像=孙策}}\n{{旁白|他枕在我身侧，轻轻抱住我，缱绻地叹息。}}\n{{对话|孙策|我答应过你的。言而无信的人，是不能当霸王的。|头像=孙策}}\n{{对话-尾}}\n\n==濡须·捌==\n{{对话-头}}\n{{旁白|【长江】}}\n{{对话|我|董奉的信鸽……曹军近了。|头像=广陵王-严肃}}\n{{对话|孙策|意料之中。不能再晚了，必须尽快把人接过来。}}\n{{对话|孙策|还有多少台艨艟？}}\n{{对话|水军将领|从柴桑回来的还有五十台艨艟。|头像=副将}}\n{{对话|水军将领|将军，雨季江水湍急……艨艟都损伤严重，逆行不易。|头像=副将}}\n{{对话|孙策|到底是江东的水……到最后，会庇护我一把的。}}\n{{对话|孙策|开船吧。点灯，让对岸的人准备。}}\n{{旁白|雨停了，江水的湍急比前一阵稍稍缓和。艨艟的帆展开，列阵缓缓朝对岸面去。}}\n\n{{旁白|【艨艟】}}\n{{对话|船员|对面晃灯了！右偏舵，往渡口东停靠！|头像=士兵}}\n{{旁白|楼船逆流缓慢，艰难渡江。暗夜中，依稀能看见对岸的灯火。}}\n{{旁白|近了，越来越近，几乎听见了人们的呼喊声……}}\n{{对话|我|董奉！|头像=广陵王-微笑}}\n{{旁白|董奉在人群外，提着纸灯。见到船影，他似是松了口气。}}\n{{旁白|然而，就在这时，凄厉的惨叫声从远方涌来，传到水上。}}\n{{对话|百姓|曹军！曹军来了！！！|头像=男文人}}\n{{旁白|岸边灯影霎时凌乱，人们尖叫着往江水中趟，哪怕不会水，都艰难地向对面挣扎，被湍流卷走。}}\n{{旁白|董奉拔刀朝兵马来处而去，身影不见。艨艟近岸了，人们不顾一切攀住船身，竭力爬上。}}\n{{对话|孙策|马步太近了，不能在停靠时交战，装满人的船就回航！}}\n{{对话|水军将领|东列船回航！}}\n{{对话|我|……董奉不见了，我得下船去找他。|头像=广陵王-严肃}}\n{{对话|孙策|岸上太乱了，我跟你去！|头像=孙策}}\n{{对话|我|你得留在船上。|头像=广陵王-摇头}}\n\n{{旁白|【江岸】}}\n{{旁白|我跳下绳梯，趟水上岸。慌乱的人群惊恐地朝艨艟涌去，我是唯一走向反方向的人。}}\n{{对话|我|董奉！董奉！|头像=广陵王-严肃}}\n{{对话|我|你有见到杏林君吗？！|头像=广陵王-严肃}}\n{{对话|男人|啊啊！啊啊啊！}}\n{{旁白|他推开我，踉跄着冲向渡口。}}\n{{对话|我|董奉？！董——|头像=广陵王-惊讶}}\n{{旁白|下一刻，一匹战马踏过人群，在我面前高高扬蹄；我躲到树后，听见一排箭镞声扎在树干上。}}\n{{旁白|心理|追兵近了！}}\n{{对话|百姓|不！我不想死！救我！！！}}\n{{旁白|我和东海士卒一起阻碍追兵，深夜中只能听见四面八方的马蹄声，时而有温热的血溅上脸颊。}}\n{{旁白|突然，一匹战马从旁侧冲出，撞翻我们面前的追兵，骑在马上的人，赫然是董奉——}}\n{{对话|董奉|走！！！}}\n\n{{旁白|【艨艟】}}\n{{旁白|数十台载满人员的艨艟开始返航。}}\n{{旁白|风浪渐大，与船上悲戚交织。我们一时无人说话，孙策靠在船舷边，望着对岸火光。}}\n{{对话|孙策|……以前，那里晚上有很多灯火，因为大部分时间没有宵禁。}}\n{{对话|我|都是过去的事了……|头像=广陵王-疲惫}}\n{{对话|孙策|回去之后，也许也可以撤掉几天宵禁，让大家轻松一下啊。}}\n{{对话|孙策|毕竟，都刚刚死里逃生……}}\n{{旁白|就在这时——}}\n{{对话|百姓|着火了！！！|头像=男文人}}\n{{旁白|是旁边的船？！}}\n{{旁白|我们边上的艨艟突然烧了起来，烈焰顷刻让满载人员的楼船化为炼狱，哀声恸天——}}\n{{对话|船员|有敌军混进来了！！！有人纵火杀人！|头像=士兵}}\n{{旁白|有的艨艟跟着起火，有的扑灭了，有的变成了新的炼狱。不断有火球般的人坠入长江，不知生死。}}\n{{对话|孙策|所有人注意自己身边的人！有曹军的间谍……|头像=孙策}}\n{{旁白|一支弩箭，铮然插在他的胸口，兀自颤动。}}\n{{对话|我|……|头像=广陵王-惊讶}}\n{{对话|我|孙策！！！|头像=广陵王-生气}}\n{{旁白|艨艟下层轰然腾起烈焰，像火莲花般腾升火海；他在船舷边晃了晃身子，朝我伸出手……}}\n{{对话|我|呃！！！|头像=广陵王-生气}}\n{{对话|我|……别松开……呃……|头像=广陵王-难受}}\n{{对话|孙策|不……|头像=孙策}}\n{{旁白|背后冷痛，是弩箭插入了背脊。虽然放冷箭的间谍立刻被水军压制，但船上混战已经无法逆转。}}\n{{旁白|下方是火海。温热的血沿着我的手腕落在他脸上，滴入了他眼中，像血泪一样淌下……}}\n{{对话|孙策|……放手吧……|头像=孙策}}\n{{对话|我|不……|头像=广陵王-摇头}}\n{{对话|孙策|……没事的，放手吧……|头像=孙策}}\n{{对话|孙策|……我已经，和王母……说好了……|头像=孙策}}\n{{对话|我|不……呃！！！|头像=广陵王-难受}}\n{{旁白|又是两支弩箭射在背上。我几乎要松手，却凭着最后的意志，死死抓住他的手腕。}}\n{{对话|我|不……凭什么……你们都……呃！！！|头像=广陵王-愤怒}}\n{{对话|孙策|哈……|头像=孙策}}\n{{对话|我|孙策！！！孙策！！！|头像=广陵王-愤怒}}\n{{对话|孙策|……我说啊，我啊……|头像=孙策}}\n{{对话|孙策|我还是……还是……|头像=孙策}}\n{{对话|孙策|……还是……对不起你……|头像=孙策}}\n{{对话|孙策|……对不起……我没有……没有护住你……|头像=孙策}}\n{{旁白|被血浸染的手腕，缓缓地、无可挽回地，从我的手中离去。}}\n{{旁白|……空落的风穿过指间。}}\n{{旁白|人影坠入水上的火海，静默无声。}}\n{{旁白|山峦般的艨艟在崩散。若世间万物的生死，若将死的巨鲸。}}\n{{旁白|火中哀鸣的楼船，在长江上如一池火莲次第盛放，归于湮灭……}}\n{{对话-尾}}\n\n==濡须·玖==\n{{对话-头}}\n{{旁白|【艨艟】}}\n{{对话|我|！！！|头像=广陵王-惊讶}}\n{{对话|我|小心船上有人纵火杀人！|头像=广陵王-严肃}}\n{{对话|可疑少年|？！|头像=少年}}\n{{对话|水军|你在做什么？！手上拿的是什么？！}}\n{{对话|水军|是火油！小心船上！有曹军的细作混上来了！}}\n{{旁白|附近几台艨艟上，顷刻间灯火大作，所有人都在警惕周围的可疑人员，排查间谍。}}\n{{对话|孙策|呃！有人放冷箭？！|头像=孙策}}\n{{旁白|他劈落一支射向他的冷箭。放箭的刺客来不及混入人群，立刻被水军压制。}}\n{{旁白|然而，一只手从船舷外伸出，绞住了他的脖颈——}}\n{{对话|曹军间谍|啊啊——|头像=士兵}}\n{{旁白|他从外侧船身爬上，意图将孙策拖下水。}}\n{{旁白|艨艟附近还跟随着数条灰色的曹氏骨突舟，隐蔽小舟上，站着手握竹刺的武士，等待他落水后围剿。}}\n{{对话|我|孙策……唔！！！|头像=广陵王-难受}}\n{{旁白|我冲向他，可就在这时，旁侧有人持匕首撞来，我挡开第一击，被另一人从后方拧住肩膀。}}\n{{对话|孙策|呃……呃……唔呃……|头像=孙策}}\n{{对话|曹军间谍|……去死……唔！！！|头像=士兵}}\n{{旁白|他突然一僵，缓缓松开了孙策，自船身滑落，背脊插着孙氏朱翎；暗夜长江，有一条更巨大、古老的艨艟，无声破水而来……}}\n{{对话|我|吴夫人……|头像=广陵王-惊讶}}\n{{对话|吴夫人|搭板！上船支援！}}\n{{对话|妇兵|是！|头像=平民母亲}}\n{{旁白|北宫婴儿子若山峦压近，掀翻下方细长的骨突舟，贴近了我们所在的楼船。妇兵们持刀上船，压制混战。}}\n{{旁白|数日后}}\n{{旁白|【寿春】}}\n{{对话|董奉|寿春的夜市，好像很多年都没有出现了。|头像=董奉}}\n{{对话|孙策|我要出征了。出征前，总要让众人热闹热闹啊。}}\n{{对话|我|去柴桑？|头像=广陵王-微笑}}\n{{对话|孙策|嗯，先把柴桑打下来。现在人多了，可以赶制新的艨艟……}}\n{{旁白|夜巿光影缭乱，我们穿过人群，有一段时间，彼此都没有说话。}}\n{{对话|孙策|……那个……}}\n{{对话|我|嗯？|头像=广陵王-微笑}}\n{{对话|孙策|想问……你会留下吗？}}\n{{对话|孙策|还是说，会打回长江另一头，回广陵？}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{嵌套分歧|头}}\n{{嵌套分歧|留在这|1}}\n{{嵌套分歧|回广陵|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|我会留下。|头像=广陵王-点头}}\n{{旁白|他微微睁大眼睛，似是难以置信。紧接着，狂喜的笑意涌上双眼……}}\n{{对话|孙策|你愿意和我在一起？一直在一起？}}\n{{对话|我|我愿意。|头像=广陵王-点头}}\n{{对话|孙策|那……可是……那……}}\n{{对话|孙策|我都……我都没准备好信物……我应该在家里问的！}}\n{{对话|我|哈……我等你准备好啊。|头像=广陵王-眯眼笑}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|……我会回去。|头像=广陵王-点头}}\n{{对话|孙策|……啊，我明白。}}\n{{对话|孙策|我肯定帮你打回去的。等一切安定了，还是和以前一样。}}\n{{对话|孙策|天气好，我就渡江来看你。天气不好，就写信给你……}}\n{{旁白|他眼中有些苦涩，微微低下头。}}\n{{对话|孙策|但是……但是我要留个信物！}}\n{{对话|我|信物？|头像=广陵王-惊讶}}\n{{对话|孙策|对啊，万一……万一你回去了，不理我怎么办？我肯定要个信物啊。}}\n{{对话|我|那，我等你准备好。|头像=广陵王-点头}}\n{{嵌套分歧|内容尾}}\n{{对话|孙策|我去前面看看，找找有没有什么适合当信物的……不然……不然我身上不是刀就是匕首，不好……}}\n{{对话|我|很好啊，匕首也算常见的信物。|头像=广陵王-微笑}}\n{{对话|孙策|他们都是送匕首，我从前也送你好多兵器了。太寻常了。|头像=孙策}}\n{{对话|孙策|我要去夜市，找个特别的。你等等我，不许偷看。|头像=孙策}}\n{{旁白|他独自往前走去。我留在原地，望着他的背影消失在人海之中。}}\n{{旁白|心理|……来了吗……}}\n{{对话|董奉|……你要走了。}}\n{{旁白|周围的一切，都在模糊、浮起薄薄的白雾。}}\n{{旁白|身体、思绪，被无数只手拉扯入白雾深处，离这里越来越远}}\n{{旁白|……他回来了……}}\n{{旁白|……带着一串青玉念珠，在原地寻找我、呼喊我的名字……最后，怅然站在原地，站了许久……}}\n{{对话|我|……我要走了，孙策……|头像=广陵王-微笑}}\n{{旁白|白雾淹没眼前天地，再醒来时，已是夏夜熏风……}}\n{{对话-尾}}\n\n<center>[[file:插图-孙策·七载相逢.png|link=|300px]]</center>\n\n{{回到顶部|尾}}"
+}

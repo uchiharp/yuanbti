@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q_zhouqun_1",
+    "dimension": "S10",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "周群",
+    "source_story": "益州占星",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "周群精通天文历法，能观星象而知天命。若他观测到一场大灾将至，而告知百姓可能引起恐慌——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先通知权贵，让他们做好准备",
+        "scores": {
+          "S10": 2,
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "以隐晦的方式提醒百姓，避免直接引发恐慌",
+        "scores": {
+          "S10": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "如实告知，宁可被指责散布谣言也要救人",
+        "scores": {
+          "S10": 5,
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周群选择：尽人事以听天命，该说的绝不含糊。"
+  },
+  {
+    "id": "q_zhouqun_2",
+    "dimension": "S8",
+    "cross_dimension": "S10",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「知天命而不违，尽人事而听天。」你如何看待命运？",
+    "options": [
+      {
+        "label": "A",
+        "text": "命运掌握在自己手中，与天无关",
+        "scores": {
+          "S8": 1,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "天命有定，但人可以努力改变",
+        "scores": {
+          "S8": 3,
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "顺应天道，心怀敬畏地做好每一件事",
+        "scores": {
+          "S8": 4,
+          "S10": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "周群观星知命，却从不以此自傲。"
+  }
+]

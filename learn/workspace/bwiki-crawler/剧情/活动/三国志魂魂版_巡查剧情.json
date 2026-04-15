@@ -1,0 +1,5321 @@
+{
+  "title": "三国志魂魂版/巡查剧情",
+  "category": "活动剧情",
+  "characters": [
+    "伍丹",
+    "傅融",
+    "刘辩",
+    "华佗",
+    "史子眇",
+    "吕蒙",
+    "周瑜",
+    "哔哥",
+    "夏侯惇",
+    "太史慈",
+    "姬晋",
+    "孔融",
+    "孙尚香",
+    "孙权",
+    "孙策",
+    "左慈",
+    "干吉",
+    "庞统",
+    "张仲景",
+    "张修",
+    "张角",
+    "张辽",
+    "张邈",
+    "张郃",
+    "张闿",
+    "张飞",
+    "张鲁",
+    "徐庶",
+    "徐稺",
+    "我",
+    "文丑",
+    "杨修",
+    "浮丘",
+    "王异",
+    "王粲",
+    "甄宓",
+    "甘宁",
+    "程昱",
+    "绣球",
+    "芾芾",
+    "荀彧",
+    "萨斑斑甲鱼",
+    "葛洪",
+    "蔡琰",
+    "蜂使",
+    "袁基",
+    "许攸",
+    "许曼",
+    "贾诩",
+    "郭嘉",
+    "郭解",
+    "阿蝉",
+    "陆逊",
+    "陈登",
+    "颜良",
+    "飞云",
+    "马超",
+    "魂怪",
+    "鸢使",
+    "黄月英"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "嗷呜——嗷呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "对着红月，像狼一样嚎起来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=离魂绣球-魂魂",
+      "emotion": "叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……咦，天上的红月，好像把旁边的星光给吃了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "……是的。那是吞噬三千宇宙的荧惑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "它是周天驹追逐的星火，沿途会不断吞噬其他宇宙。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那，它会停下吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "若是遇到一个无论如何都无法吞噬的宇宙，它或许会停止。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "啊，又有一个宇宙被吞噬了，那个宇宙里，最后留下的势力似乎是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "天上落下红色的雨了，亮闪闪的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "是被咬碎的其他宇宙，被咬碎的荧惑星光……你看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "星光落在地上，变成一个个小魂怪了……是那些攻击我们的东西？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "嗯。周天驹和荧惑不断吞噬其他的宇宙，将之嚼碎。众宇宙在它的胃里混杂，再被一起抛向新的宇宙。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "哪怕是寻常的雨，也是某处的宇宙被天道吞噬了，在炸裂的末期融为清水，和其他宇宙的水混杂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那要怎么抵御它？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "它本就是自然，非逆天而为不能抵御。生和死同源，吞食和孕育为一。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "阿蝉一个魂在草坡上，看起来孤零零的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "（好奇地盯着我）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "一个魂在这里，不无聊吗？做些什么呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "唱歌。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎？……从没听你唱过歌，是西凉歌吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "要听吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "（深吸一口气）（鼓超大）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……………………（被阿蝉的阴影笼罩）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "劲！劲！孩！子！王——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "妹！妹！来！帮！忙——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "咕噜噜噜噜噜噜—―"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（被声浪掀翻滚下山坡）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "（在坡上探出头，有点不安）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "没、没事！一起玩吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "真的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "真的真的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "（滚下山坡）（越滚越快）（越滚滚滚越快）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "等等等等唔噗噗噗噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……呼……鼓回去了……差点变成魂饼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "咦，你还没走吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "（点头）（担心到化掉）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "还可以……一起玩吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯！可以呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=离魂马超-魂魂",
+      "emotion": "打劫—―你的点心归老子了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔啊！……被西凉马魂撞翻了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……史君准备的魂糕，被抢走了……追不上……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "（盯）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呃，我已经没有魂糕了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "（继续盯）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（快步走）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "（紧跟）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "我说了我已经没有魂糕了啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "……饿了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "你饿了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "阿蝉不知道去哪了，马奶酪魂糕，放不久。吃得惯吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "马奶做的吗？唔……没有吃过……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "（掏掏，掏掏）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "还有羊奶、牛奶、骆驼奶酪的魂糕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……好吃……！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "（快速掏掏掏，快速掏掏掏）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "还有扬州绣蜀绣羌绣京绣的小裙子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "………………好多？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=离魂马超-魂魂",
+      "emotion": "辽哥！我打劫回来了！打劫了一堆魂糕，准备打劫你了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=离魂马超-魂魂",
+      "emotion": "…啊？你在做什么啊？又开始展示那堆绣花布头了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "这才不是绣花布头！是我最新研发的绣样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "看！她穿着多合身！说明这样的设计才是合理的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=离魂马超-魂魂",
+      "emotion": "都变成魂魂了都是蛋了，哪还有什么合不合身啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张辽",
+      "text": "头像=离魂张辽-魂魂",
+      "emotion": "就算是蛋也有合身和不合身的蛋！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔噗……唔噗……（被几十层裙子压得喘不过气）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "干吉的离魂藏在树洞里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "干吉先生！干吉先生！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "红月亮……眼睛疼………吗……不要红月亮……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "（飞快裹成一团）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "……我没事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "是红月让眼睛疼起来了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "（躲在我的影子里）这样就不疼了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那我慢慢往前走，你藏在我影子里吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "说起来，这是要去哪里呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "（跟着停下，不安地揪着我袖角）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "再往前走就是江州了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "他们抢我魂糕……不要去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊，太过分了！我替你去抢回来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "（看不见我转身了）（噗叽撞成一团）啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "眼睛上的带子，遮月光的叶子……都不见了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "对不起……我转身太快了。你在树荫下等一下，我再去找找！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "（害怕得蜷缩成一个小团）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……他好像很难受……怎么办……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "哼哼……顶呱呱、顶呱呱……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……！！！有了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "唔啊别抢我的伞！我会晒红的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "干吉先生！用这个！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "呜……我的呱呱伞……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "晒一会儿月亮就晒一会儿吧，红彤彤的也很可爱啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "月光老化很可怕的！珍珠会变成石头的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "把伞借人家片刻啦，身为谋魂为天下魂生而谋，遇到困顿之魂就该出手相助呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=离魂张角-魂魂",
+      "emotion": "（抱着一个小东西，轻轻拍着）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "……呜……呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=离魂张角-魂魂",
+      "emotion": "啊……他很害怕的样子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "张鲁？他这么害怕红月吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "被看到会被带走……我不想死……小酒坛子不想碎掉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=离魂张角-魂魂",
+      "emotion": "…不会的，这只是周天驹降临前的荧惑而已……它还没有来到这个宇宙。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "它就快来了……我害怕……嬢嬢……爹爹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你不害怕吗？刘辩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "为什么要怕？全都消失，就会变得轻—―呼呼的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "呜哇——我不要——我不要碎掉——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=离魂张角-魂魂",
+      "emotion": "…每次稍微哄好一些，就会立刻再被他吓哭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（捂住张鲁耳朵）（发现魂魂没有耳朵）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "（缩进我怀里）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "周、天、驹、来、喽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "呜哇哇哇哇哇哇哇哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "哼……呜哇！呜哇！呜哇！广陵王不要揉我了哇哇哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（把他揉成一团塞进酒壶）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "呱——陵―—王——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "别飘。画魂。别飘。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不用，我不想画。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "不用吗？看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "呜呜——呜呜呜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "………………被压扁在画卷里了，好可怜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那、那就画一幅吧，要等多久？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "很快。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "画像不是都要几个时辰吗……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（被颜料糊了一脸）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "你想要什么角度的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "什么……角度？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "正面侧面？还是立体的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "还能这样选吗？到底是怎么画的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "正面是这样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（被正面摁在画纸上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "侧面是这样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（被侧面摁在画纸上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那、那立体的……怎么画……唔啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（被挑飞）（落地有声）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "……嗯，砸得很深……五官都印在地里了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "拿石膏这样倒进去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……这样就，能做立体画像了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "……不，还有三次。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=离魂张飞-魂魂",
+      "emotion": "刚才是脸朝下印正面，还有背面和侧面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不要——唔啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "哇！嬢嬢，这个好吃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "（嚼嚼嚼）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "嬢嬢！这个也好吃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "（嚼嚼嚼）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你不吃东西吗？一直只看着他吃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "又有一阵星火呢……星火降落，就变成了红雨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "师父！那也得吃东西啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "就快要解脱了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "什么叫解脱呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "意思就是不用再带孩子了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那确实……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "那个红色月亮一直在吃掉旁边大大小小的星光，好像越来越近了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "嗯，不知道这个宇宙能不能抵挡它的侵蚀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "不过也没有意义……就算抵挡住了荧惑，也无力抵挡周天驹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "如果抵挡不住，所有人都会消失吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "所有人都从肉身被抽离出来，成为离魂了，哪怕不被吞噬，不恢复肉身，离魂也坚持不了多久。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "那我会和嬢嬢分开吗？会再也见不到吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "会的哦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "…………呜哇——我不要——哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊啊刘辩！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（把刘辩揉成团塞进酒坛子）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "（从酒坛口探出头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "也可以试着这样躲在酒坛子里，说不定会被周天驹忽略呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "真的吗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "（拼命挤进刘辩的酒坛子）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "嬢嬢，嬢嬢，挤挤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔！好……挤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=离魂张鲁-魂魂",
+      "emotion": "这样窝在一起好安心呀！就算被带走，好像也没那么害怕了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "和广陵王在一起，什么都不可怕了……呼呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "（塞上酒坛塞子）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "抽烟……要抽烟……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "（一定要钻进烟卤）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "都熏黑了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "学长收走了我的烟……给我点吧，心头肉……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "肯定是你又在书房抽烟了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "是的。书房是严禁抽烟的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "荀彧做的非常对，你的烟熏味有点过重了……当然过重的风味也很美好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "（掏出烟草） （塞进郭嘉嘴里） （扳住郭嘉魂魂两端拼命开合嚼碎）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "啊喀喀喀喀喀喀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "好了，烟味更重了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "啊，浓到这种程度，反而有一种迷人的特殊风味……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "（掏出烟酒香料蚊香料酒白盐豆豉山葵<ref>芥末</ref>臭臭花<ref>○可梦</ref>） （塞进郭嘉嘴里） （扳住郭嘉魂魂两端拼命开合嚼碎）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "啊喀喀喀喀喀喀。呕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "变成复合风味了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "（飘向郭嘉） （被荀彧盖进锅里）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……呃，火是不是有点大？要不要开盖看一下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "还要焖一会儿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "咦？贾诩，你在这里吗？……啊，守着自己的黄金马车。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（很安静地在暗处蜷成一小团）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那边很热闹哦，不去一起玩吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（摇摇头） （蜷得更小了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "殿下，偶遇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "在下是来找贾诩的，待会儿可能需要用一下黄金马车……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（抱紧马车）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "……我的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "让、让让他吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "嗯，看起来很不愿意离开黄金马车呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（和马车里的阴影融为一体）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔啊啊！郭嘉被锅盖弹进马车了！是程昱炸锅了吗？ ！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "啊啊不要戳！不要戳！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "呜！出去！呜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（拼命拿拐杖戳戳）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=离魂杨修-魂魂",
+      "emotion": "（飘去树边）柳树柳树，我娘在哪里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "哔哥",
+      "text": "不在这里！不在这里！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=离魂杨修-魂魂",
+      "emotion": "（飘去另一边）石头石头，我娘在哪里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=离魂庞统-魂魂",
+      "emotion": "娘？什么娘？我不要写作业！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "可以不写作业啊，要不要先做公务？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=离魂庞统-魂魂",
+      "emotion": "（吓到攥成一团）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=离魂杨修-魂魂",
+      "emotion": "娘不要我了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=离魂庞统-魂魂",
+      "emotion": "就是这样……杨修前辈一直在找母亲……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这样啊……他好像累了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=离魂杨修-魂魂",
+      "emotion": "（抱着自己的头冠）（飘累了，睡着了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "哈哈——被我找到了！下酒菜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=离魂庞统-魂魂",
+      "emotion": "唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=离魂杨修-魂魂",
+      "emotion": "呜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=离魂庞统-魂魂",
+      "emotion": "呜……被抓住了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "嘿嘿……这种鹦鹉的鸟毛插在头上真好看！至于你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "待会儿行酒令的时候当骰子用吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=离魂杨修-魂魂",
+      "emotion": "唔啊啊啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杨修",
+      "text": "头像=离魂杨修-魂魂",
+      "emotion": "（被拎起来狂甩）（魂魂里的骰子跟着摇）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "放开他！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "什……呜噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "（被我扯弯的柳树弹飞）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=离魂蔡琰-魂魂",
+      "emotion": "如何是好……卷轴掉进井里了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "我我我！我帮你捞上来了！你用什么来报答我呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=离魂蔡琰-魂魂",
+      "emotion": "我可没说让你帮忙。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "萨斑斑甲鱼",
+      "text": "头像=小鱼",
+      "emotion": "已经捞上来了！我要成为你的未婚夫！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=离魂蔡琰-魂魂",
+      "emotion": "呵呵，昭姬的未婚夫都死光了哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=离魂蔡琰-魂魂",
+      "emotion": "（一卷轴砸晕萨斑斑甲鱼）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=离魂蔡琰-魂魂",
+      "emotion": "殿下，要不要吃烤甲鱼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "已、已经把火升起来了吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=离魂蔡琰-魂魂",
+      "emotion": "听说会说话的甲鱼摔一下会变成世家公子，快趁它还没变，烤了了事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "好香哦！是在烤啥子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（在井里打窝）（放钩入定）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蔡琰",
+      "text": "头像=离魂蔡琰-魂魂",
+      "emotion": "啊哈哈……真的吗？真的有那种鱼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "真的！我当年在北海当游侠的时候见到的，长着翅膀，能飞起来呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "上次撩魂时候说是在东海看见的。唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "小宝吃鱼肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（在井里打窝）（放钩入定）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "还有，据说有一种酒，就是拿鱼酿的，从前是在仙岛上的鲛人宫殿里发现的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "等哪天我们一起去找仙岛，据说岛上开满桃花，一片烂漫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（嚼嚼嚼）响持还嗦开满惹梨发。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "小宝吃吃吃鱼头！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊呜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（在井里打窝）（放钩入定）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "先生，你在碎砖旁边做什么呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "（小短手捡砖）垒城墙……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "两边要一样高……砖要一样高……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这里有两块一样的砖，给你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "不一样、不一样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "（疯狂摇头）（把自己摇晕了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "（带著锅飞飘过来——）（被砖绊倒）（弹飞）（被砖绊倒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "啊……城墙……被撞塌了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好惨，撞出一个大洞，咦，大洞背后，是艨艟吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "不能怪我……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "（疯狂拿锅拍他脑袋啪嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "不不不能能能怪怪怪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "（疯狂拿锅拍他脑袋啪嗒啪嗒啪嗒啪嗒啦嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "哈哈！有破绽！江东发动突袭！唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊，被荀彧拍出去的程昱弹飞了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "我会回来的——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "都说了不能怪我……唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀彧",
+      "text": "头像=离魂荀彧-魂魂",
+      "emotion": "（疯狂拿锅拍他脑袋啪嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "又有破绽！江东发动突袭！唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……又被荀彧拍出去的程昱弹飞了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "我会回来的——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "跟、跟小魂走吧，小魂知道进城池的密道哦！但是，你们不能再弹飞小魂了呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "魂怪",
+      "text": "吼！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "许曼，你在做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "！唔啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "贵——魂——贵魂高抬贵手放小魂一马吧！小魂也是被逼无奈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "这、这样！小魂把这些魂怪的巢穴路观图卖……不不不！献给贵魂！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "贵魂罩着小魂嘛，喵喵喵~"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "……哎？你就是那个出卖了密道的魂吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "唔啊啊啊贵魂救救我我救救我我我我不想被日一声打成茶叶沫沫然后死无全魂啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "咦……是这样吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "是的是的！从掌纹上看，二位真是天——作之合！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "魂魂哪来的掌纹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "从、从面相……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "魂魂哪来的面相。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "……………………….."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "呼……果然还是要日——一声打成茶叶沫沫呢…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "八字！算八字！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "（把茶叶臼打的日日响）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "从八字来算二位…….呃，敢问二位的八字是……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "（日——日——日——）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "不管怎么算都是佳偶天成百年好合举案齐眉！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许曼",
+      "text": "头像=离魂许曼-魂魂",
+      "emotion": "二位，我能不能先给谶纬再给论据……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "唔，也不是不可以……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎？……真的还可以这样吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "殿下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "（拿着盾行礼）（盾太重，噗叽）（努力爬起）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "（又被盾坠得往前扑）唔唔，失礼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "没事吧？慢慢站起来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "呼……谢谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "（向前鞠躬，又摔在了盾牌上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（帮忙扶起）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "谢谢殿下……（向前鞠躬行礼）（再次摔趴）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（紧紧扶住）都这样就不要再行礼了啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "谢谢殿下……（向前鞠躬行礼）（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "………………………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "……他就是这样的。所以赶路赶了七八天还没能赶到前线支援。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "江东艨艟就在旁边，要不要直接去江东啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "我无所谓。颜良？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "这怎么……（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "此事不义……（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "臣之忠，将之忠……（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "这玩意能有多重……（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "怎么可能连你也……（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "…………啊！说起来，好像江东和广陵的头目都在此地了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使",
+      "text": "头像=离魂鸢使-魂魂",
+      "emotion": "文丑，不可以这样趁人之危。帮忙一起扶……（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "总之先把这面盾……（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……所有人，都被压在下面了呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "一路走过来，就这边动静大。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=离魂王异-魂魂",
+      "emotion": "（锤锤砸在许攸离魂上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=离魂许攸-魂魂",
+      "emotion": "我是魂灯之神，请问你有什么愿望……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王异",
+      "text": "头像=离魂王异-魂魂",
+      "emotion": "我要羊肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=离魂许攸-魂魂",
+      "emotion": "没有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（鱼竿敲在许攸离魂上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "我想要七星子鱼的鱼脍！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=离魂许攸-魂魂",
+      "emotion": "没有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "怎么什么都没有啊？那问愿望还有什么用？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=离魂许攸-魂魂",
+      "emotion": "没有什么用啊，只是单纯想知道其他魂魂的愿望罢了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（账本拍在许攸离魂上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "一夜暴富。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=离魂许攸-魂魂",
+      "emotion": "没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（拍拍拍）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "一夜暴富……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=离魂许攸-魂魂",
+      "emotion": "没有！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（绝望拍拍拍）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "头像=离魂许攸-魂魂",
+      "emotion": "就、就这些钱了！拿着，别拍我了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "真的有用！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（疯狂拍拍拍）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（抱紧钱袋不撒手）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不行，太重了，你根本拖不动。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "为什么要动？就停在这……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不行，我们要回广陵休整了。快……起来……啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（死死抱着钱袋）（被拖成一长条）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "不……不回去……不想上班……不想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（泪光）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "什么都好……只要不上班……上班……天都要塌下来……不想上班……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "走……了……啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "呜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（被拖成长长长长一条）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=离魂蜂使-魂魂",
+      "emotion": "（边走边掉魂魂碎片）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=离魂蜂使-魂魂",
+      "emotion": "呼啊……呼啊……越来越小了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这样下去不行的，会魂飞魄散的，来，我帮你拼起来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=离魂蜂使-魂魂",
+      "emotion": "呼啊……呼啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……啊，鼻子都掉了，呼吸很困难吧……好可怜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=离魂夏侯惇-魂魂",
+      "emotion": "可以拿胡萝卜装一根鼻子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=离魂夏侯惇-魂魂",
+      "emotion": "（从眼罩中拿出一根胡萝卜）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=离魂蜂使-魂魂",
+      "emotion": "（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蜂使",
+      "text": "头像=离魂蜂使-魂魂",
+      "emotion": "啊！呼吸通畅了！谢谢谢谢！就是有点太长了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊呜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=离魂夏侯惇-魂魂",
+      "emotion": "啊啊……啊啊啊！怎、怎可这样咬掉他的鼻子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "可是（嚼嚼嚼）这样长度就（嚼嚼嚼）刚刚好了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "……胡萝卜，可以给吾几根吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=离魂夏侯惇-魂魂",
+      "emotion": "当然。在下还有很多胡萝卜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "（捏捏）（拍拍）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "嗯，这样……再这样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "是两个小雪魂！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "可以拿胡萝卜染色，这样就更像了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "再做两个兔耳朵吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "夏侯惇",
+      "text": "头像=离魂夏侯惇-魂魂",
+      "emotion": "真的很有趣，有什么需要在下帮忙的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "能请你帮忙，将葛洪找过来吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=离魂葛洪-魂魂",
+      "emotion": "什么事呀？啊……几位这样站在一起展真是赏心悦……唔噗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "（揪住）（按雪里）（往兔耳形状凹坑里灌石膏）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "嗯，这样就有兔耳朵了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "文丑，你在树顶？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "在找树叶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "找树叶？是找燃料还是染料用的叶子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "想找又大又漂亮的叶子……这样，大家就可以直接拿树叶当货币了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "但是树叶不好保存吧，而且谁都可以摘，这样的东西不适合当货币哦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "这样不是更好吗？树叶腐朽了，货币也就消失了，魂心就不会有物欲争斗了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "嘿咻、嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "看起来手太短，够不到……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "嘬嘬嘬，小孔雀鱼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "（青筋）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "（撑着伞晃晃悠悠飘落）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……啊，被抽得好远……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=离魂文丑-魂魂",
+      "emotion": "树叶，树叶，嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "（撑着伞又被风吹过来）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "嘬嘬嘬……唔噗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（打窝）（入定）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "陈登——你看见张邈了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（入定）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "他刚才被打进水里了，你有见到他吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "晃晃……晃晃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（发出吨昂吨昂的声音）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "上钩了！起杆！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "噗叽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊……好舒服的风。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "前辈，是你在造风吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "（指指河对面）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "张郃坐在木芍药花田里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "……晒月亮……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "啊，是花雨！……呼啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "（开心地蹦了蹦）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "花雨！……呼啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好像看见花雨会很开心的样子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "前辈！你在做什么呀？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "啊！被、被发现了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "你在摸鱼！！！如果被发现的话会连魂皮都扒下来的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "呜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "啊，是花雨！……呼呼……呼呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "快点回去干活……啊，真的好漂亮，呼呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……啊！居然也在花田里睡着了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……唔啊！被旁边的离魂绊倒了……不知不觉，花田里睡满了晒月亮的魂魂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "嘿嘿……呼呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "（努力搓花冠）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "这个，这个，殿下的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "得到了好多花冠！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "东阿暖心老乡肉，要来一口吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……好香……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不行啊！傅融，快清醒一点，那个锅里的东西肯定不能吃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "程昱",
+      "text": "头像=离魂程昱-魂魂",
+      "emotion": "殿下也吃一口吧，殿下当柿子的时候脸上还有二两肉，被抠门副官照顾了几年，都给喂塌腮了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融！醒醒！我们回广陵之后，就可以吃到史君做的魂糕了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（一颤）（泪光）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……这么不想吃史君做的点心吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这是新出炉的干果魂糕，吃吃看？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（吃吃吃）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "吃完了就一起回去吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "不想上班……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……对上班充满了心理阴影呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "想每天吃吃魂糕晒晒月亮……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "是啊，哪个魂不想呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊啊啊啊不行！振作啊傅融！支楞起来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（被拎起来）（化掉）（被拎起来）（化掉）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "再这样不上班……会魂设坍塌的……你可是傅融啊……支棱……支楞啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（因为彻底不想上班化成了一滩）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "到处都是蜜糖的味道……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使",
+      "text": "头像=离魂鸢使-魂魂",
+      "emotion": "甜食、甜食……啊！殿下来了，我们新熬的麦芽糖，要尝一口吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好香！……只能尝一口吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使",
+      "text": "头像=离魂鸢使-魂魂",
+      "emotion": "是的哦！每个魂都只尝一口，才不会放纵自己的欲望嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=离魂王粲-魂魂",
+      "emotion": "（盯着麦芽糖）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使",
+      "text": "头像=离魂鸢使-魂魂",
+      "emotion": "这个……真的只能吃一口哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=离魂王粲-魂魂",
+      "emotion": "（泪眼汪汪）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使",
+      "text": "头像=离魂鸢使-魂魂",
+      "emotion": "………………真的、真的只能一口……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=离魂王粲-魂魂",
+      "emotion": "（哭到缩水）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使",
+      "text": "头像=离魂鸢使-魂魂",
+      "emotion": "啊啊啊啊别哭！别哭啊！这样，再给一口，但不可以让别的魂知道哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "刘辩？你怎么会在离五斗米这么远的地方？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "……闻到……甜食的……味道了……甜食……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢使",
+      "text": "头像=离魂鸢使-魂魂",
+      "emotion": "只能吃一口哦！……啊啊啊你在做什么？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "（跳进麦芽糖锅里）（暴风吸入）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "快出来！糖会凝固的！快出来啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "（被糖粘住）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "哇——呱陵王——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "王粲",
+      "text": "头像=离魂王粲-魂魂",
+      "emotion": "哇——麦芽糖——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=离魂张闿-魂魂",
+      "emotion": "（闭着双眼躺在石头上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "因为红月的影响陷入了沉眠……应该有什么方法可以唤醒她吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "张闿社长……社长？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=离魂张闿-魂魂",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "太疾驰，大鸡翅——母亲！你的黄瓜切片准备好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=离魂张闿-魂魂",
+      "emotion": "哈欠……啊，你来了。正在做月光浴呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=离魂张闿-魂魂",
+      "emotion": "（黄瓜片片贴脸）（躺下去）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=离魂孔融-魂魂",
+      "emotion": "这里是我们讲学的地方，怎么可以……怎么可以这样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张闿",
+      "text": "头像=离魂张闿-魂魂",
+      "emotion": "怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=离魂孔融-魂魂",
+      "emotion": "就是……这样！就是这样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "就是这样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=离魂孔融-魂魂",
+      "emotion": "就是……躺在这里……这样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "这样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=离魂孔融-魂魂",
+      "emotion": "……不、要、学、我、说、话！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "说、话！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=离魂孔融-魂魂",
+      "emotion": "（气到冒烟）（想抽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孔融",
+      "text": "头像=离魂孔融-魂魂",
+      "emotion": "（魂魂太圆手太短，抽不到）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=离魂吕蒙-魂魂",
+      "emotion": "伯言！看，腹肌！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=离魂吕蒙-魂魂",
+      "emotion": "（揭开腹肌贴纸）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "风纪！（盖上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=离魂吕蒙-魂魂",
+      "emotion": "（揭开）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "风纪！（盖上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=离魂吕蒙-魂魂",
+      "emotion": "（揭开）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "风⋯⋯嗯？不用盖上，什么都没有啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=离魂吕蒙-魂魂",
+      "emotion": "不——你胡说！明明有那——么大一块！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=离魂吕蒙-魂魂",
+      "emotion": "（鼓起来）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（戳戳）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=离魂吕蒙-魂魂",
+      "emotion": "（瘪掉）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊，这片荷叶在动⋯⋯吕蒙，你还没放弃⋯⋯吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "⋯⋯哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "是小仲谋呀？为何在荷叶底下鼓鼓瘪瘪⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "别、别瞎说！我才没有！我只是在泅水⋯⋯我没有在练腹肌！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "明明就是在练⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "我没有！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "练不出也可以画一个哦，像吕蒙那样⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "我不要，我要自己⋯⋯不！我才没有练腹肌！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "你要做什么？！妖、妖魂！放开我——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘿咻、嘿咻⋯⋯好啦！这样就画完啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "⋯⋯唔⋯⋯？还挺⋯⋯自然的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "有什么东西在四处飞窜⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "太疾驰，大鸡翅！贵人，需要太疾驰的鸡翅服务吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "芾芾",
+      "text": "吱吱！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好小只哦⋯⋯比普通离魂小好几圈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "这样的话弹力就会大大增强，看！可以弹这么高！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "真的好高⋯⋯哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "噗叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "哈哈哈就等你跳起来！我特意拿船板做了个大木拍！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "⋯⋯好惨，不断被打到树干上再弹回去⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "噗叽噗叽噗叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "快住手！他身上还有业务呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "嗯？你有什么意见吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "哈哈哈换两块板子双打！痛快啦——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "当了魂比当人还要爽，怎么玩都不会玩坏掉，哈哈哈哈⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "⋯⋯嘟嘟？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "嗯？你有什么意⋯⋯唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "（被三面木拍接力打）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "兄长！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟嘟！嘟嘟？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "吃过了，史君准备了好多魂糕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟嘟嘟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "知道了……毕竟变成魂魂了，也尝不出味道了嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你新谱了曲子？但是琴在哪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟嘟！嘟嘟嘟嘟！！嘟嘟！嘟嘟嘟嘟嘟！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "甘宁抢走了你的绿绮琴？……卖给了张邈？……张邈给绿绮琴改名绿漆琴全名老黄瓜刷绿漆琴？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "（气得变红）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……啊，那是张邈，心情很好地转着伞飞过去了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "嘬嘬嘬，小章鱼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "嘬嘬嘬，小鲇瑜？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟——嘟——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "（气到冒烟）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "嘬嘬嘬咕噜噜噜噜噜噜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（摁下去）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "咕噜噜噜噜噜噜噜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "把绿绮琴抢回来啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟嘟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "所以到底是什么样的新曲呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "嘟！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "让我看那边？那是张邈刚浮出水面……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "还在水边呀？你们一起站岸边好像眉毛下面挂俩蛋……唔噗！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "（抄起琴把他拍下水）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "不是，你……唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "（抄起琴把他拍下水）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "住唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "（抄起琴把他拍下水）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "殿下！这里、这里！我们在这晒月亮呢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "阿香在这……那你哥哥们呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "孙权说想晒书，在那边理竹筒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "他肯定以为到处铺上竹筒我就不敢靠近了。嘿嘿，等他把竹筒都摊开，我就……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "（点火箭，瞄准））"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎？……哎？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "火灭了……你没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "（蹲在地上缩成一团）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "……呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "这样你就躲不了啦……唔啊！不、不要把我拎起来甩唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这次过分了！这和欺负魂有什么差别！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "我和大哥拿真刀真枪互相砍一身伤都没事——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这不一样，又不是每个人都喜欢这样的，有的人就是心理比较敏感啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "道歉。再怎么样也不能烧家人喜欢的书。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "以前又不是没有……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "连以前的份一起道歉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "家里从来没有人说这种事需要道歉嘛！大家都觉得打打闹闹感情才好啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "就算是武将之间也要讲道义的！君子不夺人所爱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "我才不当君子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这世上什么样的魂都有，总不能说因为自己不在意就觉得别人都不在意吧，阿权很伤心的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "阿权你很伤心吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "看。他不说话……唔啊啊啊啊不要甩我啦——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "……她就是这样……虽然家里人也都是这样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "以后要直接说呀……好啦，看，把竹简这样刷干净，再晾干……还能看见墨迹的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "等红月下去了，挑个晴天，把它们慢慢誊抄了就好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "不要了，都丢掉吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "（把竹简都丢进水里）（缩成一团飘远）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……飘走了……啊，阿香你来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=离魂孙尚香-魂魂",
+      "emotion": "（去水里捡回孙权的竹简）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "呜呜……呜哇……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=离魂史子眇-魂魂",
+      "emotion": "没关系的，没关系的……你是个好孩子呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "史君，你也在这呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=离魂史子眇-魂魂",
+      "emotion": "嗯，看见这个孩子哭得很伤心，不忍心丢下她……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "呜哇——我的魂魂入学式又没有通过！我毕不了业了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=离魂史子眇-魂魂",
+      "emotion": "没事的没事的，还有很多的事可以做呀……没事的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "是呀，可以跟史君一起做魂糕呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "但是……但是长老们说，做魂糕没有前途……呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "庞统",
+      "text": "头像=离魂庞统-魂魂",
+      "emotion": "呜呜……呜哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……明明只是路过但是哭得最伤心呢，庞统。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "要补课？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯！她的贵霜语是短板。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "可是我也不会贵霜语啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "绣衣楼和贵霜国的香料贸易明明是你负责的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "可我现在是离魂了！离魂不该工作！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "她哭得那么伤心，助魂为乐又不算是工作！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "那……叽里咕噜叽里咕噜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "……叽里咕噜？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "啊！基础差太多了，从头开始补！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "（掏掏）（拍拍）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "这五十卷是贵霜语入门！那五十卷是进阶，这十三卷是学习计划，这五卷是阶段测试！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯嗯！加油！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "呜哇——不要——我要去做魂糕——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唉……好吧，我去找找史君。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "史君？史君？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……咦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……为什么，史君忽然不见了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "史君？史君？……到底去哪了呢……史君？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "怎么了，慌慌张张的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "史君！史君不见了！怎么办……他刚才还在这的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……嗯？史君？史君……好熟悉……史君……是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甄宓",
+      "text": "头像=离魂甄宓-魂魂",
+      "emotion": "对呀，史君是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……什么？刚刚明明还……魂糕……点心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……咦，刚才，我在找谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "……好冷……呼……呼呼……黄金马车……被郭嘉抢走了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（把拐杖当作火柴）（火焰熄灭了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（再划一次）（火焰熄灭了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "呜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你是不是冷呀？需要暖炉吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "我才不需要……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=离魂贾诩-魂魂",
+      "emotion": "（摇摇晃晃飘远）（冻晕）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "唉？他被冻僵了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔，好像是……在小炉边取取暖吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "好像冻紫了……啊，原来就是紫色的吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "呼……这里可真冷……呼……呼……明明是来白雪度假村度假的……呼……好困……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁基",
+      "text": "头像=离魂袁基-魂魂",
+      "emotion": "（蜷缩着冬眠了）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……好怕冷的样子，直接进入深度睡眠了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "我又带了些暖炉回来啦！……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "啊，殿下，我在烧暖盆哦！他们好像冻僵了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "呼……明明是来找红梅花的，结果遇到了奇怪的魂，最后逃进了很贵的私家度假村……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "奇怪的魂？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "嗯嗯！他在雪山脚下开大排档，一直问进雪山的魂要不要来一块热腾腾的老乡肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "我说我买不起……他说我可以免费吃，但是要坐进锅里吃……总觉得是很奇怪的魂……呜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "太好了……一定要对这种奇怪的魂保持警惕！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "嗯嗯！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "（在红月下疯狂奔跑）（疯狂）（彻底疯狂）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "有猎物！哈哈哈哈―—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呜啊！好痛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "我来啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "哼哼，四处捣乱的魂就是你吧！来，决一死……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "（泪眼）（颤抖）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "呜……呜呜……不是我……不是人家……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "……哎？不是你吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "嗯嗯，不是人家……放过我吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "哈哈哈被骗了吧，呆魂笨魂傻魂，哈哈哈哈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "别拦着我我要压扁他！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "来呀来呀来追我呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "（在红月下疯狂奔跑）（疯狂）（彻底疯狂）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "…………啊……头好晕。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "叮叮咚。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "抖抖，抖抖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "抖抖抖抖抖抖抖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "哈，傻了吧，我身上什么都没有！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "放过人家嘛……人家从小没有妈妈……一直没感受过家的温暖……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "（呆滞）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "给你温暖是山川妈妈的事。我送你去见山川妈妈吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "（抡铃铛抽飞）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "甘宁",
+      "text": "头像=离魂甘宁-魂魂",
+      "emotion": "（变成星光）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "……………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "你也想见山川妈妈吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=离魂孙策-魂魂",
+      "emotion": "不不不不我我我有妈我我我我很温暖！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "（舀了一勺月光洒在花上）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "这样花会长得很快？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐稺",
+      "text": "头像=离魂徐稺-魂魂",
+      "emotion": "好香……麦子的气味也更好了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "这样一来，就可以摘花酿酒啦……啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "泥土下好像有什么在动……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=离魂张角-魂魂",
+      "emotion": "（从土下坐起身）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "啊啊啊我的花——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=离魂张角-魂魂",
+      "emotion": "……对不起……真的很对不起……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "没关系的！种回去就好了。很快的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……我这边又挖到了什么！好像是……嗯？触角？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=离魂张角-魂魂",
+      "emotion": "此时此刻，又想起了那个笑话。三个姓张的人站在一起，消除了。哈，哈哈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "哈哈哈哈……咳，对不起。大家好像都没笑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不是哦，消除不了，因为张修不是站着的，是躺着的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "…………………………噗嗤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "噗哈哈哈哈哈哈哈哈哈哈……咳，对、对不起……失态了……噗嗤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐稺",
+      "text": "头像=离魂徐稺-魂魂",
+      "emotion": "呼……这样一来，花园就恢复啦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "谢谢谢谢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐稺",
+      "text": "头像=离魂徐稺-魂魂",
+      "emotion": "这卷农典送给你，是陈登的原稿，我抄录下来之后，加了些自己的感悟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "啊啊！太感谢前辈了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好细致……把接穗单数的麦子和接穗双数的麦子对角栽种……次年立春剪去顶穗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "……对不起，殿下，这个字念什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这个是“剪”字，这个是“堆”字……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐稺",
+      "text": "头像=离魂徐稺-魂魂",
+      "emotion": "今夜天气很好……好，就在田里睡吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=离魂张郃-魂魂",
+      "emotion": "我也喜欢睡在花田里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "我睡干草堆那里！小宝睡我肚肚上！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好耶！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "为什么这里会有这么多鹅绒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "我要睡觉了，床要软一些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "搭了好多层啊，鹅绒床已经比三个魂魂还高了……."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "叠好啦！嘿咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "看上去很舒服的样子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "殿下来呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张邈",
+      "text": "头像=离魂张邈-魂魂",
+      "emotion": "（拍拍）（啪嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "啊哈哈，学长太客气了！嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "殿下来呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "头像=离魂郭嘉-魂魂",
+      "emotion": "（拍拍）（啪嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "刚好跑单累了！多谢了兄弟！嘿咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "殿下来呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "太史慈",
+      "text": "头像=离魂太史慈-魂魂",
+      "emotion": "（拍拍）（啪嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "呼……钓鱼钓到红月中暑，躺一躺……嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "殿下来呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=离魂陈登-魂魂",
+      "emotion": "（拍拍）（啪嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=离魂马超-魂魂",
+      "emotion": "哈哈哈―—这张床劲啊！喝啊―—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=离魂马超-魂魂",
+      "emotion": "兄弟来呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=离魂马超-魂魂",
+      "emotion": "（拍）（所有魂被弹飞）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呼……他们飘在天上不知道什么时候落下来，我先一个人睡会儿……呼………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=离魂阿蝉-魂魂",
+      "emotion": "（冒头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "伍丹",
+      "text": "头像=离魂伍丹-魂魂",
+      "emotion": "（冒头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "（冒头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "大家来呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（拍拍）（啪嗒啪嗒）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "葛洪前辈！你有见到师尊吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=离魂葛洪-魂魂",
+      "emotion": "看，他在擦隐鸢阁金顶上的乌云。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "（擦擦）（打滑）（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "葛洪",
+      "text": "头像=离魂葛洪-魂魂",
+      "emotion": "没有用的啦，很快又会被红月的黑云笼罩的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "师尊！快回来！一直照红月会异变的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "啊，吾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "（突然通红——）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "（噗叽）",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……啊，短暂地变回了姬晋。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "广陵君？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊啊啊好松软！棉花糖一样的手感！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "咕唔唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "（被捏成滚圆）",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "快来魂！师尊照了太久红月光异变了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=离魂华佗-魂魂",
+      "emotion": "劈开看看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "哎？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=离魂张仲景-魂魂",
+      "emotion": "扎一针……会不会漏气？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "哎？？？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "师尊！不、不要跑啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "（滚滚）（弹弹）（噗叽噗叽噗叽）",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=离魂华佗-魂魂",
+      "emotion": "沿着山阶弹下去了！好快！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=离魂张仲景-魂魂",
+      "emotion": "呼……呼……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=离魂张仲景-魂魂",
+      "emotion": "（绊倒）（滚滚）（弹弹）-（噗叽噗叽噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……越弹越远……越弹越远了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不——前面是悬崖！师尊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "嘿、咻！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "（被铜铃拍回来）",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "太好了！这里……不不不，那里……放心吧我会接住——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "姬晋",
+      "text": "（失之交臂）（再次弹飞）",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "叮叮咚咚叮叮咚咚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "（噗叽）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊！变回来了，师尊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=离魂左慈-魂魂",
+      "emotion": "吾没事……你……是不是照了太久的红月？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（噗叽）（变成柿子）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "叮叮咚、叮咚咚……打劫！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好多竹简……你打劫了谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "呜……我的功课……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "都莫得值钱的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "大家是来北方看雪的……陆逊师父让我把功课都带上，被她抢走了……."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=离魂黄月英-魂魂",
+      "emotion": "他们也是来找山川妈妈的……."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不是不是不是！他们不是来回归山川妈妈的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "唔……孙尚香女公子因为乱动乱跳引发了雪崩……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "孙策看见就激动地去滑雪了，吕蒙和黄盖将军打起雪仗，周中郎将……好像趁着雪崩补觉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这样吗，难怪刚才那么大动静。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "二公子在这吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "在哦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "头像=离魂孙权-魂魂",
+      "emotion": "（噗叽）（白色版本）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "为什么是白色的二公子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呃……因为视力比较弱，所以在雪山发生了雪盲，被照白了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "是、是这样吗？辛苦殿下了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "二公子，跟着在下，慢慢飘回去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊，等等！还有这个！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周瑜",
+      "text": "头像=离魂周瑜-魂魂",
+      "emotion": "（噗叽）（白色版本）嘟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陆逊",
+      "text": "头像=离魂陆逊-魂魂",
+      "emotion": "……为什么还有周中郎将？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好像是在雪下补觉的时候被雪崩冲过来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "徐庶前辈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "小宝亲亲！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "（吧唧吧唧吧唧吧唧吧唧吧唧吧唧）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……啊，粘住了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "唔！甩不开了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华佗",
+      "text": "头像=离魂华佗-魂魂",
+      "emotion": "劈开就行了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔唔？唔唔唔不行！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=离魂张仲景-魂魂",
+      "emotion": "（敲敲）（拍拍）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张仲景",
+      "text": "头像=离魂张仲景-魂魂",
+      "emotion": "敲开一个小口放气就行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "浮丘",
+      "text": "（啄）",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "（漏气飞了出去——）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "（被吸住一起带了出去——）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "广——唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "呜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "噗叽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "好晕……咦？辩儿？是辩儿吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "啊辩儿你长这么圆了！好久不见！两只猫猫头一起抱抱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "前辈，话说我们掉进哪里了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "刘辩",
+      "text": "头像=离魂刘辩-魂魂",
+      "emotion": "好像是小时候躲猫猫钻进去的史君的炼丹炉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=离魂徐庶-魂魂",
+      "emotion": "啊哈哈，怎么会那么巧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=离魂史子眇-魂魂",
+      "emotion": "呼……今天的材料都准备好了。那么就……点火！"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__noTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mainlinewrap\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabs\""
+    },
+    {
+      "type": "narration",
+      "text": "ul class\"resptabslist clearfix\" style\"margin15px 5px\""
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"span class\"tabpanel\"广陵/span/li!默认第1个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 天水/span/li!默认第2个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 南郑/span/li!默认第3个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 江州/span/li!默认第4个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 宛城/span/li!默认第5个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 巨鹿/span/li!默认第6个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 寿春/span/li!默认第7个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 白马/span/li!默认第8个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 信都/span/li!默认第9个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 延津/span/li!默认第10个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 庐江/span/li!默认第11个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 江都/span/li!默认第12个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 山阴/span/li!默认第13个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 朝歌/span/li!默认第14个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 山阳/span/li!默认第15个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 平皋/span/li!默认第16个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 修武/span/li!默认第17个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 阆中/span/li!默认第18个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 绵竹/span/li!默认第19个标签"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\" span class\"tabpanel\" 成都/span/li!默认第20个标签"
+    },
+    {
+      "type": "narration",
+      "text": "!想添加更多标签，可以复制上面一行"
+    },
+    {
+      "type": "narration",
+      "text": "/ul"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\" style\"displayblock\"!广陵巡查"
+    },
+    {
+      "type": "narration",
+      "text": "广陵巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!天水巡查"
+    },
+    {
+      "type": "narration",
+      "text": "天水巡查"
+    },
+    {
+      "type": "narration",
+      "text": "对话1"
+    },
+    {
+      "type": "narration",
+      "text": "对话2"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!南郑巡查"
+    },
+    {
+      "type": "narration",
+      "text": "南郑巡查"
+    },
+    {
+      "type": "narration",
+      "text": "对话1"
+    },
+    {
+      "type": "narration",
+      "text": "对话2"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!江州巡查"
+    },
+    {
+      "type": "narration",
+      "text": "江州巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!宛城巡查"
+    },
+    {
+      "type": "narration",
+      "text": "宛城巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!巨鹿巡查"
+    },
+    {
+      "type": "narration",
+      "text": "巨鹿巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!寿春巡查"
+    },
+    {
+      "type": "narration",
+      "text": "寿春巡查"
+    },
+    {
+      "type": "narration",
+      "text": "对话1"
+    },
+    {
+      "type": "narration",
+      "text": "对话2"
+    },
+    {
+      "type": "narration",
+      "text": "对话3"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!白马巡查"
+    },
+    {
+      "type": "narration",
+      "text": "白马巡查"
+    },
+    {
+      "type": "narration",
+      "text": "对话1"
+    },
+    {
+      "type": "narration",
+      "text": "对话2"
+    },
+    {
+      "type": "narration",
+      "text": "对话3"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!信都巡查"
+    },
+    {
+      "type": "narration",
+      "text": "信都巡查"
+    },
+    {
+      "type": "narration",
+      "text": "对话1"
+    },
+    {
+      "type": "narration",
+      "text": "对话2"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!延津巡查"
+    },
+    {
+      "type": "narration",
+      "text": "延津巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!庐江巡查"
+    },
+    {
+      "type": "narration",
+      "text": "庐江巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!江都巡查"
+    },
+    {
+      "type": "narration",
+      "text": "江都巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!山阴巡查"
+    },
+    {
+      "type": "narration",
+      "text": "山阴巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!朝歌巡查"
+    },
+    {
+      "type": "narration",
+      "text": "朝歌巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!山阳巡查"
+    },
+    {
+      "type": "narration",
+      "text": "山阳巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!平皋巡查"
+    },
+    {
+      "type": "narration",
+      "text": "平皋巡查"
+    },
+    {
+      "type": "narration",
+      "text": "对话1"
+    },
+    {
+      "type": "narration",
+      "text": "对话2"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!修武巡查"
+    },
+    {
+      "type": "narration",
+      "text": "修武巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!阆中巡查"
+    },
+    {
+      "type": "narration",
+      "text": "阆中巡查"
+    },
+    {
+      "type": "narration",
+      "text": "对话1"
+    },
+    {
+      "type": "narration",
+      "text": "对话2"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!绵竹巡查"
+    },
+    {
+      "type": "narration",
+      "text": "绵竹巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!成都巡查"
+    },
+    {
+      "type": "narration",
+      "text": "成都巡查"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%9B%BD%E5%BF%97%E9%AD%82%E9%AD%82%E7%89%88/%E5%B7%A1%E6%9F%A5%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:05:14.328098",
+  "raw_wikitext": "{{面包屑|2024活动一览|三国志魂魂版/活动玩法}}\n[[分类:活动剧情]]\n__noTOC__\n{{背景图片|{{filepath:周年活动背景.png}}}}\n{{板块|按钮|三国志魂魂版/活动剧情|大事记}}\n{{板块|按钮|三国志魂魂版/巡查剧情|巡查剧情}}\n{{板块|按钮|三国志魂魂版/密探剧情|密探剧情}}\n<div class=\"main-line-wrap\">\n<div class=\"resp-tabs\">\n<ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">\n<li class=\"active bili-list-style\"><span class=\"tab-panel\">广陵</span></li><!--默认第1个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >天水</span></li><!--默认第2个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >南郑</span></li><!--默认第3个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >江州</span></li><!--默认第4个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >宛城</span></li><!--默认第5个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >巨鹿</span></li><!--默认第6个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >寿春</span></li><!--默认第7个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >白马</span></li><!--默认第8个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >信都</span></li><!--默认第9个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >延津</span></li><!--默认第10个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >庐江</span></li><!--默认第11个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >江都</span></li><!--默认第12个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >山阴</span></li><!--默认第13个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >朝歌</span></li><!--默认第14个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >山阳</span></li><!--默认第15个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >平皋</span></li><!--默认第16个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >修武</span></li><!--默认第17个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >阆中</span></li><!--默认第18个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >绵竹</span></li><!--默认第19个标签-->\n<li class=\"bili-list-style\" ><span class=\"tab-panel\" >成都</span></li><!--默认第20个标签-->\n<!--想添加更多标签，可以复制上面一行-->\n</ul>\n<div class=\"resp-tabs-container\">\n<div class=\"resp-tab-content\" style=\"display:block\"><!--广陵巡查-->\n==广陵巡查==\n{{对话-头}}\n{{对话|飞云|嗷呜——嗷呜——|头像=离魂飞云-魂魂}}\n{{对话|我|对着红月，像狼一样嚎起来了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|绣球|叽——|头像=离魂绣球-魂魂}}\n{{对话|我|……咦，天上的红月，好像把旁边的星光给吃了？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|……是的。那是吞噬三千宇宙的荧惑。|头像=离魂左慈-魂魂}}\n{{对话|左慈|它是周天驹追逐的星火，沿途会不断吞噬其他宇宙。|头像=离魂左慈-魂魂}}\n{{对话|我|那，它会停下吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|若是遇到一个无论如何都无法吞噬的宇宙，它或许会停止。|头像=离魂左慈-魂魂}}\n{{对话|左慈|啊，又有一个宇宙被吞噬了，那个宇宙里，最后留下的势力似乎是……|头像=离魂左慈-魂魂}}\n{{对话|我|天上落下红色的雨了，亮闪闪的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|是被咬碎的其他宇宙，被咬碎的荧惑星光……你看。|头像=离魂左慈-魂魂}}\n{{对话|我|星光落在地上，变成一个个小魂怪了……是那些攻击我们的东西？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|嗯。周天驹和荧惑不断吞噬其他的宇宙，将之嚼碎。众宇宙在它的胃里混杂，再被一起抛向新的宇宙。|头像=离魂左慈-魂魂}}\n{{对话|左慈|哪怕是寻常的雨，也是某处的宇宙被天道吞噬了，在炸裂的末期融为清水，和其他宇宙的水混杂。|头像=离魂左慈-魂魂}}\n{{对话|我|那要怎么抵御它？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|它本就是自然，非逆天而为不能抵御。生和死同源，吞食和孕育为一。|头像=离魂左慈-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--天水巡查-->\n\n==天水巡查==\n{{对话-头}}\n===对话1===\n{{对话|我|阿蝉一个魂在草坡上，看起来孤零零的。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|（好奇地盯着我）|头像=离魂阿蝉-魂魂}}\n{{对话|我|一个魂在这里，不无聊吗？做些什么呢？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|唱歌。|头像=离魂阿蝉-魂魂}}\n{{对话|我|哎？……从没听你唱过歌，是西凉歌吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|要听吗？|头像=离魂阿蝉-魂魂}}\n{{对话|阿蝉|（深吸一口气）（鼓超大）|头像=离魂阿蝉-魂魂}}\n{{对话|我|……………………（被阿蝉的阴影笼罩）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|劲！劲！孩！子！王——|头像=离魂阿蝉-魂魂}}\n{{对话|阿蝉|妹！妹！来！帮！忙——|头像=离魂阿蝉-魂魂}}\n{{对话|我|咕噜噜噜噜噜噜—―|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（被声浪掀翻滚下山坡）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|（在坡上探出头，有点不安）|头像=离魂阿蝉-魂魂}}\n{{对话|我|没、没事！一起玩吧！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|真的吗？|头像=离魂阿蝉-魂魂}}\n{{对话|我|真的真的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|（滚下山坡）（越滚越快）（越滚滚滚越快）|头像=离魂阿蝉-魂魂}}\n{{对话|我|……哎？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|等等等等唔噗噗噗噗——|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|……呼……鼓回去了……差点变成魂饼……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|……|头像=离魂阿蝉-魂魂}}\n{{对话|我|咦，你还没走吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|（点头）（担心到化掉）|头像=离魂阿蝉-魂魂}}\n{{对话|阿蝉|还可以……一起玩吗？|头像=离魂阿蝉-魂魂}}\n{{对话|我|嗯！可以呀！|头像=小头像-离魂广陵王-魂魂}}\n \n===对话2===\n{{对话|马超|打劫—―你的点心归老子了！|头像=离魂马超-魂魂}}\n{{对话|我|唔啊！……被西凉马魂撞翻了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……史君准备的魂糕，被抢走了……追不上……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张辽|（盯）|头像=离魂张辽-魂魂}}\n{{对话|我|呃，我已经没有魂糕了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张辽|（继续盯）|头像=离魂张辽-魂魂}}\n{{对话|我|（快步走）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张辽|（紧跟）|头像=离魂张辽-魂魂}}\n{{对话|我|我说了我已经没有魂糕了啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张辽|……饿了？|头像=离魂张辽-魂魂}}\n{{对话|我|哎？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张辽|你饿了吗？|头像=离魂张辽-魂魂}}\n{{对话|张辽|阿蝉不知道去哪了，马奶酪魂糕，放不久。吃得惯吗？|头像=离魂张辽-魂魂}}\n{{对话|我|马奶做的吗？唔……没有吃过……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张辽|（掏掏，掏掏）|头像=离魂张辽-魂魂}}\n{{对话|张辽|还有羊奶、牛奶、骆驼奶酪的魂糕。|头像=离魂张辽-魂魂}}\n{{对话|我|……好吃……！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张辽|（快速掏掏掏，快速掏掏掏）|头像=离魂张辽-魂魂}}\n{{对话|张辽|还有扬州绣蜀绣羌绣京绣的小裙子！|头像=离魂张辽-魂魂}}\n{{对话|我|………………好多？！！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|马超|辽哥！我打劫回来了！打劫了一堆魂糕，准备打劫你了！|头像=离魂马超-魂魂}}\n{{对话|马超|…啊？你在做什么啊？又开始展示那堆绣花布头了吗……|头像=离魂马超-魂魂}}\n{{对话|张辽|这才不是绣花布头！是我最新研发的绣样！|头像=离魂张辽-魂魂}}\n{{对话|张辽|看！她穿着多合身！说明这样的设计才是合理的！|头像=离魂张辽-魂魂}}\n{{对话|马超|都变成魂魂了都是蛋了，哪还有什么合不合身啊！|头像=离魂马超-魂魂}}\n{{对话|张辽|就算是蛋也有合身和不合身的蛋！|头像=离魂张辽-魂魂}}\n{{对话|我|唔噗……唔噗……（被几十层裙子压得喘不过气）|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--南郑巡查-->\n==南郑巡查==\n{{对话-头}}\n===对话1===\n{{对话|我|干吉的离魂藏在树洞里……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|干吉先生！干吉先生！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|红月亮……眼睛疼………吗……不要红月亮……|头像=离魂干吉-魂魂}}\n{{对话|我|你没事吧？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|（飞快裹成一团）|头像=离魂干吉-魂魂}}\n{{对话|干吉|……我没事……|头像=离魂干吉-魂魂}}\n{{对话|我|是红月让眼睛疼起来了吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|（躲在我的影子里）这样就不疼了……|头像=离魂干吉-魂魂}}\n{{对话|我|那我慢慢往前走，你藏在我影子里吧。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|说起来，这是要去哪里呢……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|（跟着停下，不安地揪着我袖角）|头像=离魂干吉-魂魂}}\n{{对话|我|再往前走就是江州了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|他们抢我魂糕……不要去……|头像=离魂干吉-魂魂}}\n{{对话|我|啊，太过分了！我替你去抢回来！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|（看不见我转身了）（噗叽撞成一团）啊——|头像=离魂干吉-魂魂}}\n{{对话|我|唔啊——|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|干吉|眼睛上的带子，遮月光的叶子……都不见了……|头像=离魂干吉-魂魂}}\n{{对话|我|对不起……我转身太快了。你在树荫下等一下，我再去找找！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|（害怕得蜷缩成一个小团）|头像=离魂干吉-魂魂}}\n{{对话|我|……他好像很难受……怎么办……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|哼哼……顶呱呱、顶呱呱……|头像=离魂张邈-魂魂}}\n{{对话|我|……！！！有了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|唔啊别抢我的伞！我会晒红的！|头像=离魂张邈-魂魂}}\n{{对话|我|干吉先生！用这个！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|呜……我的呱呱伞……|头像=离魂张邈-魂魂}}\n{{对话|我|晒一会儿月亮就晒一会儿吧，红彤彤的也很可爱啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|月光老化很可怕的！珍珠会变成石头的！|头像=离魂张邈-魂魂}}\n{{对话|我|把伞借人家片刻啦，身为谋魂为天下魂生而谋，遇到困顿之魂就该出手相助呀！|头像=小头像-离魂广陵王-魂魂}}\n===对话2===\n{{对话|张角|（抱着一个小东西，轻轻拍着）|头像=离魂张角-魂魂}}\n{{对话|张鲁|……呜……呜呜……|头像=离魂张鲁-魂魂}}\n{{对话|张角|啊……他很害怕的样子。|头像=离魂张角-魂魂}}\n{{对话|我|张鲁？他这么害怕红月吗……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张鲁|被看到会被带走……我不想死……小酒坛子不想碎掉……|头像=离魂张鲁-魂魂}}\n{{对话|张角|…不会的，这只是周天驹降临前的荧惑而已……它还没有来到这个宇宙。|头像=离魂张角-魂魂}}\n{{对话|张鲁|它就快来了……我害怕……嬢嬢……爹爹……|头像=离魂张鲁-魂魂}}\n{{对话|刘辩|……|头像=离魂刘辩-魂魂}}\n{{对话|我|你不害怕吗？刘辩。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|为什么要怕？全都消失，就会变得轻—―呼呼的！|头像=离魂刘辩-魂魂}}\n{{对话|张鲁|呜哇——我不要——我不要碎掉——|头像=离魂张鲁-魂魂}}\n{{对话|张角|…每次稍微哄好一些，就会立刻再被他吓哭。|头像=离魂张角-魂魂}}\n{{对话|我|（捂住张鲁耳朵）（发现魂魂没有耳朵）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张鲁|（缩进我怀里）|头像=离魂张鲁-魂魂}}\n{{对话|刘辩|周、天、驹、来、喽——|头像=离魂刘辩-魂魂}}\n{{对话|张鲁|呜哇哇哇哇哇哇哇哇——|头像=离魂张鲁-魂魂}}\n{{对话|刘辩|哼……呜哇！呜哇！呜哇！广陵王不要揉我了哇哇哇——|头像=离魂刘辩-魂魂}}\n{{对话|我|（把他揉成一团塞进酒壶）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|呱——陵―—王——|头像=离魂刘辩-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--江州巡查-->\n==江州巡查==\n{{对话-头}}\n{{对话|张飞|别飘。画魂。别飘。|头像=离魂张飞-魂魂}}\n{{对话|我|不用，我不想画。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|不用吗？看。|头像=离魂张飞-魂魂}}\n{{对话|甄宓|呜呜——呜呜呜——|头像=离魂甄宓-魂魂}}\n{{对话|我|………………被压扁在画卷里了，好可怜。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|那、那就画一幅吧，要等多久？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|很快。|头像=离魂张飞-魂魂}}\n{{对话|我|画像不是都要几个时辰吗……唔啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（被颜料糊了一脸）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|你想要什么角度的。|头像=离魂张飞-魂魂}}\n{{对话|我|什么……角度？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|正面侧面？还是立体的？|头像=离魂张飞-魂魂}}\n{{对话|我|还能这样选吗？到底是怎么画的……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|正面是这样。|头像=离魂张飞-魂魂}}\n{{对话|我|唔噗——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（被正面摁在画纸上）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|侧面是这样。|头像=离魂张飞-魂魂}}\n{{对话|我|唔噗——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（被侧面摁在画纸上）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|那、那立体的……怎么画……唔啊——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（被挑飞）（落地有声）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|……嗯，砸得很深……五官都印在地里了。|头像=离魂张飞-魂魂}}\n{{对话|张飞|拿石膏这样倒进去……|头像=离魂张飞-魂魂}}\n{{对话|我|……这样就，能做立体画像了吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张飞|……不，还有三次。|头像=离魂张飞-魂魂}}\n{{对话|张飞|刚才是脸朝下印正面，还有背面和侧面。|头像=离魂张飞-魂魂}}\n{{对话|我|不要——唔啊——|头像=小头像-离魂广陵王-魂魂}}\n{{战斗}}\n{{对话|张鲁|哇！嬢嬢，这个好吃！|头像=离魂张鲁-魂魂}}\n{{对话|张鲁|（嚼嚼嚼）|头像=离魂张鲁-魂魂}}\n{{对话|张鲁|嬢嬢！这个也好吃！|头像=离魂张鲁-魂魂}}\n{{对话|张鲁|（嚼嚼嚼）|头像=离魂张鲁-魂魂}}\n{{对话|张修|……|头像=离魂张修-魂魂}}\n{{对话|我|你不吃东西吗？一直只看着他吃。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张修|又有一阵星火呢……星火降落，就变成了红雨。|头像=离魂张修-魂魂}}\n{{对话|张鲁|师父！那也得吃东西啊！|头像=离魂张鲁-魂魂}}\n{{对话|张修|就快要解脱了呢……|头像=离魂张修-魂魂}}\n{{对话|张鲁|什么叫解脱呀？|头像=离魂张鲁-魂魂}}\n{{对话|张修|意思就是不用再带孩子了。|头像=离魂张修-魂魂}}\n{{对话|我|那确实……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张鲁|那个红色月亮一直在吃掉旁边大大小小的星光，好像越来越近了。|头像=离魂张鲁-魂魂}}\n{{对话|张修|嗯，不知道这个宇宙能不能抵挡它的侵蚀。|头像=离魂张修-魂魂}}\n{{对话|张修|不过也没有意义……就算抵挡住了荧惑，也无力抵挡周天驹。|头像=离魂张修-魂魂}}\n{{对话|我|如果抵挡不住，所有人都会消失吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张修|所有人都从肉身被抽离出来，成为离魂了，哪怕不被吞噬，不恢复肉身，离魂也坚持不了多久。|头像=离魂张修-魂魂}}\n{{对话|张鲁|那我会和嬢嬢分开吗？会再也见不到吗？|头像=离魂张鲁-魂魂}}\n{{对话|刘辩|会的哦……|头像=离魂刘辩-魂魂}}\n{{对话|张鲁|…………呜哇——我不要——哇——|头像=离魂张鲁-魂魂}}\n{{对话|我|啊啊刘辩！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（把刘辩揉成团塞进酒坛子）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|（从酒坛口探出头）|头像=离魂刘辩-魂魂}}\n{{对话|刘辩|也可以试着这样躲在酒坛子里，说不定会被周天驹忽略呢！|头像=离魂刘辩-魂魂}}\n{{对话|张鲁|真的吗！|头像=离魂张鲁-魂魂}}\n{{对话|张鲁|（拼命挤进刘辩的酒坛子）|头像=离魂张鲁-魂魂}}\n{{对话|张鲁|嬢嬢，嬢嬢，挤挤……|头像=离魂张鲁-魂魂}}\n{{对话|我|唔！好……挤……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张鲁|这样窝在一起好安心呀！就算被带走，好像也没那么害怕了！|头像=离魂张鲁-魂魂}}\n{{对话|刘辩|和广陵王在一起，什么都不可怕了……呼呼……|头像=离魂刘辩-魂魂}}\n{{对话|张修|（塞上酒坛塞子）|头像=离魂张修-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--宛城巡查-->\n==宛城巡查==\n{{对话-头}}\n{{对话|郭嘉|抽烟……要抽烟……|头像=离魂郭嘉-魂魂}}\n{{对话|郭嘉|（一定要钻进烟卤）|头像=离魂郭嘉-魂魂}}\n{{对话|我|都熏黑了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭嘉|学长收走了我的烟……给我点吧，心头肉……|头像=离魂郭嘉-魂魂}}\n{{对话|我|肯定是你又在书房抽烟了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|荀彧|是的。书房是严禁抽烟的。|头像=离魂荀彧-魂魂}}\n{{对话|程昱|荀彧做的非常对，你的烟熏味有点过重了……当然过重的风味也很美好……|头像=离魂程昱-魂魂}}\n{{对话|荀彧|（掏出烟草） （塞进郭嘉嘴里） （扳住郭嘉魂魂两端拼命开合嚼碎）|头像=离魂荀彧-魂魂}}\n{{对话|郭嘉|啊喀喀喀喀喀喀。|头像=离魂郭嘉-魂魂}}\n{{对话|荀彧|好了，烟味更重了。|头像=离魂荀彧-魂魂}}\n{{对话|程昱|啊，浓到这种程度，反而有一种迷人的特殊风味……|头像=离魂程昱-魂魂}}\n{{对话|荀彧|（掏出烟酒香料蚊香料酒白盐豆豉山葵<ref>芥末</ref>臭臭花<ref>○可梦</ref>） （塞进郭嘉嘴里） （扳住郭嘉魂魂两端拼命开合嚼碎）|头像=离魂荀彧-魂魂}}\n{{对话|郭嘉|啊喀喀喀喀喀喀。呕。|头像=离魂郭嘉-魂魂}}\n{{对话|程昱|变成复合风味了……|头像=离魂程昱-魂魂}}\n{{对话|程昱|（飘向郭嘉） （被荀彧盖进锅里）|头像=离魂程昱-魂魂}}\n{{对话|我|……呃，火是不是有点大？要不要开盖看一下……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|荀彧|还要焖一会儿。|头像=离魂荀彧-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|咦？贾诩，你在这里吗？……啊，守着自己的黄金马车。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|贾诩|（很安静地在暗处蜷成一小团）|头像=离魂贾诩-魂魂}}\n{{对话|我|那边很热闹哦，不去一起玩吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|贾诩|（摇摇头） （蜷得更小了）|头像=离魂贾诩-魂魂}}\n{{对话|袁基|殿下，偶遇。|头像=离魂袁基-魂魂}}\n{{对话|袁基|在下是来找贾诩的，待会儿可能需要用一下黄金马车……|头像=离魂袁基-魂魂}}\n{{对话|贾诩|（抱紧马车） |头像=离魂贾诩-魂魂}}\n{{对话|贾诩|……我的……|头像=离魂贾诩-魂魂}}\n{{对话|我|让、让让他吧？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|袁基|嗯，看起来很不愿意离开黄金马车呢……|头像=离魂袁基-魂魂}}\n{{对话|贾诩|（和马车里的阴影融为一体）|头像=离魂贾诩-魂魂}}\n{{对话|郭嘉|唔噗——|头像=离魂郭嘉-魂魂}}\n{{对话|我|唔啊啊！郭嘉被锅盖弹进马车了！是程昱炸锅了吗？ ！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭嘉|啊啊不要戳！不要戳！|头像=离魂郭嘉-魂魂}}\n{{对话|贾诩|呜！出去！呜！|头像=离魂贾诩-魂魂}}\n{{对话|贾诩|（拼命拿拐杖戳戳）|头像=离魂贾诩-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--巨鹿巡查-->\n==巨鹿巡查==\n{{对话-头}}\n{{对话|杨修|（飘去树边）柳树柳树，我娘在哪里？|头像=离魂杨修-魂魂}}\n{{对话|哔哥|不在这里！不在这里！}}\n{{对话|杨修|（飘去另一边）石头石头，我娘在哪里？|头像=离魂杨修-魂魂}}\n{{对话|庞统|娘？什么娘？我不要写作业！|头像=离魂庞统-魂魂}}\n{{对话|我|可以不写作业啊，要不要先做公务？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|庞统|（吓到攥成一团）|头像=离魂庞统-魂魂}}\n{{对话|杨修|娘不要我了吗……|头像=离魂杨修-魂魂}}\n{{对话|庞统|就是这样……杨修前辈一直在找母亲……|头像=离魂庞统-魂魂}}\n{{对话|我|这样啊……他好像累了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|杨修|（抱着自己的头冠）（飘累了，睡着了）|头像=离魂杨修-魂魂}}\n{{对话|甘宁|哈哈——被我找到了！下酒菜！|头像=离魂甘宁-魂魂}}\n{{对话|庞统|唔！|头像=离魂庞统-魂魂}}\n{{对话|杨修|呜啊！|头像=离魂杨修-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|庞统|呜……被抓住了……|头像=离魂庞统-魂魂}}\n{{对话|甘宁|嘿嘿……这种鹦鹉的鸟毛插在头上真好看！至于你……|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|待会儿行酒令的时候当骰子用吧！|头像=离魂甘宁-魂魂}}\n{{对话|杨修|唔啊啊啊啊！|头像=离魂杨修-魂魂}}\n{{对话|杨修|（被拎起来狂甩）（魂魂里的骰子跟着摇）|头像=离魂杨修-魂魂}}\n{{对话|我|放开他！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|甘宁|什……呜噗！|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|（被我扯弯的柳树弹飞）|头像=离魂甘宁-魂魂}}\n{{对话|蔡琰|如何是好……卷轴掉进井里了……|头像=离魂蔡琰-魂魂}}\n{{对话|萨斑斑甲鱼|我我我！我帮你捞上来了！你用什么来报答我呢？|头像=小鱼}}\n{{对话|蔡琰|我可没说让你帮忙。|头像=离魂蔡琰-魂魂}}\n{{对话|萨斑斑甲鱼|已经捞上来了！我要成为你的未婚夫！|头像=小鱼}}\n{{对话|蔡琰|呵呵，昭姬的未婚夫都死光了哦。|头像=离魂蔡琰-魂魂}}\n{{对话|蔡琰|（一卷轴砸晕萨斑斑甲鱼）|头像=离魂蔡琰-魂魂}}\n{{对话|蔡琰|殿下，要不要吃烤甲鱼？|头像=离魂蔡琰-魂魂}}\n{{对话|我|已、已经把火升起来了吗……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|蔡琰|听说会说话的甲鱼摔一下会变成世家公子，快趁它还没变，烤了了事。|头像=离魂蔡琰-魂魂}}\n{{对话|徐庶|好香哦！是在烤啥子！|头像=离魂徐庶-魂魂}}\n{{对话|陈登|（在井里打窝）（放钩入定）|头像=离魂陈登-魂魂}}\n{{旁白|旁白|……}}\n{{旁白|旁白|…………}}\n{{对话|蔡琰|啊哈哈……真的吗？真的有那种鱼？|头像=离魂蔡琰-魂魂}}\n{{对话|徐庶|真的！我当年在北海当游侠的时候见到的，长着翅膀，能飞起来呢！|头像=离魂徐庶-魂魂}}\n{{对话|我|上次撩魂时候说是在东海看见的。唔！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|徐庶|小宝吃鱼肉。|头像=离魂徐庶-魂魂}}\n{{对话|陈登|（在井里打窝）（放钩入定）|头像=离魂陈登-魂魂}}\n{{对话|徐庶|还有，据说有一种酒，就是拿鱼酿的，从前是在仙岛上的鲛人宫殿里发现的！|头像=离魂徐庶-魂魂}}\n{{对话|徐庶|等哪天我们一起去找仙岛，据说岛上开满桃花，一片烂漫。|头像=离魂徐庶-魂魂}}\n{{对话|我|（嚼嚼嚼）响持还嗦开满惹梨发。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|徐庶|小宝吃吃吃鱼头！|头像=离魂徐庶-魂魂}}\n{{对话|我|啊呜！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|陈登|（在井里打窝）（放钩入定）|头像=离魂陈登-魂魂}}\n{{对话|我|先生，你在碎砖旁边做什么呢？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|荀彧|（小短手捡砖）垒城墙……|头像=离魂荀彧-魂魂}}\n{{对话|荀彧|两边要一样高……砖要一样高……|头像=离魂荀彧-魂魂}}\n{{对话|我|这里有两块一样的砖，给你。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|荀彧|不一样、不一样……|头像=离魂荀彧-魂魂}}\n{{对话|荀彧|（疯狂摇头）（把自己摇晕了）|头像=离魂荀彧-魂魂}}\n{{对话|程昱|（带著锅飞飘过来——）（被砖绊倒）（弹飞）（被砖绊倒）|头像=离魂程昱-魂魂}}\n{{对话|荀彧|啊……城墙……被撞塌了……|头像=离魂荀彧-魂魂}}\n{{对话|我|好惨，撞出一个大洞，咦，大洞背后，是艨艟吗……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|程昱|不能怪我……唔啊！|头像=离魂程昱-魂魂}}\n{{对话|荀彧|（疯狂拿锅拍他脑袋啪嗒啪嗒）|头像=离魂荀彧-魂魂}}\n{{对话|程昱|不不不能能能怪怪怪……|头像=离魂程昱-魂魂}}\n{{对话|荀彧|（疯狂拿锅拍他脑袋啪嗒啪嗒啪嗒啪嗒啦嗒啪嗒）|头像=离魂荀彧-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|孙策|哈哈！有破绽！江东发动突袭！唔噗！|头像=离魂孙策-魂魂}}\n{{对话|我|啊，被荀彧拍出去的程昱弹飞了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙策|我会回来的——|头像=离魂孙策-魂魂}}\n{{对话|程昱|都说了不能怪我……唔噗！|头像=离魂程昱-魂魂}}\n{{对话|荀彧|（疯狂拿锅拍他脑袋啪嗒啪嗒）|头像=离魂荀彧-魂魂}}\n{{对话|孙策|又有破绽！江东发动突袭！唔噗！|头像=离魂孙策-魂魂}}\n{{对话|我|……又被荀彧拍出去的程昱弹飞了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙策|我会回来的——|头像=离魂孙策-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--寿春巡查-->\n\n==寿春巡查==\n{{对话-头}}\n===对话1===\n{{对话|许曼|跟、跟小魂走吧，小魂知道进城池的密道哦！但是，你们不能再弹飞小魂了呜呜……|头像=离魂许曼-魂魂}}\n{{对话|魂怪|吼！}}\n{{对话|我|许曼，你在做什么？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|许曼|！唔啊啊啊——|头像=离魂许曼-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|许曼|贵——魂——贵魂高抬贵手放小魂一马吧！小魂也是被逼无奈！|头像=离魂许曼-魂魂}}\n{{对话|许曼|这、这样！小魂把这些魂怪的巢穴路观图卖……不不不！献给贵魂！|头像=离魂许曼-魂魂}}\n{{对话|许曼|贵魂罩着小魂嘛，喵喵喵~|头像=离魂许曼-魂魂}}\n{{对话|袁基|……哎？你就是那个出卖了密道的魂吗？|头像=离魂袁基-魂魂}}\n{{对话|许曼|……|头像=离魂许曼-魂魂}}\n{{对话|许曼|唔啊啊啊贵魂救救我我救救我我我我不想被日一声打成茶叶沫沫然后死无全魂啊啊啊啊——|头像=离魂许曼-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|袁基|咦……是这样吗……|头像=离魂袁基-魂魂}}\n{{对话|许曼|是的是的！从掌纹上看，二位真是天——作之合！|头像=离魂许曼-魂魂}}\n{{对话|我|魂魂哪来的掌纹。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|许曼|……|头像=离魂许曼-魂魂}}\n{{对话|许曼|从、从面相……|头像=离魂许曼-魂魂}}\n{{对话|我|魂魂哪来的面相。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|许曼|………………………..|头像=离魂许曼-魂魂}}\n{{对话|袁基|呼……果然还是要日——一声打成茶叶沫沫呢…|头像=离魂袁基-魂魂}}\n{{对话|许曼|八字！算八字！|头像=离魂许曼-魂魂}}\n{{对话|袁基|（把茶叶臼打的日日响）|头像=离魂袁基-魂魂}}\n{{对话|许曼|从八字来算二位…….呃，敢问二位的八字是……？|头像=离魂许曼-魂魂}}\n{{对话|袁基|（日——日——日——）|头像=离魂袁基-魂魂}}\n{{对话|许曼|不管怎么算都是佳偶天成百年好合举案齐眉！！！|头像=离魂许曼-魂魂}}\n{{对话|许曼|二位，我能不能先给谶纬再给论据……|头像=离魂许曼-魂魂}}\n{{对话|袁基|唔，也不是不可以……|头像=离魂袁基-魂魂}}\n{{对话|我|哎？……真的还可以这样吗？|头像=小头像-离魂广陵王-魂魂}}\n \n===对话2===\n{{对话|颜良|殿下。|头像=离魂颜良-魂魂}}\n{{对话|颜良|（拿着盾行礼）（盾太重，噗叽）（努力爬起）|头像=离魂颜良-魂魂}}\n{{对话|颜良|（又被盾坠得往前扑）唔唔，失礼……|头像=离魂颜良-魂魂}}\n{{对话|我|没事吧？慢慢站起来……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|呼……谢谢。|头像=离魂颜良-魂魂}}\n{{对话|颜良|（向前鞠躬，又摔在了盾牌上）|头像=离魂颜良-魂魂}}\n{{对话|我|（帮忙扶起）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|谢谢殿下……（向前鞠躬行礼）（再次摔趴）|头像=离魂颜良-魂魂}}\n{{对话|我|（紧紧扶住）都这样就不要再行礼了啊！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|呼……呼……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|谢谢殿下……（向前鞠躬行礼）（噗叽）|头像=离魂颜良-魂魂}}\n{{对话|我|………………………………|头像=小头像-离魂广陵王-魂魂}}\n{{对话|文丑|……他就是这样的。所以赶路赶了七八天还没能赶到前线支援。|头像=离魂文丑-魂魂}}\n{{对话|孙策|江东艨艟就在旁边，要不要直接去江东啊？|头像=离魂孙策-魂魂}}\n{{对话|文丑|我无所谓。颜良？|头像=离魂文丑-魂魂}}\n{{对话|颜良|这怎么……（噗叽）|头像=离魂颜良-魂魂}}\n{{对话|颜良|此事不义……（噗叽）|头像=离魂颜良-魂魂}}\n{{对话|颜良|臣之忠，将之忠……（噗叽）|头像=离魂颜良-魂魂}}\n{{对话|孙策|这玩意能有多重……（噗叽）|头像=离魂孙策-魂魂}}\n{{对话|我|怎么可能连你也……（噗叽）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|文丑|……|头像=离魂文丑-魂魂}}\n{{对话|文丑|…………啊！说起来，好像江东和广陵的头目都在此地了呢……|头像=离魂文丑-魂魂}}\n{{对话|鸢使|文丑，不可以这样趁人之危。帮忙一起扶……（噗叽）|头像=离魂鸢使-魂魂}}\n{{对话|文丑|总之先把这面盾……（噗叽）|头像=离魂文丑-魂魂}}\n{{对话|我|……所有人，都被压在下面了呢。|头像=小头像-离魂广陵王-魂魂}}\n{{战斗}}\n \n===对话3===\n{{对话|我|一路走过来，就这边动静大。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|王异|（锤锤砸在许攸离魂上）|头像=离魂王异-魂魂}}\n{{对话|许攸|我是魂灯之神，请问你有什么愿望……|头像=离魂许攸-魂魂}}\n{{对话|王异|我要羊肉。|头像=离魂王异-魂魂}}\n{{对话|许攸|没有……|头像=离魂许攸-魂魂}}\n{{对话|陈登|（鱼竿敲在许攸离魂上）|头像=离魂陈登-魂魂}}\n{{对话|陈登|我想要七星子鱼的鱼脍！|头像=离魂陈登-魂魂}}\n{{对话|许攸|没有……|头像=离魂许攸-魂魂}}\n{{对话|我|怎么什么都没有啊？那问愿望还有什么用？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|许攸|没有什么用啊，只是单纯想知道其他魂魂的愿望罢了……|头像=离魂许攸-魂魂}}\n{{对话|傅融|（账本拍在许攸离魂上）|头像=离魂傅融-魂魂}}\n{{对话|傅融|一夜暴富。|头像=离魂傅融-魂魂}}\n{{对话|许攸|没有。|头像=离魂许攸-魂魂}}\n{{对话|傅融|（拍拍拍）|头像=离魂傅融-魂魂}}\n{{对话|傅融|一夜暴富……|头像=离魂傅融-魂魂}}\n{{对话|许攸|没有！|头像=离魂许攸-魂魂}}\n{{对话|傅融|（绝望拍拍拍）|头像=离魂傅融-魂魂}}\n{{对话|许攸|就、就这些钱了！拿着，别拍我了！|头像=离魂许攸-魂魂}}\n{{对话|傅融|……|头像=离魂傅融-魂魂}}\n{{对话|傅融|真的有用！|头像=离魂傅融-魂魂}}\n{{对话|傅融|（疯狂拍拍拍）|头像=离魂傅融-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|傅融|（抱紧钱袋不撒手）|头像=离魂傅融-魂魂}}\n{{对话|我|不行，太重了，你根本拖不动。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|为什么要动？就停在这……|头像=离魂傅融-魂魂}}\n{{对话|我|不行，我们要回广陵休整了。快……起来……啊……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|（死死抱着钱袋）（被拖成一长条）|头像=离魂傅融-魂魂}}\n{{对话|傅融|不……不回去……不想上班……不想……|头像=离魂傅融-魂魂}}\n{{对话|傅融|（泪光）|头像=离魂傅融-魂魂}}\n{{对话|傅融|什么都好……只要不上班……上班……天都要塌下来……不想上班……|头像=离魂傅融-魂魂}}\n{{对话|我|走……了……啊——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呜。|头像=离魂傅融-魂魂}}\n{{对话|傅融|（被拖成长长长长一条）|头像=离魂傅融-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--白马巡查-->\n==白马巡查==\n{{对话-头}}\n===对话1===\n{{对话|蜂使|（边走边掉魂魂碎片）|头像=离魂蜂使-魂魂}}\n{{对话|蜂使|呼啊……呼啊……越来越小了……|头像=离魂蜂使-魂魂}}\n{{对话|我|这样下去不行的，会魂飞魄散的，来，我帮你拼起来！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|蜂使|呼啊……呼啊……|头像=离魂蜂使-魂魂}}\n{{对话|我|……啊，鼻子都掉了，呼吸很困难吧……好可怜。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|夏侯惇|可以拿胡萝卜装一根鼻子。|头像=离魂夏侯惇-魂魂}}\n{{对话|夏侯惇|（从眼罩中拿出一根胡萝卜）|头像=离魂夏侯惇-魂魂}}\n{{对话|蜂使|（噗叽）|头像=离魂蜂使-魂魂}}\n{{对话|蜂使|啊！呼吸通畅了！谢谢谢谢！就是有点太长了……|头像=离魂蜂使-魂魂}}\n{{对话|我|啊呜。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|夏侯惇|啊啊……啊啊啊！怎、怎可这样咬掉他的鼻子！|头像=离魂夏侯惇-魂魂}}\n{{对话|我|可是（嚼嚼嚼）这样长度就（嚼嚼嚼）刚刚好了呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|……胡萝卜，可以给吾几根吗？|头像=离魂左慈-魂魂}}\n{{对话|夏侯惇|当然。在下还有很多胡萝卜！|头像=离魂夏侯惇-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|左慈|（捏捏）（拍拍）|头像=离魂左慈-魂魂}}\n{{对话|左慈|嗯，这样……再这样……|头像=离魂左慈-魂魂}}\n{{对话|我|是两个小雪魂！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|可以拿胡萝卜染色，这样就更像了。|头像=离魂左慈-魂魂}}\n{{对话|左慈|再做两个兔耳朵吧……|头像=离魂左慈-魂魂}}\n{{对话|夏侯惇|真的很有趣，有什么需要在下帮忙的吗？|头像=离魂夏侯惇-魂魂}}\n{{对话|左慈|能请你帮忙，将葛洪找过来吗？|头像=离魂左慈-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|葛洪|什么事呀？啊……几位这样站在一起展真是赏心悦……唔噗。|头像=离魂葛洪-魂魂}}\n{{对话|左慈|（揪住）（按雪里）（往兔耳形状凹坑里灌石膏）|头像=离魂左慈-魂魂}}\n{{对话|左慈|嗯，这样就有兔耳朵了。|头像=离魂左慈-魂魂}}\n \n===对话2===\n{{对话|我|文丑，你在树顶？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|文丑|在找树叶……|头像=离魂文丑-魂魂}}\n{{对话|我|找树叶？是找燃料还是染料用的叶子？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|文丑|想找又大又漂亮的叶子……这样，大家就可以直接拿树叶当货币了。|头像=离魂文丑-魂魂}}\n{{对话|我|但是树叶不好保存吧，而且谁都可以摘，这样的东西不适合当货币哦……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|文丑|这样不是更好吗？树叶腐朽了，货币也就消失了，魂心就不会有物欲争斗了。|头像=离魂文丑-魂魂}}\n{{对话|文丑|嘿咻、嘿咻……|头像=离魂文丑-魂魂}}\n{{对话|我|看起来手太短，够不到……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|嘬嘬嘬，小孔雀鱼？|头像=离魂张邈-魂魂}}\n{{对话|文丑|（青筋）|头像=离魂文丑-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|张邈|（撑着伞晃晃悠悠飘落）|头像=离魂张邈-魂魂}}\n{{对话|我|……啊，被抽得好远……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|文丑|树叶，树叶，嘿咻……|头像=离魂文丑-魂魂}}\n{{对话|张邈|（撑着伞又被风吹过来）|头像=离魂张邈-魂魂}}\n{{对话|张邈|嘬嘬嘬……唔噗。|头像=离魂张邈-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|陈登|（打窝）（入定）|头像=离魂陈登-魂魂}}\n{{对话|我|陈登——你看见张邈了吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|陈登|（入定）|头像=离魂陈登-魂魂}}\n{{对话|我|他刚才被打进水里了，你有见到他吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|晃晃……晃晃……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|陈登|（发出吨昂吨昂的声音）|头像=离魂陈登-魂魂}}\n{{对话|陈登|上钩了！起杆！！！|头像=离魂陈登-魂魂}}\n{{对话|张邈|噗叽！|头像=离魂张邈-魂魂}}\n{{战斗}}\n===对话3===\n{{对话|我|啊……好舒服的风。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭解|……|头像=离魂郭解-魂魂}}\n{{对话|我|前辈，是你在造风吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭解|（指指河对面）|头像=离魂郭解-魂魂}}\n{{对话|我|张郃坐在木芍药花田里……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|张郃|……晒月亮……|头像=离魂张郃-魂魂}}\n{{对话|张郃|啊，是花雨！……呼啊……|头像=离魂张郃-魂魂}}\n{{对话|张郃|（开心地蹦了蹦）|头像=离魂张郃-魂魂}}\n{{对话|张郃|花雨！……呼啊……|头像=离魂张郃-魂魂}}\n{{对话|我|好像看见花雨会很开心的样子。|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|甄宓|前辈！你在做什么呀？！|头像=离魂甄宓-魂魂}}\n{{对话|张郃|啊！被、被发现了……|头像=离魂张郃-魂魂}}\n{{对话|甄宓|你在摸鱼！！！如果被发现的话会连魂皮都扒下来的！|头像=离魂甄宓-魂魂}}\n{{对话|张郃|呜！|头像=离魂张郃-魂魂}}\n{{对话|张郃|啊，是花雨！……呼呼……呼呼……|头像=离魂张郃-魂魂}}\n{{对话|甄宓|快点回去干活……啊，真的好漂亮，呼呼……|头像=离魂甄宓-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|……啊！居然也在花田里睡着了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……唔啊！被旁边的离魂绊倒了……不知不觉，花田里睡满了晒月亮的魂魂。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张郃|嘿嘿……呼呼……|头像=离魂张郃-魂魂}}\n{{对话|张郃|（努力搓花冠）|头像=离魂张郃-魂魂}}\n{{对话|张郃|这个，这个，殿下的……|头像=离魂张郃-魂魂}}\n{{对话|我|得到了好多花冠！|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--信都巡查-->\n==信都巡查==\n{{对话-头}}\n===对话1===\n{{对话|程昱|东阿暖心老乡肉，要来一口吗？|头像=离魂程昱-魂魂}}\n{{对话|傅融|……好香……|头像=离魂傅融-魂魂}}\n{{对话|我|不行啊！傅融，快清醒一点，那个锅里的东西肯定不能吃！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|程昱|殿下也吃一口吧，殿下当柿子的时候脸上还有二两肉，被抠门副官照顾了几年，都给喂塌腮了。|头像=离魂程昱-魂魂}}\n{{对话|我|傅融！醒醒！我们回广陵之后，就可以吃到史君做的魂糕了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|（一颤）（泪光）|头像=离魂傅融-魂魂}}\n{{对话|我|……这么不想吃史君做的点心吗……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|这是新出炉的干果魂糕，吃吃看？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|（吃吃吃）|头像=离魂傅融-魂魂}}\n{{对话|我|吃完了就一起回去吧？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|不想上班……|头像=离魂傅融-魂魂}}\n{{对话|我|……对上班充满了心理阴影呢。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|想每天吃吃魂糕晒晒月亮……|头像=离魂傅融-魂魂}}\n{{对话|我|是啊，哪个魂不想呢……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|…………|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|啊啊啊啊不行！振作啊傅融！支楞起来……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|（被拎起来）（化掉）（被拎起来）（化掉）|头像=离魂傅融-魂魂}}\n{{对话|我|再这样不上班……会魂设坍塌的……你可是傅融啊……支棱……支楞啊——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|（因为彻底不想上班化成了一滩）|头像=离魂傅融-魂魂}}\n{{战斗}}\n===对话2===\n{{对话|我|到处都是蜜糖的味道……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|鸢使|甜食、甜食……啊！殿下来了，我们新熬的麦芽糖，要尝一口吗？|头像=离魂鸢使-魂魂}}\n{{对话|我|好香！……只能尝一口吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|鸢使|是的哦！每个魂都只尝一口，才不会放纵自己的欲望嘛。|头像=离魂鸢使-魂魂}}\n{{对话|王粲|（盯着麦芽糖）|头像=离魂王粲-魂魂}}\n{{对话|鸢使|这个……真的只能吃一口哦。|头像=离魂鸢使-魂魂}}\n{{对话|王粲|（泪眼汪汪）|头像=离魂王粲-魂魂}}\n{{对话|鸢使|………………真的、真的只能一口……|头像=离魂鸢使-魂魂}}\n{{对话|王粲|（哭到缩水）|头像=离魂王粲-魂魂}}\n{{对话|鸢使|啊啊啊啊别哭！别哭啊！这样，再给一口，但不可以让别的魂知道哦！|头像=离魂鸢使-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|刘辩|……呼……|头像=离魂刘辩-魂魂}}\n{{对话|我|刘辩？你怎么会在离五斗米这么远的地方？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|……闻到……甜食的……味道了……甜食……|头像=离魂刘辩-魂魂}}\n{{对话|鸢使|只能吃一口哦！……啊啊啊你在做什么？！！|头像=离魂鸢使-魂魂}}\n{{对话|刘辩|（跳进麦芽糖锅里）（暴风吸入）|头像=离魂刘辩-魂魂}}\n{{对话|我|快出来！糖会凝固的！快出来啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|（被糖粘住）|头像=离魂刘辩-魂魂}}\n{{对话|刘辩|哇——呱陵王——|头像=离魂刘辩-魂魂}}\n{{对话|王粲|哇——麦芽糖——|头像=离魂王粲-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--延津巡查-->\n==延津巡查==\n{{对话-头}}\n{{对话|张闿|（闭着双眼躺在石头上）|头像=离魂张闿-魂魂}}\n{{对话|我|因为红月的影响陷入了沉眠……应该有什么方法可以唤醒她吧。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|张闿社长……社长？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张闿|呼……呼……|头像=离魂张闿-魂魂}}\n{{对话|太史慈|太疾驰，大鸡翅——母亲！你的黄瓜切片准备好了！|头像=离魂太史慈-魂魂}}\n{{对话|张闿|哈欠……啊，你来了。正在做月光浴呢……|头像=离魂张闿-魂魂}}\n{{对话|张闿|（黄瓜片片贴脸）（躺下去）|头像=离魂张闿-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|孔融|这里是我们讲学的地方，怎么可以……怎么可以这样！|头像=离魂孔融-魂魂}}\n{{对话|张闿|怎么样？|头像=离魂张闿-魂魂}}\n{{对话|孔融|就是……这样！就是这样！|头像=离魂孔融-魂魂}}\n{{对话|张邈|就是这样！|头像=离魂张邈-魂魂}}\n{{对话|孔融|就是……躺在这里……这样！|头像=离魂孔融-魂魂}}\n{{对话|张邈|这样！|头像=离魂张邈-魂魂}}\n{{对话|孔融|……不、要、学、我、说、话！|头像=离魂孔融-魂魂}}\n{{对话|张邈|说、话！|头像=离魂张邈-魂魂}}\n{{对话|孔融|（气到冒烟）（想抽）|头像=离魂孔融-魂魂}}\n{{对话|孔融|（魂魂太圆手太短，抽不到）|头像=离魂孔融-魂魂}}\n{{对话-尾}}\n</div>\n \n<div class=\"resp-tab-content\"><!--庐江巡查-->\n==庐江巡查==\n{{对话-头}}\n{{对话|吕蒙|伯言！看，腹肌！|头像=离魂吕蒙-魂魂}}\n{{对话|吕蒙|（揭开腹肌贴纸）|头像=离魂吕蒙-魂魂}}\n{{对话|陆逊|风纪！（盖上）|头像=离魂陆逊-魂魂}}\n{{对话|吕蒙|（揭开）|头像=离魂吕蒙-魂魂}}\n{{对话|陆逊|风纪！（盖上）|头像=离魂陆逊-魂魂}}\n{{对话|吕蒙|（揭开）|头像=离魂吕蒙-魂魂}}\n{{对话|陆逊|风⋯⋯嗯？不用盖上，什么都没有啊。|头像=离魂陆逊-魂魂}}\n{{对话|吕蒙|不——你胡说！明明有那——么大一块！|头像=离魂吕蒙-魂魂}}\n{{对话|吕蒙|（鼓起来）|头像=离魂吕蒙-魂魂}}\n{{对话|我|（戳戳）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|吕蒙|（瘪掉）|头像=离魂吕蒙-魂魂}}\n{{旁白|⋯⋯}}\n{{旁白|⋯⋯⋯}}\n{{对话|我|啊，这片荷叶在动⋯⋯吕蒙，你还没放弃⋯⋯吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|⋯⋯哎？|头像=离魂孙权-魂魂}}\n{{对话|我|是小仲谋呀？为何在荷叶底下鼓鼓瘪瘪⋯⋯|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|别、别瞎说！我才没有！我只是在泅水⋯⋯我没有在练腹肌！|头像=离魂孙权-魂魂}}\n{{对话|我|明明就是在练⋯⋯|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|我没有！|头像=离魂孙权-魂魂}}\n{{对话|我|练不出也可以画一个哦，像吕蒙那样⋯⋯|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|我不要，我要自己⋯⋯不！我才没有练腹肌！|头像=离魂孙权-魂魂}}\n{{对话|孙权|你要做什么？！妖、妖魂！放开我——|头像=离魂孙权-魂魂}}\n{{对话|我|嘿咻、嘿咻⋯⋯好啦！这样就画完啦！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|⋯⋯唔⋯⋯？还挺⋯⋯自然的。|头像=离魂孙权-魂魂}}\n{{战斗}}\n{{对话|我|有什么东西在四处飞窜⋯⋯|头像=小头像-离魂广陵王-魂魂}}\n{{对话|太史慈|太疾驰，大鸡翅！贵人，需要太疾驰的鸡翅服务吗？|头像=离魂太史慈-魂魂}}\n{{对话|芾芾|吱吱！}}\n{{对话|我|好小只哦⋯⋯比普通离魂小好几圈。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|太史慈|这样的话弹力就会大大增强，看！可以弹这么高！|头像=离魂太史慈-魂魂}}\n{{对话|我|真的好高⋯⋯哎？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|太史慈|噗叽——|头像=离魂太史慈-魂魂}}\n{{对话|甘宁|哈哈哈就等你跳起来！我特意拿船板做了个大木拍！|头像=离魂甘宁-魂魂}}\n{{对话|我|⋯⋯好惨，不断被打到树干上再弹回去⋯⋯|头像=小头像-离魂广陵王-魂魂}}\n{{对话|太史慈|噗叽噗叽噗叽——|头像=离魂太史慈-魂魂}}\n{{对话|我|快住手！他身上还有业务呢！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|甘宁|嗯？你有什么意见吗？|头像=离魂甘宁-魂魂}}\n{{旁白|⋯⋯}}\n{{旁白|⋯⋯⋯}}\n{{对话|太史慈|噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——|头像=离魂太史慈-魂魂}}\n{{对话|我|噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|甘宁|哈哈哈换两块板子双打！痛快啦——|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|当了魂比当人还要爽，怎么玩都不会玩坏掉，哈哈哈哈⋯⋯|头像=离魂甘宁-魂魂}}\n{{对话|周瑜|⋯⋯嘟嘟？|头像=离魂周瑜-魂魂}}\n{{对话|甘宁|嗯？你有什么意⋯⋯唔噗！|头像=离魂甘宁-魂魂}}\n{{旁白|⋯⋯}}\n{{旁白|⋯⋯⋯}}\n{{对话|甘宁|噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽噗叽——|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|（被三面木拍接力打）|头像=离魂甘宁-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--江都巡查-->\n\n==江都巡查==\n{{对话-头}}\n{{对话|周瑜|嘟？|头像=离魂周瑜-魂魂}}\n{{对话|我|兄长！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|嘟嘟！嘟嘟？|头像=离魂周瑜-魂魂}}\n{{对话|我|吃过了，史君准备了好多魂糕。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|嘟嘟嘟！|头像=离魂周瑜-魂魂}}\n{{对话|我|知道了……毕竟变成魂魂了，也尝不出味道了嘛。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|嘟……|头像=离魂周瑜-魂魂}}\n{{对话|我|你新谱了曲子？但是琴在哪……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|嘟嘟！嘟嘟嘟嘟！！嘟嘟！嘟嘟嘟嘟嘟！！！|头像=离魂周瑜-魂魂}}\n{{对话|我|甘宁抢走了你的绿绮琴？……卖给了张邈？……张邈给绿绮琴改名绿漆琴全名老黄瓜刷绿漆琴？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|（气得变红）|头像=离魂周瑜-魂魂}}\n{{对话|我|……啊，那是张邈，心情很好地转着伞飞过去了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|嘬嘬嘬，小章鱼？|头像=离魂张邈-魂魂}}\n{{对话|张邈|嘬嘬嘬，小鲇瑜？|头像=离魂张邈-魂魂}}\n{{对话|周瑜|嘟——嘟——|头像=离魂周瑜-魂魂}}\n{{对话|周瑜|（气到冒烟）|头像=离魂周瑜-魂魂}}\n{{对话|张邈|嘬嘬嘬咕噜噜噜噜噜噜……|头像=离魂张邈-魂魂}}\n{{对话|我|（摁下去）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|咕噜噜噜噜噜噜噜……|头像=离魂张邈-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|把绿绮琴抢回来啦！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|嘟嘟！|头像=离魂周瑜-魂魂}}\n{{对话|我|所以到底是什么样的新曲呀？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|嘟！|头像=离魂周瑜-魂魂}}\n{{对话|我|让我看那边？那是张邈刚浮出水面……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|还在水边呀？你们一起站岸边好像眉毛下面挂俩蛋……唔噗！！！|头像=离魂张邈-魂魂}}\n{{对话|周瑜|（抄起琴把他拍下水）|头像=离魂周瑜-魂魂}}\n{{对话|张邈|不是，你……唔噗！|头像=离魂张邈-魂魂}}\n{{对话|周瑜|（抄起琴把他拍下水）|头像=离魂周瑜-魂魂}}\n{{对话|张邈|住唔噗！|头像=离魂张邈-魂魂}}\n{{对话|周瑜|（抄起琴把他拍下水）|头像=离魂周瑜-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--山阴巡查-->\n\n==山阴巡查==\n{{对话-头}}\n{{对话|孙尚香|殿下！这里、这里！我们在这晒月亮呢！|头像=离魂孙尚香-魂魂}}\n{{对话|我|阿香在这……那你哥哥们呢？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙尚香|孙权说想晒书，在那边理竹筒。|头像=离魂孙尚香-魂魂}}\n{{对话|孙尚香|他肯定以为到处铺上竹筒我就不敢靠近了。嘿嘿，等他把竹筒都摊开，我就……|头像=离魂孙尚香-魂魂}}\n{{对话|孙尚香|（点火箭，瞄准））|头像=离魂孙尚香-魂魂}}\n{{对话|我|哎？……哎？！！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|孙权|……|头像=离魂孙权-魂魂}}\n{{对话|我|火灭了……你没事吧？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|（蹲在地上缩成一团）|头像=离魂孙权-魂魂}}\n{{对话|孙权|……呜……|头像=离魂孙权-魂魂}}\n{{对话|孙尚香|这样你就躲不了啦……唔啊！不、不要把我拎起来甩唔啊！|头像=离魂孙尚香-魂魂}}\n{{对话|我|这次过分了！这和欺负魂有什么差别！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙尚香|我和大哥拿真刀真枪互相砍一身伤都没事——|头像=离魂孙尚香-魂魂}}\n{{对话|我|这不一样，又不是每个人都喜欢这样的，有的人就是心理比较敏感啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|道歉。再怎么样也不能烧家人喜欢的书。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙尚香|以前又不是没有……|头像=离魂孙尚香-魂魂}}\n{{对话|我|连以前的份一起道歉！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙尚香|家里从来没有人说这种事需要道歉嘛！大家都觉得打打闹闹感情才好啊！|头像=离魂孙尚香-魂魂}}\n{{对话|我|就算是武将之间也要讲道义的！君子不夺人所爱！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙尚香|我才不当君子……|头像=离魂孙尚香-魂魂}}\n{{对话|我|这世上什么样的魂都有，总不能说因为自己不在意就觉得别人都不在意吧，阿权很伤心的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙尚香|阿权你很伤心吗？|头像=离魂孙尚香-魂魂}}\n{{对话|孙权|………………|头像=离魂孙权-魂魂}}\n{{对话|孙尚香|看。他不说话……唔啊啊啊啊不要甩我啦——|头像=离魂孙尚香-魂魂}}\n{{旁白|……}}\n{{旁白|……}}\n{{对话|孙权|……她就是这样……虽然家里人也都是这样……|头像=离魂孙权-魂魂}}\n{{对话|我|以后要直接说呀……好啦，看，把竹简这样刷干净，再晾干……还能看见墨迹的。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|等红月下去了，挑个晴天，把它们慢慢誊抄了就好了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|不要了，都丢掉吧。|头像=离魂孙权-魂魂}}\n{{对话|孙权|（把竹简都丢进水里）（缩成一团飘远）|头像=离魂孙权-魂魂}}\n{{对话|我|……飘走了……啊，阿香你来了？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙尚香|……|头像=离魂孙尚香-魂魂}}\n{{对话|孙尚香|（去水里捡回孙权的竹简）|头像=离魂孙尚香-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--朝歌巡查-->\n==朝歌巡查==\n{{对话-头}}\n{{对话|甄宓|呜呜……呜哇……|头像=离魂甄宓-魂魂}}\n{{对话|史子眇|没关系的，没关系的……你是个好孩子呀……|头像=离魂史子眇-魂魂}}\n{{对话|我|史君，你也在这呀？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|史子眇|嗯，看见这个孩子哭得很伤心，不忍心丢下她……|头像=离魂史子眇-魂魂}}\n{{对话|甄宓|呜哇——我的魂魂入学式又没有通过！我毕不了业了——|头像=离魂甄宓-魂魂}}\n{{对话|史子眇|没事的没事的，还有很多的事可以做呀……没事的……|头像=离魂史子眇-魂魂}}\n{{对话|我|是呀，可以跟史君一起做魂糕呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|甄宓|但是……但是长老们说，做魂糕没有前途……呜……|头像=离魂甄宓-魂魂}}\n{{对话|庞统|呜呜……呜哇——|头像=离魂庞统-魂魂}}\n{{对话|我|……明明只是路过但是哭得最伤心呢，庞统。|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|………………}}\n{{对话|傅融|要补课？|头像=离魂傅融-魂魂}}\n{{对话|我|嗯！她的贵霜语是短板。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|可是我也不会贵霜语啊。|头像=离魂傅融-魂魂}}\n{{对话|我|绣衣楼和贵霜国的香料贸易明明是你负责的……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|可我现在是离魂了！离魂不该工作！|头像=离魂傅融-魂魂}}\n{{对话|我|她哭得那么伤心，助魂为乐又不算是工作！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|那……叽里咕噜叽里咕噜……|头像=离魂傅融-魂魂}}\n{{对话|甄宓|……叽里咕噜？|头像=离魂甄宓-魂魂}}\n{{对话|傅融|啊！基础差太多了，从头开始补！|头像=离魂傅融-魂魂}}\n{{对话|傅融|（掏掏）（拍拍）|头像=离魂傅融-魂魂}}\n{{对话|傅融|这五十卷是贵霜语入门！那五十卷是进阶，这十三卷是学习计划，这五卷是阶段测试！|头像=离魂傅融-魂魂}}\n{{对话|我|嗯嗯！加油！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|甄宓|呜哇——不要——我要去做魂糕——|头像=离魂甄宓-魂魂}}\n{{对话|我|唉……好吧，我去找找史君。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|史君？史君？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……咦？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……为什么，史君忽然不见了？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|史君？史君？……到底去哪了呢……史君？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|怎么了，慌慌张张的。|头像=离魂傅融-魂魂}}\n{{对话|我|史君！史君不见了！怎么办……他刚才还在这的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……嗯？史君？史君……好熟悉……史君……是谁？|头像=离魂傅融-魂魂}}\n{{对话|甄宓|对呀，史君是谁？|头像=离魂甄宓-魂魂}}\n{{对话|我|……什么？刚刚明明还……魂糕……点心……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……咦，刚才，我在找谁？|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--山阳巡查-->\n==山阳巡查==\n{{对话-头}}\n{{对话|贾诩|……好冷……呼……呼呼……黄金马车……被郭嘉抢走了……|头像=离魂贾诩-魂魂}}\n{{对话|贾诩|（把拐杖当作火柴）（火焰熄灭了）|头像=离魂贾诩-魂魂}}\n{{对话|贾诩|（再划一次）（火焰熄灭了）|头像=离魂贾诩-魂魂}}\n{{对话|贾诩|呜。|头像=离魂贾诩-魂魂}}\n{{对话|我|你是不是冷呀？需要暖炉吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|贾诩|我才不需要……|头像=离魂贾诩-魂魂}}\n{{对话|贾诩|（摇摇晃晃飘远）（冻晕）|头像=离魂贾诩-魂魂}}\n{{旁白|……}}\n{{旁白|………………}}\n{{对话|袁基|唉？他被冻僵了吗？|头像=离魂袁基-魂魂}}\n{{对话|我|唔，好像是……在小炉边取取暖吧。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|袁基|好像冻紫了……啊，原来就是紫色的吗……|头像=离魂袁基-魂魂}}\n{{对话|袁基|呼……这里可真冷……呼……呼……明明是来白雪度假村度假的……呼……好困……|头像=离魂袁基-魂魂}}\n{{对话|袁基|（蜷缩着冬眠了）|头像=离魂袁基-魂魂}}\n{{对话|我|……好怕冷的样子，直接进入深度睡眠了。|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|………………}}\n{{对话|我|我又带了些暖炉回来啦！……哎？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张郃|啊，殿下，我在烧暖盆哦！他们好像冻僵了。|头像=离魂张郃-魂魂}}\n{{对话|张郃|呼……明明是来找红梅花的，结果遇到了奇怪的魂，最后逃进了很贵的私家度假村……|头像=离魂张郃-魂魂}}\n{{对话|我|奇怪的魂？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张郃|嗯嗯！他在雪山脚下开大排档，一直问进雪山的魂要不要来一块热腾腾的老乡肉。|头像=离魂张郃-魂魂}}\n{{对话|张郃|我说我买不起……他说我可以免费吃，但是要坐进锅里吃……总觉得是很奇怪的魂……呜。|头像=离魂张郃-魂魂}}\n{{对话|我|太好了……一定要对这种奇怪的魂保持警惕！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张郃|嗯嗯！|头像=离魂张郃-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--平皋巡查-->\n==平皋巡查==\n{{对话-头}}\n===对话1===\n{{对话|甘宁|（在红月下疯狂奔跑）（疯狂）（彻底疯狂）|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|有猎物！哈哈哈哈―—|头像=离魂甘宁-魂魂}}\n{{对话|我|呜啊！好痛！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙策|我来啦！|头像=离魂孙策-魂魂}}\n{{对话|甘宁|（噗叽）|头像=离魂甘宁-魂魂}}\n{{对话|孙策|哼哼，四处捣乱的魂就是你吧！来，决一死……|头像=离魂孙策-魂魂}}\n{{对话|甘宁|（泪眼）（颤抖）|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|呜……呜呜……不是我……不是人家……|头像=离魂甘宁-魂魂}}\n{{对话|孙策|……哎？不是你吗？|头像=离魂孙策-魂魂}}\n{{对话|甘宁|嗯嗯，不是人家……放过我吧……|头像=离魂甘宁-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|甘宁|哈哈哈被骗了吧，呆魂笨魂傻魂，哈哈哈哈！|头像=离魂甘宁-魂魂}}\n{{对话|孙策|别拦着我我要压扁他！！！|头像=离魂孙策-魂魂}}\n{{对话|甘宁|来呀来呀来追我呀！|头像=离魂甘宁-魂魂}}\n{{对话|孙策|（在红月下疯狂奔跑）（疯狂）（彻底疯狂）|头像=离魂孙策-魂魂}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|…………啊……头好晕。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|黄月英|叮叮咚。|头像=离魂黄月英-魂魂}}\n{{对话|甘宁|（噗叽）|头像=离魂甘宁-魂魂}}\n{{对话|孙策|（噗叽）|头像=离魂孙策-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|黄月英|抖抖，抖抖。|头像=离魂黄月英-魂魂}}\n{{对话|我|抖抖抖抖抖抖抖……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|甘宁|哈，傻了吧，我身上什么都没有！|头像=离魂甘宁-魂魂}}\n{{对话|甘宁|放过人家嘛……人家从小没有妈妈……一直没感受过家的温暖……|头像=离魂甘宁-魂魂}}\n{{对话|黄月英|（呆滞）|头像=离魂黄月英-魂魂}}\n{{对话|黄月英|给你温暖是山川妈妈的事。我送你去见山川妈妈吧。|头像=离魂黄月英-魂魂}}\n{{对话|黄月英|（抡铃铛抽飞）|头像=离魂黄月英-魂魂}}\n{{对话|甘宁|（变成星光）|头像=离魂甘宁-魂魂}}\n{{对话|孙策|……………………|头像=离魂孙策-魂魂}}\n{{对话|黄月英|你也想见山川妈妈吗？|头像=离魂黄月英-魂魂}}\n{{对话|孙策|不不不不我我我有妈我我我我很温暖！|头像=离魂孙策-魂魂}}\n \n===对话2===\n{{对话|张郃|（舀了一勺月光洒在花上）|头像=离魂张郃-魂魂}}\n{{对话|徐庶|这样花会长得很快？|头像=离魂徐庶-魂魂}}\n{{对话|徐稺|好香……麦子的气味也更好了……|头像=离魂徐稺-魂魂}}\n{{对话|张郃|这样一来，就可以摘花酿酒啦……啊？|头像=离魂张郃-魂魂}}\n{{对话|我|泥土下好像有什么在动……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张角|（从土下坐起身）|头像=离魂张角-魂魂}}\n{{对话|张郃|啊啊啊我的花——|头像=离魂张郃-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|张角|……对不起……真的很对不起……|头像=离魂张角-魂魂}}\n{{对话|张郃|没关系的！种回去就好了。很快的。|头像=离魂张郃-魂魂}}\n{{对话|我|……我这边又挖到了什么！好像是……嗯？触角？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张修|……|头像=离魂张修-魂魂}}\n{{对话|张角|此时此刻，又想起了那个笑话。三个姓张的人站在一起，消除了。哈，哈哈。|头像=离魂张角-魂魂}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张郃|哈哈哈哈……咳，对不起。大家好像都没笑。|头像=离魂张郃-魂魂}}\n{{对话|我|不是哦，消除不了，因为张修不是站着的，是躺着的。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张郃|…………………………噗嗤。|头像=离魂张郃-魂魂}}\n{{对话|张郃|噗哈哈哈哈哈哈哈哈哈哈……咳，对、对不起……失态了……噗嗤……|头像=离魂张郃-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|徐稺|呼……这样一来，花园就恢复啦。|头像=离魂徐稺-魂魂}}\n{{对话|张郃|谢谢谢谢！|头像=离魂张郃-魂魂}}\n{{对话|徐稺|这卷农典送给你，是陈登的原稿，我抄录下来之后，加了些自己的感悟。|头像=离魂徐稺-魂魂}}\n{{对话|张郃|啊啊！太感谢前辈了！|头像=离魂张郃-魂魂}}\n{{对话|我|好细致……把接穗单数的麦子和接穗双数的麦子对角栽种……次年立春剪去顶穗……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张郃|……对不起，殿下，这个字念什么？|头像=离魂张郃-魂魂}}\n{{对话|我|这个是“剪”字，这个是“堆”字……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|徐稺|今夜天气很好……好，就在田里睡吧。|头像=离魂徐稺-魂魂}}\n{{对话|张郃|我也喜欢睡在花田里！|头像=离魂张郃-魂魂}}\n{{对话|徐庶|我睡干草堆那里！小宝睡我肚肚上！|头像=离魂徐庶-魂魂}}\n{{对话|我|好耶！|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--修武巡查-->\n==修武巡查==\n{{对话-头}}\n{{对话|我|为什么这里会有这么多鹅绒……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|我要睡觉了，床要软一些。|头像=离魂张邈-魂魂}}\n{{对话|我|搭了好多层啊，鹅绒床已经比三个魂魂还高了…….|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|叠好啦！嘿咻！|头像=离魂张邈-魂魂}}\n{{对话|我|看上去很舒服的样子！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张邈|殿下来呀。|头像=离魂张邈-魂魂}}\n{{对话|张邈|（拍拍）（啪嗒啪嗒）|头像=离魂张邈-魂魂}}\n{{对话|郭嘉|啊哈哈，学长太客气了！嘿咻……|头像=离魂郭嘉-魂魂}}\n{{对话|郭嘉|殿下来呀。|头像=离魂郭嘉-魂魂}}\n{{对话|郭嘉|（拍拍）（啪嗒啪嗒）|头像=离魂郭嘉-魂魂}}\n{{对话|太史慈|刚好跑单累了！多谢了兄弟！嘿咻！|头像=离魂太史慈-魂魂}}\n{{对话|太史慈|殿下来呀。|头像=离魂太史慈-魂魂}}\n{{对话|太史慈|（拍拍）（啪嗒啪嗒）|头像=离魂太史慈-魂魂}}\n{{对话|陈登|呼……钓鱼钓到红月中暑，躺一躺……嘿咻……|头像=离魂陈登-魂魂}}\n{{对话|陈登|殿下来呀。|头像=离魂陈登-魂魂}}\n{{对话|陈登|（拍拍）（啪嗒啪嗒）|头像=离魂陈登-魂魂}}\n{{对话|马超|哈哈哈―—这张床劲啊！喝啊―—|头像=离魂马超-魂魂}}\n{{对话|马超|兄弟来呀！|头像=离魂马超-魂魂}}\n{{对话|马超|（拍）（所有魂被弹飞）|头像=离魂马超-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|我|呼……他们飘在天上不知道什么时候落下来，我先一个人睡会儿……呼………|头像=小头像-离魂广陵王-魂魂}}\n{{对话|阿蝉|（冒头）|头像=离魂阿蝉-魂魂}}\n{{对话|伍丹|（冒头）|头像=离魂伍丹-魂魂}}\n{{对话|飞云|（冒头）|头像=离魂飞云-魂魂}}\n{{对话|我|大家来呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（拍拍）（啪嗒啪嗒）|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|最后，魂魂们都一起窝在了松松软软的鹅绒床上，窝成一团睡去了……}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--阆中巡查-->\n==阆中巡查==\n{{对话-头}}\n===对话1===\n{{对话|我|葛洪前辈！你有见到师尊吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|葛洪|看，他在擦隐鸢阁金顶上的乌云。|头像=离魂葛洪-魂魂}}\n{{对话|左慈|（擦擦）（打滑）（噗叽）|头像=离魂左慈-魂魂}}\n{{对话|葛洪|没有用的啦，很快又会被红月的黑云笼罩的……|头像=离魂葛洪-魂魂}}\n{{对话|我|师尊！快回来！一直照红月会异变的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|啊，吾……|头像=离魂左慈-魂魂}}\n{{对话|左慈|（突然通红——）|头像=离魂左慈-魂魂}}\n{{对话|我|！！！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|姬晋|（噗叽）}}\n{{对话|我|……啊，短暂地变回了姬晋。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|姬晋|广陵君？}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|…………|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|啊啊啊好松软！棉花糖一样的手感！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|姬晋|咕唔唔！}}\n{{对话|姬晋|（被捏成滚圆）}}\n \n===对话2===\n{{对话|我|快来魂！师尊照了太久红月光异变了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|华佗|劈开看看！|头像=离魂华佗-魂魂}}\n{{对话|姬晋|哎？}}\n{{对话|张仲景|扎一针……会不会漏气？|头像=离魂张仲景-魂魂}}\n{{对话|姬晋|哎？？？}}\n{{对话|我|师尊！不、不要跑啊——|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|姬晋|（滚滚）（弹弹）（噗叽噗叽噗叽）}}\n{{对话|华佗|沿着山阶弹下去了！好快！|头像=离魂华佗-魂魂}}\n{{对话|张仲景|呼……呼……唔啊！|头像=离魂张仲景-魂魂}}\n{{对话|张仲景|（绊倒）（滚滚）（弹弹）-（噗叽噗叽噗叽）|头像=离魂张仲景-魂魂}}\n{{对话|我|……越弹越远……越弹越远了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|不——前面是悬崖！师尊！！！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|黄月英|嘿、咻！|头像=离魂黄月英-魂魂}}\n{{对话|姬晋|（被铜铃拍回来）}}\n{{对话|我|太好了！这里……不不不，那里……放心吧我会接住——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|姬晋|（失之交臂）（再次弹飞）}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|黄月英|叮叮咚咚叮叮咚咚……|头像=离魂黄月英-魂魂}}\n{{对话|左慈|（噗叽）|头像=离魂左慈-魂魂}}\n{{对话|我|啊！变回来了，师尊——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|左慈|吾没事……你……是不是照了太久的红月？|头像=离魂左慈-魂魂}}\n{{对话|我|哎？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|（噗叽）（变成柿子）|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--绵竹巡查-->\n==绵竹巡查==\n{{对话-头}}\n{{对话|黄月英|叮叮咚、叮咚咚……打劫！|头像=离魂黄月英-魂魂}}\n{{对话|我|好多竹简……你打劫了谁？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|呜……我的功课……|头像=离魂孙权-魂魂}}\n{{对话|黄月英|都莫得值钱的。|头像=离魂黄月英-魂魂}}\n{{对话|孙权|大家是来北方看雪的……陆逊师父让我把功课都带上，被她抢走了…….|头像=离魂孙权-魂魂}}\n{{对话|黄月英|他们也是来找山川妈妈的…….|头像=离魂黄月英-魂魂}}\n{{对话|我|不是不是不是！他们不是来回归山川妈妈的！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|陆逊|唔……孙尚香女公子因为乱动乱跳引发了雪崩……|头像=离魂陆逊-魂魂}}\n{{对话|陆逊|孙策看见就激动地去滑雪了，吕蒙和黄盖将军打起雪仗，周中郎将……好像趁着雪崩补觉了。|头像=离魂陆逊-魂魂}}\n{{对话|我|这样吗，难怪刚才那么大动静。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|陆逊|二公子在这吗？|头像=离魂陆逊-魂魂}}\n{{对话|我|在哦。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|孙权|（噗叽）（白色版本）|头像=离魂孙权-魂魂}}\n{{对话|陆逊|……|头像=离魂陆逊-魂魂}}\n{{对话|陆逊|为什么是白色的二公子……|头像=离魂陆逊-魂魂}}\n{{对话|我|呃……因为视力比较弱，所以在雪山发生了雪盲，被照白了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|陆逊|是、是这样吗？辛苦殿下了……|头像=离魂陆逊-魂魂}}\n{{对话|陆逊|二公子，跟着在下，慢慢飘回去……|头像=离魂陆逊-魂魂}}\n{{对话|我|啊，等等！还有这个！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|周瑜|（噗叽）（白色版本）嘟。|头像=离魂周瑜-魂魂}}\n{{对话|陆逊|……为什么还有周中郎将？|头像=离魂陆逊-魂魂}}\n{{对话|我|好像是在雪下补觉的时候被雪崩冲过来的。|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--成都巡查-->\n==成都巡查==\n{{对话-头}}\n{{对话|我|徐庶前辈！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|徐庶|小宝亲亲！|头像=离魂徐庶-魂魂}}\n{{对话|徐庶|（吧唧吧唧吧唧吧唧吧唧吧唧吧唧）|头像=离魂徐庶-魂魂}}\n{{对话|我|……啊，粘住了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|徐庶|唔！甩不开了！|头像=离魂徐庶-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|华佗|劈开就行了吧？|头像=离魂华佗-魂魂}}\n{{对话|我|唔唔？唔唔唔不行！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张仲景|（敲敲）（拍拍）|头像=离魂张仲景-魂魂}}\n{{对话|张仲景|敲开一个小口放气就行。|头像=离魂张仲景-魂魂}}\n{{对话|浮丘|（啄）}}\n{{对话|徐庶|（漏气飞了出去——）|头像=离魂徐庶-魂魂}}\n{{对话|我|（被吸住一起带了出去——）|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|广——唔噗！|头像=离魂刘辩-魂魂}}\n{{旁白|……}}\n{{旁白|…………}}\n{{对话|徐庶|呜啊！|头像=离魂徐庶-魂魂}}\n{{对话|我|唔！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|噗叽！|头像=离魂刘辩-魂魂}}\n{{对话|徐庶|好晕……咦？辩儿？是辩儿吗？|头像=离魂徐庶-魂魂}}\n{{对话|徐庶|啊辩儿你长这么圆了！好久不见！两只猫猫头一起抱抱！|头像=离魂徐庶-魂魂}}\n{{对话|我|前辈，话说我们掉进哪里了？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|刘辩|好像是小时候躲猫猫钻进去的史君的炼丹炉！|头像=离魂刘辩-魂魂}}\n{{对话|徐庶|啊哈哈，怎么会那么巧……|头像=离魂徐庶-魂魂}}\n{{对话|史子眇|呼……今天的材料都准备好了。那么就……点火！|头像=离魂史子眇-魂魂}}\n{{对话-尾}}\n</div>\n</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>"
+}

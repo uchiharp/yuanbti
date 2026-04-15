@@ -1,0 +1,566 @@
+[
+  {
+    "id": "q_zhanghe_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张郃",
+    "source_story": "独守王府·追杀叛徒",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "广陵王失踪后，张郃独自在乱世中寻找殿下。一路上许多旧人叛变，他顺路处理叛徒——「找到一个，就杀了他全族。」面对这样的乱世和背叛，如果你是他，你会怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先保全自己，暗中收集情报，等殿下消息",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "找到叛徒就杀了，但不株连家人",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "叛徒害了多少人，就让他们付出多少代价",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃的选择：找到一个，就杀了他全族。不问缘由，杀了就是杀了。"
+  },
+  {
+    "id": "q_zhanghe_02",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张郃",
+    "source_story": "白鼬之死",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「白鼬的寿命……我没有办法……对不起……殿下——」张郃养的白鼬快要死了，他在殿下面前第一次如此崩溃。面对自己最珍爱的生命即将消逝，你的反应最接近哪种？",
+    "options": [
+      {
+        "label": "A",
+        "text": "难过归难过，但它终究只是一只兽，我会平静接受",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "我会想尽一切办法救它，哪怕只是多陪它几天",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "我承受不住……它也许只剩下我了，我不能失去它",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃的选择：白鼬也许只剩下我了。他崩溃得无法自持。"
+  },
+  {
+    "id": "q_zhanghe_03",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张郃",
+    "source_story": "殿下坠河",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「不行！快回来！——殿下！他冲进水里了！」广陵王坠入河中，张郃毫不犹豫地跟着跳了下去。如果你看到在乎的人冲向危险，你的第一反应是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先观察情况，找到安全的方法再行动",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "跟上去，保持距离，随时准备接应",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "来不及想了，他去了哪里我就去哪里",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃的选择：毫不犹豫冲入水中，完全没有考虑自己的安危。"
+  },
+  {
+    "id": "q_zhanghe_04",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张郃",
+    "source_story": "王府花园",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "张郃在王府种花种菜，「只要能在王府种种花，心里就很安定了。」你自己的「安定感」来自哪里？",
+    "options": [
+      {
+        "label": "A",
+        "text": "安定感来自外界的认可和成就",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "安定感来自规律的日常和可控的节奏",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "安定感只来自一个特定的人或地方",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃的安定感只来自殿下给他的那块地。"
+  },
+  {
+    "id": "q_zhanghe_05",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "张郃",
+    "source_story": "独守王府",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「殿下，需要杀了他吗？」——这是张郃最常问的问题。他不思考该不该杀，只问要不要杀。面对一个可疑的、可能威胁殿下安全的人，你的态度是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先调查清楚，确认有威胁再处理",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "控制住他，交给殿下定夺",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "宁可错杀不可放过，殿下的安全",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃的默认选项是灭口。「很可疑啊，还是处理掉吧。」"
+  },
+  {
+    "id": "q_zhanghe_06",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张郃",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个死士出身的少年，被义父以一百三十钱买下，是十人中最末的。「义父买下我们的时候，我只值一百三十钱，半卖半送的。」如果你是他，面对自己被明码标价的过去，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "过去已经过去了，现在要用自己的双手挣出价值",
+        "scores": {
+          "S3": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "一百三十钱就是一百三十钱，我大概就值这么多吧",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "他们用钱衡量我，但我的忠诚和命，不是钱能买到的",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自张郃的华胥死士身世。一百三十钱的标价，是他一辈子无法摆脱的自我认知。"
+  },
+  {
+    "id": "q_zhanghe_07",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张郃",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "有人对你说：「赶得上，也没有关系。赶不上，也没有关系。」这是他在等待一个可能永远不会回来的人时说的话。你觉得自己最难开口说的一句话是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我需要你。」——承认依赖",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「没关系。」——用平静掩盖在意",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「我一直在等你。」——坦白等待的重量",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "张郃的「赶不上，也没有关系」——他不觉得自己有资格要求任何人等他。"
+  },
+  {
+    "id": "q_zhanghe_08",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张郃",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "一个人从不谋划，所有行动只基于一个原则：「只要是那个人的命令，我都可以去做。」如果你是那个「被服从」的人，面对这样的忠诚，你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "感激这份信任，但也会引导他学会独立判断",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "担心他——没有自己判断力的人容易被利用",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "这是最纯粹的忠诚，我只需要确保自己不下错命令",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃对广陵王的服从是绝对的。他不是没有脑子，而是选择不思考。"
+  },
+  {
+    "id": "q_zhanghe_09",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "张郃",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「殿下先走吧。我很快会跟上的。」一个人永远走在另一个人身后，从不要求对方等自己。你对这种「永远在身后」的态度怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "这太卑微了，人应该有自己的追求",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "有些人注定是追随者，他们只在追随中找到意义",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "这不是卑微，这是他唯一懂得的爱的方式",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃永远是殿下身后的那一个。他从不要求等待。"
+  },
+  {
+    "id": "q_zhanghe_10",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「可能在这个世上，自己和花草的地位没有差别吧。」以下哪种说法最接近你对自己价值的认知？",
+    "options": [
+      {
+        "label": "A",
+        "text": "我的价值由我创造，不比别人高也不比别人低",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "有些时候确实觉得自己微不足道，像是随时可以被替代的",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "无论别人怎么看我，只要有一个地方需要我，我就是有价值的",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃的自我认知来自种花——「只要能在王府种种花，心里就很安定了。」"
+  },
+  {
+    "id": "q_zhanghe_11",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「杀都杀了，有什么好多问的？问了，难道就不杀了？」面对已经做出的决定，你更倾向于？",
+    "options": [
+      {
+        "label": "A",
+        "text": "做了就做了，后悔没有意义，往前看",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "偶尔会反思，但不会改变已经发生的事",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "每一件事都值得复盘，从中学习",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "这句话来自张郃。他的行动从不回头——不是因为无情，是因为回头会碎。"
+  },
+  {
+    "id": "q_zhanghe_12",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「食堂的食案边有人。我想等他们吃完再过去……」这种在日常生活中极度卑微的自我退让，你怎么看？",
+    "options": [
+      {
+        "label": "A",
+        "text": "尊重他人是礼貌，等一等没什么",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "可以等，但也要学会表达自己的需求",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "把自己看得太低了，长期这样会失去自我",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃的卑微不是客气，是他真心觉得自己不配和别人一起吃饭。"
+  },
+  {
+    "id": "q_zhanghe_13",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼接到密报：广陵王所在的城池即将被围攻，但你还有三天路程才能赶到。作为密探，你会怎么做？",
+    "options": [
+      {
+        "label": "A",
+        "text": "加快速度，同时沿途联络其他密探增援",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "先稳住心神，按计划行军，贸然赶路容易出岔子",
+        "scores": {
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不管了，跑过去，就算是死也要死在殿下前面",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃大概会选C——他从东海追到灌南，从不考虑距离和危险。"
+  },
+  {
+    "id": "q_zhanghe_14",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "绣衣楼年度考核，需要密探互相评价。你对身边那位沉默寡言、从不邀功的同伴，会写下什么评语？",
+    "options": [
+      {
+        "label": "A",
+        "text": "沉默可靠，执行力强，建议多表达自己的想法",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "此人存在感太低，是否适合密探工作需要重新评估",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "最好的密探是不需要被看到的。他做到了。",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张郃就是那种「不需要被看到」的密探。他的存在感，低到让人心疼。"
+  },
+  {
+    "id": "q_zhanghe_15",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「对不起……真的……什么都……给不了……」",
+        "scores": {
+          "S2": 1,
+          "S8": 4
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「赶得上，也没有关系。赶不上，也没有关系。」",
+        "scores": {
+          "S2": 2,
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "两句都来自张郃。A是面对无能为力时的崩溃，B是等待中伪装的平静。"
+  }
+]

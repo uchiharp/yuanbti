@@ -1,0 +1,782 @@
+[
+  {
+    "id": "张邈_sweet_3",
+    "type": "sweet",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "张邈",
+    "text": "张邈刚对你说完「我对你的过往没兴趣」，停了一拍，又补了句「但我还是说给你听了，知道为什么吗」。空气突然安静。",
+    "options": [
+      {
+        "label": "A",
+        "text": "轻声说「因为你想让我知道你信任我」",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接接住对方的真心→S4:5"
+      },
+      {
+        "label": "B",
+        "text": "装没听懂，岔开话题",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避对方卸下面具的时刻→S4:1"
+      },
+      {
+        "label": "C",
+        "text": "凑到他耳边说那你告诉我是因为在乎我吧",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "用暧昧的方式戳穿他的口是心非→S4:3"
+      }
+    ],
+    "reveal": "张邈刚对你说完「我对你的过往没兴趣」，停了一拍，又补了句「但..."
+  },
+  {
+    "id": "张邈_funny_2",
+    "type": "funny",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "张邈",
+    "text": "张邈和阿超合伙给你做了个面具。他递过来的时候一脸得意：「世上最——丑的面具」。面具确实丑得令人发指。",
+    "options": [
+      {
+        "label": "A",
+        "text": "礼貌收下，默默塞进柜子最底层",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "给对方面子不戳破→S7:1"
+      },
+      {
+        "label": "B",
+        "text": "立刻给他也戴上「绝配！天生一对的丑！」",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "当场反击绝不含糊→S7:5"
+      },
+      {
+        "label": "C",
+        "text": "当面戴上，对着铜镜假装审视「嗯…别有韵味」",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "用反话化解尴尬→S7:3"
+      }
+    ],
+    "reveal": "张邈和阿超合伙给你做了个面具。他递过来的时候一脸得意：「世上..."
+  },
+  {
+    "id": "张邈_funny_3",
+    "type": "funny",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "张邈",
+    "text": "张邈喝醉了酒，开始吟「道可道，无常事，东流水，及时行乐」。你试图扶他回去，他一个踉跄往你身上倒。",
+    "options": [
+      {
+        "label": "A",
+        "text": "接住他，趁机问几个清醒时不敢问的问题",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "借机行动但不算激进→S5:3"
+      },
+      {
+        "label": "B",
+        "text": "赶紧闪开让他倒在席子上，盖好被子就走",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "快速处理完就离开→S5:1"
+      },
+      {
+        "label": "C",
+        "text": "顺势接住他，说那你今晚就靠着我吧，别动了",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动接纳他的依赖，不推开→S5:5"
+      }
+    ],
+    "reveal": "朝歌之战中张邈醉酒吟诗，「来了来了，喝了点酒，开始道可道无常事……」"
+  },
+  {
+    "id": "张邈_angst_1",
+    "type": "angst",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "张邈",
+    "text": "张邈冷冷地说：“这样的东西，都只是上位者为了自己的目的才创造出来。”你看着他的眼睛，知道他说的不只是眼前的事，还有他自己作为上位者的全部过往。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「也许吧，但至少此刻是真的」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "承认残酷但守住当下→S6:3"
+      },
+      {
+        "label": "B",
+        "text": "沉默，不知道该说什么",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "没有反驳也没有动摇底线→S6:1"
+      },
+      {
+        "label": "C",
+        "text": "握住他手腕「你明明不是真信这些。绒绒村你也没有砸碎」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "直面戳穿对方伪装的底线→S6:5"
+      }
+    ],
+    "reveal": "…这样的东西，都只是上位者为了自己的目的才创造出来」。你看着..."
+  },
+  {
+    "id": "张邈_angst_2",
+    "type": "angst",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "张邈",
+    "text": "朝歌之战中，张邈冷静地安排身后事，对你说：“有朝一日我会不在……你应对袁基，要万分小心，不能掺杂一丝动摇。”他不是在告别，是在做最坏的打算。",
+    "options": [
+      {
+        "label": "A",
+        "text": "别过脸去「……别说了」",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "无法承受但不愿直说→S2:3"
+      },
+      {
+        "label": "B",
+        "text": "点头说「我知道了」，手攥紧了袖子",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "压抑情感理性回应→S2:1"
+      },
+      {
+        "label": "C",
+        "text": "抓住他的手「你敢不在试试」",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "用激烈方式表达不舍→S2:5"
+      }
+    ],
+    "reveal": "朝歌之战中张邈冷静安排身后事，「有朝一日我会不在……你应对袁基要万分小心」"
+  },
+  {
+    "id": "张邈_scheme_1",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "张邈",
+    "text": "张邈告诉你「我是很——谨慎地筛选，最后才决定选择由殿下来到这里的」。他算计了你的每一步路。",
+    "options": [
+      {
+        "label": "A",
+        "text": "冷笑「所以我是你棋盘上的一步？」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "质问但仍在对方节奏中→S1:3"
+      },
+      {
+        "label": "B",
+        "text": "对上他的目光「既然如此，你选我，是选对了」",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接接招并反客为主→S1:5"
+      },
+      {
+        "label": "C",
+        "text": "愣住，有点受伤但说不出话",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "被算计后无应对→S1:1"
+      }
+    ],
+    "reveal": "张邈告诉你「我是很——谨慎地筛选，最后才决定选择由殿下来到这..."
+  },
+  {
+    "id": "张邈_scheme_3",
+    "type": "scheme",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "张邈",
+    "text": "张邈平静地告诉你：「想救人的，往往一个都救不了。杀人如麻的，往往能震慑所有人的生死。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我知道。所以我才需要你这样的人在身边」",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "坦然接受残酷的实用主义→S6:5"
+      },
+      {
+        "label": "B",
+        "text": "「所以你选了哪边？」",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "想弄清对方立场再决定→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "「那也得先试着救」",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "不计代价守住善良底线→S6:1"
+      }
+    ],
+    "reveal": "七载重逢中张邈说「想救人的往往一个都救不了，杀人如麻的往往能震慑所有人」"
+  },
+  {
+    "id": "张邈_scheme_4",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "张邈",
+    "text": "张邈说「除非迫不得已，不然里八华是三子局下策中的下策」。你意识到他连最坏的退路都算好了。",
+    "options": [
+      {
+        "label": "A",
+        "text": "追问「那中策呢？上策呢？」",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "了解全局但不亲自下场→S1:3"
+      },
+      {
+        "label": "B",
+        "text": "不追问，相信他自有安排",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "全盘信任不自行谋划→S1:1"
+      },
+      {
+        "label": "C",
+        "text": "自己推演一遍他的三子局，看有没有他遗漏的",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "独立验证对方的谋略→S1:5"
+      }
+    ],
+    "reveal": "朝歌之战中张邈说「里八华是三子局下策中的下策」，他对每条路都有评估。"
+  },
+  {
+    "id": "张邈_daily_1",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "张邈",
+    "text": "张邈半夜偷偷啃完木雕，又在你回廊上挖了个坑。「这样这家伙明天出门就会摔一大跤，吱吱！」",
+    "options": [
+      {
+        "label": "A",
+        "text": "把坑挖深一倍，再在旁边挖一个",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "以其人之道还治其身→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "假装不知道，明天他摔了再说",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "放任不管不作为→S3:1"
+      },
+      {
+        "label": "C",
+        "text": "悄悄把坑填回去，在他门口放个提示条",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "务实解决但不正面冲突→S3:3"
+      }
+    ],
+    "reveal": "张邈半夜偷偷啃完木雕，又在你回廊上挖了个坑。「这样这家伙明天..."
+  },
+  {
+    "id": "张邈_daily_3",
+    "type": "daily",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "张邈",
+    "text": "张邈让你去续他的三子之局，「去孟德那」。但他没告诉你棋盘上还剩几步。",
+    "options": [
+      {
+        "label": "A",
+        "text": "自己先去见孟德摸清底牌，再回来告诉张邈你的判断",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "自主行动后再汇报→S5:5"
+      },
+      {
+        "label": "B",
+        "text": "照做，不问为什么",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "被动执行不追问→S5:1"
+      },
+      {
+        "label": "C",
+        "text": "出发前多问一句「到了那边我该说什么」",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "执行前确认关键信息→S5:3"
+      }
+    ],
+    "reveal": "七载重逢中张邈说「去续我的三子之局，去孟德那」，他的棋局从不只有一盘。"
+  },
+  {
+    "id": "张邈_classic_1",
+    "type": "classic",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "张邈",
+    "text": "张邈说「我是天下人的谋士啊。总有吃子、总有弃子」。你看见他眼底一闪而过的疲惫。",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接反驳「你不是天下人的谋士。你是张邈」",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "当场撕掉对方的人设→S4:5"
+      },
+      {
+        "label": "B",
+        "text": "等他说完，轻轻说「但你不只是谋士」",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "温和地指出面具之下的真实→S4:3"
+      },
+      {
+        "label": "C",
+        "text": "不戳破，安静听他把话说完",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "尊重对方的面具不拆穿→S4:1"
+      }
+    ],
+    "reveal": "七载重逢中张邈说「我是天下人的谋士啊。总有吃子、总有弃子」"
+  },
+  {
+    "id": "zhangmiao_daily_5",
+    "type": "daily",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "张邈",
+    "text": "张邈看到你把旧衣服拿去当铺换了钱，感慨说「清流也要吃饭的」，然后问你换了多少。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说钱嘛花完了再赚，带他去吃碗面",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "不在乎钱，先享受→S3:1"
+      },
+      {
+        "label": "B",
+        "text": "说够花一阵了，然后把话题岔开",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "有预算意识但不纠结→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "如实说了数目，问他有没有什么省钱的好办法",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "精打细算，务实→S3:5"
+      }
+    ],
+    "reveal": "张邈自诩清流但也要吃饭，务实和面子之间的矛盾很有趣。"
+  },
+  {
+    "id": "zhangmiao_补1",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "zhangmiao",
+    "text": "张邈轻咳几声，摆摆手笑道：「杏林君董奉时常会来。想不到吧，我人缘好，祸害遗千年。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "能让人惦记着来看，说明平日待人不差",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "从人缘好这个角度温和地回应，体现了对张邈为人的肯定"
+      },
+      {
+        "label": "B",
+        "text": "人缘好归好，身子还是要顾着点",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "E",
+        "reasoning": "转移话题到身体，虽有关心但回避了对张邈性格的正面回应"
+      },
+      {
+        "label": "C",
+        "text": "祸害遗千年这话倒是说得坦诚",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "T",
+        "reasoning": "用调侃回应调侃，轻松但不失分寸"
+      }
+    ],
+    "reveal": "张邈用自嘲掩饰病中的脆弱，温柔地接住这份坦然，便是对他最大的安慰。"
+  },
+  {
+    "id": "zhangmiao_补2",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "zhangmiao",
+    "text": "张邈望着窗外，声音低了几分：「大概是头上受了伤，言语混乱，勉强说完后就昏睡了下去……还好，静养数日，应该能缓过来。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "那就好，先别操心旁的事了",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "语气平和，传达了让他安心休养的意愿"
+      },
+      {
+        "label": "B",
+        "text": "既然能缓过来，那便安心歇着，有什么需要尽管说",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "既确认了好转的消息，又主动提供帮助，温柔且有担当"
+      },
+      {
+        "label": "C",
+        "text": "受伤的事还是交代清楚比较好",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "T",
+        "reasoning": "急于追问细节，在对方刚说完伤情时显得不够体贴"
+      }
+    ],
+    "reveal": "张邈汇报伤情时语气克制，真正的温柔不是追问，而是让他知道有人在旁边托底。"
+  },
+  {
+    "id": "zhangmiao_补3",
+    "type": "daily",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "zhangmiao",
+    "text": "张邈压低声音，目光灼灼：「今夜，大事多半有落地之音。做个交易如何？放弃皇子辩，停止为皇后与何进传递消息。作为报酬，袁氏扶持为徐州牧。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "袁氏的条件倒是有吸引力，只是这筹码够不够分量",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "N",
+        "reasoning": "对条件表示兴趣，但保持审慎，未完全暴露立场"
+      },
+      {
+        "label": "B",
+        "text": "徐州牧的位置确实诱人，但背后的代价恐怕不止这些",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "N",
+        "reasoning": "洞察到交易背后的隐含成本，展现了政治上的清醒与手腕"
+      },
+      {
+        "label": "C",
+        "text": "这种事不该拿来谈交易",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接拒绝谈判，表明在权力博弈面前倾向于道德立场"
+      }
+    ],
+    "reveal": "张邈抛出政治交易试探底线，能在利益面前看清代价的人，才配握住权力的缰绳。"
+  },
+  {
+    "id": "zhangmiao_补4",
+    "type": "daily",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "zhangmiao",
+    "text": "张邈冷冷一笑：「你的盐凭和铁凭快要到期了吧……今年冬？失去垄断盐铁的权力，就不再是徐州的'盐王'了。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "消息倒是灵通，既然摸清了底细，想必也备好了后手",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "N",
+        "reasoning": "承认对方掌握情报，同时暗示自己也有准备，暗中较劲"
+      },
+      {
+        "label": "B",
+        "text": "凭据到期不过是时间问题，但徐州的根基不是一张纸能定的",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "N",
+        "reasoning": "轻描淡写化解威胁，展现了对权力的深层理解——真正的根基不在纸面上"
+      },
+      {
+        "label": "C",
+        "text": "到期的事自有打算，多谢关心",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "礼貌回应但回避正面交锋，在权力博弈中显得被动"
+      }
+    ],
+    "reveal": "张邈精准地掐住命脉施压，权力的世界里，示弱就是交出底牌。"
+  },
+  {
+    "id": "zhangmiao_补5",
+    "type": "daily",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "zhangmiao",
+    "text": "张邈指了指地图：「张让应该会前往濯龙池。若往南宫，就要经过永乐宫。保险起见，濯龙池方向风险最小。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "按最稳妥的路线走，不出错就是最大的赢面",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "认同规避风险的策略，体现了对秩序和稳妥的偏好"
+      },
+      {
+        "label": "B",
+        "text": "风险最小的路线未必是最好的路线",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "C",
+        "reasoning": "暗示愿意冒险，对既定方案持质疑态度"
+      },
+      {
+        "label": "C",
+        "text": "濯龙池确实更安全，但也要留人盯着南宫方向",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "在稳妥基础上提出补充方案，兼顾秩序与周全"
+      }
+    ],
+    "reveal": "张邈的谋略以稳为主，在动荡的局势中，选择风险最小的路径本身就是一种秩序感。"
+  },
+  {
+    "id": "zhangmiao_补6",
+    "type": "daily",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "zhangmiao",
+    "text": "张邈翻了翻文书，眉头微蹙：「那先秦的龙井还没盖印。但只要陈留王登基，这份文书的内容会被立刻兑现。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "既然程序未完，就等名正言顺再行事",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "坚持走完正式流程，体现了对秩序和程序的严格尊重"
+      },
+      {
+        "label": "B",
+        "text": "内容既然已定，早盖晚盖又有何妨",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "C",
+        "reasoning": "认为程序只是形式，实质结果更重要，轻视规则"
+      },
+      {
+        "label": "C",
+        "text": "先把文书内容确认清楚，盖印的事走完流程也不急",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "务实且守规矩，先确认实质内容再推进程序"
+      }
+    ],
+    "reveal": "张邈在意文书的程序完整性，秩序不是束缚，而是让一切名正言顺的基石。"
+  },
+  {
+    "id": "zhangmiao_sup2_01",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "张邈",
+    "text": "张邈端着棋盘看着你：「你该开杀了。时局到了，黑子应落。去续我的三子之局，去孟德那。」他似乎把一盘更大的棋交到了你手上。面对这个「开杀」的暗示，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "问清楚具体要杀谁、怎么杀，按他说的执行",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接接受指示执行，不加自己的思考和判断→S1:1"
+      },
+      {
+        "label": "B",
+        "text": "接过棋盘说知道了，但先自己想想这步棋落在哪里最合适",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "接受布局方向但保留自己的执行策略，中等城府→S1:3"
+      },
+      {
+        "label": "C",
+        "text": "反问他这一步之后他打算怎么收场，看他到底藏了几层",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "不急着接棋盘而是追问后续布局，深挖他的算计→S1:5"
+      }
+    ],
+    "reveal": "张邈说「支撑仁德和爱人的，永远都是杀人的力量」，他自己下的是道德的棋，让你下的却是刀兵的棋。"
+  },
+  {
+    "id": "zhangmiao_sup2_02",
+    "type": "daily",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "张邈",
+    "text": "张邈喝了口茶笑着说：「盛世就是，没有刀兵，人人吃饱饭了没事干，因为一些鸡毛蒜皮，扯一整天的头冠。」他眼角的笑纹很深。你看着这个算尽天下的谋士突然像个普通老头一样碎碎念，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "也跟着笑说那你现在的头冠就挺鸡毛蒜皮的",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "顺着话题调侃他的头冠，停留在表面打趣→S8:1"
+      },
+      {
+        "label": "B",
+        "text": "给他续杯茶说等那天来了我陪你扯一天头冠",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "用续茶的动作表达陪伴，回应他描述的盛世愿景→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "认真地说那就先帮你把这个头冠戴好，然后我们一起等到那天",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "亲手帮他整理衣冠，把他描述的盛世当成两人共同的约定→S8:5"
+      }
+    ],
+    "reveal": "张邈的「盛世」不是宏图霸业，是人人吃饱了闲得无聊吵头冠。一个谋士最后的浪漫，不过是天下人能活得无聊一点。"
+  }
+]

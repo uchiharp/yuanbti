@@ -1,0 +1,782 @@
+[
+  {
+    "id": "achan_sweet_01",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉站在你身后不说话，手放在刀柄上。你回头看她，她微微偏过头，说「楼主」。声音比平时轻。",
+    "options": [
+      {
+        "label": "A",
+        "text": "伸手拉她到身边坐下",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接用行动表达亲近→S2:5"
+      },
+      {
+        "label": "B",
+        "text": "嗯一声就转回去",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "不回应她的情感信号，回避互动→S2:1"
+      },
+      {
+        "label": "C",
+        "text": "问她站多久了",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "用简单问题表达在意，间接回应→S2:3"
+      }
+    ],
+    "reveal": "七载相逢中阿蝉默默跟随，话少但始终在你身边。"
+  },
+  {
+    "id": "achan_sweet_03",
+    "type": "sweet",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「我习惯不留活口的」，语气平静。但你注意到她说这话时手在发抖。",
+    "options": [
+      {
+        "label": "A",
+        "text": "握住她发抖的手，什么都不说",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "用身体接触直接传递支持→S2:5"
+      },
+      {
+        "label": "B",
+        "text": "不追问，转移话题",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避她的脆弱面→S2:1"
+      },
+      {
+        "label": "C",
+        "text": "轻声说辛苦了",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "简洁地表达理解→S2:3"
+      }
+    ],
+    "reveal": "七载相逢中阿蝉说「我习惯不留活口的」，杀伐果断背后的创伤令人心疼。"
+  },
+  {
+    "id": "achan_sweet_05",
+    "type": "sweet",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉面无表情地说「他护腕下藏着短刀。我听见刀鞘的声音了，应付得了。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "说你能听到刀鞘声，是不是一直在替我警戒",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "点破她面具下默默守护的事实→S4:5"
+      },
+      {
+        "label": "B",
+        "text": "点头，相信她的判断",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "接受她的职业面具，不深究→S4:1"
+      },
+      {
+        "label": "C",
+        "text": "多看她一眼，确认她没受伤",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "注意到面具但只做简单确认→S4:3"
+      }
+    ],
+    "reveal": "魂魂版密探剧情中阿蝉凭借听力识破暗藏短刀。"
+  },
+  {
+    "id": "achan_funny_02",
+    "type": "funny",
+    "dimension": [
+      "S5"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉看着被吹飞的傅融说「打断一下，傅副官还在飞」。她的语气像在报告天气。",
+    "options": [
+      {
+        "label": "A",
+        "text": "愣住不动",
+        "scores": {
+          "S5": 1
+        },
+        "tendency": "L",
+        "reasoning": "被局面震住→S5:1"
+      },
+      {
+        "label": "B",
+        "text": "直接跑过去准备接人",
+        "scores": {
+          "S5": 5
+        },
+        "tendency": "H",
+        "reasoning": "立刻行动，不犹豫→S5:5"
+      },
+      {
+        "label": "C",
+        "text": "问阿蝉能不能去接住他",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M",
+        "reasoning": "有想法但依赖别人执行→S5:3"
+      }
+    ],
+    "reveal": "傅副官休沐日中阿蝉冷静报告「傅副官还在飞」。"
+  },
+  {
+    "id": "achan_funny_03",
+    "type": "funny",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「看不懂，为什么卖那么贵？」然后又说「虽然不明白，但是楼主可能需要，那，我要那幅。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "问她真的不需要了解是什么就买？",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "提醒她理性判断→S3:3"
+      },
+      {
+        "label": "B",
+        "text": "说你都不看就买，以后被人坑了怎么办",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "帮她建立务实思维→S3:5"
+      },
+      {
+        "label": "C",
+        "text": "说不用了别乱花钱",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "否定她的务实付出→S3:1"
+      }
+    ],
+    "reveal": "夜晈既明中阿蝉看不懂画却要买。"
+  },
+  {
+    "id": "achan_funny_05",
+    "type": "funny",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "阿蝉",
+    "text": "南有乔木中，阿蝉面无表情地冷不丁说「腿折断的样子是这样的」。周围的人都安静了。",
+    "options": [
+      {
+        "label": "A",
+        "text": "尴尬地转移话题",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避她的直白→S6:1"
+      },
+      {
+        "label": "B",
+        "text": "问是谁教你这样描述的",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "说这个描述方式太绝了，回头教教我→S6:3"
+      },
+      {
+        "label": "C",
+        "text": "说阿蝉你能不能挑个场合再说",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "温和地指出不合适→S6:3"
+      }
+    ],
+    "reveal": "南有乔木中阿蝉面无表情地说「腿折断的样子是这样的」。"
+  },
+  {
+    "id": "achan_angst_01",
+    "type": "angst",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉身负重伤，南有乔木中她握着刀，声音很轻地说「楼主保重」。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说你不会不行的，我来想办法",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "坚定但用行动回避直面→S6:3"
+      },
+      {
+        "label": "B",
+        "text": "说不许说这种话",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "情感化反应但未触及核心→S6:1"
+      },
+      {
+        "label": "C",
+        "text": "抓住她的手说，你不会死，我不会让你死",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "以绝对承诺划定底线→S6:5"
+      }
+    ],
+    "reveal": "南有乔木中阿蝉身负重伤。"
+  },
+  {
+    "id": "achan_angst_02",
+    "type": "angst",
+    "dimension": [
+      "S2"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「我找过来了。把闹事的人杀了，带着其他人，去他们说的地方等你。」她没有问你要不要她来。",
+    "options": [
+      {
+        "label": "A",
+        "text": "问她杀了多少人",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L",
+        "reasoning": "关注事实而非情感→S2:1"
+      },
+      {
+        "label": "B",
+        "text": "说你找了我多久",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H",
+        "reasoning": "直接触碰她行动背后的情感深度→S2:5"
+      },
+      {
+        "label": "C",
+        "text": "说你来了就好",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M",
+        "reasoning": "简短回应她的守护→S2:3"
+      }
+    ],
+    "reveal": "七载相逢中阿蝉独自寻找广陵王，只说「我找过来了」。"
+  },
+  {
+    "id": "achan_angst_03",
+    "type": "angst",
+    "dimension": [
+      "S4"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「他看我的眼神让我不舒服，我就把他全家杀了，去了下一家。」她的表情没有波动。",
+    "options": [
+      {
+        "label": "A",
+        "text": "停下脚步看着她，问那些年你怎么过的",
+        "scores": {
+          "S4": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动穿透她冷漠的面具→S4:5"
+      },
+      {
+        "label": "B",
+        "text": "说辛苦了",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M",
+        "reasoning": "简单回应但不深入面具→S4:3"
+      },
+      {
+        "label": "C",
+        "text": "不回应，继续赶路",
+        "scores": {
+          "S4": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避她面具下的伤痕→S4:1"
+      }
+    ],
+    "reveal": "七载相逢中阿蝉杀死羞辱她的人，语气像在说天气。"
+  },
+  {
+    "id": "achan_angst_05",
+    "type": "angst",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「左臂尺骨断了，右肋断了两根。」她在报告自己的伤情，像在汇报任务。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说你每次都这样轻描淡写地说重伤",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "正面挑战她的报数式自述→S7:5"
+      },
+      {
+        "label": "B",
+        "text": "说你知道就好，先治疗",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "理性回应但未接住锋芒→S7:3"
+      },
+      {
+        "label": "C",
+        "text": "让她先别说了",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避她的直白→S7:1"
+      }
+    ],
+    "reveal": "珠履三千中阿蝉冷静报告自己骨折情况。"
+  },
+  {
+    "id": "achan_scheme_01",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "阿蝉",
+    "text": "谍影中，阿蝉汇报秘密任务的保密级别：「这件事只有我与两名蛾使知晓，四部首座都不知道。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "说四部首座知道了会怎样，你考虑过吗",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动思考权力结构影响→S1:5"
+      },
+      {
+        "label": "B",
+        "text": "问她执行过程中有没有暴露风险",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "关注执行细节→S1:3"
+      },
+      {
+        "label": "C",
+        "text": "问她为什么不说一声",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "关注感受而非权谋→S1:1"
+      }
+    ],
+    "reveal": "谍影中阿蝉严格执行秘密任务。"
+  },
+  {
+    "id": "achan_scheme_03",
+    "type": "scheme",
+    "dimension": [
+      "S6"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「就从我开始。在雀部确认我的身份前，会有鸢使来代替我的事务。」她主动接受调查。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说绣衣楼的规矩就是规矩，谁都不能例外",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H",
+        "reasoning": "坚守原则不因亲近而动摇→S6:5"
+      },
+      {
+        "label": "B",
+        "text": "说她不用查，你信她",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L",
+        "reasoning": "情感优先于原则→S6:1"
+      },
+      {
+        "label": "C",
+        "text": "说按规矩来，但别太为难自己",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M",
+        "reasoning": "原则和情感兼顾→S6:3"
+      }
+    ],
+    "reveal": "东郡太守中阿蝉主动接受内部调查。"
+  },
+  {
+    "id": "achan_scheme_04",
+    "type": "scheme",
+    "dimension": [
+      "S3"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「袁氏的人明天中午启程，需要做什么安排吗？」她已经把情报准备好了。",
+    "options": [
+      {
+        "label": "A",
+        "text": "问她袁氏路线和可能的中途变故",
+        "scores": {
+          "S3": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动务实分析→S3:5"
+      },
+      {
+        "label": "B",
+        "text": "说让阿蝉全权安排",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M",
+        "reasoning": "信任她但自己不参与分析→S3:3"
+      },
+      {
+        "label": "C",
+        "text": "说先不急，再等等",
+        "scores": {
+          "S3": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了说先不急，再等等……S3倾向较低→S3:1"
+      }
+    ],
+    "reveal": "谍影中阿蝉提前掌握情报。"
+  },
+  {
+    "id": "achan_scheme_05",
+    "type": "scheme",
+    "dimension": [
+      "S1"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉说「昨日和前日，她传了两次情报回去。」她发现了内部的可疑人员，但没有声张。",
+    "options": [
+      {
+        "label": "A",
+        "text": "问她为什么不直接抓人",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L",
+        "reasoning": "回避了问她为什么不简单……S1倾向较低→S1:1"
+      },
+      {
+        "label": "B",
+        "text": "说放长线，看她传的是什么给谁",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动设计反间策略→S1:5"
+      },
+      {
+        "label": "C",
+        "text": "问她还发现了什么",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M",
+        "reasoning": "收集信息但未主动布局→S1:3"
+      }
+    ],
+    "reveal": "谍影中阿蝉发现内鬼但不声张。"
+  },
+  {
+    "id": "achan_补1",
+    "type": "angst",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "achan",
+    "text": "阿蝉低声说「……我……可能不行了……楼主保重」她的手在发抖。",
+    "options": [
+      {
+        "label": "A",
+        "text": "握住她的手说别胡说你会没事的",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "温柔地给予支持和陪伴→S8:5"
+      },
+      {
+        "label": "B",
+        "text": "说伤还没好别乱动",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "关心但用指令的方式→S8:3"
+      },
+      {
+        "label": "C",
+        "text": "说别说丧气话",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "直接否定不够温柔→S8:1"
+      }
+    ],
+    "reveal": "阿蝉重伤时最放不下的是楼主。"
+  },
+  {
+    "id": "achan_补2",
+    "type": "funny",
+    "dimension": [
+      "S8"
+    ],
+    "source_character": "achan",
+    "text": "阿蝉一脸认真地讨论杀人方案：「殿下，分头行动的话，是从脖子左右砍比较快，还是上下砍比较利落？」她等你给出专业意见。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说左右吧，横刀一抹比较整齐",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M",
+        "reasoning": "认真回答但不觉得这个对话有什么问题→S8:3"
+      },
+      {
+        "label": "B",
+        "text": "说阿蝉你冷静一下我们是在说分头找人不分头砍人",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H",
+        "reasoning": "温柔地把她从歪路上拉回来→S8:5"
+      },
+      {
+        "label": "C",
+        "text": "说上下吧，砍完还能顺便劈柴",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L",
+        "reasoning": "顺着她的歪逻辑继续歪→S8:1"
+      }
+    ],
+    "reveal": "阿蝉是绣衣楼最可靠的人之一，但总等着楼主的确认。"
+  },
+  {
+    "id": "achan_补3",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "achan",
+    "text": "阿蝉说「文远叔刚才回报，说已经联络上了冀县的赵昂」。",
+    "options": [
+      {
+        "label": "C",
+        "text": "说那让赵昂在冀县等时机配合我们",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "主动布局利用关系网→S9:5"
+      },
+      {
+        "label": "A",
+        "text": "说赵昂靠得住吗",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "先评估再决定→S9:3"
+      },
+      {
+        "label": "B",
+        "text": "说联络上了就行以后再说",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "不主动经营权力关系→S9:1"
+      }
+    ],
+    "reveal": "阿蝉在情报网中扮演着联络人的角色。"
+  },
+  {
+    "id": "achan_补4",
+    "type": "daily",
+    "dimension": [
+      "S10"
+    ],
+    "source_character": "achan",
+    "text": "阿蝉说「就在前面！他身形很小，跑得不快，身边只剩下两名佩甲武士护卫！」",
+    "options": [
+      {
+        "label": "A",
+        "text": "说按原计划包围别打草惊蛇",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H",
+        "reasoning": "遵守行动计划→S10:5"
+      },
+      {
+        "label": "B",
+        "text": "说既然只有两个人直接冲",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L",
+        "reasoning": "无视计划冲动行事→S10:1"
+      },
+      {
+        "label": "C",
+        "text": "说先确认身份再动手",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M",
+        "reasoning": "在计划框架内谨慎行事→S10:3"
+      }
+    ],
+    "reveal": "阿蝉追踪目标时冷静而精准。"
+  },
+  {
+    "id": "achan_补5",
+    "type": "classic",
+    "dimension": [
+      "S7"
+    ],
+    "source_character": "阿蝉",
+    "text": "阿蝉和广陵王重逢后，平静地讲起寻找她的经历。有个文官趁她落魄时出言侮辱，说「广陵王不在了，你跟我吧」，还拿她从前陪殿下的事取笑。阿蝉说完杀人全家的经过，顿了一下，说「啊？我习惯不留活口的。」广陵王听完，看着阿蝉。",
+    "options": [
+      {
+        "label": "A",
+        "text": "沉默片刻，伸手帮她把头发拨到耳后，什么都没说",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L",
+        "reasoning": "用温柔动作回应她的坦白，不追问也不评价，锋芒收敛→S7:1"
+      },
+      {
+        "label": "B",
+        "text": "说「以后这种事跟我说，别一个人扛」，把话题从杀人转回她自己身上",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M",
+        "reasoning": "表达关心但有意避开杀戮话题本身，态度温和有分寸→S7:3"
+      },
+      {
+        "label": "C",
+        "text": "直接说「那个文官说错了，我不是不在了，我回来了」，说完拉过她的手",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H",
+        "reasoning": "正面回击那些看低她的人，语气笃定不退让，锋芒外露→S7:5"
+      }
+    ],
+    "reveal": "「啊？我习惯不留活口的。」——阿蝉杀人的理由很简单：有人说广陵王的坏话，还看她眼神不对。她的锋芒从来不是针对自己，而是为了维护她认定的归属。"
+  },
+  {
+    "id": "achan_补6",
+    "type": "scheme",
+    "dimension": [
+      "S9"
+    ],
+    "source_character": "阿蝉",
+    "text": "广陵王和阿蝉分头行动寻找玉玺。两人汇合后，阿蝉犹豫了一下，开口问：「……楼主，那个玉玺真的这么重要吗？我想……我想……」话没说完就停住了，似乎在斟酌措辞。",
+    "options": [
+      {
+        "label": "A",
+        "text": "说「确实重要，有了它名正言顺，各路诸侯才肯听令」，把利害关系讲清楚",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H",
+        "reasoning": "正面强调权力符号的战略价值，理性阐述权力的必要性→S9:5"
+      },
+      {
+        "label": "B",
+        "text": "反问她「你觉得呢」，听她把没说完的话讲完",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M",
+        "reasoning": "没有直接表态权力重要与否，而是把判断权交给对方，态度中立→S9:3"
+      },
+      {
+        "label": "C",
+        "text": "笑着说「一块石头而已，找到了就拿着，找不到也不至于天塌」，把玉玺轻描淡写带过",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L",
+        "reasoning": "主动淡化权力象征的重要性，对权力符号持无所谓的态度→S9:1"
+      }
+    ],
+    "reveal": "「楼主，那个玉玺真的这么重要吗？我想……我想……」——阿蝉是武人出身，比起权力的象征，她更在意的是人和情感本身。玉玺的重量，她未必想扛。"
+  }
+]

@@ -1,0 +1,6154 @@
+{
+  "title": "三千宇宙/活动剧情",
+  "category": "活动剧情",
+  "characters": [
+    "三眼神",
+    "严白虎",
+    "书童",
+    "仆人",
+    "侍卫",
+    "侍女",
+    "军阀乙",
+    "军阀甲",
+    "医师",
+    "华胥杀手",
+    "吕蒙",
+    "城门尉",
+    "天蛾",
+    "女性饥民",
+    "妇人",
+    "孙尚香",
+    "孙权",
+    "孩子",
+    "守卫",
+    "宫女",
+    "将军",
+    "小孩",
+    "山贼头目",
+    "山贼甲",
+    "山越军乙",
+    "山越军甲",
+    "左慈",
+    "师弟",
+    "干吉",
+    "年轻羽人",
+    "年迈羽人",
+    "府兵",
+    "张修",
+    "我",
+    "文丑",
+    "文官",
+    "暴躁船夫",
+    "杀手丙",
+    "杀手乙",
+    "杀手甲",
+    "村民",
+    "梦魇文臣",
+    "江东士兵",
+    "流民",
+    "海鸥",
+    "猎人",
+    "男人",
+    "男孩",
+    "白衣孩童",
+    "白马",
+    "盗墓贼",
+    "礼官",
+    "神像",
+    "绣云鸢乙",
+    "绣云鸢甲",
+    "绣球",
+    "绣球？？？",
+    "绣衣楼密探",
+    "老人",
+    "船夫",
+    "花农乙",
+    "花农甲",
+    "袁氏士兵",
+    "袁氏将士",
+    "袁绍",
+    "许攸",
+    "贾诩",
+    "路人",
+    "郭嘉",
+    "郭解",
+    "里八华密探",
+    "野兽",
+    "阿蝉",
+    "陈宫",
+    "陈登",
+    "雀使",
+    "雀使乙",
+    "雀使甲",
+    "青年灾民",
+    "青衣文士",
+    "颜良",
+    "飞云",
+    "饥民",
+    "高览",
+    "黑山军头目",
+    "黑马",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "咳咳……好大的雾——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣球",
+      "emotion": "呃……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "得把匣子盖起来……唔！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "雾越来越大了，好像有无数只手把我往雾里拖……发生了什么？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……唔……发生了什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "咳！火——四周失火了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "王府起火了！周女官！你有见到王妃和二位小世子吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "咳……咳咳……什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=宫女",
+      "emotion": "殿下被刺客杀害了，四处都起了火，得找到王……啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "你们是什么人？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "哎？我都自报家门好多次了，嗓子都哑了呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "这到底是怎么回事……绣球撞翻了那个匣子，天地一片昏黑……我就到了这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "…………啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "绣球你还好吧？我们得快点逃出去……呃……好……重……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……啾……昏……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没事没事，我在这。别怕，我们一定有办法回去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "王妃！王妃你在哪啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "火太大了，我们得尽快出去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "周女官，王妃和两位世子还在火里啊！一定要找到她……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "不用找了。你们都先走一步吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=文官",
+      "emotion": "咳咳……火太大了……周女官，快跑……救不了了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "不要往那里跑！那里都是杀手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=文官",
+      "emotion": "呃啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥杀手",
+      "text": "头像=黑衣人",
+      "emotion": "呼，这王府里到底有多少只小兔子呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=文官",
+      "emotion": "周女官……周女官……也许……也许女世子……还有救……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=文官",
+      "emotion": "女世子有喘疾……送去让医师们诊治了……和王妃还有世子……不在一起……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……他死了……火里还有孩子吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "绣球再坚持一下，我得去试试看找到那个孩子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "你还好吧，还能动吗？！……你身上的服饰，是绣衣楼的服饰？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣衣楼密探",
+      "text": "头像=绣衣楼密探",
+      "emotion": "……楼主和王妃……请你……找到他们……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣衣楼密探",
+      "text": "头像=绣衣楼密探",
+      "emotion": "里八华……和里八华的死士组织华胥……袭击了王府和绣衣楼……女官，小心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……这里的布局，的确是广陵王府的布局……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "这里还有活口，杀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥杀手",
+      "text": "头像=黑衣人",
+      "emotion": "别让她跑了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "火太大了……眼睛看不清东西了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "火里，好像有人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑衣人",
+      "emotion": "……听好了，你要仔细看着这一切，记住这一切，阿懿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑衣人",
+      "emotion": "这是阿懿你要学的第一课。永远记住你的猎物，跟紧你的猎物。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "他们在那个摇篮前做什么……呃！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "华胥杀手",
+      "text": "头像=黑衣人",
+      "emotion": "逮到你了，小兔子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……哎？我到新的身体里了？刚才的那一切……是梦吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男孩",
+      "text": "头像=少年",
+      "emotion": "姐姐，你看！你看！花全开了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "花农甲",
+      "text": "头像=平民母亲",
+      "emotion": "真是神迹……是仙人显灵了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "花农乙",
+      "text": "头像=摊贩",
+      "emotion": "听说这次广陵世子进京受封广陵王的典礼，仙人也来观礼了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男孩",
+      "text": "头像=少年",
+      "emotion": "姐姐，趁着花全开了，我们多采些花去卖吧！来观礼的人好多，买花人肯定也多！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "看来这次的我是卖花女……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……？啾啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我知道你醒了。别激动别激动……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾不啾！啾啾不啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……为什么这么激动呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "看起来那个匣子有特殊的术法，能让我进入不同人的体内……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾！啾啾！啾别啾——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "照这样说，这简直是绣衣楼的神器啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "跃迁进入不同人的神智里，可以借助他们的身份，查到许多平时查不到的情报！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男孩",
+      "text": "头像=少年",
+      "emotion": "姐姐你怎么在发呆呀？你看，我都采了那么多花了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "再等我一会儿！咦……那人是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "宫中的人，有传递消息回来吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "刚刚收到。我们刺杀广陵世子的计划，怕是要有变动了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "典礼现场有隐鸢阁的人守护，我们很难靠近。除非用些别的手段。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "少主说了，可以闹个大的。这座宫城只是徒有其表，轻轻一推……就碎了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "……嘘。那个女孩，你在那做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "你是在……偷听我们说话吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男孩",
+      "text": "头像=少年",
+      "emotion": "姐姐！出什么事了？我听见这边有动静……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "别过来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "一起死吧！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "呃！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呼……呼……是火药……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾啾啾啾！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "好痛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "哈……哈……你是谁？你不是普通的卖花女……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "……不重要了，去死吧！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "里八华密探",
+      "text": "头像=黑衣人",
+      "emotion": "呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾！啾啾久啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "绣球把他砸晕了……干得好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾糟啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……伤得太重了……意识……快要不清了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "花海……也烧起来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣云鸢甲",
+      "text": "头像=绣云鸢",
+      "emotion": "下蛋啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣云鸢乙",
+      "text": "头像=绣云鸢",
+      "emotion": "整薯条啾啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啾！这次跃迁成绣云鸢了啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "绣球，你听得懂我的话啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "还是听不懂啾……不，不太敢飞起来啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾！啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "急什么啾？你也胖到不会飞啾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣云鸢甲",
+      "text": "头像=绣云鸢",
+      "emotion": "哈哈哈啾，走地鸡啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "飞起来的感觉真好啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾！啾飞啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你在地上等我一会儿啾！我去看城门尉的值更室有没有情报啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啾？城门尉好像在和谁密会啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "城门尉",
+      "text": "头像=西凉军乙",
+      "emotion": "你说的事，我都记下了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "……劳烦你了。你的孩子呢？他出生后，我还没见过他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "城门尉",
+      "text": "头像=西凉军乙",
+      "emotion": "我让妻子带着他回乡了。他不能留在我身边。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "城门尉",
+      "text": "头像=西凉军乙",
+      "emotion": "为了墨者的理念，我已将生死置之度外。若我的牺牲能让假钜子露出破绽，那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "城门尉",
+      "text": "头像=西凉军乙",
+      "emotion": "……那，就请文丑将军赐死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "啾……查探到不少情报……啾？绣球在哪啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……是琴声啾……这么晚了，是谁在弹琴啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "……你来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！！！啾啾啾险啾啾！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！是弓箭啾——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……受，受伤了啾……他……他追过来了……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾！啾啾啾！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……绣球，快跑啾……逃啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾啾啾啾——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "……就要结束了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "快逃啾！傻鸡！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……啾……妖……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=左慈绣球",
+      "emotion": "妖……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "………………！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球？？？",
+      "text": "头像=左慈绣球",
+      "emotion": "——妖啾，开啾！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……他……被逼退了……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "可是……我也……好困……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球？？？",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……啾啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……你是……师尊啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……太好了……知道师尊也在……我就……安心了……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊！水好凉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "咕咕……咕咕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "师尊别动！羽毛湿了！……唔……不行……太重……了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "喂——那边有人溺水了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "尚香！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "算你运气好，遇到好心的香香子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "这只肥鸡好眼熟啊……怎么好像是……好像是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "□的！它啄我！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不要打它！……我认得你是孙家女公子，怎么没和二公子一起出来玩呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "……我独自出来散散心。家里……最近很闷。你是本地人，也听说了吧？我父亲他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "……你在家里，要多陪陪吴夫人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "……你是谁？你说话的语气，不像普通的渔女……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "呼……抱着浮木，总算逃开了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊，你……你别动，浮木承受不了绣球的体重……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……沉啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "羽毛沾水了肯定很沉……咦？水下有什么奇怪的影子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……水下似乎有一片古国的遗迹……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "…………好像有谁在水下……看着我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！危啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "！！！是巨浪——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山越军甲",
+      "text": "头像=山贼甲",
+      "emotion": "喂——那边那个猎户，过来帮个忙？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊……难道是山越军准备抓壮丁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "嗯，我明白！师尊，随时准备泰山压顶！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山越军乙",
+      "text": "头像=山贼乙",
+      "emotion": "愣着干啥呢？过来啊！我们差个群演！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "我才不要做这种奇怪的事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎",
+      "emotion": "再排练一遍，再有慢半拍的，统统发配去刻书组！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "我们举着这个花球就可以了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山越军甲",
+      "text": "头像=山贼甲",
+      "emotion": "对，举高点，听见喊一就举起来，喊二就转身挥舞！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎",
+      "emotion": "这是给我偶像丝人心的应援歌，都喊出气势来！一——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "海棠悬日，天降紫微，广陵夜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "实在……喊不出口……呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "严白虎",
+      "text": "头像=严白虎",
+      "emotion": "你，去刻书！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "眼睛都要瞎了……还要刻多少卷刘备文学啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾歪啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "是有点刻歪了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "歪歪歪啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "！！！是书山歪了——砸下来了啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修",
+      "emotion": "今日的布道到此为止。各位乡亲，回去之前，可要享用一杯桑落酒？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！是他……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修",
+      "emotion": "啊……原来你在这呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "呃呃，动不了……这次到底变成了什么，一动都动不了……好像能勉强左右滚一滚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾滚啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "师尊你能推着我滚吗？太好了，我们快离开这——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "呼啾呼啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "他追上来了！师尊，加油！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "呼……咕噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "啊绣球体型太胖了，跟我一起滚下坡了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修",
+      "emotion": "不要跑……呵呵呵……不要跑——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "没关系！这样越滚越快，一定能摆脱他！……话说回来，我这次到底是什么啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "越滚越快了，师尊！是不是有点不对劲？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾咕噜噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊，一弹一弹的先弹下山了……糟了！！！前面是悬崖！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "为什么停不住——停下、停下啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这次是白色的鹿啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊你看！我这样是不是很漂亮？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "如果被人发现，肯定会被当成祥瑞的吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎人",
+      "text": "头像=屠夫",
+      "emotion": "将军，那头白鹿就在那！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "你们从左边围过去，不要伤它。二公子要将它送给长辈贺寿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏士兵",
+      "text": "头像=袁氏士兵",
+      "emotion": "在那里——呃啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁氏将士",
+      "text": "头像=袁氏士兵统领",
+      "emotion": "我看见了，在那——呃啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-眯眼笑",
+      "emotion": "师尊砸得越来越准了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "原来，逃到了这里啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "……嗯？你是……绣球？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "……啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "真是奇怪，好像和平时的绣球有些不同……而且还瘦了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "这头白鹿，是你的朋友吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "这样啊……你们快走吧，往南边走，别被抓到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "多亏是遇到他……咦，前面那个人影是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "你没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……啊。这次是……一个穿华服的女孩子体内？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "是吓傻了吗？你马车上的马匹突然发狂，把车夫甩下去了，带着你往崖边冲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "幸好遇上我！你家在哪？我送你回去，就是……嘿嘿！记得给我点谢礼啊，我最近缺钱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "吕蒙，她是谁呀？你朋友？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "我这叫山贼金壶洗手，路见不凸，拔刀宰猪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "看她的装扮，好像是张家女。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "吕蒙",
+      "text": "头像=吕蒙",
+      "emotion": "哪个张家？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "前天起兵造反、被我哥灭了的那个张家啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "呃……那我家还有人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=孙尚香",
+      "emotion": "都挂城楼上呢。我母亲替你们几个女眷求情，让你们留了条命。结果你兜兜转转，又回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "呵呵……呵呵呵……孙策……呵呵呵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "母亲，我回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "我的宝贝……我的宝贝回来了。宝贝，嘱咐你去做的事，你做好了吗？为什么带了只肥鸡回来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难过",
+      "emotion": "回来的路上，遇上了一些事故……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "所以你没有去婶婶家取药？！你没有？！！我特意设宴今日请孙策来，你没有把药取来？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "母亲冷静些，我……我取到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "呵呵呵……太好了，有了它，我们就能替全族报仇了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "晚膳都备好了吗？去孙府请他们赴宴的人回来了吗？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "都备好了。请夫人放心，我们都会为主人尽忠的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "好……好……我的宝贝，待那孙策来了，就由你亲自敬酒。一杯酒，送他上路……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "时辰快到了，他们要来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "宝贝，到妈妈身边来……不要怕，妈妈不怕，你也不要怕……我们就要替众人报仇了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！人啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "夫人！来了、来了！他们来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "江东士兵",
+      "text": "头像=水军甲",
+      "emotion": "周中郎将有令，逆贼余孽，除恶务尽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这次是医师啊......我是在给人看病吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "仆人",
+      "text": "头像=侍从",
+      "emotion": "咳，咳咳咳。医师，请专注些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不好意思......请问病人在......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "你是瞎子吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "如何？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "......唔，贾先生的脉象......并无异样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "没你什么事了，退下吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嘘......师尊，小心肚子别压到枯叶......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "呼......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "他一个人坐在轮椅上，在看窗外的月亮......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "你也在看着月亮吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "没关系的......最后只有我，你能选的，到最后就只有我......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "......我累了。每次看月亮的时候，就会短暂地忘掉恨意......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "头像=贾诩",
+      "emotion": "如果不恨，便会疲惫得连抬头的力气都没有......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "传闻是真的，贾诩有一台黄金马车......但是这台马车很旧了，显然不是董卓赐给他的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "所以，董卓身边的神秘军师，或许并不是他......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府兵",
+      "text": "头像=副将",
+      "emotion": "什么人？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊干得好！他被砸晕了，接下来......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "呃......呃？！黄金马车也被撞到了，朝我们压过来了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "一对花，押六。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手乙",
+      "text": "头像=山贼甲",
+      "emotion": "一对王，放炮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手丙",
+      "text": "头像=山贼乙",
+      "emotion": "哈欠……两对王……新人，轮到你了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "一对雷，炸，话说回来，前辈，我们每天都是这么闲的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "哈欠啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "唉，年景不好啊，各地都是旱灾瘟疫洪涝战乱，大家兜兜里都没钱，我们也没业务啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我们不是里八华的死士组织吗？里八华的密探不派活给我们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手乙",
+      "text": "头像=山贼甲",
+      "emotion": "人家那是一线的人上人，自己有自己的小团队，看不上我们这种编外组织的啦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手丙",
+      "text": "头像=山贼乙",
+      "emotion": "说什么“你们华胥的死士总是虚报工时混经费”，总说用不起。唉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "那、那春梦前辈呢？春梦前辈就算是华胥首席，也一样接不到单子啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "人家那是关系户，那能和我们一样——啊！老大，你回来了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "春梦前辈最近的心情不太好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "嘘……老大难得接到一张大单，去刺杀一个大人物。眼看要成功了，突然窜出来一个挡刀的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "是刺杀广陵王吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "……啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手乙",
+      "text": "头像=山贼甲",
+      "emotion": "对对对！就是那个有龙阳之好凶残至极的广陵王！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手丙",
+      "text": "头像=山贼乙",
+      "emotion": "传说他连绣衣楼的狗和鸟都不放过！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "前辈，我们这样没关系吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "没关系，身为杀手，就要胆大心细。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-汗颜",
+      "emotion": "可是我们这样暴露自己的身份，没关系吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "都快饿死了还有什么关系啦呜呜……你好！华胥了解一下，刺杀绑架了解一下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "路人",
+      "text": "头像=摊贩",
+      "emotion": "不用不用谢谢谢谢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "愣着干什么？一起拉业务啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "是……是！你好！！华胥了解一下，刺杀绑架了解一下！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "师尊，你再忍耐一下。我知道难得有打入对方内部的机会，你急着去调查……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "可是前辈们接不到业务，看着可怜兮兮的，我得帮帮他们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手丙",
+      "text": "头像=山贼乙",
+      "emotion": "接到了接到了！我接到业务了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手丙",
+      "text": "头像=山贼乙",
+      "emotion": "虽然只是个小小的造谣任务，但我也和甲方沟通拉齐需求了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手甲",
+      "text": "头像=黑衣人",
+      "emotion": "怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "杀手丙",
+      "text": "头像=山贼乙",
+      "emotion": "沟通了数十版任务计划，最后用了最初那版！去隐鸢阁散布谣言，说张仲景能生兔子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "……啾……啾……啾祥，开啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾……啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "不行……了……爬不动……了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "师弟",
+      "text": "头像=绣衣楼密探",
+      "emotion": "不行啊，师姐，我们和对方约好了，今夜子时……山顶……决战……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "为什么侠客就要……背着一把大刀、一把铁弓，还有一台古琴……爬山啊？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "师弟",
+      "text": "头像=绣衣楼密探",
+      "emotion": "到、到了山顶之后，先抚琴一曲，大侠都是这样的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "呼，终于爬上来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "今夜的决战对象是郭解前辈吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾！啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "……（点头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "……（摇头）"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "……他们就这样交流起来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "我该走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "可是决斗的事就这样算了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "……小白说过会有今天。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "她说，让你往月落之处而去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "今天连月亮都没有，哪来什么月落之处呢……下山吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾啾！啾啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "师尊别叼着我衣袖啊……我爬了一天的山，只想休息了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾啾——啾？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "我的衣袖被咬断了！要摔下山崖了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾啾不啾啾啾！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "师尊，月落之处到底是什么意思？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "日出啾！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-点头",
+      "emotion": "原来如此，月落日出，东边……那直接说东边不就好了吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "咦？那边那个人影是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "殿下，仙者。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你也能认出我们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "眼睛是最容易蒙蔽本质之物。所以，仙者需要借用我的力量，强行驱动一次巫之力？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "山……整座山都在震荡！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "我以为，仙者会像传闻中那样不近人情，将所有拥有巫之血的人带回隐鸢阁囚禁。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "山石在逆飞？不，天地间所有的事物都在逆转！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "保重。我们会在过去重逢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "唔……这里是……哪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！师尊！你变回来了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "嘘。它在。不要吵醒它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "“它”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "它无处不在。吾只能争取这片刻……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "师尊，你眼中在流血……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "记住……不要跟它走……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……不管往前走多久，都是一样纯白的境地……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "可是身体变得好轻，完全不会累……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……是你。你究竟是什么人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "……随我走吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-摇头",
+      "emotion": "师尊说了，我不能跟任何人走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "无数次了，无数次穷尽的一生……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "为何还要回去？回头，只有一条血路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "那为何还要继续往前走？逃离血路者死路一条，回到血海厮杀，才有一线生机。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "我们曾经都这样想。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……“我们”？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……好利的剑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "为你而磨的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……我要死了吗……我好像……看见仙人飞落了……好多仙人飞落在我身边……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "我不会让你死的。那些仙人，只是来分食你的血肉的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……可笑……你明明……杀了我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "杀你，从不是为了杀你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "别再逃了。它们要被引来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "呃——手……手不见了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "它们开始撕咬你了。快到我这来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "妖祥，开阵——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "你现在的力量，根本不足以逼退我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "好了，我要带她走了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "没有人……还能将我们分开了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "掩护右翼的枪兵！快！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "将军，敌方兵力太强了，支援什么时候到啊？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "再坚持一下，颜良将军很快就到了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "颜良到了的话……文丑将军是不是也快到了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "文丑？啊……你是说那个墨家的贼兵头目啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "呼……呼，伤亡惨重啊。你怎么样？颜良。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-无语",
+      "emotion": "我是小兵甲……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "……哦哦，不好意思，我有眼疾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "不知颜良追击他们的结果如何。现在各地都在信奉墨家，对士族喊打喊杀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "各地都在信奉墨家？可墨家不是早就式微了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "头像=高览",
+      "emotion": "啥？你在做梦吧？现在可是天下皆墨啊 ！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "哎呀……原来还有人活着呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "成为这些压迫者的爪牙，就该有觉悟，变成草芥们养料的觉悟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈绣球",
+      "emotion": "啾——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "呃……什么小伎俩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "头像=文丑",
+      "emotion": "你活不了多久了……留你在这里吧。我们要去征讨下一个士族了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "妈妈……我饿……",
+      "emotion": "头像=少年"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "快到了……我们就快到大贤良师的面前了……大贤良师会救我们的……",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "好饿……师尊，你没事吧？",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "小心，被别人看见的话，一定会被吃掉的……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流民",
+      "text": "是干吉神仙！我看见干吉神仙了！干吉在这，大贤良师一定就在附近！",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "这里没有兵乱，你们可以安歇片刻了。",
+      "emotion": "头像=干吉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "求神仙救命！我的孩子快饿死了，求你给他一些吃食……",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "来，吃吧……",
+      "emotion": "头像=干吉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流民",
+      "text": "他把自己的肉喂给孩子了……",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "唔……唔？妈妈，我们在哪？",
+      "emotion": "头像=少年"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "他醒过来了！多谢神仙，多谢神仙！",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "又见到殿下了。",
+      "emotion": "头像=干吉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "既然相遇了，能否带我见见大贤良师？传说中早已病逝的大贤良师……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "他还需要休息……道的涌动，让他太过疲惫了。",
+      "emotion": "头像=干吉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……啾……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "仙者也很疲惫……你们不能久留，由我送你们走吧。",
+      "emotion": "头像=干吉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……四周的景物，再度逆流了……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "……敲敲，敲敲。",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "没反应呢……是我看错了吗……",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "书童",
+      "text": "宫主，今日的讲学要开始了。",
+      "emotion": "头像=少年"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "啊……不急。奉孝今日有被抓去学堂吗？",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "书童",
+      "text": "荀学长一早就把人抓了，绑起来吊在学堂梁上了。",
+      "emotion": "头像=少年"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "啊啊……大腿被勒得没知觉了……求你放我下来吧荀学长，你的心头肉要被勒成猪头肉了……",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "阿和，我平时待你最好，救救你的学长吧……",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "学长，安静。",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "咳。今日的讲学开始了。今日，要讲的是宇与宙。",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "无限的宇与宙，构成了万千世界……",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "也许曾有一个世界，这世上所有的生灵，都能感受到宇宙贴着自己涌动……",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……一天又这样过去了……已经不会害怕了。明明被困在这里，一动都不能动……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "所以，诸位学子心中的迷茫来自何处呢？",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "光阴流逝，学生却不知前路该如何行进，故而迷茫。",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "看日升月落，光阴流逝，本身是不可怕的……",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "你不怕任何东西。人有生灭，你是八百万岁的你……",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "像宇宙一样滚下去，向宇宙一样粉碎……回到水面之下吧。",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "我们不必逃学去壶关了吗？",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "嗯。原本想去阻拦那只恶兽……结果他居然在半途病死了。",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "不过恶兽虽然无法进京，但袁氏凭借何进杀灭了十常侍，彻底控制了朝廷……",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "那学长有何计划？",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "说起来，学长，你发现没有？好像从刚才开始，就有人在盯着我们……",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "肯定是暗恋我的小学妹……啊！是蔡琰学姐！学姐好！放学后要一起喝一杯吗？",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……唔……好烫……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾啾！火啾！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "…………唔！着火了！辟雍学宫着火了？！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈宫",
+      "text": "学宫失火，快抢救典籍！",
+      "emotion": "头像=陈宫"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "阿和！阿和还在火里，没有出来！！！",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呃，好痛……我也要被……烧裂了……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "二公子，吴夫人让我送点心过来，叮嘱你读书不要太累了。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "知道了……等等，你停一下。",
+      "emotion": "头像=孙权"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "你说话的口音，好像带广陵的口音。",
+      "emotion": "头像=孙权"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呃……有吗？",
+      "emotion": "头像=广陵王-挑眉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙权",
+      "text": "……难道，你是广陵那边的间谍？",
+      "emotion": "头像=孙权"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呼！差点被发现了……到处都是搜捕我的府兵！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "那座院子看起来没什么人……过去看看！",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "！！！是你——呃啊——",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "她已经不在了。所以，我必须保住你。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "很快……很快，你就会醒过来的。以往的一切，就当是一场噩梦。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "报——新一批来投靠的人已在帐外，等将军召见！",
+      "emotion": "头像=士兵"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "传。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "暴躁船夫",
+      "text": "将军！小人愿投靠将军！",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……这位壮士双臂结实有力，还有些眼熟，敢问原是哪条道上的？",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "暴躁船夫",
+      "text": "小人原是打年糕的。来，将军尝尝我从前的手艺！",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "暴躁船夫",
+      "text": "因孙家老太爷被年糕黏掉一颗牙，孙家禁止江东吃年糕，小人就失业当了船夫！",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "师尊再忍一忍，我在招兵买马呢。从前在广陵，地盘和粮草都不够，还从没体验过亲自征兵。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "呼啾……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "……咦？",
+      "emotion": "头像=袁绍"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "！！！袁、袁二公子，你怎么……也来投我了……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "这里不是我的军帐吗？我跟着眼熟的侍卫回来的……",
+      "emotion": "头像=袁绍"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……你脸盲越来越严重了……我派人送你回去。",
+      "emotion": "头像=广陵王-无语"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "天蛾",
+      "text": "将军！小人来问问你这里有没有活？",
+      "emotion": "头像=蛾使"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "啊是你……咳咳，你原来是在哪里做事的？给我看看你在前雇主那的符传。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "天蛾",
+      "text": "小人原是韩馥将军麾下的斥候。这是我在韩馥将军那边用的符传，上面有我的代号。",
+      "emotion": "头像=蛾使"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我看看……你在韩馥那里叫……“老板同事在天堂”？",
+      "emotion": "头像=广陵王-无语"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "天蛾",
+      "text": "啊不好意思不好意思，拿错了，是这个，徐某。",
+      "emotion": "头像=蛾使"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "原来如此，你从没去过广陵吗？……呃……呃……唔……咳咳咳……唔……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "天蛾",
+      "text": "将军？你是噎到了吗？",
+      "emotion": "头像=蛾使"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "年、糕……好、黏……呃……噎……住……呃",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "汪汪汪！",
+      "emotion": "头像=飞云"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "哈哈哈……飞云，再跑快一些！",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "师尊你也开心些嘛，难得没有公务缠身，和飞云一起玩玩嘛！",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "…………",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "汪！",
+      "emotion": "头像=飞云"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "前面是雀部，不能进去！",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使甲",
+      "text": "首座，关于雁门关的据点安排……",
+      "emotion": "头像=雀使"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "不必变动。",
+      "emotion": "头像=阿蝉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使乙",
+      "text": "那追拿叛徒的事……",
+      "emotion": "头像=绣衣楼密探"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我已安排蜂部首座伍丹去处理了。",
+      "emotion": "头像=阿蝉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "阿蝉！阿蝉！你认得出我吗？",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "唔……好像有熟悉的声音……",
+      "emotion": "头像=阿蝉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你怎么会是雀部首座？还有小丹，小丹不该在蛾部吗？",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "阿蝉……阿蝉……",
+      "emotion": "头像=广陵王-难过"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……啊……好冷……我……我要死了吗……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "想起来了……蝴蝶破茧后……寿数……很短的……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑马",
+      "text": "我说啊咕咕，你知不知道自己真的很重啊？",
+      "emotion": "头像=黑马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "唔……啊！我能听懂马的话了？可是这次我不是马啊……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白马",
+      "text": "她完全没有愧疚之心呢咕咕，我们每天累得跟马一样……",
+      "emotion": "头像=白马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你们本来就是马啊！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑马",
+      "text": "那家伙要上车了咕！",
+      "emotion": "头像=黑马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白马",
+      "text": "他每次都要在车上坐很久咕咕！待会儿颠死他！",
+      "emotion": "头像=白马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑马",
+      "text": "不行的咕，他给的草料最上等了咕！",
+      "emotion": "头像=黑马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "咕？",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白马",
+      "text": "让这只肥鸡下去咕！它好重！它不会自己飞吗咕？！！",
+      "emotion": "头像=白马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "哎呀哎呀，这就是传说中的黄金马车呀？",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "……",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "让我坐坐嘛，听说天子的神秘军师也有辆同样的黄金马车，和你的是同款。",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "不应该是董卓的神秘军师吗……这个宇宙，和原来的宇宙似乎略有不同？",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "坐够了吗？坐够了就下去！",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑马",
+      "text": "嘿嘿这个肺痨鬼要下车了，准备颠他咕！",
+      "emotion": "头像=黑马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "呼……你的马可真闹腾啊，该不会和你一样坏心眼，等着颠我吧？",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "你连马都算计不过吗？",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "当然。我只能算计算计少了一条腿的家伙呀……唔啊！",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呃！他们在车里做什么？……啊啊啊不要再颠了！贾诩！不要薅他头发了啊！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "郭嘉！不要再踹他那条好腿了啊！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭嘉",
+      "text": "唔！车顶塌了……怎么有只这么肥的鸡砸下来了……",
+      "emotion": "头像=郭嘉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "停啾啾！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑马",
+      "text": "真扫兴，我还想听他们继续谋划怎么除掉袁氏咕咕。",
+      "emotion": "头像=黑马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白马",
+      "text": "不就是挑动兄弟内斗，再扶持曹氏壮大吗咕咕。",
+      "emotion": "头像=白马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑马",
+      "text": "等等咕，你觉没觉得，车好像越来越轻了？——啊，车轴断了咕……",
+      "emotion": "头像=黑马"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呜啊啊我要碎掉了！！！",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "怎么样？军师，你看见什么了？",
+      "emotion": "头像=高览"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "夜黑风高，我也什么都看不见啊。",
+      "emotion": "头像=广陵王-摇头"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "郭嘉，你还没看清敌军动向吗？",
+      "emotion": "头像=袁绍"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我不是郭嘉。",
+      "emotion": "头像=广陵王-无语"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "袁绍",
+      "text": "我在喊他。",
+      "emotion": "头像=袁绍"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "高览",
+      "text": "我也不是……等等！你又是谁？是敌军派来的间谍吗？",
+      "emotion": "头像=高览"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "脸盲对近视，你们慢慢聊。我去高处观测了……",
+      "emotion": "头像=广陵王-无语"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾！啾！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "师尊也很喜欢高处吧？啊……风真是舒服……",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "咦？远处那道白色的光是什么……",
+      "emotion": "头像=广陵王-挑眉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……啾……龙气啾……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "真的，是白色的龙影！龙影在围着一个人飞旋……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……是个提着灯的……小孩子？",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "还是很在意那个孩子……啊，他们俩还在吵啊。",
+      "emotion": "头像=广陵王-无语"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "龙气啾！龙气啾！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "以前只在传闻中听说过，第一次亲眼目睹……好想见见那个孩子。",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "你不能见他。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "又是你？！师尊，砸他！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呵……这次有防备了，你无从下手了吧？",
+      "emotion": "头像=广陵王-冷笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "……呵。你还是不懂。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "我从来都不是因为恨你才杀你。我一次又一次地找到你又送走你，因为……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "……不重要。反正，在下一次相见时，你都会忘记。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "？！！是炸药——",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……他居然……同归于尽……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "周围……渐渐变白了……啊……是你……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白衣孩童",
+      "text": "不要怕，殿下。",
+      "emotion": "头像=路人小孩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你……能认出我？",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "白衣孩童",
+      "text": "这盏灯送给你。它会带着你，找到归家之路……",
+      "emotion": "头像=路人小孩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……意识……快要涣散了……但是，心口好暖……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼头目",
+      "text": "哼哼，不留下点什么，也想从这过？",
+      "emotion": "头像=强盗"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "大王饶命，这是我们最后的一点粮食了啊！",
+      "emotion": "头像=难民"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼头目",
+      "text": "那就拿那个孩子来抵债！",
+      "emotion": "头像=强盗"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "大王，他们好像真的没什么钱，我们打劫他们，人力成本高于收益啊。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼头目",
+      "text": "你这么懂？这个山大王你当好不好啊？",
+      "emotion": "头像=强盗"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "好啊。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾！轰！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "咳咳。因为他被砸扁了，所以我就是你们的新头目了。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你们听好，刀口向下，打劫贫弱，最终也不过是个乱世草寇。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "想要打下自己的地盘，从山大王变成真王，眼界就要放远些。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "……老大，啥叫眼界？就是从打劫十钱，变成打劫一百钱？",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "抢钱抢再多，若天下不认你的钱又有什么用？",
+      "emotion": "头像=广陵王-摇头"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你们一心跟着我，将来的钱怎么铸，都是我们说了算。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "老大！袁氏和墨家从南北两侧围剿我们！",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "不用慌。袁氏之中有我安插的人，墨家的民兵中，我也安排了卧底，适时引发哗变。",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "如今我们已有五千余人，我真正的目标，是汝南。",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "啊？啥叫真正的目标？就是从打一个变成打十个？",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "趁着袁氏主力攻打此处，我们绕道而行，兵不血刃拿下汝南！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "老大，汝南的防卫太严密了，我们拿不下！",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "强行攻城伤亡太大，撤回东面！我之前做了二手准备，东面有友军接应！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "老大，前面有人阻拦！是袁氏的骑兵！",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "站住。就此投降，保全性命。",
+      "emotion": "头像=颜良"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "颜良将军，你看，这是什么！是绣球哦！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……咕。",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呃……师尊，别动，别动，你太重了，旁边是山崖，我、我有点抱不住……啊啊啊―—",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "老大！我们拿下汝南了！墨家和袁氏在我们的旧山寨相遇了，斗了个两败俱伤！",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "山贼甲",
+      "text": "哈哈哈，这样下去，我们真的能称……王……呃……",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾！偷袭啾！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "谁？！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "墨家钜子，见过大王。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "真是狠狠地被你耍了一通呢……天时地利人和，你全不占，竟能和我们缠斗至此。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "确实……若是有更得力的手下，也不会让你无声无息杀到我身前。",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "天时地利人和，终是输给了“人和”。本王无话可说，唯有……“请将军赐死”。",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "我找到一个山坡，上面有好多野菜，我挖了足足有一筐！",
+      "emotion": "头像=少年"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "太好了，今晚有菜饼吃了。快挑些好的，送去给钜子。",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "这就是墨者的据点，“墨城”即墨啊……看起来都是各地汇聚来的贫苦百姓。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "钜子来了！文丑钜子回来了！带回来好多粮食！",
+      "emotion": "头像=难民"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "都是上等的粮食和白盐……肯定经历了一场恶战。",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "钜子的伤好些了吗？",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "……我没事。墨家擅长守城，不善进攻，这次的损失太大了……",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "当年孟胜钜子一诺千金，为阳城君守城，以一百八十人死守孤城……与他相比，我太过优柔寡断。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "孟胜钜子的遗物半璜，后来也成了墨家的圣物吧？",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "你是新来的？怎么尽问些墨者皆知的事……圣物半璜，如今就镶嵌在信物非弓的弓角上。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "向它立下三义吧，“默”、“言”、“动”，成为墨侠。然后就能和我们一起，扫清世上所有的不义。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守卫",
+      "text": "钜子，袁氏的骑兵冲杀过来了！我们的机关被破坏了！",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "还剩下多少人？",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守卫",
+      "text": "一百八十人……哈……",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "哈……一百八十人，真是命中注定。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "你们还有什么家人在外地吗？把绝笔信交给她，让她替你们传回去吧。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守卫",
+      "text": "我只有个兄长在颍川。钜子先写信吧！",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "我？我没有家人，没有亲友……我是孤儿，被前任钜子收养的。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "你们先写吧。写完之后，我们就要为了大义，与墨城共存亡了。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "文丑！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "……咳……咳……",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守卫",
+      "text": "伤口贯穿咽喉，钜子已经没有救了。请你依照钜子的命令，送走我们的绝笔信吧。",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……好！师尊，你背着非弓，我抱着这些信。我们杀出去！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "守卫",
+      "text": "还有，钜子的头颅，也要一并带走。",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……好冷，风雪越来越大了……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾……夏官啾……召来啾……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呵呵……师尊，你现在是绣球，召不出那些大阵……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾啾……冷……啾……",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我也好冷………快要没有知觉了……",
+      "emotion": "头像=广陵王-难过"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "没事的……我抱着师尊呢，师尊好暖和……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "………………没事的………………",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "我带你杀出山谷！你要带着他们的绝笔信，活着离开！",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你没有什么话，要我带出去的吗？",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "除了墨家，我在这世上没有任何痕迹。世上，也不需要留下我的话。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "呃啊啊——",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……师尊，我……我可能没办法……带走他们的信了……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我和他都伤得太重了……劳烦师尊……咳……咳咳……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "啾……啾啾啾！啾啾！",
+      "emotion": "头像=左慈绣球"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……对不起……我这么大了，还在给师尊……添麻烦……",
+      "emotion": "头像=广陵王-难过"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……对不起……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……没有其他人了。",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "嗯，意外来到了一个只有我们的宇宙。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "其他生灵的存在，在这里就像沙砾。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "你去过很多这样的地方吗？",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "应该说是“我们“。我们曾经一起去过很多地方……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "……起初是三个人，后来只剩下我们俩……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "…………陪我坐片刻吧。什么都不要说，不要做，静静地陪我坐一会儿……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "蚂蚁……在绕圈。",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "偶尔会看见这样的漩涡……蚂蚁不断沿着原路转圈，一圈、一圈，直到力竭而死。",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "是领头的蚂蚁忘记了目的地吧。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "领头的蚂蚁、领头的飞雁……当它们迷失了，追随它们的生灵也会跟着一起有去无回。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "它们却不知道，自己在跟随什么。",
+      "emotion": "头像=广陵王-点头"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "从来都是这样。你看它们，觉得悲悯；你若身在其中，也有局外的生灵在这样看着你。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……感觉不到时间的流逝。这里的黑暗，好像是没有边界的。",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "这里是宇与宙的“维”……带着你们跃迁的时候，偶尔会落在这样的地方。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "你曾经说，不想去下一个地方了，想永远留在这里。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "比起一次一次重复死亡，永远留在这里也不错。",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "在原地休憩片刻，总好过像这些蚂蚁一样……一圈、一圈……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……我睡了很久吗？",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "“久”是在从前的宇宙中才会有的概念。在这里，时间已经没有意义了。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "想离开了吗？如果想离开，我会带你走。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "不要。",
+      "emotion": "头像=广陵王-摇头"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "不重要了。这里会开始崩散，我们也会……呃……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……呵，我赢了。",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "………………你以为杀了我，就结束了吗？",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "……傻孩子。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……已经不知道在这里过了多久了。",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "再留下去，也没有意义了吧……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "休息够了吗？",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我看你一直在磨那把剑，把它磨得很利。",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "我怕你会痛。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "好了，闭上眼睛，把脖子露出来……就像一阵风一样，很快的……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "我会带你走的。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=副将",
+      "emotion": "将军，它们已经攻破外城了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=副将",
+      "emotion": "所有人……所有人……都被它们吃掉了……不，是仙解……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=副将",
+      "emotion": "哈哈哈……我也快了……嘿嘿嘿嘿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这个宇宙中，为何会有这种怪物……它们是从何处诞生的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "明明都已经加强了巡守，它们是怎么从天而降的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "……竟然……到了……这里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "！！！干吉先生……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "左慈仙者现在的状态，无法来到你面前，我代他……来见你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "还不习惯吗？这样彻底颠覆你原先认知的宇宙。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "我在黑暗中观测到许多模糊的轮廓，亲身跃入还是头一次……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "这个宇宙中，连云都是生长在地上的……那些食人的白色怪物，平日也会撕扯啃食它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "那不是云。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "……那是左慈仙者，他在各个宇宙中寻找你，到这里的时候，他只能以这样的形态存在。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "……呃——我也快要……变成它们的一员了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "船夫",
+      "text": "头像=摊贩",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "啊……又是这样一动不动的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……这个宇宙中的人，好像到了一定时候，就会像这样……生出根须，逐渐变成植物……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "喂——那位船夫，可以劳烦你送晚生过河吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "呼！一路前来，可真是不容易。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "大家都变成木人了……怎么防守都没有用……你的亲友呢？还没有长出根须吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-阴沉",
+      "emotion": "我不太清楚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……咦，你的腿……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "啊哈哈……嗯，昨天开始的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "……我的时间，也不多了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "辛苦你了……到这就可以了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "可是，这里是湖中心……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "嗯，我就要来这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "每个人都迟早会变成木人……我想变成水面上的浮木。每天晒晒太阳，看看小鱼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "真好啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……他跃入水中了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……我的腿上，也长出了根须……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "听说今天的祭祀，张天师为我们准备了珍馐美食啊！",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "又是奇怪的眼珠子酒吧……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孩子",
+      "text": "来了来了！吃的来了！",
+      "emotion": "头像=少年"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……！！！那是……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……………………桃源……烧烤摊？",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "加孜然还是胡椒？",
+      "emotion": "头像=干吉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "贾诩",
+      "text": "都加沙子吧。",
+      "emotion": "头像=贾诩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "村民",
+      "text": "加沙子，我要嫩一点的，靠近腿那里。",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "腿肉一串。张修，麻烦备菜快一点。",
+      "emotion": "头像=干吉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "呵呵……肥美起来……肥美起来……",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "啊，三眼神长出新的触手了……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "斩！——好了，刚好十串脚，开烤吧。",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "三眼神",
+      "text": "呼……呼……呼……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "三眼神",
+      "text": "呼！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……它……醒了……全都被……吃掉了……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "唔……好吵，附近有好多声音……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小孩",
+      "text": "求你治好母亲的病吧……",
+      "emotion": "头像=路人小孩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "求你让我长命百岁……",
+      "emotion": "头像=难民"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "真是有趣……你不该在这的。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "！！！神像说话了 ？！",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "每天都有无数的祈愿……巫主和人主回转灵山之时，为何把我留在这呢。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "有光影飞过去了……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "是亡者的魂魄。它们本来该回到少司命身边……",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "回到司命身边的魂魄，才能永远安眠。可惜绝地天通之后，它们再也到不了少司命的身边了。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "这些魂魄不会变成新的生灵吗？譬如转生为下一世……",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "真是新奇的念头。王母一定会被你逗笑的。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "生灵的魂魄就像流水，流过原地的水，永远不会是原地的水。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "好可惜……原来还想，如果有轮回转世的话，想试试当一回绣云鸢，再当一回鲸鱼……",
+      "emotion": "头像=广陵王-摇头"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "你会留住一滴汗吗？它转眼就消失了。魂魄就是这样脆弱的东西。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "此间天地，你只是短暂的过客。宇宙天地，众生皆过客。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "不如做梦，做梦，哈哈哈……",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……我们没办法庇护他们吗？",
+      "emotion": "头像=广陵王-挑眉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "我们只是建木的木头。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我想试一试……试一试……",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "……你看，雷云越聚越多了。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "绝地天通之后，你已经什么都做不到了。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "让我试试——啊！雷劈下来了 ！！！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民",
+      "text": "好饿……对不住上神了，我们真的好饿……",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……做了一场好久的梦……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……原来的那些人都不见了……四周好荒凉。",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "咯……咯……咯……",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民",
+      "text": "好饿……对不住上神了，我们真的好饿……",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年灾民",
+      "text": "这木头好松软，像肉一样……",
+      "emotion": "头像=难民"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女性饥民",
+      "text": "嘴里好久没吃到东西了……来……宝宝也吃一点……",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "……没想到会以这样的方式离开啊……这些饥民，被逼到只能以木头充饥。",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "可是，他们会被胀死的……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "生灵啊，终究是流水一样的存在。有水珠碎裂、蒸腾，有水永远深流……",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "睡下吧。你也许能改变一时之相，却难以逆转道法……",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "………………",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "神像",
+      "text": "睡吧……",
+      "emotion": "头像=神像"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雀使",
+      "text": "这是这个月招募用的符传，送去给候选人吧。",
+      "emotion": "头像=雀使"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "是。",
+      "emotion": "头像=文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……嗯？我被一起带着走了……",
+      "emotion": "头像=广陵王-挑眉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "许攸先生，拿着，符传。",
+      "emotion": "头像=文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "多谢你……这是你的好处费。",
+      "emotion": "头像=许攸"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "不、不行……这样下去，楼里就只有许攸的简历了……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "我得回去……得回去……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "咦？怎么把你给掉门口了？",
+      "emotion": "头像=文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "许攸先生，这是给你的符传，今天记得准时报道。",
+      "emotion": "头像=文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "嗯，照老规矩，拿着好处费。",
+      "emotion": "头像=许攸"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "太好了！落进水里，跟着水流飘走了，这样一来就不会被捞回去了……唔啊被海鸥抓走了！",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "海鸥",
+      "text": "薯条——？啊？不是啊？",
+      "emotion": "头像=大鸢"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "啊啊啊啊掉下去了啊啊啊啊——",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "嗯？天上掉了什么下来……是符传啊。",
+      "emotion": "头像=许攸"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呼……沿着山崖掉下去，应该可以逃掉……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军阀甲",
+      "text": "杀啊——一个都别放过——",
+      "emotion": "头像=西凉军甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "军阀乙",
+      "text": "杀！以牙还牙——",
+      "emotion": "头像=西凉军乙"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "突然就变成战场了——我被撞飞了！！！",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "将军",
+      "text": "嗯，许攸先生说的是……",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "下一步就是……咦？什么东西从上面掉下来了……",
+      "emotion": "头像=许攸"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "………………",
+      "emotion": "头像=广陵王-无语"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "许攸",
+      "text": "哦，是符传啊……",
+      "emotion": "头像=许攸"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "公主殿下，你醒了？",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……唔……",
+      "emotion": "头像=广陵王-阴沉"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "你昏迷了三天三夜，终于醒了！你的五位仰慕者都在等公主的召见呢！",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……五个仰慕者……？……终于能见到他们了……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "公主魅力过人，杀伐决断，才貌双全，全国最优秀的五位王子都被你折服。",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "嗯嗯。眼下国内外时局如何？父王安好？本宫之上可有什么王兄王姐？本宫的母族可有兵权？",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "公主先看看仰慕者吧。有着茂密长发的红衣公子风流倜傥，为了见你，喝了半年的闷酒了。",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "是他……我想见见他……",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "是！我马上为公主传报！",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "公主，五人都等在门外了。",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "除了红衣公子，还有青衣儒雅贵族公子、战力巅峰父爱系、勤恳持家好员工、阳光开朗小狼狗！",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "他们在一起居然没打起来吗？传，一起传。",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "宫女",
+      "text": "公主，他们来了！",
+      "emotion": "头像=宫女"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军头目",
+      "text": "公主！",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "梦魇文臣",
+      "text": "公主！",
+      "emotion": "头像=文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "暴躁船夫",
+      "text": "公主！",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府兵",
+      "text": "公主！",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "野兽",
+      "text": "公主！",
+      "emotion": "头像=野兽"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "啊啊啊啊啊！退下！退下啊——",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呼……呼……逃出来了……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑山军头目",
+      "text": "滚开！你们这些碍事的家伙！",
+      "emotion": "头像=山贼甲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "梦魇文臣",
+      "text": "别看我年纪大，我可是每天能打五禽戏的！喝啊——",
+      "emotion": "头像=文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "暴躁船夫",
+      "text": "螺旋桨，搅碎天地吧！",
+      "emotion": "头像=摊贩"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府兵",
+      "text": "噫啊啊啊别揪人家的假发啦——",
+      "emotion": "头像=副将"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "野兽",
+      "text": "一夜暴富了谁还要上班啊？溜了溜了。",
+      "emotion": "头像=野兽"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "人的领地，只剩下最后的这一片了……",
+      "emotion": "头像=颜良"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "然后就会是……羽人的天下。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "他们看见我们，为什么会恐惧呢……他们忘了吗，我们才是他们本来的样子。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "人总是敌视自己认知之外的东西。",
+      "emotion": "头像=颜良"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "今夜外面的风好大……好险，差点被吹下去。",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "呵呵……你真有趣。羽人的宫殿都是建在高处的，下方的浊气太重了。",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "……人居然觉得，能够用这样的弓箭射落我们……",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "他们太年幼了。因为寿数太短，脆弱的肉体无法容纳巫之力，所以只能从灵山出逃……",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "羽人世代都是居于灵山的吗？",
+      "emotion": "头像=广陵王-微笑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "灵山是巫的圣地。离开了灵山，羽人也会渐渐变得和人类无异。",
+      "emotion": "头像=颜良"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "你看，山下的那些火光……",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "那都是人类在试图催动巫的触器，发动阵法杀灭我们……",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年轻羽人",
+      "text": "解决最后一个人了，可以前去向王回报了。",
+      "emotion": "头像=美型文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……好巨大的触器……远看的时候不觉得，现在这样看，简直像是山峦一样。",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年迈羽人",
+      "text": "离它远些。你身上的巫之力会被卷进去的。",
+      "emotion": "头像=黑人影"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "这种触器，能影响羽人的力量？",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年迈羽人",
+      "text": "它是洪荒之时的众神所遗，它开启的阵法，名叫……",
+      "emotion": "头像=黑人影"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年迈羽人",
+      "text": "——“绝地天通“。",
+      "emotion": "头像=黑人影"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "又焚毁了一台触器……在人类的手上，还有多少台这样的触器？",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "有叛徒在替人类制造触器。",
+      "emotion": "头像=颜良"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "……无所谓，那个叛徒离开灵山太远，已经要发生退变了……",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文丑",
+      "text": "他或许已经连形态都无法维持了……呃！有动静！",
+      "emotion": "头像=文丑"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年轻羽人",
+      "text": "是绝地天通！人族发动了另一台触器，催动了绝地天通！",
+      "emotion": "头像=美型文官"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "…………他们都消失了……",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……！！！是你……",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "……嗯，是我。",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "没事的，我们会一起消失的……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "我会替你找到……一个能停留更久的宇宙……",
+      "emotion": "头像=周瑜"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "她饿了，拿些桑落来给她吧。",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "呃，我不想喝这个东西……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "不行，挣扎不过她……呃！咳咳……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "男人",
+      "text": "她呛了，是不是不喜欢喝？",
+      "emotion": "头像=难民"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "怎么办？她为什么不爱喝桑落？怎么办？！——张天师！张天师！怎么办啊？！",
+      "emotion": "头像=平民母亲"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "没事了……没事了……",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "咳咳……咳……",
+      "emotion": "头像=广陵王-难受"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "没事了，我心爱的宝宝啊……",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "嘘，嘘。你必须喝下去……喝下它，才能渐渐变得肥美起来……",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "你听……它已经醒来了。它遮蔽了天地。",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "整个世界已经被它吞入腹中，我们是这个世界上最后剩下的“生灵”了……",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "我会再生下越来越多的你们的……越来越多，越来越多……",
+      "emotion": "头像=张修"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "嘿嘿嘿……发财了，发现了宝藏啊！",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "这是……黄肠题凑？",
+      "emotion": "头像=广陵王-惊讶"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "你居然认得出黄肠题凑？不错嘛！让小爷我看看有什么陪葬品……",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "啊啊——全是金子！珠宝！美玉！这可是个大人物啊！你举着灯，我来磕个头……",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "奇怪，越是靠近棺椁，陪葬品就越少……这里有几个破酒坛子。",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "这墓主人生前也不像喜欢喝酒的样子啊，你看壁画，壁画上画的都是王母和玄女。",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……也许，是别人替她布置的身后之事吧。",
+      "emotion": "头像=广陵王-严肃"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "里面还有什么……我看看……",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "一碰就碎，都碎成粉了……棺椁上，摆着一支蒹葭啊。",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "嘘，你听见什么没有？",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "……好像是……从棺材上方传出来的？",
+      "emotion": "头像=广陵王-生气"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "是羽人！快逃啊——",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "盗墓贼",
+      "text": "为什么食人的羽人会出现在这种地宫里啊？！呃啊——",
+      "emotion": "头像=盗书贼"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……这里是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=美型文官",
+      "emotion": "文汉天女，承载天命——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "这里是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……是我的幻想，还是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=美型文官",
+      "emotion": "文汉天女，承载天命——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "千秋万载，三呼万岁——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "……还是走到了这一步……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=美型文官",
+      "emotion": "文汉天女，承载天命——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "千秋万载，三呼万岁——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "够了！不要再往前走了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=美型文官",
+      "emotion": "文汉天女，承载天命——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "千秋万载，三呼万岁——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "你不知道前面是什么在等着你，不要再往前走了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "能够前行，为何止步？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "我想救你……我试了无数次想救你！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "可为什么会一遍又一遍……走到这一步……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=美型文官",
+      "emotion": "文汉天女，承载天命——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "千秋万载，三呼万岁——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "求你相信我一次……不要去！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "……就要……碰到了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青衣文士",
+      "text": "头像=周瑜",
+      "emotion": "住手！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "回到原来的世界了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-生气",
+      "emotion": "师尊！你没事吧？师尊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "绣球",
+      "text": "头像=绣球",
+      "emotion": "啾啾……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "绣球恢复成普通的小肥鸡了，但师尊却醒不过来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "看来关键是那个青衣琴师……为了师尊，我得要找到他。"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "'''活动开启'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''女官'''"
+    },
+    {
+      "type": "narration",
+      "text": "big冬日可爱，夏日可畏。ref《左传·文公七年》：“赵衰，冬日之日也；赵盾，夏日之日也。”杜预注：“冬日可爱，夏日可畏。”/ref/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "女官开场"
+    },
+    {
+      "type": "narration",
+      "text": "女官对话1"
+    },
+    {
+      "type": "narration",
+      "text": "女官对话2"
+    },
+    {
+      "type": "narration",
+      "text": "女官对话3"
+    },
+    {
+      "type": "narration",
+      "text": "女官对话4"
+    },
+    {
+      "type": "narration",
+      "text": "女官对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''卖花女'''"
+    },
+    {
+      "type": "narration",
+      "text": "big家贫不敢看朱门。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "卖花女开场"
+    },
+    {
+      "type": "narration",
+      "text": "卖花女对话1"
+    },
+    {
+      "type": "narration",
+      "text": "卖花女对话2"
+    },
+    {
+      "type": "narration",
+      "text": "卖花女对话3"
+    },
+    {
+      "type": "narration",
+      "text": "卖花女对话4"
+    },
+    {
+      "type": "narration",
+      "text": "'''绣云鸢'''"
+    },
+    {
+      "type": "narration",
+      "text": "big猛兽不群，鸷鸟不双。ref《淮南子·说林训》：“日月不并出，狐不二雄，神龙不匹，猛兽不群，鸷鸟不双。”/ref/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "绣云鸢对话1"
+    },
+    {
+      "type": "narration",
+      "text": "绣云鸢对话2"
+    },
+    {
+      "type": "narration",
+      "text": "绣云鸢对话3"
+    },
+    {
+      "type": "narration",
+      "text": "绣云鸢对话4"
+    },
+    {
+      "type": "narration",
+      "text": "绣云鸢对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''渔女'''"
+    },
+    {
+      "type": "narration",
+      "text": "big潮起潮落，一笠一蓑，怡然自得。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "渔女开场"
+    },
+    {
+      "type": "narration",
+      "text": "渔女对话1"
+    },
+    {
+      "type": "narration",
+      "text": "渔女对话2"
+    },
+    {
+      "type": "narration",
+      "text": "'''猎户'''"
+    },
+    {
+      "type": "narration",
+      "text": "big箭来！入山岂能空手回。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "猎户对话1"
+    },
+    {
+      "type": "narration",
+      "text": "猎户对话2"
+    },
+    {
+      "type": "narration",
+      "text": "猎户对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''水桶'''"
+    },
+    {
+      "type": "narration",
+      "text": "big桶之大、江河装得下。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "水桶对话1"
+    },
+    {
+      "type": "narration",
+      "text": "水桶对话2"
+    },
+    {
+      "type": "narration",
+      "text": "水桶对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''鹿'''"
+    },
+    {
+      "type": "narration",
+      "text": "big渴饮清溪水，眠卧山林间。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "鹿对话1"
+    },
+    {
+      "type": "narration",
+      "text": "鹿对话2"
+    },
+    {
+      "type": "narration",
+      "text": "鹿对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''贵族少女'''"
+    },
+    {
+      "type": "narration",
+      "text": "big膏粱锦绣，绮罗珠履ref《史记·春申君列传》：“春申君客三千余人,其上客皆蹑珠履。”珠饰之履。指有谋略的门客。/ref。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "贵族少女对话1"
+    },
+    {
+      "type": "narration",
+      "text": "贵族少女对话2"
+    },
+    {
+      "type": "narration",
+      "text": "贵族少女对话3"
+    },
+    {
+      "type": "narration",
+      "text": "贵族少女对话4"
+    },
+    {
+      "type": "narration",
+      "text": "贵族少女对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''医官'''"
+    },
+    {
+      "type": "narration",
+      "text": "big杏林ref《太平广记》：“董奉者，字君异，侯官人也……奉居山不种田，日为人治病，亦不取钱。重病愈者，使栽杏五株，轻者一株，如此数年，计得十余万株，郁然成林。”/ref春暖，橘井ref《列仙传》：“苏耽，桂阳人也，汉文帝时得道……曰：‘明年天下疾疫，庭中井水桔树，患疫者，与井水一升，桔叶一枚，饮之立愈。’后果然。求水叶者，远至千里，应手而愈。”/ref泉香。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "医官对话1"
+    },
+    {
+      "type": "narration",
+      "text": "医官对话2"
+    },
+    {
+      "type": "narration",
+      "text": "医官对话3"
+    },
+    {
+      "type": "narration",
+      "text": "医官对话4"
+    },
+    {
+      "type": "narration",
+      "text": "医官对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''杀手'''"
+    },
+    {
+      "type": "narration",
+      "text": "big五铢钱，新丰酒，我何惜此头。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "杀手对话1"
+    },
+    {
+      "type": "narration",
+      "text": "杀手对话2"
+    },
+    {
+      "type": "narration",
+      "text": "杀手对话3"
+    },
+    {
+      "type": "narration",
+      "text": "杀手对话4"
+    },
+    {
+      "type": "narration",
+      "text": "杀手对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''游侠'''"
+    },
+    {
+      "type": "narration",
+      "text": "big路见不平，拔剑可助。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "游侠对话1"
+    },
+    {
+      "type": "narration",
+      "text": "游侠对话2"
+    },
+    {
+      "type": "narration",
+      "text": "游侠对话3"
+    },
+    {
+      "type": "narration",
+      "text": "游侠对话4"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择山崖'''"
+    },
+    {
+      "type": "narration",
+      "text": "游侠对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择左慈'''"
+    },
+    {
+      "type": "narration",
+      "text": "游侠对话6"
+    },
+    {
+      "type": "narration",
+      "text": "'''仙人'''"
+    },
+    {
+      "type": "narration",
+      "text": "big乘云气，御飞龙，游乎四海之外。ref《逍遥游》：“藐姑射之山，有神人居焉。肌肤若冰雪，淖约若处子，不食五谷，吸风饮露，乘云气，御飞龙，而游乎四海之外；其神凝，使物不疵疠而年谷熟。”/ref/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“借着他人的双眼，继续认识黑暗中的隐秘。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "仙人对话1"
+    },
+    {
+      "type": "narration",
+      "text": "仙人对话2"
+    },
+    {
+      "type": "narration",
+      "text": "仙人对话3"
+    },
+    {
+      "type": "narration",
+      "text": "仙人对话4"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择青衣文士'''"
+    },
+    {
+      "type": "narration",
+      "text": "仙人对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择巫者'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''妇兵'''"
+    },
+    {
+      "type": "narration",
+      "text": "big女子当自强。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "妇兵对话1"
+    },
+    {
+      "type": "narration",
+      "text": "妇兵对话2"
+    },
+    {
+      "type": "narration",
+      "text": "妇兵对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''流民'''"
+    },
+    {
+      "type": "narration",
+      "text": "big四海燃烽烟，九州遍饥荒。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "流民对话1"
+    },
+    {
+      "type": "narration",
+      "text": "流民对话2"
+    },
+    {
+      "type": "narration",
+      "text": "流民对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''石头'''"
+    },
+    {
+      "type": "narration",
+      "text": "big嶙峋奇诡，异形怪状。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "石头对话1"
+    },
+    {
+      "type": "narration",
+      "text": "石头对话2"
+    },
+    {
+      "type": "narration",
+      "text": "石头对话3"
+    },
+    {
+      "type": "narration",
+      "text": "石头对话4"
+    },
+    {
+      "type": "narration",
+      "text": "石头对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''侍女'''"
+    },
+    {
+      "type": "narration",
+      "text": "big娉娉袅袅，质而不俚ref《汉书·司马迁传赞》：“然自刘向、扬雄博极群书，皆称迁有良史之材，服其善序事理，辨而不华，质而不俚，其文直，其事核，不虚美，不隐恶，故谓之实录。”/ref。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "侍女对话1"
+    },
+    {
+      "type": "narration",
+      "text": "侍女对话2"
+    },
+    {
+      "type": "narration",
+      "text": "侍女对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''军阀'''"
+    },
+    {
+      "type": "narration",
+      "text": "big杀一为孽，屠万称雄。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "军阀对话1"
+    },
+    {
+      "type": "narration",
+      "text": "军阀对话2"
+    },
+    {
+      "type": "narration",
+      "text": "军阀对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''蝴蝶'''"
+    },
+    {
+      "type": "narration",
+      "text": "big翅生双目，戏舞林下。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "蝴蝶对话1"
+    },
+    {
+      "type": "narration",
+      "text": "蝴蝶对话2"
+    },
+    {
+      "type": "narration",
+      "text": "蝴蝶对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''黄金马车'''"
+    },
+    {
+      "type": "narration",
+      "text": "big金彩堂皇，如梦如真。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "黄金马车对话1"
+    },
+    {
+      "type": "narration",
+      "text": "黄金马车对话2"
+    },
+    {
+      "type": "narration",
+      "text": "黄金马车对话3"
+    },
+    {
+      "type": "narration",
+      "text": "黄金马车对话4"
+    },
+    {
+      "type": "narration",
+      "text": "黄金马车对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''军师'''"
+    },
+    {
+      "type": "narration",
+      "text": "big坐守帷幄，千里定胜。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”"
+    },
+    {
+      "type": "narration",
+      "text": "/font"
+    },
+    {
+      "type": "narration",
+      "text": "军师对话1"
+    },
+    {
+      "type": "narration",
+      "text": "军师对话2"
+    },
+    {
+      "type": "narration",
+      "text": "军师对话3"
+    },
+    {
+      "type": "narration",
+      "text": "军师对话4"
+    },
+    {
+      "type": "narration",
+      "text": "军师对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''恶棍'''"
+    },
+    {
+      "type": "narration",
+      "text": "big恶行恶言，恶念恶业，恶果恶报。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”"
+    },
+    {
+      "type": "narration",
+      "text": "/font"
+    },
+    {
+      "type": "narration",
+      "text": "恶棍对话1"
+    },
+    {
+      "type": "narration",
+      "text": "恶棍对话2"
+    },
+    {
+      "type": "narration",
+      "text": "恶棍对话3"
+    },
+    {
+      "type": "narration",
+      "text": "恶棍对话4"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择颜良'''"
+    },
+    {
+      "type": "narration",
+      "text": "恶棍对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择文丑'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''贫民'''"
+    },
+    {
+      "type": "narration",
+      "text": "big田野禾苗枯，王孙酒肉臭。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”"
+    },
+    {
+      "type": "narration",
+      "text": "/font"
+    },
+    {
+      "type": "narration",
+      "text": "贫民对话1"
+    },
+    {
+      "type": "narration",
+      "text": "贫民对话2"
+    },
+    {
+      "type": "narration",
+      "text": "贫民对话3"
+    },
+    {
+      "type": "narration",
+      "text": "贫民对话4"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择袁氏将领'''"
+    },
+    {
+      "type": "narration",
+      "text": "贫民对话5"
+    },
+    {
+      "type": "narration",
+      "text": "贫民对话6"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择前进'''"
+    },
+    {
+      "type": "narration",
+      "text": "贫民对话7"
+    },
+    {
+      "type": "narration",
+      "text": "'''巫'''"
+    },
+    {
+      "type": "narration",
+      "text": "big巫者，能事无形，以舞降神。ref《说文》：“巫，祝也，女能事无形，以舞降神者也。”/ref/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "巫对话1"
+    },
+    {
+      "type": "narration",
+      "text": "巫对话2"
+    },
+    {
+      "type": "narration",
+      "text": "巫对话3"
+    },
+    {
+      "type": "narration",
+      "text": "巫对话4"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择睡觉'''"
+    },
+    {
+      "type": "narration",
+      "text": "巫对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择发呆'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''将军'''"
+    },
+    {
+      "type": "narration",
+      "text": "big壮士血热，千军刀寒。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "将军对话1"
+    },
+    {
+      "type": "narration",
+      "text": "将军对话2"
+    },
+    {
+      "type": "narration",
+      "text": "将军对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''暴躁船夫'''"
+    },
+    {
+      "type": "narration",
+      "text": "big归家去，囊中收：金锭、人头。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "暴躁船夫对话1"
+    },
+    {
+      "type": "narration",
+      "text": "暴躁船夫对话2"
+    },
+    {
+      "type": "narration",
+      "text": "暴躁船夫对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''桃源村民'''"
+    },
+    {
+      "type": "narration",
+      "text": "big凶年乱世，何以为生。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "桃源村民对话1"
+    },
+    {
+      "type": "narration",
+      "text": "桃源村民对话2"
+    },
+    {
+      "type": "narration",
+      "text": "桃源村民对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''玄女'''"
+    },
+    {
+      "type": "narration",
+      "text": "big神无所不通，形无所不类。ref《化书·老枫》：“虚无所不至，神无所不通，气无所不同，形无所不类。”/ref/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "玄女开场"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话1"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话2"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话3"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话4"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话5"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话6"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择神像'''"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话7"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择废墟'''"
+    },
+    {
+      "type": "narration",
+      "text": "玄女对话8"
+    },
+    {
+      "type": "narration",
+      "text": "'''符传'''"
+    },
+    {
+      "type": "narration",
+      "text": "big通行无阻，包括地府。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "符传对话1"
+    },
+    {
+      "type": "narration",
+      "text": "符传对话2"
+    },
+    {
+      "type": "narration",
+      "text": "符传对话3"
+    },
+    {
+      "type": "narration",
+      "text": "符传对话4"
+    },
+    {
+      "type": "narration",
+      "text": "符传对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''西域公主'''"
+    },
+    {
+      "type": "narration",
+      "text": "big以血为妆，载歌且舞。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "西域公主对话1"
+    },
+    {
+      "type": "narration",
+      "text": "西域公主对话2"
+    },
+    {
+      "type": "narration",
+      "text": "西域公主对话3"
+    },
+    {
+      "type": "narration",
+      "text": "西域公主对话4"
+    },
+    {
+      "type": "narration",
+      "text": "西域公主对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''羽人'''"
+    },
+    {
+      "type": "narration",
+      "text": "big背生羽翼，失人之体，不死不生。ref《抱朴子·内篇·对俗》：“古之得仙者，或身生羽翼，变化飞行，失人之体，更受异形。”/ref/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "羽人对话1"
+    },
+    {
+      "type": "narration",
+      "text": "羽人对话2"
+    },
+    {
+      "type": "narration",
+      "text": "羽人对话3"
+    },
+    {
+      "type": "narration",
+      "text": "羽人对话4"
+    },
+    {
+      "type": "narration",
+      "text": "羽人对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''婴孩'''"
+    },
+    {
+      "type": "narration",
+      "text": "big怨声传千里，恶夜熄烛光。/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "婴孩对话1"
+    },
+    {
+      "type": "narration",
+      "text": "婴孩对话2"
+    },
+    {
+      "type": "narration",
+      "text": "婴孩对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''摸金校尉'''"
+    },
+    {
+      "type": "narration",
+      "text": "big似人似鬼，是人是鬼？/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "摸金校尉对话1"
+    },
+    {
+      "type": "narration",
+      "text": "摸金校尉对话2"
+    },
+    {
+      "type": "narration",
+      "text": "摸金校尉对话3"
+    },
+    {
+      "type": "narration",
+      "text": "'''女帝'''"
+    },
+    {
+      "type": "narration",
+      "text": "big知我罪我，其惟春秋。ref《孟子·滕文公下》：“《春秋》，天子之事也。是故孔子曰：‘知我者，其惟《春秋》乎！罪我者，其惟《春秋》乎！’ ”/ref/bigbr"
+    },
+    {
+      "type": "narration",
+      "text": "font colorgray“所有的欲望，所有的罪业，所有的虚伪，所有的求而不得，都将在此地终结。”/font"
+    },
+    {
+      "type": "narration",
+      "text": "女帝开场"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺1"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺2"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话1"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺3"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺4"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话2"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺5"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺6"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话3"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺7"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话恭贺8"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话4"
+    },
+    {
+      "type": "narration",
+      "text": "女帝对话5"
+    },
+    {
+      "type": "narration",
+      "text": "'''选择御座'''"
+    },
+    {
+      "type": "narration",
+      "text": "'''活动收束'''"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E4%B8%89%E5%8D%83%E5%AE%87%E5%AE%99/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:05:45.564142",
+  "raw_wikitext": "[[分类:活动剧情]]\n{{面包屑|三千宇宙/活动玩法|三千宇宙-关卡}}\n='''活动开启'''=\n{{对话-头}}\n{{对话|我|咳咳……好大的雾——|头像=广陵王-惊讶}}\n{{对话|绣球|呃……呃……|头像=绣球}}\n{{对话|我|得把匣子盖起来……唔！！！|头像=广陵王-难受}}\n{{对话|我|雾越来越大了，好像有无数只手把我往雾里拖……发生了什么？！|头像=广陵王-生气}}\n{{对话-尾}}\n='''女官'''=\n<big>冬日可爱，夏日可畏。<ref>《左传·文公七年》：“赵衰，冬日之日也；赵盾，夏日之日也。”杜预注：“冬日可爱，夏日可畏。”</ref></big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==女官开场==\n{{对话|我|……唔……发生了什么……|头像=广陵王-难受}}\n{{对话|我|咳！火——四周失火了！！！|头像=广陵王-难受}}\n==女官对话1==\n{{对话|侍女|王府起火了！周女官！你有见到王妃和二位小世子吗？！|头像=宫女}}\n{{对话|我|咳……咳咳……什么……|头像=广陵王-难受}}\n{{对话|侍女|殿下被刺客杀害了，四处都起了火，得找到王……啊！！！|头像=宫女}}\n{{对话|我|你们是什么人？！！|头像=广陵王-生气}}\n{{对话|里八华密探|哎？我都自报家门好多次了，嗓子都哑了呢。|头像=黑衣人}}\n==女官对话2==\n{{对话|我|这到底是怎么回事……绣球撞翻了那个匣子，天地一片昏黑……我就到了这里？|头像=广陵王-生气}}\n{{对话|绣球|…………啾……|头像=左慈绣球}}\n{{对话|我|绣球你还好吧？我们得快点逃出去……呃……好……重……|头像=广陵王-生气}}\n{{对话|绣球|啾……啾……昏……|头像=左慈绣球}}\n{{对话|我|没事没事，我在这。别怕，我们一定有办法回去。|头像=广陵王-微笑}}\n{{对话|仆人|王妃！王妃你在哪啊！|头像=侍从}}\n{{对话|我|火太大了，我们得尽快出去！|头像=广陵王-生气}}\n{{对话|仆人|周女官，王妃和两位世子还在火里啊！一定要找到她……唔啊！|头像=侍从}}\n{{对话|里八华密探|不用找了。你们都先走一步吧。|头像=黑衣人}}\n==女官对话3==\n{{对话|医师|咳咳……火太大了……周女官，快跑……救不了了……|头像=文官}}\n{{对话|我|不要往那里跑！那里都是杀手！|头像=广陵王-生气}}\n{{对话|医师|呃啊！！！|头像=文官}}\n{{对话|华胥杀手|呼，这王府里到底有多少只小兔子呀？|头像=黑衣人}}\n{{对话|医师|周女官……周女官……也许……也许女世子……还有救……|头像=文官}}\n{{对话|医师|女世子有喘疾……送去让医师们诊治了……和王妃还有世子……不在一起……|头像=文官}}\n{{对话|我|……他死了……火里还有孩子吗？|头像=广陵王-惊讶}}\n{{对话|我|绣球再坚持一下，我得去试试看找到那个孩子！|头像=广陵王-生气}}\n==女官对话4==\n{{对话|我|你还好吧，还能动吗？！……你身上的服饰，是绣衣楼的服饰？|头像=广陵王-生气}}\n{{对话|绣衣楼密探|……楼主和王妃……请你……找到他们……|头像=绣衣楼密探}}\n{{对话|绣衣楼密探|里八华……和里八华的死士组织华胥……袭击了王府和绣衣楼……女官，小心……|头像=绣衣楼密探}}\n{{对话|我|……这里的布局，的确是广陵王府的布局……|头像=广陵王-严肃}}\n{{对话|里八华密探|这里还有活口，杀！|头像=黑衣人}}\n{{对话|华胥杀手|别让她跑了！|头像=黑衣人}}\n==女官对话5==\n{{对话|我|火太大了……眼睛看不清东西了……|头像=广陵王-难受}}\n{{对话|我|火里，好像有人……|头像=广陵王-难受}}\n{{对话|？？？|……听好了，你要仔细看着这一切，记住这一切，阿懿。|头像=黑衣人}}\n{{对话|？？？|这是阿懿你要学的第一课。永远记住你的猎物，跟紧你的猎物。|头像=黑衣人}}\n{{对话|我|他们在那个摇篮前做什么……呃！！！|头像=广陵王-难受}}\n{{对话|华胥杀手|逮到你了，小兔子。|头像=黑衣人}}\n{{对话-尾}}\n='''卖花女'''=\n<big>家贫不敢看朱门。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==卖花女开场==\n{{对话|我|呃——|头像=广陵王-生气}}\n{{对话|我|……哎？我到新的身体里了？刚才的那一切……是梦吗？|头像=广陵王-惊讶}}\n{{对话|男孩|姐姐，你看！你看！花全开了！|头像=少年}}\n{{对话|花农甲|真是神迹……是仙人显灵了……|头像=平民母亲}}\n{{对话|花农乙|听说这次广陵世子进京受封广陵王的典礼，仙人也来观礼了！|头像=摊贩}}\n{{对话|男孩|姐姐，趁着花全开了，我们多采些花去卖吧！来观礼的人好多，买花人肯定也多！|头像=少年}}\n{{对话|我|看来这次的我是卖花女……|头像=广陵王-严肃}}\n{{对话|绣球|啾……？啾啾啾！|头像=左慈绣球}}\n{{对话|我|我知道你醒了。别激动别激动……|头像=广陵王-微笑}}\n{{对话|绣球|啾不啾！啾啾不啾啾！|头像=左慈绣球}}\n{{对话|我|……为什么这么激动呀？|头像=广陵王-微笑}}\n==卖花女对话1==\n{{对话|我|看起来那个匣子有特殊的术法，能让我进入不同人的体内……|头像=广陵王-严肃}}\n{{对话|绣球|啾啾！啾啾！啾别啾——|头像=左慈绣球}}\n{{对话|我|照这样说，这简直是绣衣楼的神器啊！|头像=广陵王-微笑}}\n{{对话|我|跃迁进入不同人的神智里，可以借助他们的身份，查到许多平时查不到的情报！|头像=广陵王-微笑}}\n{{对话|男孩|姐姐你怎么在发呆呀？你看，我都采了那么多花了。|头像=少年}}\n{{对话|我|再等我一会儿！咦……那人是……|头像=广陵王-惊讶}}\n{{对话|里八华密探|宫中的人，有传递消息回来吗？|头像=黑衣人}}\n{{对话|妇人|刚刚收到。我们刺杀广陵世子的计划，怕是要有变动了。|头像=平民母亲}}\n==卖花女对话2==\n{{对话|妇人|典礼现场有隐鸢阁的人守护，我们很难靠近。除非用些别的手段。|头像=平民母亲}}\n{{对话|里八华密探|少主说了，可以闹个大的。这座宫城只是徒有其表，轻轻一推……就碎了。|头像=黑衣人}}\n{{对话|妇人|……嘘。那个女孩，你在那做什么？|头像=平民母亲}}\n{{对话|妇人|你是在……偷听我们说话吗？|头像=平民母亲}}\n==卖花女对话3==\n{{对话|男孩|姐姐！出什么事了？我听见这边有动静……|头像=少年}}\n{{对话|我|别过来！|头像=广陵王-生气}}\n{{对话|妇人|一起死吧！！！|头像=平民母亲}}\n{{对话|我|呃！！！！！|头像=广陵王-生气}}\n{{对话|我|呼……呼……是火药……|头像=广陵王-难受}}\n{{对话|绣球|啾啾啾啾啾！！！|头像=左慈绣球}}\n{{对话|我|好痛……|头像=广陵王-难受}}\n{{对话|里八华密探|哈……哈……你是谁？你不是普通的卖花女……|头像=黑衣人}}\n{{对话|里八华密探|……不重要了，去死吧！！！|头像=黑衣人}}\n==卖花女对话4==\n{{对话|里八华密探|呃……|头像=黑衣人}}\n{{对话|绣球|啾啾！啾啾久啾啾！|头像=左慈绣球}}\n{{对话|我|绣球把他砸晕了……干得好……|头像=广陵王-微笑}}\n{{对话|绣球|啾啾糟啾啾！|头像=左慈绣球}}\n{{对话|我|……伤得太重了……意识……快要不清了……|头像=广陵王-难受}}\n{{对话|我|花海……也烧起来了……|头像=广陵王-难受}}\n{{对话-尾}}\n='''绣云鸢'''=\n<big>猛兽不群，鸷鸟不双。<ref>《淮南子·说林训》：“日月不并出，狐不二雄，神龙不匹，猛兽不群，鸷鸟不双。”</ref></big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==绣云鸢对话1==\n{{对话|绣云鸢甲|下蛋啾啾！|头像=绣云鸢}}\n{{对话|绣云鸢乙|整薯条啾啾？|头像=绣云鸢}}\n{{对话|我|啾！这次跃迁成绣云鸢了啾！|头像=广陵王-惊讶}}\n{{对话|我|绣球，你听得懂我的话啾？|头像=广陵王-微笑}}\n{{对话|绣球|……啾……|头像=左慈绣球}}\n{{对话|我|还是听不懂啾……不，不太敢飞起来啾……|头像=广陵王-汗颜}}\n{{对话|绣球|啾啾！啾！|头像=左慈绣球}}\n{{对话|我|急什么啾？你也胖到不会飞啾。|头像=广陵王-微笑}}\n{{对话|绣云鸢甲|哈哈哈啾，走地鸡啾！|头像=绣云鸢}}\n==绣云鸢对话2==\n{{对话|我|飞起来的感觉真好啾！|头像=广陵王-微笑}}\n{{对话|绣球|啾啾！啾飞啾啾！|头像=左慈绣球}}\n{{对话|我|你在地上等我一会儿啾！我去看城门尉的值更室有没有情报啾！|头像=广陵王-微笑}}\n{{对话|我|啾？城门尉好像在和谁密会啾？|头像=广陵王-微笑}}\n{{对话|城门尉|你说的事，我都记下了。|头像=西凉军乙}}\n{{对话|文丑|……劳烦你了。你的孩子呢？他出生后，我还没见过他。|头像=文丑}}\n{{对话|城门尉|我让妻子带着他回乡了。他不能留在我身边。|头像=西凉军乙}}\n{{对话|城门尉|为了墨者的理念，我已将生死置之度外。若我的牺牲能让假钜子露出破绽，那……|头像=西凉军乙}}\n{{对话|城门尉|……那，就请文丑将军赐死。|头像=西凉军乙}}\n==绣云鸢对话3==\n{{对话|我|啾……查探到不少情报……啾？绣球在哪啾？|头像=广陵王-微笑}}\n{{对话|我|……是琴声啾……这么晚了，是谁在弹琴啾……|头像=广陵王-微笑}}\n{{对话|青衣文士|……你来了。|头像=周瑜}}\n{{对话|我|啾？|头像=广陵王-挑眉}}\n{{对话|绣球|啾！！！啾啾啾险啾啾！！！！！|头像=左慈绣球}}\n{{对话|我|！！！是弓箭啾——|头像=广陵王-惊讶}}\n==绣云鸢对话4==\n{{对话|我|……受，受伤了啾……他……他追过来了……啾……|头像=广陵王-难受}}\n{{对话|绣球|啾啾！啾啾啾！！！|头像=左慈绣球}}\n{{对话|我|……绣球，快跑啾……逃啾……|头像=广陵王-生气}}\n{{对话|绣球|啾啾啾啾啾——|头像=左慈绣球}}\n{{对话|青衣文士|……就要结束了……|头像=周瑜}}\n{{对话|我|快逃啾！傻鸡！！！|头像=广陵王-生气}}\n{{对话|绣球|啾……啾……妖……啾……|头像=左慈绣球}}\n{{对话|绣球|妖……啾……|头像=左慈绣球}}\n{{对话|青衣文士|………………！！！！！|头像=周瑜}}\n{{对话|绣球？？？|——妖啾，开啾！！！|头像=左慈绣球}}\n==绣云鸢对话5==\n{{对话|我|……他……被逼退了……啾……|头像=广陵王-难过}}\n{{对话|我|可是……我也……好困……啾……|头像=广陵王-难受}}\n{{对话|绣球？？？|啾……啾啾……|头像=左慈绣球}}\n{{对话|我|……你是……师尊啾？|头像=广陵王-惊讶}}\n{{对话|左慈|啾！|头像=左慈绣球}}\n{{对话|我|……太好了……知道师尊也在……我就……安心了……啾……|头像=广陵王-微笑}}\n{{对话-尾}}\n='''渔女'''=\n<big>潮起潮落，一笠一蓑，怡然自得。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==渔女开场==\n{{对话|我|啊！水好凉！|头像=广陵王-惊讶}}\n{{对话|左慈|咕咕……咕咕……|头像=左慈绣球}}\n{{对话|我|师尊别动！羽毛湿了！……唔……不行……太重……了……|头像=广陵王-生气}}\n{{对话|孙尚香|喂——那边有人溺水了吗？|头像=孙尚香}}\n{{对话|我|尚香！！！|头像=广陵王-惊讶}}\n==渔女对话1==\n{{对话|孙尚香|算你运气好，遇到好心的香香子。|头像=孙尚香}}\n{{对话|孙尚香|这只肥鸡好眼熟啊……怎么好像是……好像是……|头像=孙尚香}}\n{{对话|左慈|啾！|头像=左慈绣球}}\n{{对话|孙尚香|□的！它啄我！！！|头像=孙尚香}}\n{{对话|我|不要打它！……我认得你是孙家女公子，怎么没和二公子一起出来玩呀？|头像=广陵王-微笑}}\n{{对话|孙尚香|……我独自出来散散心。家里……最近很闷。你是本地人，也听说了吧？我父亲他……|头像=孙尚香}}\n{{对话|我|……你在家里，要多陪陪吴夫人。|头像=广陵王-难过}}\n{{对话|孙尚香|……你是谁？你说话的语气，不像普通的渔女……|头像=孙尚香}}\n==渔女对话2==\n{{对话|我|呼……抱着浮木，总算逃开了……|头像=广陵王-微笑}}\n{{对话|我|师尊，你……你别动，浮木承受不了绣球的体重……|头像=广陵王-微笑}}\n{{对话|左慈|啾……沉啾……|头像=左慈绣球}}\n{{对话|我|羽毛沾水了肯定很沉……咦？水下有什么奇怪的影子……|头像=广陵王-挑眉}}\n{{对话|我|……水下似乎有一片古国的遗迹……|头像=广陵王-惊讶}}\n{{对话|我|…………好像有谁在水下……看着我……|头像=广陵王-微笑}}\n{{对话|左慈|啾！危啾啾！|头像=左慈绣球}}\n{{对话|我|！！！是巨浪——|头像=广陵王-生气}}\n{{对话-尾}}\n='''猎户'''=\n<big>箭来！入山岂能空手回。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==猎户对话1==\n{{对话|山越军甲|喂——那边那个猎户，过来帮个忙？|头像=山贼甲}}\n{{对话|我|啊……难道是山越军准备抓壮丁？|头像=广陵王-惊讶}}\n{{对话|左慈|啾……|头像=左慈绣球}}\n{{对话|我|嗯，我明白！师尊，随时准备泰山压顶！|头像=广陵王-点头}}\n{{对话|山越军乙|愣着干啥呢？过来啊！我们差个群演！|头像=山贼乙}}\n{{对话|我|我才不要做这种奇怪的事！|头像=广陵王-生气}}\n==猎户对话2==\n{{对话|严白虎|再排练一遍，再有慢半拍的，统统发配去刻书组！|头像=严白虎}}\n{{对话|我|我们举着这个花球就可以了吗？|头像=广陵王-挑眉}}\n{{对话|山越军甲|对，举高点，听见喊一就举起来，喊二就转身挥舞！|头像=山贼甲}}\n{{对话|严白虎|这是给我偶像丝人心的应援歌，都喊出气势来！一——|头像=严白虎}}\n{{对话|我|海棠悬日，天降紫微，广陵夜……|头像=广陵王-微笑}}\n{{对话|我|实在……喊不出口……呃！|头像=广陵王-摇头}}\n{{对话|严白虎|你，去刻书！|头像=严白虎}}\n==猎户对话3==\n{{对话|我|眼睛都要瞎了……还要刻多少卷刘备文学啊……|头像=广陵王-阴沉}}\n{{对话|左慈|啾啾歪啾！|头像=左慈绣球}}\n{{对话|我|是有点刻歪了……|头像=广陵王-惊讶}}\n{{对话|左慈|歪歪歪啾！|头像=左慈绣球}}\n{{对话|我|！！！是书山歪了——砸下来了啊啊——|头像=广陵王-生气}}\n{{对话-尾}}\n='''水桶'''=\n<big>桶之大、江河装得下。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==水桶对话1==\n{{对话|张修|今日的布道到此为止。各位乡亲，回去之前，可要享用一杯桑落酒？|头像=张修}}\n{{对话|我|！是他……|头像=广陵王-惊讶}}\n{{对话|张修|啊……原来你在这呀……|头像=张修}}\n{{对话|我|呃呃，动不了……这次到底变成了什么，一动都动不了……好像能勉强左右滚一滚……|头像=广陵王-惊讶}}\n{{对话|左慈|啾滚啾！|头像=左慈绣球}}\n{{对话|我|师尊你能推着我滚吗？太好了，我们快离开这——|头像=广陵王-生气}}\n==水桶对话2==\n{{对话|左慈|呼啾呼啾……|头像=左慈绣球}}\n{{对话|我|他追上来了！师尊，加油！|头像=广陵王-生气}}\n{{对话|左慈|呼……咕噜噜——|头像=左慈绣球}}\n{{对话|我|啊绣球体型太胖了，跟我一起滚下坡了……|头像=广陵王-无语}}\n{{对话|张修|不要跑……呵呵呵……不要跑——|头像=张修}}\n{{对话|我|没关系！这样越滚越快，一定能摆脱他！……话说回来，我这次到底是什么啊……|头像=广陵王-生气}}\n==水桶对话3==\n{{对话|我|越滚越快了，师尊！是不是有点不对劲？！|头像=广陵王-生气}}\n{{对话|左慈|啾咕噜噜噜噜——|头像=左慈绣球}}\n{{对话|我|啊，一弹一弹的先弹下山了……糟了！！！前面是悬崖！！！|头像=广陵王-惊讶}}\n{{对话|我|为什么停不住——停下、停下啊啊啊——|头像=广陵王-生气}}\n{{对话-尾}}\n='''鹿'''=\n<big>渴饮清溪水，眠卧山林间。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==鹿对话1==\n{{对话|我|这次是白色的鹿啊……|头像=广陵王-微笑}}\n{{对话|我|师尊你看！我这样是不是很漂亮？|头像=广陵王-微笑}}\n{{对话|左慈|啾。|头像=左慈绣球}}\n{{对话|我|如果被人发现，肯定会被当成祥瑞的吧……|头像=广陵王-微笑}}\n{{对话|猎人|将军，那头白鹿就在那！|头像=屠夫}}\n{{对话|颜良|你们从左边围过去，不要伤它。二公子要将它送给长辈贺寿。|头像=颜良}}\n==鹿对话2==\n{{对话|袁氏士兵|在那里——呃啊！|头像=袁氏士兵}}\n{{对话|左慈|啾！|头像=左慈绣球}}\n{{对话|袁氏将士|我看见了，在那——呃啊！|头像=袁氏士兵统领}}\n{{对话|左慈|啾啾！|头像=左慈绣球}}\n{{对话|我|师尊砸得越来越准了！|头像=广陵王-眯眼笑}}\n{{对话|颜良|原来，逃到了这里啊。|头像=颜良}}\n{{对话|颜良|……嗯？你是……绣球？|头像=颜良}}\n{{对话|左慈|……啾？|头像=左慈绣球}}\n==鹿对话3==\n{{对话|颜良|真是奇怪，好像和平时的绣球有些不同……而且还瘦了。|头像=颜良}}\n{{对话|颜良|这头白鹿，是你的朋友吗？|头像=颜良}}\n{{对话|左慈|啾。|头像=左慈绣球}}\n{{对话|颜良|这样啊……你们快走吧，往南边走，别被抓到了。|头像=颜良}}\n{{对话|我|多亏是遇到他……咦，前面那个人影是……|头像=广陵王-微笑}}\n{{对话|青衣文士|……|头像=周瑜}}\n{{对话-尾}}\n='''贵族少女'''=\n<big>膏粱锦绣，绮罗珠履<ref>《史记·春申君列传》：“春申君客三千余人,其上客皆蹑珠履。”珠饰之履。指有谋略的门客。</ref>。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==贵族少女对话1==\n{{对话|吕蒙|你没事吧？|头像=吕蒙}}\n{{对话|我|……啊。这次是……一个穿华服的女孩子体内？|头像=广陵王-惊讶}}\n{{对话|左慈|啾……|头像=左慈绣球}}\n{{对话|吕蒙|是吓傻了吗？你马车上的马匹突然发狂，把车夫甩下去了，带着你往崖边冲。|头像=吕蒙}}\n{{对话|吕蒙|幸好遇上我！你家在哪？我送你回去，就是……嘿嘿！记得给我点谢礼啊，我最近缺钱。|头像=吕蒙}}\n==贵族少女对话2==\n{{对话|孙尚香|吕蒙，她是谁呀？你朋友？|头像=孙尚香}}\n{{对话|吕蒙|我这叫山贼金壶洗手，路见不凸，拔刀宰猪。|头像=吕蒙}}\n{{对话|孙尚香|看她的装扮，好像是张家女。|头像=孙尚香}}\n{{对话|吕蒙|哪个张家？|头像=吕蒙}}\n{{对话|孙尚香|前天起兵造反、被我哥灭了的那个张家啊。|头像=孙尚香}}\n{{对话|我|呃……那我家还有人吗？|头像=广陵王-难过}}\n{{对话|孙尚香|都挂城楼上呢。我母亲替你们几个女眷求情，让你们留了条命。结果你兜兜转转，又回来了。|头像=孙尚香}}\n==贵族少女对话3==\n{{对话|妇人|呵呵……呵呵呵……孙策……呵呵呵……|头像=平民母亲}}\n{{对话|我|母亲，我回来了。|头像=广陵王-微笑}}\n{{对话|妇人|我的宝贝……我的宝贝回来了。宝贝，嘱咐你去做的事，你做好了吗？为什么带了只肥鸡回来……|头像=平民母亲}}\n{{对话|我|回来的路上，遇上了一些事故……|头像=广陵王-难过}}\n{{对话|妇人|所以你没有去婶婶家取药？！你没有？！！我特意设宴今日请孙策来，你没有把药取来？！|头像=平民母亲}}\n==贵族少女对话4==\n{{对话|我|母亲冷静些，我……我取到了。|头像=广陵王-生气}}\n{{对话|妇人|呵呵呵……太好了，有了它，我们就能替全族报仇了！|头像=平民母亲}}\n{{对话|妇人|晚膳都备好了吗？去孙府请他们赴宴的人回来了吗？！|头像=平民母亲}}\n{{对话|仆人|都备好了。请夫人放心，我们都会为主人尽忠的！|头像=侍从}}\n{{对话|妇人|好……好……我的宝贝，待那孙策来了，就由你亲自敬酒。一杯酒，送他上路……|头像=平民母亲}}\n==贵族少女对话5==\n{{对话|妇人|时辰快到了，他们要来了……|头像=平民母亲}}\n{{对话|妇人|宝贝，到妈妈身边来……不要怕，妈妈不怕，你也不要怕……我们就要替众人报仇了……|头像=平民母亲}}\n{{对话|左慈|啾！人啾！|头像=左慈绣球}}\n{{对话|仆人|夫人！来了、来了！他们来了！|头像=侍从}}\n{{对话|我|……！！！|头像=广陵王-惊讶}}\n{{对话|江东士兵|周中郎将有令，逆贼余孽，除恶务尽！|头像=水军甲}}\n{{对话-尾}}\n='''医官'''=\n<big>杏林<ref>《太平广记》：“董奉者，字君异，侯官人也……奉居山不种田，日为人治病，亦不取钱。重病愈者，使栽杏五株，轻者一株，如此数年，计得十余万株，郁然成林。”</ref>春暖，橘井<ref>《列仙传》：“苏耽，桂阳人也，汉文帝时得道……曰：‘明年天下疾疫，庭中井水桔树，患疫者，与井水一升，桔叶一枚，饮之立愈。’后果然。求水叶者，远至千里，应手而愈。”</ref>泉香。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==医官对话1==\n{{对话|我|这次是医师啊......我是在给人看病吗？|头像=广陵王-微笑}}\n{{对话|仆人|咳，咳咳咳。医师，请专注些。|头像=侍从}}\n{{对话|我|不好意思......请问病人在......|头像=广陵王-微笑}}\n{{对话|贾诩|你是瞎子吗？|头像=贾诩}}\n{{对话|我|！！！|头像=广陵王-惊讶}}\n==医官对话2==\n{{对话|贾诩|如何？|头像=贾诩}}\n{{对话|我|......唔，贾先生的脉象......并无异样。|头像=广陵王-微笑}}\n{{对话|贾诩|没你什么事了，退下吧。|头像=贾诩}}\n==医官对话3==\n{{对话|我|嘘......师尊，小心肚子别压到枯叶......|头像=广陵王-微笑}}\n{{对话|左慈|呼......|头像=左慈绣球}}\n{{对话|我|他一个人坐在轮椅上，在看窗外的月亮......|头像=广陵王-挑眉}}\n==医官对话4==\n{{对话|贾诩|你也在看着月亮吗？|头像=贾诩}}\n{{对话|贾诩|没关系的......最后只有我，你能选的，到最后就只有我......|头像=贾诩}}\n{{对话|贾诩|......我累了。每次看月亮的时候，就会短暂地忘掉恨意......|头像=贾诩}}\n{{对话|贾诩|如果不恨，便会疲惫得连抬头的力气都没有......|头像=贾诩}}\n==医官对话5==\n{{对话|我|传闻是真的，贾诩有一台黄金马车......但是这台马车很旧了，显然不是董卓赐给他的。|头像=广陵王-惊讶}}\n{{对话|我|所以，董卓身边的神秘军师，或许并不是他......|头像=广陵王-严肃}}\n{{对话|府兵|什么人？！|头像=副将}}\n{{对话|左慈|啾！|头像=左慈绣球}}\n{{对话|我|师尊干得好！他被砸晕了，接下来......|头像=广陵王-微笑}}\n{{对话|我|呃......呃？！黄金马车也被撞到了，朝我们压过来了——|头像=广陵王-生气}}\n{{对话-尾}}\n='''杀手'''=\n<big>五铢钱，新丰酒，我何惜此头。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==杀手对话1==\n{{对话|杀手甲|一对花，押六。|头像=黑衣人}}\n{{对话|杀手乙|一对王，放炮。|头像=山贼甲}}\n{{对话|杀手丙|哈欠……两对王……新人，轮到你了。|头像=山贼乙}}\n{{对话|我|一对雷，炸，话说回来，前辈，我们每天都是这么闲的吗？|头像=广陵王-微笑}}\n{{对话|左慈|哈欠啾……|头像=左慈绣球}}\n==杀手对话2==\n{{对话|杀手甲|唉，年景不好啊，各地都是旱灾瘟疫洪涝战乱，大家兜兜里都没钱，我们也没业务啊。|头像=黑衣人}}\n{{对话|我|我们不是里八华的死士组织吗？里八华的密探不派活给我们？|头像=广陵王-微笑}}\n{{对话|杀手乙|人家那是一线的人上人，自己有自己的小团队，看不上我们这种编外组织的啦。|头像=山贼甲}}\n{{对话|杀手丙|说什么“你们华胥的死士总是虚报工时混经费”，总说用不起。唉。|头像=山贼乙}}\n{{对话|我|那、那春梦前辈呢？春梦前辈就算是华胥首席，也一样接不到单子啊。|头像=广陵王-惊讶}}\n{{对话|杀手甲|人家那是关系户，那能和我们一样——啊！老大，你回来了！！！|头像=黑衣人}}\n==杀手对话3==\n{{对话|我|春梦前辈最近的心情不太好吗？|头像=广陵王-微笑}}\n{{对话|杀手甲|嘘……老大难得接到一张大单，去刺杀一个大人物。眼看要成功了，突然窜出来一个挡刀的。|头像=黑衣人}}\n{{对话|我|是刺杀广陵王吗？|头像=广陵王-严肃}}\n{{对话|左慈|……啾？|头像=左慈绣球}}\n{{对话|杀手乙|对对对！就是那个有龙阳之好凶残至极的广陵王！|头像=山贼甲}}\n{{对话|左慈|啾啾啾？|头像=左慈绣球}}\n{{对话|杀手丙|传说他连绣衣楼的狗和鸟都不放过！|头像=山贼乙}}\n==杀手对话4==\n{{对话|我|前辈，我们这样没关系吗？|头像=广陵王-汗颜}}\n{{对话|杀手甲|没关系，身为杀手，就要胆大心细。|头像=黑衣人}}\n{{对话|我|可是我们这样暴露自己的身份，没关系吗？|头像=广陵王-汗颜}}\n{{对话|杀手甲|都快饿死了还有什么关系啦呜呜……你好！华胥了解一下，刺杀绑架了解一下！|头像=黑衣人}}\n{{对话|路人|不用不用谢谢谢谢……|头像=摊贩}}\n{{对话|杀手甲|愣着干什么？一起拉业务啊！|头像=黑衣人}}\n{{对话|我|是……是！你好！！华胥了解一下，刺杀绑架了解一下！|头像=广陵王-生气}}\n==杀手对话5==\n{{对话|左慈|啾……|头像=左慈绣球}}\n{{对话|我|师尊，你再忍耐一下。我知道难得有打入对方内部的机会，你急着去调查……|头像=广陵王-微笑}}\n{{对话|我|可是前辈们接不到业务，看着可怜兮兮的，我得帮帮他们。|头像=广陵王-摇头}}\n{{对话|杀手丙|接到了接到了！我接到业务了！|头像=山贼乙}}\n{{对话|杀手丙|虽然只是个小小的造谣任务，但我也和甲方沟通拉齐需求了！|头像=山贼乙}}\n{{对话|杀手甲|怎么样？|头像=黑衣人}}\n{{对话|杀手丙|沟通了数十版任务计划，最后用了最初那版！去隐鸢阁散布谣言，说张仲景能生兔子！|头像=山贼乙}}\n{{对话|左慈|……啾……啾……啾祥，开啾！|头像=左慈绣球}}\n{{对话-尾}}\n='''游侠'''=\n<big>路见不平，拔剑可助。</big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==游侠对话1==\n{{对话|我|呼……呼……|头像=广陵王-生气}}\n{{对话|左慈|啾……啾……|头像=左慈绣球}}\n{{对话|我|不行……了……爬不动……了……|头像=广陵王-阴沉}}\n{{对话|师弟|不行啊，师姐，我们和对方约好了，今夜子时……山顶……决战……|头像=绣衣楼密探}}\n{{对话|我|为什么侠客就要……背着一把大刀、一把铁弓，还有一台古琴……爬山啊？！|头像=广陵王-阴沉}}\n{{对话|师弟|到、到了山顶之后，先抚琴一曲，大侠都是这样的！|头像=绣衣楼密探}}\n==游侠对话2==\n{{对话|我|呼，终于爬上来了……|头像=广陵王-生气}}\n{{对话|郭解|……|头像=郭解}}\n{{对话|我|今夜的决战对象是郭解前辈吗？|头像=广陵王-严肃}}\n{{对话|左慈|啾！啾！|头像=左慈绣球}}\n{{对话|郭解|……（点头）|头像=郭解}}\n{{对话|左慈|啾啾啾！|头像=左慈绣球}}\n{{对话|郭解|……（摇头）|头像=郭解}}\n{{对话|我|……他们就这样交流起来了……|头像=广陵王-无语}}\n==游侠对话3==\n{{对话|郭解|我该走了。|头像=郭解}}\n{{对话|我|可是决斗的事就这样算了吗？|头像=广陵王-生气}}\n{{对话|郭解|……小白说过会有今天。|头像=郭解}}\n{{对话|郭解|她说，让你往月落之处而去。|头像=郭解}}\n==游侠对话4==\n'''选择山崖'''\n{{对话|我|今天连月亮都没有，哪来什么月落之处呢……下山吧。|头像=广陵王-阴沉}}\n{{对话|左慈|啾啾啾！啾啾！|头像=左慈绣球}}\n{{对话|我|师尊别叼着我衣袖啊……我爬了一天的山，只想休息了。|头像=广陵王-阴沉}}\n{{对话|左慈|啾啾啾——啾？|头像=左慈绣球}}\n{{对话|我|我的衣袖被咬断了！要摔下山崖了——|头像=广陵王-惊讶}}\n{{对话|左慈|啾啾不啾啾啾！！！|头像=左慈绣球}}\n==游侠对话5==\n'''选择左慈'''\n{{对话|我|师尊，月落之处到底是什么意思？|头像=广陵王-挑眉}}\n{{对话|左慈|日出啾！|头像=左慈绣球}}\n{{对话|我|原来如此，月落日出，东边……那直接说东边不就好了吗。|头像=广陵王-点头}}\n{{对话|我|咦？那边那个人影是……|头像=广陵王-惊讶}}\n{{对话|干吉|殿下，仙者。|头像=干吉}}\n{{对话|我|你也能认出我们？|头像=广陵王-微笑}}\n{{对话|干吉|眼睛是最容易蒙蔽本质之物。所以，仙者需要借用我的力量，强行驱动一次巫之力？|头像=干吉}}\n==游侠对话6==\n{{对话|我|山……整座山都在震荡！|头像=广陵王-生气}}\n{{对话|左慈|……|头像=左慈绣球}}\n{{对话|干吉|我以为，仙者会像传闻中那样不近人情，将所有拥有巫之血的人带回隐鸢阁囚禁。|头像=干吉}}\n{{对话|我|山石在逆飞？不，天地间所有的事物都在逆转！|头像=广陵王-生气}}\n{{对话|干吉|保重。我们会在过去重逢……|头像=干吉}}\n{{对话-尾}}\n='''仙人'''=\n<big>乘云气，御飞龙，游乎四海之外。<ref>《逍遥游》：“藐姑射之山，有神人居焉。肌肤若冰雪，淖约若处子，不食五谷，吸风饮露，乘云气，御飞龙，而游乎四海之外；其神凝，使物不疵疠而年谷熟。”</ref></big><br>\n<font color=gray>“借着他人的双眼，继续认识黑暗中的隐秘。”</font>\n{{对话-头}}\n==仙人对话1==\n{{对话|我|唔……这里是……哪……|头像=广陵王-难受}}\n{{对话|我|！！！师尊！你变回来了？！|头像=广陵王-惊讶}}\n{{对话|左慈|嘘。它在。不要吵醒它。|头像=左慈}}\n{{对话|我|“它”？|头像=广陵王-挑眉}}\n{{对话|左慈|它无处不在。吾只能争取这片刻……呃……|头像=左慈}}\n{{对话|我|师尊，你眼中在流血……|头像=广陵王-生气}}\n{{对话|左慈|记住……不要跟它走……|头像=左慈}}\n==仙人对话2==\n{{对话|我|……不管往前走多久，都是一样纯白的境地……|头像=广陵王-微笑}}\n{{对话|我|可是身体变得好轻，完全不会累……|头像=广陵王-微笑}}\n{{对话|青衣文士|……|头像=周瑜}}\n{{对话|我|……是你。你究竟是什么人？|头像=广陵王-惊讶}}\n{{对话|青衣文士|……随我走吧。|头像=周瑜}}\n{{对话|我|师尊说了，我不能跟任何人走。|头像=广陵王-摇头}}\n==仙人对话3==\n{{对话|青衣文士|无数次了，无数次穷尽的一生……|头像=周瑜}}\n{{对话|青衣文士|为何还要回去？回头，只有一条血路。|头像=周瑜}}\n{{对话|我|那为何还要继续往前走？逃离血路者死路一条，回到血海厮杀，才有一线生机。|头像=广陵王-严肃}}\n{{对话|青衣文士|我们曾经都这样想。|头像=周瑜}}\n{{对话|我|……“我们”？|头像=广陵王-严肃}}\n==仙人对话4== \n'''选择青衣文士'''\n{{对话|我|……好利的剑……|头像=广陵王-难受}}\n{{对话|青衣文士|为你而磨的。|头像=周瑜}}\n{{对话|我|……我要死了吗……我好像……看见仙人飞落了……好多仙人飞落在我身边……|头像=广陵王-难受}}\n{{对话|青衣文士|我不会让你死的。那些仙人，只是来分食你的血肉的。|头像=周瑜}}\n{{对话|我|……可笑……你明明……杀了我……|头像=广陵王-难受}}\n{{对话|青衣文士|杀你，从不是为了杀你……|头像=周瑜}}\n==仙人对话5==\n'''选择巫者'''\n{{对话|青衣文士|别再逃了。它们要被引来了。|头像=周瑜}}\n{{对话|我|呃——手……手不见了……|头像=广陵王-惊讶}}\n{{对话|青衣文士|它们开始撕咬你了。快到我这来。|头像=周瑜}}\n{{对话|左慈|妖祥，开阵——|头像=左慈}}\n{{对话|青衣文士|你现在的力量，根本不足以逼退我。|头像=周瑜}}\n{{对话|青衣文士|好了，我要带她走了……|头像=周瑜}}\n{{对话|青衣文士|没有人……还能将我们分开了。|头像=周瑜}}\n{{对话-尾}}\n='''妇兵'''=\n<big>女子当自强。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”</font>\n{{对话-头}}\n==妇兵对话1==\n{{对话|高览|掩护右翼的枪兵！快！|头像=高览}}\n{{对话|我|将军，敌方兵力太强了，支援什么时候到啊？！|头像=广陵王-生气}}\n{{对话|高览|再坚持一下，颜良将军很快就到了！|头像=高览}}\n{{对话|我|颜良到了的话……文丑将军是不是也快到了？|头像=广陵王-生气}}\n{{对话|高览|文丑？啊……你是说那个墨家的贼兵头目啊。|头像=高览}}\n==妇兵对话2==\n{{对话|高览|呼……呼，伤亡惨重啊。你怎么样？颜良。|头像=高览}}\n{{对话|我|我是小兵甲……|头像=广陵王-无语}}\n{{对话|高览|……哦哦，不好意思，我有眼疾。|头像=高览}}\n{{对话|高览|不知颜良追击他们的结果如何。现在各地都在信奉墨家，对士族喊打喊杀……|头像=高览}}\n{{对话|我|各地都在信奉墨家？可墨家不是早就式微了吗？|头像=广陵王-微笑}}\n{{对话|高览|啥？你在做梦吧？现在可是天下皆墨啊 ！|头像=高览}}\n==妇兵对话3==\n{{对话|文丑|哎呀……原来还有人活着呀。|头像=文丑}}\n{{对话|文丑|成为这些压迫者的爪牙，就该有觉悟，变成草芥们养料的觉悟。|头像=文丑}}\n{{对话|左慈|啾——|头像=左慈绣球}}\n{{对话|文丑|呃……什么小伎俩。|头像=文丑}}\n{{对话|文丑|你活不了多久了……留你在这里吧。我们要去征讨下一个士族了。|头像=文丑}}\n\n{{对话-尾}}\n\n='''流民'''=\n<big>四海燃烽烟，九州遍饥荒。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”</font>\n{{对话-头}}\n==流民对话1==\n{{对话|孩子|头像=少年|妈妈……我饿……}}\n{{对话|妇人|头像=平民母亲|快到了……我们就快到大贤良师的面前了……大贤良师会救我们的……}}\n{{对话|我|头像=广陵王-阴沉|好饿……师尊，你没事吧？}}\n{{对话|左慈|头像=左慈绣球|啾……}}\n{{对话|我|头像=广陵王-阴沉|小心，被别人看见的话，一定会被吃掉的……}}\n==流民对话2==\n{{对话|流民|头像=摊贩|是干吉神仙！我看见干吉神仙了！干吉在这，大贤良师一定就在附近！}}\n{{对话|干吉|头像=干吉|这里没有兵乱，你们可以安歇片刻了。}}\n{{对话|妇人|头像=平民母亲|求神仙救命！我的孩子快饿死了，求你给他一些吃食……}}\n{{对话|干吉|头像=干吉|来，吃吧……}}\n{{对话|流民|头像=摊贩|他把自己的肉喂给孩子了……}}\n{{对话|孩子|头像=少年|唔……唔？妈妈，我们在哪？}}\n{{对话|妇人|头像=平民母亲|他醒过来了！多谢神仙，多谢神仙！}}\n==流民对话3==\n{{对话|干吉|头像=干吉|又见到殿下了。}}\n{{对话|我|头像=广陵王-阴沉|既然相遇了，能否带我见见大贤良师？传说中早已病逝的大贤良师……}}\n{{对话|干吉|头像=干吉|他还需要休息……道的涌动，让他太过疲惫了。}}\n{{对话|左慈|头像=左慈绣球|……啾……}}\n{{对话|干吉|头像=干吉|仙者也很疲惫……你们不能久留，由我送你们走吧。}}\n{{对话|我|头像=广陵王-惊讶|……四周的景物，再度逆流了……}}\n{{对话-尾}}\n='''石头'''=\n<big>嶙峋奇诡，异形怪状。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”</font>\n{{对话-头}}\n==石头对话1==\n{{对话|陈宫|头像=陈宫|……敲敲，敲敲。}}\n{{对话|陈宫|头像=陈宫|没反应呢……是我看错了吗……}}\n{{对话|我|头像=广陵王-微笑|……}}\n{{对话|书童|头像=少年|宫主，今日的讲学要开始了。}}\n{{对话|陈宫|头像=陈宫|啊……不急。奉孝今日有被抓去学堂吗？}}\n{{对话|书童|头像=少年|荀学长一早就把人抓了，绑起来吊在学堂梁上了。}}\n==石头对话2==\n{{对话|郭嘉|头像=郭嘉|啊啊……大腿被勒得没知觉了……求你放我下来吧荀学长，你的心头肉要被勒成猪头肉了……}}\n{{对话|郭嘉|头像=郭嘉|阿和，我平时待你最好，救救你的学长吧……}}\n{{对话|贾诩|头像=贾诩|学长，安静。}}\n{{对话|陈宫|头像=陈宫|咳。今日的讲学开始了。今日，要讲的是宇与宙。}}\n{{对话|陈宫|头像=陈宫|无限的宇与宙，构成了万千世界……}}\n{{对话|陈宫|头像=陈宫|也许曾有一个世界，这世上所有的生灵，都能感受到宇宙贴着自己涌动……}}\n==石头对话3==\n{{对话|我|头像=广陵王-阴沉|……一天又这样过去了……已经不会害怕了。明明被困在这里，一动都不能动……}}\n{{对话|陈宫|头像=陈宫|所以，诸位学子心中的迷茫来自何处呢？}}\n{{对话|贾诩|头像=贾诩|光阴流逝，学生却不知前路该如何行进，故而迷茫。}}\n{{对话|陈宫|头像=陈宫|看日升月落，光阴流逝，本身是不可怕的……}}\n{{对话|陈宫|头像=陈宫|你不怕任何东西。人有生灭，你是八百万岁的你……}}\n{{对话|陈宫|头像=陈宫|像宇宙一样滚下去，向宇宙一样粉碎……回到水面之下吧。}}\n==石头对话4==\n{{对话|贾诩|头像=贾诩|我们不必逃学去壶关了吗？}}\n{{对话|郭嘉|头像=郭嘉|嗯。原本想去阻拦那只恶兽……结果他居然在半途病死了。}}\n{{对话|郭嘉|头像=郭嘉|不过恶兽虽然无法进京，但袁氏凭借何进杀灭了十常侍，彻底控制了朝廷……}}\n{{对话|贾诩|头像=贾诩|那学长有何计划？}}\n{{对话|贾诩|头像=贾诩|说起来，学长，你发现没有？好像从刚才开始，就有人在盯着我们……}}\n{{对话|郭嘉|头像=郭嘉|肯定是暗恋我的小学妹……啊！是蔡琰学姐！学姐好！放学后要一起喝一杯吗？}}\n==石头对话5==\n{{对话|我|头像=广陵王-生气|……唔……好烫……}}\n{{对话|左慈|头像=左慈绣球|啾啾！火啾！}}\n{{对话|我|头像=广陵王-生气|…………唔！着火了！辟雍学宫着火了？！}}\n{{对话|陈宫|头像=陈宫|学宫失火，快抢救典籍！}}\n{{对话|郭嘉|头像=郭嘉|阿和！阿和还在火里，没有出来！！！}}\n{{对话|我|头像=广陵王-难受|呃，好痛……我也要被……烧裂了……}}\n{{对话-尾}}\n='''侍女'''=\n<big>娉娉袅袅，质而不俚<ref>《汉书·司马迁传赞》：“然自刘向、扬雄博极群书，皆称迁有良史之材，服其善序事理，辨而不华，质而不俚，其文直，其事核，不虚美，不隐恶，故谓之实录。”</ref>。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”</font>\n{{对话-头}}\n==侍女对话1==\n{{对话|我|头像=广陵王-微笑|二公子，吴夫人让我送点心过来，叮嘱你读书不要太累了。}}\n{{对话|孙权|头像=孙权|知道了……等等，你停一下。}}\n{{对话|孙权|头像=孙权|你说话的口音，好像带广陵的口音。}}\n{{对话|我|头像=广陵王-挑眉|呃……有吗？}}\n{{对话|孙权|头像=孙权|……难道，你是广陵那边的间谍？}}\n==侍女对话2==\n{{对话|我|头像=广陵王-生气|呼！差点被发现了……到处都是搜捕我的府兵！}}\n{{对话|我|头像=广陵王-微笑|那座院子看起来没什么人……过去看看！}}\n==侍女对话3==\n{{对话|青衣文士|头像=周瑜|……}}\n{{对话|我|头像=广陵王-难受|！！！是你——呃啊——}}\n{{对话|青衣文士|头像=周瑜|她已经不在了。所以，我必须保住你。}}\n{{对话|青衣文士|头像=周瑜|很快……很快，你就会醒过来的。以往的一切，就当是一场噩梦。}}\n{{对话-尾}}\n='''军阀'''=\n<big>杀一为孽，屠万称雄。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”</font>\n{{对话-头}}\n==军阀对话1==\n{{对话|侍卫|头像=士兵|报——新一批来投靠的人已在帐外，等将军召见！}}\n{{对话|我|头像=广陵王-微笑|传。}}\n{{对话|暴躁船夫|头像=摊贩|将军！小人愿投靠将军！}}\n{{对话|我|头像=广陵王-微笑|……这位壮士双臂结实有力，还有些眼熟，敢问原是哪条道上的？}}\n{{对话|暴躁船夫|头像=摊贩|小人原是打年糕的。来，将军尝尝我从前的手艺！}}\n{{对话|暴躁船夫|头像=摊贩|因孙家老太爷被年糕黏掉一颗牙，孙家禁止江东吃年糕，小人就失业当了船夫！}}\n==军阀对话2==\n{{对话|左慈|头像=左慈绣球|啾……}}\n{{对话|我|头像=广陵王-微笑|师尊再忍一忍，我在招兵买马呢。从前在广陵，地盘和粮草都不够，还从没体验过亲自征兵。}}\n{{对话|左慈|头像=左慈绣球|呼啾……}}\n{{对话|袁绍|头像=袁绍|……咦？}}\n{{对话|我|头像=广陵王-惊讶|！！！袁、袁二公子，你怎么……也来投我了……}}\n{{对话|袁绍|头像=袁绍|这里不是我的军帐吗？我跟着眼熟的侍卫回来的……}}\n{{对话|我|头像=广陵王-无语|……你脸盲越来越严重了……我派人送你回去。}}\n==军阀对话3==\n{{对话|天蛾|头像=蛾使|将军！小人来问问你这里有没有活？}}\n{{对话|我|头像=广陵王-微笑|啊是你……咳咳，你原来是在哪里做事的？给我看看你在前雇主那的符传。}}\n{{对话|天蛾|头像=蛾使|小人原是韩馥将军麾下的斥候。这是我在韩馥将军那边用的符传，上面有我的代号。}}\n{{对话|我|头像=广陵王-无语|我看看……你在韩馥那里叫……“老板同事在天堂”？}}\n{{对话|天蛾|头像=蛾使|啊不好意思不好意思，拿错了，是这个，徐某。}}\n{{对话|我|头像=广陵王-难受|原来如此，你从没去过广陵吗？……呃……呃……唔……咳咳咳……唔……}}\n{{对话|天蛾|头像=蛾使|将军？你是噎到了吗？}}\n{{对话|我|头像=广陵王-难受|年、糕……好、黏……呃……噎……住……呃}}\n{{对话-尾}}\n='''蝴蝶'''=\n<big>翅生双目，戏舞林下。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”</font>\n{{对话-头}}\n==蝴蝶对话1==\n{{对话|飞云|头像=飞云|汪汪汪！}}\n{{对话|我|头像=广陵王-微笑|哈哈哈……飞云，再跑快一些！}}\n{{对话|左慈|头像=左慈绣球|……}}\n{{对话|我|头像=广陵王-微笑|师尊你也开心些嘛，难得没有公务缠身，和飞云一起玩玩嘛！}}\n{{对话|左慈|头像=左慈绣球|…………}}\n==蝴蝶对话2==\n{{对话|飞云|头像=飞云|汪！}}\n{{对话|我|头像=广陵王-惊讶|前面是雀部，不能进去！}}\n{{对话|雀使甲|头像=雀使|首座，关于雁门关的据点安排……}}\n{{对话|阿蝉|头像=阿蝉|不必变动。}}\n{{对话|雀使乙|头像=绣衣楼密探|那追拿叛徒的事……}}\n{{对话|阿蝉|头像=阿蝉|我已安排蜂部首座伍丹去处理了。}}\n==蝴蝶对话3==\n{{对话|我|头像=广陵王-生气|阿蝉！阿蝉！你认得出我吗？}}\n{{对话|阿蝉|头像=阿蝉|唔……好像有熟悉的声音……}}\n{{对话|我|头像=广陵王-惊讶|你怎么会是雀部首座？还有小丹，小丹不该在蛾部吗？}}\n{{对话|我|头像=广陵王-难过|阿蝉……阿蝉……}}\n{{对话|我|头像=广陵王-阴沉|……啊……好冷……我……我要死了吗……}}\n{{对话|我|头像=广陵王-阴沉|想起来了……蝴蝶破茧后……寿数……很短的……}}\n{{对话-尾}}\n='''黄金马车'''=\n<big>金彩堂皇，如梦如真。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”</font>\n{{对话-头}}\n==黄金马车对话1==\n{{对话|黑马|头像=黑马|我说啊咕咕，你知不知道自己真的很重啊？}}\n{{对话|我|头像=广陵王-惊讶|唔……啊！我能听懂马的话了？可是这次我不是马啊……}}\n{{对话|白马|头像=白马|她完全没有愧疚之心呢咕咕，我们每天累得跟马一样……}}\n{{对话|我|头像=广陵王-生气|你们本来就是马啊！}}\n==黄金马车对话2==\n{{对话|黑马|头像=黑马|那家伙要上车了咕！}}\n{{对话|白马|头像=白马|他每次都要在车上坐很久咕咕！待会儿颠死他！}}\n{{对话|黑马|头像=黑马|不行的咕，他给的草料最上等了咕！}}\n{{对话|左慈|头像=左慈绣球|咕？}}\n{{对话|白马|头像=白马|让这只肥鸡下去咕！它好重！它不会自己飞吗咕？！！}}\n==黄金马车对话3==\n{{对话|郭嘉|头像=郭嘉|哎呀哎呀，这就是传说中的黄金马车呀？}}\n{{对话|贾诩|头像=贾诩|……}}\n{{对话|郭嘉|头像=郭嘉|让我坐坐嘛，听说天子的神秘军师也有辆同样的黄金马车，和你的是同款。}}\n{{对话|我|头像=广陵王-严肃|不应该是董卓的神秘军师吗……这个宇宙，和原来的宇宙似乎略有不同？}}\n{{对话|贾诩|头像=贾诩|坐够了吗？坐够了就下去！}}\n==黄金马车对话4==\n{{对话|黑马|头像=黑马|嘿嘿这个肺痨鬼要下车了，准备颠他咕！}}\n{{对话|郭嘉|头像=郭嘉|呼……你的马可真闹腾啊，该不会和你一样坏心眼，等着颠我吧？}}\n{{对话|贾诩|头像=贾诩|你连马都算计不过吗？}}\n{{对话|郭嘉|头像=郭嘉|当然。我只能算计算计少了一条腿的家伙呀……唔啊！}}\n{{对话|我|头像=广陵王-生气|呃！他们在车里做什么？……啊啊啊不要再颠了！贾诩！不要薅他头发了啊！}}\n{{对话|我|头像=广陵王-生气|郭嘉！不要再踹他那条好腿了啊！}}\n==黄金马车对话5==\n{{对话|郭嘉|头像=郭嘉|唔！车顶塌了……怎么有只这么肥的鸡砸下来了……}}\n{{对话|左慈|头像=左慈绣球|停啾啾！}}\n{{对话|黑马|头像=黑马|真扫兴，我还想听他们继续谋划怎么除掉袁氏咕咕。}}\n{{对话|白马|头像=白马|不就是挑动兄弟内斗，再扶持曹氏壮大吗咕咕。}}\n{{对话|黑马|头像=黑马|等等咕，你觉没觉得，车好像越来越轻了？——啊，车轴断了咕……}}\n{{对话|我|头像=广陵王-惊讶|呜啊啊我要碎掉了！！！}}\n{{对话-尾}}\n\n='''军师'''=\n<big>坐守帷幄，千里定胜。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”\n</font>\n{{对话-头}}\n==军师对话1==\n{{对话|高览|头像=高览|怎么样？军师，你看见什么了？}}\n{{对话|我|头像=广陵王-摇头|夜黑风高，我也什么都看不见啊。}}\n{{对话|袁绍|头像=袁绍|郭嘉，你还没看清敌军动向吗？}}\n{{对话|我|头像=广陵王-无语|我不是郭嘉。}}\n{{对话|袁绍|头像=袁绍|我在喊他。}}\n{{对话|高览|头像=高览|我也不是……等等！你又是谁？是敌军派来的间谍吗？}}\n{{对话|我|头像=广陵王-无语|脸盲对近视，你们慢慢聊。我去高处观测了……}}\n==军师对话2==\n{{对话|左慈|头像=左慈绣球|啾！啾！}}\n{{对话|我|头像=广陵王-微笑|师尊也很喜欢高处吧？啊……风真是舒服……}}\n{{对话|我|头像=广陵王-挑眉|咦？远处那道白色的光是什么……}}\n{{对话|左慈|头像=左慈绣球|……啾……龙气啾……}}\n{{对话|我|头像=广陵王-惊讶|真的，是白色的龙影！龙影在围着一个人飞旋……}}\n{{对话|我|头像=广陵王-惊讶|……是个提着灯的……小孩子？\t}}\n==军师对话3==\n{{对话|我|头像=广陵王-无语|还是很在意那个孩子……啊，他们俩还在吵啊。}}\n{{对话|左慈|头像=左慈绣球|龙气啾！龙气啾！}}\n{{对话|我|头像=广陵王-惊讶|以前只在传闻中听说过，第一次亲眼目睹……好想见见那个孩子。}}\n{{对话|青衣文士|头像=周瑜|你不能见他。}}\n{{对话|我|头像=广陵王-生气|又是你？！师尊，砸他！}}\n==军师对话4==\n{{对话|我|头像=广陵王-冷笑|呵……这次有防备了，你无从下手了吧？}}\n{{对话|青衣文士|头像=周瑜|……呵。你还是不懂。}}\n{{对话|青衣文士|头像=周瑜|我从来都不是因为恨你才杀你。我一次又一次地找到你又送走你，因为……}}\n{{对话|青衣文士|头像=周瑜|……不重要。反正，在下一次相见时，你都会忘记。}}\n{{对话|我|头像=广陵王-生气|？！！是炸药——}}\n==军师对话5==\n{{对话|我|头像=广陵王-难受|……他居然……同归于尽……}}\n{{对话|我|头像=广陵王-阴沉|周围……渐渐变白了……啊……是你……}}\n{{对话|白衣孩童|头像=路人小孩|不要怕，殿下。}}\n{{对话|我|头像=广陵王-阴沉|你……能认出我？}}\n{{对话|白衣孩童|头像=路人小孩|这盏灯送给你。它会带着你，找到归家之路……}}\n{{对话|我|头像=广陵王-惊讶|……意识……快要涣散了……但是，心口好暖……}}\n{{对话-尾}}\n='''恶棍'''=\n<big>恶行恶言，恶念恶业，恶果恶报。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”\n</font>\n{{对话-头}}\n==恶棍对话1==\n{{对话|山贼头目|头像=强盗|哼哼，不留下点什么，也想从这过？}}\n{{对话|老人|头像=难民|大王饶命，这是我们最后的一点粮食了啊！}}\n{{对话|山贼头目|头像=强盗|那就拿那个孩子来抵债！}}\n{{对话|我|头像=广陵王-微笑|大王，他们好像真的没什么钱，我们打劫他们，人力成本高于收益啊。}}\n{{对话|山贼头目|头像=强盗|你这么懂？这个山大王你当好不好啊？}}\n{{对话|我|头像=广陵王-微笑|好啊。}}\n{{对话|左慈|头像=左慈绣球|啾！轰！}}\n==恶棍对话2==\n{{对话|我|头像=广陵王-微笑|咳咳。因为他被砸扁了，所以我就是你们的新头目了。}}\n{{对话|我|头像=广陵王-微笑|你们听好，刀口向下，打劫贫弱，最终也不过是个乱世草寇。}}\n{{对话|我|头像=广陵王-微笑|想要打下自己的地盘，从山大王变成真王，眼界就要放远些。}}\n{{对话|山贼甲|头像=山贼甲|……老大，啥叫眼界？就是从打劫十钱，变成打劫一百钱？}}\n{{对话|我|头像=广陵王-摇头|抢钱抢再多，若天下不认你的钱又有什么用？}}\n{{对话|我|头像=广陵王-微笑|你们一心跟着我，将来的钱怎么铸，都是我们说了算。}}\t\n==恶棍对话3==\n{{对话|山贼甲|头像=山贼甲|老大！袁氏和墨家从南北两侧围剿我们！}}\n{{对话|我|头像=广陵王-严肃|不用慌。袁氏之中有我安插的人，墨家的民兵中，我也安排了卧底，适时引发哗变。}}\n{{对话|我|头像=广陵王-严肃|如今我们已有五千余人，我真正的目标，是汝南。}}\n{{对话|山贼甲|头像=山贼甲|啊？啥叫真正的目标？就是从打一个变成打十个？}}\n{{对话|我|头像=广陵王-生气|趁着袁氏主力攻打此处，我们绕道而行，兵不血刃拿下汝南！}}\n==恶棍对话4==\n'''选择颜良'''\n{{对话|山贼甲|头像=山贼甲|老大，汝南的防卫太严密了，我们拿不下！}}\n{{对话|我|头像=广陵王-生气|强行攻城伤亡太大，撤回东面！我之前做了二手准备，东面有友军接应！}}\n{{对话|山贼甲|头像=山贼甲|老大，前面有人阻拦！是袁氏的骑兵！}}\n{{对话|颜良|头像=颜良|站住。就此投降，保全性命。}}\n{{对话|我|头像=广陵王-生气|颜良将军，你看，这是什么！是绣球哦！}}\n{{对话|左慈|头像=左慈绣球|……咕。}}\n{{对话|我|头像=广陵王-生气|呃……师尊，别动，别动，你太重了，旁边是山崖，我、我有点抱不住……啊啊啊―—}}\n==恶棍对话5==\n'''选择文丑'''\n{{对话|山贼甲|头像=山贼甲|老大！我们拿下汝南了！墨家和袁氏在我们的旧山寨相遇了，斗了个两败俱伤！}}\n{{对话|山贼甲|头像=山贼甲|哈哈哈，这样下去，我们真的能称……王……呃……}}\n{{对话|左慈|头像=左慈绣球|啾！偷袭啾！}}\n{{对话|我|头像=广陵王-生气|谁？！}}\n{{对话|文丑|头像=文丑|墨家钜子，见过大王。}}\n{{对话|文丑|头像=文丑|真是狠狠地被你耍了一通呢……天时地利人和，你全不占，竟能和我们缠斗至此。}}\n{{对话|我|头像=广陵王-严肃|确实……若是有更得力的手下，也不会让你无声无息杀到我身前。}}\n{{对话|我|头像=广陵王-严肃|天时地利人和，终是输给了“人和”。本王无话可说，唯有……“请将军赐死”。}}\n{{对话-尾}}\n='''贫民'''=\n<big>田野禾苗枯，王孙酒肉臭。</big><br>\n<font color=gray>“你所看到的，与你的记忆是否有所出入？它也是一种真实，却与虚假殊途同归。”\n</font>\n{{对话-头}}\n==贫民对话1==\n{{对话|孩子|头像=少年|我找到一个山坡，上面有好多野菜，我挖了足足有一筐！}}\n{{对话|妇人|头像=平民母亲|太好了，今晚有菜饼吃了。快挑些好的，送去给钜子。}}\n{{对话|我|头像=广陵王-微笑|这就是墨者的据点，“墨城”即墨啊……看起来都是各地汇聚来的贫苦百姓。}}\n{{对话|老人|头像=难民|钜子来了！文丑钜子回来了！带回来好多粮食！}}\n{{对话|妇人|头像=平民母亲|都是上等的粮食和白盐……肯定经历了一场恶战。}}\n==贫民对话2==\n{{对话|我|头像=广陵王-微笑|钜子的伤好些了吗？}}\n{{对话|文丑|头像=文丑|……我没事。墨家擅长守城，不善进攻，这次的损失太大了……}}\n{{对话|文丑|头像=文丑|当年孟胜钜子一诺千金，为阳城君守城，以一百八十人死守孤城……与他相比，我太过优柔寡断。}}\n{{对话|我|头像=广陵王-微笑|孟胜钜子的遗物半璜，后来也成了墨家的圣物吧？}}\n{{对话|文丑|头像=文丑|你是新来的？怎么尽问些墨者皆知的事……圣物半璜，如今就镶嵌在信物非弓的弓角上。}}\n{{对话|文丑|头像=文丑|向它立下三义吧，“默”、“言”、“动”，成为墨侠。然后就能和我们一起，扫清世上所有的不义。\t}}\n==贫民对话3==\n{{对话|守卫|头像=副将|钜子，袁氏的骑兵冲杀过来了！我们的机关被破坏了！}}\n{{对话|文丑|头像=文丑|还剩下多少人？}}\n{{对话|守卫|头像=副将|一百八十人……哈……}}\n{{对话|文丑|头像=文丑|哈……一百八十人，真是命中注定。}}\n{{对话|文丑|头像=文丑|你们还有什么家人在外地吗？把绝笔信交给她，让她替你们传回去吧。}}\n{{对话|守卫|头像=副将|我只有个兄长在颍川。钜子先写信吧！}}\n{{对话|文丑|头像=文丑|我？我没有家人，没有亲友……我是孤儿，被前任钜子收养的。}}\n{{对话|文丑|头像=文丑|你们先写吧。写完之后，我们就要为了大义，与墨城共存亡了。}}\n==贫民对话4==\n'''选择袁氏将领'''\n{{对话|我|头像=广陵王-生气|文丑！}}\n{{对话|文丑|头像=文丑|……咳……咳……}}\n{{对话|守卫|头像=副将|伤口贯穿咽喉，钜子已经没有救了。请你依照钜子的命令，送走我们的绝笔信吧。}}\n{{对话|我|头像=广陵王-生气|……好！师尊，你背着非弓，我抱着这些信。我们杀出去！}}\n{{对话|左慈|头像=左慈绣球|啾！}}\n{{对话|守卫|头像=副将|还有，钜子的头颅，也要一并带走。}}\n==贫民对话5==\n{{对话|我|头像=广陵王-难受|……好冷，风雪越来越大了……}}\n{{对话|左慈|头像=左慈绣球|啾……夏官啾……召来啾……}}\n{{对话|我|头像=广陵王-难受|呵呵……师尊，你现在是绣球，召不出那些大阵……}}\n{{对话|左慈|头像=左慈绣球|啾啾……冷……啾……}}\n{{对话|我|头像=广陵王-难过|我也好冷………快要没有知觉了……}}\n{{对话|我|头像=广陵王-阴沉|没事的……我抱着师尊呢，师尊好暖和……}}\n{{对话|我|头像=广陵王-阴沉|………………没事的………………}}\n==贫民对话6==\n'''选择前进'''\n{{对话|文丑|头像=文丑|我带你杀出山谷！你要带着他们的绝笔信，活着离开！}}\n{{对话|我|头像=广陵王-严肃|你没有什么话，要我带出去的吗？}}\n{{对话|文丑|头像=文丑|除了墨家，我在这世上没有任何痕迹。世上，也不需要留下我的话。}}\n{{对话|文丑|头像=文丑|呃啊啊——}}\n==贫民对话7==\n{{对话|我|头像=广陵王-难受|……师尊，我……我可能没办法……带走他们的信了……}}\n{{对话|我|头像=广陵王-难受|我和他都伤得太重了……劳烦师尊……咳……咳咳……}}\n{{对话|左慈|头像=左慈绣球|啾……啾啾啾！啾啾！}}\n{{对话|我|头像=广陵王-难过|……对不起……我这么大了，还在给师尊……添麻烦……}}\n{{对话|我|头像=广陵王-阴沉|……对不起……}}\n{{对话-尾}}\n\n='''巫'''= \n<big>巫者，能事无形，以舞降神。<ref>《说文》：“巫，祝也，女能事无形，以舞降神者也。”</ref></big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==巫对话1==\n{{对话|我|头像=广陵王-惊讶|……没有其他人了。}}\n{{对话|青衣文士|头像=周瑜|嗯，意外来到了一个只有我们的宇宙。}}\n{{对话|青衣文士|头像=周瑜|其他生灵的存在，在这里就像沙砾。}}\n{{对话|我|头像=广陵王-严肃|你去过很多这样的地方吗？}}\n{{对话|青衣文士|头像=周瑜|应该说是“我们“。我们曾经一起去过很多地方……}}\n{{对话|青衣文士|头像=周瑜|……起初是三个人，后来只剩下我们俩……}}\n{{对话|青衣文士|头像=周瑜|…………陪我坐片刻吧。什么都不要说，不要做，静静地陪我坐一会儿……}}\n==巫对话2==\n{{对话|我|头像=广陵王-惊讶|蚂蚁……在绕圈。}}\n{{对话|我|头像=广陵王-阴沉|偶尔会看见这样的漩涡……蚂蚁不断沿着原路转圈，一圈、一圈，直到力竭而死。}}\n{{对话|青衣文士|头像=周瑜|是领头的蚂蚁忘记了目的地吧。}}\n{{对话|青衣文士|头像=周瑜|领头的蚂蚁、领头的飞雁……当它们迷失了，追随它们的生灵也会跟着一起有去无回。}}\n{{对话|我|头像=广陵王-点头|它们却不知道，自己在跟随什么。}}\n{{对话|青衣文士|头像=周瑜|从来都是这样。你看它们，觉得悲悯；你若身在其中，也有局外的生灵在这样看着你。}}\n==巫对话3==\n{{对话|我|头像=广陵王-阴沉|……感觉不到时间的流逝。这里的黑暗，好像是没有边界的。}}\n{{对话|青衣文士|头像=周瑜|这里是宇与宙的“维”……带着你们跃迁的时候，偶尔会落在这样的地方。}}\n{{对话|青衣文士|头像=周瑜|你曾经说，不想去下一个地方了，想永远留在这里。}}\n{{对话|我|头像=广陵王-阴沉|比起一次一次重复死亡，永远留在这里也不错。}}\n{{对话|我|头像=广陵王-阴沉|在原地休憩片刻，总好过像这些蚂蚁一样……一圈、一圈……}}\n==巫对话4==\n'''选择睡觉'''\n{{对话|我|头像=广陵王-阴沉|……我睡了很久吗？}}\n{{对话|青衣文士|头像=周瑜|“久”是在从前的宇宙中才会有的概念。在这里，时间已经没有意义了。}}\n{{对话|青衣文士|头像=周瑜|想离开了吗？如果想离开，我会带你走。}}\n{{对话|我|头像=广陵王-摇头|不要。}}\n{{对话|青衣文士|头像=周瑜|不重要了。这里会开始崩散，我们也会……呃……}}\n{{对话|我|头像=广陵王-生气|……呵，我赢了。}}\n{{对话|青衣文士|头像=周瑜|………………你以为杀了我，就结束了吗？}}\n{{对话|青衣文士|头像=周瑜|……傻孩子。}}\n==巫对话5==\n'''选择发呆'''\n{{对话|我|头像=广陵王-阴沉|……已经不知道在这里过了多久了。}}\n{{对话|我|头像=广陵王-阴沉|再留下去，也没有意义了吧……}}\n{{对话|青衣文士|头像=周瑜|休息够了吗？}}\n{{对话|我|头像=广陵王-严肃|我看你一直在磨那把剑，把它磨得很利。}}\n{{对话|青衣文士|头像=周瑜|我怕你会痛。}}\n{{对话|青衣文士|头像=周瑜|好了，闭上眼睛，把脖子露出来……就像一阵风一样，很快的……}}\n{{对话|青衣文士|头像=周瑜|我会带你走的。}}\n{{对话-尾}}\n='''将军'''=\n<big>壮士血热，千军刀寒。</big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==将军对话1==\n{{对话|侍卫|将军，它们已经攻破外城了……|头像=副将}}\n{{对话|我|……|头像=广陵王-严肃}}\n{{对话|侍卫|所有人……所有人……都被它们吃掉了……不，是仙解……|头像=副将}}\n{{对话|侍卫|哈哈哈……我也快了……嘿嘿嘿嘿……|头像=副将}}\n==将军对话2==\n{{对话|我|这个宇宙中，为何会有这种怪物……它们是从何处诞生的？|头像=广陵王-严肃}}\n{{对话|我|明明都已经加强了巡守，它们是怎么从天而降的？|头像=广陵王-严肃}}\n{{对话|干吉|……竟然……到了……这里……|头像=干吉}}\n{{对话|我|！！！干吉先生……|头像=广陵王-惊讶}}\n{{对话|干吉|左慈仙者现在的状态，无法来到你面前，我代他……来见你……|头像=干吉}}\n==将军对话3==\n{{对话|干吉|还不习惯吗？这样彻底颠覆你原先认知的宇宙。|头像=干吉}}\n{{对话|干吉|我在黑暗中观测到许多模糊的轮廓，亲身跃入还是头一次……|头像=干吉}}\n{{对话|我|这个宇宙中，连云都是生长在地上的……那些食人的白色怪物，平日也会撕扯啃食它。|头像=广陵王-严肃}}\n{{对话|干吉|那不是云。|头像=干吉}}\n{{对话|我|……什么？|头像=广陵王-惊讶}}\n{{对话|干吉|……那是左慈仙者，他在各个宇宙中寻找你，到这里的时候，他只能以这样的形态存在。|头像=干吉}}\n{{对话|干吉|……呃——我也快要……变成它们的一员了……|头像=干吉}}\n{{对话-尾}}\n\n='''暴躁船夫'''=\n<big>归家去，囊中收：金锭、人头。</big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==暴躁船夫对话1==\n{{对话|船夫|……|头像=摊贩}}\n{{对话|我|啊……又是这样一动不动的人。|头像=广陵王-惊讶}}\n{{对话|我|……这个宇宙中的人，好像到了一定时候，就会像这样……生出根须，逐渐变成植物……|头像=广陵王-惊讶}}\n{{对话|陈登|喂——那位船夫，可以劳烦你送晚生过河吗？|头像=陈登}}\n==暴躁船夫对话2==\n{{对话|陈登|呼！一路前来，可真是不容易。|头像=陈登}}\n{{对话|陈登|大家都变成木人了……怎么防守都没有用……你的亲友呢？还没有长出根须吗？|头像=陈登}}\n{{对话|我|我不太清楚……|头像=广陵王-阴沉}}\n{{对话|我|……咦，你的腿……？|头像=广陵王-生气}}\n{{对话|陈登|啊哈哈……嗯，昨天开始的。|头像=陈登}}\n{{对话|陈登|……我的时间，也不多了。|头像=陈登}}\n==暴躁船夫对话3==\n{{对话|陈登|辛苦你了……到这就可以了。|头像=陈登}}\n{{对话|我|可是，这里是湖中心……|头像=广陵王-惊讶}}\n{{对话|陈登|嗯，我就要来这。|头像=陈登}}\n{{对话|陈登|每个人都迟早会变成木人……我想变成水面上的浮木。每天晒晒太阳，看看小鱼……|头像=陈登}}\n{{对话|陈登|真好啊……|头像=陈登}}\n{{对话|我|……他跃入水中了。|头像=广陵王-生气}}\n{{对话|我|……我的腿上，也长出了根须……|头像=广陵王-生气}}\n{{对话-尾}}\n\n='''桃源村民'''=\n<big>凶年乱世，何以为生。</big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==桃源村民对话1==\n{{对话|村民|头像=摊贩|听说今天的祭祀，张天师为我们准备了珍馐美食啊！}}\n{{对话|我|头像=广陵王-阴沉|又是奇怪的眼珠子酒吧……}}\n{{对话|孩子|头像=少年|来了来了！吃的来了！}}\n{{对话|我|头像=广陵王-惊讶|……！！！那是……}}\n{{对话|我|头像=广陵王-惊讶|……………………桃源……烧烤摊？}}\n==桃源村民对话2==\n{{对话|干吉|头像=干吉|加孜然还是胡椒？}}\n{{对话|贾诩|头像=贾诩|都加沙子吧。}}\n{{对话|村民|头像=摊贩|加沙子，我要嫩一点的，靠近腿那里。}}\n{{对话|干吉|头像=干吉|腿肉一串。张修，麻烦备菜快一点。}}\n==桃源村民对话3==\n{{对话|张修|头像=张修|呵呵……肥美起来……肥美起来……}}\n{{对话|我|头像=广陵王-惊讶|啊，三眼神长出新的触手了……}}\n{{对话|张修|头像=张修|斩！——好了，刚好十串脚，开烤吧。}}\n{{对话|三眼神|呼……呼……呼……}}\n{{对话|三眼神|呼！！！}}\n{{对话|我|头像=广陵王-生气|……它……醒了……全都被……吃掉了……}}\n{{对话-尾}}\n\n='''玄女'''=\n<big>神无所不通，形无所不类。<ref>《化书·老枫》：“虚无所不至，神无所不通，气无所不同，形无所不类。”</ref></big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==玄女开场==\n{{对话|我|头像=广陵王-难受|唔……好吵，附近有好多声音……}}\n==玄女对话1==\n{{对话|小孩|头像=路人小孩|求你治好母亲的病吧……}}\n==玄女对话2==\n{{对话|老人|头像=难民|求你让我长命百岁……}}\n==玄女对话3==\n{{对话|神像|头像=神像|真是有趣……你不该在这的。}}\n{{对话|我|头像=广陵王-惊讶|！！！神像说话了 ？！}}\n==玄女对话4==\n{{对话|神像|头像=神像|每天都有无数的祈愿……巫主和人主回转灵山之时，为何把我留在这呢。}}\n{{对话|我|头像=广陵王-惊讶|有光影飞过去了……}}\n{{对话|神像|头像=神像|是亡者的魂魄。它们本来该回到少司命身边……}}\n{{对话|神像|头像=神像|回到司命身边的魂魄，才能永远安眠。可惜绝地天通之后，它们再也到不了少司命的身边了。}}\n==玄女对话5==\n{{对话|我|头像=广陵王-微笑|这些魂魄不会变成新的生灵吗？譬如转生为下一世……}}\n{{对话|神像|头像=神像|真是新奇的念头。王母一定会被你逗笑的。}}\n{{对话|神像|头像=神像|生灵的魂魄就像流水，流过原地的水，永远不会是原地的水。}}\n{{对话|我|头像=广陵王-摇头|好可惜……原来还想，如果有轮回转世的话，想试试当一回绣云鸢，再当一回鲸鱼……}}\n{{对话|神像|头像=神像|你会留住一滴汗吗？它转眼就消失了。魂魄就是这样脆弱的东西。}}\n{{对话|神像|头像=神像|此间天地，你只是短暂的过客。宇宙天地，众生皆过客。}}\n{{对话|神像|头像=神像|不如做梦，做梦，哈哈哈……}}\n==玄女对话6==\n'''选择神像'''\n{{对话|我|头像=广陵王-挑眉|……我们没办法庇护他们吗？}}\n{{对话|神像|头像=神像|我们只是建木的木头。}}\n{{对话|我|头像=广陵王-微笑|我想试一试……试一试……}}\n{{对话|神像|头像=神像|……你看，雷云越聚越多了。}}\n{{对话|神像|头像=神像|绝地天通之后，你已经什么都做不到了。}}\n{{对话|我|头像=广陵王-生气|让我试试——啊！雷劈下来了 ！！！}}\n==玄女对话7==\n'''选择废墟'''\n{{对话|饥民|头像=摊贩|好饿……对不住上神了，我们真的好饿……}}\n==玄女对话8==\n{{对话|我|头像=广陵王-阴沉|……做了一场好久的梦……}}\n{{对话|我|头像=广陵王-惊讶|……原来的那些人都不见了……四周好荒凉。}}\n{{对话|神像|头像=神像|咯……咯……咯……}}\n{{对话|饥民|头像=摊贩|好饿……对不住上神了，我们真的好饿……}}\n{{对话|青年灾民|头像=难民|这木头好松软，像肉一样……}}\n{{对话|女性饥民|头像=平民母亲|嘴里好久没吃到东西了……来……宝宝也吃一点……}}\n{{对话|神像|头像=神像|……没想到会以这样的方式离开啊……这些饥民，被逼到只能以木头充饥。}}\n{{对话|我|头像=广陵王-生气|可是，他们会被胀死的……}}\n{{对话|神像|头像=神像|生灵啊，终究是流水一样的存在。有水珠碎裂、蒸腾，有水永远深流……}}\n{{对话|神像|头像=神像|睡下吧。你也许能改变一时之相，却难以逆转道法……}}\n{{对话|我|头像=广陵王-阴沉|………………}}\n{{对话|神像|头像=神像|睡吧……}}\n{{对话-尾}}\n='''符传'''=\n<big>通行无阻，包括地府。</big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==符传对话1==\n{{对话|雀使|头像=雀使|这是这个月招募用的符传，送去给候选人吧。}}\n{{对话|文官|头像=文官|是。}}\n{{对话|我|头像=广陵王-挑眉|……嗯？我被一起带着走了……}}\n{{对话|文官|头像=文官|许攸先生，拿着，符传。}}\n{{对话|许攸|头像=许攸|多谢你……这是你的好处费。}}\n==符传对话2==\n{{对话|我|头像=广陵王-生气|不、不行……这样下去，楼里就只有许攸的简历了……}}\n{{对话|我|头像=广陵王-生气|我得回去……得回去……}}\n{{对话|文官|头像=文官|咦？怎么把你给掉门口了？}}\n{{对话|文官|头像=文官|许攸先生，这是给你的符传，今天记得准时报道。}}\n{{对话|许攸|头像=许攸|嗯，照老规矩，拿着好处费。}}\n==符传对话3==\n{{对话|我|头像=广陵王-微笑|太好了！落进水里，跟着水流飘走了，这样一来就不会被捞回去了……唔啊被海鸥抓走了！}}\n{{对话|海鸥|头像=大鸢|薯条——？啊？不是啊？}}\n{{对话|我|头像=广陵王-生气|啊啊啊啊掉下去了啊啊啊啊——}}\n{{对话|许攸|头像=许攸|嗯？天上掉了什么下来……是符传啊。}}\n==符传对话4==\n{{对话|我|头像=广陵王-生气|呼……沿着山崖掉下去，应该可以逃掉……}}\n{{对话|军阀甲|头像=西凉军甲|杀啊——一个都别放过——}}\n{{对话|军阀乙|头像=西凉军乙|杀！以牙还牙——}}\n{{对话|我|头像=广陵王-生气|突然就变成战场了——我被撞飞了！！！}}\n==符传对话5==\n{{对话|将军|头像=副将|嗯，许攸先生说的是……}}\n{{对话|许攸|头像=许攸|下一步就是……咦？什么东西从上面掉下来了……}}\n{{对话|我|头像=广陵王-无语|………………}}\n{{对话|许攸|头像=许攸|哦，是符传啊……}}\n{{对话-尾}}\n\n='''西域公主'''=\n<big>以血为妆，载歌且舞。</big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==西域公主对话1==\n{{对话|宫女|头像=宫女|公主殿下，你醒了？}}\n{{对话|我|头像=广陵王-阴沉|……唔……}}\n{{对话|宫女|头像=宫女|你昏迷了三天三夜，终于醒了！你的五位仰慕者都在等公主的召见呢！}}\n{{对话|我|头像=广陵王-惊讶|……五个仰慕者……？……终于能见到他们了……}}\n==西域公主对话2==\n{{对话|宫女|头像=宫女|公主魅力过人，杀伐决断，才貌双全，全国最优秀的五位王子都被你折服。}}\n{{对话|我|头像=广陵王-微笑|嗯嗯。眼下国内外时局如何？父王安好？本宫之上可有什么王兄王姐？本宫的母族可有兵权？}}\n{{对话|宫女|头像=宫女|公主先看看仰慕者吧。有着茂密长发的红衣公子风流倜傥，为了见你，喝了半年的闷酒了。}}\n{{对话|我|头像=广陵王-微笑|是他……我想见见他……}}\n{{对话|宫女|头像=宫女|是！我马上为公主传报！}}\n==西域公主对话3==\n{{对话|宫女|头像=宫女|公主，五人都等在门外了。}}\n{{对话|宫女|头像=宫女|除了红衣公子，还有青衣儒雅贵族公子、战力巅峰父爱系、勤恳持家好员工、阳光开朗小狼狗！}}\n{{对话|我|头像=广陵王-微笑|他们在一起居然没打起来吗？传，一起传。}}\n==西域公主对话4==\n{{对话|宫女|头像=宫女|公主，他们来了！}}\n{{对话|黑山军头目|头像=山贼甲|公主！}}\n{{对话|梦魇文臣|头像=文官|公主！}}\n{{对话|暴躁船夫|头像=摊贩|公主！}}\n{{对话|府兵|头像=副将|公主！}}\n{{对话|野兽|头像=野兽|公主！}}\n{{对话|我|头像=广陵王-生气|啊啊啊啊啊！退下！退下啊——}}\n==西域公主对话5==\n{{对话|我|头像=广陵王-生气|呼……呼……逃出来了……}}\n{{对话|黑山军头目|头像=山贼甲|滚开！你们这些碍事的家伙！}}\n{{对话|梦魇文臣|头像=文官|别看我年纪大，我可是每天能打五禽戏的！喝啊——}}\n{{对话|暴躁船夫|头像=摊贩|螺旋桨，搅碎天地吧！}}\n{{对话|府兵|头像=副将|噫啊啊啊别揪人家的假发啦——}}\n{{对话|野兽|头像=野兽|一夜暴富了谁还要上班啊？溜了溜了。}}\n{{对话-尾}}\n\n='''羽人'''=\n<big>背生羽翼，失人之体，不死不生。<ref>《抱朴子·内篇·对俗》：“古之得仙者，或身生羽翼，变化飞行，失人之体，更受异形。”</ref></big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==羽人对话1==\n{{对话|颜良|头像=颜良|人的领地，只剩下最后的这一片了……}}\n{{对话|文丑|头像=文丑|然后就会是……羽人的天下。}}\n{{对话|文丑|头像=文丑|他们看见我们，为什么会恐惧呢……他们忘了吗，我们才是他们本来的样子。}}\n{{对话|颜良|头像=颜良|人总是敌视自己认知之外的东西。}}\n{{对话|我|头像=广陵王-惊讶|今夜外面的风好大……好险，差点被吹下去。}}\n{{对话|文丑|头像=文丑|呵呵……你真有趣。羽人的宫殿都是建在高处的，下方的浊气太重了。}}\n==羽人对话2==\n{{对话|文丑|头像=文丑|……人居然觉得，能够用这样的弓箭射落我们……}}\n{{对话|文丑|头像=文丑|他们太年幼了。因为寿数太短，脆弱的肉体无法容纳巫之力，所以只能从灵山出逃……}}\n{{对话|我|头像=广陵王-微笑|羽人世代都是居于灵山的吗？}}\n{{对话|颜良|头像=颜良|灵山是巫的圣地。离开了灵山，羽人也会渐渐变得和人类无异。}}\n{{对话|文丑|头像=文丑|你看，山下的那些火光……}}\n{{对话|文丑|头像=文丑|那都是人类在试图催动巫的触器，发动阵法杀灭我们……}}\n==羽人对话3==\n{{对话|年轻羽人|头像=美型文官|解决最后一个人了，可以前去向王回报了。}}\n{{对话|我|头像=广陵王-惊讶|……好巨大的触器……远看的时候不觉得，现在这样看，简直像是山峦一样。}}\n{{对话|年迈羽人|头像=黑人影|离它远些。你身上的巫之力会被卷进去的。}}\n{{对话|我|头像=广陵王-惊讶|这种触器，能影响羽人的力量？}}\n{{对话|年迈羽人|头像=黑人影|它是洪荒之时的众神所遗，它开启的阵法，名叫……}}\n{{对话|年迈羽人|头像=黑人影|——“绝地天通“。}}\n==羽人对话4==\n{{对话|文丑|头像=文丑|又焚毁了一台触器……在人类的手上，还有多少台这样的触器？}}\n{{对话|颜良|头像=颜良|有叛徒在替人类制造触器。}}\n{{对话|文丑|头像=文丑|……无所谓，那个叛徒离开灵山太远，已经要发生退变了……}}\n{{对话|文丑|头像=文丑|他或许已经连形态都无法维持了……呃！有动静！}}\n{{对话|年轻羽人|头像=美型文官|是绝地天通！人族发动了另一台触器，催动了绝地天通！}}\n==羽人对话5==\n{{对话|我|头像=广陵王-惊讶|……}}\n{{对话|我|头像=广陵王-惊讶|…………他们都消失了……}}\n{{对话|我|头像=广陵王-生气|……！！！是你……}}\n{{对话|青衣文士|头像=周瑜|……嗯，是我。}}\n{{对话|青衣文士|头像=周瑜|没事的，我们会一起消失的……}}\n{{对话|青衣文士|头像=周瑜|我会替你找到……一个能停留更久的宇宙……}}\n{{对话-尾}}\n\n='''婴孩'''=\n<big>怨声传千里，恶夜熄烛光。</big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==婴孩对话1==\n{{对话|妇人|头像=平民母亲|她饿了，拿些桑落来给她吧。}}\n{{对话|我|头像=广陵王-难受|呃，我不想喝这个东西……}}\n{{对话|我|头像=广陵王-难受|不行，挣扎不过她……呃！咳咳……}}\n{{对话|男人|头像=难民|她呛了，是不是不喜欢喝？}}\n{{对话|妇人|头像=平民母亲|怎么办？她为什么不爱喝桑落？怎么办？！——张天师！张天师！怎么办啊？！}}\n==婴孩对话2==\n{{对话|张修|头像=张修|没事了……没事了……}}\n{{对话|我|头像=广陵王-难受|咳咳……咳……}}\n{{对话|张修|头像=张修|没事了，我心爱的宝宝啊……}}\n{{对话|张修|头像=张修|嘘，嘘。你必须喝下去……喝下它，才能渐渐变得肥美起来……}}\n==婴孩对话3==\n{{对话|张修|头像=张修|你听……它已经醒来了。它遮蔽了天地。}}\n{{对话|张修|头像=张修|整个世界已经被它吞入腹中，我们是这个世界上最后剩下的“生灵”了……}}\n{{对话|张修|头像=张修|我会再生下越来越多的你们的……越来越多，越来越多……}}\n{{对话-尾}}\n='''摸金校尉'''=\n<big>似人似鬼，是人是鬼？</big><br>\n<font color=gray>“在彻底扭曲的宇宙中，进行彻底扭曲的战斗。梦仍是梦，身已不存。”</font>\n{{对话-头}}\n==摸金校尉对话1==\n{{对话|盗墓贼|头像=盗书贼|嘿嘿嘿……发财了，发现了宝藏啊！}}\n{{对话|我|头像=广陵王-惊讶|这是……黄肠题凑？}}\n{{对话|盗墓贼|头像=盗书贼|你居然认得出黄肠题凑？不错嘛！让小爷我看看有什么陪葬品……}}\n{{对话|盗墓贼|头像=盗书贼|啊啊——全是金子！珠宝！美玉！这可是个大人物啊！你举着灯，我来磕个头……}}\n==摸金校尉对话2==\n{{对话|盗墓贼|头像=盗书贼|奇怪，越是靠近棺椁，陪葬品就越少……这里有几个破酒坛子。}}\n{{对话|盗墓贼|头像=盗书贼|这墓主人生前也不像喜欢喝酒的样子啊，你看壁画，壁画上画的都是王母和玄女。}}\n{{对话|我|头像=广陵王-严肃|……也许，是别人替她布置的身后之事吧。}}\n{{对话|盗墓贼|头像=盗书贼|里面还有什么……我看看……}}\n{{对话|盗墓贼|头像=盗书贼|一碰就碎，都碎成粉了……棺椁上，摆着一支蒹葭啊。}}\n==摸金校尉对话3==\n{{对话|盗墓贼|头像=盗书贼|嘘，你听见什么没有？}}\n{{对话|我|头像=广陵王-生气|……好像是……从棺材上方传出来的？}}\n{{对话|盗墓贼|头像=盗书贼|是羽人！快逃啊——}}\n{{对话|盗墓贼|头像=盗书贼|为什么食人的羽人会出现在这种地宫里啊？！呃啊——}}\n{{对话-尾}}\n='''女帝'''=\n<big>知我罪我，其惟春秋。<ref>《孟子·滕文公下》：“《春秋》，天子之事也。是故孔子曰：‘知我者，其惟《春秋》乎！罪我者，其惟《春秋》乎！’ ”</ref></big><br>\n<font color=gray>“所有的欲望，所有的罪业，所有的虚伪，所有的求而不得，都将在此地终结。”</font>\n{{对话-头}}\n==女帝开场==\n{{对话|我|……这里是……|头像=广陵王-惊讶}}\n{{对话|礼官|文汉天女，承载天命——|头像=美型文官}}\n{{对话|我|这里是……|头像=广陵王-惊讶}}\n{{对话|我|……是我的幻想，还是……|头像=广陵王-生气}}\n==女帝对话-恭贺1==\n{{对话|礼官|文汉天女，承载天命——|头像=美型文官}}\n==女帝对话-恭贺2==\n{{对话|礼官|千秋万载，三呼万岁——|头像=文官}}\n==女帝对话1==\n{{对话|青衣文士|……还是走到了这一步……|头像=周瑜}}\n==女帝对话-恭贺3==\n{{对话|礼官|文汉天女，承载天命——|头像=美型文官}}\n==女帝对话-恭贺4==\n{{对话|礼官|千秋万载，三呼万岁——|头像=文官}}\n==女帝对话2==\n{{对话|青衣文士|够了！不要再往前走了！|头像=周瑜}}\n==女帝对话-恭贺5==\n{{对话|礼官|文汉天女，承载天命——|头像=美型文官}}\n==女帝对话-恭贺6==\n{{对话|礼官|千秋万载，三呼万岁——|头像=文官}}\n==女帝对话3==\n{{对话|青衣文士|你不知道前面是什么在等着你，不要再往前走了！！！|头像=周瑜}}\n{{对话|我|能够前行，为何止步？|头像=广陵王-生气}}\n{{对话|青衣文士|我想救你……我试了无数次想救你！！！|头像=周瑜}}\n{{对话|青衣文士|可为什么会一遍又一遍……走到这一步……|头像=周瑜}}\n==女帝对话-恭贺7==\n{{对话|礼官|文汉天女，承载天命——|头像=美型文官}}\n==女帝对话-恭贺8==\n{{对话|礼官|千秋万载，三呼万岁——|头像=文官}}\n==女帝对话4==\n{{对话|青衣文士|求你相信我一次……不要去！！！|头像=周瑜}}\n==女帝对话5==\n'''选择御座'''\n{{对话|我|……就要……碰到了……|头像=广陵王-生气}}\n{{对话|青衣文士|住手！！！|头像=周瑜}}\n\n='''活动收束'''=\n{{对话|我|回到原来的世界了……|头像=广陵王-微笑}}\n{{对话|我|师尊！你没事吧？师尊！|头像=广陵王-生气}}\n{{对话|左慈|……|头像=左慈}}\n{{对话|绣球|啾啾……|头像=绣球}}\n{{对话|我|绣球恢复成普通的小肥鸡了，但师尊却醒不过来……|头像=广陵王-严肃}}\n{{对话|我|看来关键是那个青衣琴师……为了师尊，我得要找到他。|头像=广陵王-严肃}}\n{{对话-尾}}"
+}

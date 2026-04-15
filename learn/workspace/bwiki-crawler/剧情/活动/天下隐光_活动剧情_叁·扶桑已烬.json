@@ -1,0 +1,565 @@
+{
+  "title": "天下隐光/活动剧情/叁·扶桑已烬",
+  "category": "活动剧情",
+  "characters": [
+    "安期",
+    "左慈",
+    "巫谢",
+    "我",
+    "郭解",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=黑人影",
+      "emotion": "……何事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "他们说，你今日来了仙门。你就是巫谢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "啊……你就是浮丘子提起的那位灵王太子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "我难得来一次。初入仙门的感觉如何？与人间有何不同吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "好像无甚不同。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……至少嘴上还是要说，仙巫聚居之处真是与外界迥异啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "仙巫是什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "你们现在叫的仙人，从前巫咸的亲子。他把他那支上的巫冠名为仙，以示不同。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "听闻巫咸当年日渐衰弱，十巫中的九巫以血肉供养。但他还是日渐恐慌被架空，于是，发动了绝地天通，镇压十巫。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "那时，有一支属于你的眷属，误以为十巫真的叛变，也加入了镇压。吾以为，他们也会在仙门。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "哈……重黎的那些蠢货吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "巫咸收拢了十巫之力，成为了天地间的大王，但仍需要每日派人去灵山割取血肉，服下十巫之肉，维系控制天道的力量。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "重黎氏被派去行此事，巫咸也没打算让这些叛徒回来，将他们一起埋在灵山了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……所有的重黎氏吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "重与黎，是两支部族吧？我听闻，人间还有他们的后代。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……黎吗，黎氏软弱，本就与人无异。罢了，初次见面，就与王太子老生常谈上古之事，有些无趣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "无论如何……巫咸颛顼已经羸弱到近乎于消散。我作为十巫之一，当年与仙的恩怨，也几乎消解了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "眼前是天道存亡之事。天上连续下了九百日的雨，天道将灭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "……天道，也会灭亡？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "不敢相信吧？不过，万物皆有生灭，所谓天道恒常，本就是虚幻之语。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "天道亦会灭亡。天道灭，这个宇宙便也随之湮灭，陷入黑暗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "所以，有人让吾来见你，询问玄鸟祭祀之事。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "玄鸟降临，天命之女诞下新神，由神接替天道，万物才能继续留存。吾不知如何筹办，还需你的指点。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……我们的这位王太子，好像有些不识时务啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "是指之前的失败吗？仙门之前曾想强行进行祭祀，召唤天命之女，但是召来的是扭曲而无序的生物。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "因为这些生灵在被召集过来的过程中穿越了扭曲的宇宙和天道，根本不可能保有人形。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "啊……甘他们曾试图用这些生灵的部分拼凑出可以孕育神明的灵子，甚至注入过伏羲的残神格，但完全是白费功夫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "没有龙的护持，就算诞下神明，也会立刻被现在的天道当作异类撕碎的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "嗯……用人的词汇来说，就是可怜的神宝宝啊……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "巫谢",
+      "text": "头像=黑人影",
+      "emotion": "……该去换新的肉身了，黎氏的那孩子应该到了……王太子先请回吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "——吾可为之护持。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "哪怕龙已经灭亡，吾可为新神护持，令它接续天道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……………………咳……咳咳……这里是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "……郭解前辈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-疲惫",
+      "emotion": "前辈，我要往灵河畔，能不能……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "你在做什么，郭解。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "杀了她。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "啊……是在意故人吗？你的那位故人可是为了刚认识一个月的情人，抛下你下山去了啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "一听能离开这座雪山，头也不回的就走了……你以为她会为了你留下，结果在对方心里和怪物没有两样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "从天而降落在你怀里的也不一定是你的。我的香就不会这样……所以何必在意故人之子。杀了她。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "不要忘记，左慈是怎么背叛巫的。若你实在不想杀，那就把剑给我……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "对……这就对了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你们屡次发动叛乱，皆以失败告终。此次也……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "想用断剑里的那点力量反抗吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……让她离开隐鸢阁。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "不要再幻想了！就算你留她性命，左慈也不可能容下任何一名巫的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "朝歌之战让龙脉汇聚了一线生机，建木复苏，这可能也是巫最后的生机了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "我们不可能被接纳。你当年就算和她的母亲交好，不也一样被逐出隐鸢阁了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "我们也可以离开隐鸢阁。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "离开建木的杀生仙，只会愈发虚弱，最后任他宰割。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "他从一开始就不是仙和巫任何一方的同类。你真的相信当年所谓的“东蜀作乱”的传言？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "——他只是为了夺取那些巫的巫血，用作召唤天命之女的祭品。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "……他们是自愿的。只有天命之女诞下新神，天道才能得以接续。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "你就没有想过，为何“自愿献祭”的都是倾向巫一派的仙人，没有左慈那一派的仙人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "这些事与我无关，我只知道，天道被接续了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "安期",
+      "text": "头像=安期",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "对。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=左慈",
+      "emotion": "你只需要知道，天道被接续了。"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"天下隐光/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background899dd3;color5642a6;textaligncenter;!标题背景和字色改这行颜色"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundB7CCEE;!背景2（导航）改B7CCEE"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''叁·扶桑已烬'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "扶桑已烬·一"
+    },
+    {
+      "type": "narration",
+      "text": "扶桑已烬·二"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%A4%A9%E4%B8%8B%E9%9A%90%E5%85%89/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%8F%81%C2%B7%E6%89%B6%E6%A1%91%E5%B7%B2%E7%83%AC",
+  "crawled_at": "2026-04-12T22:07:39.133938",
+  "raw_wikitext": "__TOC__\n[[分类:活动剧情]]\n{{面包屑|活动剧情|天下隐光/活动玩法}}\n{{回到顶部|头}}{{背景图片|{{filepath:天下隐光背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">天下隐光</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|天下隐光/活动剧情|序}}\n{{板块|按钮|天下隐光/活动剧情/壹·天崩地坼|壹·天崩地坼}}\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|贰·王为巫首}}\n{{板块|按钮|天下隐光/活动剧情/叁·扶桑已烬|叁·扶桑已烬}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|肆·白龙垂目}}\n{{板块|按钮|天下隐光/活动剧情/伍·往世昭回|伍·往世昭回}}\n{{板块|按钮|天下隐光/活动剧情/陆·天下隐光|陆·天下隐光}}\n</center>\n</div></div>\n{{JS|Qiantao.js}}\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#899dd3;color:#5642a6;text-align:center;}<!--标题背景和字色改这行颜色-->\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#B7CCEE;}<!--背景2（导航）改#B7CCEE-->\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n<center>\n='''叁·扶桑已烬'''=\n</center>\n==扶桑已烬·一==\n{{对话-头}}\n{{旁白|【未知之地】}}\n{{对话|？？？|……何事？|头像=黑人影}}\n{{对话|左慈|……|头像=左慈}}\n{{对话|左慈|他们说，你今日来了仙门。你就是巫谢？|头像=左慈}}\n{{对话|巫谢|……|头像=黑人影}}\n{{对话|巫谢|啊……你就是浮丘子提起的那位灵王太子。|头像=黑人影}}\n{{旁白|心理|……谁的……回忆……}}\n{{对话|巫谢|我难得来一次。初入仙门的感觉如何？与人间有何不同吗？|头像=黑人影}}\n{{对话|左慈|好像无甚不同。}}\n{{对话|巫谢|……至少嘴上还是要说，仙巫聚居之处真是与外界迥异啊。|头像=黑人影}}\n{{对话|左慈|仙巫是什么？}}\n{{对话|巫谢|……|头像=黑人影}}\n{{对话|巫谢|你们现在叫的仙人，从前巫咸的亲子。他把他那支上的巫冠名为仙，以示不同。|头像=黑人影}}\n{{对话|左慈|听闻巫咸当年日渐衰弱，十巫中的九巫以血肉供养。但他还是日渐恐慌被架空，于是，发动了绝地天通，镇压十巫。}}\n{{对话|左慈|那时，有一支属于你的眷属，误以为十巫真的叛变，也加入了镇压。吾以为，他们也会在仙门。}}\n{{对话|巫谢|哈……重黎的那些蠢货吗？|头像=黑人影}}\n{{对话|巫谢|巫咸收拢了十巫之力，成为了天地间的大王，但仍需要每日派人去灵山割取血肉，服下十巫之肉，维系控制天道的力量。|头像=黑人影}}\n{{对话|巫谢|重黎氏被派去行此事，巫咸也没打算让这些叛徒回来，将他们一起埋在灵山了。|头像=黑人影}}\n{{对话|左慈|……所有的重黎氏吗？}}\n{{对话|左慈|重与黎，是两支部族吧？我听闻，人间还有他们的后代。}}\n{{对话|巫谢|……黎吗，黎氏软弱，本就与人无异。罢了，初次见面，就与王太子老生常谈上古之事，有些无趣。|头像=黑人影}}\n{{对话|巫谢|无论如何……巫咸颛顼已经羸弱到近乎于消散。我作为十巫之一，当年与仙的恩怨，也几乎消解了。|头像=黑人影}}\n{{对话|巫谢|眼前是天道存亡之事。天上连续下了九百日的雨，天道将灭。|头像=黑人影}}\n{{对话|左慈|……天道，也会灭亡？}}\n{{对话|巫谢|不敢相信吧？不过，万物皆有生灭，所谓天道恒常，本就是虚幻之语。|头像=黑人影}}\n{{对话|巫谢|天道亦会灭亡。天道灭，这个宇宙便也随之湮灭，陷入黑暗。|头像=黑人影}}\n{{对话|左慈|所以，有人让吾来见你，询问玄鸟祭祀之事。}}\n{{对话|左慈|玄鸟降临，天命之女诞下新神，由神接替天道，万物才能继续留存。吾不知如何筹办，还需你的指点。}}\n{{对话|巫谢|……我们的这位王太子，好像有些不识时务啊。|头像=黑人影}}\n{{旁白|深林中，传来细细簌簌的轻响，仿佛在树影下有无数生灵，随着巫谢的话语发出讥笑。}}\n{{对话|左慈|是指之前的失败吗？仙门之前曾想强行进行祭祀，召唤天命之女，但是召来的是扭曲而无序的生物。}}\n{{对话|巫谢|因为这些生灵在被召集过来的过程中穿越了扭曲的宇宙和天道，根本不可能保有人形。|头像=黑人影}}\n{{对话|巫谢|啊……甘他们曾试图用这些生灵的部分拼凑出可以孕育神明的灵子，甚至注入过伏羲的残神格，但完全是白费功夫。|头像=黑人影}}\n{{对话|巫谢|没有龙的护持，就算诞下神明，也会立刻被现在的天道当作异类撕碎的……|头像=黑人影}}\n{{对话|巫谢|嗯……用人的词汇来说，就是可怜的神宝宝啊……唔……|头像=黑人影}}\n{{旁白|他伸了个懒腰，肢体的扭曲有些奇怪，像是关节缺失了一部分。他也发现了，坐在树上怔住了。}}\n{{对话|巫谢|……该去换新的肉身了，黎氏的那孩子应该到了……王太子先请回吧。|头像=黑人影}}\n{{对话|左慈|——吾可为之护持。|头像=左慈}}\n{{对话|左慈|哪怕龙已经灭亡，吾可为新神护持，令它接续天道。|头像=左慈}}\n{{旁白|【隐鸢阁】}}\n{{对话|我|呃——|头像=广陵王-难受}}\n{{对话|我|……………………咳……咳咳……这里是……|头像=广陵王-难受}}\n{{旁白|我在河畔苏醒。火红的灵河水仿佛平静了几分，一道人影坐在我身边，身后的法器缓缓旋转。}}\n{{对话|我|……郭解前辈……|头像=广陵王-疲惫}}\n{{对话|郭解|……}}\n{{旁白|她点点头，虽然看不清神情，却能从眼眸中看出疲惫。她手中也有杀生仙的黄金剑，但是，已经磨灭暗淡了。}}\n{{对话|我|前辈，我要往灵河畔，能不能……|头像=广陵王-疲惫}}\n{{对话|安期|你在做什么，郭解。|头像=安期}}\n{{对话|安期|杀了她。|头像=安期}}\n{{对话-尾}}\n==扶桑已烬·二==\n{{对话-头}}\n{{旁白|【隐鸢阁】}}\n{{对话|郭解|……}}\n{{对话|安期|啊……是在意故人吗？你的那位故人可是为了刚认识一个月的情人，抛下你下山去了啊。|头像=安期}}\n{{对话|安期|一听能离开这座雪山，头也不回的就走了……你以为她会为了你留下，结果在对方心里和怪物没有两样……|头像=安期}}\n{{对话|安期|从天而降落在你怀里的也不一定是你的。我的香就不会这样……所以何必在意故人之子。杀了她。|头像=安期}}\n{{旁白|心理|这里已经是东蜀的地界了。一同渡河的人都被那种怪物融合了，然后，我被河水淹没……}}\n{{旁白|皮肤上仿佛还留有剧烈的灼痛感，但并无伤痕，应是在最后一刻被术护住了。}}\n{{对话|安期|不要忘记，左慈是怎么背叛巫的。若你实在不想杀，那就把剑给我……}}\n{{旁白|郭解依旧站在我身边，垂首看着我。安期拉住她的手，从她手中慢慢地卸下了那把黄金剑。}}\n{{对话|安期|对……这就对了……}}\n{{对话|我|你们屡次发动叛乱，皆以失败告终。此次也……|头像=广陵王-微笑}}\n{{旁白|没有等我说完，黄金剑已刺向心口。可金色剑身旋即崩散，流淌而下，汇入一旁的灵河。}}\n{{旁白|腰间的隐光断剑在微微鸣响，溶解的黄金从火色河水中再次凝结成剑，如蛇昂首，朝向了安期。}}\n{{对话|安期|想用断剑里的那点力量反抗吗？}}\n{{旁白|地面鼓动，一条又一条金色根系破土而出，虬成巨蟒，居高临下。一片袖角扬起，拦在了它面前。}}\n{{对话|郭解|……让她离开隐鸢阁。}}\n{{对话|安期|不要再幻想了！就算你留她性命，左慈也不可能容下任何一名巫的。|头像=安期}}\n{{对话|安期|朝歌之战让龙脉汇聚了一线生机，建木复苏，这可能也是巫最后的生机了！|头像=安期}}\n{{对话|安期|我们不可能被接纳。你当年就算和她的母亲交好，不也一样被逐出隐鸢阁了吗？|头像=安期}}\n{{对话|郭解|我们也可以离开隐鸢阁。}}\n{{对话|安期|离开建木的杀生仙，只会愈发虚弱，最后任他宰割。|头像=安期}}\n{{对话|安期|他从一开始就不是仙和巫任何一方的同类。你真的相信当年所谓的“东蜀作乱”的传言？|头像=安期}}\n{{对话|安期|——他只是为了夺取那些巫的巫血，用作召唤天命之女的祭品。|头像=安期}}\n{{对话|郭解|……他们是自愿的。只有天命之女诞下新神，天道才能得以接续。}}\n{{对话|安期|你就没有想过，为何“自愿献祭”的都是倾向巫一派的仙人，没有左慈那一派的仙人？|头像=安期}}\n{{对话|郭解|这些事与我无关，我只知道，天道被接续了。}}\n{{对话|安期|……|头像=安期}}\n{{旁白|下一刻，她冷笑一声。金色巨蟒俯冲而下，朝我碾压而来——}}\n{{对话|左慈|对。|头像=左慈}}\n{{对话|左慈|你只需要知道，天道被接续了。|头像=左慈}}\n{{旁白|我看见白色身影自火红河水中出现，袖风牵连起一片火色，呼啸成遮蔽天地的火幕，抵挡汹涌的金色树根。}}\n{{对话-尾}}\n\n<center>\n{{板块|按钮|天下隐光/活动剧情/贰·王为巫首|上一页}}\n{{板块|按钮|天下隐光/活动剧情/肆·白龙垂目|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "q_zhugeliang_1",
+    "dimension": "S1",
+    "cross_dimension": "S10",
+    "type": "story_known",
+    "source_character": "诸葛亮",
+    "source_story": "幽州结盟",
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": null,
+    "text": "「关中即将混战，袁氏注定难以抽身。孙氏坐拥扬州，但也被扬州所锢。」诸葛亮远超年龄的全局观。如果你是谋士面对天下局势你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "分析各方利弊制定最优策略",
+        "scores": {
+          "S1": 4,
+          "S3": 3,
+          "S9": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "专注眼前的问题逐步推进",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "等局势更明朗再判断",
+        "scores": {
+          "S1": 2,
+          "S9": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "几乎每句台词都在推进信息或决策。天才外壳下仍是会担心同伴的少年。"
+  },
+  {
+    "id": "q_zhugeliang_2",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "诸葛亮",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「我把点心藏在那处断墙边了，你悄悄过去找，只有一个人去才能找到哦。」如果你是诸葛亮你会怎么表达在意？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用只有对方知道的小秘密",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "在对方需要时默默出现帮忙",
+        "scores": {
+          "S8": 3.5,
+          "S4": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "直接说关心的话，值得关注",
+        "scores": {
+          "S8": 3,
+          "S7": 2,
+          "S5": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "天才的壳子少年的芯。藏点心是诸葛亮最动人的瞬间。"
+  },
+  {
+    "id": "q_zhugeliang_3",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你在雪山绝境中，身边有一个重伤的人。物资只够一个人撑到救援。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "把物资全部给伤者自己想办法",
+        "scores": {
+          "S6": 2,
+          "S8": 5,
+          "S10": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "平分物资一起撑，值得关注",
+        "scores": {
+          "S6": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "优先保证自己存活才能救更多人",
+        "scores": {
+          "S6": 3.5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "诸葛亮在雪山绝境中全程保持分析能力但「好冷」暴露了少年的脆弱。"
+  },
+  {
+    "id": "q_zhugeliang_4",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「唔……」「好像……」「不确定……」犹豫前缀高频出现。这反映了什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "谨慎严谨不轻易下结论",
+        "scores": {
+          "S7": 2,
+          "S6": 1
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "缺乏自信害怕说错",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "天才不需要锋芒毕露",
+        "scores": {
+          "S7": 2.5,
+          "S6": 1,
+          "S5": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "诸葛亮表达温和克制不尖锐。但每句话都在推进局势。"
+  },
+  {
+    "id": "q_zhugeliang_5",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「一直看雪会雪盲的，用风帽遮一下会好些。」",
+        "scores": {
+          "S10": 3.5,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「孙策和诸葛氏的恩怨，学生放不下。」",
+        "scores": {
+          "S10": 3,
+          "S9": 3.5,
+          "S8": 2,
+          "S6": 2
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "A是诸葛亮日常的细腻关怀；B是他心中放不下的执念。"
+  }
+]

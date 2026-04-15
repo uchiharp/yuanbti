@@ -1,0 +1,955 @@
+[
+  {
+    "id": "q_achan_01",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "张辽-密探故事/05",
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": "幽州",
+    "text": "「都安静。楼主，他们回来了。」阿蝉带着报酬去见张辽将军，张辽却说——或者，要那个阿蝉。面对张辽以广陵王为筹码的索求，阿蝉的反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "沉默等待楼主决定，不逾越自己的身份",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "试图用武力解决，反制张辽的威胁",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "主动提出自己留下，为楼主解除困境",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "张辽索要阿蝉时，阿蝉没有表态，是楼主在做决定。"
+  },
+  {
+    "id": "q_achan_02",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "南有乔木/01",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "成都",
+    "text": "「……收到过。只是尚未查证，所以没有回禀。」面对曹操作为密探的汇报，阿蝉的态度是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先完成查证再做汇报，不拿不确定的事烦楼主",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "告诉楼主收到了就行，由楼主判断是否查证",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "就算没查证也先说出来，让楼主早做准备",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉选择了不报告未查证的消息，体现了她的谨慎和对主人的忠诚。"
+  },
+  {
+    "id": "q_achan_03",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "徐庶-密探故事/10",
+    "route_hint": [
+      "西蜀线",
+      "幽州线"
+    ],
+    "city_hint": "长安",
+    "text": "「还有二百三十马步……一百……五十，四十……」救人出城时，阿蝉靠听觉精确计算追兵距离。面对追兵和断后的危险任务，你更认同哪种行动方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用最直接的方式冲过去，边跑边算",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "先分兵引开追兵，再找机会脱身",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "制造混乱让敌人无法判断主攻方向",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉和徐庶配合救人，阿蝉负责带所有人引开追兵，徐庶断后。"
+  },
+  {
+    "id": "q_achan_04",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "颍川寻主",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "颍川",
+    "text": "「她的话也让我不舒服。」——阿蝉被人调戏后，平静地说出这句话，然后灭了对方面门。面对以侮辱为乐的人，你的选择是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "对方不值得脏自己的手，转身离开",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "当场回击，让对方付出代价但不取性命",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "让对方彻底消失，不留后患",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉的反应是灭门——不留活口。她的道德光谱只有「楼主相关」和「无关」两档。"
+  },
+  {
+    "id": "q_achan_05",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "密探日常",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "广陵",
+    "text": "「啊？我习惯不留活口的。」——阿蝉说这话时的语气和常人说「啊？我习惯饭后散步」一样平淡。这种不加掩饰的坦诚，你如何看待？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太可怕了，完全无法理解这种心态",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "某种意义上比虚伪的人更可靠",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "这才是真正的强大——不需要伪装",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉是代号鸢中面具深度最低的角色，内外完全一致。"
+  },
+  {
+    "id": "q_achan_06",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "密探日常",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "广陵",
+    "text": "「想了两遍，没。」——阿蝉被问到有没有什么打算时，认真想了两遍后回答。你更欣赏哪种表达方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "想法成熟了再开口，不浪费别人时间",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "如实说出当下的想法，哪怕不成熟",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "没有想法本身就是一种坦诚，不必掩饰",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉的「想了两遍，没」是她的认知特征——直线型、没有灰色地带。"
+  },
+  {
+    "id": "q_achan_07",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "密探日常",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "广陵",
+    "text": "「……唔……」「……哦……」——阿蝉的日常语言中大量省略号开头的短句。广陵王问她要不要一起吃饭时，她只是安静地点头。你如何理解这种安静？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太过被动，应该更主动地表达需求",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "陪伴在身边就是最好的表达",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "沉默本身就是最深的信任",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉的情感表达是「平静依附型」——安静但坚定不移。"
+  },
+  {
+    "id": "q_achan_08",
+    "dimension": "S3",
+    "cross_dimension": null,
+    "type": "story_known",
+    "source_character": "阿蝉",
+    "source_story": "密探日常",
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": "广陵",
+    "text": "「看不懂，为什么卖那么贵」——阿蝉看画时这样说。但她却买了下来送给楼主。面对自己不理解但对方喜欢的东西，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先弄懂价值再决定买不买",
+        "scores": {
+          "S3": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "对方喜欢就够了，不用管自",
+        "scores": {
+          "S3": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "只要对方需要，再贵也值得",
+        "scores": {
+          "S3": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉对物质毫无概念，但为楼主破例——她的世界以楼主为唯一坐标系。"
+  },
+  {
+    "id": "q_achan_09",
+    "dimension": "S6",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "阿蝉",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": null,
+    "text": "一个孩子被陌生人欺辱，她没有哭也没有喊，只是平静地说了句「不舒服」，然后让那一家人永远消失了。事后她回到了自己的主人身边，像什么都没发生过一样。你如何评价？",
+    "options": [
+      {
+        "label": "A",
+        "text": "无论对方做了什么，杀人灭门不可原谅",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "理解她的愤怒，但手段太过极端",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在她的世界里，保护自己不需要理由",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自阿蝉的颍川寻主线。"
+  },
+  {
+    "id": "q_achan_10",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "阿蝉",
+    "source_story": null,
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": null,
+    "text": "一位将军提出交易：要粮草，或者要你身边的某个人。你的同伴没有犹豫，没有愤怒，只是安静地站在那里，等待你的决定。你如何理解这份安静？",
+    "options": [
+      {
+        "label": "A",
+        "text": "应该站出来表态，不能让别人替你决定",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "这是对上位者最纯粹的信任",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "安静不代表无感，她可能已经在准备后手",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自阿蝉被张辽索要时的反应。"
+  },
+  {
+    "id": "q_achan_11",
+    "dimension": "S10",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "阿蝉",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": null,
+    "text": "她相信天上有一头神牛，看着世间的一切善恶。这个信仰不是来自任何教义，而是来自草原上的风和太阳。面对一个完全依靠原始信仰定义善恶的人，你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "觉得她太天真了，需要接受社会的规则",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "她的秩序虽然原始，但也许比文明的规则更纯粹",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "有些秩序不需要被理解，只需要被尊重",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉的秩序来源是牛王信仰——原始宗教式的宇宙级秩序感。"
+  },
+  {
+    "id": "q_achan_12",
+    "dimension": "S9",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "阿蝉",
+    "source_story": null,
+    "route_hint": [
+      "西蜀线"
+    ],
+    "city_hint": null,
+    "text": "「楼主，那个玉玺真的这么重要吗？」——她不懂权力的意义，但她在意楼主的安危。在你眼中，不懂权力的人是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "危险的，因为在权力场中无法保护自己",
+        "scores": {
+          "S9": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "幸运的，因为不会被权力腐蚀",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "自由的，权力对她们来说根本不存在",
+        "scores": {
+          "S9": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉对权力没有任何态度——不追求、不恐惧、不利用。"
+  },
+  {
+    "id": "q_achan_13",
+    "dimension": "S5",
+    "cross_dimension": "S2",
+    "type": "story_anon",
+    "source_character": "阿蝉",
+    "source_story": null,
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": null,
+    "text": "在一场逃跑中，她负责带所有人引开追兵。她靠听觉精确报数——「左边五个，右边六个，二楼还有四个」——然后在马背上完成了全部撤退。你如何看待这种行动力？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太冒险了，应该有更稳妥的方案",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "关键时刻能信得过的人比完美的计划更重要",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不需要思考的执行力才是最强的执行力",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这个场景来自阿蝉配合徐庶救人出城的剧情。"
+  },
+  {
+    "id": "q_achan_14",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "面对不公，你更认同哪种态度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「世道如此，我们能做的只是适应。」",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「不舒服就让他消失，不用想那么多。」",
+        "scores": {
+          "S4": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "「看透世道的不公，但选择温柔地活着。」",
+        "scores": {
+          "S4": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "B来自阿蝉的处世哲学。"
+  },
+  {
+    "id": "q_achan_15",
+    "dimension": "S10",
+    "cross_dimension": "S6",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「牛王在天上的太阳中，它看在眼里。」——以下哪种秩序观更接近你的信念？",
+    "options": [
+      {
+        "label": "A",
+        "text": "秩序来自法律和制度，是人类文明的基石",
+        "scores": {
+          "S10": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "秩序来自内心的道德准则，而非外在规则",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "秩序来自更高的存在，人类的规则随时可能崩塌",
+        "scores": {
+          "S10": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "这句来自阿蝉的牛王信仰。"
+  },
+  {
+    "id": "q_achan_16",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「杀过去。杀到雁门关，再从雁门关杀去幽州。」——面对复杂局面时，你更倾向于——",
+    "options": [
+      {
+        "label": "A",
+        "text": "分析利弊后再做决定，冲动是最大的敌人",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "心中有了方向就去做，犹豫只会浪费时间",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "最简单的方法往往是最好的方法",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉的直线认知——对复杂局面只有一种解题思路。"
+  },
+  {
+    "id": "q_achan_17",
+    "dimension": "S8",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「啊，楼主？」——读到话本中亲密描写时的反应。这种无邪让你想到的是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "缺乏社会经验，需要被教导",
+        "scores": {
+          "S8": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "纯真本身就是一种珍贵的东西",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "在乱世中还能保持无邪，是最强大的温柔",
+        "scores": {
+          "S8": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉读色情话本时的反应是她纯真的最好注脚。"
+  },
+  {
+    "id": "q_achan_18",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "绣衣楼的密探日常巡逻回来，你发现阿蝉独自坐在马厩旁边，对着她的马说话。你会——",
+    "options": [
+      {
+        "label": "A",
+        "text": "不打扰她，人和马之间的默契不需要外人参与",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "走过去和她一起看马，安静地待一会儿",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "问她要不要一起去吃饭，她一个人待太久不好",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": ""
+  },
+  {
+    "id": "q_achan_19",
+    "dimension": "S7",
+    "cross_dimension": "S4",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "会议上有人提出了一个你完全无法理解的方案。你的第一反应是——",
+    "options": [
+      {
+        "label": "A",
+        "text": "先记下来，回去慢慢想",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "直接说「想了两遍，没」",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不说话，等别人讨论出结果",
+        "scores": {
+          "S7": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": ""
+  },
+  {
+    "id": "q_achan_20",
+    "dimension": "S5",
+    "cross_dimension": "S3",
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": "广陵",
+    "text": "楼下传来动静，阿蝉立刻进入警戒状态——「左边三个，楼梯两个」。你如何看待这种时刻准备战斗的状态？",
+    "options": [
+      {
+        "label": "A",
+        "text": "太紧张了，日常中不需要时刻保持战备",
+        "scores": {
+          "S5": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "乱世之中，保持警觉是活命的基本功",
+        "scores": {
+          "S5": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "听觉能精确到人数，这种能力是长期生死锤炼的结果",
+        "scores": {
+          "S5": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "阿蝉是听觉主导型——靠听觉定位敌人数量、判断距离。"
+  },
+  {
+    "id": "q_achan_21",
+    "dimension": "S6",
+    "cross_dimension": "S4",
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「杀人对她来说和吃饭一样自然，这才是最可怕的。」",
+        "scores": {
+          "S6": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「她从不在杀人后装可怜，这比任何面具都干净。」",
+        "scores": {
+          "S6": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "A是对阿蝉的评价（恐惧视角），B也是对阿蝉的评价（欣赏视角）。"
+  },
+  {
+    "id": "q_achan_22",
+    "dimension": "S2",
+    "cross_dimension": "S5",
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「主人让我做什么我就做什么」vs「我会保护主人，但我会用我自己的方式」。你更认同——",
+    "options": [
+      {
+        "label": "A",
+        "text": "前者——服从是信任的最高形式",
+        "scores": {
+          "S2": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "后者——有自己的判断才是真正的忠诚",
+        "scores": {
+          "S2": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": ""
+  },
+  {
+    "id": "q_achan_23",
+    "dimension": "S1",
+    "cross_dimension": null,
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「忠诚不是服从，而是即使被命令离开，也会默默守护。」",
+    "options": [
+      {
+        "label": "A",
+        "text": "「忠诚不是服从，而是即使被命令离开，也会默默守护。」——你怎么看？",
+        "scores": {
+          "S1": 3.5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "「沉默不代表无话可说，有时候只是不想伤害对方。」——你认同吗？",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "「我不需要被理解，只需要被信任。」——你的看法？",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "无声的守护、克制的表达、坚定的信任——阿蝉式的温柔。"
+  },
+  {
+    "id": "q_achan_24",
+    "dimension": "S4",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你独自巡逻时发现绣衣楼的围墙被人动了手脚。你",
+    "options": [
+      {
+        "label": "A",
+        "text": "你独自巡逻时发现绣衣楼的围墙被人动了手脚。你——",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "广陵王让你保护一位身份特殊的访客，但你发现此人与你的过去有关。你——",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "你在厨房做宵夜时，听到隔壁密探在议论你的出身。你——",
+        "scores": {
+          "S1": 4
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "职责优先、情感纠葛、隐忍克制——阿蝉的日常充满了这样的瞬间。"
+  },
+  {
+    "id": "q_achan_25",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话，你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我活着就是为了守护一个人，除此之外，别无所求。」",
+        "scores": {
+          "S1": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "「就算全世界都抛弃了她，我也会站在她身后。」",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "守护的定义可以很轻，也可以重到用一生去践行。"
+  }
+]

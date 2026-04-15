@@ -1,0 +1,4199 @@
+{
+  "title": "双魂成行/活动剧情/见闻",
+  "category": "活动剧情",
+  "characters": [
+    "亲卫",
+    "众人",
+    "傅融",
+    "卬",
+    "卬魂魂",
+    "司马吉",
+    "奇怪的声音",
+    "干吉",
+    "张修",
+    "我",
+    "春梦",
+    "游魂",
+    "灰游魂",
+    "猫魂魂",
+    "离魂·管家",
+    "管家游魂",
+    "郭解",
+    "青年",
+    "颜良",
+    "飞云",
+    "飞云？？？",
+    "鲁肃",
+    "黑游魂",
+    "？？？"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我来了。有什么事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "哦，你来了。来见一见。这位就是上次跟你提起的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年",
+      "text": "头像=平民少年",
+      "emotion": "傅融……是！是傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……你是……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这么多年没见，还能一眼认出来吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "青年",
+      "text": "头像=平民少年",
+      "emotion": "对的对的！眼睛忒像了！你、你还记得我吗？我是小卬啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬",
+      "text": "头像=平民少年",
+      "emotion": "我们小时候在司马氏岐山的坞堡里一起玩的，后来岐山饥荒，他们就把那边的坞堡田亩都弃了，大家也各奔东西了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……想起来了，阿卬啊……我还以为你跟他们家回河内的坞堡上做事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬",
+      "text": "头像=平民少年",
+      "emotion": "河内的坞堡里都是老一辈的家奴管事，我们哪里分得到什么，索性各自领了差事出来了，其实就是放奴了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬",
+      "text": "头像=平民少年",
+      "emotion": "你是自由身啊，去哪都行。我们就不一样了，硬生生被拖了好几年才出来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "所以你现在来广陵谋差事吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬",
+      "text": "头像=平民少年",
+      "emotion": "对对！帮两府做做劳力，殿下宽和待下，过得还不错。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我想，两府中都没有岐山人，平时连乡音都听不到，难免寂寥。恰好他来了，又恰好认识你，就喊你来见一面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "老乡见面，怎么都站着，这么拘束？坐啊，喝酒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "还是白天，没放值，我就不喝了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "还有事呢。听他说起，司马氏在岐山的坞堡田亩废弃很久了。前不久，西凉那边的人想在关内寻一处落脚地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "索性就想收购那片地……最近无事，一同去故地看看吧，权当休沐出游了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬",
+      "text": "头像=平民少年",
+      "emotion": "而且，饥荒过去了，乡人说不定都回迁了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "去那么远的地方，折返就要几个月吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "原来，傅副官不想几个月都在一起吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "想吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嗯？你是让我一个人去吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是不是呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……一起去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……我们一起去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……纸门拉上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……好了，挨近些……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "要一起去哪来着……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "怎么不看我？跟我说说话吧……傅副官……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "嗯……不能在这……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "殿下，到了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……真的是这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "附近乡民口述的地点……应该就是这座坞堡。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬",
+      "text": "头像=平民少年",
+      "emotion": "是这里是这里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "完全认不出来了……西凉人会喜欢这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "西凉人嘛，你不能用常理去揣度。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "要不还是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不，西凉人就喜欢叫这种怪名字的坞堡。吉堡……听起来就……就很西凉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "奇怪的声音",
+      "text": "……宾至如归司马吉堡……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "有奇怪的声音！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是欢迎宾客的招呼吧，主人家很好客呢，入内吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "奇怪的声音",
+      "text": "来吧……来吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不，真的很奇怪啊！看起来就像是闹鬼的样子啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "怎么可能呢，这样说主人家很失礼的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "奇怪的声音",
+      "text": "嘿嘿嘿……嘿嘿嘿……进来吧……进来吧……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "怎么听都不是什么好客的地方啊？！！它在嘿嘿笑啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没事的，没事的，坏人一般都是桀桀桀这样笑的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "奇怪的声音",
+      "text": "嘿嘿嘿……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "桀桀桀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融傅融？你在哪呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔……刚才发生了什么来着……好像突然眼前一黑，然后就这样了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊，傅融在那！傅融——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "啊啊烦死了不要追我——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘿咻！全部撞飞！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游魂",
+      "text": "头像=离魂游魂-魂魂",
+      "emotion": "呜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "呜啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊啊不当心把傅融一起撞飞了！傅融——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊，有点摔瘪了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……反正都变成离魂了，瘪就瘪了吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这可不行，傅副官可是绣衣楼的看板郎……我想想……啊！有办法了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "要、要做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘴巴呼一下就行啦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不行不行不行，现在这样贴在一起……感觉……感觉怪怪的……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "一下就好了！嘴巴过来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不行不行不行……不——行——唔唔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呼——呼——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "噗——噗——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呼啊！好了，吹气就鼓起来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "走啦傅融，去深处看看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……为什么还要去深处啊……这个地方明显在闹鬼吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你以前也买过凶宅呀。而且我们现在就是鬼哦。不要自己吓自己啦，深入探查、深入探查！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "自己吓自己……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游魂",
+      "text": "头像=离魂游魂-魂魂",
+      "emotion": "哇——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你看真的有鬼啊！这跟我那套凶宅的情况完全不是一个级别啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "就当是帮阿蝉他们看房了，看房就是经常会踩坑的嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这个已经不是踩坑是跳井了！快走吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "……不可以哦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔啊！哪里冒出来的干吉先生……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "之前楼里的人邀请我一起出游……最后都被困在这里了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "不可以出去哦……离魂晒到太阳，会散掉的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那要怎么变回去？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "这座坞堡被废弃后，好像就被古老的游魂占据了……司马氏某一位拥有这座坞堡的先祖，他的游魂，一直在找合适的肉身还魂……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是司马吉吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你怎么知道？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "因为这里就叫司马吉堡啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……哎？不是司马、吉堡吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "谁会给坞堡起这种奇怪的名字啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "司马家啊！……话说回来这个司马吉是谁啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "看族谱。是司马吉吉的父亲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……司马吉吉又是谁？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "司马喆的父亲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "司马喆又是谁啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "司马嚞的父亲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哈哈，奇怪的名字。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "话说回来，那干吉先生的父亲也可能叫干吉吉？爷爷就叫干喆？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "！！！傅融，傅融你会说笑话了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "可是你们谁都没笑啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "哈哈哈……哈哈哈哈哈哈……我……哈哈哈……我反应有点慢……哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "别笑了！那群游魂又围过来了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "我把干吉先生顶在头顶带着跑，傅融跟上哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "越来越多了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "拍不完啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "那边，那边有个小洞，这几天我们都在那里躲避游魂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊啊啊我挤不进去！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呃——呃——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不行！卡在洞口了！呃——呃——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……对了，有办法了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你、你该不会想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果瘪下去吹气就能鼓起来，那么反过来的话……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎哎？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没时间了！啵唧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啵唧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "唔唔唔……好了！能通过了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呼……呼……逃进来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "它们好像真的卡不进来……不过，这间房间只有这一个出入口吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "上面还有一个。我们一直在调查司马吉游魂的所在，我们的身躯，应该都被它们带去了坞堡地下的最深处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "司马吉应该在那里，研究如何还魂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "？！什么声音？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "有小游魂从那边钻进来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "干吉先生你太小只了！快从我头顶爬去上面的出口躲一躲！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "可是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不要可是了！弹！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "唔啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好了！傅融，一个不留！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游魂",
+      "text": "头像=离魂游魂-魂魂",
+      "emotion": "唔啊啊啊！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "全都打出去了……嗯？角落里还有一只……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "桀桀桀……落单了呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "咦，你、你是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你怎么在这里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "嘤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我……担心你们……就一直跟到了这里……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "骗鬼啊！飞云怎么可能会说话！居然敢变成飞云的样子骗我们，罪加一等！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "飞云？？？",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "唔啊啊啊啊你们本来就是鬼了啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂私房钱-魂魂",
+      "emotion": "不……不要打了……呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……这个声音……你是阿卬？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "从一开始你就想把我们骗来？果然老乡见老乡，背后一把刀！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂私房钱-魂魂",
+      "emotion": "我也是没有办法……司马吉说……不能骗来活人的魂魂就要被推到太阳下面魂飞魄散……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂私房钱-魂魂",
+      "emotion": "看在小时候一起玩的份上，傅融，放过我吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "太过分了！傅融可是很相信你才会跟来的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……也没有很相信它啦，主要是你想来看房子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "居然利用了傅融的信任！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……倒是真没有什么被利用的感觉，主要你想来看房子……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "还敢装成飞云的样子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "！！！对！不可饶恕！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂私房钱-魂魂",
+      "emotion": "唔啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我投降！我投降！我保证不敢造次，求二位让我跟在身边吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "变成飞云也无济于事。而且你本来就是坞堡里的魂魂吧，为什么要跟着我们？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……有魂的地方就有江湖嘛……有的强大的魂魂能吞噬掉别的魂魂，变得越来越壮。其他的魂魂只会慢慢衰退下去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "你看，我已经没什么力气维持本相，只能寄生在水桶里了……要是跟着二位，能捡到一点游魂的碎片吃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……等一下，你说你小时候和傅融见过，那你是什么时候变成这里的游魂的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "唔……说起来，每次看见它，都是在太阳落山之后……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "其实我……一直都是这里的游魂……小孩子容易看见我们，跟我们一起玩。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我真的知道错了……我也只是想把认识的人骗来，这样在坞堡里就有伙伴了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "太卑鄙了，这不是把傅融骗来害死嘛，这样算什么伙伴啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "伙伴可是特别的存在，跟其他所有关系都不一样的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "其实我没什么情绪因为主要还是被你拉来看房的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "算了！这都不是重点，你知道我们的躯体在哪吗？我们要回到身体里才行。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "司马吉命令我们把身躯带去了坞堡地下最深处，让他挑选适合还魂的身躯……然后吃掉你们的魂魂……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔……跟干吉先生调查的差不多……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那，现在要往最深处找躯体吗？还有，要带上它吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "带上我吧！我可以带路的！我、我真的想和你们当伙伴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔……既然这样……好！出发吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "等一下，那边的出口外都是游魂，还是走上面的出口吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "喂——干吉先生，我们要上来啦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……干吉先生？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他好像没听见，是从出口附近走开了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不知道上面的出口附近是不是安全……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "上面是安全的！绝对安全！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "嘿咻……好了，你也上来吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……阿卬？哎？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘿咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "出口怎么被石板堵上了？！阿卬，怎么回事？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "前面黑洞洞的……没办法，只能往前走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "干吉先生——干吉先生——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "奇怪，如果只是暂时走开，应该也就在这附近才对。莫非，他已经离开这一层了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "他没有等我们……一定是遇到危险了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "地上也没有脚印……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……大家现在都没有脚哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "只能一点点找了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "一点点……找……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "一点……点……找……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "一一一点点点找找找……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅傅傅融融融你你你觉不觉得得得越来越越越难往前前前了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "好大大大风嗡嗡嗡……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "要坚持不不不住住住了咕噜噜噜——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呕……头好晕……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是郭解前辈啊……刚才那是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "无君。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔啊啊啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "唔啊啊啊啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "所以，你刚才遇到了干吉先生？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "嗯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "游魂，吹开。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "他在这里遇到游魂了，你帮他吹开了它们？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "嗯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那他呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "一起吹开了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎？往哪个方向？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "那。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……哪？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "那。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……不好意思，你的手太短了，有点看不懂你指的是哪……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "……无君。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呜……屁股好痛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "我们现在……没有屁股！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "干吉先生也不在这里……不过，这里比上层明亮一些，有长明灯。墙上还有壁画……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "但是刻得好潦草，不像是工匠画的，像是自己刻的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……这里应该是开头。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "很久很久以前，从天上落下了一颗圆滚滚的东西。它落地砸入了地底深处，许多长着羽毛的巨大生灵从里面钻了出来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "它们离开之后，圆滚滚的东西就被掩埋了，不久后，一棵树苗从原地破土而出，变成了遮天蔽地的巨木。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "巨大生灵身边出现了各种生灵，是它们发现的，还是它们繁衍出来的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "看不出来……这一幅壁画里，巨木结果了。结了……十颗果子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "从里面钻出来的是人吗？像是人，但是身上画了很多羽毛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "后面的壁画，都是这些人供奉巨大生灵的画面……再后来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……巨大的生灵，死去了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "怎么了？注意到什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……这个。角落里的这个小人……很小的这只。它好像是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "在一堆有羽毛的人里面，只有它的身上没有羽毛，它好像是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……是人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游魂",
+      "text": "头像=离魂游魂-魂魂",
+      "emotion": "在这里……在这里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "！！！它们来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游魂",
+      "text": "头像=离魂游魂-魂魂",
+      "emotion": "吃掉！吃掉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "哈哈……我就知道他们落到了这里！快！把他们一网打尽！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "全都干掉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你还有什么话要说？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呜……呜呜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呜哇——我也是被逼的，伙伴——我也是因为太害怕了——唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "少来。不会再相信你了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融，找个能把它打飞到最远的角度！三、二……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "求求你不要！我、我有用处的！放过我吧我真的有用处的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你的用处就是不断出卖我们的下落吗？准备飞吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呜呼——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不是墙，是铁盾啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "殿下！傅融使君！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "颜良将军也在这……忽然安心一点了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "二位怎么也来了？不过看见二位无事，真是太唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "唔噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘿咻、嘿咻、嘿——咻——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呼，搬开了。没事吧？颜良将……呃，他扁掉了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "扁得跟张纸一样，怎么办……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "请不用担心末将，待会儿郭解前辈会为末将打气的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "何等羞愧，竟被看见如此不得体的样子……原是听闻此处有宜居的废弃坞堡，所以想替墨山的人们过来查探情况……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "结果就被困在了这里……还有鲁肃使君，使君本想来收购田亩的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你们这几个人到底是怎么凑成一队的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "鲁肃使君雇佣郭解前辈当护卫，但是临出门，干吉先生以为我们是出去秋游的，他说他从没好好秋游过，鲁肃使君就邀他同行了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "真是善意的谎言啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "啊，不过……我们几人进入坞堡时，我看见墙上的人影有些异样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "明明是四人入内，墙上……却有五个人的影子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嘘，外面有声音……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯，好像更多的游魂往这边来了……可是颜良将军……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "真的不用担心！好像因为末将啃起来太硬了口感不好，那些游魂对我不是很感兴趣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "……殿下？殿下和使君在做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嘿咻……一起……卷……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "对啊，怎么能……留你一个人待在这么危险的地方！卷起来，扛着带走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "等等！等等我啊！求你们带上我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "一次不忠百次不用。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我现在可是可爱的小狗狗哦！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "等我们回到家就可以揉真正的可爱小狗狗了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "就是，不会撒谎的那种。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "颜良将军，你们有查到通往下层的路线吗？等众人集合，我们就可以计划一起去夺回躯体了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "惭愧……虽然干吉先生打听到了一些情报，但我们几人尚未找到通往地下的通道……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "万物必有解法，总能找到办法的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "实在不行就把书房挪到这里，大家一起以离魂形态在这里办公，早上室内办公，夜晚……夜晚继续办公。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……不！还是要尽快找到躯体离开这里，不然就真的要变成牛马魂了啊！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不过在出发前，还有一件事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑游魂",
+      "text": "头像=离魂黑游魂-魂魂",
+      "emotion": "废物！连这点小事都做不好！害我们差点被抽到魂飞魄散！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "灰游魂",
+      "text": "头像=离魂灰游魂-魂魂",
+      "emotion": "别再想让我们带上你！一个魂在角落里慢慢熄灭吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呜啊啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑游魂",
+      "text": "头像=离魂黑游魂-魂魂",
+      "emotion": "……嗯？谁来了……唔噗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘿、咻……都打飞了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "你救它做什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "既然要计划大行动，那自然要带走一切可以带走的助力！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "现在我们准备打败司马吉、夺回躯体，你要不要跟我们一起走？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "一、一起走……？可以当伙伴吗……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "当然！我才不会因为计较过去的小事，放弃一份可能的助力。只要你不再背叛我们，那你就是我们的伙伴了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "殿下！万万不可！殿下虽有宽厚之举，但是这些游魂反复无常……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "人心也一样反复无常啊。只要我们不违背道与义，就算它再背叛我们，我们也无所畏惧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "既然都这么说了……那我也勉强同意它加入吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯！就这样说好了，伙伴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "伙伴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "跟我走吧！这次我一定带路，我知道一条真正的密道！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "居然真的有密道可以下去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "密道入口藏在壁画后面，难怪怎么都找不到。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这里看起来可以暂时栖身……得设法找到其他人，在这里汇合。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "交给我吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你不行，你暂时不许离开我们的视野范围。颜良将军，拜托了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "是，交给末将。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你是不是变暗了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "是碰到灰了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是真的变暗了。在这个地方待越久，离魂好像就会被什么同化。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哈哈……那也很好啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "好什么好……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "再暗一点，就跟傅副官同色系了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "最近不是很时兴吗，两人穿颜色相近的衣裳……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这里还有外人呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "我们现在都是魂魂，没关系的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊，傅融，你又有点瘪掉了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哪里？……唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "你们在做什么呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔，唔唔，唔唔唔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "唔唔唔唔唔唔！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呃……吸得太紧了，扯……不……开……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "只能这样了！拔掉头冠！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "？！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "啊啊啊漏气了！飞出去了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "还是……还是做点安全的事吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯……呜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这里也有壁画，不过画得更潦草了……几乎看不出画的是什么……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我知道我知道！这里壁画的故事我都知道！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你到底在这里多久了啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……我也记不清了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "肯定很久很久了……离魂会渐渐熄灭掉，最后只能靠寄生在事物上才能延续……我为了来广陵，费尽全力才勉强进了一具尸身……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "再强大的存在都无法幸免……哪怕是远古的十巫。看，这些都是历代十巫传承时的场景！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……为什么司马氏的坞堡地下会有十巫的壁画啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "当然是我消磨时间画的！以前还想靠这个找到伙伴昵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "那，你为什么知道啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "都说了记不清了啊……大概是年纪太大导致的健忘吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "很多事情都记不清了……为了不忘记，只能草草画下来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "历代十巫的传承……那远古是怎么选出新十巫的呢？占卜吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "没有选啊，一直是那十个人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那叫什么“历代”……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "十个人，不断地换新的躯体呀。有时候换躯体还会失去一部分记忆，就需要重新经历受封仪式。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "十个人，对应有十支巫族为他们提供躯体，比如轩辕氏<ref>黄帝轩辕氏后代，出自有熊氏，亦称为帝鸿氏。《国语·晋语》：“黄帝之子二十五宗，其得姓者十四人，为十二姓：姬、酉、祺、己、滕、箴、任、苟、僖、姞、儇、依是也。</ref>、蚕丛氏<ref>古蜀国第一个王朝，亦蚕神。《蜀王本纪》：“蜀王之先名蚕丛，后代曰柏灌，后者名鱼凫。此三代各数百岁，皆神化不死，其民亦颇随王化去。”</ref>、神农氏<ref>《史记·三皇本纪》：“炎帝神农氏，姜姓。母曰女登。有娲氏之女。为少典妃。感神龙而生炎帝。人身牛首。长于姜水。因以为姓。火德王。故曰炎帝。以火名官。斲木为耜，揉木为耒，耒耨之用，以教万人。始教耕。故号神农氏。于是作蜡祭，以赭鞭鞭草木。始尝百草，始有医药。又作五弦之瑟。教人日中为市，交易而退，各得其所。遂重八卦为六十四爻。初都陈，后居曲阜。</ref>、重黎氏<ref>颛顼高阳氏后代，即祝融氏，据传为司马氏的先祖。《尚书·吕刑》：“（皇帝）乃命重黎，绝地天通，罔有降格。”</ref>之类的……如果族灭，也有备用的傀儡可以寄生。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果被选中了，体内被十巫寄宿，那这个人本身的魂魄呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "这个……记不清了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……它好像不太舒服？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "嗯……头有点痛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "这个，画的是不是一个女人从天而降？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯，下面是她的影子吗？好像鸟的影子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "那是玄鸟<ref>《诗经·商颂·玄鸟》：“天命玄鸟，降而生商，宅殷土芒芒。”</ref>……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……天命之女……有玄鸟般的影子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "因为神消逝了……想要神明回来，巫族便用那棵大树，从宇宙中不断召来天命之女。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "天命之女，可以变成他们的神明？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "不能。但是，她们可以……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "有什么东西冲过来了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=离魂鲁肃-魂魂",
+      "emotion": "呜哇——对不起对不起对不起——我以为可以拿小钱钱买通它们的——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "没关系的不是使君的错！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "飘……飘……飘……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "无君，快速。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "飘飘飘飘飘——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黑游魂",
+      "text": "头像=离魂黑游魂-魂魂",
+      "emotion": "叽——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "啊呜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "……嗯，很浓郁呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "好久不见……上次重伤之后，小道就一直盘踞在这里休养……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "这几日可真是热闹，仿佛从冬眠中苏醒了一样，饿得完全填不饱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "灰游魂",
+      "text": "头像=离魂灰游魂-魂魂",
+      "emotion": "噫噫——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "啊呜。唔……这个就清淡了一些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "啊……殿下变得好饱满。果然美好的身躯，就连魂魄也显得饱满莹润……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "……好像露珠一样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "头冠，拔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔啊啊漏气了啊啊啊啊啊啊噗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "……啊，瘪掉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游魂",
+      "text": "头像=离魂游魂-魂魂",
+      "emotion": "家主来了！家主来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "唔啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "力量……还不够……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "……嗯？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "你，要站在外来者那边吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "噫——！不、不敢！小魂不敢！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "可恶！叛徒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "哈哈哈哈哈哈——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "……呃！无君？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "是我的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "你也吞噬了无数离魂……不过，这里这些朽烂蒙灰的离魂没有多少力量，让我抓一只新鲜的吧！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "头像=离魂春梦-魂魂",
+      "emotion": "啊啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "春梦",
+      "text": "头像=离魂春梦-魂魂",
+      "emotion": "呃——恶心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "春梦？你怎么会在这？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=离魂鲁肃-魂魂",
+      "emotion": "应该是跟踪我们进来的……是那个多出来的影子吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "春梦",
+      "text": "头像=离魂春梦-魂魂",
+      "emotion": "蠢材，才发现吗？！——啊铁钉！！！不要！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫魂魂",
+      "text": "喵！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "抓、抓住了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "唔啊你要做什么啊？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "末将来了！……哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=离魂鲁肃-魂魂",
+      "emotion": "殿下！傅融！抓、住、了——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "唔。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=离魂干吉-魂魂",
+      "emotion": "啊啊啊啊——我拉不住你们！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "真是的……这可是小道心爱的祭品啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "死里逃生！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猫魂魂",
+      "text": "喵呜！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎嘿，猫猫也没事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "春梦",
+      "text": "头像=离魂春梦-魂魂",
+      "emotion": "铁钉！铁钉！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "春梦",
+      "text": "头像=离魂春梦-魂魂",
+      "emotion": "什么怎么样？别以为我会记你的恩情！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这种危急关头，大家不妨化敌为友，暂时合作呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "再说……啊，飘走了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "啊……伙伴！你们都没事，太好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呃……为什么这么看着我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "口口声声喊着伙伴，但是，你刚才逃跑了吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "逃跑也算是背叛。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "逃兵可是死罪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=离魂鲁肃-魂魂",
+      "emotion": "是啊，哪怕是欠债，只要能面对就还可以，逃债可是万万不行的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "没种。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "……弱小到连吃都不想吃呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "都冷静点，刚才那种情况……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……它自己走了。估计也知道没有机会了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……嗯。说正事吧，刚才见到了司马吉，并不是什么泛泛之辈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "我们得谨慎行动，先刺探它的弱点……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "没时间了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "之前在深处沉眠时，我听见了……司马吉已经选定了还魂的身躯……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "傅融的体质，似乎格外适合它附身……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "呵呵……要是不抓紧，等到明日满月夜，它就会重返人间了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "它得手后，一定会立刻毁掉其他人的身躯。我们这些弥留在此的离魂……估计就只能和这里其他的游魂一样，永远徘徊在此了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "看出什么了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "这是不是之前壁画上的大树？它好像枯萎了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "树一点点在枯萎，招来的玄鸟影子也越来越小……他们住的高山下，没有羽毛的人也越来越多。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "山上身负羽毛的人，也变得越来越小……你看出什么了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "画得比张飞好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这样是不是就好看点了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "虽然简单但是很有神韵，傅副官很有当画师的天赋啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……书画相通罢了，天天坐班从早写文书写到晚，拿脚练字都能练好了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "别那么谦虚，是真的画得很有灵气。以后要是天下太平，说不定真的可以靠丹青名动一方！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你就算哄我，我也不会上头的。擅长什么不擅长什么，我心里清楚。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "偶尔上头，其实对心绪有好处。现在困在这座坞堡里，如果不彼此安慰，心境都会变得灰濛濛的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你这个人……平时说着「世道就是这副样子的」、「人心就是这样的」，这种情景，为何这么乐观。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "唔……因为……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "因为知道世道和人心什么样了，所以不管遇到什么事都不会惊恐和沮丧呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那应该更沮丧才对吧，横看竖看都没救了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你来了这里之后，为何如此沮丧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没有，我原本就这样。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呃，怎么……怎么离这么近……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "盯……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……太近了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不要躲，看着我呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "看着你……做什么？跟一颗柿子似的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你看，看我这里，我这是不是有个东西？凑近点看嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没有啊，额头上什么都没有……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啵唧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "啊好老套……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嘿嘿……没发现吧？抬头看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头上有什么？上面什么都没……唔啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "趁机抱住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "啊啊，手太短了，好难抱住……总之勉强抱住了，是不是好多了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不用焦虑的，有我在呢，绣衣楼的大家也都在！我们都和你在一起！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "虽然平时吵吵闹闹的，但是大家全都很喜欢傅副官！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……嗯……我知道……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "还有还有，你看我额头上！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "啊又是这招！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不是，这次是真的，你看，我额头……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "漏气了，有点瘪掉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……噗。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "帮我鼓鼓气？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……那……悄悄的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "悄悄的……啵唧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "好一点了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……好多了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "你们在做什么呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "唔啊从哪冒出来的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你怎么又回来了？我们已经说了，不会再相信你了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我……之前只是太害怕了。下次一定不会抛下你们的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "而且……你们为什么就这么想离开呢？冒着这么大的危险去对抗司马吉……万一失败了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "为了回到外面啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "外面也没什么好的嘛！就像傅融说的，让大家都变成魂魂，不就可以永远安稳地在这里一起生活了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我去广陵的路上，到处都是战乱和饥荒，外面还不如这里呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "可是被困在这座坞堡里，和坐监牢有何差別呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "外面不就是更大的监牢吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "外面很大哦，天地是没有尽头的！世人之间的战乱永远不会消失，但是只有去到外面的自由天地，人心里的梦想才可能实现。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "梦想有什么用……留下嘛！让大家都来这里……对！大家都在一起，不也算是一种梦想吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "但那不一定是大家的梦想啊。人的梦想千奇百怪，傅融，你的梦想是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……买房。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "看，傅融的梦想就不是所有人都待在这座坞堡里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……听起来好现实的梦想……不对啊！这么现实的应该叫「目标」而不是「梦想」吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是梦，白日梦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "他都哭了啊！他在哭啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "地下比较潮湿，那是冷凝水。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呜……呜呜……贷款八十年……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "他真的在哭啊！这个梦想既然这么痛苦，何必还要去外面追逐它呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "梦想就是一种痛苦的自由。鱼在鱼缸里、鸟在鸟笼里虽然都能活下去，但人心都知道那是一种圈禁了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "既然都知道，为何还要把自己圈禁在狭隘黑暗的笼子里呢？人生来就可以去最广袤自由的地方！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "没有用的！等你们在外面遍体鳞伤，才会知道还是这里好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "那就等那时候再说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "如果等到八十年后……我都还清房贷了我为什么还要搬来这啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "可以为了来看看伙伴呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "伙伴？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "伙伴？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯！伙伴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "你已经是我们的一员了，一起出发，拯救傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这条密道是向下的……如果它们真的都在最深处，那前方一定是恶战……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "放心，有末将在。届时遇到危机，诸位退至末将身后即可。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "真的可以吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "嗯！相信末将！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "也不能一味躲在将军身后，还是要策划突击的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "它的体型巨大，弱点或许是眼睛吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=离魂鲁肃-魂魂",
+      "emotion": "如果能用钱买通呢？俗话说有钱能使鬼推磨。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "有钱只能使我推磨。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "郭解前辈，无君怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=离魂郭解-魂魂",
+      "emotion": "好了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯！无君可是很重要的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……看，就在那……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "离魂·管家",
+      "text": "头像=离魂管事-魂魂",
+      "emotion": "主人，主人终于要重返人间了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "离魂·管家",
+      "text": "头像=离魂管事-魂魂",
+      "emotion": "当年主人被巫谢选中，是何等荣光……老奴还记得那场盛大的仪式，就是在这里举办的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "离魂·管家",
+      "text": "头像=离魂管事-魂魂",
+      "emotion": "那时的主人正值壮年，容姿端雅，犹在眼前……这名青年虽然只有主人当年的三分容貌，但也勉强能入眼了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我这么丑吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "才没有，它长得跟个出土带泥的萝卜似的，我们傅副官水灵灵的，跟条水葱一样。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "殿下，出土萝卜也可以水灵灵的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "就算是萝卜，我们傅副官也是最清爽大方的萝卜，清甜口的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=离魂颜良-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯？为何都盯着我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=离魂鲁肃-魂魂",
+      "emotion": "背、背后……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "你们在这呀……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "准备作战！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=离魂张修-魂魂",
+      "emotion": "呃……！都抓紧……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "众人",
+      "text": "唔啊啊啊啊啊啊啊——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "头像=黑人影",
+      "emotion": "为什么要打扰仪式……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "头像=黑人影",
+      "emotion": "……被巫谢夺去了身体……作为游魂徘徊在这里数不清多少年……我想离开这里⋯⋯我想回家⋯⋯"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "咳……咳咳……我好像摔瘪了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融？颜良将军？干吉先生？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……我一个人落到了这片地方吗……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呃……摔瘪了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呜啊，好痛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "只有你们吗？看来我们和其他人失散了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "管家游魂",
+      "text": "主人！这里！在这里！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "游魂",
+      "text": "头像=离魂游魂-魂魂",
+      "emotion": "抓住他们——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不能逃！停下，和它们战！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不管了！战吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "……凭你们？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "我、我有伙伴了，我不怕你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "……真的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "你是重黎氏的后人中……族中最早的那个……已经磨灭得比沙砾还要小了……你没有肉身了，为何站在那一边？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……因为……因为他们是伙伴……他们想离开这里……我至少想、想和他们一起出去看看……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "离开这里，为了什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "有……有自由……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "……自由？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "……你要那种东西做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "来，我让你选……呵呵……是站在他们那被我咬碎，还是回到我这边来？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "…………我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "没关系的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "如果害怕的话，回去也可以的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "承认没有勇气就是一种勇气，不是每个人都必须有赴死的勇气的。实在害怕的话……去吧！我们不怪你！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "那，你呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……我才不会过去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "你说谎了。你在发抖呢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "发抖又怎么样……发抖只是代表了害怕，活着就会有害怕的事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "我承认自己害怕了，但是，我不过去！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "哦？你也要自由吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……对！我要！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "我不拿它做什么，我就是想要它，怎样！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "…………啊……我发现了……哈哈……哈哈哈……我明白了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "梦做得美吗？孩子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "不要啰嗦了！傅融，准备！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哇！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "呜啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融……再坚持一下……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "呃……呃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融！你没事吧？傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "他太弱小了。不过，你倒是很有趣……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "力量比其他离魂强大许多……是巫子吗……有几分巫子的气息，但又有些微妙的不同……呃……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "你们、这些、虫豸——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "头像=黑人影",
+      "emotion": "啊啊啊啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "成功了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "快！避开阳光穿过它，去石台那里拿回身体！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "头像=黑人影",
+      "emotion": "休想……休想！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马吉",
+      "text": "头像=黑人影",
+      "emotion": "凭什么是我被选中——凭什么你就可以离开——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "傅融！快！！！就在眼前了……呜啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "唔嗯——不行……我试试推石板……喝——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "太沉了……得找东西撬开试试，阳光要挪过来了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "别管我，傅融，去取回你的身体！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这是什么不负责任的话！我——呃——我才不会——呃——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不行……抬不动……为什么、为什么变成离魂了，还是能被压住……为什么……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "因为……因为每个人的魂魄都有重量啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "我也是，你也是，这世上所有人、所有生灵，大家的魂魄都是有重量的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "有重量的魂魄……就会被重物压住……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "快、快抬起来……快抬起来啊！！！呃——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……傅融，走吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我不走……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我不能丟下你！我是好不容易……好不容易才到你身边的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "变成灰烬也好、变成柿子也好……我……我都不想丢下你……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "……傅融……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呃——我一定能抬起来的……呃！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "哎？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "春梦",
+      "text": "头像=离魂春梦-魂魂",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "呼、呼……虽然被压扁了，但是，我还能……呃，还能自己飘一点……唔啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "赶得上的，赶得上的……一定赶得上……！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "嗯！一定赶得上……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……也好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "至少是这样，手拉着手，站在阳光下面……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=离魂傅融-魂魂",
+      "emotion": "……怎么回事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……伙……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "伙伴！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "卬？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "快走啊！不要傻站着！！！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "那个，如果……如果下辈子我真的是一只小狗，再遇到的话，你们会收留我吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "会的吧？能认出来的吧？因为我们是伙伴……所以一定能认出来的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-离魂广陵王-魂魂",
+      "emotion": "一定能认出来的！你要来找我们啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "头像=离魂飞云-魂魂",
+      "emotion": "……呼……这样就……就好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "卬魂魂",
+      "text": "要自由啊！伙伴！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "……啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-惊讶",
+      "emotion": "变回来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "好……痛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃",
+      "emotion": "……诸位都无事吧？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "颜良",
+      "text": "头像=颜良",
+      "emotion": "完全无事。及时回到了躯体中。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=干吉",
+      "emotion": "……呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "郭解",
+      "text": "头像=郭解",
+      "emotion": "睡着了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张修",
+      "text": "头像=张修",
+      "emotion": "神力尚未恢复……有缘再见吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃",
+      "emotion": "这样，是不是没法再修葺了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "可以的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鲁肃",
+      "text": "头像=鲁肃",
+      "emotion": "哎？！傅融，你要做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "修坞堡啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "只要一点点清理，总有一天可以把它重新修起来的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "先看看下层的损毁情况吧，等我们回去之后，再正式派工匠过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这块石板，还保留得很完整……应该是原本镶嵌在石壁上的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "上面刻了好多名字啊……司马吉、司马吉吉、司马喆……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "是那份族谱吧。说起来，司马氏最早的始祖是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……时间过去太久，离魂的记忆也大多都磨灭了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我记住了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "还会发麻吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嗯……好像因为离魂受到的损伤，恢复之后，双腿时不时会有些发麻。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "不过慢慢在好转，估计不久之后就会痊愈了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "这样揉一揉呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……有好一点吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没有，好像还越来越严重了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哎？怎么会……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你看这里……看，膝盖这……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "傅唔啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "唔啊！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "对不起！你下巴……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-难受",
+      "emotion": "……断掉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "嘿嘿……骗你的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "天冷了，这样抱一会儿吧？抱一会儿，能暖和许多呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……只抱一会儿吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……就这样，再久一些吧……",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"双魂成行/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background7B5F44;colorF2E3C6;textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "旧友来访"
+    },
+    {
+      "type": "narration",
+      "text": "魂入地下"
+    },
+    {
+      "type": "narration",
+      "text": "司马吉堡"
+    },
+    {
+      "type": "narration",
+      "text": "游魂荡魄"
+    },
+    {
+      "type": "narration",
+      "text": "离谱向导"
+    },
+    {
+      "type": "narration",
+      "text": "无君吹落"
+    },
+    {
+      "type": "narration",
+      "text": "不做牛马"
+    },
+    {
+      "type": "narration",
+      "text": "远古回忆"
+    },
+    {
+      "type": "narration",
+      "text": "叕见张修"
+    },
+    {
+      "type": "narration",
+      "text": "啵魂打气"
+    },
+    {
+      "type": "narration",
+      "text": "风雨飘魂"
+    },
+    {
+      "type": "narration",
+      "text": "魂战时刻"
+    },
+    {
+      "type": "narration",
+      "text": "告别坞堡"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%8F%8C%E9%AD%82%E6%88%90%E8%A1%8C/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E8%A7%81%E9%97%BB",
+  "crawled_at": "2026-04-12T22:05:58.724595",
+  "raw_wikitext": "{{回到顶部|头}}\n{{面包屑|2024活动剧情|双魂成行/活动玩法}}[[分类:活动剧情]]\n__TOC__\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">双魂成行</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|双魂成行/活动剧情/见闻|见闻}}\n{{板块|按钮|双魂成行/活动剧情/奇遇|奇遇}}\n</center>\n</div></div>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#7B5F44;color:#F2E3C6;text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#eee;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}\n==旧友来访==\n{{对话-头}}\n{{对话|傅融|我来了。有什么事？|头像=傅融}}\n{{对话|我|哦，你来了。来见一见。这位就是上次跟你提起的人。|头像=广陵王-微笑}}\n{{旁白|廊下的青年激动地站起身，连连点头。}}\n{{对话|青年|傅融……是！是傅融！|头像=平民少年}}\n{{对话|傅融|……你是……？|头像=傅融}}\n{{对话|我|这么多年没见，还能一眼认出来吗？|头像=广陵王-微笑}}\n{{对话|青年|对的对的！眼睛忒像了！你、你还记得我吗？我是小卬啊！|头像=平民少年}}\n{{对话|卬|我们小时候在司马氏岐山的坞堡里一起玩的，后来岐山饥荒，他们就把那边的坞堡田亩都弃了，大家也各奔东西了。|头像=平民少年}}\n{{对话|傅融|……想起来了，阿卬啊……我还以为你跟他们家回河内的坞堡上做事了。|头像=傅融}}\n{{对话|卬|河内的坞堡里都是老一辈的家奴管事，我们哪里分得到什么，索性各自领了差事出来了，其实就是放奴了。|头像=平民少年}}\n{{对话|卬|你是自由身啊，去哪都行。我们就不一样了，硬生生被拖了好几年才出来。|头像=平民少年}}\n{{对话|傅融|所以你现在来广陵谋差事吗？|头像=傅融}}\n{{对话|卬|对对！帮两府做做劳力，殿下宽和待下，过得还不错。|头像=平民少年}}\n{{对话|我|我想，两府中都没有岐山人，平时连乡音都听不到，难免寂寥。恰好他来了，又恰好认识你，就喊你来见一面。|头像=广陵王-微笑}}\n{{对话|我|老乡见面，怎么都站着，这么拘束？坐啊，喝酒。|头像=广陵王-微笑}}\n{{对话|傅融|还是白天，没放值，我就不喝了……|头像=傅融}}\n{{对话|我|还有事呢。听他说起，司马氏在岐山的坞堡田亩废弃很久了。前不久，西凉那边的人想在关内寻一处落脚地。|头像=广陵王-微笑}}\n{{对话|我|索性就想收购那片地……最近无事，一同去故地看看吧，权当休沐出游了。|头像=广陵王-微笑}}\n{{对话|卬|而且，饥荒过去了，乡人说不定都回迁了。|头像=平民少年}}\n{{对话|傅融|去那么远的地方，折返就要几个月吧……|头像=傅融}}\n{{旁白|我让卬先回去做事，朝他挪近了些，略笑着望过去。}}\n{{对话|我|原来，傅副官不想几个月都在一起吗？|头像=广陵王-微笑}}\n{{对话|傅融|……|头像=傅融}}\n{{对话|我|想吗？|头像=广陵王-微笑}}\n{{对话|傅融|……去。|头像=傅融}}\n{{对话|我|嗯？你是让我一个人去吗？|头像=广陵王-微笑}}\n{{对话|傅融|………………|头像=傅融}}\n{{对话|我|是不是呀？|头像=广陵王-微笑}}\n{{对话|傅融|……一起去。|头像=傅融}}\n{{对话|傅融|……我们一起去。|头像=傅融}}\n{{对话|我|……纸门拉上。|头像=广陵王-微笑}}\n{{对话|我|……好了，挨近些……|头像=广陵王-微笑}}\n{{对话|我|要一起去哪来着……？|头像=广陵王-微笑}}\n{{对话|傅融|……呼……|头像=傅融}}\n{{对话|我|怎么不看我？跟我说说话吧……傅副官……|头像=广陵王-微笑}}\n{{对话|傅融|嗯……不能在这……唔……|头像=傅融}}\n{{对话-尾}}\n==魂入地下==\n{{对话-头}}\n{{旁白|【不久后】}}\n{{对话|亲卫|殿下，到了。}}\n{{对话|我|……真的是这里？|头像=广陵王-微笑}}\n{{对话|亲卫|附近乡民口述的地点……应该就是这座坞堡。}}\n{{对话|卬|是这里是这里！|头像=平民少年}}\n{{旁白|……被废弃多年，看起来十分萧索……}}\n{{旁白|我们下了车，拢紧披风，步入残败断裂的石门。坞堡内寒风呼啸，吹得人骨寒。}}\n{{对话|傅融|完全认不出来了……西凉人会喜欢这里？|头像=傅融}}\n{{对话|我|西凉人嘛，你不能用常理去揣度。|头像=广陵王-微笑}}\n{{旁白|他拂去一块石板上的落叶枯草，露出四个斑驳破碎的刻字。}}\n{{旁白|司马吉堡。}}\n{{对话|傅融|……}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|傅融|要不还是……}}\n{{对话|我|不，西凉人就喜欢叫这种怪名字的坞堡。吉堡……听起来就……就很西凉。|头像=广陵王-微笑}}\n{{对话|奇怪的声音|……宾至如归司马吉堡……}}\n{{对话|傅融|有奇怪的声音！！！}}\n{{对话|我|是欢迎宾客的招呼吧，主人家很好客呢，入内吧。|头像=广陵王-微笑}}\n{{对话|奇怪的声音|来吧……来吧……}}\n{{对话|傅融|不，真的很奇怪啊！看起来就像是闹鬼的样子啊！}}\n{{对话|我|怎么可能呢，这样说主人家很失礼的。|头像=广陵王-微笑}}\n{{对话|奇怪的声音|嘿嘿嘿……嘿嘿嘿……进来吧……进来吧……}}\n{{对话|傅融|怎么听都不是什么好客的地方啊？！！它在嘿嘿笑啊！}}\n{{对话|我|没事的，没事的，坏人一般都是桀桀桀这样笑的。|头像=广陵王-微笑}}\n{{对话|奇怪的声音|嘿嘿嘿……}}\n{{对话|我|桀桀桀……|头像=广陵王-微笑}}\n{{对话|傅融|啊啊啊——|头像=傅融}}\n{{旁白|……}}\n{{旁白|咦？}}\n{{对话|我|傅融？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|傅融傅融？你在哪呀？|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|捏捏自己，变成噗叽噗叽的魂魂了。}}\n{{对话|我|唔……刚才发生了什么来着……好像突然眼前一黑，然后就这样了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|啊，傅融在那！傅融——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|啊啊烦死了不要追我——|头像=离魂傅融-魂魂}}\n{{旁白|前方傅融的离魂被一群黑色离魂追赶，他不停抄起算盘拍退它们。}}\n{{对话-尾}}\n==司马吉堡==\n{{对话-头}}\n{{旁白|【司马吉堡】}}\n{{对话|我|嘿咻！全部撞飞！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|游魂|呜啊！|头像=离魂游魂-魂魂}}\n{{对话|傅融|呜啊——|头像=离魂傅融-魂魂}}\n{{对话|我|啊啊不当心把傅融一起撞飞了！傅融——|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|从满地滚的魂魂中扒拉出了傅融的魂魂……}}\n{{旁白|【片刻后】}}\n{{对话|我|啊，有点摔瘪了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……反正都变成离魂了，瘪就瘪了吧。}}\n{{对话|我|这可不行，傅副官可是绣衣楼的看板郎……我想想……啊！有办法了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|要、要做什么？}}\n{{对话|我|嘴巴呼一下就行啦。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|不行不行不行，现在这样贴在一起……感觉……感觉怪怪的……唔！}}\n{{对话|我|一下就好了！嘴巴过来！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|不行不行不行……不——行——唔唔……}}\n{{对话|我|呼——呼——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|噗——噗——}}\n{{对话|我|呼啊！好了，吹气就鼓起来了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……}}\n{{旁白|傅融缩成一团，变成粉红色了。}}\n{{对话|我|走啦傅融，去深处看看。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……为什么还要去深处啊……这个地方明显在闹鬼吧！}}\n{{对话|我|你以前也买过凶宅呀。而且我们现在就是鬼哦。不要自己吓自己啦，深入探查、深入探查！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|自己吓自己……}}\n{{对话|游魂|哇——|头像=离魂游魂-魂魂}}\n{{对话|傅融|你看真的有鬼啊！这跟我那套凶宅的情况完全不是一个级别啊！}}\n{{对话|我|就当是帮阿蝉他们看房了，看房就是经常会踩坑的嘛！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|这个已经不是踩坑是跳井了！快走吧！}}\n{{对话|干吉|……不可以哦……|头像=离魂干吉-魂魂}}\n{{对话|我|唔啊！哪里冒出来的干吉先生……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|之前楼里的人邀请我一起出游……最后都被困在这里了。|头像=离魂干吉-魂魂}}\n{{对话|干吉|不可以出去哦……离魂晒到太阳，会散掉的……|头像=离魂干吉-魂魂}}\n{{对话|傅融|那要怎么变回去？}}\n{{对话|干吉|这座坞堡被废弃后，好像就被古老的游魂占据了……司马氏某一位拥有这座坞堡的先祖，他的游魂，一直在找合适的肉身还魂……|头像=离魂干吉-魂魂}}\n{{对话|傅融|是司马吉吗？}}\n{{对话|我|你怎么知道？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|因为这里就叫司马吉堡啊。}}\n{{对话|我|……哎？不是司马、吉堡吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|谁会给坞堡起这种奇怪的名字啊！}}\n{{对话|我|司马家啊！……话说回来这个司马吉是谁啊？|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|干吉飘向一边的石壁，拍拍上面的刻字。}}\n{{对话|干吉|看族谱。是司马吉吉的父亲。|头像=离魂干吉-魂魂}}\n{{对话|傅融|……司马吉吉又是谁？}}\n{{对话|干吉|司马喆的父亲。|头像=离魂干吉-魂魂}}\n{{对话|傅融|司马喆又是谁啊……}}\n{{对话|我|司马嚞的父亲。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|哈哈，奇怪的名字。}}\n{{对话|傅融|话说回来，那干吉先生的父亲也可能叫干吉吉？爷爷就叫干喆？}}\n{{对话|干吉|……|头像=离魂干吉-魂魂}}\n{{对话|我|！！！傅融，傅融你会说笑话了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|可是你们谁都没笑啊！}}\n{{对话|干吉|……|头像=离魂干吉-魂魂}}\n{{对话|干吉|哈哈哈……哈哈哈哈哈哈……我……哈哈哈……我反应有点慢……哈哈哈……|头像=离魂干吉-魂魂}}\n{{对话|傅融|别笑了！那群游魂又围过来了！}}\n{{对话|我|我把干吉先生顶在头顶带着跑，傅融跟上哦！|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n==游魂荡魄==\n{{对话-头}}\n{{旁白|【司马吉堡】}}\n{{对话|我|越来越多了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|拍不完啊！|头像=离魂傅融-魂魂}}\n{{对话|干吉|那边，那边有个小洞，这几天我们都在那里躲避游魂。|头像=离魂干吉-魂魂}}\n{{对话|干吉|嘿咻……|头像=离魂干吉-魂魂}}\n{{对话|傅融|嘿咻……|头像=离魂傅融-魂魂}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|啊啊啊我挤不进去！！！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呃——呃——}}\n{{对话|傅融|不行！卡在洞口了！呃——呃——}}\n{{对话|傅融|……对了，有办法了……}}\n{{对话|我|你、你该不会想……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|如果瘪下去吹气就能鼓起来，那么反过来的话……}}\n{{对话|我|哎哎？！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|没时间了！啵唧。}}\n{{对话|我|啵唧。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|唔唔唔……好了！能通过了！|头像=离魂傅融-魂魂}}\n{{对话|我|呼……呼……逃进来了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|它们好像真的卡不进来……不过，这间房间只有这一个出入口吗？}}\n{{对话|干吉|上面还有一个。我们一直在调查司马吉游魂的所在，我们的身躯，应该都被它们带去了坞堡地下的最深处。|头像=离魂干吉-魂魂}}\n{{对话|干吉|司马吉应该在那里，研究如何还魂。|头像=离魂干吉-魂魂}}\n{{旁白|悉悉索索……}}\n{{对话|我|？！什么声音？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|有小游魂从那边钻进来了！|头像=离魂傅融-魂魂}}\n{{对话|干吉|唔啊！|头像=离魂干吉-魂魂}}\n{{对话|我|干吉先生你太小只了！快从我头顶爬去上面的出口躲一躲！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|可是……|头像=离魂干吉-魂魂}}\n{{对话|我|不要可是了！弹！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|干吉|唔啊——|头像=离魂干吉-魂魂}}\n{{对话|我|好了！傅融，一个不留！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|游魂|唔啊啊啊！！|头像=离魂游魂-魂魂}}\n{{对话|傅融|全都打出去了……嗯？角落里还有一只……|头像=离魂傅融-魂魂}}\n{{对话|我|桀桀桀……落单了呀……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|角落里，一只小小的黑影瑟瑟发抖。我们俩逼近了它，虎视眈眈。}}\n{{旁白|就在我们隐约看清它的轮廓时，蜷缩成一团的黑影嘤嘤哭了一声……}}\n{{对话|傅融|咦，你、你是……}}\n{{对话|我|你怎么在这里？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|飞云|嘤……|头像=离魂飞云-魂魂}}\n{{对话|飞云|我……担心你们……就一直跟到了这里……|头像=离魂飞云-魂魂}}\n{{对话|傅融|……}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|骗鬼啊！飞云怎么可能会说话！居然敢变成飞云的样子骗我们，罪加一等！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|飞云？？？|唔啊啊啊啊你们本来就是鬼了啊啊啊啊——|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|不……不要打了……呜……|头像=离魂私房钱-魂魂}}\n{{对话|我|……这个声音……你是阿卬？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|从一开始你就想把我们骗来？果然老乡见老乡，背后一把刀！}}\n{{对话|卬魂魂|我也是没有办法……司马吉说……不能骗来活人的魂魂就要被推到太阳下面魂飞魄散……|头像=离魂私房钱-魂魂}}\n{{对话|卬魂魂|看在小时候一起玩的份上，傅融，放过我吧……|头像=离魂私房钱-魂魂}}\n{{对话|我|太过分了！傅融可是很相信你才会跟来的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……也没有很相信它啦，主要是你想来看房子……}}\n{{对话|我|居然利用了傅融的信任！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……倒是真没有什么被利用的感觉，主要你想来看房子……}}\n{{对话|我|还敢装成飞云的样子！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|！！！对！不可饶恕！}}\n{{对话|卬魂魂|唔啊啊啊啊——|头像=离魂私房钱-魂魂}}\n{{对话-尾}}\n==离谱向导==\n{{对话-头}}\n{{对话|卬魂魂|我投降！我投降！我保证不敢造次，求二位让我跟在身边吧……|头像=离魂飞云-魂魂}}\n{{对话|我|变成飞云也无济于事。而且你本来就是坞堡里的魂魂吧，为什么要跟着我们？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|……有魂的地方就有江湖嘛……有的强大的魂魂能吞噬掉别的魂魂，变得越来越壮。其他的魂魂只会慢慢衰退下去……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|你看，我已经没什么力气维持本相，只能寄生在水桶里了……要是跟着二位，能捡到一点游魂的碎片吃……|头像=离魂飞云-魂魂}}\n{{对话|我|……等一下，你说你小时候和傅融见过，那你是什么时候变成这里的游魂的？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|唔……说起来，每次看见它，都是在太阳落山之后……}}\n{{对话|卬魂魂|……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|其实我……一直都是这里的游魂……小孩子容易看见我们，跟我们一起玩。|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|我真的知道错了……我也只是想把认识的人骗来，这样在坞堡里就有伙伴了……|头像=离魂飞云-魂魂}}\n{{对话|我|太卑鄙了，这不是把傅融骗来害死嘛，这样算什么伙伴啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|伙伴可是特别的存在，跟其他所有关系都不一样的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|其实我没什么情绪因为主要还是被你拉来看房的……}}\n{{对话|傅融|算了！这都不是重点，你知道我们的躯体在哪吗？我们要回到身体里才行。}}\n{{对话|卬魂魂|司马吉命令我们把身躯带去了坞堡地下最深处，让他挑选适合还魂的身躯……然后吃掉你们的魂魂……|头像=离魂飞云-魂魂}}\n{{对话|我|唔……跟干吉先生调查的差不多……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|那，现在要往最深处找躯体吗？还有，要带上它吗？}}\n{{对话|卬魂魂|带上我吧！我可以带路的！我、我真的想和你们当伙伴！|头像=离魂飞云-魂魂}}\n{{对话|我|唔……既然这样……好！出发吧！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|等一下，那边的出口外都是游魂，还是走上面的出口吧。|头像=离魂飞云-魂魂}}\n{{旁白|头顶黑洞洞的出口静悄悄的，什么声音都没有。}}\n{{对话|我|喂——干吉先生，我们要上来啦！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……干吉先生？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|他好像没听见，是从出口附近走开了吗？}}\n{{对话|傅融|不知道上面的出口附近是不是安全……}}\n{{对话|卬魂魂|上面是安全的！绝对安全！|头像=离魂飞云-魂魂}}\n{{旁白|先上去看看吧……}}\n{{对话|我|嘿咻……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|嘿咻……好了，你也上来吧。|头像=离魂傅融-魂魂}}\n{{对话|傅融|……阿卬？哎？！！|头像=离魂傅融-魂魂}}\n{{对话|我|嘿咻……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|出口怎么被石板堵上了？！阿卬，怎么回事？！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|来路被堵死了……}}\n{{对话|傅融|前面黑洞洞的……没办法，只能往前走了。|头像=离魂傅融-魂魂}}\n{{对话-尾}}\n==无君吹落==\n{{对话-头}}\n{{旁白|【坞堡二层】}}\n{{对话|我|干吉先生——干吉先生——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|奇怪，如果只是暂时走开，应该也就在这附近才对。莫非，他已经离开这一层了？}}\n{{对话|我|他没有等我们……一定是遇到危险了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|地上也没有脚印……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……大家现在都没有脚哦。}}\n{{对话|我|只能一点点找了……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|片刻后}}\n{{对话|傅融|一点点……找……|头像=离魂傅融-魂魂}}\n{{旁白|片刻后}}\n{{对话|我|一点……点……找……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|片刻后}}\n{{对话|傅融|一一一点点点找找找……|头像=离魂傅融-魂魂}}\n{{对话|我|傅傅傅融融融你你你觉不觉得得得越来越越越难往前前前了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|好大大大风嗡嗡嗡……}}\n{{对话|我|要坚持不不不住住住了咕噜噜噜——|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|心理|前面的风太大了啊啊啊！！！}}\n{{旁白|噗叽噗叽噗叽-——}}\n{{旁白|我们被吹得往后连滚带弹，突然，风骤然停了。}}\n{{对话|我|呕……头好晕……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭解|……？|头像=离魂郭解-魂魂}}\n{{对话|傅融|是郭解前辈啊……刚才那是……}}\n{{对话|郭解|无君。|头像=离魂郭解-魂魂}}\n{{对话|我|唔啊啊啊啊——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|唔啊啊啊啊——}}\n{{旁白|噗叽噗叽噗叽——}}\n{{旁白|片刻后}}\n{{对话|我|所以，你刚才遇到了干吉先生？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭解|嗯。|头像=离魂郭解-魂魂}}\n{{对话|郭解|游魂，吹开。|头像=离魂郭解-魂魂}}\n{{对话|傅融|他在这里遇到游魂了，你帮他吹开了它们？}}\n{{对话|郭解|嗯。|头像=离魂郭解-魂魂}}\n{{对话|傅融|那他呢？}}\n{{对话|郭解|一起吹开了。|头像=离魂郭解-魂魂}}\n{{对话|我|哎？往哪个方向？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭解|那。|头像=离魂郭解-魂魂}}\n{{对话|傅融|……哪？}}\n{{对话|郭解|那。|头像=离魂郭解-魂魂}}\n{{对话|傅融|……不好意思，你的手太短了，有点看不懂你指的是哪……}}\n{{对话|郭解|……无君。|头像=离魂郭解-魂魂}}\n{{旁白|心理|唔啊啊啊啊啊啊啊——}}\n{{旁白|【坞堡地下】}}\n{{对话|我|呜……屁股好痛……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|我们现在……没有屁股！|头像=离魂傅融-魂魂}}\n{{旁白|我们被无君的狂风吹过走廊，在走廊尽头坠入了一处破洞，一直往下坠到了很深的地下。}}\n{{旁白|心理|好像直接坠入坞堡地底了……}}\n{{对话|我|干吉先生也不在这里……不过，这里比上层明亮一些，有长明灯。墙上还有壁画……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|但是刻得好潦草，不像是工匠画的，像是自己刻的。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……这里应该是开头。}}\n{{对话|傅融|很久很久以前，从天上落下了一颗圆滚滚的东西。它落地砸入了地底深处，许多长着羽毛的巨大生灵从里面钻了出来……}}\n{{对话|傅融|它们离开之后，圆滚滚的东西就被掩埋了，不久后，一棵树苗从原地破土而出，变成了遮天蔽地的巨木。}}\n{{对话|我|巨大生灵身边出现了各种生灵，是它们发现的，还是它们繁衍出来的？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|看不出来……这一幅壁画里，巨木结果了。结了……十颗果子。}}\n{{对话|我|从里面钻出来的是人吗？像是人，但是身上画了很多羽毛。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|后面的壁画，都是这些人供奉巨大生灵的画面……再后来……}}\n{{旁白|心理|再后来……}}\n{{旁白|我们晃悠悠飘到最后一幅壁画前。}}\n{{对话|我|……巨大的生灵，死去了？|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|十个小人伏在巨大生灵的遗骸边，日月从遗骸的眼窝中升起。然后十人拉着彼此的手，从树木中迎来了越来越多的、生着羽毛的人。}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|怎么了？注意到什么？|头像=离魂傅融-魂魂}}\n{{对话|我|……这个。角落里的这个小人……很小的这只。它好像是……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|在一堆有羽毛的人里面，只有它的身上没有羽毛，它好像是……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……是人？|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|一个没有羽毛、羸弱、微小的人形，站在远离其他人的角落里。在下一幅图中，它与身后的各色生灵一起，朝着身负羽毛的人形们跪了下来。}}\n{{对话|游魂|在这里……在这里！|头像=离魂游魂-魂魂}}\n{{对话|傅融|！！！它们来了！|头像=离魂傅融-魂魂}}\n{{对话|游魂|吃掉！吃掉！|头像=离魂游魂-魂魂}}\n{{对话|卬魂魂|哈哈……我就知道他们落到了这里！快！把他们一网打尽！|头像=离魂飞云-魂魂}}\n{{对话-尾}}\n==不做牛马==\n{{对话-头}}\n{{旁白|【坞堡地下】}}\n{{对话|我|全都干掉了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|你还有什么话要说？}}\n{{对话|卬魂魂|呜……呜呜……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|呜哇——我也是被逼的，伙伴——我也是因为太害怕了——唔噗！|头像=离魂飞云-魂魂}}\n{{对话|傅融|少来。不会再相信你了。}}\n{{对话|我|傅融，找个能把它打飞到最远的角度！三、二……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|求求你不要！我、我有用处的！放过我吧我真的有用处的！|头像=离魂飞云-魂魂}}\n{{对话|傅融|你的用处就是不断出卖我们的下落吗？准备飞吧！}}\n{{对话|卬魂魂|呜呼——|头像=离魂飞云-魂魂}}\n{{旁白|心理|啊，砸在了一堵墙上，弹回来了……}}\n{{旁白|忽然，卬撞到的那堵墙动了……}}\n{{对话|我|不是墙，是铁盾啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|殿下！傅融使君！|头像=离魂颜良-魂魂}}\n{{对话|傅融|颜良将军也在这……忽然安心一点了。}}\n{{对话|颜良|二位怎么也来了？不过看见二位无事，真是太唔啊！|头像=离魂颜良-魂魂}}\n{{对话|卬魂魂|唔噗——|头像=离魂飞云-魂魂}}\n{{旁白|因为盾太重，颜良只能朝我们弹过来，结果绊倒了地上的卬，连魂带盾滚倒在地。}}\n{{旁白|片刻后}}\n{{对话|我|嘿咻、嘿咻、嘿——咻——|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呼，搬开了。没事吧？颜良将……呃，他扁掉了。}}\n{{对话|傅融|扁得跟张纸一样，怎么办……}}\n{{对话|颜良|请不用担心末将，待会儿郭解前辈会为末将打气的！|头像=离魂颜良-魂魂}}\n{{对话|颜良|何等羞愧，竟被看见如此不得体的样子……原是听闻此处有宜居的废弃坞堡，所以想替墨山的人们过来查探情况……|头像=离魂颜良-魂魂}}\n{{对话|颜良|结果就被困在了这里……还有鲁肃使君，使君本想来收购田亩的……|头像=离魂颜良-魂魂}}\n{{对话|傅融|你们这几个人到底是怎么凑成一队的……}}\n{{对话|颜良|鲁肃使君雇佣郭解前辈当护卫，但是临出门，干吉先生以为我们是出去秋游的，他说他从没好好秋游过，鲁肃使君就邀他同行了。|头像=离魂颜良-魂魂}}\n{{对话|我|真是善意的谎言啊……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|啊，不过……我们几人进入坞堡时，我看见墙上的人影有些异样……|头像=离魂颜良-魂魂}}\n{{对话|颜良|明明是四人入内，墙上……却有五个人的影子。|头像=离魂颜良-魂魂}}\n{{对话|傅融|嘘，外面有声音……}}\n{{对话|我|嗯，好像更多的游魂往这边来了……可是颜良将军……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|真的不用担心！好像因为末将啃起来太硬了口感不好，那些游魂对我不是很感兴趣。|头像=离魂颜良-魂魂}}\n{{对话|颜良|……殿下？殿下和使君在做什么？|头像=离魂颜良-魂魂}}\n{{对话|傅融|嘿咻……一起……卷……}}\n{{对话|我|对啊，怎么能……留你一个人待在这么危险的地方！卷起来，扛着带走！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|心理|好！这样卷起来就能两人一起扛走了！}}\n{{对话|卬魂魂|等等！等等我啊！求你们带上我！|头像=离魂飞云-魂魂}}\n{{对话|傅融|一次不忠百次不用。}}\n{{对话|卬魂魂|我现在可是可爱的小狗狗哦！|头像=离魂飞云-魂魂}}\n{{对话|傅融|等我们回到家就可以揉真正的可爱小狗狗了！}}\n{{对话|我|就是，不会撒谎的那种。|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|我们扛起颜良，一前一后飘出了这处石室……}}\n{{对话|我|颜良将军，你们有查到通往下层的路线吗？等众人集合，我们就可以计划一起去夺回躯体了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|惭愧……虽然干吉先生打听到了一些情报，但我们几人尚未找到通往地下的通道……|头像=离魂颜良-魂魂}}\n{{对话|我|万物必有解法，总能找到办法的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|实在不行就把书房挪到这里，大家一起以离魂形态在这里办公，早上室内办公，夜晚……夜晚继续办公。}}\n{{对话|傅融|……}}\n{{对话|傅融|……不！还是要尽快找到躯体离开这里，不然就真的要变成牛马魂了啊！！！}}\n{{对话|我|不过在出发前，还有一件事……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|我转过身，往刚才石室的方向飘去。}}\n{{对话|黑游魂|废物！连这点小事都做不好！害我们差点被抽到魂飞魄散！|头像=离魂黑游魂-魂魂}}\n{{对话|灰游魂|别再想让我们带上你！一个魂在角落里慢慢熄灭吧！|头像=离魂灰游魂-魂魂}}\n{{对话|卬魂魂|呜啊啊——|头像=离魂飞云-魂魂}}\n{{对话|黑游魂|……嗯？谁来了……唔噗！|头像=离魂黑游魂-魂魂}}\n{{对话|我|嘿、咻……都打飞了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|你救它做什么……|头像=离魂傅融-魂魂}}\n{{对话|我|既然要计划大行动，那自然要带走一切可以带走的助力！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|现在我们准备打败司马吉、夺回躯体，你要不要跟我们一起走？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|一、一起走……？可以当伙伴吗……？|头像=离魂飞云-魂魂}}\n{{对话|我|当然！我才不会因为计较过去的小事，放弃一份可能的助力。只要你不再背叛我们，那你就是我们的伙伴了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|殿下！万万不可！殿下虽有宽厚之举，但是这些游魂反复无常……|头像=离魂颜良-魂魂}}\n{{对话|我|人心也一样反复无常啊。只要我们不违背道与义，就算它再背叛我们，我们也无所畏惧。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|既然都这么说了……那我也勉强同意它加入吧……|头像=离魂傅融-魂魂}}\n{{对话|我|嗯！就这样说好了，伙伴！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|伙伴！|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|跟我走吧！这次我一定带路，我知道一条真正的密道！|头像=离魂飞云-魂魂}}\n{{对话-尾}}\n==远古回忆==\n{{对话-头}}\n{{旁白|【明堂】}}\n{{对话|颜良|居然真的有密道可以下去……|头像=离魂颜良-魂魂}}\n{{对话|我|密道入口藏在壁画后面，难怪怎么都找不到。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|这里看起来可以暂时栖身……得设法找到其他人，在这里汇合。}}\n{{对话|卬魂魂|交给我吧！|头像=离魂飞云-魂魂}}\n{{对话|傅融|你不行，你暂时不许离开我们的视野范围。颜良将军，拜托了。}}\n{{对话|颜良|是，交给末将。|头像=离魂颜良-魂魂}}\n{{旁白|石室内的长明灯影影绰绰。我们松了口气，暂作歇息。}}\n{{对话|傅融|你是不是变暗了……}}\n{{对话|我|是碰到灰了吧？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|是真的变暗了。在这个地方待越久，离魂好像就会被什么同化。}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|哈哈……那也很好啊。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|好什么好……}}\n{{对话|我|再暗一点，就跟傅副官同色系了呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|最近不是很时兴吗，两人穿颜色相近的衣裳……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|这里还有外人呢……}}\n{{对话|我|我们现在都是魂魂，没关系的……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|啊，傅融，你又有点瘪掉了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|哪里？……唔！}}\n{{旁白|心理|唔——魂魂之间吸住了，扯、扯不开……}}\n{{对话|卬魂魂|你们在做什么呀？|头像=离魂飞云-魂魂}}\n{{对话|我|唔，唔唔，唔唔唔。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|唔唔唔唔唔唔！}}\n{{旁白|片刻后}}\n{{对话|卬魂魂|呃……吸得太紧了，扯……不……开……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|只能这样了！拔掉头冠！|头像=离魂飞云-魂魂}}\n{{对话|我|？！！！！！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|啊啊啊漏气了！飞出去了！！！|头像=离魂傅融-魂魂}}\n{{旁白|虽然我头顶漏气满屋子乱撞，但好在是分开了……}}\n{{对话|傅融|还是……还是做点安全的事吧……|头像=离魂傅融-魂魂}}\n{{对话|我|嗯……呜。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|这里也有壁画，不过画得更潦草了……几乎看不出画的是什么……}}\n{{对话|卬魂魂|我知道我知道！这里壁画的故事我都知道！|头像=离魂飞云-魂魂}}\n{{对话|我|你到底在这里多久了啊……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|……我也记不清了。|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|肯定很久很久了……离魂会渐渐熄灭掉，最后只能靠寄生在事物上才能延续……我为了来广陵，费尽全力才勉强进了一具尸身……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|再强大的存在都无法幸免……哪怕是远古的十巫。看，这些都是历代十巫传承时的场景！|头像=离魂飞云-魂魂}}\n{{对话|我|……为什么司马氏的坞堡地下会有十巫的壁画啊？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|当然是我消磨时间画的！以前还想靠这个找到伙伴昵……|头像=离魂飞云-魂魂}}\n{{对话|傅融|那，你为什么知道啊？|头像=离魂傅融-魂魂}}\n{{对话|卬魂魂|都说了记不清了啊……大概是年纪太大导致的健忘吧……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|很多事情都记不清了……为了不忘记，只能草草画下来。|头像=离魂飞云-魂魂}}\n{{对话|我|历代十巫的传承……那远古是怎么选出新十巫的呢？占卜吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|没有选啊，一直是那十个人。|头像=离魂飞云-魂魂}}\n{{对话|傅融|那叫什么“历代”……}}\n{{对话|卬魂魂|十个人，不断地换新的躯体呀。有时候换躯体还会失去一部分记忆，就需要重新经历受封仪式。|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|十个人，对应有十支巫族为他们提供躯体，比如轩辕氏<ref>黄帝轩辕氏后代，出自有熊氏，亦称为帝鸿氏。《国语·晋语》：“黄帝之子二十五宗，其得姓者十四人，为十二姓：姬、酉、祺、己、滕、箴、任、苟、僖、姞、儇、依是也。</ref>、蚕丛氏<ref>古蜀国第一个王朝，亦蚕神。《蜀王本纪》：“蜀王之先名蚕丛，后代曰柏灌，后者名鱼凫。此三代各数百岁，皆神化不死，其民亦颇随王化去。”</ref>、神农氏<ref>《史记·三皇本纪》：“炎帝神农氏，姜姓。母曰女登。有娲氏之女。为少典妃。感神龙而生炎帝。人身牛首。长于姜水。因以为姓。火德王。故曰炎帝。以火名官。斲木为耜，揉木为耒，耒耨之用，以教万人。始教耕。故号神农氏。于是作蜡祭，以赭鞭鞭草木。始尝百草，始有医药。又作五弦之瑟。教人日中为市，交易而退，各得其所。遂重八卦为六十四爻。初都陈，后居曲阜。</ref>、重黎氏<ref>颛顼高阳氏后代，即祝融氏，据传为司马氏的先祖。《尚书·吕刑》：“（皇帝）乃命重黎，绝地天通，罔有降格。”</ref>之类的……如果族灭，也有备用的傀儡可以寄生。|头像=离魂飞云-魂魂}}\n{{对话|傅融|如果被选中了，体内被十巫寄宿，那这个人本身的魂魄呢？}}\n{{对话|卬魂魂|唔……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|这个……记不清了……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|……|头像=离魂飞云-魂魂}}\n{{对话|傅融|……它好像不太舒服？}}\n{{对话|卬魂魂|嗯……头有点痛……|头像=离魂飞云-魂魂}}\n{{旁白|它缩在角落里，怔怔看着自己的小狗尾巴。}}\n{{旁白|心理|让它歇息一会吧……}}\n{{旁白|我们在潦草的壁画前飘来飘去，试着看看有没有什么能自己认出来的东西。}}\n{{对话|傅融|这个，画的是不是一个女人从天而降？|头像=离魂傅融-魂魂}}\n{{对话|我|嗯，下面是她的影子吗？好像鸟的影子……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|那是玄鸟<ref>《诗经·商颂·玄鸟》：“天命玄鸟，降而生商，宅殷土芒芒。”</ref>……|头像=离魂飞云-魂魂}}\n{{对话|我|什么？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|……天命之女……有玄鸟般的影子……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|因为神消逝了……想要神明回来，巫族便用那棵大树，从宇宙中不断召来天命之女。|头像=离魂飞云-魂魂}}\n{{对话|我|天命之女，可以变成他们的神明？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|不能。但是，她们可以……|头像=离魂飞云-魂魂}}\n{{旁白|轰隆隆——}}\n{{对话|傅融|有什么东西冲过来了！！！|头像=离魂傅融-魂魂}}\n{{对话|鲁肃|呜哇——对不起对不起对不起——我以为可以拿小钱钱买通它们的——|头像=离魂鲁肃-魂魂}}\n{{对话|颜良|没关系的不是使君的错！|头像=离魂颜良-魂魂}}\n{{对话|干吉|飘……飘……飘……|头像=离魂干吉-魂魂}}\n{{对话|郭解|无君，快速。|头像=离魂郭解-魂魂}}\n{{对话|干吉|飘飘飘飘飘——|头像=离魂干吉-魂魂}}\n{{旁白|四个魂跌跌撞撞朝这里冲来，背后是挤满了石道的、密密麻麻追来的离魂——}}\n{{旁白|就在这时，一片巨大的阴影遮蔽过我们的头顶，所有长明灯霎时熄灭……}}\n{{对话-尾}}\n==叕见张修==\n{{对话-头}}\n{{旁白|【明堂】}}\n{{对话|黑游魂|叽——|头像=离魂黑游魂-魂魂}}\n{{对话|张修|啊呜。|头像=离魂张修-魂魂}}\n{{对话|张修|……嗯，很浓郁呢……|头像=离魂张修-魂魂}}\n{{对话|张修|好久不见……上次重伤之后，小道就一直盘踞在这里休养……|头像=离魂张修-魂魂}}\n{{对话|张修|这几日可真是热闹，仿佛从冬眠中苏醒了一样，饿得完全填不饱。|头像=离魂张修-魂魂}}\n{{对话|灰游魂|噫噫——|头像=离魂灰游魂-魂魂}}\n{{对话|张修|啊呜。唔……这个就清淡了一些。|头像=离魂张修-魂魂}}\n{{对话|张修|啊……殿下变得好饱满。果然美好的身躯，就连魂魄也显得饱满莹润……|头像=离魂张修-魂魂}}\n{{对话|张修|……好像露珠一样……|头像=离魂张修-魂魂}}\n{{对话|傅融|头冠，拔。|头像=离魂傅融-魂魂}}\n{{对话|我|唔啊啊漏气了啊啊啊啊啊啊噗。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张修|……啊，瘪掉了。|头像=离魂张修-魂魂}}\n{{旁白|他好像很失望的样子，慢慢地缩回了黑暗的穹顶。}}\n{{旁白|被吃得七零八落的离魂们惊恐地朝着石道另一头逃窜，突然，又尖叫着逃了回来——}}\n{{对话|游魂|家主来了！家主来了！|头像=离魂游魂-魂魂}}\n{{旁白|森冷之影笼罩整片地宫，隆隆声响若惊涛涌动，一团巨大的雾影自尽头显露，充斥满了石道。}}\n{{旁白|雾影动了。仿佛肥胖臃肿的人艰难在拘束的壳子中翻滚，这只巨大的离魂勉强露出了一只浑浊发黄的眼睛，带着无数恶念注视着我们……}}\n{{对话|众人|唔啊——}}\n{{旁白|它张开了嘴，巨大的吸力将我们连带那些坞堡中的离魂吸入口中，伴随尖叫哀嚎，无数离魂被嚼得粉碎。}}\n{{旁白|另一股气流从后方逆袭而来，郭解的无君拼命地在抽风，将我们往反方向吸去——}}\n{{对话|司马吉|力量……还不够……}}\n{{对话|司马吉|……嗯？}}\n{{旁白|浑浊的巨大眼球看向了卬，它吓得夹起尾巴，缩着一动不敢动。}}\n{{对话|司马吉|你，要站在外来者那边吗？}}\n{{对话|卬魂魂|噫——！不、不敢！小魂不敢！！！|头像=离魂飞云-魂魂}}\n{{旁白|它窜入一旁的黑暗中，不见了踪迹。}}\n{{对话|傅融|可恶！叛徒！|头像=离魂傅融-魂魂}}\n{{对话|司马吉|哈哈哈哈哈哈——}}\n{{对话|郭解|……呃！无君？！|头像=离魂郭解-魂魂}}\n{{旁白|法器发出绝望的尖锐鸣声，旋转缓缓停止；就在我们全员要被吸入司马吉口中时，数条柔软的影子缠绕住了我们的尾巴……}}\n{{对话|张修|是我的！|头像=离魂张修-魂魂}}\n{{对话|司马吉|你也吞噬了无数离魂……不过，这里这些朽烂蒙灰的离魂没有多少力量，让我抓一只新鲜的吧！！！}}\n{{对话|？？？|啊啊！|头像=离魂春梦-魂魂}}\n{{旁白|它朝向左侧深吸一口气，一只小小的离魂影子从角落被吸了出来——}}\n{{旁白|心理|哎？好眼熟的样子……}}\n{{对话|春梦|呃——恶心！|头像=离魂春梦-魂魂}}\n{{对话|我|春梦？你怎么会在这？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|鲁肃|应该是跟踪我们进来的……是那个多出来的影子吧？|头像=离魂鲁肃-魂魂}}\n{{对话|春梦|蠢材，才发现吗？！——啊铁钉！！！不要！！！|头像=离魂春梦-魂魂}}\n{{对话|猫魂魂|喵！}}\n{{旁白|他虽然死死扒住了石头缝，但是趴在身上的猫魂魂却被吸向了司马吉。就在这时——}}\n{{对话|我|抓、抓住了！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|唔啊你要做什么啊？！|头像=离魂傅融-魂魂}}\n{{旁白|我挣开张修的缠绕，飞身扑向了半空的猫魂魂，抓住了它的尾巴；身后，傅融也挣脱了，飞身抓住了我。}}\n{{对话|颜良|末将来了！……哎？|头像=离魂颜良-魂魂}}\n{{旁白|因为太重，颜良直接砸在了地上，根本吸不动。}}\n{{对话|鲁肃|殿下！傅融！抓、住、了——|头像=离魂鲁肃-魂魂}}\n{{对话|郭解|唔。|头像=离魂郭解-魂魂}}\n{{对话|干吉|啊啊啊啊——我拉不住你们！|头像=离魂干吉-魂魂}}\n{{旁白|大家一个接一个拉住对方，但最后的干吉实在太小只了，根本拽不住所有人。眼看大家都要被司马吉吸入口中……}}\n{{对话|张修|真是的……这可是小道心爱的祭品啊。|头像=离魂张修-魂魂}}\n{{旁白|数道黑影紧紧缠绕住了我们，用尽全力，将我们拖入另一侧的黑暗中，逃离了被吞噬的命运……}}\n{{对话|我|死里逃生！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|猫魂魂|喵呜！}}\n{{对话|我|哎嘿，猫猫也没事！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|春梦|铁钉！铁钉！！！|头像=离魂春梦-魂魂}}\n{{旁白|他扑了过来，从我手中抢回了猫魂魂，紧紧抱住。}}\n{{对话|我|怎么样？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|春梦|什么怎么样？别以为我会记你的恩情！|头像=离魂春梦-魂魂}}\n{{对话|我|这种危急关头，大家不妨化敌为友，暂时合作呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|再说……啊，飘走了……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|他根本不想听我多说，身影像猫一样，灵活地闪出石室门外，消失不见……}}\n{{对话|卬魂魂|啊……伙伴！你们都没事，太好了！|头像=离魂飞云-魂魂}}\n{{对话|傅融|……}}\n{{对话|卬魂魂|呃……为什么这么看着我……|头像=离魂飞云-魂魂}}\n{{对话|傅融|口口声声喊着伙伴，但是，你刚才逃跑了吧？}}\n{{对话|傅融|逃跑也算是背叛。}}\n{{对话|颜良|逃兵可是死罪。|头像=离魂颜良-魂魂}}\n{{对话|鲁肃|是啊，哪怕是欠债，只要能面对就还可以，逃债可是万万不行的！|头像=离魂鲁肃-魂魂}}\n{{对话|郭解|没种。|头像=离魂郭解-魂魂}}\n{{对话|张修|……弱小到连吃都不想吃呢……|头像=离魂张修-魂魂}}\n{{对话|卬魂魂|……|头像=离魂飞云-魂魂}}\n{{对话|我|都冷静点，刚才那种情况……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|我话没说完，它已经低头垂着尾巴，小跑出了石室，不见了。}}\n{{对话|傅融|……它自己走了。估计也知道没有机会了。}}\n{{对话|我|……嗯。说正事吧，刚才见到了司马吉，并不是什么泛泛之辈。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|我们得谨慎行动，先刺探它的弱点……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|张修|没时间了。|头像=离魂张修-魂魂}}\n{{对话|张修|之前在深处沉眠时，我听见了……司马吉已经选定了还魂的身躯……|头像=离魂张修-魂魂}}\n{{对话|张修|傅融的体质，似乎格外适合它附身……|头像=离魂张修-魂魂}}\n{{对话|傅融|我？}}\n{{对话|张修|呵呵……要是不抓紧，等到明日满月夜，它就会重返人间了。|头像=离魂张修-魂魂}}\n{{对话|张修|它得手后，一定会立刻毁掉其他人的身躯。我们这些弥留在此的离魂……估计就只能和这里其他的游魂一样，永远徘徊在此了。|头像=离魂张修-魂魂}}\n{{对话-尾}}\n==啵魂打气==\n{{对话-头}}\n{{旁白|大家都疲惫不堪，挤在一处睡去了。}}\n{{旁白|我睡不着，飘飘荡荡去看附近的壁画……}}\n{{对话|傅融|看出什么了吗？}}\n{{对话|我|这是不是之前壁画上的大树？它好像枯萎了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|树一点点在枯萎，招来的玄鸟影子也越来越小……他们住的高山下，没有羽毛的人也越来越多。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|山上身负羽毛的人，也变得越来越小……你看出什么了吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|画得比张飞好。}}\n{{旁白|他拿起一根枯枝，在石壁上戳戳画画。}}\n{{对话|傅融|这样是不是就好看点了？}}\n{{对话|我|虽然简单但是很有神韵，傅副官很有当画师的天赋啊。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……书画相通罢了，天天坐班从早写文书写到晚，拿脚练字都能练好了。}}\n{{对话|我|别那么谦虚，是真的画得很有灵气。以后要是天下太平，说不定真的可以靠丹青名动一方！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|你就算哄我，我也不会上头的。擅长什么不擅长什么，我心里清楚。}}\n{{对话|我|偶尔上头，其实对心绪有好处。现在困在这座坞堡里，如果不彼此安慰，心境都会变得灰濛濛的。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|你这个人……平时说着「世道就是这副样子的」、「人心就是这样的」，这种情景，为何这么乐观。}}\n{{对话|我|唔……因为……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|因为知道世道和人心什么样了，所以不管遇到什么事都不会惊恐和沮丧呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|那应该更沮丧才对吧，横看竖看都没救了。}}\n{{对话|我|你来了这里之后，为何如此沮丧？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|没有，我原本就这样。}}\n{{对话|傅融|呃，怎么……怎么离这么近……}}\n{{对话|我|盯……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……太近了…… }}\n{{对话|我|不要躲，看着我呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|看着你……做什么？跟一颗柿子似的……}}\n{{对话|我|你看，看我这里，我这是不是有个东西？凑近点看嘛！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|没有啊，额头上什么都没有……}}\n{{对话|我|啵唧！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……}}\n{{对话|傅融|啊好老套……}}\n{{对话|我|嘿嘿……没发现吧？抬头看。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|头上有什么？上面什么都没……唔啊！}}\n{{对话|我|趁机抱住。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|啊啊，手太短了，好难抱住……总之勉强抱住了，是不是好多了？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|不用焦虑的，有我在呢，绣衣楼的大家也都在！我们都和你在一起！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|虽然平时吵吵闹闹的，但是大家全都很喜欢傅副官！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……嗯……我知道……}}\n{{对话|我|还有还有，你看我额头上！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|啊又是这招！}}\n{{对话|我|不是，这次是真的，你看，我额头……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|拔掉头冠。}}\n{{旁白|哔叽——}}\n{{对话|我|漏气了，有点瘪掉了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……噗。}}\n{{对话|我|帮我鼓鼓气？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……那……悄悄的……}}\n{{对话|我|悄悄的……啵唧。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|好一点了吗？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……好多了……}}\n{{对话|卬魂魂|你们在做什么呀？|头像=离魂飞云-魂魂}}\n{{对话|傅融|唔啊从哪冒出来的！}}\n{{对话|傅融|你怎么又回来了？我们已经说了，不会再相信你了！}}\n{{对话|卬魂魂|我……之前只是太害怕了。下次一定不会抛下你们的……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|而且……你们为什么就这么想离开呢？冒着这么大的危险去对抗司马吉……万一失败了……|头像=离魂飞云-魂魂}}\n{{对话|我|为了回到外面啊。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|外面也没什么好的嘛！就像傅融说的，让大家都变成魂魂，不就可以永远安稳地在这里一起生活了吗？|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|我去广陵的路上，到处都是战乱和饥荒，外面还不如这里呢。|头像=离魂飞云-魂魂}}\n{{对话|我|可是被困在这座坞堡里，和坐监牢有何差別呢？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|外面不就是更大的监牢吗……|头像=离魂飞云-魂魂}}\n{{对话|我|外面很大哦，天地是没有尽头的！世人之间的战乱永远不会消失，但是只有去到外面的自由天地，人心里的梦想才可能实现。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|梦想有什么用……留下嘛！让大家都来这里……对！大家都在一起，不也算是一种梦想吗？|头像=离魂飞云-魂魂}}\n{{对话|我|但那不一定是大家的梦想啊。人的梦想千奇百怪，傅融，你的梦想是什么？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|……买房。}}\n{{对话|我|看，傅融的梦想就不是所有人都待在这座坞堡里。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|……听起来好现实的梦想……不对啊！这么现实的应该叫「目标」而不是「梦想」吧！|头像=离魂飞云-魂魂}}\n{{对话|傅融|是梦，白日梦。}}\n{{对话|卬魂魂|他都哭了啊！他在哭啊！|头像=离魂飞云-魂魂}}\n{{对话|我|地下比较潮湿，那是冷凝水。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呜……呜呜……贷款八十年……}}\n{{对话|卬魂魂|他真的在哭啊！这个梦想既然这么痛苦，何必还要去外面追逐它呢？|头像=离魂飞云-魂魂}}\n{{对话|我|梦想就是一种痛苦的自由。鱼在鱼缸里、鸟在鸟笼里虽然都能活下去，但人心都知道那是一种圈禁了。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|既然都知道，为何还要把自己圈禁在狭隘黑暗的笼子里呢？人生来就可以去最广袤自由的地方！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|没有用的！等你们在外面遍体鳞伤，才会知道还是这里好！|头像=离魂飞云-魂魂}}\n{{对话|我|那就等那时候再说。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|如果等到八十年后……我都还清房贷了我为什么还要搬来这啊？}}\n{{对话|我|可以为了来看看伙伴呀。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|伙伴？}}\n{{对话|卬魂魂|伙伴？|头像=离魂飞云-魂魂}}\n{{对话|我|嗯！伙伴！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|你已经是我们的一员了，一起出发，拯救傅融！|头像=小头像-离魂广陵王-魂魂}}\n{{对话-尾}}\n\n==风雨飘魂==\n\n{{对话-头}}\n{{对话|傅融|这条密道是向下的……如果它们真的都在最深处，那前方一定是恶战……}}\n{{对话|颜良|放心，有末将在。届时遇到危机，诸位退至末将身后即可。|头像=离魂颜良-魂魂}}\n{{对话|干吉|真的可以吗？}}\n{{对话|颜良|嗯！相信末将！|头像=离魂颜良-魂魂}}\n{{对话|傅融|也不能一味躲在将军身后，还是要策划突击的。}}\n{{对话|傅融|它的体型巨大，弱点或许是眼睛吧？}}\n{{对话|鲁肃|如果能用钱买通呢？俗话说有钱能使鬼推磨。|头像=离魂鲁肃-魂魂}}\n{{对话|傅融|有钱只能使我推磨。}}\n{{对话|我|郭解前辈，无君怎么样？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|郭解|好了。|头像=离魂郭解-魂魂}}\n{{对话|我|嗯！无君可是很重要的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……看，就在那…… |头像=小头像-离魂广陵王-魂魂}}\n{{旁白|地下的石台上，傅融的身躯沉睡在那里，无数离魂围绕着他，缓缓飘荡。我们的身躯都倒在石台附近。}}\n{{对话|离魂·管家|主人，主人终于要重返人间了……|头像=离魂管事-魂魂}}\n{{对话|离魂·管家|当年主人被巫谢选中，是何等荣光……老奴还记得那场盛大的仪式，就是在这里举办的……|头像=离魂管事-魂魂}}\n{{对话|离魂·管家|那时的主人正值壮年，容姿端雅，犹在眼前……这名青年虽然只有主人当年的三分容貌，但也勉强能入眼了……|头像=离魂管事-魂魂}}\n{{旁白|我身边的傅融有点泄气。}}\n{{对话|傅融|……我这么丑吗？}}\n{{对话|我|才没有，它长得跟个出土带泥的萝卜似的，我们傅副官水灵灵的，跟条水葱一样。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|殿下，出土萝卜也可以水灵灵的。|头像=离魂颜良-魂魂}}\n{{对话|我|就算是萝卜，我们傅副官也是最清爽大方的萝卜，清甜口的。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|颜良|……|头像=离魂颜良-魂魂}}\n{{对话|傅融|……}}\n{{对话|我|嗯？为何都盯着我……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|鲁肃|背、背后……|头像=离魂鲁肃-魂魂}}\n{{旁白|我缓缓扭过头。巨大的浊黄眼球从我背后缓缓升起。}}\n{{对话|司马吉|你们在这呀……}}\n{{对话|我|准备作战！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|所有魂攻向它的眼球；它避开我们，张开了巨口守株待兔——}}\n{{旁白|数支黑影窜来卷住我们的尾巴，将我们从它嘴边救回。暴怒的巨大离魂咆哮着撞击我们躲藏的密道入口，一时地动山摇！}}\n{{对话|张修|呃……！都抓紧……啊！|头像=离魂张修-魂魂}}\n{{对话|众人|唔啊啊啊啊啊啊啊——}}\n{{旁白|不好，大家被撞散了！}}\n{{旁白|砖石簌簌坠落，大家坠入下方地形崎岖复杂的祭坛中，身影被烟雾掩盖……}}\n{{旁白|唔……好晕……}}\n{{对话|司马吉|为什么要打扰仪式……|头像=黑人影}}\n{{对话|司马吉|……被巫谢夺去了身体……作为游魂徘徊在这里数不清多少年……我想离开这里⋯⋯我想回家⋯⋯|头像=黑人影}}\n{{对话|我|咳……咳咳……我好像摔瘪了……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|傅融？颜良将军？干吉先生？|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|……我一个人落到了这片地方吗……啊！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呃……摔瘪了……}}\n{{对话|我|傅融！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|呜啊，好痛……|头像=离魂飞云-魂魂}}\n{{对话|傅融|只有你们吗？看来我们和其他人失散了……}}\n{{对话|管家游魂|主人！这里！在这里！}}\n{{对话|游魂|抓住他们——|头像=离魂游魂-魂魂}}\n{{旁白|汹涌的黑色离魂如山峦倾倒般向我们席卷而来，我们别无选择地朝前方逃亡。背后应该就是祭台，傅融的身躯就在那里。}}\n{{旁白|不行！这样下去会越离越远的！}}\n{{对话|我|不能逃！停下，和它们战！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|不管了！战吧！}}\n{{旁白|我们转过身，面对着无穷无尽的游魂，忽然，山峦般的游魂堆中缓缓裂开了一道缝，黑暗中，露出了一双浊黄的巨大眼眸……}}\n{{对话|司马吉|……凭你们？}}\n{{对话|卬魂魂|我、我有伙伴了，我不怕你……|头像=离魂飞云-魂魂}}\n{{对话|司马吉|……真的吗？}}\n{{对话|司马吉|你是重黎氏的后人中……族中最早的那个……已经磨灭得比沙砾还要小了……你没有肉身了，为何站在那一边？}}\n{{对话|卬魂魂|……因为……因为他们是伙伴……他们想离开这里……我至少想、想和他们一起出去看看……|头像=离魂飞云-魂魂}}\n{{对话|司马吉|离开这里，为了什么？}}\n{{对话|卬魂魂|有……有自由……|头像=离魂飞云-魂魂}}\n{{对话|司马吉|……自由？}}\n{{旁白|巨大畸形的游魂身躯，像是蟒蛇般绕着我们缓缓游走，浊黄的眼珠注视着卬。}}\n{{对话|司马吉|……你要那种东西做什么？}}\n{{对话|司马吉|来，我让你选……呵呵……是站在他们那被我咬碎，还是回到我这边来？}}\n{{对话|卬魂魂|……我……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|…………我……|头像=离魂飞云-魂魂}}\n{{对话|我|没关系的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|哎？|头像=离魂飞云-魂魂}}\n{{对话|我|如果害怕的话，回去也可以的！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|承认没有勇气就是一种勇气，不是每个人都必须有赴死的勇气的。实在害怕的话……去吧！我们不怪你！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|卬魂魂|………………|头像=离魂飞云-魂魂}}\n{{旁白|它垂下耳朵和尾巴，默默退到了一边。}}\n{{对话|司马吉|那，你呢？}}\n{{对话|傅融|……我才不会过去。|头像=离魂傅融-魂魂}}\n{{对话|司马吉|你说谎了。你在发抖呢……}}\n{{对话|傅融|发抖又怎么样……发抖只是代表了害怕，活着就会有害怕的事！|头像=离魂傅融-魂魂}}\n{{对话|傅融|我承认自己害怕了，但是，我不过去！|头像=离魂傅融-魂魂}}\n{{对话|司马吉|哦？你也要自由吗？}}\n{{对话|傅融|……|头像=离魂傅融-魂魂}}\n{{对话|傅融|……对！我要！|头像=离魂傅融-魂魂}}\n{{对话|傅融|我不拿它做什么，我就是想要它，怎样！|头像=离魂傅融-魂魂}}\n{{对话|司马吉|……}}\n{{对话|司马吉|…………啊……我发现了……哈哈……哈哈哈……我明白了……}}\n{{对话|司马吉|梦做得美吗？孩子。}}\n{{对话|我|不要啰嗦了！傅融，准备！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|我拔出剑。他愣了一下，高高举起了算盘。}}\n{{对话-尾}}\n\n==魂战时刻==\n{{对话-头}}\n{{对话|我|哇！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呜啊——|头像=离魂傅融-魂魂}}\n{{旁白|不、不行……太强了……}}\n{{对话|我|傅融……再坚持一下……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呃……呃……|头像=离魂傅融-魂魂}}\n{{对话|我|傅融！你没事吧？傅融！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|司马吉|他太弱小了。不过，你倒是很有趣……}}\n{{对话|司马吉|力量比其他离魂强大许多……是巫子吗……有几分巫子的气息，但又有些微妙的不同……呃……}}\n{{旁白|它正说着，一把小小的算盘从傅融手中飞了出去，砸中它的眼睛。}}\n{{旁白|它只是稍微动了动，没有受到什么伤害，但是眼神中浮起了骇人的恶怒，居高临下地看着我们。}}\n{{对话|司马吉|你们、这些、虫豸——}}\n{{旁白|就在这时——}}\n{{对话|司马吉|啊啊啊啊！！！|头像=黑人影}}\n{{旁白|一缕明亮的天光从上方洒落——悬在高空穹顶的无君上方装了两片坚硬尖头的石板，一直不断旋转，终于在坞堡顶上钻出了一个空洞。}}\n{{旁白|天光落在它的身上，发出刺眼的白光与青烟。巨大离魂痛苦哀嚎着，迅速溶解消散！}}\n{{对话|傅融|成功了！|头像=离魂傅融-魂魂}}\n{{对话|我|快！避开阳光穿过它，去石台那里拿回身体！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|司马吉|休想……休想！！！|头像=黑人影}}\n{{对话|司马吉|凭什么是我被选中——凭什么你就可以离开——|头像=黑人影}}\n{{对话|我|傅融！快！！！就在眼前了……呜啊！！！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|在消散前的一刻，它悍然向上方撞去。坞堡动荡，碎石断木如暴雨浇落，原本小小的一束光，随着不断变大的缺口扩大。}}\n{{旁白|我被一块石板压住了，无论如何挣扎都无法脱身；傅融紧急折返，用尽全力拽我，试图将我拽出去。}}\n{{对话|傅融|唔嗯——不行……我试试推石板……喝——}}\n{{对话|傅融|太沉了……得找东西撬开试试，阳光要挪过来了……}}\n{{对话|我|别管我，傅融，去取回你的身体！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|这是什么不负责任的话！我——呃——我才不会——呃——}}\n{{对话|傅融|不行……抬不动……为什么、为什么变成离魂了，还是能被压住……为什么……}}\n{{对话|我|……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|因为……因为每个人的魂魄都有重量啊。|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|我也是，你也是，这世上所有人、所有生灵，大家的魂魄都是有重量的……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|我|有重量的魂魄……就会被重物压住……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|快、快抬起来……快抬起来啊！！！呃——}}\n{{旁白|石板松动了，但是凭他一人的力气，终究还是不够。}}\n{{旁白|阳光快要浸过来了。但下坠的碎石惊起一阵又一阵光尘浓雾，巨响和混乱之中，失散的众人根本找不到我们……}}\n{{对话|我|……傅融，走吧……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|我不走……}}\n{{对话|傅融|我不能丟下你！我是好不容易……好不容易才到你身边的！}}\n{{对话|傅融|变成灰烬也好、变成柿子也好……我……我都不想丢下你……}}\n{{对话|我|……傅融……|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|呃——我一定能抬起来的……呃！！！}}\n{{旁白|忽然……}}\n{{旁白|另一只离魂的手搭住了石板，将它缓缓地、缓缓地抬了起来……}}\n{{对话|我|哎？！|头像=小头像-离魂广陵王-魂魂}}\n{{对话|傅融|你……|头像=离魂傅融-魂魂}}\n{{对话|春梦|………………|头像=离魂春梦-魂魂}}\n{{旁白|他默默地帮傅融抬起石板，救出了我，然后一言不发，窜入了浓重的灰雾之中。}}\n{{对话|我|呼、呼……虽然被压扁了，但是，我还能……呃，还能自己飘一点……唔啊！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|傅融抱起了我，飞快地赶往石台附近。}}\n{{对话|傅融|赶得上的，赶得上的……一定赶得上……！|头像=离魂傅融-魂魂}}\n{{对话|我|嗯！一定赶得上……|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|然而就在这时，又是一声天崩地裂的巨响——}}\n{{旁白|整个坞堡的穹顶不堪重负，渐渐裂开。刺眼明亮的天光，顿时如瀑布落九霄涌入下方，逃无可逃……}}\n{{对话-尾}}\n\n==告别坞堡==\n{{对话-头}}\n{{旁白|来不及了。}}\n{{旁白|身体明明就在视野可及的祭坛另一侧。但是，来不及了。}}\n{{旁白|绝望地、死寂地，望着日光朝自己涌泄而来，却什么都做不了……}}\n{{旁白|他默默拉住我的手，在消散前的最后时刻。}}\n{{对话|傅融|……也好……|头像=离魂傅融-魂魂}}\n{{对话|傅融|至少是这样，手拉着手，站在阳光下面……|头像=离魂傅融-魂魂}}\n{{旁白|什么声音……}}\n{{旁白|就在一阵异响之后，日光的汹涌减慢了。}}\n{{对话|傅融|……怎么回事……|头像=离魂傅融-魂魂}}\n{{对话|卬魂魂|……伙……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|伙伴！！！|头像=离魂飞云-魂魂}}\n{{对话|我|卬？！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|穹顶的裂缝处，一个巨大的灰色魂影在日光的照射下不断消散。}}\n{{旁白|它用尽全力膨胀体型，死死用身躯堵住裂縫，硬生生停下了不断扩大的日光照射——}}\n{{对话|卬魂魂|快走啊！不要傻站着！！！}}\n{{对话|卬魂魂|那个，如果……如果下辈子我真的是一只小狗，再遇到的话，你们会收留我吗？}}\n{{对话|卬魂魂|会的吧？能认出来的吧？因为我们是伙伴……所以一定能认出来的！}}\n{{对话|我|一定能认出来的！你要来找我们啊！|头像=小头像-离魂广陵王-魂魂}}\n{{旁白|我们拼尽全力，冲向不远处的石台——}}\n{{对话|卬魂魂|呼……呼……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|……呼……这样就……就好……|头像=离魂飞云-魂魂}}\n{{对话|卬魂魂|要自由啊！伙伴！}}\n{{旁白|……唔……}}\n{{对话|我|……啊……|头像=广陵王-惊讶}}\n{{对话|我|变回来了……|头像=广陵王-惊讶}}\n{{对话|傅融|好……痛……|头像=傅融}}\n{{对话|鲁肃|……诸位都无事吧？！|头像=鲁肃}}\n{{对话|颜良|完全无事。及时回到了躯体中。|头像=颜良}}\n{{对话|干吉|……呼……呼……|头像=干吉}}\n{{对话|郭解|睡着了。|头像=郭解}}\n{{对话|张修|神力尚未恢复……有缘再见吧。|头像=张修}}\n{{旁白|清风拂过原野。坞堡的残骸之中，仍有青烟隐隐腾起。}}\n{{对话|鲁肃|这样，是不是没法再修葺了？|头像=鲁肃}}\n{{对话|傅融|……|头像=傅融}}\n{{对话|傅融|可以的。|头像=傅融}}\n{{对话|鲁肃|哎？！傅融，你要做什么？|头像=鲁肃}}\n{{对话|我|修坞堡啊。|头像=广陵王-微笑}}\n{{旁白|他挽起衣袖，用衣带扎起袖子，从废墟边缘一点点清理着碎石。我也扎起袖子，去到他身边。}}\n{{对话|傅融|只要一点点清理，总有一天可以把它重新修起来的。}}\n{{对话|我|先看看下层的损毁情况吧，等我们回去之后，再正式派工匠过来。|头像=广陵王-微笑}}\n{{对话|傅融|这块石板，还保留得很完整……应该是原本镶嵌在石壁上的。}}\n{{对话|傅融|上面刻了好多名字啊……司马吉、司马吉吉、司马喆……}}\n{{对话|我|是那份族谱吧。说起来，司马氏最早的始祖是……|头像=广陵王-微笑}}\n{{旁白|刻痕斑驳了。在所有名字的最上方，有一个被磨灭到几乎难以辨认的字……}}\n{{旁白|卬。}}\n{{对话|傅融|……时间过去太久，离魂的记忆也大多都磨灭了。}}\n{{对话|傅融|……}}\n{{对话|傅融|……我记住了。}}\n{{旁白|众人一起帮忙清点废墟上的残损，鲁肃和傅融大致算出了需要的人力和建材。}}\n{{旁白|日暮了。我们走向各自的马车，准备回程……}}\n{{对话|傅融|还会发麻吗？}}\n{{对话|我|嗯……好像因为离魂受到的损伤，恢复之后，双腿时不时会有些发麻。|头像=广陵王-微笑}}\n{{对话|我|不过慢慢在好转，估计不久之后就会痊愈了。|头像=广陵王-微笑}}\n{{对话|傅融|这样揉一揉呢？}}\n{{旁白|寝帐中，他刚沐浴完，带着一身朱栾清香坐在榻边。长发简单盘在头顶，偶尔有水痕沿着脸颊淌下。}}\n{{对话|傅融|……有好一点吗？}}\n{{对话|我|没有，好像还越来越严重了。|头像=广陵王-微笑}}\n{{对话|傅融|哎？怎么会……}}\n{{对话|我|你看这里……看，膝盖这……|头像=广陵王-微笑}}\n{{旁白|趁他低头的时候，我也俯下身，在他头落下一吻。}}\n{{对话|我|傅唔啊！！！|头像=广陵王-难受}}\n{{对话|傅融|唔啊！！！|头像=傅融}}\n{{旁白|他猛抬头，头顶重重敲在我下巴上，顿时嗡嗡耳鸣。}}\n{{对话|傅融|对不起！你下巴……}}\n{{对话|我|……断掉了。|头像=广陵王-难受}}\n{{旁白|我捂着下巴，声音闷闷的。他惊愕地凑近，想拉开我的遮着脸的手……}}\n{{旁白|凑近的瞬间，我抱住了他。}}\n{{对话|我|嘿嘿……骗你的。|头像=广陵王-微笑}}\n{{对话|我|天冷了，这样抱一会儿吧？抱一会儿，能暖和许多呢……|头像=广陵王-微笑}}\n{{对话|傅融|……只抱一会儿吗？}}\n{{旁白|他回应着我，环抱住了我的肩膀。}}\n{{对话|傅融|……就这样，再久一些吧……}}\n{{对话-尾}}\n<center>\n{{板块|按钮|双魂成行/活动剧情/奇遇|下一页}}\n</center>\n\n{{回到顶部|尾}}"
+}

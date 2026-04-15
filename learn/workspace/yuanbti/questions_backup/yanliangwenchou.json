@@ -1,0 +1,234 @@
+[
+  {
+    "id": "q_yanliangwenchou_1",
+    "dimension": "S8",
+    "cross_dimension": "S5",
+    "type": "story_known",
+    "source_character": "颜良",
+    "source_story": "并肩出征",
+    "route_hint": [
+      "幽州线"
+    ],
+    "city_hint": null,
+    "text": "颜良：「粥米好了，喝些热粥吧。」极致温柔的庇护者。文丑：「颜良是我唯一在乎的人。」如果你是颜良面对在乎的人要去危险的地方你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "默默煮好粥等他回来",
+        "scores": {
+          "S8": 5,
+          "S4": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "陪他一起去即使自己身",
+        "scores": {
+          "S8": 4,
+          "S5": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "劝他不要去，这说明了",
+        "scores": {
+          "S8": 3.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "颜良带病披甲赴前线——「副官！为我披甲！」"
+  },
+  {
+    "id": "q_yanliangwenchou_2",
+    "dimension": "S4",
+    "cross_dimension": "S6",
+    "type": "story_known",
+    "source_character": "颜良",
+    "source_story": "温柔的撒谎者",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "颜良从不撒谎却为了保护文丑连续撒谎——「可向颜氏先祖起誓，文丑不曾去听过讲学。」一个从不撒谎的人为了谁开始撒谎？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只为了最重要的人可以打",
+        "scores": {
+          "S4": 3,
+          "S6": 4
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "撒谎就是撒谎不该找借口",
+        "scores": {
+          "S4": 2
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "C",
+        "text": "理解但自己做不到，值得关注",
+        "scores": {
+          "S4": 2.5
+        },
+        "tendency": "M"
+      }
+    ],
+    "reveal": "「万不可向父亲撒谎」的颜良为了文丑用先祖起誓圆谎。"
+  },
+  {
+    "id": "q_yanliangwenchou_3",
+    "dimension": "S6",
+    "cross_dimension": "S2",
+    "type": "story_known",
+    "source_character": "文丑",
+    "source_story": "墨家两难",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "文丑被迫出卖同门换颜良的命——「只能牺牲我的同门了。」救一个人还是保组织？",
+    "options": [
+      {
+        "label": "A",
+        "text": "救那个人其他都无所谓",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
+      },
+      {
+        "label": "B",
+        "text": "两全其美不可能时就选多数",
+        "scores": {
+          "S6": 3,
+          "S10": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "不能背叛组织这是底线",
+        "scores": {
+          "S6": 2,
+          "S10": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "文丑用同门的命换颜良的命然后一辈子活在愧疚里。"
+  },
+  {
+    "id": "q_yanliangwenchou_4",
+    "dimension": "S2",
+    "cross_dimension": null,
+    "type": "story_anon",
+    "source_character": "颜良文丑",
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「呵……呵呵呵……」从轻笑到大笑，情绪溃堤的声音。这个人经历了什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "内心已经崩了但还在撑",
+        "scores": {
+          "S2": 3.5,
+          "S8": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "用笑声掩饰极度痛苦",
+        "scores": {
+          "S2": 2.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "其实没什么大不了的事",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "文丑的「呵呵呵」是崩溃的声音。痛苦藏在笑声里。"
+  },
+  {
+    "id": "q_yanliangwenchou_5",
+    "dimension": "S7",
+    "cross_dimension": null,
+    "type": "daily",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "你的挚友被人诬陷，所有人都说他是叛徒。只有你知道真相。你会？",
+    "options": [
+      {
+        "label": "A",
+        "text": "站出来为他辩护哪怕得罪",
+        "scores": {
+          "S7": 3.5,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "私下帮他找证据洗清冤屈",
+        "scores": {
+          "S7": 3,
+          "S1": 3.5
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "保持沉默不卷入是非",
+        "scores": {
+          "S7": 2
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "文丑为颜良向先祖起誓撒谎——唯一在乎的人值得他打破全部原则。"
+  },
+  {
+    "id": "q_yanliangwenchou_6",
+    "dimension": "S5",
+    "cross_dimension": null,
+    "type": "extreme",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "以下两句话你更认同哪句？",
+    "options": [
+      {
+        "label": "A",
+        "text": "「我们向来是一道出征……这一战也是一样的。」",
+        "scores": {
+          "S5": 3,
+          "S8": 4
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "B",
+        "text": "「除了墨家，我在这世上没有任何痕迹。」",
+        "scores": {
+          "S5": 2,
+          "S2": 3
+        },
+        "tendency": "L"
+      }
+    ],
+    "reveal": "A来自颜良对并肩的承诺；B来自文丑赴死前的解脱。"
+  }
+]

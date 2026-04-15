@@ -1,0 +1,706 @@
+{
+  "title": "Widget:密探故事检索测试",
+  "category": "密探故事",
+  "characters": [],
+  "content": [
+    {
+      "type": "narration",
+      "text": "script src\"https//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js\"/script"
+    },
+    {
+      "type": "narration",
+      "text": "script(function ()  var t  function ()  window.jQuery && window.mw ? $ready()  window.setTimeout(t, 100); ; t(); )();/script"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"chaxun\""
+    },
+    {
+      "type": "narration",
+      "text": "div style\"textalign center;\""
+    },
+    {
+      "type": "narration",
+      "text": "span密探名/span"
+    },
+    {
+      "type": "narration",
+      "text": "input type\"text\" id\"name\""
+    },
+    {
+      "type": "narration",
+      "text": "button onclick\"remove()\" class\"btn\" style\"widthauto;borderradius 5px;\"重置/button"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div"
+    },
+    {
+      "type": "narration",
+      "text": "span物品/span"
+    },
+    {
+      "type": "narration",
+      "text": "input type\"checkbox\" id\"checkbox71\" name\"wupin\" value\"消耗品\""
+    },
+    {
+      "type": "narration",
+      "text": "label for\"checkbox71\"span消耗品/span/label"
+    },
+    {
+      "type": "narration",
+      "text": "input type\"checkbox\" id\"checkbox72\" name\"wupin\" value\"招募道具\""
+    },
+    {
+      "type": "narration",
+      "text": "label for\"checkbox72\"span招募道具/span/label"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "button onclick\"queryData()\" class\"btn\"查询/button"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "button onclick\"prePage()\" class\"btn\" style\"width 100px;\"上一页/button"
+    },
+    {
+      "type": "narration",
+      "text": "button onclick\"nextPage()\" class\"btn\" style\"width 100px;\"下一页/button"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"number\"查询到span id\"number\"0/span故事/div"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"show\""
+    },
+    {
+      "type": "narration",
+      "text": "centerLoading.../center"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "button onclick\"prePage()\" class\"btn\" style\"width 100px;\"上一页/button"
+    },
+    {
+      "type": "narration",
+      "text": "button onclick\"nextPage()\" class\"btn\" style\"width 100px;\"下一页/button"
+    },
+    {
+      "type": "narration",
+      "text": "script type\"text/javascript\""
+    },
+    {
+      "type": "narration",
+      "text": "var page0"
+    },
+    {
+      "type": "narration",
+      "text": "function addCount(a)"
+    },
+    {
+      "type": "narration",
+      "text": "var count  new Array();"
+    },
+    {
+      "type": "narration",
+      "text": "var str '+'"
+    },
+    {
+      "type": "narration",
+      "text": "for (var i  0; i  a.length; i++)"
+    },
+    {
+      "type": "narration",
+      "text": "if (ai.checked)     //获取复选框的状态，被选中时，该值为true"
+    },
+    {
+      "type": "narration",
+      "text": "count.push(ai.value)"
+    },
+    {
+      "type": "narration",
+      "text": "str  count.join('');"
+    },
+    {
+      "type": "narration",
+      "text": "//统计被选中复选框的个数"
+    },
+    {
+      "type": "narration",
+      "text": "return str"
+    },
+    {
+      "type": "narration",
+      "text": "function queryData()"
+    },
+    {
+      "type": "narration",
+      "text": "document.getElementById(\"show\").innerHTML  'centerLoading.../center'"
+    },
+    {
+      "type": "narration",
+      "text": "document.getElementById(\"number\").innerHTML  'centerLoading.../center'"
+    },
+    {
+      "type": "narration",
+      "text": "var name  document.getElementById(\"name\").value"
+    },
+    {
+      "type": "narration",
+      "text": "var pinzhi  document.getElementsByName(\"pinzhi\");"
+    },
+    {
+      "type": "narration",
+      "text": "var pinzhistr  addCount(pinzhi);"
+    },
+    {
+      "type": "narration",
+      "text": "var queryText  '' + 'ask分类密探故事' + '关键词~' + name + ''"
+    },
+    {
+      "type": "narration",
+      "text": "+ '?密探?密探名linknonetemplate密探故事检索/行'"
+    },
+    {
+      "type": "narration",
+      "text": "+'formattemplate'+'limit20offset'+(page30)+'default已经到最后一页啦！'"
+    },
+    {
+      "type": "narration",
+      "text": "//console.log(\"查询······\", queryText)"
+    },
+    {
+      "type": "narration",
+      "text": "$.getJSON(mw.util.wikiScript('api'),"
+    },
+    {
+      "type": "narration",
+      "text": "format 'json',"
+    },
+    {
+      "type": "narration",
+      "text": "action 'parse',"
+    },
+    {
+      "type": "narration",
+      "text": "text queryText,"
+    },
+    {
+      "type": "narration",
+      "text": "contentmodel 'wikitext'"
+    },
+    {
+      "type": "narration",
+      "text": ").done(function (data)"
+    },
+    {
+      "type": "narration",
+      "text": "console.log(data, \"查询······\", queryText)"
+    },
+    {
+      "type": "narration",
+      "text": "document.getElementById(\"show\").innerHTML  data.parse.text\"\""
+    },
+    {
+      "type": "narration",
+      "text": ");"
+    },
+    {
+      "type": "narration",
+      "text": "var queryNumber  '' + 'ask分类密探故事' + '关键词~' + name + ''"
+    },
+    {
+      "type": "narration",
+      "text": "+ 'formatcount'"
+    },
+    {
+      "type": "narration",
+      "text": "$.getJSON(mw.util.wikiScript('api'),"
+    },
+    {
+      "type": "narration",
+      "text": "format 'json',"
+    },
+    {
+      "type": "narration",
+      "text": "action 'parse',"
+    },
+    {
+      "type": "narration",
+      "text": "text queryNumber,"
+    },
+    {
+      "type": "narration",
+      "text": "contentmodel 'wikitext'"
+    },
+    {
+      "type": "narration",
+      "text": ").done(function (data)"
+    },
+    {
+      "type": "narration",
+      "text": "console.log(data, \"查询2······\",queryNumber)"
+    },
+    {
+      "type": "narration",
+      "text": "count  parseInt($(data.parse.text\"\").text());"
+    },
+    {
+      "type": "narration",
+      "text": "document.getElementById(\"number\").innerHTML  count"
+    },
+    {
+      "type": "narration",
+      "text": ");"
+    },
+    {
+      "type": "narration",
+      "text": "setTimeout(function ()"
+    },
+    {
+      "type": "narration",
+      "text": "page0"
+    },
+    {
+      "type": "narration",
+      "text": "console.log(\"大聪明月白\");"
+    },
+    {
+      "type": "narration",
+      "text": "queryData();"
+    },
+    {
+      "type": "narration",
+      "text": "// 时间间隔"
+    },
+    {
+      "type": "narration",
+      "text": ", 2000);"
+    },
+    {
+      "type": "narration",
+      "text": "$(\"input\").change(function ()"
+    },
+    {
+      "type": "narration",
+      "text": "page0"
+    },
+    {
+      "type": "narration",
+      "text": "queryData();"
+    },
+    {
+      "type": "narration",
+      "text": "//删除"
+    },
+    {
+      "type": "narration",
+      "text": "function remove()"
+    },
+    {
+      "type": "narration",
+      "text": "page0"
+    },
+    {
+      "type": "narration",
+      "text": "document.getElementById(\"name\").value''"
+    },
+    {
+      "type": "narration",
+      "text": "var pinzhi  document.getElementsByName(\"pinzhi\");"
+    },
+    {
+      "type": "narration",
+      "text": "for (var i  0; i  pinzhi.length; i++) pinzhii.checkedfalse"
+    },
+    {
+      "type": "narration",
+      "text": "queryData();"
+    },
+    {
+      "type": "narration",
+      "text": "// 换页"
+    },
+    {
+      "type": "narration",
+      "text": "function prePage()"
+    },
+    {
+      "type": "narration",
+      "text": "if(page0)"
+    },
+    {
+      "type": "narration",
+      "text": "pagepage1"
+    },
+    {
+      "type": "narration",
+      "text": "queryData();"
+    },
+    {
+      "type": "narration",
+      "text": "else"
+    },
+    {
+      "type": "narration",
+      "text": "alert('已经是第一页啦')"
+    },
+    {
+      "type": "narration",
+      "text": "console.log('上一页',page)"
+    },
+    {
+      "type": "narration",
+      "text": "function nextPage()"
+    },
+    {
+      "type": "narration",
+      "text": "pagepage+1"
+    },
+    {
+      "type": "narration",
+      "text": "queryData();"
+    },
+    {
+      "type": "narration",
+      "text": "console.log('下一页',page)"
+    },
+    {
+      "type": "narration",
+      "text": "/script"
+    },
+    {
+      "type": "narration",
+      "text": "style"
+    },
+    {
+      "type": "narration",
+      "text": "show.mwparseroutput"
+    },
+    {
+      "type": "narration",
+      "text": "displayflex;flexwrap wrap;justifycontent spacearound;alignitems center;"
+    },
+    {
+      "type": "narration",
+      "text": "inputtype\"checkbox\""
+    },
+    {
+      "type": "narration",
+      "text": "display none;"
+    },
+    {
+      "type": "narration",
+      "text": "id^\"checkbox7\"+labelspan"
+    },
+    {
+      "type": "narration",
+      "text": "position relative;"
+    },
+    {
+      "type": "narration",
+      "text": "/ zindex 99999; /"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight normal;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 18px;"
+    },
+    {
+      "type": "narration",
+      "text": "id^\"checkbox7\"+label"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundcolor FFF;"
+    },
+    {
+      "type": "narration",
+      "text": "padding 4px 9px;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 5px;"
+    },
+    {
+      "type": "narration",
+      "text": "display inlineblock;"
+    },
+    {
+      "type": "narration",
+      "text": "position relative;"
+    },
+    {
+      "type": "narration",
+      "text": "boxshadow 0 0 2px rgba(0, 0, 0, 0.3);"
+    },
+    {
+      "type": "narration",
+      "text": "overflow hidden;"
+    },
+    {
+      "type": "narration",
+      "text": "color 464E50;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 5px 2px;"
+    },
+    {
+      "type": "narration",
+      "text": "webkittransition all 0.3s linear, color 0 linear;"
+    },
+    {
+      "type": "narration",
+      "text": "transition all 0.3s linear, color 0 linear;"
+    },
+    {
+      "type": "narration",
+      "text": "id^\"checkbox7\"checked+label"
+    },
+    {
+      "type": "narration",
+      "text": "color fff;"
+    },
+    {
+      "type": "narration",
+      "text": "id^\"checkbox7\"+labelspan"
+    },
+    {
+      "type": "narration",
+      "text": "position relative;"
+    },
+    {
+      "type": "narration",
+      "text": "zindex 99999;"
+    },
+    {
+      "type": "narration",
+      "text": "id^\"checkbox7\"+labelbefore"
+    },
+    {
+      "type": "narration",
+      "text": "content ' ';"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "background 9c877a;"
+    },
+    {
+      "type": "narration",
+      "text": "width 0%;"
+    },
+    {
+      "type": "narration",
+      "text": "height 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "top 0;"
+    },
+    {
+      "type": "narration",
+      "text": "webkittransition all 0.3s easein;"
+    },
+    {
+      "type": "narration",
+      "text": "transition all 0.3s easein;"
+    },
+    {
+      "type": "narration",
+      "text": "left 0;"
+    },
+    {
+      "type": "narration",
+      "text": "id^\"checkbox7\"checked+labelbefore"
+    },
+    {
+      "type": "narration",
+      "text": "content ' ';"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "height 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "textshadow 0 1px 0 rgba(0, 0, 0, 0.1);"
+    },
+    {
+      "type": "narration",
+      "text": "top 0;"
+    },
+    {
+      "type": "narration",
+      "text": "left 0;"
+    },
+    {
+      "type": "narration",
+      "text": ".chaxun"
+    },
+    {
+      "type": "narration",
+      "text": "margin 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign left;"
+    },
+    {
+      "type": "narration",
+      "text": ".chaxun div"
+    },
+    {
+      "type": "narration",
+      "text": "borderbottom 1px ad9381 dashed;"
+    },
+    {
+      "type": "narration",
+      "text": "displayflex;"
+    },
+    {
+      "type": "narration",
+      "text": "flexwrapwrap;"
+    },
+    {
+      "type": "narration",
+      "text": "alignitems center;"
+    },
+    {
+      "type": "narration",
+      "text": ".chaxun divspan"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize20px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin0 5px;"
+    },
+    {
+      "type": "narration",
+      "text": ".chaxun img"
+    },
+    {
+      "type": "narration",
+      "text": "width 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "input"
+    },
+    {
+      "type": "narration",
+      "text": "border 1px ad9381 solid;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 0 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "input"
+    },
+    {
+      "type": "narration",
+      "text": "padding 5px 10px;"
+    },
+    {
+      "type": "narration",
+      "text": ".btn"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "width 100%;"
+    },
+    {
+      "type": "narration",
+      "text": "background 9c877a;"
+    },
+    {
+      "type": "narration",
+      "text": "color fff;"
+    },
+    {
+      "type": "narration",
+      "text": "margin 10px"
+    },
+    {
+      "type": "narration",
+      "text": "number"
+    },
+    {
+      "type": "narration",
+      "text": "color 673AB7;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweight bold;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 25px;"
+    },
+    {
+      "type": "narration",
+      "text": ".number"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 20px;"
+    },
+    {
+      "type": "narration",
+      "text": "/style"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/Widget%3A%E5%AF%86%E6%8E%A2%E6%95%85%E4%BA%8B%E6%A3%80%E7%B4%A2%E6%B5%8B%E8%AF%95",
+  "crawled_at": "2026-04-12T22:22:26.771018",
+  "raw_wikitext": "<script src=\"https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js\"></script>\n<script>(function () { var t = function () { window.jQuery && window.mw ? $ready() : window.setTimeout(t, 100); }; t(); })();</script>\n\n<div class=\"chaxun\">\n     <div style=\"text-align: center;\">\n        <span>密探名</span>\n        <input type=\"text\" id=\"name\">\n        <button onclick=\"remove()\" class=\"btn\" style=\"width:auto;border-radius: 5px;\">重置</button>\n    </div>\n    <div>\n        <span>物品</span>\n        <input type=\"checkbox\" id=\"checkbox-7-1\" name=\"wupin\" value=\"消耗品\">\n        <label for=\"checkbox-7-1\"><span>消耗品</span></label>\n        <input type=\"checkbox\" id=\"checkbox-7-2\" name=\"wupin\" value=\"招募道具\">\n        <label for=\"checkbox-7-2\"><span>招募道具</span></label>\n    </div>\n    <button onclick=\"queryData()\" class=\"btn\">查询</button>\n</div>\n<button onclick=\"prePage()\" class=\"btn\" style=\"width: 100px;\">上一页</button>\n<button onclick=\"nextPage()\" class=\"btn\" style=\"width: 100px;\">下一页</button>\n<div class=\"number\">查询到<span id=\"number\">0</span>故事</div>\n<div id=\"show\">\n    <center>Loading...</center>\n</div>\n<button onclick=\"prePage()\" class=\"btn\" style=\"width: 100px;\">上一页</button>\n<button onclick=\"nextPage()\" class=\"btn\" style=\"width: 100px;\">下一页</button>\n\n<script type=\"text/javascript\">\n    var page=0\n    \n    function addCount(a){\n        var count = new Array();\n        var str ='+'\n        for (var i = 0; i < a.length; i++) {\n            if (a[i].checked) {    //获取复选框的状态，被选中时，该值为true\n                count.push(a[i].value)\n                str = count.join('||');\n                //统计被选中复选框的个数\n            }\n\n        }\n        return str\n    }\n\n    function queryData() {\n        document.getElementById(\"show\").innerHTML = '<center>Loading...</center>'\n         document.getElementById(\"number\").innerHTML = '<center>Loading...</center>'\n\n        var name = document.getElementById(\"name\").value\n\n        var pinzhi = document.getElementsByName(\"pinzhi\");       \n        var pinzhistr = addCount(pinzhi);\n\n        var queryText = '{' + '{#ask:[[分类:密探故事]][' + '[关键词::~*' + name + '*]]'\n            + '|?密探|?密探名|link=none|template=密探故事检索/行'\n            +'|format=template'+'|limit=20|offset='+(page*30)+'|default=已经到最后一页啦！}}'\n             //console.log(\"查询······\", queryText)\n            $.getJSON(mw.util.wikiScript('api'), {\n            format: 'json',\n            action: 'parse',\n            text: queryText,\n            contentmodel: 'wikitext'\n        }).done(function (data) {\n            console.log(data, \"查询······\", queryText)\n            document.getElementById(\"show\").innerHTML = data.parse.text[\"*\"]\n        });\n        var queryNumber = '{' + '{#ask:[[分类:密探故事]][' + '[关键词::~*' + name + '*]]'\n            + '|format=count}}'\n        $.getJSON(mw.util.wikiScript('api'), {\n            format: 'json',\n            action: 'parse',\n            text: queryNumber,\n            contentmodel: 'wikitext'\n        }).done(function (data) {\n            console.log(data, \"查询2······\",queryNumber)\n            count = parseInt($(data.parse.text[\"*\"]).text());\n            document.getElementById(\"number\").innerHTML = count\n        });\n    }\n\n    setTimeout(function () {\n        page=0\n        console.log(\"大聪明月白\");\n        queryData();\n        // 时间间隔\n    }, 2000);\n\n    $(\"input\").change(function () {\n        page=0\n        queryData();\n    })\n    \n//删除\n function remove(){\n       page=0\n        document.getElementById(\"name\").value=''\n        var pinzhi = document.getElementsByName(\"pinzhi\");       \n        for (var i = 0; i < pinzhi.length; i++) {pinzhi[i].checked=false}\n        queryData();\n    }\n\n// 换页\n    function prePage(){\n        if(page>0){\n            page=page-1\n            queryData();\n        }\n        else{\n            alert('已经是第一页啦')\n        }\n        console.log('上一页',page)\n\n    }\n    function nextPage(){\n        page=page+1\n        queryData();\n        console.log('下一页',page)\n    }\n</script>\n<style>\n#show>.mw-parser-output{\ndisplay:flex;flex-wrap: wrap;justify-content: space-around;align-items: center;\n}\n    input[type=\"checkbox\"] {\n        display: none;\n    }\n\n    [id^=\"checkbox-7-\"]+label>span {\n        position: relative;\n        /* z-index: 99999; */\n        font-weight: normal;\n        font-size: 18px;\n    }\n\n    [id^=\"checkbox-7-\"]+label {\n        background-color: #FFF;\n        padding: 4px 9px;\n        border-radius: 5px;\n        display: inline-block;\n        position: relative;\n        box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);\n        overflow: hidden;\n        color: #464E50;\n        margin: 5px 2px;\n        -webkit-transition: all 0.3s linear, color 0 linear;\n        transition: all 0.3s linear, color 0 linear;\n    }\n\n\n\n    [id^=\"checkbox-7-\"]:checked+label {\n        color: #fff;\n    }\n\n    [id^=\"checkbox-7-\"]+label>span {\n        position: relative;\n        z-index: 99999;\n    }\n\n\n\n    [id^=\"checkbox-7-\"]+label:before {\n        content: ' ';\n        position: absolute;\n        background: #9c877a;\n        width: 0%;\n        height: 100%;\n        top: 0;\n        -webkit-transition: all 0.3s ease-in;\n        transition: all 0.3s ease-in;\n        left: 0;\n    }\n\n    [id^=\"checkbox-7-\"]:checked+label:before {\n        content: ' ';\n        position: absolute;\n        width: 100%;\n        height: 100%;\n        text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);\n        top: 0;\n        left: 0;\n    }\n\n    .chaxun {\n        margin: 20px;\n        text-align: left;\n    }\n    .chaxun >div{\n     border-bottom: 1px #ad9381 dashed;\n     display:flex;\n     flex-wrap:wrap;\n     align-items: center;\n    \n    }\n    .chaxun >div>span{\n     font-size:20px;\n     margin:0 5px;\n     }\n    .chaxun img{\n    width: 20px;\n    }\n    input {\n        border: 1px #ad9381 solid;\n        border-radius: 10px;\n        margin: 0 10px;\n    }\n\n    input {\n        padding: 5px 10px;\n    }\n\n    .btn {\n        border-radius: 50px;\n        width: 100%;\n        background: #9c877a;\n        color: #fff;\n        margin: 10px\n    }\n\n    #number {\n        color: #673AB7;\n        font-weight: bold;\n        font-size: 25px;\n    }\n\n    .number {\n        text-align: center;\n        font-size: 20px;\n    }\n</style>"
+}

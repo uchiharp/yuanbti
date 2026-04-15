@@ -1,0 +1,429 @@
+{
+  "title": "幽州慨飒宫/活动剧情/孙尚香",
+  "category": "活动剧情",
+  "characters": [
+    "孙尚香",
+    "我"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "桀桀我偷！嫂嫂也在呀......"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "我游！噗噜噗噜噗噜……我潜！咕嘟咕嘟咕嘟……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "我给嫂嫂按按肩膀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "虽然输了，但是好玩！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "好喝！嘶哈一点都不辣……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "怎么平了，不算不算！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "哼哼哼三拳齐猜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "嫂嫂好帅！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "拿到协会第一后还会继续偷内衣吗?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "偷呀，我都做怪盗了，怎么能满足一时的成就而止步不前！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "我要让天下名将听到枭姬两个字就颤抖！哼哼哼！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "买过最贵的东西是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "我不怎么买东西，我想想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "哦！有次帮我哥给你挑礼物，我买了一个大铜像，吕蒙说要给你凑一对，我哥最后送你没？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "做过最大胆的事是什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "我每天都在做大胆的事啊，我上个月还去炸了一个袁氏粮仓！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "虽然对方的追兵有点多，但都抓不到我和师父！霸业扬名香香子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=小头像-温泉-广陵王-Q版",
+      "emotion": "想养什么宠物？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "狗狗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙尚香",
+      "text": "头像=温泉-孙尚香-Q版",
+      "emotion": "孙权养的那两只猫一点都不好玩，要不是飞云一离开绣衣楼就呜呜叫，我早就把飞云偷走了。"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "100px团建密探小头孙尚香brbr"
+    },
+    {
+      "type": "narration",
+      "text": "'''孙尚香'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"道具触发/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "classyuantable1 style\"minwidthcalc(50%5px);width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签"
+    },
+    {
+      "type": "narration",
+      "text": "30px温泉蛋温泉蛋"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"可以不吃吗？母亲每天都要求我和仲谋吃鸡蛋，好不容易来你这玩....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px澡豆澡豆"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这个大小……正适合打弹弓！/span"
+    },
+    {
+      "type": "narration",
+      "text": "精准投掷"
+    },
+    {
+      "type": "narration",
+      "text": "30px鬃刷鬃刷"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"可以拿来刮硝石！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px梳篦套装梳篦套装"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"头发不影响打架就行啦，不用管他！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px熏炉熏炉"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"没有林子里的泥土味好闻。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px陶搓石陶搓石"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"董卓会用这东西吗？可不可以悄悄在他的搓石上抹毒？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px糕饼糕饼"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"好甜的点心，师父会喜欢吃。/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px素巾素巾"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"有笔墨吗？我画一个王八图给小丹，她喜欢！/span"
+    },
+    {
+      "type": "narration",
+      "text": "绘画先锋"
+    },
+    {
+      "type": "narration",
+      "text": "30px冰块冰块"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"凉凉凉！我们把冰块丢大哥衣服里吧！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px海盐海盐"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"用海水取盐啊，我熟！我还能用盐抓黄鳝抓蛏子！/span"
+    },
+    {
+      "type": "narration",
+      "text": "野外行家"
+    },
+    {
+      "type": "narration",
+      "text": "30px博具博具"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"嫂嫂想赌什么？赌注可以是马腾的内衣吗？/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px牛乳牛乳"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"哇，嫂嫂对我真好！/span"
+    },
+    {
+      "type": "narration",
+      "text": "sup18pxlinknone/sup 30px炙肉拼盘炙肉拼盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"还有吗？我能再吃一百串！/span"
+    },
+    {
+      "type": "narration",
+      "text": "好胃口"
+    },
+    {
+      "type": "narration",
+      "text": "30px果子露果子露"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"这么带劲的酒！多谢嫂嫂！/span"
+    },
+    {
+      "type": "narration",
+      "text": "30px木鸭木鸭"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"和飞云宝贝的那个玩具有点像....../span"
+    },
+    {
+      "type": "narration",
+      "text": "30px果盘果盘"
+    },
+    {
+      "type": "narration",
+      "text": "span class\"tipcontainer\" datatrigger\"click\" datatiptype\"wikitext\" datatheme\"light\" datatipdata\"nowiki/nowiki\"嫂嫂对我最好了！/span"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"闲聊/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "闲聊会随机触发，个别闲聊会受白天/夜晚影响。"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\" \"闲聊1/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊2/p"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\" \"闲聊3/p"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"猜拳/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "style\"width100%;\""
+    },
+    {
+      "type": "narration",
+      "text": "style\"width80px\"p class\"label\" style\"width80px; backgroundcolor90EE90; colorwhite;\"胜利/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorD3D3D3; colorblack;\"平局/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "p class\"label\" style\"width80px; backgroundcolorFFB6C1; colorwhite;\"失败/p"
+    },
+    {
+      "type": "narration",
+      "text": "br"
+    },
+    {
+      "type": "narration",
+      "text": "'''span style\"color082d3d\"真心话/span\t'''"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"xihao\" style\"\"拿到协会第一后还会继续偷内衣吗?/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao买过最贵的东西是什么？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao做过最大胆的事是什么？/div"
+    },
+    {
+      "type": "narration",
+      "text": "brbrhr"
+    },
+    {
+      "type": "narration",
+      "text": "div classxihao想养什么宠物？/div"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".labelfontsize 14px;padding5px 20px;backgroundcolor D2B48C; color white;"
+    },
+    {
+      "type": "narration",
+      "text": ".xihaowidth100%;padding5px 10px; borderradius15px; border 2px solid d7b38c; backgroundcolor rgba(255, 237, 217, 30%);margin 10px;fontfamilycursive;textalign center;colora07344;fontsize20px;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BD%E5%B7%9E%E6%85%A8%E9%A3%92%E5%AE%AB/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E5%AD%99%E5%B0%9A%E9%A6%99",
+  "crawled_at": "2026-04-12T22:09:20.317016",
+  "raw_wikitext": "{{面包屑|活动剧情|幽州慨飒宫/活动玩法}}{{回到顶部|头}}{{背景图片|{{filepath:幽州慨飒宫背景.png}}}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/鸢使|鸢使}}\n{{板块|按钮|幽州慨飒宫/活动剧情/崔烈|崔烈}}\n{{板块|按钮|幽州慨飒宫/活动剧情/楼班|楼班}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨阜|杨阜}}\n{{板块|按钮|幽州慨飒宫/活动剧情/阿蝉|阿蝉}}\n{{板块|按钮|幽州慨飒宫/活动剧情/王异|王异}}\n{{板块|按钮|幽州慨飒宫/活动剧情/史子眇|史子眇}}<br>\n{{板块|按钮|幽州慨飒宫/活动剧情/陈登|陈登}}\n{{板块|按钮|幽州慨飒宫/活动剧情/刘繇|刘繇}}\n{{板块|按钮|幽州慨飒宫/活动剧情/孙尚香|孙尚香}}\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|程昱}}\n{{板块|按钮|幽州慨飒宫/活动剧情/杨修|杨修}}\n{{板块|按钮|幽州慨飒宫/活动剧情/徐庶|徐庶}}\n{{板块|按钮|幽州慨飒宫/活动剧情/张闿|张闿}}\n</center>[[分类:活动剧情]]\n__TOC__\n<center>\n[[文件:团建密探小头-孙尚香.png|100px|团建密探小头-孙尚香]]<br><br>\n'''孙尚香'''\n</center>\n='''<span style=\"color:#082d3d\">道具触发</span>\t'''=\n{| class=yuantable1 style=\"min-width:calc(50%-5px);width:100%;\"\n|-\n! 温泉小物 !! 对话内容 !! 性格标签 !! 温泉小物 !! 对话内容 !! 性格标签\n|-\n| [[file:温泉蛋.png|30px|温泉蛋]][[温泉蛋|温泉蛋]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=温泉蛋|对温泉蛋的喜好=|语音=|性格标签=/|语音内容=可以不吃吗？母亲每天都要求我和仲谋吃鸡蛋，好不容易来你这玩......}}</nowiki>\">可以不吃吗？母亲每天都要求我和仲谋吃鸡蛋，好不容易来你这玩......</span>\n||/\n| [[file:澡豆.png|30px|澡豆]][[澡豆|澡豆]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=澡豆|对澡豆的喜好=|语音=|性格标签=精准投掷|语音内容=这个大小……正适合打弹弓！}}</nowiki>\">这个大小……正适合打弹弓！</span>\n||精准投掷\n|-\n| [[file:鬃刷.png|30px|鬃刷]][[鬃刷|鬃刷]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=鬃刷|对鬃刷的喜好=|语音=|性格标签=/|语音内容=可以拿来刮硝石！}}</nowiki>\">可以拿来刮硝石！</span>\n||/\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:梳篦套装.png|30px|梳篦套装]][[梳篦套装|梳篦套装]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=梳篦套装|对梳篦套装的喜好=讨厌|语音=|性格标签=/|语音内容=头发不影响打架就行啦，不用管他！}}</nowiki>\">头发不影响打架就行啦，不用管他！</span>\n||/\n|-\n|<sup>[[file:紫脸.png|18px|link=none]]</sup> [[file:熏炉.png|30px|熏炉]][[熏炉|熏炉]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=熏炉|对熏炉的喜好=讨厌|语音=|性格标签=/|语音内容=没有林子里的泥土味好闻。}}</nowiki>\">没有林子里的泥土味好闻。</span>\n|| /\n| [[file:陶搓石.png|30px|陶搓石]][[陶搓石|陶搓石]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=陶搓石|对陶搓石的喜好=|语音=|性格标签=/|语音内容=董卓会用这东西吗？可不可以悄悄在他的搓石上抹毒？}}</nowiki>\">董卓会用这东西吗？可不可以悄悄在他的搓石上抹毒？</span>\n||/\n|-\n| [[file:糕饼.png|30px|糕饼]][[糕饼|糕饼]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=糕饼|对糕饼的喜好=|语音=|性格标签=/|语音内容=好甜的点心，师父会喜欢吃。}}</nowiki>\">好甜的点心，师父会喜欢吃。</span>\n||/\n| [[file:素巾.png|30px|素巾]][[素巾|素巾]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=素巾|对素巾的喜好=|语音=|性格标签=绘画先锋|语音内容=有笔墨吗？我画一个王八图给小丹，她喜欢！}}</nowiki>\">有笔墨吗？我画一个王八图给小丹，她喜欢！</span>\n||绘画先锋\n|-\n|[[file:冰块.png|30px|冰块]][[冰块|冰块]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=冰块|对冰块的喜好=|语音=|性格标签=/|语音内容=凉凉凉！我们把冰块丢大哥衣服里吧！}}</nowiki>\">凉凉凉！我们把冰块丢大哥衣服里吧！</span>\n|| /\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:海盐.png|30px|海盐]][[海盐|海盐]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=海盐|对海盐的喜好=喜欢|语音=|性格标签=野外行家|语音内容=用海水取盐啊，我熟！我还能用盐抓黄鳝抓蛏子！}}</nowiki>\">用海水取盐啊，我熟！我还能用盐抓黄鳝抓蛏子！</span>\n||野外行家\n|-\n| [[file:博具.png|30px|博具]][[博具|博具]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=博具|对博具的喜好=|语音=|性格标签=/|语音内容=嫂嫂想赌什么？赌注可以是马腾的内衣吗？}}</nowiki>\">嫂嫂想赌什么？赌注可以是马腾的内衣吗？</span>\n|| /\n| [[file:牛乳.png|30px|牛乳]][[牛乳|牛乳]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=牛乳|对牛乳的喜好=|语音=|性格标签=/|语音内容=哇，嫂嫂对我真好！}}</nowiki>\">哇，嫂嫂对我真好！</span>\n|| /\n|-\n|<sup>[[file:绿脸.png|18px|link=none]]</sup> [[file:炙肉拼盘.png|30px|炙肉拼盘]][[炙肉拼盘|炙肉拼盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=炙肉拼盘|对炙肉拼盘的喜好=喜欢|语音=|性格标签=好胃口|语音内容=还有吗？我能再吃一百串！}}</nowiki>\">还有吗？我能再吃一百串！</span>\n||好胃口\n| [[file:果子露.png|30px|果子露]][[果子露|果子露]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=果子露|对果子露的喜好=|语音=|性格标签=/|语音内容=这么带劲的酒！多谢嫂嫂！}}</nowiki>\">这么带劲的酒！多谢嫂嫂！</span>\n|| /\n|-\n| [[file:木鸭.png|30px|木鸭]][[木鸭|木鸭]]\n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=木鸭|对木鸭的喜好=|语音=|性格标签=/|语音内容=和飞云宝贝的那个玩具有点像......}}</nowiki>\">和飞云宝贝的那个玩具有点像......</span>\n|| /\n| [[file:果盘.png|30px|果盘]][[果盘|果盘]] \n||<span class=\"tip-container\" data-trigger=\"click\" data-tiptype=\"wikitext\" data-theme=\"light\" data-tipdata=\"<nowiki>{{喜好-语音/悬浮|密探=孙尚香|喜好物品=果盘|对果盘的喜好=|语音=|性格标签=/|语音内容=嫂嫂对我最好了！}}</nowiki>\">嫂嫂对我最好了！</span>\n|| /\n|}\n\n='''<span style=\"color:#082d3d\">闲聊</span>\t'''=\n闲聊会随机触发，个别闲聊会受白天/夜晚影响。\n<br>\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\" \">闲聊1</p>\n|\n{{对话-头}}\n{{对话|孙尚香|桀桀我偷！嫂嫂也在呀......|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊2</p>\n|\n{{对话-头}}\n{{对话|孙尚香|我游！噗噜噗噜噗噜……我潜！咕嘟咕嘟咕嘟……|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n\n|-\n|<p class=\"label\" style=\" \">闲聊3</p>\n|\n{{对话-头}}\n{{对话|孙尚香|我给嫂嫂按按肩膀！|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n\n|}\n\n='''<span style=\"color:#082d3d\">猜拳</span>\t'''=\n{|style=\"width:100%;\"\n|-\n|style=\"width:80px\"|<p class=\"label\" style=\"width:80px; background-color:#90EE90; color:white;\">胜利</p>\n|\n{{对话-头}}\n{{对话|孙尚香|虽然输了，但是好玩！|头像=温泉-孙尚香-Q版}}\n{{旁白|【孙尚香喝下一杯果子露】}}\n{{对话|孙尚香|好喝！嘶哈一点都不辣……|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#D3D3D3; color:black;\">平局</p>\n|\n{{对话-头}}\n{{对话|孙尚香|怎么平了，不算不算！|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n<br>\n|-\n|<p class=\"label\" style=\"width:80px; background-color:#FFB6C1; color:white;\">失败</p>\n|\n{{对话-头}}\n{{对话|孙尚香|哼哼哼三拳齐猜！|头像=温泉-孙尚香-Q版}}\n{{旁白|【我喝下一杯果子露。】}}\n{{对话|孙尚香|嫂嫂好帅！|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n<br>\n|}\n='''<span style=\"color:#082d3d\">真心话</span>\t'''=\n<div class=\"xihao\" style=\"\">拿到协会第一后还会继续偷内衣吗?</div>\n{{对话-头}}\n{{对话|我|拿到协会第一后还会继续偷内衣吗?|头像=小头像-温泉-广陵王-Q版}}\n{{对话|孙尚香|偷呀，我都做怪盗了，怎么能满足一时的成就而止步不前！|头像=温泉-孙尚香-Q版}}\n{{对话|孙尚香|我要让天下名将听到枭姬两个字就颤抖！哼哼哼！|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>买过最贵的东西是什么？</div>\n{{对话-头}}\n{{对话|我|买过最贵的东西是什么？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|孙尚香|我不怎么买东西，我想想……|头像=温泉-孙尚香-Q版}}\n{{对话|孙尚香|哦！有次帮我哥给你挑礼物，我买了一个大铜像，吕蒙说要给你凑一对，我哥最后送你没？|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>做过最大胆的事是什么？</div>\n{{对话-头}}\n{{对话|我|做过最大胆的事是什么？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|孙尚香|我每天都在做大胆的事啊，我上个月还去炸了一个袁氏粮仓！|头像=温泉-孙尚香-Q版}}\n{{对话|孙尚香|虽然对方的追兵有点多，但都抓不到我和师父！霸业扬名香香子！|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n<br><br><hr>\n<div class=xihao>想养什么宠物？</div>\n{{对话-头}}\n{{对话|我|想养什么宠物？|头像=小头像-温泉-广陵王-Q版}}\n{{对话|孙尚香|狗狗！|头像=温泉-孙尚香-Q版}}\n{{对话|孙尚香|孙权养的那两只猫一点都不好玩，要不是飞云一离开绣衣楼就呜呜叫，我早就把飞云偷走了。|头像=温泉-孙尚香-Q版}}\n{{对话-尾}}\n<center>\n{{板块|按钮|幽州慨飒宫/活动剧情/程昱|下一页}}\n</center>\n{{回到顶部|尾}}\n{{#css:\n.label{font-size: 14px;padding:5px 20px;background-color: #D2B48C; color: white;}\n.xihao{width:100%;padding:5px 10px; border-radius:15px; border: 2px solid #d7b38c; background-color: rgba(255, 237, 217, 30%);margin: 10px;font-family:cursive;text-align: center;color:#a07344;font-size:20px;}\n}}"
+}

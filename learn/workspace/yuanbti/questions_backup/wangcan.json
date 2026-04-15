@@ -1,0 +1,84 @@
+[
+  {
+    "id": "q_wangcan_1",
+    "dimension": "S8",
+    "cross_dimension": "S10",
+    "type": "story_known",
+    "source_character": "王粲",
+    "source_story": "登楼赋",
+    "route_hint": null,
+    "city_hint": null,
+    "text": "王粲登楼远眺，心怀家国却身不由己，写下《登楼赋》抒发思乡之情。若你在异乡不得归——",
+    "options": [
+      {
+        "label": "A",
+        "text": "既然回不去，便就地扎根，不必感伤",
+        "scores": {
+          "S8": 1,
+          "S2": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "将思念化为笔墨，以文章寄托情怀",
+        "scores": {
+          "S8": 3,
+          "S2": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "日夜牵挂故土，每念及此泪湿衣襟",
+        "scores": {
+          "S8": 5,
+          "S2": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "王粲的选择：登楼赋志，以笔为刃，以文为泪。"
+  },
+  {
+    "id": "q_wangcan_2",
+    "dimension": "S10",
+    "cross_dimension": "S6",
+    "type": "value",
+    "source_character": null,
+    "source_story": null,
+    "route_hint": null,
+    "city_hint": null,
+    "text": "「虽有周公之美，不如守道之贞。」面对乱世中的道德崩塌——",
+    "options": [
+      {
+        "label": "A",
+        "text": "乱世求生为先，道德是奢侈品",
+        "scores": {
+          "S10": 1,
+          "S6": 1
+        },
+        "tendency": "L"
+      },
+      {
+        "label": "B",
+        "text": "在不伤害他人的前提下灵活变通",
+        "scores": {
+          "S10": 3,
+          "S6": 3
+        },
+        "tendency": "M"
+      },
+      {
+        "label": "C",
+        "text": "即使世道崩坏，也要守住心中的道义",
+        "scores": {
+          "S10": 5,
+          "S6": 5
+        },
+        "tendency": "H"
+      }
+    ],
+    "reveal": "王粲虽寄人篱下，却始终守着文人的骨气。"
+  }
+]

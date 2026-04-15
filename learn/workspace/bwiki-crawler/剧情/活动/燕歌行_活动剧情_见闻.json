@@ -1,0 +1,1668 @@
+{
+  "title": "燕歌行/活动剧情/见闻",
+  "category": "活动剧情",
+  "characters": [
+    "乌丸勇士",
+    "乌丸头目",
+    "乌丸巫祝",
+    "副将",
+    "士兵",
+    "工匠",
+    "工正",
+    "左慈",
+    "干吉",
+    "幼鸢",
+    "张角",
+    "张郃",
+    "张飞",
+    "张鲁",
+    "患病流民",
+    "患病老妇",
+    "我",
+    "曹丕",
+    "朱然",
+    "楼班",
+    "流民妇人",
+    "流民孩童",
+    "流民老人",
+    "百姓",
+    "荀攸",
+    "蒯越",
+    "诸葛亮",
+    "诸葛瑾",
+    "诸葛诞",
+    "钟繇",
+    "隘口守军",
+    "饥民",
+    "马超",
+    "鸢鸟",
+    "黄月英"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "有人抢走了粮车！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民",
+      "text": "头像=q版-年画小贩",
+      "emotion": "快跑！被发现了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "得追上去把粮夺回来，不然守军会缺粮的…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "我只夺回来一半……其实剩下的一半，我留给他们了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "但是做的时候，并没有想过后果……我也许做错了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "别想了。只要再坚持一下，最艰难的时间就过去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "我应该想好怎么补上剩下的粮，再把粮给他们的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "都是可怜人。你只是做了自己觉得正确的事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "走吧，趁着太阳没下山，我们一起去想办法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "饥民",
+      "text": "头像=q版-年画小贩",
+      "emotion": "不要抢啊！这是我们最后的吃的了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士兵",
+      "text": "头像=q版-升官街坊",
+      "emotion": "我们也没有吃的了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "南城好像有混乱，哗变了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "快去武库拿兵器！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "为何一个人在马厩里发呆。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "……百姓、士族、军士，谁的命更重一些呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "人命本无贵贱，士族有家财仆从,军士有刀剑甲胄,只有百姓,他们手无寸铁、求生艰难……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "朱然",
+      "text": "头像=q版-朱然",
+      "emotion": "好像永远都没有办法让所有人都获得安稳的生活……若乱世结束了，世道会变好吗?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "前面隘口有公孙瓒的人马。商队旗子呢，快挂到马车上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "兵器也要收好，用毛毡裹起来藏在马鞍下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "所有人听好了，待会盘查起来，就说我们是青州来的药材商。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸头目",
+      "text": "头像=q版-强盗",
+      "emotion": "这个中原人，太显眼了，会被认出来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "马车里有个暗格，我进去躲一躲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "躺在暗格里千万别动……再拿两袋药材过来，把暗格的门盖住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸头目",
+      "text": "头像=q版-强盗",
+      "emotion": "中原人！中原人在马车的暗格里！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "竟然是你……公孙瓒许了你什么好处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸头目",
+      "text": "头像=q版-强盗",
+      "emotion": "自然是取代你的位置——快，杀了她，还有那个中原人，公孙将军有重赏——呃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "隘口守军",
+      "text": "头像=q版-升官街坊",
+      "emotion": "杀了你，大人乌丸也有重赏呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸头目",
+      "text": "头像=q版-强盗",
+      "emotion": "你、你……不是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "把他的尸体挂在马后拖回去，让所有人看看叛徒的下场。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "只回来了几十人吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "这次来袭的是骑白马的幽州兵，比先前那几波骑兵更难对付。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸勇士",
+      "text": "头像=q版-山贼甲",
+      "emotion": "啊……我的腿，呜呜……给、给我个痛快吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "忍着点，巫医马上就来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "先给他用一些止痛的药，否则没等到巫医，他就要活活疼死了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸巫祝",
+      "text": "头像=q版-驱鬼仪仗",
+      "emotion": "他们汉人杀来杀去，与我们乌丸人也不相干。反正公孙氏只要那个中原人而已，把他交出去，我们自然就无事了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "从前没有这个中原人在，公孙瓒不是照样派骑兵来偷袭我们的领地吗？背叛盟友，只会让敌人更看清我们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸巫祝",
+      "text": "头像=q版-驱鬼仪仗",
+      "emotion": "可再这么打下去，只怕部族的孩子们……唉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "楼班",
+      "text": "头像=q版-楼班",
+      "emotion": "我不会赌上部族的未来。你带着孩子和女人们，太阳落山就走。等夜深了，我会带着剩下的人去烧掉幽州的兵营。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "乌丸巫祝",
+      "text": "头像=q版-驱鬼仪仗",
+      "emotion": "让那个中原人带她们走吧，我得留下。我要是走了，谁来为你和出征的勇士们祝祷啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "五日了，还没有鸢鸟回信，看来北线的情报也断了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "北边形势不明，没有可靠情报不好贸然前行……再派些人手，带上鸢鸟去探探情况。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "鸢房里的成鸢十不存一，能用的全都出去了。眼下要远程联络，只能……咴咴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你要用这些鸟雀？北线的路程可是连鸢鸟都要飞上三日……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "一只鸟雀不行，那就五只、十只……总有小鸟能回来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "是北边的回信吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "嗯，密信上说据点已经重建，北线可以正常传递情报了。不过，送信的几只鸟雀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "是力竭了，还有冻伤……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "能救活吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "不，它们，都快要死了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你要用漆匣葬这些鸟雀么。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "是啊，窗外那棵槐树就很好，枝叶繁茂如盖，埋在树下，也不会被风吹雨淋……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "潜入鸢房的贼人抓到了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "射死了一人，其余的都逃了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "其他文书没动，只有关于陈氏和袁氏的卷宗被翻了个底朝天。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "看起来鸢的损失惨重……绣云鸢不够，这样下去，情报就无法传递了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "好热……你究竟烧了几个炭炉，这屋里热得都快喘不过气了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "要孵化鸢鸟，非得这么热不可，否则就算破壳也会很快夭折。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "孵蛋的热度要随着时间和状况调整，屋里的湿气也需要控制……再熬一会儿，最多半日就该孵出来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "什么动静？有东西碎了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "蒯越",
+      "text": "头像=q版-蒯越",
+      "emotion": "是鸢蛋，要破壳了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "幼鸢",
+      "text": "啾……啾啾……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "这一窝的鸢蛋都破壳了，这下你总能放心——啊，累得睡着了呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "殿下奔波途中能拨冗一见，子瑜感念不已……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "和孔明聊完家常了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "是，听闻殿下一路上对舍弟多有照顾，实在感激……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "来的路上，见前方城池大多饥馑，缺少粮米。殿下若要前行，请务必备足粮食。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "……被抢走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "没办法，遇到了饥饿的流民群，谁都保不住粮米的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "只能继续往前了。南部有座城池，物资十分丰足……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "如果能借到粮储……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "眼下的局势，我很难借到粮。这次，不如你去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "哎？我、我去？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "殿下奔波途中能拨冗一见，公休真是感激不尽哪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "别学你哥说话。怎么不先去见见孔明？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "反正阿亮没缺胳膊没少腿的，等和殿下聊完了正事，再去见他也不迟嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "没想到你在这里。这座城中的粮储够吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "城主很贪，粮肯定有，就看殿下能不能弄到了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "哎呀，这么多粮食，不愧是殿下，果真慷慨！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "啊，这是契书吧？我知道规矩，保证不会送去许县——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "务必把粮送回后方的据点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "对了，你消息灵通……我的行踪现在是什么价码？人头值多少金？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "朝廷的人也常来照顾小人的生意呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "不过拖延十五日而已。殿下行动务必快些，若是十五日后又被人围追堵截，可不能怪到小人头上……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "这几日殿下与舍弟通过书信吗？知道他在何处落脚吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "上月他说有贵人相邀，和百戏班外出至今不归，连书信也不曾寄回一封……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "可以借你几只鸢鸟，放飞出去传递信件。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "许都……所谓贵人相邀，莫非是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "有消息说钟繇侍中向宫里进献了一班百戏，说的应该就是公休。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "如今的局势，他为何还要往风雨里去呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "不行，我要去找他。万一有人以与殿下的交情将他定罪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "可是你去的话，不也一样吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=q版-诸葛瑾",
+      "emotion": "……就算出事，至少有血亲在身边。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "我没听错吧，你刚才说……还粮？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "是呀，整整十车粮草呢，外加这两箱钱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "我好像没有借过这么多钱粮给你们，是不是算错利息了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "确实多了些，不过多出来的数目是想从殿下这里买些防具……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "防具？你们百戏班子的花样还真多……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "还有一批防具，还要以我哥的名义，送去江东。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你想缓和和江东的关系？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "这些东西，勉强可以向孙氏麾下那些老将略表忠心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你帮得了他一时，以后呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "头像=q版-诸葛诞",
+      "emotion": "以后情形谁知道呢……至少现在要帮他立足，有个栖身之所。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "敌军的人马，走得有些散了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "左翼被冲散了，让先锋回撤后方！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "副将",
+      "text": "头像=q版-升官街坊",
+      "emotion": "殿下，金疮药已经见底了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "没有药，你们熬不到天亮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流民孩童",
+      "text": "头像=q版-村民",
+      "emotion": "我知道附近的山坡上有草药，我来带路！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=q版-马超",
+      "emotion": "不偷袭广陵王採药的队伍吗？西凉的兵，什么时候轮到你教训了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "你们西凉的兵，穷得连流民都不放过？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=q版-马超",
+      "emotion": "你仗打得太少了。这里所有人都可能死在这。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "他们都是无辜的……我们只是来抓广陵王的，和这些人无关。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=q版-马超",
+      "emotion": "哈哈哈，天底下死掉的无辜人还少吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=q版-马超",
+      "emotion": "小哥，动作快点。等这些人马吃完了军粮，你如果还不下令撤军，我可就真的管不住了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "放火！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "辎重营的帐幕烧了大半，清点损失。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工正",
+      "text": "头像=q版-巡街小吏",
+      "emotion": "残木都烧焦了，根本没法遮风挡雪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "……没有坚固营垒，士卒熬不过今夜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "马上要落雪了。没地方躲，可是会冻死人的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "百姓",
+      "text": "头像=q版-年画小贩",
+      "emotion": "三里外有个废驿，可以拆出旧砖木料，我去指路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "倒塌的帐篷都清理完了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "动作挺快。让你们又苟活了一日。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "我们能守住这座城的。你们又能在外等多久？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "曹丕",
+      "text": "头像=q版-曹丕",
+      "emotion": "看来是打算长住了。那就慢慢耗吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "还有鸟吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "鸟？你是说送信的鸢么，就剩最后一只了，刚飞出去觅食，估计半个时辰后才能回来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "鸟回来的时候，叫我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "怎么，你要给谁寄信吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "等鸟回来，再说。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "鸟回来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "回来了。你的信呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "给。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "就这一张帛布么……没写字？这画的是什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "桃花，一枝桃花。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "我明白了，是寄给刘使君和关将军吧。不过桃花是什么意思？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "记号，报平安的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "怎么空着手教习民兵，你的蛇矛呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "蛇矛坏了，有裂痕，不能用。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "兵器，也不够了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "敌军很快就会攻城，徒手可不行……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "这里有情报，查探到了敌军的武备处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "嗯，可以偷。我去弄。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "这把长剑怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "……断了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你力气还挺大。战戟不错，又沉又结实，应该不会轻易……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "又断了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "马槊！马槊总不能——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "断了。我没用力。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你等着，我去找根攻城用的檑木来，我就不信……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=q版-张郃",
+      "emotion": "殿下、首席，打扰了……那个，我试着修了一下蛇矛，你们看看……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张飞",
+      "text": "头像=q版-张飞",
+      "emotion": "嗯，还行，没断。怎么修的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张郃",
+      "text": "头像=q版-张郃",
+      "emotion": "府邸的宴厅里有许多散落的白羽大箭，我看用的都是上乘材料，就拆下来修补蛇矛了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "叮叮，咚咚……叮叮，咚咚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "刚才打到的野兔呢，快烤上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "……味道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "哦哦……不过没有胡椒，其他能做香料的药材也行。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "呼……好香哦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "打劫，把兔腿给我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "两只兔腿都给你……吃完快帮我看看师尊到底怎么了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "看不到，他不在这里。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "不可能，我之前明明把他绑在——糟了，师尊又不见了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "旧道，朽亡的气……往那边走了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "就在前面，那个山坡上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "没错，是师尊，可他周围怎么跪着一群人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "患病流民",
+      "text": "头像=q版-大赌徒",
+      "emotion": "泰山府君，带我们魂归黄泉吧……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "那些人似乎病得很重，需要拿些药材再来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "患病流民",
+      "text": "头像=q版-大赌徒",
+      "emotion": "咳咳……你们也是来拜泰山府君的吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "患病老妇",
+      "text": "头像=q版-花灯小贩-2",
+      "emotion": "快跪下……等拜完了，泰山府君就会把我们都送到幽冥黄泉去。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "朽亡的气不止一个，他们都是。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "黄月英",
+      "text": "头像=q版-黄月英",
+      "emotion": "让他们走吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=q版-左慈",
+      "emotion": "唔……归……归，去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "患病流民",
+      "text": "头像=q版-大赌徒",
+      "emotion": "母亲……父亲……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "患病老妇",
+      "text": "头像=q版-花灯小贩-2",
+      "emotion": "嗬嗬……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "全部化作飞灰，消散了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "钟繇",
+      "text": "头像=q版-钟繇",
+      "emotion": "广陵王一行在前面！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=q版-诸葛亮",
+      "emotion": "前面有树林，冲进去，他们就没办法射中我们了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "可他们的马比我们更快，只怕没来得及进林子就……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=q版-诸葛亮",
+      "emotion": "白龙会拖住他们，你带着左慈先走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你自己小心，待会飞鸢联络！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=q版-左慈",
+      "emotion": "呼……嗒，嗒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "满树林都是白龙弄出来的雨雾，追兵是找不到我们了，可我也找不到路了啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=q版-左慈",
+      "emotion": "唔，唔……鸢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "师尊，你说什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=q版-左慈",
+      "emotion": "鸢，鸢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢鸟",
+      "text": "啾！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "是刚才交给孔明的鸢鸟……它是示意我向东走吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢鸟",
+      "text": "啾啾！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "走吧师尊，孔明还在等我们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "鸢鸟",
+      "text": "啾，啾。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=q版-左慈",
+      "emotion": "……嗒，嗒，呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "等了许久了，怎么还不见孔明回来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=q版-诸葛亮",
+      "emotion": "神君，神君……是我呀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "孔明……不对，白龙？你在哪儿？我怎么看不到你？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=q版-诸葛亮",
+      "emotion": "鸢，飞鸢……来寻，要快……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "声音消失了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "鸢鸟怎么原地盘旋了，人到底在哪儿啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=q版-左慈",
+      "emotion": "左，左……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "师尊是说，要往左走么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "左慈",
+      "text": "头像=q版-左慈",
+      "emotion": "……呼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "找到了！快醒醒，孔明、诸葛亮！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛亮",
+      "text": "头像=q版-诸葛亮",
+      "emotion": "唔，白龙……神君……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "幸好，只是力竭晕过去了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流民老人",
+      "text": "头像=q版-年画小贩",
+      "emotion": "别抢别抢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流民妇人",
+      "text": "头像=q版-花灯小贩",
+      "emotion": "求求你，留一点饵汤给我吧，我的孩子已经两天没吃过东西了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "我只是饿了，所以多吃一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "啊！我明白了，你们也想吃我刚才吃的那种谷物吧……我可以变出更好吃的东西！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流民老人",
+      "text": "头像=q版-年画小贩",
+      "emotion": "……啊，是肉粥！是肉粥！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "这可都是怨恨之气汇聚而成的血肉啊，一起用吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "……得弄来粮食，不然，他会引起骚乱的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "所以你和爹爹失散后，就混进了流民队伍里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "对啊，我听他们说这里有人发吃的，就过来了……嬢嬢，我吃饱啦，快带我去见爹爹吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "好。不过他现在病得有些厉害，你见到他时要轻声些，不要惊扰他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "好哦……唔，嬢嬢，慢点走……我感觉，好难受……唔啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "你怎么了？干吉先生，你快来看看！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "唔啊……晕……头好晕……没有力气……就像，饿了很久……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "干吉",
+      "text": "头像=q版-干吉",
+      "emotion": "他本就是刘辩斩下的尸，五感相通，如今刘辩的躯体濒临崩溃，尸一旦靠近，也会变得虚弱。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "骑兵……后面的骑兵……要追上来了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马超",
+      "text": "头像=q版-马超",
+      "emotion": "拦下马车！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "好困啊……我跟爹爹一样，好像变得很虚弱了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "他在崩散……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "不管有没有用，先试试用药吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "……我听见三眼神的声音了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "它说了什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张鲁",
+      "text": "头像=q版-张鲁",
+      "emotion": "……我没有办法，用人的身体说出来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=q版-张角",
+      "emotion": "多亏张鲁在前抵挡，我们才能突围……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=q版-张角",
+      "emotion": "但他伤得太重，如果继续和刘辩同行，伤口只会持续溃烂，无法痊愈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "我明白……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "张角",
+      "text": "头像=q版-张角",
+      "emotion": "再往前就是渡口了，有五斗米的信徒接应，他们会照顾好张鲁的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "外面怎么吵吵闹闹的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "马车要从里到外大修一遍才能上路，所以找了工匠。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工匠",
+      "text": "头像=q版-大赌徒",
+      "emotion": "先生，我们带来的材料不够用了，府上还有吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "啊……恐怕需要去库房查看一下。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "勉强修好了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "这台马车毕竟是一路上用过来的，都有些感情了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "能够修就好。等回去的时候，还想坐着它。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "坐着旧马车，去看望孔君吧，他一定会很欣慰的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "谁在那儿？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "是我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "夜深了，殿下还不就寝么。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "听见了一些声响……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "小荀老师也没睡……啊，这是在磨剑么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "是，翻找磨石花了些功夫。幽州局势未知，得备好兵器。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "这把剑锈蚀得厉害，再打磨也无用了吧，还要留着它么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "那不是锈蚀的痕迹，是仙人的血痕，沁入了剑身。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "原来是当日杀张姜子的那把……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "此剑锋利无匹，唯有斩断仙人骨时曾留下一点刻痕——对，就是这处。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-q版",
+      "emotion": "能斩仙人的宝剑，拿来路上防身是不是大材小用了些？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "荀攸",
+      "text": "头像=q版-荀攸",
+      "emotion": "人心之险恶本就难以揣度，你有破釜沉舟的勇气固然很好，但若是遇上难以招架的鬼蜮伎俩……"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__TOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "朱然"
+    },
+    {
+      "type": "narration",
+      "text": "朱然上"
+    },
+    {
+      "type": "narration",
+      "text": "朱然下"
+    },
+    {
+      "type": "narration",
+      "text": "楼班"
+    },
+    {
+      "type": "narration",
+      "text": "楼班上"
+    },
+    {
+      "type": "narration",
+      "text": "楼班下"
+    },
+    {
+      "type": "narration",
+      "text": "蒯越"
+    },
+    {
+      "type": "narration",
+      "text": "蒯越上"
+    },
+    {
+      "type": "narration",
+      "text": "蒯越下"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛兄弟"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛兄弟壹上"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛兄弟壹下"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛兄弟贰上"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛兄弟贰下"
+    },
+    {
+      "type": "narration",
+      "text": "曹丕"
+    },
+    {
+      "type": "narration",
+      "text": "曹丕上"
+    },
+    {
+      "type": "narration",
+      "text": "曹丕下"
+    },
+    {
+      "type": "narration",
+      "text": "张飞"
+    },
+    {
+      "type": "narration",
+      "text": "张飞上"
+    },
+    {
+      "type": "narration",
+      "text": "张飞下"
+    },
+    {
+      "type": "narration",
+      "text": "黄月英"
+    },
+    {
+      "type": "narration",
+      "text": "黄月英下"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛亮"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛亮上"
+    },
+    {
+      "type": "narration",
+      "text": "诸葛亮下"
+    },
+    {
+      "type": "narration",
+      "text": "张鲁"
+    },
+    {
+      "type": "narration",
+      "text": "张鲁上"
+    },
+    {
+      "type": "narration",
+      "text": "张鲁下"
+    },
+    {
+      "type": "narration",
+      "text": "荀攸"
+    },
+    {
+      "type": "narration",
+      "text": "荀攸上"
+    },
+    {
+      "type": "narration",
+      "text": "荀攸下"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E7%87%95%E6%AD%8C%E8%A1%8C/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E8%A7%81%E9%97%BB",
+  "crawled_at": "2026-04-12T22:08:44.091458",
+  "raw_wikitext": "{{面包屑|2026活动剧情|燕歌行/活动玩法}}{{活动背景}}\n[[分类:活动剧情]]\n__TOC__\n\n<center>{{板块|按钮|燕歌行/活动剧情/见闻|见闻}}{{板块|按钮|燕歌行/活动剧情|共通}}{{板块|按钮|燕歌行/活动剧情/刘辩线|刘辩线}}{{板块|按钮|燕歌行/活动剧情/傅融线|傅融线}}{{板块|按钮|燕歌行/活动剧情/袁基线|袁基线}}{{板块|按钮|燕歌行/活动剧情/左慈线|左慈线}}{{板块|按钮|燕歌行/活动剧情/孙策线|孙策线}}</center>\n\n=朱然=\n==朱然上==\n{{对话-头}}\n{{对话|朱然|有人抢走了粮车！|头像=q版-朱然}}\n{{对话|饥民|快跑！被发现了！|头像=q版-年画小贩}}\n{{对话|朱然|得追上去把粮夺回来，不然守军会缺粮的…|头像=q版-朱然}}\n{{对话|朱然|我只夺回来一半……其实剩下的一半，我留给他们了。 |头像=q版-朱然}}\n{{对话|朱然|但是做的时候，并没有想过后果……我也许做错了。 |头像=q版-朱然}}\n{{对话|我|别想了。只要再坚持一下，最艰难的时间就过去了。|头像=广陵王-q版}}\n{{对话|朱然|我应该想好怎么补上剩下的粮，再把粮给他们的……|头像=q版-朱然}}\n{{对话|我|都是可怜人。你只是做了自己觉得正确的事。|头像=广陵王-q版}}\n{{对话|我|走吧，趁着太阳没下山，我们一起去想办法。|头像=广陵王-q版}}\n{{对话-尾}}\n\n==朱然下==\n{{对话-头}}\n{{对话|饥民|不要抢啊！这是我们最后的吃的了！|头像=q版-年画小贩}}\n{{对话|士兵|我们也没有吃的了！|头像=q版-升官街坊}}\n{{对话|朱然|南城好像有混乱，哗变了！|头像=q版-朱然}}\n{{对话|朱然|快去武库拿兵器！|头像=q版-朱然}}\n{{对话|我|为何一个人在马厩里发呆。|头像=广陵王-q版}}\n{{对话|朱然|……百姓、士族、军士，谁的命更重一些呢？|头像=q版-朱然}}\n{{对话|朱然|人命本无贵贱，士族有家财仆从,军士有刀剑甲胄,只有百姓,他们手无寸铁、求生艰难……|头像=q版-朱然}}\n{{对话|朱然|好像永远都没有办法让所有人都获得安稳的生活……若乱世结束了，世道会变好吗?|头像=q版-朱然}}\n{{对话-尾}}\n\n=楼班=\n==楼班上==\n{{对话-头}}\n{{对话|楼班|前面隘口有公孙瓒的人马。商队旗子呢，快挂到马车上。|头像=q版-楼班}}\n{{对话|我|兵器也要收好，用毛毡裹起来藏在马鞍下。|头像=广陵王-q版}}\n{{对话|楼班|所有人听好了，待会盘查起来，就说我们是青州来的药材商。|头像=q版-楼班}}\n{{对话|乌丸头目|这个中原人，太显眼了，会被认出来的。|头像=q版-强盗}}\n{{对话|我|马车里有个暗格，我进去躲一躲。|头像=广陵王-q版}}\n{{对话|楼班|躺在暗格里千万别动……再拿两袋药材过来，把暗格的门盖住。|头像=q版-楼班}}\n{{对话|乌丸头目|中原人！中原人在马车的暗格里！|头像=q版-强盗}}\n{{对话|楼班|竟然是你……公孙瓒许了你什么好处？|头像=q版-楼班}}\n{{对话|乌丸头目|自然是取代你的位置——快，杀了她，还有那个中原人，公孙将军有重赏——呃！|头像=q版-强盗}}\n{{对话|隘口守军|杀了你，大人乌丸也有重赏呢。|头像=q版-升官街坊}}\n{{对话|乌丸头目|你、你……不是……|头像=q版-强盗}}\n{{对话|楼班|把他的尸体挂在马后拖回去，让所有人看看叛徒的下场。|头像=q版-楼班}}\n{{对话-尾}}\n\n==楼班下==\n{{对话-头}}\n{{对话|我|只回来了几十人吗……|头像=广陵王-q版}}\n{{对话|楼班|这次来袭的是骑白马的幽州兵，比先前那几波骑兵更难对付。|头像=q版-楼班}}\n{{对话|乌丸勇士|啊……我的腿，呜呜……给、给我个痛快吧……|头像=q版-山贼甲}}\n{{对话|楼班|忍着点，巫医马上就来。|头像=q版-楼班}}\n{{对话|我|先给他用一些止痛的药，否则没等到巫医，他就要活活疼死了。|头像=广陵王-q版}}\n{{对话|乌丸巫祝|他们汉人杀来杀去，与我们乌丸人也不相干。反正公孙氏只要那个中原人而已，把他交出去，我们自然就无事了。|头像=q版-驱鬼仪仗}}\n{{对话|楼班|从前没有这个中原人在，公孙瓒不是照样派骑兵来偷袭我们的领地吗？背叛盟友，只会让敌人更看清我们。|头像=q版-楼班}}\n{{对话|乌丸巫祝|可再这么打下去，只怕部族的孩子们……唉。|头像=q版-驱鬼仪仗}}\n{{对话|楼班|我不会赌上部族的未来。你带着孩子和女人们，太阳落山就走。等夜深了，我会带着剩下的人去烧掉幽州的兵营。|头像=q版-楼班}}\n{{对话|乌丸巫祝|让那个中原人带她们走吧，我得留下。我要是走了，谁来为你和出征的勇士们祝祷啊……|头像=q版-驱鬼仪仗}}\n{{对话-尾}}\n\n=蒯越=\n==蒯越上==\n{{对话-头}}\n{{对话|蒯越|五日了，还没有鸢鸟回信，看来北线的情报也断了。|头像=q版-蒯越}}\n{{对话|我|北边形势不明，没有可靠情报不好贸然前行……再派些人手，带上鸢鸟去探探情况。|头像=广陵王-q版}}\n{{对话|蒯越|鸢房里的成鸢十不存一，能用的全都出去了。眼下要远程联络，只能……咴咴！|头像=q版-蒯越}}\n{{对话|我|你要用这些鸟雀？北线的路程可是连鸢鸟都要飞上三日……|头像=广陵王-q版}}\n{{对话|蒯越|一只鸟雀不行，那就五只、十只……总有小鸟能回来的。|头像=q版-蒯越}}\n{{对话|蒯越|是北边的回信吗？|头像=q版-蒯越}}\n{{对话|我|嗯，密信上说据点已经重建，北线可以正常传递情报了。不过，送信的几只鸟雀……|头像=广陵王-q版}}\n{{对话|蒯越|是力竭了，还有冻伤……|头像=q版-蒯越}}\n{{对话|我|能救活吗？|头像=广陵王-q版}}\n{{对话|蒯越|不，它们，都快要死了。|头像=q版-蒯越}}\n{{对话|我|你要用漆匣葬这些鸟雀么。|头像=广陵王-q版}}\n{{对话|蒯越|是啊，窗外那棵槐树就很好，枝叶繁茂如盖，埋在树下，也不会被风吹雨淋……|头像=q版-蒯越}}\n{{对话-尾}}\n\n==蒯越下==\n{{对话-头}}\n{{对话|我|潜入鸢房的贼人抓到了吗？|头像=广陵王-q版}}\n{{对话|蒯越|射死了一人，其余的都逃了。|头像=q版-蒯越}}\n{{对话|蒯越|其他文书没动，只有关于陈氏和袁氏的卷宗被翻了个底朝天。|头像=q版-蒯越}}\n{{对话|我|看起来鸢的损失惨重……绣云鸢不够，这样下去，情报就无法传递了。|头像=广陵王-q版}}\n{{对话|我|好热……你究竟烧了几个炭炉，这屋里热得都快喘不过气了。|头像=广陵王-q版}}\n{{对话|蒯越|要孵化鸢鸟，非得这么热不可，否则就算破壳也会很快夭折。|头像=q版-蒯越}}\n{{对话|蒯越|孵蛋的热度要随着时间和状况调整，屋里的湿气也需要控制……再熬一会儿，最多半日就该孵出来了……|头像=q版-蒯越}}\n{{对话|我|什么动静？有东西碎了？|头像=广陵王-q版}}\n{{对话|蒯越|是鸢蛋，要破壳了！|头像=q版-蒯越}}\n{{对话|幼鸢|啾……啾啾……}}\n{{对话|我|这一窝的鸢蛋都破壳了，这下你总能放心——啊，累得睡着了呢。|头像=广陵王-q版}}\n{{对话-尾}}\n\n=诸葛兄弟=\n==诸葛兄弟壹上==\n{{对话-头}}\n{{对话|诸葛瑾|殿下奔波途中能拨冗一见，子瑜感念不已……|头像=q版-诸葛瑾}}\n{{对话|我|和孔明聊完家常了？|头像=广陵王-q版}}\n{{对话|诸葛瑾|是，听闻殿下一路上对舍弟多有照顾，实在感激……|头像=q版-诸葛瑾}}\n{{对话|诸葛瑾|来的路上，见前方城池大多饥馑，缺少粮米。殿下若要前行，请务必备足粮食。|头像=q版-诸葛瑾}}\n{{对话|诸葛瑾|……被抢走了。|头像=q版-诸葛瑾}}\n{{对话|我|没办法，遇到了饥饿的流民群，谁都保不住粮米的。|头像=广陵王-q版}}\n{{对话|诸葛瑾|只能继续往前了。南部有座城池，物资十分丰足……|头像=q版-诸葛瑾}}\n{{对话|诸葛瑾|如果能借到粮储……|头像=q版-诸葛瑾}}\n{{对话|我|眼下的局势，我很难借到粮。这次，不如你去吧。|头像=广陵王-q版}}\n{{对话|诸葛瑾|哎？我、我去？|头像=q版-诸葛瑾}}\n{{对话-尾}}\n\n==诸葛兄弟壹下==\n{{对话-头}}\n{{对话|诸葛诞|殿下奔波途中能拨冗一见，公休真是感激不尽哪！|头像=q版-诸葛诞}}\n{{对话|我|别学你哥说话。怎么不先去见见孔明？|头像=广陵王-q版}}\n{{对话|诸葛诞|反正阿亮没缺胳膊没少腿的，等和殿下聊完了正事，再去见他也不迟嘛。|头像=q版-诸葛诞}}\n{{对话|我|没想到你在这里。这座城中的粮储够吗？|头像=广陵王-q版}}\n{{对话|诸葛诞|城主很贪，粮肯定有，就看殿下能不能弄到了。|头像=q版-诸葛诞}}\n{{对话|诸葛诞|哎呀，这么多粮食，不愧是殿下，果真慷慨！|头像=q版-诸葛诞}}\n{{对话|诸葛诞|啊，这是契书吧？我知道规矩，保证不会送去许县——|头像=q版-诸葛诞}}\n{{对话|我|务必把粮送回后方的据点。|头像=广陵王-q版}}\n{{对话|我|对了，你消息灵通……我的行踪现在是什么价码？人头值多少金？|头像=广陵王-q版}}\n{{对话|诸葛诞|朝廷的人也常来照顾小人的生意呢。|头像=q版-诸葛诞}}\n{{对话|诸葛诞|不过拖延十五日而已。殿下行动务必快些，若是十五日后又被人围追堵截，可不能怪到小人头上……|头像=q版-诸葛诞}}\n{{对话-尾}}\n\n==诸葛兄弟贰上==\n{{对话-头}}\n{{对话|诸葛瑾|这几日殿下与舍弟通过书信吗？知道他在何处落脚吗？|头像=q版-诸葛瑾}}\n{{对话|诸葛瑾|上月他说有贵人相邀，和百戏班外出至今不归，连书信也不曾寄回一封……|头像=q版-诸葛瑾}}\n{{对话|我|可以借你几只鸢鸟，放飞出去传递信件。|头像=广陵王-q版}}\n{{对话|诸葛瑾|许都……所谓贵人相邀，莫非是……|头像=q版-诸葛瑾}}\n{{对话|我|有消息说钟繇侍中向宫里进献了一班百戏，说的应该就是公休。|头像=广陵王-q版}}\n{{对话|诸葛瑾|如今的局势，他为何还要往风雨里去呢……|头像=q版-诸葛瑾}}\n{{对话|诸葛瑾|不行，我要去找他。万一有人以与殿下的交情将他定罪……|头像=q版-诸葛瑾}}\n{{对话|我|可是你去的话，不也一样吗？|头像=广陵王-q版}}\n{{对话|诸葛瑾|……就算出事，至少有血亲在身边。|头像=q版-诸葛瑾}}\n{{对话-尾}}\n\n==诸葛兄弟贰下==\n{{对话-头}}\n{{对话|我|我没听错吧，你刚才说……还粮？|头像=广陵王-q版}}\n{{对话|诸葛诞|是呀，整整十车粮草呢，外加这两箱钱。|头像=q版-诸葛诞}}\n{{对话|我|我好像没有借过这么多钱粮给你们，是不是算错利息了？|头像=广陵王-q版}}\n{{对话|诸葛诞|确实多了些，不过多出来的数目是想从殿下这里买些防具……|头像=q版-诸葛诞}}\n{{对话|我|防具？你们百戏班子的花样还真多……|头像=广陵王-q版}}\n{{对话|诸葛诞|还有一批防具，还要以我哥的名义，送去江东。|头像=q版-诸葛诞}}\n{{对话|我|你想缓和和江东的关系？|头像=广陵王-q版}}\n{{对话|诸葛诞|这些东西，勉强可以向孙氏麾下那些老将略表忠心。|头像=q版-诸葛诞}}\n{{对话|我|你帮得了他一时，以后呢？|头像=广陵王-q版}}\n{{对话|诸葛诞|以后情形谁知道呢……至少现在要帮他立足，有个栖身之所。|头像=q版-诸葛诞}}\n{{对话-尾}}\n\n=曹丕=\n==曹丕上==\n{{对话-头}}\n{{对话|曹丕|敌军的人马，走得有些散了。|头像=q版-曹丕}}\n{{对话|我|左翼被冲散了，让先锋回撤后方！|头像=广陵王-q版}}\n{{对话|副将|殿下，金疮药已经见底了……|头像=q版-升官街坊}}\n{{对话|曹丕|没有药，你们熬不到天亮。|头像=q版-曹丕}}\n{{对话|流民孩童|我知道附近的山坡上有草药，我来带路！|头像=q版-村民}}\n{{对话|马超|不偷袭广陵王採药的队伍吗？西凉的兵，什么时候轮到你教训了？|头像=q版-马超}}\n{{对话|曹丕|你们西凉的兵，穷得连流民都不放过？|头像=q版-曹丕}}\n{{对话|马超|你仗打得太少了。这里所有人都可能死在这。|头像=q版-马超}}\n{{对话|曹丕|他们都是无辜的……我们只是来抓广陵王的，和这些人无关。|头像=q版-曹丕}}\n{{对话|马超|哈哈哈，天底下死掉的无辜人还少吗？|头像=q版-马超}}\n{{对话|马超|小哥，动作快点。等这些人马吃完了军粮，你如果还不下令撤军，我可就真的管不住了。|头像=q版-马超}}\n{{对话-尾}}\n\n==曹丕下==\n{{对话-头}}\n{{对话|曹丕|放火！|头像=q版-曹丕}}\n{{对话|我|辎重营的帐幕烧了大半，清点损失。|头像=广陵王-q版}}\n{{对话|工正|残木都烧焦了，根本没法遮风挡雪。|头像=q版-巡街小吏}}\n{{对话|我|……没有坚固营垒，士卒熬不过今夜。|头像=广陵王-q版}}\n{{对话|曹丕|马上要落雪了。没地方躲，可是会冻死人的。|头像=q版-曹丕}}\n{{对话|百姓|三里外有个废驿，可以拆出旧砖木料，我去指路。|头像=q版-年画小贩}}\n{{对话|我|倒塌的帐篷都清理完了……|头像=广陵王-q版}}\n{{对话|曹丕|动作挺快。让你们又苟活了一日。|头像=q版-曹丕}}\n{{对话|我|我们能守住这座城的。你们又能在外等多久？|头像=广陵王-q版}}\n{{对话|曹丕|看来是打算长住了。那就慢慢耗吧。|头像=q版-曹丕}}\n{{对话-尾}}\n\n=张飞=\n==张飞上==\n{{对话-头}}\n{{对话|张飞|还有鸟吗？|头像=q版-张飞}}\n{{对话|我|鸟？你是说送信的鸢么，就剩最后一只了，刚飞出去觅食，估计半个时辰后才能回来。|头像=广陵王-q版}}\n{{对话|张飞|鸟回来的时候，叫我。|头像=q版-张飞}}\n{{对话|我|怎么，你要给谁寄信吗？|头像=广陵王-q版}}\n{{对话|张飞|等鸟回来，再说。|头像=q版-张飞}}\n{{对话|张飞|鸟回来了？|头像=q版-张飞}}\n{{对话|我|回来了。你的信呢。|头像=广陵王-q版}}\n{{对话|张飞|给。|头像=q版-张飞}}\n{{对话|我|就这一张帛布么……没写字？这画的是什么……|头像=广陵王-q版}}\n{{对话|张飞|桃花，一枝桃花。|头像=q版-张飞}}\n{{对话|我|我明白了，是寄给刘使君和关将军吧。不过桃花是什么意思？|头像=广陵王-q版}}\n{{对话|张飞|记号，报平安的。|头像=q版-张飞}}\n{{对话-尾}}\n\n==张飞下==\n{{对话-头}}\n{{对话|我|怎么空着手教习民兵，你的蛇矛呢？|头像=广陵王-q版}}\n{{对话|张飞|蛇矛坏了，有裂痕，不能用。|头像=q版-张飞}}\n{{对话|张飞|兵器，也不够了。|头像=q版-张飞}}\n{{对话|我|敌军很快就会攻城，徒手可不行……|头像=广陵王-q版}}\n{{对话|我|这里有情报，查探到了敌军的武备处。|头像=广陵王-q版}}\n{{对话|张飞|嗯，可以偷。我去弄。|头像=q版-张飞}}\n{{对话|我|这把长剑怎么样？|头像=广陵王-q版}}\n{{对话|张飞|……断了。|头像=q版-张飞}}\n{{对话|我|你力气还挺大。战戟不错，又沉又结实，应该不会轻易……|头像=广陵王-q版}}\n{{对话|张飞|又断了。|头像=q版-张飞}}\n{{对话|我|马槊！马槊总不能——|头像=广陵王-q版}}\n{{对话|张飞|断了。我没用力。|头像=q版-张飞}}\n{{对话|我|你等着，我去找根攻城用的檑木来，我就不信……|头像=广陵王-q版}}\n{{对话|张郃|殿下、首席，打扰了……那个，我试着修了一下蛇矛，你们看看……|头像=q版-张郃}}\n{{对话|张飞|嗯，还行，没断。怎么修的？|头像=q版-张飞}}\n{{对话|张郃|府邸的宴厅里有许多散落的白羽大箭，我看用的都是上乘材料，就拆下来修补蛇矛了……|头像=q版-张郃}}\n{{对话-尾}}\n\n=黄月英=\n{{对话-头}}\n{{对话|黄月英|叮叮，咚咚……叮叮，咚咚……|头像=q版-黄月英}}\n{{对话|我|刚才打到的野兔呢，快烤上。|头像=广陵王-q版}}\n{{对话|黄月英|……味道。|头像=q版-黄月英}}\n{{对话|我|哦哦……不过没有胡椒，其他能做香料的药材也行。|头像=广陵王-q版}}\n{{对话|黄月英|呼……好香哦……|头像=q版-黄月英}}\n{{对话|黄月英|打劫，把兔腿给我。|头像=q版-黄月英}}\n{{对话|我|两只兔腿都给你……吃完快帮我看看师尊到底怎么了。|头像=广陵王-q版}}\n{{对话|黄月英|看不到，他不在这里。|头像=q版-黄月英}}\n{{对话|我|不可能，我之前明明把他绑在——糟了，师尊又不见了？！|头像=广陵王-q版}}\n{{对话-尾}}\n\n==黄月英下==\n{{对话-头}}\n{{对话|黄月英|旧道，朽亡的气……往那边走了。|头像=q版-黄月英}}\n{{对话|黄月英|就在前面，那个山坡上。|头像=q版-黄月英}}\n{{对话|我|没错，是师尊，可他周围怎么跪着一群人？|头像=广陵王-q版}}\n{{对话|患病流民|泰山府君，带我们魂归黄泉吧……|头像=q版-大赌徒}}\n{{对话|我|那些人似乎病得很重，需要拿些药材再来。|头像=广陵王-q版}}\n{{对话|患病流民|咳咳……你们也是来拜泰山府君的吧？|头像=q版-大赌徒}}\n{{对话|患病老妇|快跪下……等拜完了，泰山府君就会把我们都送到幽冥黄泉去。|头像=q版-花灯小贩-2}}\n{{对话|黄月英|朽亡的气不止一个，他们都是。|头像=q版-黄月英}}\n{{对话|黄月英|让他们走吧。|头像=q版-黄月英}}\n{{对话|左慈|唔……归……归，去……|头像=q版-左慈}}\n{{对话|患病流民|母亲……父亲……|头像=q版-大赌徒}}\n{{对话|患病老妇|嗬嗬……|头像=q版-花灯小贩-2}}\n{{对话|我|全部化作飞灰，消散了。|头像=广陵王-q版}}\n{{对话-尾}}\n\n=诸葛亮=\n==诸葛亮上==\n{{对话-头}}\n{{对话|钟繇|广陵王一行在前面！|头像=q版-钟繇}}\n{{对话|诸葛亮|前面有树林，冲进去，他们就没办法射中我们了。|头像=q版-诸葛亮}}\n{{对话|我|可他们的马比我们更快，只怕没来得及进林子就……|头像=广陵王-q版}}\n{{对话|诸葛亮|白龙会拖住他们，你带着左慈先走！|头像=q版-诸葛亮}}\n{{对话|我|你自己小心，待会飞鸢联络！|头像=广陵王-q版}}\n{{对话|左慈|呼……嗒，嗒……|头像=q版-左慈}}\n{{对话|我|满树林都是白龙弄出来的雨雾，追兵是找不到我们了，可我也找不到路了啊……|头像=广陵王-q版}}\n{{对话|左慈|唔，唔……鸢……|头像=q版-左慈}}\n{{对话|我|师尊，你说什么？|头像=广陵王-q版}}\n{{对话|左慈|鸢，鸢……|头像=q版-左慈}}\n{{对话|鸢鸟|啾！}}\n{{对话|我|是刚才交给孔明的鸢鸟……它是示意我向东走吗？|头像=广陵王-q版}}\n{{对话|鸢鸟|啾啾！}}\n{{对话|我|走吧师尊，孔明还在等我们。|头像=广陵王-q版}}\n{{对话-尾}}\n\n==诸葛亮下==\n{{对话-头}}\n{{对话|鸢鸟|啾，啾。}}\n{{对话|左慈|……嗒，嗒，呼……|头像=q版-左慈}}\n{{对话|我|等了许久了，怎么还不见孔明回来？|头像=广陵王-q版}}\n{{对话|诸葛亮|神君，神君……是我呀……|头像=q版-诸葛亮}}\n{{对话|我|孔明……不对，白龙？你在哪儿？我怎么看不到你？|头像=广陵王-q版}}\n{{对话|诸葛亮|鸢，飞鸢……来寻，要快……|头像=q版-诸葛亮}}\n{{对话|我|声音消失了。|头像=广陵王-q版}}\n{{对话|我|鸢鸟怎么原地盘旋了，人到底在哪儿啊？|头像=广陵王-q版}}\n{{对话|左慈|左，左……|头像=q版-左慈}}\n{{对话|我|师尊是说，要往左走么？|头像=广陵王-q版}}\n{{对话|左慈|……呼。|头像=q版-左慈}}\n{{对话|我|找到了！快醒醒，孔明、诸葛亮！|头像=广陵王-q版}}\n{{对话|诸葛亮|唔，白龙……神君……|头像=q版-诸葛亮}}\n{{对话|我|幸好，只是力竭晕过去了。|头像=广陵王-q版}}\n{{对话-尾}}\n=张鲁=\n==张鲁上==\n{{对话-头}}\n{{对话|流民老人|别抢别抢……|头像=q版-年画小贩}}\n{{对话|流民妇人|求求你，留一点饵汤给我吧，我的孩子已经两天没吃过东西了！|头像=q版-花灯小贩}}\n{{对话|张鲁|我只是饿了，所以多吃一点。|头像=q版-张鲁}}\n{{对话|张鲁|啊！我明白了，你们也想吃我刚才吃的那种谷物吧……我可以变出更好吃的东西！|头像=q版-张鲁}}\n{{对话|流民老人|……啊，是肉粥！是肉粥！|头像=q版-年画小贩}}\n{{对话|张鲁|这可都是怨恨之气汇聚而成的血肉啊，一起用吧！|头像=q版-张鲁}}\n{{对话|我|……得弄来粮食，不然，他会引起骚乱的。|头像=广陵王-q版}}\n{{对话|我|所以你和爹爹失散后，就混进了流民队伍里？|头像=广陵王-q版}}\n{{对话|张鲁|对啊，我听他们说这里有人发吃的，就过来了……嬢嬢，我吃饱啦，快带我去见爹爹吧！|头像=q版-张鲁}}\n{{对话|我|好。不过他现在病得有些厉害，你见到他时要轻声些，不要惊扰他。|头像=广陵王-q版}}\n{{对话|张鲁|好哦……唔，嬢嬢，慢点走……我感觉，好难受……唔啊……|头像=q版-张鲁}}\n{{对话|我|你怎么了？干吉先生，你快来看看！|头像=广陵王-q版}}\n{{对话|张鲁|唔啊……晕……头好晕……没有力气……就像，饿了很久……|头像=q版-张鲁}}\n{{对话|干吉|他本就是刘辩斩下的尸，五感相通，如今刘辩的躯体濒临崩溃，尸一旦靠近，也会变得虚弱。|头像=q版-干吉}}\n{{对话-尾}}\n\n==张鲁下==\n{{对话-头}}\n{{对话|张鲁|骑兵……后面的骑兵……要追上来了……|头像=q版-张鲁}}\n{{对话|马超|拦下马车！|头像=q版-马超}}\n{{对话|张鲁|好困啊……我跟爹爹一样，好像变得很虚弱了……|头像=q版-张鲁}}\n{{对话|我|他在崩散……|头像=广陵王-q版}}\n{{对话|我|不管有没有用，先试试用药吧！|头像=广陵王-q版}}\n{{对话|张鲁|……我听见三眼神的声音了。|头像=q版-张鲁}}\n{{对话|我|它说了什么？|头像=广陵王-q版}}\n{{对话|张鲁|……我没有办法，用人的身体说出来。|头像=q版-张鲁}}\n{{对话|张角|多亏张鲁在前抵挡，我们才能突围……|头像=q版-张角}}\n{{对话|张角|但他伤得太重，如果继续和刘辩同行，伤口只会持续溃烂，无法痊愈。|头像=q版-张角}}\n{{对话|我|我明白……|头像=广陵王-q版}}\n{{对话|张角|再往前就是渡口了，有五斗米的信徒接应，他们会照顾好张鲁的。|头像=q版-张角}}\n{{对话-尾}}\n\n=荀攸=\n==荀攸上==\n{{对话-头}}\n{{对话|我|外面怎么吵吵闹闹的？|头像=广陵王-q版}}\n{{对话|荀攸|马车要从里到外大修一遍才能上路，所以找了工匠。|头像=q版-荀攸}}\n{{对话|工匠|先生，我们带来的材料不够用了，府上还有吗？|头像=q版-大赌徒}}\n{{对话|荀攸|啊……恐怕需要去库房查看一下。|头像=q版-荀攸}}\n{{对话|我|勉强修好了……|头像=广陵王-q版}}\n{{对话|荀攸|这台马车毕竟是一路上用过来的，都有些感情了。|头像=q版-荀攸}}\n{{对话|荀攸|能够修就好。等回去的时候，还想坐着它。|头像=q版-荀攸}}\n{{对话|荀攸|坐着旧马车，去看望孔君吧，他一定会很欣慰的。|头像=q版-荀攸}}\n{{对话-尾}}\n\n==荀攸下==\n{{对话-头}}\n{{对话|荀攸|谁在那儿？|头像=q版-荀攸}}\n{{对话|我|是我。|头像=广陵王-q版}}\n{{对话|荀攸|夜深了，殿下还不就寝么。|头像=q版-荀攸}}\n{{对话|我|听见了一些声响……|头像=广陵王-q版}}\n{{对话|我|小荀老师也没睡……啊，这是在磨剑么？|头像=广陵王-q版}}\n{{对话|荀攸|是，翻找磨石花了些功夫。幽州局势未知，得备好兵器。|头像=q版-荀攸}}\n{{对话|我|这把剑锈蚀得厉害，再打磨也无用了吧，还要留着它么？|头像=广陵王-q版}}\n{{对话|荀攸|那不是锈蚀的痕迹，是仙人的血痕，沁入了剑身。|头像=q版-荀攸}}\n{{对话|我|原来是当日杀张姜子的那把……|头像=广陵王-q版}}\n{{对话|荀攸|此剑锋利无匹，唯有斩断仙人骨时曾留下一点刻痕——对，就是这处。|头像=q版-荀攸}}\n{{对话|我|能斩仙人的宝剑，拿来路上防身是不是大材小用了些？|头像=广陵王-q版}}\n{{对话|荀攸|人心之险恶本就难以揣度，你有破釜沉舟的勇气固然很好，但若是遇上难以招架的鬼蜮伎俩……|头像=q版-荀攸}}\n{{对话-尾}}\n\n<center>{{回到顶部|尾}}</center>"
+}

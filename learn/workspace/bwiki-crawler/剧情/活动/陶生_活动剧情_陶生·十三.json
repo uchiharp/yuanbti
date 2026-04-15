@@ -1,0 +1,538 @@
+{
+  "title": "陶生/活动剧情/陶生·十三",
+  "category": "活动剧情",
+  "characters": [
+    "士燮",
+    "孙策",
+    "我",
+    "诸葛瑾",
+    "诸葛诞"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-挑眉",
+      "emotion": "……不歇息吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "我没事，只是想坐一会。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……白天的时候，其实，我能感觉到些许异样……但是，也无法确定。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "如果是仲谋……如果真的是仲谋……不可能。今天如果是我，我会立刻告诉你们，一起去想办法。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "这都是没有发生的事。对了！关于最早的陶人故事，我有些想不通的疑点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "最早的故事吗……无非是古越国王在这里处决了触怒他的陶匠，陶匠们的怨恨徘徊不去。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "这个故事听起来很寻常吧？一国之主，生杀予夺，史书上多了去了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "那我们在这里看见的陶人，就是那些陶匠吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "是的……吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "你记得你小时候看人们拼碎陶吗？圆罐子、方盒子、长筒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "有没有一种可能，这些东西根本不是什么罐子、盒子，它们一开始，是作为一整个陶人俑被烧制出来的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "“始作俑者，其无后乎”。陶人俑最早的作用，是殉葬。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "难道说，所谓的国主杀陶匠，意思是国主将陶匠们烧制的陶人作为殉葬品一起入土了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "泥，铁，肉，火……陶片上的四种花鸟篆，“肉”可能代指了人的肉身。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "而“火”……桓谭的《新论》里记载，精神居形体，犹火之然烛矣，烛无，火亦不能独行于虚空。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "翻、翻译一下……每个字我都懂，拼一起有点茫然。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "意思是，人的精神魂魄对于肉身来说，就如同火烛一般。火，可能指代了人的灵魂。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "肉和火，构成了生者。而泥和铁……或许对应的是死者。泥代表了死后及生前的肉身，铁则被先民认为是血凝之矿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "……这些人怎么都喜欢奇奇怪怪的殉葬品？殉葬点金银珠宝不好吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "等老了的那天，也许我们会懂吧。人在衰老之时，会疯狂索求长生。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "若这是殉葬品，含义也不难理解。向泉下的神供奉了代表死者肉身的“泥铁”，同时提供了重塑生者的材料“肉火”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "神收下泥铁，再将肉火塑成生者，送其重返阳间。国君也幻想着死后复生之事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "真折腾。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "复生有什么好？活着轰轰烈烈一世，火燃尽了，该灭就灭，苟延残喘跟火星子似的飘荡，多可怜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "大部分的人，都是贪生而怕死的。宁可苟延残喘当火星子，也不愿轰然化烟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "只是，若本地是古越国的殉葬遗址，又是谁将它送回人间，困住我们的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "啊……啊……啊啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "你想……啊！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "……是你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "好笑。我千里迢迢来这里杀人？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "你昨夜的故事里，肉被食官剖开了。今天，两人都是这么死的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "其他人故事里的肉都是被忘了、从楼上掉下不见了、 被野兽叼走了……只有你的故事符合。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "劳驾，广陵王，能让他先坐下吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "你先回答他的问题。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "……呼，这要怎么回答？从根本上说吧，我乃士氏家主，何物不可得，还要仰仗鬼神之力？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士燮",
+      "text": "反倒是你们，像是借鬼神之名谋杀宾客！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "老子就是鬼神。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "……好了。孙策，先住手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "我想验最后一件事。 验完了再杀也不迟 。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "士燮太守，能劳烦……朝我这里走几步吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "瑾公子，劳烦朝我走几步。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "……哎？好……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "这是在做什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "……说来惭愧，昨夜在送各位回住处后，我做了件……有些损德行的事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我在你们脱在廊下的鞋履中，放了钉子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "孙策",
+      "text": "头像=孙策",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "没错，一旦杀人者外出杀人，就必定会受伤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……不穿鞋，或者换一双鞋不就行了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "有道理。但是，你先朝我走几步吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛诞",
+      "text": "怎样？我说的吧，杀人者不穿那双鞋就行了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "头像=诸葛瑾",
+      "emotion": "可是，如果鞋履里有钉子……我们今晨穿鞋时没有踩到。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我和孙策很早就去找荀彧了，去的路上，我替你们倒掉了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "诸葛瑾",
+      "text": "这样啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-严肃",
+      "emotion": "总之……误会，误会。孙策，还是士燮吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=广陵王-微笑",
+      "emotion": "我记得你们鞋子里钉子的位置。只有你鞋子里的钉子被踩过，诸葛诞。"
+    },
+    {
+      "type": "narration",
+      "text": "div id\"top\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"陶生·/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "center"
+    },
+    {
+      "type": "narration",
+      "text": "'''陶生·十三'''"
+    },
+    {
+      "type": "narration",
+      "text": "/center"
+    },
+    {
+      "type": "narration",
+      "text": "center/center"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh width100%;overflowhidden;margin10px 0px;displaytable;borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displaytablecell;verticalalign middle;width140px;padding10px;fontweightbold;fontsize16px;background;background616161;colorrbg(49,27,35);textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displaytablecell;verticalalign middle;widthcalc(100%  100px);padding10px;;colorcbbba4;backgroundADADAD;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan floatleft;width120px;color 848080!important;backgroundDCCF9E;padding3px 10px;textaligncenter;borderradius 4px;margin4px"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover backgroundEAECF0;transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan width48%;margin4px 1%"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright displayblock;width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E9%99%B6%E7%94%9F/%E6%B4%BB%E5%8A%A8%E5%89%A7%E6%83%85/%E9%99%B6%E7%94%9F%C2%B7%E5%8D%81%E4%B8%89",
+  "crawled_at": "2026-04-12T22:07:12.250319",
+  "raw_wikitext": "<div id=\"top\">\n{{面包屑|活动剧情|陶生/活动玩法}}{{背景图片|{{filepath:陶生背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">陶生·</div>\n<div class=\"map-dh-right\">\n<center>\n{{板块|按钮|陶生/活动剧情|引入}}\n{{板块|按钮|陶生/活动剧情/陶生·一|一}}\n{{板块|按钮|陶生/活动剧情/陶生·二|二}}\n{{板块|按钮|陶生/活动剧情/陶生·三|三}}\n{{板块|按钮|陶生/活动剧情/陶生·四|四}}\n{{板块|按钮|陶生/活动剧情/陶生·五|五}}\n{{板块|按钮|陶生/活动剧情/陶生·六|六}}\n{{板块|按钮|陶生/活动剧情/陶生·七|七}}\n{{板块|按钮|陶生/活动剧情/陶生·八|八}}\n{{板块|按钮|陶生/活动剧情/陶生·九|九}}\n{{板块|按钮|陶生/活动剧情/陶生·十|十}}\n{{板块|按钮|陶生/活动剧情/陶生·十一|十一}}\n{{板块|按钮|陶生/活动剧情/陶生·十二|十二}}\n{{板块|按钮|陶生/活动剧情/陶生·十三|十三}}\n{{板块|按钮|陶生/活动剧情/陶生·十四|十四}}\n{{板块|按钮|陶生/活动剧情/陶生·十五|十五}}\n{{板块|按钮|陶生/活动剧情/陶生·十六|十六}}\n{{板块|按钮|陶生/活动剧情/陶生·十七|十七}}\n</center>\n</div></div>\n\n[[分类:活动剧情]]\n\n__NOTOC__\n\n<center>\n='''陶生·十三'''=\n</center>\n\n{{对话-头}}\n{{旁白|【寝室】}}\n{{旁白|今夜的游戏结束后，我们回到了寝室。他睡不着，坐在门口，对着外面的雨幕。}}\n{{对话|我|……不歇息吗？|头像=广陵王-挑眉}}\n{{对话|孙策|我没事，只是想坐一会。}}\n{{对话|孙策|……白天的时候，其实，我能感觉到些许异样……但是，也无法确定。}}\n{{对话|孙策|如果是仲谋……如果真的是仲谋……不可能。今天如果是我，我会立刻告诉你们，一起去想办法。}}\n{{对话|我|这都是没有发生的事。对了！关于最早的陶人故事，我有些想不通的疑点。|头像=广陵王-微笑}}\n{{对话|孙策|最早的故事吗……无非是古越国王在这里处决了触怒他的陶匠，陶匠们的怨恨徘徊不去。}}\n{{对话|孙策|这个故事听起来很寻常吧？一国之主，生杀予夺，史书上多了去了。}}\n{{对话|我|那我们在这里看见的陶人，就是那些陶匠吗？|头像=广陵王-微笑}}\n{{对话|孙策|是的……吧？}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|你记得你小时候看人们拼碎陶吗？圆罐子、方盒子、长筒……|头像=广陵王-微笑}}\n{{旁白|我翻坐起身，拿手指在蒙尘的地上划开灰尘。}}\n{{旁白|“圆罐”，在最上面。然后是方盒。}}\n{{旁白|长筒，一共四条……}}\n{{对话|孙策|……人？}}\n{{对话|我|有没有一种可能，这些东西根本不是什么罐子、盒子，它们一开始，是作为一整个陶人俑被烧制出来的？|头像=广陵王-微笑}}\n{{对话|我|“始作俑者，其无后乎”。陶人俑最早的作用，是殉葬。|头像=广陵王-微笑}}\n{{对话|孙策|难道说，所谓的国主杀陶匠，意思是国主将陶匠们烧制的陶人作为殉葬品一起入土了？}}\n{{对话|我|……|头像=广陵王-微笑}}\n{{对话|我|泥，铁，肉，火……陶片上的四种花鸟篆，“肉”可能代指了人的肉身。|头像=广陵王-微笑}}\n{{对话|我|而“火”……桓谭的《新论》里记载，精神居形体，犹火之然烛矣，烛无，火亦不能独行于虚空。|头像=广陵王-微笑}}\n{{对话|孙策|……}}\n{{对话|孙策|翻、翻译一下……每个字我都懂，拼一起有点茫然。}}\n{{对话|我|意思是，人的精神魂魄对于肉身来说，就如同火烛一般。火，可能指代了人的灵魂。|头像=广陵王-微笑}}\n{{对话|我|肉和火，构成了生者。而泥和铁……或许对应的是死者。泥代表了死后及生前的肉身，铁则被先民认为是血凝之矿。|头像=广陵王-微笑}}\n{{对话|孙策|……这些人怎么都喜欢奇奇怪怪的殉葬品？殉葬点金银珠宝不好吗？}}\n{{对话|我|等老了的那天，也许我们会懂吧。人在衰老之时，会疯狂索求长生。|头像=广陵王-严肃}}\n{{对话|我|若这是殉葬品，含义也不难理解。向泉下的神供奉了代表死者肉身的“泥铁”，同时提供了重塑生者的材料“肉火”。|头像=广陵王-微笑}}\n{{对话|我|神收下泥铁，再将肉火塑成生者，送其重返阳间。国君也幻想着死后复生之事。|头像=广陵王-微笑}}\n{{对话|孙策|真折腾。}}\n{{对话|孙策|复生有什么好？活着轰轰烈烈一世，火燃尽了，该灭就灭，苟延残喘跟火星子似的飘荡，多可怜。}}\n{{对话|我|大部分的人，都是贪生而怕死的。宁可苟延残喘当火星子，也不愿轰然化烟。|头像=广陵王-微笑}}\n{{旁白|我将四种陶片收起。屋外暴雨中，又有陶人夜游的沙响。}}\n{{对话|我|只是，若本地是古越国的殉葬遗址，又是谁将它送回人间，困住我们的？|头像=广陵王-微笑}}\n{{旁白|<hr><center><big>次日</big></center><hr>}}\n{{旁白|【荀彧住处】}}\n{{旁白|次日早上，雨未停。}}\n{{旁白|孙策几乎是在天亮时就冲出了寝室，赶往客舍。阴雨之上，隐有雷光。}}\n{{旁白|往荀彧住处的一路上都没有见到人，暗沉的门院后，没有人声。孙策推开了门一一}}\n{{对话|孙策|……啊啊……|头像=孙策}}\n{{对话|孙策|啊……啊……啊啊……|头像=孙策}}\n{{旁白|他踉跄着退后了数步，有一霎那，我几乎以为他会悲号。}}\n{{旁白|但他像溻水之人般张大了嘴，仰起头艰难喘息，然后冲入室内，紧紧抱住了已经失去气息的弟弟。}}\n{{旁白|在房间另一侧，荀彧倒在血泊之中。他的腹部有一道狰狞的伤口。}}\n{{旁白|【主屋】}}\n{{旁白|门被重重关上了。}}\n{{旁白|诸葛兄弟和士燮在。当见到孙策拔刀朝自己冲去的时候，士燮的脸上满是诧异。}}\n{{对话|士燮|你想……啊！}}\n{{对话|孙策|……是你。|头像=孙策}}\n{{旁白|面对刀尖，在最初的惊慌之后，他立刻站稳了，冷冷瞪了回去。}}\n{{对话|士燮|好笑。我千里迢迢来这里杀人？}}\n{{对话|孙策|你昨夜的故事里，肉被食官剖开了。今天，两人都是这么死的。|头像=孙策}}\n{{对话|孙策|其他人故事里的肉都是被忘了、从楼上掉下不见了、 被野兽叼走了……只有你的故事符合。|头像=孙策}}\n{{对话|士燮|劳驾，广陵王，能让他先坐下吗？}}\n{{对话|我|你先回答他的问题。|头像=广陵王-严肃}}\n{{对话|士燮|……呼，这要怎么回答？从根本上说吧，我乃士氏家主，何物不可得，还要仰仗鬼神之力？}}\n{{对话|士燮|反倒是你们，像是借鬼神之名谋杀宾客！}}\n{{对话|孙策|老子就是鬼神。|头像=孙策}}\n{{对话|我|……好了。孙策，先住手。|头像=广陵王-严肃}}\n{{对话|我|我想验最后一件事。 验完了再杀也不迟 。|头像=广陵王-严肃}}\n{{旁白|孙策放下刀，侧开身，让出了我和士燮之间的路。}}\n{{对话|我|士燮太守，能劳烦……朝我这里走几步吗？|头像=广陵王-微笑}}\n{{旁白|他不明所以，但生死关头，还是朝我走来了，步伐毫无异常。}}\n{{对话|我|瑾公子，劳烦朝我走几步。|头像=广陵王-微笑}}\n{{对话|诸葛瑾|……哎？好……}}\n{{旁白|他缓缓起身，也朝我走了几步。步伐虽然因紧张而有些不稳，但仍然无甚异常。}}\n{{对话|诸葛诞|这是在做什么？}}\n{{对话|我|……说来惭愧，昨夜在送各位回住处后，我做了件……有些损德行的事。|头像=广陵王-微笑}}\n{{对话|我|我在你们脱在廊下的鞋履中，放了钉子。|头像=广陵王-微笑}}\n{{对话|孙策|！！！|头像=孙策}}\n{{对话|我|没错，一旦杀人者外出杀人，就必定会受伤。|头像=广陵王-微笑}}\n{{对话|诸葛诞|……不穿鞋，或者换一双鞋不就行了。}}\n{{对话|我|有道理。但是，你先朝我走几步吧？ |头像=广陵王-微笑}}\n{{对话|诸葛诞|……}}\n{{旁白|他迟疑了很久，终于慢慢起身，朝我走来……}}\n{{旁白|心理|没有异样。}}\n{{对话|诸葛诞|怎样？我说的吧，杀人者不穿那双鞋就行了。}}\n{{对话|诸葛瑾|可是，如果鞋履里有钉子……我们今晨穿鞋时没有踩到。|头像=诸葛瑾}}\n{{对话|我|我和孙策很早就去找荀彧了，去的路上，我替你们倒掉了。|头像=广陵王-微笑}}\n{{对话|诸葛瑾|这样啊……}}\n{{对话|我|总之……误会，误会。孙策，还是士燮吧。|头像=广陵王-严肃}}\n{{旁白|我和他对了一个眼神。他重新举刀，就在刀刃抬起的瞬间，我将他的手腕托住，转向另一人——}}\n{{对话|我|我记得你们鞋子里钉子的位置。只有你鞋子里的钉子被踩过，诸葛诞。|头像=广陵王-微笑}}\n{{对话-尾}}\n\n<center>{{板块|按钮|陶生/活动剧情/陶生·十四|下一章}}</center>\n\n{{#css:\n.map-dh {width:100%;overflow:hidden;margin:10px 0px;display:table;border-radius: 4px;}\n.map-dh-left {display:table-cell;vertical-align: middle;width:140px;padding:10px;font-weight:bold;font-size:16px;background:;background:#616161;color:rbg(49,27,35);text-align:center;}\n.map-dh-right {display:table-cell;vertical-align: middle;width:calc(100% - 100px);padding:10px;;color:#cbbba4;background:#ADADAD;}\n.map-dh-an {float:left;width:120px;color: #848080!important;background:#DCCF9E;padding:3px 10px;text-align:center;border-radius: 4px;margin:4px}\n.map-dh-an:hover {background:#EAECF0;transition:.2s;}\n@media only screen and (max-width:759px){\n.map-dh-an {width:48%;margin:4px 1%}\n.map-dh-left {display:block;width:100%;}\n.map-dh-right {display:block;width:100%;}\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n @media screen and (max-width: 600px){\n   .chengzhang{\n   width: 120% !important;\n   transform: translateX(-8%);\n }\n .title{\n    position: absolute;\n    top: 38px;\n    left: 50px;\n    font-size: 2rem;\n    }\n}}"
+}

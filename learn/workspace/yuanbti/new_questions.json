@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sunce_scheme_S1_1",
+    "type": "scheme",
+    "dimension": ["S1"],
+    "source_character": "孙策",
+    "text": "孙策告诉你袁术逼他来杀你取玉玺，但他不想动手。他说「我明天就跟他翻脸，我保证」。",
+    "options": [
+      {"label": "A", "text": "信他，直接把自己安危交到他手上", "scores": {"S1": 1}, "tendency": "L", "reasoning": "毫无保留地信任，不做任何后手准备→S1:1"},
+      {"label": "B", "text": "说信他，但暗中让陈登准备好城防", "scores": {"S1": 3}, "tendency": "M", "reasoning": "表面信任但留退路，谨慎但不伤感情→S1:3"},
+      {"label": "C", "text": "笑着问他「翻脸之后你打算怎么办」，把他的退路也一起算清楚", "scores": {"S1": 5}, "tendency": "H", "reasoning": "主动替他规划全局，把感情和利益统筹考量→S1:5"}
+    ],
+    "reveal": "「我明天就跟他翻脸！我保证！」——明知得罪袁氏的代价，仍然选择站在你这边"
+  },
+  {
+    "id": "sunce_scheme_S1_2",
+    "type": "scheme",
+    "dimension": ["S1"],
+    "source_character": "孙策",
+    "text": "孙策分析天下局势：「袁氏想拥立刘虞为天子，下邳就是鸿门宴，弄不好会血流成河」。他让你不要去下邳。",
+    "options": [
+      {"label": "A", "text": "听他的，不去下邳", "scores": {"S1": 1}, "tendency": "L", "reasoning": "直接采纳建议，不自己判断局势→S1:1"},
+      {"label": "B", "text": "表面答应，但派人暗中调查下邳的真实情况", "scores": {"S1": 3}, "tendency": "M", "reasoning": "不完全依赖单一信息源，自行验证→S1:3"},
+      {"label": "C", "text": "反过来利用这个局——既然袁氏要演鸿门宴，不如将计就计反杀", "scores": {"S1": 5}, "tendency": "H", "reasoning": "把危机当棋子，以攻代守反转局势→S1:5"}
+    ],
+    "reveal": "「下邳就是鸿门宴。弄不好，会血流成河。他们得到刘虞，首当其冲的就是你」——他看穿了整盘棋"
+  },
+  {
+    "id": "sunce_classic_S1_3",
+    "type": "classic",
+    "dimension": ["S1"],
+    "source_character": "孙策",
+    "text": "初见孙策，他直说「我上司要杀你，知道袁氏的袁术吧？就是他」。然后大方承认「杀你，顺便打个广陵玩玩」。",
+    "options": [
+      {"label": "A", "text": "被他气笑了，问他到底想怎样", "scores": {"S1": 1}, "tendency": "L", "reasoning": "情绪化应对，不分析对方真实意图→S1:1"},
+      {"label": "B", "text": "观察他的表情和语气，判断他说的是真心话还是试探", "scores": {"S1": 3}, "tendency": "M", "reasoning": "冷静观察对方行为背后的动机→S1:3"},
+      {"label": "C", "text": "顺着他的话说「那你动手吧」，赌他不敢真杀", "scores": {"S1": 5}, "tendency": "H", "reasoning": "以攻为守，反向博弈逼对方亮底牌→S1:5"}
+    ],
+    "reveal": "「打个赌？杀了你，我一样能从广陵正门口出去」——初次见面就敢赌命的江东小霸王"
+  }
+]

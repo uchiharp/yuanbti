@@ -1,0 +1,5677 @@
+{
+  "title": "广陵成长计划/线索剧情",
+  "category": "活动剧情",
+  "characters": [
+    "亲卫",
+    "侍从",
+    "侍卫",
+    "侍女",
+    "傅融",
+    "力夫",
+    "力工",
+    "医师",
+    "史子眇",
+    "司马朗",
+    "周群",
+    "士族长老",
+    "士族青年",
+    "天蛾",
+    "女官",
+    "妇人",
+    "官差",
+    "小鸦",
+    "工头",
+    "年轻公子",
+    "府兵",
+    "徐庶",
+    "心纸君（傅融）",
+    "我",
+    "文官",
+    "流氓",
+    "猎犬",
+    "礼官",
+    "老人",
+    "老仆人",
+    "老妇",
+    "老板",
+    "西凉军",
+    "路人",
+    "阿蝉",
+    "陈氏长老",
+    "陈登",
+    "随从",
+    "雷公子",
+    "马"
+  ],
+  "content": [
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "前面就是了？已经能看到塔尖了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "上个月开始修缮的浮屠，如今工期已至。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "笮融作乱留下这些浮屠，如今他退守濡水，这些浮屠险些都荒废了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "不过重建之后有什么用呢?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "唔……可以在浮屠下开设经坛，周边可以开设集市，设施粥棚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "不过三千浮屠你要全都留下吗？会不会太多？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "多壮丽啊，如果能重塑……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "陈公子……是陈公子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "是乡亲们？你们为何聚在这？怎么满手都是血？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力夫",
+      "text": "头像=屠夫",
+      "emotion": "陈登，你害苦我们了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力夫",
+      "text": "头像=屠夫",
+      "emotion": "还以为你是个好人，结果替你做事，居然被工头打骂克扣，过得不如牲畜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "三个月拿不到钱粮，家里已经有饿死的了啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我明明让他们保证每人每日有一两粳米，一瓠黄米，另有菜蔬和工钱……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "中间会不会被人克扣了？工头呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "世子见笑了……乡亲们先回去休息吧，我会替各位查明缘由、主持公道的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "我和你一起去。这种苛待之人，绝不能轻易放过！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "陈氏派你来督管工程，我却见到百姓被虐待。谁让你这么做的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工头",
+      "text": "头像=摊贩",
+      "emotion": "公子，你可真是不知柴米油盐贵的贵公子呦。这帮子刁民，不狠狠管教是不会好好干活的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工头",
+      "text": "头像=摊贩",
+      "emotion": "放一万个心交给我，规矩我懂的，肯定会把工事做完。你是太善心了，别信那些人的装可怜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "那克扣的工钱呢，也是陈氏的规矩吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工头",
+      "text": "头像=摊贩",
+      "emotion": "大公子，事情交给我办，你不必去问他们什么，只要知道我能替你把事情办完就是了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "你是受谁介绍委托，拿到这个工事的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工头",
+      "text": "头像=摊贩",
+      "emotion": "哈，那你可要问问大公子了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "……他是陈氏的长老推举来的远亲。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "一口一个长老，不就是狐假虎威？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "陈登，换掉此人，避免被人掣肘。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "世子言之有理。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "你回去吧。我会另派人督管浮屠工事，你不必再来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工头",
+      "text": "头像=摊贩",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "工头",
+      "text": "头像=摊贩",
+      "emotion": "行，行。我替你忙里忙外，还要被人厌弃。行，都是小人的错。呵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "工地被弄得一片狼藉，他们都守在那，不让工人们进去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "那人一走，紧接着流氓就来了，看来是不想让你继续修成。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "世子放心，晚生不会让步的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我说晚生……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "对，晚生。为什么突然自称晚生了？你比我大吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "哎？虽然是，但是作为自谦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "自谦也很奇怪啊，有没有别的更自然的称呼？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "徐庶前辈就会自称老子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "不行不行！那也太……太江湖气了。那就……在下?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "好见外啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "为兄？不行不行……太失礼了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流氓",
+      "text": "头像=强盗",
+      "emotion": "喂，你们俩叽叽喳喳啥呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "等人的时候闲聊一下而已。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "流氓",
+      "text": "头像=强盗",
+      "emotion": "等人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "等能打飞你们的人从她露水情缘的家里赶过来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "剑来——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "元龙，你带着世子在那浮屠塔胡闹多日了，该回家了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "浮屠的修缮并未结束。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "工期都停了，算了吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "修浮屠而已，长老为何咄咄逼人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "陈氏为世子继位准备了许多，看在元龙的面子上，已经竭力给你体面了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "世子是不知感恩的吗？那么多等着陈氏扶持的人，你又能为陈氏做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "陈登有仁政之心，与我不谋而合……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "乱世岂容仁政？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-愤怒",
+      "emotion": "不过就是想贪污工程款项吃自己家的回扣中饱私囊，装什么清醒？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "世、世子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-愤怒",
+      "emotion": "今天这浮屠不管陈登想不想建，我都建。陈登，我的话放在这了，等你一句话，你想不想建？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "……嗯，晚生想建。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "陈登！你是喝了什么迷魂汤了吗？！我是长老！是你的长辈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "你们竟然拿族内的账册威胁我？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "威胁？这些账册上的猫腻，长老看来很清楚？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "长老，这些年，你私吞族内的收入款项，这些是清单。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "此事若追究，虽然无法有什么处罚，但彼此脸面上也一定不会很好看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "这是陈氏的家事，你们自己商量。只是……浮屠可以继续修了吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈氏长老",
+      "text": "头像=贵族老年男",
+      "emotion": "呵……修吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "再过几日就算正式落成了，到时便能来此祈福颂德。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "连台阶都是石雕莲华……真是华美。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "路人",
+      "text": "头像=男文人",
+      "emotion": "不愧是权倾徐州的大豪族啊，也只有陈氏才能重修几千座这样的奇观了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "哪里哪里，都是乡亲们的功劳。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "这种东西有什么用……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "为何这样说？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "你知道这座浮屠是建在我家田上的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "笮融要在徐州修百座浮屠，我的房子和田就被烧得一干二净！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "唉，别说了……我家的田也是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "算了，好歹还有陈氏给的工钱啊，别说了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "我不说，他还以为他做了天大的好事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "这……晚生确实不知……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "诸位冷静些，陈登并不知晓此事……唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "不要动手……啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力夫",
+      "text": "头像=屠夫",
+      "emotion": "你再气也不能朝陈公子和世子丢石头啊，他们又不是坏人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "没事吧，陈登……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我没事……府兵，将她放开！不得动粗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我此前并不知此事，如今知晓，内心万分愧疚……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "那你可将我家的田地归还？没有了田，我全家只得卖身为奴！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "徐氏庄子的庄头根本不拿庄上的家奴当人，我三名儿女全部饿死，你能还我们吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "妇人",
+      "text": "头像=平民母亲",
+      "emotion": "看！他根本舍不得浮屠！哪有什么君子，豪强大公子，怎么可能对我们有垂怜？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "陈登。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "啊，是世子啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "这么晚了，他们说你带了几名亲信外出，我担心你，就跟来看看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "白天不便……所以只好在夜里开工……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-难过",
+      "emotion": "好不容易修好的浮屠，你又趁夜偷偷拆掉……不可惜吗。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "不拆掉浮屠，怎么把田地还给百姓。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "所谓福德，既在此地。有没有浮屠，都是一样的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "也是，可你这样拆，要拆到什么时候？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "力工",
+      "text": "头像=难民",
+      "emotion": "浮屠……烧起来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "是啊，烧得夜空都亮了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "……也好。烧完后，才会有新的希望。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你心疼吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "为何？浮屠是砖石所造，善缘是人心一念。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "砖石无善恶悲喜，何为悲喜，皆在人心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "这些青草作物，原是要供奉的祭品……如此，便一起付之一炬吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "好，以这场火为见证，我从此懂了元龙。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "我也懂了世子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "还有许多浮屠……劳烦世子，与我同行了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年轻公子",
+      "text": "头像=美型文官",
+      "emotion": "来人啊！大家都来看看！左慈女弟子始乱终弃！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年轻公子",
+      "text": "头像=美型文官",
+      "emotion": "负心人！我知道你在里面，出来啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "徐庶，有人在门口大喊大叫，拉横幅找你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "不是我吧，喊的是左慈女弟子嘛。这个鸭血可以吃了，小宝，二牛，快吃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "……前辈，管管吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "唉……好吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "那个，你是哪个？……？哎呦，手这么凉呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "脸也冻红了，怎么站在外面吹风？找个避风的地方嘛，瓜娃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "年轻公子",
+      "text": "头像=美型文官",
+      "emotion": "你……为什么不来找我，非要我主动找你吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "江湖儿女，只要心里记得，哪里都能相见，现在不就见面了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "要进去一起吃火锅吗？一家人热热闹闹的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你坐这吧。吃鸭血吗?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "乡亲们……乡亲们……左慈女弟子始乱终弃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老人",
+      "text": "头像=老年男",
+      "emotion": "我知道你在里面，出来啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "徐庶，又有人在门口大喊大叫，拉横幅找你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "年纪很大了，我拿了个坐垫给他。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "……前辈，你是不是……是不是有点过分了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "这次这个我真不认识！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "真的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "八成……真的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "真不记得啦，谁记得前天晚饭吃了啥子哦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "红豆八宝饭。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "老鸭扁尖汤。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "算了，我去看看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……这么快回来了？看完了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "看了看了，差点认不出来了，四十年前的事……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "看我干啥？谁记得自己四十年前干过啥嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "我肯定记得。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我也肯定记得。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "我不信，我们打个赌，四十年后我再来问你们俩，今天吃了啥。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老妇",
+      "text": "头像=平民母亲",
+      "emotion": "左慈……女弟子……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老妇",
+      "text": "头像=平民母亲",
+      "emotion": "我知道你在里面，出……咳咳……来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "徐庶，门口又有人拉横幅找你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "我受不了了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我也是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "徐庶前辈，这已经是本月第二十三个堵在门口找左慈弟子负责的人了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我走在街上都不敢承认我是广陵王府的人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "你露水就露水了，为什么每次都留我的名号和住址啊？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "以前我都留令狐茂的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "你为啥不留葛洪的？葛洪会很乐意吧？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "我也留过啊！但他就是嘴上说说，每天都忙着照顾水镜！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你们隐鸢阁到底是个什么组织……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "这件事情如果让师尊知道，根本没法收场啊！——唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "小宝你吃个丸子，替我瞒一瞒嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马",
+      "text": "嘶嘶嘶——嘶——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "马",
+      "text": "嘶嘶嘶嘶嘶——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "徐庶，门口有马拉横幅找你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "门口的马越来越多了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "黑的白的，纯的花的，老的少的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "这边在吃我种的菜了……等等，那匹也是马吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "是犀牛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "她连不是人的都能撩吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "是的。她从前还撩过雪山里的麒麟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……结果呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "……不能说。反正最后是师尊出面才解决了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "解决了问题？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "解决了麒麟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "世子不好了，从天上掉下来那——么大一块石头！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "整个石头着着火！把花园砸了个大坑！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "天、天降陨石？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "对。石头上还写着一句话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "“左慈女弟子始乱终弃”。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "傅融，叫几个人，把石头搬走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "这件事情有点超出我的理解范围了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "我如果能理解，早就大彻大悟成仙了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "前辈，别站在一旁不出声，来帮忙！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "好嘛，你个娃儿好凶嘛——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "裂开了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "什么裂开了……石头裂开了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "大家别动，口子越裂越大……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "石头里面……滚出个小石头……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……小石头飞起来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "别冲着我来噻！啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "前辈被砸晕了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "吃饱了，我们走吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "啊……我没带钱，世子，你带了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "……不想惊扰百姓，于是微服出来了……没有带钱和首饰……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "呃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "老板，我们俩忘记带钱啦，先赊着行不行？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老板",
+      "text": "头像=摊贩",
+      "emotion": "想什么美事？真没带钱就洗盘子抵债吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "稍等，我想想办法。小鸦，你先洗着……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "——傅融，江湖救急！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "心纸君（傅融）",
+      "text": "头像=傅融小纸人",
+      "emotion": "…………哪个酒楼？我过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我的工作内容是管理世子日程、府内开支会计，不包括随叫随到给你们买单。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "也可以包括嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "那是另外的……唔，你们看，前面有人家在出殡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "回避一下吧。好大的阵仗……是本地的豪门吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "小鸦，快回避一下，别盯着看。出殡有什么好看的吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "不过那些祭祀品可真壮观啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "他们还在沿途散发悬赏令？许氏长公子遇刺，刺客留下钱袋一个，若有知情者……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "钱袋上绣有一只……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "乌鸦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "乌鸦……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "世子，傅哥，这家的糖葫芦好甜啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "！！！别吃了，快走！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "唔……这么晚了，小鸦的房门怎么还没关……明明都没有灯了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "小鸦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "小鸦？你在和谁说话？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "唔……！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "世子？我才醒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我听见你屋子里有动静，没事吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "没事呀，可能是我在说梦话吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "陈登送来了一筐小鱼干，我记得你爱吃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "谢谢！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "你屋子里怎么乱糟糟的，还有股味道……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "没事没事，我明天收拾。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "……好，那你早点睡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "这墙面……怎么湿漉漉的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "啊！谁？！是世子？！……怎么不点灯……吓死我了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "等你点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "好了，世子你……你怎么这么晚了会在我屋里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "等你啊。你晚上偷偷出去，是去做什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "唔……找露水情缘呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "那么巧？你的露水情缘是谁呀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "呃……是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "不管是谁，我立刻带你去跟他对质。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "不然这可太不像话了，一个徐庶前辈，一个你。不知道的，还以为王府专产负心人呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "对！我是负——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "说、实、话！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "就我们俩之间谈一谈。你穿着夜行衣去做什么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "我……接了点私活！死士的私活……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "接外面的私活，然后杀到广陵王府里了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "没有呀，在离王府很远的地方动手的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "那墙上的血是从哪来的？我下午查过，你的墙面是前夜临时粉刷的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "刮掉粉，下面都是血迹。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "……我还得负责分尸和埋尸。我把这个活……带回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "尸体在王府里？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "……在后院。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "…………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "阿蝉！傅融！果然有麻烦，快去拿铲子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "把后院的尸体重新埋一遍！深埋！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "世子，请停轿。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "专门寻味的猎犬觉得你轿子里有问题。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "许氏长公子遇刺，刺客还没抓到。我训练这些猎犬，靠那个钱包的气味寻找目标。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "我的轿子里，有你的目标？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "猎犬",
+      "text": "汪汪汪",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "世子，你身边的那个黑衣少女……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "先不谈这个，你过来，把这个收好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "……这……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "一点心意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "世子，这可……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "嘘……我知道，许氏一定给的更多……我也不是小气的人。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "使君，先拿这些去买酒喝，如果找不到酒伴，今晚来王府一叙吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "……我来了。世子。我们是去哪里说话？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "先往那边站一点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "为什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "因为那边方便动手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "官差",
+      "text": "头像=西凉军丙",
+      "emotion": "呃——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "死了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "搞定。小鸦，你惹的祸，你抬肩膀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "傅融，挖的坑够深吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "放心吧，竖着埋都足够了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "要不就竖着埋吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "能埋就行。再拿一头死猪盖在他尸体上。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "为什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "有人来查，假如真的查到这个土坑，就大大方方让他们挖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "他们挖到死猪尸体时，就说是猪瘟死的病猪。这样，查案的人八成不会再往下挖。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "好浪费……一整头猪……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "肯定是自己人比猪重要啊！来，一二三，把他……抬起来……！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "小鸦",
+      "text": "头像=鸢使",
+      "emotion": "嘿……咻……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "阿蝉，在这里打猎，和西凉那边相比怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "小。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "这倒是……毕竟是围猎嘛，肯定没有凉州、并州那样大的游猎地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "没关系的。天气好。嘿嘿……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "……看起来心情真的不错，看着天空开始哼歌了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "这不是世子吗？远远就看到了你和这位淑女。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "不知是何处寻得的佳人？真是绝色……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "……啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "啊啊啊啊啊啊——我的手——我的手——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "嗯？你摸我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "……阿蝉，我们先回去吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "我的手啊！我的手啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "随从",
+      "text": "头像=内监",
+      "emotion": "公子的手被那个女人砍下来了！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "唔……他好吵……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "让他吵吧，我们先走。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "不打猎了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "改天我们再来。到时候给你围个更大的猎场。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "好呀！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "我的手……啊啊……我的手……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "小蝉，我要一块！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "我也要一块！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你们蹲在庭院里烤肉，烤完了记得自己收拾啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "好的。呼、呼……好烫。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你们去打猎，居然没有打回猎物？我听你们说鹿是买的，还以为是开玩笑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "打猎时候出了点事，提前回来了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "世子，外面有人叫门！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "这么晚了，谁在叫门？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族长老",
+      "text": "头像=贵族老年男",
+      "emotion": "广陵世子，你伤人逃逸，总要给一个说法吧？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "广陵王府会负担贵公子一切医药费用。他行为不检点在前，这就是说法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "你们若还有其他要求，尽管提出。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族长老",
+      "text": "头像=贵族老年男",
+      "emotion": "世子，交出那个涉事女子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-冷笑",
+      "emotion": "阿蝉，傅融。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "哎。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "关门。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族长老",
+      "text": "头像=贵族老年男",
+      "emotion": "你们要干什么？要干什么？！放开我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-冷笑",
+      "emotion": "我说啊，现在还是能好好谈的，前辈。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "隐鸢阁出来的人呢，就是会比较不怕事。你们愿意拿钱了事，那双方都会很开心。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-冷笑",
+      "emotion": "但你们如果一定想要她，那就没得谈了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "小蝉，西凉一般怎么处理这种事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "唔，一般都是全家一起……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "哎呀，阿蝉，你怎么能说这样的话呢？不懂事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "哦。好的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "前辈你看，我们府上都是这样不懂事的人。被别人摸一下脸，左手摸的就砍左手。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "怎么这样？砍完之后没有拿走他钱包当精神赔偿吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "哎呀，傅融，你怎么能这么懂事呢？阿蝉你学学，学学。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "好的，我试试。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族长老",
+      "text": "头像=贵族老年男",
+      "emotion": "你要做什么？！住手！别动我钱包！放开我——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "长老过于激动了，改日再谈吧。傅融，送客。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "阿蝉，今天天气也不错吧，这次围了个更大的猎场，可以随意策马 !"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "真好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "是你们？！你们还敢来？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "你的手这么快就好了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "托世子的福，大难不死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "世子和淑女遛马，就带了这么几个护卫？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "士族青年",
+      "text": "头像=男文人",
+      "emotion": "那来人！——动手！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "保护世子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "别保护我了先保护他——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "找死。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "亲卫",
+      "text": "头像=帅武将",
+      "emotion": "世子，没保护住。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "啊？不能杀吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "……剁手和直接杀，还是有点小差别的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……我错了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "别多想了，做都做了。他先动的手，生死自负。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "打猎，今天傅融没给我们买烤鹿肉的预算，没打到猎物就没有炙肉啦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "嗯！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "短短数日闯了多少祸！世子，必须赶走那个少女！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "她来路不明、不尊礼数、喜怒无常，简直是……简直是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "凭什么？她是我身边的人，不由他人调遣。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "别以为我不知道你们在想什么。调走了她，下一个就是傅融。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "想先腾出位置，调换你们自己人在我身边，是不是？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "这种话别真说出来……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "我就说出来了。傅融，你站谁 ?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "站你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我觉得小蝉所作所为都是因那人无礼在先，青天白日、众目睽睽。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "傅融！你这样，是想断了回陶谦使君那边的后路？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我都站她了，不要什么退路。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=文官",
+      "emotion": "岂有此理……岂有此理 ！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……摔门走了。王府的门，坏得好快啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "找工匠明天来修吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "太贵了，明天我和徐庶修修看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "今天有人见到小蝉吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍女",
+      "text": "头像=侍女",
+      "emotion": "没有！她的马也不见了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "阿蝉——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "小蝉？马噗噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "马噗噗——不对，她根本不叫马噗噗啊!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府兵",
+      "text": "头像=副将",
+      "emotion": "围住她！她没力气了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍卫",
+      "text": "头像=士兵",
+      "emotion": "她是什么怪物？杀了我们那么多人？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "就在前面！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "府兵",
+      "text": "头像=副将",
+      "emotion": "抓活口——唔！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "她想杀人抢马，但没力气了……你在干什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "弹弓啊，小时候都玩过的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "我拿弹弓打雪猴子可是没有失手过——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "都打退了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "阿蝉，没事吧！你怎么不告而别？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……我听见了，那个人，说话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……偷听到了呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "……我给大家，惹麻烦了。我想引开他们，都杀了，就没麻烦了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "真是的！一点不懂事，你一个人怎么可能杀得完？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "对啊，先和我们说好，然后你引出他们，我们暗中埋伏，就地解决呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "傅融，这样算不算懂事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "懂事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "好！我们一起回家，回家后再商量对策。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "只要大家在一起，总能想出办法的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "醒醒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-疲惫",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "醒、醒——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-疲惫",
+      "emotion": "唔！别拿竹简在我耳朵抖个不停——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "书房里睡午觉，这也太悠闲了。继位亲王，礼制上还要筹备一大堆东西。这箱子里都是没完成的礼单。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "……让我短暂忘掉这箱礼单吧……啊啊啊别在我耳朵边抖竹简！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "白马白马白马白马……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "找一匹花马，拿胡粉把花斑都盖掉不就好了吗！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那怎么行？其他的金银礼器礼服都好说，白马是眼下最紧迫的。你催过阿蝉了吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "阿蝉说就算从她老家送来白马，也赶不上继位大典。我还是得自己想办法……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我们去找陈登说的雷氏吧？就在陈留。雷氏落魄了，想卖出自己府上的两匹白马。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你前几天不是去过陈留，但是没见到雷氏的人，也没要到白马吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "唔……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "小蝉来了？什么事？为什么站在门外不说话？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "唔，一个人，找人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……谁找谁？什么样的人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "男的，白衣服的。找人，在会客室。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……唉。他找谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "不知道。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我去看看吧。傅融，你再理一下那些礼单。哪些府里有、哪些能现买、哪些能问本地士族租借的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "知道了……小蝉，一起来理吧，顺便再练一下关中话。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "……那个，这位公子，来广陵王府是有何事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "………………是不是阿蝉又不当心骑马走神踩死人了？是你家的人吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老仆人",
+      "text": "头像=老年男",
+      "emotion": "请问广陵世子，你府上，是不是有一位女子，出身隐鸢阁，仙君左慈弟子？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老仆人",
+      "text": "头像=老年男",
+      "emotion": "这位是陈留雷氏的小公子。前一阵子，我家小公子在祭奠族人之时……遇到了一桩罄竹难书的恶事！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "原来是陈留雷氏……敢问公子遇到了何事？可有本世子能解忧之处？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老仆人",
+      "text": "头像=老年男",
+      "emotion": "这种事……这种事……你们王府里的女人，竟对我们小公子做这种事！雷氏就算落魄了，也不能被这样折辱！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "……石叔，我自己说吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "雷氏落魄，被陈留的阮氏、谢氏欺压，夺地夺宅……族中人丁零落，无力抵挡。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "最后，就连祖宗之地也被谢氏占去。父母一夜之间气血攻心，撒手人寰。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "我在父母坟前戴孝守灵，发下大誓……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "若有人为我雷氏主持正义、诛杀仇人、夺回祖产，我愿为奴为仆，侍奉终老。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "就在这时……一位女子路过我身后。她见我哭泣，便问我缘由……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "当天夜深时，我仍跪在坟前祈求，突然两颗人头和木匣从天而降。正是仇人首级，还有被夺走的祖产契约！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "那可真是……真是大恩啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "那名女子随后出现，问我心情。大恩大德，我难以言语，但愿履行誓约，为恩人奴婢……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "她说她不要奴婢，但对我……对我……对我有意……问我意愿……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "当夜，我将族中的白马赠给她做定情信物。虽然仪式简陋，但还是……成礼了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "有多简陋？该不会在坟前就地解决吧？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "色中饿鬼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "也、也不一定就是我啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "一夜过后，她天不亮就要离开。我拉住她问她去向，她说去买个酒就回来………然后牵着白马就走了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "天不亮的哪里有卖酒啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "我也不信，于是问她身世来历。她说……可以来广陵王府找她……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "呵。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "还说，她是隐鸢阁仙君左慈座下弟子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "公干、公干……哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我还在想前阵子怎么那么积极主动去陈留公干了，原来是公这个干！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "不是我！真的不是我！傅融你等等！这怎么听都不是我吧！傅融——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "小宝！二牛！我回来啦！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "前辈——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "看我给你带了啥子回来？是白马哦！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "……果然是前辈干的啊……傅融，我就说吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "干得漂亮。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "哎？哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "二牛嘴巴甜了嘛。来，把白马带去马厩，我给你们去做甜水面。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "要不然多做几碗吧……雷氏的人在会客室等你，来要说法。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "雷氏？什么雷氏？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你在坟地里一夜风流之后不告而别还带走了人家的白马的那个雷氏。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……哦哦哦！想起来了。怎么找过来了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "前辈，你去哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "去厨房给你们烧饭饭啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "不敢去会客室吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "负心人。人家小公子看起来是认真的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "我至少那天夜里也是认真的嘛……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "前㹃，双方都认为是露水姻缘才叫露水姻缘，单方面认定的露水姻缘，叫始乱终弃。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "世子，徐庶，傅融，会客室里有声音。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "什么声音？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "他要吊死。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "老仆人",
+      "text": "头像=老年男",
+      "emotion": "小公子！小公子啊——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "头像=美型文官",
+      "emotion": "放开我！让我去死！我还有何颜面做人……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "公子冷静些！——前辈！自己惹出来的事自己来解决啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "小周你先从案上下来，一起吃个小面，慢慢说嘛！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "雷公子",
+      "text": "头像=美型文官",
+      "emotion": "我是雷氏的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "不要再动了！王府的房子很老了，房梁没那么结实！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你不去劝一下吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "今天送走雷氏，明天也会来个雨氏、电氏，让前辈自己处理吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "真的假的……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "那位雷氏的小公子如何了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "腿断了，医师帮他打了夹板，需要休养两个月。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "徐庶在里面和他谈。也不知道能不能谈妥。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你是不是很不喜欢徐庶前㹃啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没有不喜欢她这个人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "那就是不喜欢她的某些地方？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我不太喜欢她弄出的……这类事情。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……太出格了，不负责任。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "她活了很多年嘛。武帝朝的人了，什么都见识过了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "无极荣华见了，天崩地裂见了，血亲相残见了……早已把什么都看淡了，不会再理会俗世礼法。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不负责任就是不负责任。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "也有负责任的仙人啊，令狐茂前辈至今还在祭祀真情呢，在灵河岸边自闭自苦了许多年。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "负责任有负责任的好，也有负责任的苦。谁能裁判呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我不能裁判，但我至少能不喜欢吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "哦，你喜欢专一的……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是个人都会喜欢专一的吧！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "这可不好说，徐庶前辈和葛洪前辈好像都……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不说那些仙人，他们不是俗世人。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "那你想说谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……没有。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我在意你这个干什么，你就是我上司而己。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "但我感觉，你好像很在意我的事。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你想……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你想升职吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……………………",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "啊？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "是想通过更了解上司的喜好来晋升吗？这有什么不好意思的，直说嘛。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "没、没有！我才不是想晋升！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "不为了谋钱权，那是谋什么？难道在替陶谦当耳目吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我早就和陶谦那边断了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "既不为了谋钱权，也不是替人卧底，那你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我不喜欢徐庶也不喜欢阿蝉也不喜欢府里的侍女女官嬷嬷！别乱猜了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "天晚了，我要去休息了！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "傅融！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "怎么了？出什么事了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "傅融撞白马身上流鼻血了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "哎呦可怜，把头抬起来……小宝，你也提醒他一声啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-难过",
+      "emotion": "根本来不及，他跟逃一样……傅融，你别动！……又跑了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "哎？雷氏那位公子，让老家人把另一匹白马也送来了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "嗯，他像是打算搬家来广陵。雷氏在陈留一直被豪门欺压，索性换个地盘。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "两匹白马都给你了，你以后可要好好罩着人家啊。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "太好了……解决了最麻烦的问题。今天可以睡个午觉了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "没事，白马搞定了，我可以稍微歇一歇。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "除了白马，还有很多别的事啊……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "天大的事，也不差补个午觉啊。来，坐过来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "呃……你别拽我……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "这样趴着很舒服的。以后这里就是你睡午觉的地方啦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "好了好了！我保证徐庶前辈一定会给你一个交待的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你怎么保证……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "至、至少保证她能坐下来和你好好谈个话……唔啊！傅融你别拽我！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不是！你先松手，先别管他！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "总不能看着他吊死在王府里吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "别管了，快走啊！房梁——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "史君前辈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "好久不见！你怎么瘦了呀？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "这边一切都好吗？元直，你没带她做危险的事吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "什么事比吃你的点心更危险啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "左慈道友说山下肯定需要很多礼器，就开了库房，让我带下山了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "你带来了？放在了哪？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "唔……弄丢了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "经过太傅崖的时候，崖下有一阵疾风，把浮丘背上的包裹箱子吹翻了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-难过",
+      "emotion": "好可惜……没事！再慢慢攒就好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "我去问问傅融，现在还差多少金银礼器。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "呼……呼……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "呼……唔啊！！！谁——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "哈哈哈哈哈……你跳得好远！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你把什么塞我衣襟里了……玉石珠子？好冰……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "史君送了我两串古董水晶珠子，一串白水晶，一串紫水晶，紫的这串送给你。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……这不好吧，太贵重了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "这有什么。收着吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你平时穿常服戴这个合适，我带在身上，还要担心碰碎。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "别纠结了，说正事，现在继位大典要的礼器，还差多少？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我看看……本来说问陈氏租一些的，但陈登觉得租不够体面……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "基本的金银器就由陈登那边提供了，有些礼器方面的器具有礼制要求，必须王府自己出。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "赤金、铜都差许多，小鸦出去采买了，但她做事拖拖拉拉的，也不知道能不能按时回来……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "世子！世子！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "我们在书房呢，有什么事？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "朝廷有文书来。内廷派了一位御前使者来广陵，巡查广陵这边大典准备的情况。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "巡视结果恐怕会影响到世子的继位，世子，这次必须认真对待！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "使者是谁，出身何处世家，能打探到吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "河内司马家。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "那还好……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "！！！傅融？！你怎么样，怎么又流鼻血了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "朝廷的使者即将抵达，诸位，我们要做好计划。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "河内司马家的司马朗……应该很好应对。不是大门阀也不是名满天下的奇士，照常接待就好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "嗯，嗯。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "他来的那几天，阿蝉不许骑马。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "啊？为什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "万一你走神把人家踩两截了就打脑壳喽。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "哦，哦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "我来做点心招待那孩子吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "你也不许进厨房。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "哎？为什么……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "我赞成陈公子的话。照常接待，不必过度盛情。盛情接待和奢靡无度可是在人家一念之间。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "嗯，我去手钓新鲜的鱼，开鱼脍招待他就行！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你只是想钓鱼吧……不要用奇怪的食材，就给点猪肉和白菜就行了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "傅融，你不懂这种小士族的心态。给太接地气的食材，人家会觉得你敷衍他的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……不，真的。给常规一点的食材，不容易出意外不是吗……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "我不喜欢吃白菜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "你看，你让客人吃白菜，阿蝉就得跟着吃白菜。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "那不行，阿蝉喜欢吃什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "烤肉。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "那就烤鹿肉如何？庄子上的猎户刚好打到了一头鹿！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我建议……猪肉和白菜真的够了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "再加点我做的点心！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "还有我自酿的杏子酒！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "再在府门口搭饭棚，让百姓也一起吃吧……还有宴请贵客的歌舞……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……真的不用太盛大。真的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "嗯……招待使者的计划规格，差不多就敲定了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "傅融？傅融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……啊？我走神了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "没什么。夜深了，你早点休息。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "好。明天见。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……等一下，你真的没有什么要问的吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你如果有事，自然会跟我说。如果不想说，说明时候未到。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我……我吃得比较素。那几天府里如果都是荤菜……我……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "反正就是这些理由。说出来很丢人，好像故意想让府里上下吃我喜欢的东西一样……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……就这？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你直说就好了嘛。早说啊，我就让食官准备素一点的菜了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "不过你平时喜欢吃素吗？身体扛得住吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我也不是完全不吃荤，偶尔也吃一些的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "那我记下了。明天跟食官说，让他们在那几天也准备些素菜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……不必这样的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "怎么不必？不这样的话，你那几天多难受啊，都没有喜欢吃的东西。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "大家住在一起，肯定是要互相包容照顾的呀。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你是不是不太开心啊？因为大家都说了荤菜，但你吃得很素。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……没有。只是担心出岔子。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "真的吗？你平时总喜欢说反话……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你怎么知道我平时吃得很素？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "因为一直在一起，肯定会注意到啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是吗……我都没有意识到。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "天晚了，我先回去休息了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "早点休息，明天见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "……感觉是个……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "是个……脾气不错的人？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "下官是广陵王府礼官周群。请长官随我来。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "啊……何必称长官呢，在下也只是白身而已。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "这位就是广陵世子吧？真是貌如冠玉、君子风度。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "使者远道而来，想必辛苦，请入谒舍洗尘吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "多谢多谢。啊，这位……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "这位是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "这位是我的副官傅融。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "副官？真是年轻啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "是啊是啊，二牛不仅干副官的活，还负责府内洒扫清洁、买菜做饭、喂鸟喂猪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "……二牛是谁？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "是我。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "为什么叫……算了，先去谒舍吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "世子！傅融！我们回来啦！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "这位又是唔噗噗噗——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……啊？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "飞出去了呢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "头像=周群",
+      "emotion": "好可怜……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "…………快！快叫医师来！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "医师，他怎么样？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=老年男",
+      "emotion": "肋骨断了两根，左腿也伤得很重……不过府内医师的医术都很好，对这种情况应对经验丰富。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "你们广陵王府……是每天……都有这种情况吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "意外！使者，这是个意外！——对不对？陈登！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "对！你只是第二个被马踩的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "……在我之前还有一个？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "啊是晚生的堂弟。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "总之这是个意外！傅融，快叫史君来悬炉愈人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……说起来史子眇去哪了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "来了来了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "交给史君就放心吧。今晚好好招待，至少能挽回一点……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=老年男",
+      "emotion": "殿下，使者好像没气了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "哎？！傅融，你、你先站稳，我们不慌！……他出什么事了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=老年男",
+      "emotion": "史君悬炉愈人完，从袖子里掏出一块点心让他垫垫肚子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "医师",
+      "text": "头像=老年男",
+      "emotion": "吃完点心，人就没气了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "快吐出来！吐出来就好了！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "没事吧？不好意思，我以为那是米浆……没想到是石灰水……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "他还能救回来吗？救不回来怎么办？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "……埋了，找人顶替。反正司马家也没人知道，等他回去的途中再找借口说被盗贼劫杀……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你快吐干净……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "傅融你不要慌啦，徐庶前辈说的办法还是可行的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "小蝉！小蝉，再去找两个医师来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "铲子。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "不要埋人的铲子！医师，要医师啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "使者这几日休息得可好？腿伤和胃病还会犯吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "多谢世子，在下还留了条命。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "哈哈哈哈，那可比什么都好，哈哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "在下身为朝廷使者，前来广陵考察。可否请殿下召来府内人员，我有些话想问他们。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "为保公正，问话期间，请殿下在别室稍坐。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "自然可以。请使者稍等。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "天蛾",
+      "text": "我为了得到这份工，当街把竞争者剁了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "唔……嗯？世子？唔……我砍了几个人，洗澡。他？他就在旁边……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "身为礼官，下官不得不如实作答。因为自幼在仙门长大，世子丝亳不尊儒礼，目无法纪，为所欲为……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "你啥子玩意嘛对老子问东问西？……不过你叫什么来着？字什么？……哈……你的字挺有意思的，我教你写我的字……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "能说真话吗？唉，在王府提心吊胆的。你见过咱们傅副官吗？多本分老实啊。每天起早贪黑给他干活……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "结果到了晚上……我听得真真的，浴室那边一阵打斗声，好像是世子兽性大发！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "侍从",
+      "text": "头像=侍从",
+      "emotion": "傅融在浴室里哭喊挣扎，什么“不要”，什么“救命”，什么“不当男宠”……哭得太可怜了，半个广陵都听见了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……………………我没什么好说的。有什么话问别人吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "你和广陵世子是什么关系？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "正常的上下级关系。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "真的吗？问了别人，听起来不是很正常。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "没有任何不正常的关系。没有就是没有。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "……那天晚上的浴室是怎么回事？那个世子当真如此霸道？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "…………是刷浴桶，那天晚上，是刷浴桶……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "浴室很滑，滑倒了，就……有点声音。然后我爬起来继续刷。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "一个浴室两个人刷？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "我刷。她……她在浴桶里看。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "……他在浴桶里泡着，看你刷浴室？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "…………………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "对，她就有这种奇怪的嗜好。每天晚上……都要看人狂刷浴室。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "哎？我家孩子，喜欢看人刷浴室？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "浴室……浴室？是洗澡的那个浴室吗？……噢噢，太好了，吓了我一跳呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "孩子长大啦，就会有些奇奇怪怪的爱好呢。哈哈哈……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "使者……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "不必多说了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-汗颜",
+      "emotion": "使、使者，这样了解本世子，了解到的东西很片面的对不对？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "至少请接受我们的盛情接待！感受一下广陵的风土人情！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "在下不喜奢靡。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "既然使者这样说……那请在王府用些便饭。粗茶淡饭，不成敬意。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "我也喜欢家常饭菜，索性也不要用这么大的厅堂了，众人去院中花树下吃顿便饭吧？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "……也好。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "今天的酒不错吧！还很搭泡菜，我亲自抓的鲫鱼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "味道真是鲜甜……大家都多吃点。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "唔，这个菜，好难嚼。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "先切成细丝，一点一点配酒吃……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "好呛……还有点腥。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你吃不惯蜀地的泡菜吗？要不要拿些新鲜的绿叶菜？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "仔细看，公子的面相真是有意思。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "元直，不要对别人的长相说三道四啊，很伤人的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "我又没有说不好，我是觉得，怎么说呢……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "——有点像傅融！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "对！有点像吧！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你们不问问贵客喜不喜欢这种泡菜吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "口味新奇。这种红色的菜，原本是什么样的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "我去把坛子抱过来！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "里面居然还有鲫鱼……哪怕不吃，也是很漂亮的摆设啊……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "啊？拿泡菜摆设吗？会很臭的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "太有意思了……还有吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "头像=徐庶",
+      "emotion": "有的有的！史君你看嘛，我就说山下也有人喜欢我做的泡菜的！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "不知道会怎么汇报上去……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "别抱太大希望。做好最坏准备。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "对了，陈登今天去太傅崖钓鱼，让人传话回来，说让我们等他钓回来的鱼。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "头像=陈登",
+      "emotion": "世子——傅融——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……他已经回来了？好大一台货车，他钓到了什么了？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "——虽然没有钓到鱼，但是我们在崖下钓到了好大几箱金银礼器！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "咦？是我弄丢的那几箱吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "陈公子！照你的计划来！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "好！去喊一声食官，将招待使者的菜品扛上来！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "司马朗",
+      "text": "头像=黑人影",
+      "emotion": "我对猪肉之外的肉都不太受用。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "那喝我的酒吧。我们还给公子安排了歌舞表演。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "啊。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "阿蝉怎么了？房梁上有东西吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "断。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "什么？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "头像=阿蝉",
+      "emotion": "好像，它又要断了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "哈哈……怎么可能，不是刚刚让小鸦修好吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "她好像，只是拿浆糊，粘起来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "哎？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "礼服、礼器、白马都筹备好了……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "今日试穿礼服，还有不合身的地方吗？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "头像=宫女",
+      "emotion": "袖口、衣摆还有些小改动。刺绣的修葺需要三日……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "周群",
+      "text": "时间来得及，应该都妥当了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "世子，既然试穿完了，我们就先将它收入库房了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "好。礼服的禁布有些松了，收拾的时候小心些。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "是……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "女官",
+      "text": "哪来的野猫？！礼服！礼服——",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "绣房的绣娘们看了，就算全力修补，至少也需要半个月才行。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "陈登",
+      "text": "底布、垂饰全都坏了，几乎等于重做。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-无语",
+      "emotion": "到底是哪来的猫……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……永远都搞不懂猫在想什么。这种礼服，有办法借到吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "亲王的王袍，怎么可能能借到……别的亲王肯不肯借都不一定。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "我和浮丘想办法去幽州借吧，刘虞一定愿意的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-难过",
+      "emotion": "那也太远了，就算有浮丘，也不一定能在日程中归来……再说，万一刘虞不愿意呢？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "看着不算很难……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你会修？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "……没试过，只看过。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "我来试试。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "小蝉早上带着一个包袱，策马出门了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "说实话，我有不祥的预感……因为你的礼服也不见了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "………………该不会是……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……嗯，可能发现实在修不好，或者修的时候出了大问题……结果就跑了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "必须找到她……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "她日出时走的，现在可能都已经出界碑了，没人知道她在哪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "……让小鸦带着绣云鸢去找。哪怕只有蛛丝马迹都可能是转机。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "西北那边的军阀？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "嗯。有几队西北边陲的军阀来了关中，目的不明。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不知道是单纯的贸易，还是想投奔关中的士族。有一支人马已经去找了陶谦。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "小蝉最后的踪迹和他们重叠了。我有点担心她的安危……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "……边陲的军阀和部队……太危险了，她孤身一人！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "你看前面——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "阿蝉！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "他们好像没有动兵器。也许有谈的余地。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "小蝉离他们太近，贸然动手，可能会有危险！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "你说得对……你们听得懂关中话吗？我们可以谈谈！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "你们想要什么，我们都可以谈！不要伤害她！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "西凉军",
+      "text": "头像=西凉军乙",
+      "emotion": "……？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你没事就好！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "礼服……礼服……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "别管礼服了，我们先撤！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "礼服还在中军……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "中军？你是说，你带着礼服出来找能修礼服的人，结果礼服被弄丟了，被西凉军抢了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "去硬抢回来，是不是太冒险了？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "而且被西凉军抢走，礼服指不定变成什么无可挽回的样子了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "……不管怎样，都先去周边看看吧。毕竟是广陵王一脉历代相传的礼服。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "这个！这个！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "他们没带走礼服？！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "修好了……！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "？！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "阿蝉",
+      "text": "真的！修好了！真的！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "再等等吧，也许她去想办法了，会尽快回来的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你也太相信她了，她连关中话都说不利落！",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "不相信也没有别的办法，你知道她去哪了吗？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……她马速极快，日出时走的，没人知道她去了哪。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "……所以，除了等，没有别的办法了……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "好像做梦一样……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "是啊。中间好几次以为要搞砸了呢。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "礼官",
+      "text": "头像=文官",
+      "emotion": "请广陵世子仪仗入城——"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "怎么了，傅融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……没什么。昨夜没休息好。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "你们可以先去谒舍休息。今日晚了，内廷应该不会召见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "那你呢？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "我还是要换上常服，去待漏室等候召见。等内廷传话出来，今日天子明确不召见，才能回谒舍。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "要等多久？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "不知道。可能一两个时辰，可能一整夜。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "醒醒……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "唔……傅融？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "你怎么进来的？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "外面侍卫放我进来的，你又不是坐牢。我说自己是世子随行人员，来送个东西。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "要等多久啊？干脆别等了吧。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "不行。私自离开，不等传召，被报上去就是大不敬。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "要不然……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我们交换。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "换一件外套就行。反正天晚了，他们也不认识我们的脸。你回去休息，等白天了再来换我。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "到时候就假称更衣，无人时再换回来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……你怎么了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "我没怎么。徐庶心疼你，催着我来跟你商量。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "…………不至于吧？一夜而已，大不了抱个软垫应付着睡一觉，又不是吃酷刑。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "为了这一夜横生枝节……若出了意外，岂不是麻烦？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……我也这么跟徐庶说。但你也知道她性子，想法天马行空的，劝不住。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "哈……习惯就好。等回去了，我再劝劝她。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "你不要跟她提。免得人家多心，以为我告黑状。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "徐庶前辈才不会多心呢。你今夜怎么了？说话奇奇怪怪的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "靠着，一起说说话吧。一个人待着，太无聊了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……好，说说话吧。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "难怪那天陈登笑你……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "笑我？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "他说陈氏的庄园今年要换苗，种青麦。他带着麦苗给我看，你在旁边……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "你说，这韭菜长得真矮。扑哧……哈哈……哈哈哈哈……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "哈……原来不是韭菜？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "长得很像吧？陈登回头说起这事，说，幸好傅融没留在老家种地，不然连种什么都不知道。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "呼……你是不是困了？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "不困。就是有点紧张。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-挑眉",
+      "emotion": "你紧张什么？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……紧张你的事，怕你出岔子。要不要喝酒定定神？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……真是奇了，你居然主动提议喝酒？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "徐庶的主意，怕你太紧张了，让我带了一壶酒来。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "不能多喝，万一明天醉酒失仪就糟糕了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "闻味道，应该不是很烈的酒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "那就一人一半！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "不喝吗？自己带来的酒。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……好。我分一半。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-疲惫",
+      "emotion": "………………"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-惊讶",
+      "emotion": "……………………………………？！！！！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-生气",
+      "emotion": "傅融！傅融！醒醒！傅融！！！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……唔……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-严肃",
+      "emotion": "……我……臣有罪，臣贪眠误时，望请恕罪！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=男文人",
+      "emotion": "世子，不必惊慌。虽然误时，但陛下仁德，没有怪罪。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=男文人",
+      "emotion": "陛下念在世子年少、舟车劳顿，又在待漏室等候一夜，允世子稍作休整，午后觐见。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "万谢……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "居然没有被重罚，真是意外……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=男文人",
+      "emotion": "昨日是皇子协的生辰宴，陛下心情愉悦。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=男文人",
+      "emotion": "世子之后可要谨言慎行，端正礼数。下一次，可就没有这样的好日子了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "又延了三日？",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-点头",
+      "emotion": "嗯，好像张让跟天子说我神色疲惫，内廷来传了话，让我在谒舍多歇息三日，典礼延后。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "但是三日后……三日后是大雨啊！"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "你确定吗？你测算天气一向不太准的。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "头像=傅融",
+      "emotion": "……大雨……"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "这么大的雨，还是算得准的。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "徐庶",
+      "text": "好可惜……一生一次的大典，居然要撞上雨天了。",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "史子眇",
+      "text": "头像=史子眇",
+      "emotion": "哈……别这样说，其实雨天未必是坏事呢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=男文人",
+      "emotion": "世子小心脚下，前面有几块地砖松动了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "多谢。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "文官",
+      "text": "头像=男文人",
+      "emotion": "真是的……明明是要举办大典的正道，怎么还会有这样不得体的地方？"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-微笑",
+      "emotion": "……好漂亮。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "我",
+      "text": "头像=世子常服-摇头",
+      "emotion": "我不能喝。万一明日殿前失仪，所有的努力就都白费了。"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "……",
+      "emotion": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "傅融",
+      "text": "是吗。也好。",
+      "emotion": ""
+    },
+    {
+      "type": "narration",
+      "text": "__NOTOC__"
+    },
+    {
+      "type": "narration",
+      "text": "分类活动剧情"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdh\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhleft\"广陵成长计划/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mapdhright\""
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdh"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "overflowhidden;"
+    },
+    {
+      "type": "narration",
+      "text": "margin10px 0px;"
+    },
+    {
+      "type": "narration",
+      "text": "displaytable;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft"
+    },
+    {
+      "type": "narration",
+      "text": "displaytablecell;"
+    },
+    {
+      "type": "narration",
+      "text": "verticalalign middle;"
+    },
+    {
+      "type": "narration",
+      "text": "width140px;"
+    },
+    {
+      "type": "narration",
+      "text": "padding10px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontweightbold;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize16px;"
+    },
+    {
+      "type": "narration",
+      "text": "background7B5F44;"
+    },
+    {
+      "type": "narration",
+      "text": "colorF2E3C6;"
+    },
+    {
+      "type": "narration",
+      "text": "textaligncenter;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright"
+    },
+    {
+      "type": "narration",
+      "text": "displaytablecell;"
+    },
+    {
+      "type": "narration",
+      "text": "verticalalign middle;"
+    },
+    {
+      "type": "narration",
+      "text": "widthcalc(100%  100px);"
+    },
+    {
+      "type": "narration",
+      "text": "padding10px;"
+    },
+    {
+      "type": "narration",
+      "text": "colorcbbba4;"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundeee;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan"
+    },
+    {
+      "type": "narration",
+      "text": "float left;"
+    },
+    {
+      "type": "narration",
+      "text": "width 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "color 848080!important;"
+    },
+    {
+      "type": "narration",
+      "text": "background DCCF9E;"
+    },
+    {
+      "type": "narration",
+      "text": "padding 3px 10px;"
+    },
+    {
+      "type": "narration",
+      "text": "textalign center;"
+    },
+    {
+      "type": "narration",
+      "text": "borderradius 4px;"
+    },
+    {
+      "type": "narration",
+      "text": "margin4px;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhanhover"
+    },
+    {
+      "type": "narration",
+      "text": "backgroundEAECF0;"
+    },
+    {
+      "type": "narration",
+      "text": "transition.2s;"
+    },
+    {
+      "type": "narration",
+      "text": "@media only screen and (maxwidth759px)"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhan"
+    },
+    {
+      "type": "narration",
+      "text": "width48%;"
+    },
+    {
+      "type": "narration",
+      "text": "margin4px 1%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhleft"
+    },
+    {
+      "type": "narration",
+      "text": "displayblock;"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": ".mapdhright"
+    },
+    {
+      "type": "narration",
+      "text": "displayblock;"
+    },
+    {
+      "type": "narration",
+      "text": "width100%;"
+    },
+    {
+      "type": "narration",
+      "text": "css"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 100px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 120px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 4rem;"
+    },
+    {
+      "type": "narration",
+      "text": "color 5c0202;"
+    },
+    {
+      "type": "narration",
+      "text": "@media screen and (maxwidth 600px)"
+    },
+    {
+      "type": "narration",
+      "text": ".chengzhang"
+    },
+    {
+      "type": "narration",
+      "text": "width 120% !important;"
+    },
+    {
+      "type": "narration",
+      "text": "transform translateX(8%);"
+    },
+    {
+      "type": "narration",
+      "text": ".title"
+    },
+    {
+      "type": "narration",
+      "text": "position absolute;"
+    },
+    {
+      "type": "narration",
+      "text": "top 38px;"
+    },
+    {
+      "type": "narration",
+      "text": "left 50px;"
+    },
+    {
+      "type": "narration",
+      "text": "fontsize 2rem;"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"mainlinewrap\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabs\""
+    },
+    {
+      "type": "narration",
+      "text": "ul class\"resptabslist clearfix\" style\"margin15px 5px\""
+    },
+    {
+      "type": "narration",
+      "text": "li class\"active bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "li class\"bililiststyle\"/li"
+    },
+    {
+      "type": "narration",
+      "text": "/ul"
+    },
+    {
+      "type": "narration",
+      "text": "div style\"overflowauto;\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabscontainer\""
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"style\"displayblock\"!陈登"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''陈登·线索1'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''陈登·线索2'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''陈登·线索3'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''陈登·线索4'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''陈登·线索5'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!徐庶"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''徐庶·线索1'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''徐庶·线索2'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''徐庶·线索3'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''徐庶·线索4'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "! 选择1的内容"
+    },
+    {
+      "type": "narration",
+      "text": "相信"
+    },
+    {
+      "type": "narration",
+      "text": "! 选择2"
+    },
+    {
+      "type": "narration",
+      "text": "! 选择2的内容"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''徐庶·线索5'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "! 选择1的内容"
+    },
+    {
+      "type": "narration",
+      "text": "找傅融"
+    },
+    {
+      "type": "narration",
+      "text": "! 选择2"
+    },
+    {
+      "type": "narration",
+      "text": "! 选择2的内容"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!鸢使"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''鸢使·线索1'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''鸢使·线索2'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''鸢使·线索3'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''鸢使·线索4'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''鸢使·线索5'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!阿蝉"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''阿蝉·线索1'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''阿蝉·线索2'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''阿蝉·线索3'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''阿蝉·线索4'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''阿蝉·线索5'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "div class\"resptabcontent\"!傅融"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''傅融·线索1'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''傅融·线索2'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''傅融·线索3'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''傅融·线索4'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "font colorBB996F'''傅融·线索5'''/font"
+    },
+    {
+      "type": "narration",
+      "text": "/div"
+    },
+    {
+      "type": "narration",
+      "text": "/div/div/div/div/divcenter'''span style\"fontsize17px;color1E8EEE\"回到顶部/span/center'''/div"
+    }
+  ],
+  "source_url": "https://wiki.biligame.com/yuan/%E5%B9%BF%E9%99%B5%E6%88%90%E9%95%BF%E8%AE%A1%E5%88%92/%E7%BA%BF%E7%B4%A2%E5%89%A7%E6%83%85",
+  "crawled_at": "2026-04-12T22:00:53.540830",
+  "raw_wikitext": "__NOTOC__\n[[分类:活动剧情]]\n{{面包屑|广陵成长计划/活动玩法}}{{JS|Qiantao.js}}{{背景图片|{{filepath:广陵成长计划背景.png}}}}\n<div class=\"map-dh\">\n<div class=\"map-dh-left\">广陵成长计划</div>\n<div class=\"map-dh-right\">\n{{板块|按钮|广陵成长计划/导入剧情|活动导入剧情}}\n{{板块|按钮|广陵成长计划/活动剧情|百姓任务剧情}}\n{{板块|按钮|广陵成长计划/线索剧情|密探线索剧情}}\n{{板块|按钮|广陵成长计划/活动玩法|活动玩法奖励}}\n</div>\n</div>\n{{#css:\n.map-dh {\n    width:100%;\n    overflow:hidden;\n    margin:10px 0px;\n    display:table;\n    border-radius: 4px;\n}\n\n.map-dh-left {\n    display:table-cell;\n    vertical-align: middle;\n    width:140px;\n    padding:10px;\n    font-weight:bold;\n    font-size:16px;\n    background:#7B5F44;\n    color:#F2E3C6;\n    text-align:center;\n}\n\n.map-dh-right {\n    display:table-cell;\n    vertical-align: middle;\n    width:calc(100% - 100px);\n    padding:10px;\n    color:#cbbba4;\n    background:#eee;\n}\n\n.map-dh-an {\n    float: left;\n    width: 120px;\n    color: #848080!important;\n    background: #DCCF9E;\n    padding: 3px 10px;\n    text-align: center;\n    border-radius: 4px;\n    margin:4px;\n}\n\n.map-dh-an:hover {\n    background:#EAECF0;\n    transition:.2s;\n}\n\n@media only screen and (max-width:759px){\n    .map-dh-an {\n        width:48%;\n        margin:4px 1%;\n    }\n\n    .map-dh-left {\n        display:block;\n        width:100%;\n    }\n\n    .map-dh-right {\n        display:block;\n        width:100%;\n    }\n}\n}}\n{{#css:\n.title{\n    position: absolute;\n    top: 100px;\n    left: 120px;\n    font-size: 4rem;\n    color: #5c0202;\n    }\n    \n @media screen and (max-width: 600px){\n    .chengzhang{\n        width: 120% !important;\n        transform: translateX(-8%);\n    }\n    .title{\n        position: absolute;\n        top: 38px;\n        left: 50px;\n        font-size: 2rem;\n    }\n}\n}}\n\n\n<div class=\"main-line-wrap\">\n<div class=\"resp-tabs\">\n<ul class=\"resp-tabs-list clearfix\" style=\"margin:15px 5px\">\n<li class=\"active bili-list-style\">{{广陵成长计划|小头像-广陵计划-陈登.png|陈登}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-徐庶.png|徐庶}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-小鸦.png|鸢使}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-阿蝉.png|阿蝉}}</li>\n<li class=\"bili-list-style\">{{广陵成长计划|小头像-广陵计划-傅融.png|傅融}}</li>\n</ul>\n<div style=\"overflow:auto;\">\n<div class=\"resp-tabs-container\">\n<div class=\"resp-tab-content\"style=\"display:block\"><!--陈登-->\n{{对话-头}}\n=<font color=#BB996F>'''陈登·线索1'''</font>=\n{{旁白|【平原】}}\n{{对话|我|前面就是了？已经能看到塔尖了。|头像=世子常服-微笑}}\n{{对话|陈登|上个月开始修缮的浮屠，如今工期已至。|头像=陈登}}\n{{对话|陈登|笮融作乱留下这些浮屠，如今他退守濡水，这些浮屠险些都荒废了。|头像=陈登}}\n{{对话|我|不过重建之后有什么用呢?|头像=世子常服-挑眉}}\n{{对话|陈登|唔……可以在浮屠下开设经坛，周边可以开设集市，设施粥棚……|头像=陈登}}\n{{嵌套分歧|头}}\n{{嵌套分歧|多多益善|1}}\n{{嵌套分歧|有点迟疑|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你对这个提议感到心动，于是不断在广陵兴建浮屠。}}\n{{旁白|结果导致广陵房价大幅度提升。次年，傅融绝望地离开了广陵。}}\n{{旁白|触发结局【房价大涨】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|不过三千浮屠你要全都留下吗？会不会太多？|头像=世子常服-挑眉}}\n{{对话|陈登|多壮丽啊，如果能重塑……|头像=陈登}}\n{{对话|老人|陈公子……是陈公子……|头像=老年男}}\n{{对话|陈登|是乡亲们？你们为何聚在这？怎么满手都是血？|头像=陈登}}\n{{对话|力夫|陈登，你害苦我们了！|头像=屠夫}}\n{{对话|力夫|还以为你是个好人，结果替你做事，居然被工头打骂克扣，过得不如牲畜！|头像=屠夫}}\n{{对话|老人|三个月拿不到钱粮，家里已经有饿死的了啊！|头像=老年男}}\n{{对话|陈登|我明明让他们保证每人每日有一两粳米，一瓠黄米，另有菜蔬和工钱……|头像=陈登}}\n{{对话|我|中间会不会被人克扣了？工头呢？|头像=世子常服-严肃}}\n{{对话|陈登|世子见笑了……乡亲们先回去休息吧，我会替各位查明缘由、主持公道的！|头像=陈登}}\n{{对话|我|我和你一起去。这种苛待之人，绝不能轻易放过！|头像=世子常服-严肃}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n=<font color=#BB996F>'''陈登·线索2'''</font>=\n{{旁白|【街道】}}\n{{对话|陈登|陈氏派你来督管工程，我却见到百姓被虐待。谁让你这么做的？|头像=陈登}}\n{{对话|工头|公子，你可真是不知柴米油盐贵的贵公子呦。这帮子刁民，不狠狠管教是不会好好干活的。|头像=摊贩}}\n{{对话|工头|放一万个心交给我，规矩我懂的，肯定会把工事做完。你是太善心了，别信那些人的装可怜。|头像=摊贩}}\n{{对话|陈登|那克扣的工钱呢，也是陈氏的规矩吗？|头像=陈登}}\n{{对话|工头|大公子，事情交给我办，你不必去问他们什么，只要知道我能替你把事情办完就是了。|头像=摊贩}}\n{{对话|我|你是受谁介绍委托，拿到这个工事的？|头像=世子常服-严肃}}\n{{对话|工头|哈，那你可要问问大公子了。|头像=摊贩}}\n{{对话|陈登|……他是陈氏的长老推举来的远亲。|头像=陈登}}\n{{嵌套分歧|头}}\n{{嵌套分歧|劝他让步|1}}\n{{嵌套分歧|换人|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|工期依旧难以推进，怨声载道。陈登心情抑郁，我陪陈登去钓鱼，误入桃花林，缘溪行……}}\n{{旁白|我们成为桃源村的居民，再也没有离开。}}\n{{旁白|触发结局【桃源】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|一口一个长老，不就是狐假虎威？|头像=世子常服-严肃}}\n{{对话|我|陈登，换掉此人，避免被人掣肘。|头像=世子常服-严肃}}\n{{对话|陈登|世子言之有理。|头像=陈登}}\n{{对话|陈登|你回去吧。我会另派人督管浮屠工事，你不必再来了。|头像=陈登}}\n{{对话|工头|……|头像=摊贩}}\n{{对话|工头|行，行。我替你忙里忙外，还要被人厌弃。行，都是小人的错。呵……|头像=摊贩}}\n{{旁白|【平原】}}\n{{对话|陈登|工地被弄得一片狼藉，他们都守在那，不让工人们进去……|头像=陈登}}\n{{对话|我|那人一走，紧接着流氓就来了，看来是不想让你继续修成。|头像=世子常服-严肃}}\n{{对话|陈登|世子放心，晚生不会让步的。|头像=陈登}}\n{{对话|我|……什么？|头像=世子常服-惊讶}}\n{{对话|陈登|我说晚生……|头像=陈登}}\n{{对话|我|对，晚生。为什么突然自称晚生了？你比我大吧？|头像=世子常服-挑眉}}\n{{对话|陈登|哎？虽然是，但是作为自谦……|头像=陈登}}\n{{对话|我|自谦也很奇怪啊，有没有别的更自然的称呼？|头像=世子常服-微笑}}\n{{对话|陈登|……唔……|头像=陈登}}\n{{对话|我|徐庶前辈就会自称老子……|头像=世子常服-微笑}}\n{{对话|陈登|不行不行！那也太……太江湖气了。那就……在下?|头像=陈登}}\n{{对话|我|好见外啊。|头像=世子常服-微笑}}\n{{对话|陈登|为兄？不行不行……太失礼了……|头像=陈登}}\n{{对话|陈登|唔……|头像=陈登}}\n{{对话|流氓|喂，你们俩叽叽喳喳啥呢？|头像=强盗}}\n{{对话|我|等人的时候闲聊一下而已。|头像=世子常服-严肃}}\n{{对话|流氓|等人？|头像=强盗}}\n{{对话|我|等能打飞你们的人从她露水情缘的家里赶过来……|头像=世子常服-严肃}}\n{{对话|徐庶|剑来——|头像=徐庶}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''陈登·线索3'''</font>=\n{{旁白|【陈氏宅邸】}}\n{{对话|陈氏长老|元龙，你带着世子在那浮屠塔胡闹多日了，该回家了。|头像=贵族老年男}}\n{{对话|陈登|浮屠的修缮并未结束。|头像=陈登}}\n{{对话|陈氏长老|工期都停了，算了吧。|头像=贵族老年男}}\n{{嵌套分歧|头}}\n{{嵌套分歧|质问长老|1}}\n{{嵌套分歧|替陈登说话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你一通字字诛心的质问，引发了长老的心脏病。}}\n{{旁白|长老猝死，陈氏要求了巨额赔偿，导致了王府的破产……}}\n{{旁白|触发结局【王府破产】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|修浮屠而已，长老为何咄咄逼人？|头像=世子常服-严肃}}\n{{对话|陈氏长老|陈氏为世子继位准备了许多，看在元龙的面子上，已经竭力给你体面了。|头像=贵族老年男}}\n{{对话|陈氏长老|世子是不知感恩的吗？那么多等着陈氏扶持的人，你又能为陈氏做什么？|头像=贵族老年男}}\n{{对话|我|陈登有仁政之心，与我不谋而合……|头像=世子常服-严肃}}\n{{对话|陈氏长老|乱世岂容仁政？|头像=贵族老年男}}\n{{对话|我|不过就是想贪污工程款项吃自己家的回扣中饱私囊，装什么清醒？！|头像=世子常服-愤怒}}\n{{对话|陈登|世、世子？|头像=陈登}}\n{{对话|我|今天这浮屠不管陈登想不想建，我都建。陈登，我的话放在这了，等你一句话，你想不想建？|头像=世子常服-愤怒}}\n{{对话|陈登|……嗯，晚生想建。|头像=陈登}}\n{{对话|陈氏长老|陈登！你是喝了什么迷魂汤了吗？！我是长老！是你的长辈！|头像=贵族老年男}}\n\n{{旁白|【室内】}}\n{{对话|陈氏长老|你们竟然拿族内的账册威胁我？|头像=贵族老年男}}\n{{对话|我|威胁？这些账册上的猫腻，长老看来很清楚？|头像=世子常服-严肃}}\n{{对话|陈登|长老，这些年，你私吞族内的收入款项，这些是清单。|头像=陈登}}\n{{对话|陈登|此事若追究，虽然无法有什么处罚，但彼此脸面上也一定不会很好看。|头像=陈登}}\n{{对话|我|这是陈氏的家事，你们自己商量。只是……浮屠可以继续修了吧？|头像=世子常服-严肃}}\n{{对话|陈氏长老|呵……修吧。|头像=贵族老年男}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''陈登·线索4'''</font>=\n{{旁白|【浮屠】}}\n{{对话|陈登|再过几日就算正式落成了，到时便能来此祈福颂德。|头像=陈登}}\n{{对话|我|连台阶都是石雕莲华……真是华美。|头像=世子常服-惊讶}}\n{{对话|路人|不愧是权倾徐州的大豪族啊，也只有陈氏才能重修几千座这样的奇观了……|头像=男文人}}\n{{对话|陈登|哪里哪里，都是乡亲们的功劳。|头像=陈登}}\n{{对话|妇人|这种东西有什么用……|头像=平民母亲}}\n{{嵌套分歧|头}}\n{{嵌套分歧|无视|1}}\n{{嵌套分歧|好奇她的话|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你无视了她，继续和陈登庆祝浮屠的建成。大家载歌载舞时，你突然觉醒了歌舞天赋！}}\n{{旁白|与其执着于俗世的斗争，何不醉心歌舞艺术，精研内心世界，获得真正的平静呢？}}\n{{旁白|触发结局【载歌载舞】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|为何这样说？|头像=世子常服-惊讶}}\n{{对话|妇人|你知道这座浮屠是建在我家田上的吗？|头像=平民母亲}}\n{{对话|妇人|笮融要在徐州修百座浮屠，我的房子和田就被烧得一干二净！|头像=平民母亲}}\n{{对话|老人|唉，别说了……我家的田也是……|头像=老年男}}\n{{对话|老人|算了，好歹还有陈氏给的工钱啊，别说了……|头像=老年男}}\n{{对话|妇人|我不说，他还以为他做了天大的好事！|头像=平民母亲}}\n{{对话|陈登|这……晚生确实不知……|头像=陈登}}\n{{对话|我|诸位冷静些，陈登并不知晓此事……唔！|头像=世子常服-生气}}\n{{对话|陈登|不要动手……啊！|头像=陈登}}\n{{对话|力夫|你再气也不能朝陈公子和世子丢石头啊，他们又不是坏人！|头像=屠夫}}\n{{对话|我|没事吧，陈登……|头像=世子常服-严肃}}\n{{对话|陈登|我没事……府兵，将她放开！不得动粗！|头像=陈登}}\n{{对话|陈登|我此前并不知此事，如今知晓，内心万分愧疚……|头像=陈登}}\n{{对话|妇人|那你可将我家的田地归还？没有了田，我全家只得卖身为奴！|头像=平民母亲}}\n{{对话|妇人|徐氏庄子的庄头根本不拿庄上的家奴当人，我三名儿女全部饿死，你能还我们吗？|头像=平民母亲}}\n{{对话|陈登|我……|头像=陈登}}\n{{对话|妇人|看！他根本舍不得浮屠！哪有什么君子，豪强大公子，怎么可能对我们有垂怜？！|头像=平民母亲}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''陈登·线索5'''</font>=\n{{旁白|【浮屠】}}\n{{对话|我|陈登。|头像=世子常服-微笑}}\n{{对话|陈登|啊，是世子啊……|头像=陈登}}\n{{对话|我|这么晚了，他们说你带了几名亲信外出，我担心你，就跟来看看。|头像=世子常服-微笑}}\n{{对话|陈登|白天不便……所以只好在夜里开工……|头像=陈登}}\n{{对话|我|好不容易修好的浮屠，你又趁夜偷偷拆掉……不可惜吗。|头像=世子常服-难过}}\n{{对话|陈登|不拆掉浮屠，怎么把田地还给百姓。|头像=陈登}}\n{{对话|陈登|所谓福德，既在此地。有没有浮屠，都是一样的。|头像=陈登}}\n{{嵌套分歧|头}}\n{{嵌套分歧|劝阻|1}}\n{{嵌套分歧|同意|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|陈登没有及时拆除浮屠，还是留下了许多浮屠。}}\n{{旁白|本地士族纷纷效仿，劳民伤财。当乱军攻占广陵时，你置身火海之中，浮屠只是静静地望着你。}}\n{{旁白|触发结局【乱军攻占】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|也是，可你这样拆，要拆到什么时候？|头像=世子常服-点头}}\n{{对话|我|我来。|头像=世子常服-微笑}}\n{{对话|力工|浮屠……烧起来了。|头像=难民}}\n{{对话|陈登|是啊，烧得夜空都亮了。|头像=陈登}}\n{{对话|陈登|……也好。烧完后，才会有新的希望。|头像=陈登}}\n{{对话|我|你心疼吗？|头像=世子常服-微笑}}\n{{对话|陈登|为何？浮屠是砖石所造，善缘是人心一念。|头像=陈登}}\n{{对话|陈登|砖石无善恶悲喜，何为悲喜，皆在人心。|头像=陈登}}\n{{对话|陈登|这些青草作物，原是要供奉的祭品……如此，便一起付之一炬吧。|头像=陈登}}\n{{对话|我|好，以这场火为见证，我从此懂了元龙。|头像=世子常服-点头}}\n{{对话|陈登|我也懂了世子。|头像=陈登}}\n{{对话|陈登|还有许多浮屠……劳烦世子，与我同行了。|头像=陈登}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--徐庶-->\n{{对话-头}}\n\n=<font color=#BB996F>'''徐庶·线索1'''</font>=\n{{旁白|【广陵王府】}}\n{{对话|年轻公子|来人啊！大家都来看看！左慈女弟子始乱终弃！|头像=美型文官}}\n{{对话|年轻公子|负心人！我知道你在里面，出来啊！|头像=美型文官}}\n{{对话|傅融|徐庶，有人在门口大喊大叫，拉横幅找你。|头像=傅融}}\n{{对话|徐庶|不是我吧，喊的是左慈女弟子嘛。这个鸭血可以吃了，小宝，二牛，快吃。|头像=徐庶}}\n{{嵌套分歧|头}}\n{{嵌套分歧|夹鸭血|1}}\n{{嵌套分歧|放下碗|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|大家继续吃火锅，外面下起了很大的雪，你想起了隐鸢阁的时光。锅里红油翻滚，大家其乐融融。你不知不觉吃了太多，迅速变胖，穿不下王袍，误了大典……}}\n{{旁白|触发结局【红油翻滚】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|……前辈，管管吧。|头像=世子常服-严肃}}\n{{对话|徐庶|唉……好吧。|头像=徐庶}}\n{{对话|徐庶|那个，你是哪个？……？哎呦，手这么凉呀。|头像=徐庶}}\n{{对话|徐庶|脸也冻红了，怎么站在外面吹风？找个避风的地方嘛，瓜娃。|头像=徐庶}}\n{{对话|年轻公子|你……为什么不来找我，非要我主动找你吗……|头像=美型文官}}\n{{对话|徐庶|江湖儿女，只要心里记得，哪里都能相见，现在不就见面了吗？|头像=徐庶}}\n{{对话|徐庶|要进去一起吃火锅吗？一家人热热闹闹的。|头像=徐庶}}\n{{对话|我|你坐这吧。吃鸭血吗?|头像=世子常服-微笑}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''徐庶·线索2'''</font>=\n{{旁白|【广陵王府】}}\n{{对话|老人|乡亲们……乡亲们……左慈女弟子始乱终弃……|头像=老年男}}\n{{对话|老人|我知道你在里面，出来啊！|头像=老年男}}\n{{对话|傅融|徐庶，又有人在门口大喊大叫，拉横幅找你。|头像=傅融}}\n{{对话|徐庶|啊？|头像=徐庶}}\n{{对话|傅融|年纪很大了，我拿了个坐垫给他。|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|去见见他|1}}\n{{嵌套分歧|震惊|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你安抚老人的情绪，听他自己的故事。}}\n{{旁白|一个两个三个……因为听太入迷，你把老人的故事记录了下来。}}\n{{旁白|结果这卷人物手札红遍徐州南北！你成为本地书肆的新宠，光靠卖书的版税，硬生生买下了徐州牧之位！}}\n{{旁白|触发结局【徐州牧】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|……前辈，你是不是……是不是有点过分了？|头像=世子常服-严肃}}\n{{对话|徐庶|这次这个我真不认识！|头像=徐庶}}\n{{对话|我|真的？|头像=世子常服-无语}}\n{{对话|徐庶|八成……真的。|头像=徐庶}}\n{{对话|徐庶|真不记得啦，谁记得前天晚饭吃了啥子哦？|头像=徐庶}}\n{{对话|傅融|红豆八宝饭。|头像=傅融}}\n{{对话|我|老鸭扁尖汤。|头像=世子常服-严肃}}\n{{对话|徐庶|……|头像=徐庶}}\n{{对话|徐庶|算了，我去看看。|头像=徐庶}}\n{{对话|傅融|……这么快回来了？看完了吗？|头像=傅融}}\n{{对话|徐庶|看了看了，差点认不出来了，四十年前的事……|头像=徐庶}}\n{{对话|徐庶|看我干啥？谁记得自己四十年前干过啥嘛。|头像=徐庶}}\n{{对话|我|我肯定记得。|头像=世子常服-严肃}}\n{{对话|傅融|我也肯定记得。|头像=傅融}}\n{{对话|徐庶|我不信，我们打个赌，四十年后我再来问你们俩，今天吃了啥。|头像=徐庶}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''徐庶·线索3'''</font>=\n{{旁白|【广陵王府】}}\n{{对话|老妇|左慈……女弟子……|头像=平民母亲}}\n{{对话|老妇|我知道你在里面，出……咳咳……来……|头像=平民母亲}}\n{{对话|傅融|徐庶，门口又有人拉横幅找你。|头像=傅融}}\n{{对话|我|……|头像=世子常服-无语}}\n{{嵌套分歧|头}}\n{{嵌套分歧|关门|1}}\n{{嵌套分歧|发火|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你下令，只要见到来找徐庶的人，统统赶走。}}\n{{旁白|王府上下坚决执行，你最终训练出一支能对抗千军万马的无敌队伍。你在永无止境的赶人中，独孤求败。}}\n{{旁白|触发结局【独孤求败】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|我受不了了……|头像=世子常服-无语}}\n{{对话|傅融|我也是……|头像=傅融}}\n{{对话|我|徐庶前辈，这已经是本月第二十三个堵在门口找左慈弟子负责的人了！|头像=世子常服-生气}}\n{{对话|傅融|我走在街上都不敢承认我是广陵王府的人！|头像=傅融}}\n{{对话|我|你露水就露水了，为什么每次都留我的名号和住址啊？！|头像=世子常服-生气}}\n{{对话|徐庶|以前我都留令狐茂的……|头像=徐庶}}\n{{对话|我|你为啥不留葛洪的？葛洪会很乐意吧？！|头像=世子常服-生气}}\n{{对话|徐庶|我也留过啊！但他就是嘴上说说，每天都忙着照顾水镜！|头像=徐庶}}\n{{对话|傅融|你们隐鸢阁到底是个什么组织……|头像=傅融}}\n{{对话|我|这件事情如果让师尊知道，根本没法收场啊！——唔！|头像=世子常服-严肃}}\n{{对话|徐庶|小宝你吃个丸子，替我瞒一瞒嘛！|头像=徐庶}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''徐庶·线索4'''</font>=\n{{旁白|【广陵王府】}}\n{{对话-头}}\n{{对话|马|嘶嘶嘶——嘶——}}\n{{对话|马|嘶嘶嘶嘶嘶——}}\n{{对话|傅融|徐庶，门口有马拉横幅找你。|头像=傅融}}\n{{对话-尾}}\n\n{{分歧\n|崩溃\n<!-- 选择1 -->\n|{{旁白|徐庶决定离开广陵，游历天下。}}\n{{旁白|不久后，各路军阀兵临徐州。所有人的旗子上都是一句话——左慈女弟子给个说法。}}\n{{旁白|触发结局【兵临徐州】}}\n<!-- 选择1的内容 -->\n|相信\n<!-- 选择2 -->\n|{{对话|傅融|门口的马越来越多了……|头像=傅融}}\n{{对话|我|黑的白的，纯的花的，老的少的……|头像=世子常服-无语}}\n{{对话|傅融|这边在吃我种的菜了……等等，那匹也是马吗？|头像=傅融}}\n{{对话|我|是犀牛。|头像=世子常服-无语}}\n{{对话|傅融|她连不是人的都能撩吗？|头像=傅融}}\n{{对话|我|是的。她从前还撩过雪山里的麒麟。|头像=世子常服-无语}}\n{{对话|傅融|……结果呢？|头像=傅融}}\n{{对话|我|……不能说。反正最后是师尊出面才解决了。|头像=世子常服-摇头}}\n{{对话|傅融|解决了问题？|头像=傅融}}\n{{对话|我|解决了麒麟。|头像=世子常服-无语}}\n<!-- 选择2的内容 -->\n}}\n\n=<font color=#BB996F>'''徐庶·线索5'''</font>=\n{{旁白|【广陵王府】}}\n{{对话-头}}\n{{对话|小鸦|世子不好了，从天上掉下来那——么大一块石头！|头像=鸢使}}\n{{对话|小鸦|整个石头着着火！把花园砸了个大坑！|头像=鸢使}}\n{{对话|我|天、天降陨石？！|头像=世子常服-生气}}\n{{对话|小鸦|对。石头上还写着一句话。|头像=鸢使}}\n{{对话|小鸦|“左慈女弟子始乱终弃”。|头像=鸢使}}\n{{对话-尾}}\n\n{{分歧\n|找徐庶\n<!-- 选择1 -->\n|{{旁白|徐庶像人间蒸发了一样，你怎么也找不到。}}\n{{旁白|有一天，陨石如骤雨砸向广陵王府，每个陨石上写着，“万万万万里寻觅负心人”，你被陨石砸中……}}\n{{旁白|触发结局【陨石】}}\n<!-- 选择1的内容 -->\n|找傅融\n<!-- 选择2 -->\n|{{对话|我|傅融，叫几个人，把石头搬走。|头像=世子常服-严肃}}\n{{对话|傅融|这件事情有点超出我的理解范围了。|头像=傅融}}\n{{对话|我|我如果能理解，早就大彻大悟成仙了。|头像=世子常服-无语}}\n{{对话|我|前辈，别站在一旁不出声，来帮忙！|头像=世子常服-严肃}}\n{{对话|徐庶|好嘛，你个娃儿好凶嘛——|头像=徐庶}}\n{{对话|阿蝉|裂开了？|头像=阿蝉}}\n{{对话|小鸦|什么裂开了……石头裂开了！|头像=鸢使}}\n{{对话|傅融|大家别动，口子越裂越大……|头像=傅融}}\n{{对话|傅融|石头里面……滚出个小石头……|头像=傅融}}\n{{对话|我|……小石头飞起来了！|头像=世子常服-惊讶}}\n{{对话|徐庶|！！！|头像=徐庶}}\n{{对话|徐庶|别冲着我来噻！啊——|头像=徐庶}}\n{{对话|我|前辈被砸晕了……|头像=世子常服-惊讶}}\n<!-- 选择2的内容 -->\n}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--鸢使-->\n{{对话-头}}\n\n=<font color=#BB996F>'''鸢使·线索1'''</font>=\n{{旁白|【酒楼】}}\n{{对话|小鸦|吃饱了，我们走吧！|头像=鸢使}}\n{{对话|小鸦|啊……我没带钱，世子，你带了吗？|头像=鸢使}}\n{{对话|我|……不想惊扰百姓，于是微服出来了……没有带钱和首饰……|头像=世子常服-汗颜}}\n{{对话|小鸦|呃。|头像=鸢使}}\n{{嵌套分歧|头}}\n{{嵌套分歧|溜走|1}}\n{{嵌套分歧|找老板商量|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你吃霸王餐的事被广而告之。因为太过丢人，你以后每次出门都随身带足钱。}}\n{{旁白|因为随身钱财太重，你拥有了健壮的身躯，越来越壮、越来越壮壮壮……}}\n{{旁白|终于有一天，你变成了四开门狂徒。继位大典时卡在了德阳殿宫门上，错过吉时。}}\n{{旁白|触发结局【四开门】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|小鸦|老板，我们俩忘记带钱啦，先赊着行不行？|头像=鸢使}}\n{{对话|老板|想什么美事？真没带钱就洗盘子抵债吧！|头像=摊贩}}\n{{对话|我|稍等，我想想办法。小鸦，你先洗着……|头像=世子常服-生气}}\n{{对话|我|——傅融，江湖救急！|头像=世子常服-生气}}\n{{对话|心纸君（傅融）|…………哪个酒楼？我过来。|头像=傅融小纸人}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n=<font color=#BB996F>'''鸢使·线索2'''</font>=\n{{旁白|【日间】}}\n{{对话|傅融|我的工作内容是管理世子日程、府内开支会计，不包括随叫随到给你们买单。|头像=傅融}}\n{{对话|我|也可以包括嘛。|头像=世子常服-微笑}}\n{{对话|傅融|那是另外的……唔，你们看，前面有人家在出殡。|头像=傅融}}\n{{对话|我|回避一下吧。好大的阵仗……是本地的豪门吗？|头像=世子常服-微笑}}\n{{对话|傅融|小鸦，快回避一下，别盯着看。出殡有什么好看的吗？|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|直接离开|1}}\n{{嵌套分歧|上前围观|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你直接离开，没有在意。}}\n{{旁白|不久后，在某夜熟睡时，你听见了偃甲的声音……}}\n{{旁白|“窝藏……血书派叛徒……清理……”}}\n{{旁白|——你没有再醒来。}}\n{{旁白|触发结局【偃甲】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|不过那些祭祀品可真壮观啊……|头像=世子常服-惊讶}}\n{{对话|我|他们还在沿途散发悬赏令？许氏长公子遇刺，刺客留下钱袋一个，若有知情者……|头像=世子常服-惊讶}}\n{{对话|我|钱袋上绣有一只……|头像=世子常服-严肃}}\n{{对话|我|乌鸦……|头像=世子常服-严肃}}\n{{对话|傅融|乌鸦……|头像=傅融}}\n{{对话|小鸦|世子，傅哥，这家的糖葫芦好甜啊！|头像=鸢使}}\n{{对话|傅融|！！！别吃了，快走！|头像=傅融}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n=<font color=#BB996F>'''鸢使·线索3'''</font>=\n{{旁白|【花园】}}\n{{对话|我|唔……这么晚了，小鸦的房门怎么还没关……明明都没有灯了。|头像=世子常服-挑眉}}\n{{对话|我|小鸦？|头像=世子常服-微笑}}\n{{对话|小鸦|……|头像=鸢使}}\n{{对话|我|小鸦？你在和谁说话？|头像=世子常服-微笑}}\n{{对话|小鸦|唔……！|头像=鸢使}}\n{{对话|小鸦|世子？我才醒。|头像=鸢使}}\n{{对话|我|我听见你屋子里有动静，没事吧？|头像=世子常服-微笑}}\n{{对话|小鸦|没事呀，可能是我在说梦话吧。|头像=鸢使}}\n{{嵌套分歧|头}}\n{{嵌套分歧|继续追问|1}}\n{{嵌套分歧|相信她|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你继续追问小鸦。屋子里静谧无声，你忽然看到一双夜鸦般幽森的眼睛凑近你面前……}}\n{{旁白|“何必呢？”}}\n{{旁白|夜风流淌。当你重新点起灯火，室内只余下你一人。你再也没有见过她。}}\n{{旁白|触发结局【夜鸦】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|陈登送来了一筐小鱼干，我记得你爱吃。|头像=世子常服-微笑}}\n{{对话|小鸦|谢谢！|头像=鸢使}}\n{{对话|我|你屋子里怎么乱糟糟的，还有股味道……？|头像=世子常服-无语}}\n{{对话|小鸦|没事没事，我明天收拾。|头像=鸢使}}\n{{对话|我|……好，那你早点睡。|头像=世子常服-点头}}\n{{对话|我|这墙面……怎么湿漉漉的？|头像=世子常服-严肃}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''鸢使·线索4'''</font>=\n{{旁白|【室内】}}\n{{对话|小鸦|呼……|头像=鸢使}}\n{{对话|小鸦|啊！谁？！是世子？！……怎么不点灯……吓死我了。|头像=鸢使}}\n{{对话|我|等你点。|头像=世子常服-微笑}}\n{{对话|小鸦|好了，世子你……你怎么这么晚了会在我屋里？|头像=鸢使}}\n{{对话|我|等你啊。你晚上偷偷出去，是去做什么？|头像=世子常服-微笑}}\n{{对话|小鸦|唔……找露水情缘呀！|头像=鸢使}}\n{{对话|我|那么巧？你的露水情缘是谁呀？|头像=世子常服-微笑}}\n{{对话|小鸦|呃……是……|头像=鸢使}}\n{{对话|我|不管是谁，我立刻带你去跟他对质。|头像=世子常服-严肃}}\n{{对话|我|不然这可太不像话了，一个徐庶前辈，一个你。不知道的，还以为王府专产负心人呢。|头像=世子常服-严肃}}\n{{对话|小鸦|对！我是负——|头像=鸢使}}\n{{对话|我|说、实、话！|头像=世子常服-严肃}}\n{{嵌套分歧|头}}\n{{嵌套分歧|喊人|1}}\n{{嵌套分歧|生气|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你喊来的人太多了，有人的火把点燃了屋子，王府大火……}}\n{{旁白|你突然觉得这么大的火不用来烧烤浪费了。重建王府后，你把王府改成了广陵烧烤大世界。}}\n{{旁白|触发结局【烧烤】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|就我们俩之间谈一谈。你穿着夜行衣去做什么了？|头像=世子常服-严肃}}\n{{对话|小鸦|我……接了点私活！死士的私活……|头像=鸢使}}\n{{对话|我|接外面的私活，然后杀到广陵王府里了？|头像=世子常服-严肃}}\n{{对话|小鸦|没有呀，在离王府很远的地方动手的。|头像=鸢使}}\n{{对话|我|那墙上的血是从哪来的？我下午查过，你的墙面是前夜临时粉刷的。|头像=世子常服-严肃}}\n{{对话|我|刮掉粉，下面都是血迹。|头像=世子常服-严肃}}\n{{对话|小鸦|……我还得负责分尸和埋尸。我把这个活……带回来了。|头像=鸢使}}\n{{对话|我|尸体在王府里？|头像=世子常服-严肃}}\n{{对话|小鸦|……在后院。|头像=鸢使}}\n{{对话|我|……|头像=世子常服-严肃}}\n{{对话|我|…………|头像=世子常服-惊讶}}\n{{对话|我|阿蝉！傅融！果然有麻烦，快去拿铲子！|头像=世子常服-生气}}\n{{对话|我|把后院的尸体重新埋一遍！深埋！|头像=世子常服-生气}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''鸢使·线索5'''</font>=\n{{旁白|【城门】}}\n{{对话|官差|世子，请停轿。|头像=西凉军丙}}\n{{对话|我|怎么了？|头像=世子常服-惊讶}}\n{{对话|官差|专门寻味的猎犬觉得你轿子里有问题。|头像=西凉军丙}}\n{{对话|官差|许氏长公子遇刺，刺客还没抓到。我训练这些猎犬，靠那个钱包的气味寻找目标。|头像=西凉军丙}}\n{{对话|我|我的轿子里，有你的目标？|头像=世子常服-严肃}}\n{{对话|猎犬|汪汪汪}}\n{{对话|小鸦|……|头像=鸢使}}\n{{对话|我|……|头像=世子常服-无语}}\n{{对话|官差|世子，你身边的那个黑衣少女……|头像=西凉军丙}}\n{{嵌套分歧|头}}\n{{嵌套分歧|跑|1}}\n{{嵌套分歧|周旋|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|小鸦感念你出手相救，向你坦白身份。}}\n{{旁白|不久后，墨家内部争斗爆发。你从此深陷墨家纷争，不可自拔。}}\n{{旁白|触发结局【墨家纷争】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|先不谈这个，你过来，把这个收好。|头像=世子常服-严肃}}\n{{对话|官差|……这……|头像=西凉军丙}}\n{{对话|我|一点心意。|头像=世子常服-微笑}}\n{{对话|官差|世子，这可……|头像=西凉军丙}}\n{{对话|我|嘘……我知道，许氏一定给的更多……我也不是小气的人。|头像=世子常服-严肃}}\n{{对话|我|使君，先拿这些去买酒喝，如果找不到酒伴，今晚来王府一叙吧？|头像=世子常服-严肃}}\n\n{{旁白|【广陵王府】}}\n{{对话|官差|……我来了。世子。我们是去哪里说话？|头像=西凉军丙}}\n{{对话|我|先往那边站一点。|头像=世子常服-严肃}}\n{{对话|官差|为什么？|头像=西凉军丙}}\n{{对话|我|因为那边方便动手。|头像=世子常服-严肃}}\n{{对话|官差|呃——|头像=西凉军丙}}\n{{对话|阿蝉|死了。|头像=阿蝉}}\n{{对话|我|搞定。小鸦，你惹的祸，你抬肩膀。|头像=世子常服-微笑}}\n{{对话|我|傅融，挖的坑够深吗？|头像=世子常服-微笑}}\n{{对话|傅融|放心吧，竖着埋都足够了。|头像=傅融}}\n{{对话|小鸦|要不就竖着埋吧？|头像=鸢使}}\n{{对话|我|能埋就行。再拿一头死猪盖在他尸体上。|头像=世子常服-微笑}}\n{{对话|小鸦|为什么？|头像=鸢使}}\n{{对话|我|有人来查，假如真的查到这个土坑，就大大方方让他们挖。|头像=世子常服-微笑}}\n{{对话|我|他们挖到死猪尸体时，就说是猪瘟死的病猪。这样，查案的人八成不会再往下挖。|头像=世子常服-微笑}}\n{{对话|傅融|好浪费……一整头猪……|头像=傅融}}\n{{对话|我|肯定是自己人比猪重要啊！来，一二三，把他……抬起来……！|头像=世子常服-微笑}}\n{{对话|小鸦|嘿……咻……|头像=鸢使}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--阿蝉-->\n{{对话-头}}\n\n=<font color=#BB996F>'''阿蝉·线索1'''</font>=\n{{旁白|【平原】}}\n{{对话|我|阿蝉，在这里打猎，和西凉那边相比怎么样？|头像=世子常服-微笑}}\n{{对话|阿蝉|小。|头像=阿蝉}}\n{{对话|我|这倒是……毕竟是围猎嘛，肯定没有凉州、并州那样大的游猎地。|头像=世子常服-微笑}}\n{{对话|阿蝉|没关系的。天气好。嘿嘿……|头像=阿蝉}}\n{{对话|我|……看起来心情真的不错，看着天空开始哼歌了……|头像=世子常服-微笑}}\n{{对话|士族青年|这不是世子吗？远远就看到了你和这位淑女。|头像=男文人}}\n{{对话|士族青年|不知是何处寻得的佳人？真是绝色……|头像=男文人}}\n{{对话|士族青年|……啊。|头像=男文人}}\n{{对话|士族青年|啊啊啊啊啊啊——我的手——我的手——|头像=男文人}}\n{{对话|阿蝉|嗯？你摸我。|头像=阿蝉}}\n{{嵌套分歧|头}}\n{{嵌套分歧|继续游猎|1}}\n{{嵌套分歧|带阿蝉走|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你无视他的哀嚎，和阿蝉继续游猎。}}\n{{旁白|当你回到原地时已是黄昏，公子被人抬走了。你下马时踩到了什么东西被绊倒，滚下山坡……}}\n{{旁白|啊，是他的断手？}}\n{{旁白|触发结局【山坡】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|……阿蝉，我们先回去吧。|头像=世子常服-汗颜}}\n{{对话|士族青年|我的手啊！我的手啊！|头像=男文人}}\n{{对话|随从|公子的手被那个女人砍下来了！！！|头像=内监}}\n{{对话|阿蝉|唔……他好吵……|头像=阿蝉}}\n{{对话|我|让他吵吧，我们先走。|头像=世子常服-汗颜}}\n{{对话|阿蝉|不打猎了吗？|头像=阿蝉}}\n{{对话|我|改天我们再来。到时候给你围个更大的猎场。|头像=世子常服-点头}}\n{{对话|阿蝉|好呀！|头像=阿蝉}}\n{{对话|士族青年|我的手……啊啊……我的手……|头像=男文人}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''阿蝉·线索2'''</font>=\n{{旁白|【广陵王府】}}\n{{对话|侍女|小蝉，我要一块！|头像=侍女}}\n{{对话|侍从|我也要一块！|头像=侍从}}\n{{对话|傅融|你们蹲在庭院里烤肉，烤完了记得自己收拾啊。|头像=傅融}}\n{{对话|阿蝉|好的。呼、呼……好烫。|头像=阿蝉}}\n{{对话|傅融|你们去打猎，居然没有打回猎物？我听你们说鹿是买的，还以为是开玩笑。|头像=傅融}}\n{{对话|我|打猎时候出了点事，提前回来了。|头像=世子常服-汗颜}}\n{{对话|侍女|世子，外面有人叫门！|头像=侍女}}\n{{对话|傅融|这么晚了，谁在叫门？|头像=傅融}}\n{{对话|士族长老|广陵世子，你伤人逃逸，总要给一个说法吧？！|头像=贵族老年男}}\n{{嵌套分歧|头}}\n{{嵌套分歧|不开门|1}}\n{{嵌套分歧|开门|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你闭门不出，不顾他们在门外叫骂。}}\n{{旁白|结果因为门外太过吵闹，你一夜未眠。因为黑眼圈太重，被猎户误认为长矛食铁兽，作为祥瑞送了上去……}}\n{{旁白|触发结局【食铁兽】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|广陵王府会负担贵公子一切医药费用。他行为不检点在前，这就是说法。|头像=世子常服-严肃}}\n{{对话|我|你们若还有其他要求，尽管提出。|头像=世子常服-严肃}}\n{{对话|士族长老|世子，交出那个涉事女子。|头像=贵族老年男}}\n{{对话|我|阿蝉，傅融。|头像=世子常服-冷笑}}\n{{对话|阿蝉|哎。|头像=阿蝉}}\n{{对话|我|关门。|头像=世子常服-微笑}}\n{{对话|士族长老|你们要干什么？要干什么？！放开我！|头像=贵族老年男}}\n{{对话|我|我说啊，现在还是能好好谈的，前辈。|头像=世子常服-冷笑}}\n{{对话|我|隐鸢阁出来的人呢，就是会比较不怕事。你们愿意拿钱了事，那双方都会很开心。|头像=世子常服-微笑}}\n{{对话|我|但你们如果一定想要她，那就没得谈了。|头像=世子常服-冷笑}}\n{{对话|傅融|小蝉，西凉一般怎么处理这种事？|头像=傅融}}\n{{对话|阿蝉|唔，一般都是全家一起……|头像=阿蝉}}\n{{对话|我|哎呀，阿蝉，你怎么能说这样的话呢？不懂事。|头像=世子常服-微笑}}\n{{对话|阿蝉|哦。好的。|头像=阿蝉}}\n{{对话|我|前辈你看，我们府上都是这样不懂事的人。被别人摸一下脸，左手摸的就砍左手。|头像=世子常服-微笑}}\n{{对话|傅融|怎么这样？砍完之后没有拿走他钱包当精神赔偿吗？|头像=傅融}}\n{{对话|我|哎呀，傅融，你怎么能这么懂事呢？阿蝉你学学，学学。|头像=世子常服-微笑}}\n{{对话|阿蝉|好的，我试试。|头像=阿蝉}}\n{{对话|士族长老|你要做什么？！住手！别动我钱包！放开我——|头像=贵族老年男}}\n{{对话|我|长老过于激动了，改日再谈吧。傅融，送客。|头像=世子常服-微笑}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''阿蝉·线索3'''</font>=\n{{旁白|【猎场】}}\n{{对话|我|阿蝉，今天天气也不错吧，这次围了个更大的猎场，可以随意策马 !|头像=世子常服-微笑}}\n{{对话|阿蝉|真好……|头像=阿蝉}}\n{{对话|士族青年|是你们？！你们还敢来？|头像=男文人}}\n{{嵌套分歧|头}}\n{{嵌套分歧|应对|1}}\n{{嵌套分歧|躲避|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|你的手这么快就好了？|头像=世子常服-惊讶}}\n{{对话|士族青年|托世子的福，大难不死。|头像=男文人}}\n{{对话|士族青年|世子和淑女遛马，就带了这么几个护卫？|头像=男文人}}\n{{对话|士族青年|那来人！——动手！|头像=男文人}}\n{{对话|亲卫|保护世子！|头像=帅武将}}\n{{对话|我|别保护我了先保护他——|头像=世子常服-生气}}\n\n{{对话|阿蝉|找死。|头像=阿蝉}}\n{{对话|亲卫|世子，没保护住。|头像=帅武将}}\n{{对话|我|……|头像=世子常服-汗颜}}\n{{对话|阿蝉|啊？不能杀吗？|头像=阿蝉}}\n{{对话|我|……剁手和直接杀，还是有点小差别的……|头像=世子常服-汗颜}}\n{{对话|阿蝉|……我错了……|头像=阿蝉}}\n{{对话|我|别多想了，做都做了。他先动的手，生死自负。|头像=世子常服-摇头}}\n{{对话|我|打猎，今天傅融没给我们买烤鹿肉的预算，没打到猎物就没有炙肉啦。|头像=世子常服-微笑}}\n{{对话|阿蝉|嗯！|头像=阿蝉}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你转身躲避他的质问。结果慌不择路，一头撞上了树……}}\n{{旁白|额头受伤，朝见天子时被认为殿前失仪，不受重用，只能回广陵当一位闲散亲王……}}\n{{旁白|触发结局【闲散亲王】}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n\n=<font color=#BB996F>'''阿蝉·线索4'''</font>=\n{{旁白|【广陵王府】}}\n{{对话|文官|短短数日闯了多少祸！世子，必须赶走那个少女！|头像=文官}}\n{{对话|文官|她来路不明、不尊礼数、喜怒无常，简直是……简直是……|头像=文官}}\n{{嵌套分歧|头}}\n{{嵌套分歧|反驳|1}}\n{{嵌套分歧|沉默|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|凭什么？她是我身边的人，不由他人调遣。|头像=世子常服-严肃}}\n{{对话|我|别以为我不知道你们在想什么。调走了她，下一个就是傅融。|头像=世子常服-生气}}\n{{对话|我|想先腾出位置，调换你们自己人在我身边，是不是？|头像=世子常服-生气}}\n{{对话|傅融|这种话别真说出来……|头像=傅融}}\n{{对话|我|我就说出来了。傅融，你站谁 ?|头像=世子常服-生气}}\n{{对话|傅融|站你。|头像=傅融}}\n{{对话|傅融|我觉得小蝉所作所为都是因那人无礼在先，青天白日、众目睽睽。|头像=傅融}}\n{{对话|文官|傅融！你这样，是想断了回陶谦使君那边的后路？|头像=文官}}\n{{对话|傅融|我都站她了，不要什么退路。|头像=傅融}}\n{{对话|文官|岂有此理……岂有此理 ！|头像=文官}}\n{{对话|傅融|……摔门走了。王府的门，坏得好快啊。|头像=傅融}}\n{{对话|我|找工匠明天来修吧。|头像=世子常服-微笑}}\n{{对话|傅融|太贵了，明天我和徐庶修修看。|头像=傅融}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{旁白|你保持沉默。门外阿蝉经过，似乎听见了里面的对话……}}\n{{旁白|次日，阿蝉不见了。你们再也没有找到过她……}}\n{{旁白|触发结局【沉默】}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n{{对话-头}}\n=<font color=#BB996F>'''阿蝉·线索5'''</font>=\n{{旁白|【广陵王府】}}\n{{对话|傅融|今天有人见到小蝉吗？|头像=傅融}}\n{{对话|侍女|没有！她的马也不见了！|头像=侍女}}\n\n{{旁白|【树林】}}\n{{对话|我|阿蝉——|头像=世子常服-生气}}\n{{对话|傅融|小蝉？马噗噗——|头像=傅融}}\n{{对话|我|马噗噗——不对，她根本不叫马噗噗啊!|头像=世子常服-生气}}\n{{对话|府兵|围住她！她没力气了！|头像=副将}}\n{{对话|侍卫|她是什么怪物？杀了我们那么多人？！|头像=士兵}}\n{{对话|傅融|就在前面！|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|猛冲|1}}\n{{嵌套分歧|观察情势|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|你猛冲向敌兵，冲散他们的阵势。你的马越跑越快，一边跑一边发出疑似劲啊的声音……}}\n{{旁白|突然，你彻悟了疾风之道，从此沉迷赛马，不务正业。}}\n{{旁白|触发结局【疾风之道】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|阿蝉|……|头像=阿蝉}}\n{{对话|府兵|抓活口——唔！|头像=副将}}\n{{对话|傅融|她想杀人抢马，但没力气了……你在干什么？|头像=傅融}}\n{{对话|我|弹弓啊，小时候都玩过的。|头像=世子常服-微笑}}\n{{对话|我|我拿弹弓打雪猴子可是没有失手过——|头像=世子常服-生气}}\n\n{{对话|傅融|都打退了……|头像=傅融}}\n{{对话|我|阿蝉，没事吧！你怎么不告而别？|头像=世子常服-生气}}\n{{对话|阿蝉|……我听见了，那个人，说话。|头像=阿蝉}}\n{{对话|我|……偷听到了呀。|头像=世子常服-惊讶}}\n{{对话|阿蝉|……我给大家，惹麻烦了。我想引开他们，都杀了，就没麻烦了。|头像=阿蝉}}\n{{对话|傅融|真是的！一点不懂事，你一个人怎么可能杀得完？|头像=傅融}}\n{{对话|我|对啊，先和我们说好，然后你引出他们，我们暗中埋伏，就地解决呀。|头像=世子常服-微笑}}\n{{对话|我|傅融，这样算不算懂事？|头像=世子常服-挑眉}}\n{{对话|傅融|懂事。|头像=傅融}}\n{{对话|我|好！我们一起回家，回家后再商量对策。|头像=世子常服-微笑}}\n{{对话|我|只要大家在一起，总能想出办法的。|头像=世子常服-微笑}}\n{{对话|阿蝉|好！|头像=阿蝉}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n<div class=\"resp-tab-content\"><!--傅融-->\n{{对话-头}}\n\n=<font color=#BB996F>'''傅融·线索1'''</font>=\n{{旁白|【书房】}}\n{{对话|傅融|醒醒。|头像=傅融}}\n{{对话|我|……唔……|头像=世子常服-疲惫}}\n{{对话|傅融|醒、醒——|头像=傅融}}\n{{旁白|刷啦啦啦啦啦——}}\n{{对话|我|唔！别拿竹简在我耳朵抖个不停——|头像=世子常服-疲惫}}\n{{对话|傅融|书房里睡午觉，这也太悠闲了。继位亲王，礼制上还要筹备一大堆东西。这箱子里都是没完成的礼单。}}\n{{对话|我|……让我短暂忘掉这箱礼单吧……啊啊啊别在我耳朵边抖竹简！|头像=世子常服-无语}}\n{{对话|傅融|白马白马白马白马……}}\n{{对话|我|找一匹花马，拿胡粉把花斑都盖掉不就好了吗！|头像=世子常服-无语}}\n{{对话|傅融|那怎么行？其他的金银礼器礼服都好说，白马是眼下最紧迫的。你催过阿蝉了吗？}}\n{{对话|我|阿蝉说就算从她老家送来白马，也赶不上继位大典。我还是得自己想办法……|头像=世子常服-微笑}}\n{{对话|我|我们去找陈登说的雷氏吧？就在陈留。雷氏落魄了，想卖出自己府上的两匹白马。|头像=世子常服-微笑}}\n{{对话|傅融|你前几天不是去过陈留，但是没见到雷氏的人，也没要到白马吗？}}\n{{旁白|心理|是啊……雷氏是陈留的小寒门，这几年似乎落魄得很快。前阵子去雷氏故宅，管家说家主和白马不知所踪……}}\n{{对话|阿蝉|唔……}}\n{{对话|傅融|小蝉来了？什么事？为什么站在门外不说话？|头像=傅融}}\n{{对话|阿蝉|唔，一个人，找人。}}\n{{对话|傅融|……谁找谁？什么样的人？|头像=傅融}}\n{{旁白|阿蝉皱着眉头，拼命在脑中搜罗已知的关中形容词。}}\n{{对话|阿蝉|男的，白衣服的。找人，在会客室。}}\n{{对话|傅融|……唉。他找谁？|头像=傅融}}\n{{对话|阿蝉|不知道。}}\n{{对话|我|我去看看吧。傅融，你再理一下那些礼单。哪些府里有、哪些能现买、哪些能问本地士族租借的……|头像=世子常服-微笑}}\n{{对话|傅融|知道了……小蝉，一起来理吧，顺便再练一下关中话。|头像=傅融}}\n\n{{旁白|【会客室】}}\n{{对话|我|……那个，这位公子，来广陵王府是有何事？|头像=世子常服-挑眉}}\n{{旁白|身穿白衣孝服的青年面容秀美清雅，花容如画中人。他眸中有几分哀怨之色，冷冷看着我。}}\n{{对话|我|………………是不是阿蝉又不当心骑马走神踩死人了？是你家的人吗？|头像=世子常服-汗颜}}\n{{对话|老仆人|请问广陵世子，你府上，是不是有一位女子，出身隐鸢阁，仙君左慈弟子？|头像=老年男}}\n{{旁白|心理|？！！！！！}}\n{{旁白|我背脊一凉，坐直身子，双手紧张地攥紧了衣摆。见我紧张，那孝服青年转开了脸，面色更添几分寒意。}}\n{{对话|老仆人|这位是陈留雷氏的小公子。前一阵子，我家小公子在祭奠族人之时……遇到了一桩罄竹难书的恶事！|头像=老年男}}\n{{对话|我|原来是陈留雷氏……敢问公子遇到了何事？可有本世子能解忧之处？|头像=世子常服-微笑}}\n{{对话|老仆人|这种事……这种事……你们王府里的女人，竟对我们小公子做这种事！雷氏就算落魄了，也不能被这样折辱！|头像=老年男}}\n{{对话|我|……啊？|头像=世子常服-惊讶}}\n{{对话|雷公子|……石叔，我自己说吧。}}\n{{旁白|他面无表情，微微调整了坐姿，维持最后的倨傲。}}\n{{对话|雷公子|雷氏落魄，被陈留的阮氏、谢氏欺压，夺地夺宅……族中人丁零落，无力抵挡。}}\n{{对话|雷公子|最后，就连祖宗之地也被谢氏占去。父母一夜之间气血攻心，撒手人寰。}}\n{{对话|我|……|头像=世子常服-严肃}}\n{{旁白|心理|……到目前为止，到底和我有什么关系……}}\n{{对话|雷公子|我在父母坟前戴孝守灵，发下大誓……}}\n{{对话|雷公子|若有人为我雷氏主持正义、诛杀仇人、夺回祖产，我愿为奴为仆，侍奉终老。}}\n{{旁白|他语气中浮现几分凄厉。傅融正打算从廊下进来，被他的话惊得一顿，一时没敢进来。}}\n{{旁白|心理|来啊！傅融，不能我一个人如坐针毡！}}\n{{对话|雷公子|就在这时……一位女子路过我身后。她见我哭泣，便问我缘由……}}\n{{对话|雷公子|当天夜深时，我仍跪在坟前祈求，突然两颗人头和木匣从天而降。正是仇人首级，还有被夺走的祖产契约！}}\n{{旁白|我深吸一口气，擦掉手心冷汗，坐得更直了。傅融看我的眼神越来越起疑，不断在我和雷公子之间来回看。}}\n{{对话|我|那可真是……真是大恩啊……|头像=世子常服-汗颜}}\n{{对话|雷公子|那名女子随后出现，问我心情。大恩大德，我难以言语，但愿履行誓约，为恩人奴婢……}}\n{{对话|雷公子|她说她不要奴婢，但对我……对我……对我有意……问我意愿……}}\n{{旁白|心理|傅融盯着我的眼神，好像锥子一样……}}\n{{旁白|我低头疯狂喝茶，茶杯空了都不敢放下。}}\n{{对话|雷公子|当夜，我将族中的白马赠给她做定情信物。虽然仪式简陋，但还是……成礼了……}}\n{{对话|傅融|有多简陋？该不会在坟前就地解决吧？|头像=傅融}}\n{{旁白|雷公子点了点头。傅融死死瞪着我，牙关咬得叽叽响。}}\n{{对话|傅融|色中饿鬼。|头像=傅融}}\n{{对话|我|也、也不一定就是我啊！|头像=世子常服-生气}}\n{{对话|雷公子|一夜过后，她天不亮就要离开。我拉住她问她去向，她说去买个酒就回来………然后牵着白马就走了。}}\n{{对话|傅融|天不亮的哪里有卖酒啊……|头像=傅融}}\n{{对话|雷公子|我也不信，于是问她身世来历。她说……可以来广陵王府找她……}}\n{{对话|傅融|呵。|头像=傅融}}\n{{对话|雷公子|还说，她是隐鸢阁仙君左慈座下弟子。}}\n{{旁白|当啷一声，傅融站起身来，扭头就走。}}\n{{对话|傅融|公干、公干……哈……|头像=傅融}}\n{{对话|傅融|我还在想前阵子怎么那么积极主动去陈留公干了，原来是公这个干！|头像=傅融}}\n{{对话|我|不是我！真的不是我！傅融你等等！这怎么听都不是我吧！傅融——|头像=世子常服-生气}}\n{{旁白|我提着衣摆，不管玉佩稀里哗啦乱响，快步追了出去……}}\n\n{{旁白|【广陵王府】}}\n{{对话|徐庶|小宝！二牛！我回来啦！}}\n{{对话|我|前辈——|头像=世子常服-惊讶}}\n{{对话|徐庶|看我给你带了啥子回来？是白马哦！}}\n{{对话|我|……果然是前辈干的啊……傅融，我就说吧！|头像=世子常服-无语}}\n{{对话|傅融|干得漂亮。}}\n{{对话|我|哎？哎？|头像=世子常服-惊讶}}\n{{对话|徐庶|二牛嘴巴甜了嘛。来，把白马带去马厩，我给你们去做甜水面。|头像=徐庶}}\n{{对话|傅融|要不然多做几碗吧……雷氏的人在会客室等你，来要说法。}}\n{{对话|徐庶|雷氏？什么雷氏？|头像=徐庶}}\n{{对话|傅融|你在坟地里一夜风流之后不告而别还带走了人家的白马的那个雷氏。}}\n{{对话|徐庶|……哦哦哦！想起来了。怎么找过来了呢……|头像=徐庶}}\n{{对话|我|前辈，你去哪？|头像=世子常服-严肃}}\n{{对话|徐庶|去厨房给你们烧饭饭啊。|头像=徐庶}}\n{{对话|我|不敢去会客室吗？|头像=世子常服-无语}}\n{{对话|傅融|负心人。人家小公子看起来是认真的。}}\n{{对话|徐庶|我至少那天夜里也是认真的嘛……|头像=徐庶}}\n{{对话|我|前㹃，双方都认为是露水姻缘才叫露水姻缘，单方面认定的露水姻缘，叫始乱终弃。|头像=世子常服-生气}}\n{{对话|阿蝉|世子，徐庶，傅融，会客室里有声音。}}\n{{对话|傅融|什么声音？|头像=傅融}}\n{{对话|阿蝉|他要吊死。}}\n\n{{旁白|【会客室】}}\n{{对话|老仆人|小公子！小公子啊——|头像=老年男}}\n{{对话|雷公子|放开我！让我去死！我还有何颜面做人……|头像=美型文官}}\n{{对话|我|公子冷静些！——前辈！自己惹出来的事自己来解决啊！|头像=世子常服-生气}}\n{{对话|徐庶|小周你先从案上下来，一起吃个小面，慢慢说嘛！|头像=徐庶}}\n{{对话|雷公子|我是雷氏的！|头像=美型文官}}\n{{对话|傅融|不要再动了！王府的房子很老了，房梁没那么结实！|头像=傅融}}\n{{嵌套分歧|头}}\n{{嵌套分歧|旁观|1}}\n{{嵌套分歧|劝和|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|我退出室内，平静心绪，在廊下旁观。}}\n{{对话|傅融|你不去劝一下吗？}}\n{{对话|我|今天送走雷氏，明天也会来个雨氏、电氏，让前辈自己处理吧。|头像=世子常服-摇头}}\n{{对话|傅融|真的假的……}}\n{{旁白|下一刻，木材断裂的声音隆隆从头顶传来——房梁断了，整间殿所塌陷了下来……}}\n\n{{旁白|【谒舍】}}\n{{对话|我|那位雷氏的小公子如何了？|头像=世子常服-微笑}}\n{{对话|傅融|腿断了，医师帮他打了夹板，需要休养两个月。}}\n{{对话|傅融|徐庶在里面和他谈。也不知道能不能谈妥。}}\n{{对话|我|你是不是很不喜欢徐庶前㹃啊？|头像=世子常服-微笑}}\n{{对话|傅融|没有不喜欢她这个人。}}\n{{对话|我|那就是不喜欢她的某些地方？|头像=世子常服-挑眉}}\n{{旁白|我们走过花园。流水淙淙，那匹白马没有在马厩里，在花园里饮水。}}\n{{对话|傅融|我不太喜欢她弄出的……这类事情。}}\n{{对话|傅融|……太出格了，不负责任。}}\n{{对话|我|她活了很多年嘛。武帝朝的人了，什么都见识过了。|头像=世子常服-微笑}}\n{{对话|我|无极荣华见了，天崩地裂见了，血亲相残见了……早已把什么都看淡了，不会再理会俗世礼法。|头像=世子常服-微笑}}\n{{对话|傅融|不负责任就是不负责任。}}\n{{对话|我|也有负责任的仙人啊，令狐茂前辈至今还在祭祀真情呢，在灵河岸边自闭自苦了许多年。|头像=世子常服-微笑}}\n{{对话|我|负责任有负责任的好，也有负责任的苦。谁能裁判呢。|头像=世子常服-微笑}}\n{{对话|傅融|我不能裁判，但我至少能不喜欢吧？}}\n{{对话|我|哦，你喜欢专一的……|头像=世子常服-微笑}}\n{{对话|傅融|是个人都会喜欢专一的吧！}}\n{{对话|我|这可不好说，徐庶前辈和葛洪前辈好像都……|头像=世子常服-微笑}}\n{{对话|傅融|不说那些仙人，他们不是俗世人。}}\n{{对话|我|那你想说谁？|头像=世子常服-微笑}}\n{{对话|傅融|……}}\n{{对话|我|我吗？|头像=世子常服-微笑}}\n{{对话|傅融|……没有。}}\n{{对话|傅融|我在意你这个干什么，你就是我上司而己。}}\n{{对话|我|但我感觉，你好像很在意我的事。|头像=世子常服-微笑}}\n{{旁白|他停下了脚步，眼神颤动了一瞬。我很好奇地盯着他，发现他在回避我的眼神。}}\n{{对话|我|你想……|头像=世子常服-微笑}}\n{{对话|傅融|……………………}}\n{{对话|我|你想升职吗？|头像=世子常服-微笑}}\n{{对话|傅融|……………………}}\n{{对话|傅融|啊？}}\n{{对话|我|是想通过更了解上司的喜好来晋升吗？这有什么不好意思的，直说嘛。|头像=世子常服-微笑}}\n{{对话|傅融|没、没有！我才不是想晋升！}}\n{{对话|我|不为了谋钱权，那是谋什么？难道在替陶谦当耳目吗？|头像=世子常服-微笑}}\n{{对话|傅融|我早就和陶谦那边断了！}}\n{{对话|我|既不为了谋钱权，也不是替人卧底，那你……|头像=世子常服-微笑}}\n{{对话|傅融|我不喜欢徐庶也不喜欢阿蝉也不喜欢府里的侍女女官嬷嬷！别乱猜了！}}\n{{对话|傅融|天晚了，我要去休息了！}}\n{{旁白|他转身就走。我都来不及叫住他，砰的一声，他撞上了身后的白马。}}\n{{对话|我|傅融！！！|头像=世子常服-生气}}\n{{对话|徐庶|怎么了？出什么事了？！|头像=徐庶}}\n{{对话|我|傅融撞白马身上流鼻血了！|头像=世子常服-生气}}\n{{对话|徐庶|哎呦可怜，把头抬起来……小宝，你也提醒他一声啊！|头像=徐庶}}\n{{对话|我|根本来不及，他跟逃一样……傅融，你别动！……又跑了……|头像=世子常服-难过}}\n{{旁白|傅融跌跌撞撞跑走了，身影消失在夜色中。白马悠哉地走向谒舍方向，似乎还念着旧主的气息……}}\n\n{{旁白|五日后}}\n{{对话|我|哎？雷氏那位公子，让老家人把另一匹白马也送来了？|头像=世子常服-惊讶}}\n{{对话|徐庶|嗯，他像是打算搬家来广陵。雷氏在陈留一直被豪门欺压，索性换个地盘。}}\n{{对话|徐庶|两匹白马都给你了，你以后可要好好罩着人家啊。}}\n{{对话|我|太好了……解决了最麻烦的问题。今天可以睡个午觉了……|头像=世子常服-微笑}}\n{{旁白|午后，我照旧伏在案上小憩。片刻后，耳边又响起了抖竹简的声响……}}\n{{旁白|我一把捏住了竹简。傅融在我旁边，鼻子上还有点淤青。}}\n{{对话|我|没事，白马搞定了，我可以稍微歇一歇。|头像=世子常服-微笑}}\n{{对话|傅融|除了白马，还有很多别的事啊……}}\n{{对话|我|天大的事，也不差补个午觉啊。来，坐过来。|头像=世子常服-微笑}}\n{{对话|傅融|呃……你别拽我……}}\n{{旁白|我把他拽到身边坐垫上，拍了拍他的背。}}\n{{对话|我|这样趴着很舒服的。以后这里就是你睡午觉的地方啦。|头像=世子常服-微笑}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|好了好了！我保证徐庶前辈一定会给你一个交待的！|头像=世子常服-微笑}}\n{{对话|傅融|你怎么保证……}}\n{{对话|我|至、至少保证她能坐下来和你好好谈个话……唔啊！傅融你别拽我！|头像=世子常服-汗颜}}\n{{对话|傅融|不是！你先松手，先别管他！}}\n{{对话|我|总不能看着他吊死在王府里吧！|头像=世子常服-生气}}\n{{对话|傅融|别管了，快走啊！房梁——}}\n{{旁白|下一刻，木材断裂的声音隆隆从头顶传来——房梁断了，整间殿所塌陷了下来……}}\n\n{{旁白|由于被房梁压断了骨头，你不得不卧床休养许久，错过了继位大典的最后期限。}}\n{{旁白|朝廷非常不满，并未正式将绣衣校尉官职复还于你。}}\n{{旁白|但也正因如此，你避免了被卷入许多乱世纷争，错过了许多人和事，但也得以在封地平安终老。}}\n{{旁白|伤病的那几个月里，傅融长久地照顾你，彼此逐渐萌生好感……}}\n{{旁白|最后，他成为你相伴终生之人。}}\n{{旁白|尽管他身上还有许多秘密，但对于身为闲散宗室的你而言，那些秘密都不再重要。}}\n{{旁白|享受着富足而安逸的日子，无忧无虑。绣衣楼和广陵的事务逐渐全权交托给傅融，自己不再有任何烦恼。}}\n{{旁白|女扮男装也在某一日终止，和傅融的关系开始逐渐正大光明起来。在无微不至的照料下，不再关注外界之事……}}\n{{旁白|……听起来似乎没什么不好……似乎是吧。}}\n{{旁白|……但是，又似乎有着无穷无尽的遗憾……}}\n{{旁白|也许在另一条路上，会在更多的险恶中认识更多的人，在遍体鳞伤中逐渐变得强大，强大到足以拥有一切。}}\n{{旁白|哪一种人生会更好，皆是如人饮水……}}\n{{旁白|触发结局【相伴终生】}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''傅融·线索2'''</font>=\n{{旁白|【广陵王府】}}\n{{对话|我|史君前辈！|头像=世子常服-微笑}}\n{{对话|史子眇|好久不见！你怎么瘦了呀？}}\n{{旁白|他紧紧抱住我晃来晃去。我嘿嘿笑，去揪他斗篷上的毛毛。}}\n{{对话|史子眇|这边一切都好吗？元直，你没带她做危险的事吧？}}\n{{对话|徐庶|什么事比吃你的点心更危险啊？|头像=徐庶}}\n{{对话|史子眇|左慈道友说山下肯定需要很多礼器，就开了库房，让我带下山了。}}\n{{对话|徐庶|你带来了？放在了哪？|头像=徐庶}}\n{{对话|史子眇|唔……弄丢了……}}\n{{对话|史子眇|经过太傅崖的时候，崖下有一阵疾风，把浮丘背上的包裹箱子吹翻了……}}\n{{对话|我|好可惜……没事！再慢慢攒就好了！|头像=世子常服-难过}}\n{{对话|我|我去问问傅融，现在还差多少金银礼器。|头像=世子常服-微笑}}\n\n{{旁白|【书房】}}\n{{对话|傅融|呼……呼……|头像=傅融}}\n{{旁白|心理|在睡午觉啊……}}\n{{对话|傅融|呼……唔啊！！！谁——|头像=傅融}}\n{{对话|我|哈哈哈哈哈……你跳得好远！|头像=世子常服-微笑}}\n{{对话|傅融|你把什么塞我衣襟里了……玉石珠子？好冰……}}\n{{对话|我|史君送了我两串古董水晶珠子，一串白水晶，一串紫水晶，紫的这串送给你。|头像=世子常服-微笑}}\n{{对话|傅融|……这不好吧，太贵重了。}}\n{{对话|我|这有什么。收着吧。|头像=世子常服-摇头}}\n{{对话|傅融|你平时穿常服戴这个合适，我带在身上，还要担心碰碎。}}\n{{对话|我|别纠结了，说正事，现在继位大典要的礼器，还差多少？|头像=世子常服-微笑}}\n{{对话|傅融|我看看……本来说问陈氏租一些的，但陈登觉得租不够体面……}}\n{{对话|傅融|基本的金银器就由陈登那边提供了，有些礼器方面的器具有礼制要求，必须王府自己出。}}\n{{对话|傅融|赤金、铜都差许多，小鸦出去采买了，但她做事拖拖拉拉的，也不知道能不能按时回来……}}\n{{对话|周群|世子！世子！|头像=周群}}\n{{对话|我|我们在书房呢，有什么事？|头像=世子常服-挑眉}}\n{{对话|周群|朝廷有文书来。内廷派了一位御前使者来广陵，巡查广陵这边大典准备的情况。}}\n{{对话|周群|巡视结果恐怕会影响到世子的继位，世子，这次必须认真对待！}}\n{{对话|傅融|使者是谁，出身何处世家，能打探到吗？|头像=傅融}}\n{{对话|周群|河内司马家。}}\n{{对话|我|那还好……|头像=世子常服-微笑}}\n{{对话|我|！！！傅融？！你怎么样，怎么又流鼻血了！|头像=世子常服-生气}}\n\n{{旁白|【议事厅】}}\n{{对话|我|朝廷的使者即将抵达，诸位，我们要做好计划。|头像=世子常服-微笑}}\n{{对话|陈登|河内司马家的司马朗……应该很好应对。不是大门阀也不是名满天下的奇士，照常接待就好。}}\n{{对话|阿蝉|嗯，嗯。|头像=阿蝉}}\n{{对话|我|他来的那几天，阿蝉不许骑马。|头像=世子常服-严肃}}\n{{对话|阿蝉|啊？为什么？}}\n{{对话|徐庶|万一你走神把人家踩两截了就打脑壳喽。|头像=徐庶}}\n{{对话|阿蝉|哦，哦。}}\n{{对话|史子眇|我来做点心招待那孩子吧！|头像=史子眇}}\n{{对话|徐庶|你也不许进厨房。}}\n{{对话|史子眇|哎？为什么……|头像=史子眇}}\n{{对话|周群|我赞成陈公子的话。照常接待，不必过度盛情。盛情接待和奢靡无度可是在人家一念之间。|头像=周群}}\n{{对话|陈登|嗯，我去手钓新鲜的鱼，开鱼脍招待他就行！}}\n{{对话|傅融|你只是想钓鱼吧……不要用奇怪的食材，就给点猪肉和白菜就行了……|头像=傅融}}\n{{对话|陈登|傅融，你不懂这种小士族的心态。给太接地气的食材，人家会觉得你敷衍他的。}}\n{{对话|傅融|……不，真的。给常规一点的食材，不容易出意外不是吗……|头像=傅融}}\n{{对话|阿蝉|我不喜欢吃白菜。|头像=阿蝉}}\n{{对话|陈登|你看，你让客人吃白菜，阿蝉就得跟着吃白菜。}}\n{{对话|我|那不行，阿蝉喜欢吃什么？|头像=世子常服-微笑}}\n{{对话|阿蝉|烤肉。|头像=阿蝉}}\n{{对话|陈登|那就烤鹿肉如何？庄子上的猎户刚好打到了一头鹿！}}\n{{对话|傅融|我建议……猪肉和白菜真的够了……|头像=傅融}}\n{{对话|史子眇|再加点我做的点心！|头像=史子眇}}\n{{对话|徐庶|还有我自酿的杏子酒！|头像=徐庶}}\n{{对话|周群|再在府门口搭饭棚，让百姓也一起吃吧……还有宴请贵客的歌舞……|头像=周群}}\n{{对话|傅融|……真的不用太盛大。真的。|头像=傅融}}\n\n{{旁白|【花园】}}\n{{对话|我|嗯……招待使者的计划规格，差不多就敲定了。|头像=世子常服-点头}}\n{{对话|我|傅融？傅融？|头像=世子常服-挑眉}}\n{{对话|傅融|……}}\n{{对话|傅融|……啊？我走神了……}}\n{{嵌套分歧|头}}\n{{嵌套分歧|不多问|1}}\n{{嵌套分歧|关心傅融|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{旁白|心理|还是不要多问了。感觉他很累……}}\n{{对话|我|没什么。夜深了，你早点休息。|头像=世子常服-摇头}}\n{{对话|傅融|好。明天见。}}\n{{对话|傅融|……等一下，你真的没有什么要问的吗？}}\n{{对话|我|你如果有事，自然会跟我说。如果不想说，说明时候未到。|头像=世子常服-微笑}}\n{{对话|傅融|我……我吃得比较素。那几天府里如果都是荤菜……我……}}\n{{对话|傅融|反正就是这些理由。说出来很丢人，好像故意想让府里上下吃我喜欢的东西一样……}}\n{{对话|我|……就这？|头像=世子常服-惊讶}}\n{{对话|我|你直说就好了嘛。早说啊，我就让食官准备素一点的菜了。|头像=世子常服-微笑}}\n{{对话|我|不过你平时喜欢吃素吗？身体扛得住吗？|头像=世子常服-微笑}}\n{{对话|傅融|我也不是完全不吃荤，偶尔也吃一些的。}}\n{{对话|我|那我记下了。明天跟食官说，让他们在那几天也准备些素菜。|头像=世子常服-微笑}}\n{{对话|傅融|……不必这样的。}}\n{{对话|我|怎么不必？不这样的话，你那几天多难受啊，都没有喜欢吃的东西。|头像=世子常服-微笑}}\n{{对话|我|大家住在一起，肯定是要互相包容照顾的呀。|头像=世子常服-微笑}}\n{{旁白|我走向自己寝室的回廊；傅融独自站在月下，直到回廊尽头，我回头看时，他仍站在那……}}\n\n{{旁白|今日……}}\n{{旁白|今日，众人从清早开始预备，准备迎接朝廷派来视察的使者，司马朗。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|你是不是不太开心啊？因为大家都说了荤菜，但你吃得很素。|头像=世子常服-微笑}}\n{{对话|傅融|……没有。只是担心出岔子。}}\n{{对话|我|真的吗？你平时总喜欢说反话……|头像=世子常服-惊讶}}\n{{对话|傅融|……}}\n{{对话|傅融|你怎么知道我平时吃得很素？}}\n{{对话|我|因为一直在一起，肯定会注意到啊。|头像=世子常服-微笑}}\n{{对话|傅融|是吗……我都没有意识到。}}\n{{对话|傅融|天晚了，我先回去休息了。}}\n{{对话|我|早点休息，明天见。|头像=世子常服-微笑}}\n\n{{旁白|你再也没有见到傅融。}}\n{{旁白|第二天，他不告而别。朝廷的使者司马朗不久后抵达了广陵，并没有停留多久。}}\n{{旁白|但不知他是如何回报朝廷的，天子对广陵的现状并不满意。你的继位大典十分寥落，在一片冷清中回到广陵……}}\n{{旁白|触发结局【不告而别】}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''傅融·线索3'''</font>=\n{{旁白|【广陵王府】}}\n{{旁白|马车在府门口停下，从车上下来两位眉目秀美的侍童，他们升起车帘，扶主人下车。}}\n{{对话|我|……|头像=世子常服-无语}}\n{{对话|陈登|……感觉是个……|头像=陈登}}\n{{对话|徐庶|是个……脾气不错的人？|头像=徐庶}}\n{{旁白|那人笑眯脒的，看上去就很好相处。周群替我迎接，向他行礼。}}\n{{对话|周群|下官是广陵王府礼官周群。请长官随我来。|头像=周群}}\n{{对话|司马朗|啊……何必称长官呢，在下也只是白身而已。|头像=黑人影}}\n{{对话|司马朗|这位就是广陵世子吧？真是貌如冠玉、君子风度。|头像=黑人影}}\n{{对话|我|使者远道而来，想必辛苦，请入谒舍洗尘吧。|头像=世子常服-点头}}\n{{对话|司马朗|多谢多谢。啊，这位……|头像=黑人影}}\n{{旁白|他看向傅融。傅融面无表情点点头。}}\n{{对话|司马朗|这位是……|头像=黑人影}}\n{{对话|我|这位是我的副官傅融。|头像=世子常服-微笑}}\n{{对话|司马朗|副官？真是年轻啊。|头像=黑人影}}\n{{对话|徐庶|是啊是啊，二牛不仅干副官的活，还负责府内洒扫清洁、买菜做饭、喂鸟喂猪。}}\n{{对话|司马朗|……二牛是谁？|头像=黑人影}}\n{{对话|傅融|是我。|头像=傅融}}\n{{旁白|傅融闭上眼。不知为何，表情很绝望。}}\n{{对话|司马朗|为什么叫……算了，先去谒舍吧。|头像=黑人影}}\n{{对话|陈登|世子！傅融！我们回来啦！}}\n{{对话|司马朗|这位又是唔噗噗噗——|头像=黑人影}}\n{{旁白|他被一匹棕马撞飞——阿蝉策马载着陈登冲入府门，因为陈登高高举着一条大鱼，以至于阿蝉什么都没见到。}}\n{{对话|我|……啊。|头像=世子常服-惊讶}}\n{{对话|徐庶|……啊？|头像=徐庶}}\n{{对话|史子眇|飞出去了呢……|头像=史子眇}}\n{{对话|周群|好可怜……|头像=周群}}\n{{对话|傅融|…………快！快叫医师来！！！|头像=傅融}}\n\n{{旁白|【谒舍】}}\n{{对话|傅融|医师，他怎么样？|头像=傅融}}\n{{对话|医师|肋骨断了两根，左腿也伤得很重……不过府内医师的医术都很好，对这种情况应对经验丰富。|头像=老年男}}\n{{对话|司马朗|你们广陵王府……是每天……都有这种情况吗？|头像=黑人影}}\n{{对话|我|意外！使者，这是个意外！——对不对？陈登！|头像=世子常服-摇头}}\n{{对话|陈登|对！你只是第二个被马踩的！|头像=陈登}}\n{{对话|司马朗|……在我之前还有一个？|头像=黑人影}}\n{{对话|陈登|啊是晚生的堂弟。|头像=陈登}}\n{{对话|我|总之这是个意外！傅融，快叫史君来悬炉愈人！|头像=世子常服-汗颜}}\n{{对话|傅融|……说起来史子眇去哪了？|头像=傅融}}\n{{对话|史子眇|来了来了！|头像=史子眇}}\n{{旁白|我们纷纷松了口气，退到屏风外，让史君治疗伤患。}}\n{{对话|我|交给史君就放心吧。今晚好好招待，至少能挽回一点……|头像=世子常服-微笑}}\n{{对话|医师|殿下，使者好像没气了。|头像=老年男}}\n{{对话|我|……|头像=世子常服-无语}}\n{{对话|我|哎？！傅融，你、你先站稳，我们不慌！……他出什么事了？！|头像=世子常服-生气}}\n{{对话|医师|史君悬炉愈人完，从袖子里掏出一块点心让他垫垫肚子。|头像=老年男}}\n{{对话|医师|吃完点心，人就没气了。|头像=老年男}}\n\n{{对话|傅融|快吐出来！吐出来就好了！|头像=傅融}}\n{{对话|史子眇|没事吧？不好意思，我以为那是米浆……没想到是石灰水……}}\n{{对话|陈登|他还能救回来吗？救不回来怎么办？|头像=陈登}}\n{{对话|徐庶|……埋了，找人顶替。反正司马家也没人知道，等他回去的途中再找借口说被盗贼劫杀……|头像=徐庶}}\n{{对话|傅融|你快吐干净……|头像=傅融}}\n{{对话|我|傅融你不要慌啦，徐庶前辈说的办法还是可行的。|头像=世子常服-微笑}}\n{{对话|傅融|小蝉！小蝉，再去找两个医师来！|头像=傅融}}\n{{对话|阿蝉|铲子。|头像=阿蝉}}\n{{对话|傅融|不要埋人的铲子！医师，要医师啊！|头像=傅融}}\n\n{{旁白|【广陵王府】}}\n{{对话|我|使者这几日休息得可好？腿伤和胃病还会犯吗？|头像=世子常服-微笑}}\n{{旁白|司马朗坐在座下，维持着微笑，但脸颊瘦了好几圈。}}\n{{对话|司马朗|多谢世子，在下还留了条命。|头像=黑人影}}\n{{对话|我|哈哈哈哈，那可比什么都好，哈哈哈哈……|头像=世子常服-微笑}}\n{{旁白|心理|……绝望到语无伦次了。}}\n{{对话|司马朗|在下身为朝廷使者，前来广陵考察。可否请殿下召来府内人员，我有些话想问他们。|头像=黑人影}}\n{{对话|司马朗|为保公正，问话期间，请殿下在别室稍坐。|头像=黑人影}}\n{{对话|我|自然可以。请使者稍等。|头像=世子常服-点头}}\n{{旁白|心理|赢定了！我和府内人员的关系，应该还是很和睦的，一定不会有奇怪的评价出现！}}\n\n{{旁白|【广陵王府】}}\n{{对话|天蛾|我为了得到这份工，当街把竞争者剁了。}}\n{{旁白|……}}\n{{对话|阿蝉|唔……嗯？世子？唔……我砍了几个人，洗澡。他？他就在旁边……}}\n{{旁白|……}}\n{{对话|周群|身为礼官，下官不得不如实作答。因为自幼在仙门长大，世子丝亳不尊儒礼，目无法纪，为所欲为……}}\n{{旁白|……}}\n{{对话|徐庶|你啥子玩意嘛对老子问东问西？……不过你叫什么来着？字什么？……哈……你的字挺有意思的，我教你写我的字……}}\n{{旁白|……}}\n{{对话|侍从|能说真话吗？唉，在王府提心吊胆的。你见过咱们傅副官吗？多本分老实啊。每天起早贪黑给他干活……|头像=侍从}}\n{{对话|侍从|结果到了晚上……我听得真真的，浴室那边一阵打斗声，好像是世子兽性大发！|头像=侍从}}\n{{对话|侍从|傅融在浴室里哭喊挣扎，什么“不要”，什么“救命”，什么“不当男宠”……哭得太可怜了，半个广陵都听见了。|头像=侍从}}\n{{旁白|……}}\n{{对话|傅融|……………………我没什么好说的。有什么话问别人吧。|头像=傅融}}\n{{对话|司马朗|你和广陵世子是什么关系？|头像=黑人影}}\n{{对话|傅融|正常的上下级关系。|头像=傅融}}\n{{对话|司马朗|真的吗？问了别人，听起来不是很正常。|头像=黑人影}}\n{{对话|傅融|没有任何不正常的关系。没有就是没有。|头像=傅融}}\n{{对话|司马朗|……那天晚上的浴室是怎么回事？那个世子当真如此霸道？|头像=黑人影}}\n{{对话|傅融|…………是刷浴桶，那天晚上，是刷浴桶……|头像=傅融}}\n{{对话|傅融|浴室很滑，滑倒了，就……有点声音。然后我爬起来继续刷。|头像=傅融}}\n{{对话|司马朗|一个浴室两个人刷？|头像=黑人影}}\n{{对话|傅融|我刷。她……她在浴桶里看。|头像=傅融}}\n{{对话|司马朗|……他在浴桶里泡着，看你刷浴室？|头像=黑人影}}\n{{对话|傅融|…………………………|头像=傅融}}\n{{对话|傅融|对，她就有这种奇怪的嗜好。每天晚上……都要看人狂刷浴室。|头像=傅融}}\n{{旁白|……}}\n{{对话|史子眇|哎？我家孩子，喜欢看人刷浴室？}}\n{{对话|史子眇|浴室……浴室？是洗澡的那个浴室吗？……噢噢，太好了，吓了我一跳呢。}}\n{{对话|史子眇|孩子长大啦，就会有些奇奇怪怪的爱好呢。哈哈哈……}}\n{{旁白|……}}\n\n{{旁白|【广陵王府】}}\n{{对话|我|使者……|头像=世子常服-汗颜}}\n{{对话|司马朗|不必多说了。|头像=黑人影}}\n{{对话|我|使、使者，这样了解本世子，了解到的东西很片面的对不对？|头像=世子常服-汗颜}}\n{{对话|我|至少请接受我们的盛情接待！感受一下广陵的风土人情！|头像=世子常服-生气}}\n{{对话|司马朗|在下不喜奢靡。|头像=黑人影}}\n{{嵌套分歧|头}}\n{{嵌套分歧|简朴招待|1}}\n{{嵌套分歧|坚持盛情接待|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|既然使者这样说……那请在王府用些便饭。粗茶淡饭，不成敬意。|头像=世子常服-微笑}}\n{{对话|陈登|我也喜欢家常饭菜，索性也不要用这么大的厅堂了，众人去院中花树下吃顿便饭吧？}}\n{{对话|司马朗|……也好。|头像=黑人影}}\n\n{{旁白|【花园】}}\n{{对话|徐庶|今天的酒不错吧！还很搭泡菜，我亲自抓的鲫鱼。|头像=徐庶}}\n{{对话|史子眇|味道真是鲜甜……大家都多吃点。|头像=史子眇}}\n{{对话|阿蝉|唔，这个菜，好难嚼。|头像=阿蝉}}\n{{对话|我|先切成细丝，一点一点配酒吃……|头像=世子常服-微笑}}\n{{对话|傅融|好呛……还有点腥。|头像=傅融}}\n{{对话|我|你吃不惯蜀地的泡菜吗？要不要拿些新鲜的绿叶菜？|头像=世子常服-微笑}}\n{{旁白|日光和暖。众人在花树下喝酒吃菜，将司马朗围在中间。}}\n{{对话|徐庶|仔细看，公子的面相真是有意思。|头像=徐庶}}\n{{对话|史子眇|元直，不要对别人的长相说三道四啊，很伤人的。|头像=史子眇}}\n{{对话|徐庶|我又没有说不好，我是觉得，怎么说呢……唔……|头像=徐庶}}\n{{对话|陈登|——有点像傅融！|头像=陈登}}\n{{对话|徐庶|对！有点像吧！|头像=徐庶}}\n{{对话|傅融|你们不问问贵客喜不喜欢这种泡菜吗？|头像=傅融}}\n{{对话|司马朗|口味新奇。这种红色的菜，原本是什么样的？|头像=黑人影}}\n{{对话|徐庶|我去把坛子抱过来！}}\n{{旁白|片刻后，一口琉璃坛子被放在了众人面前。司马朗见里面颜色艳丽的泡菜，微微讶异。}}\n{{对话|司马朗|里面居然还有鲫鱼……哪怕不吃，也是很漂亮的摆设啊……|头像=黑人影}}\n{{对话|史子眇|啊？拿泡菜摆设吗？会很臭的。|头像=史子眇}}\n{{对话|司马朗|太有意思了……还有吗？|头像=黑人影}}\n{{对话|徐庶|有的有的！史君你看嘛，我就说山下也有人喜欢我做的泡菜的！|头像=徐庶}}\n\n{{旁白|【广陵】}}\n{{旁白|心理|总算是送走了……}}\n{{对话|我|不知道会怎么汇报上去……|头像=世子常服-严肃}}\n{{对话|傅融|别抱太大希望。做好最坏准备。}}\n{{对话|傅融|对了，陈登今天去太傅崖钓鱼，让人传话回来，说让我们等他钓回来的鱼。}}\n{{对话|陈登|世子——傅融——|头像=陈登}}\n{{对话|我|……他已经回来了？好大一台货车，他钓到了什么了？！|头像=世子常服-惊讶}}\n{{对话|陈登|——虽然没有钓到鱼，但是我们在崖下钓到了好大几箱金银礼器！}}\n{{对话|史子眇|咦？是我弄丢的那几箱吗？|头像=史子眇}}\n{{旁白|心理|除了鱼，钓鱼佬真的是什么都能钓上来啊……}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|陈公子！照你的计划来！|头像=世子常服-生气}}\n{{对话|陈登|好！去喊一声食官，将招待使者的菜品扛上来！}}\n{{旁白|轰然一声，巨大的烤全鹿被推入庭院；司马朗的眉头紧皱，以袖掩鼻。}}\n{{对话|司马朗|我对猪肉之外的肉都不太受用。|头像=黑人影}}\n{{对话|徐庶|那喝我的酒吧。我们还给公子安排了歌舞表演。}}\n{{对话|阿蝉|啊。|头像=阿蝉}}\n{{对话|徐庶|阿蝉怎么了？房梁上有东西吗？}}\n{{对话|阿蝉|断。|头像=阿蝉}}\n{{对话|徐庶|什么？}}\n{{对话|阿蝉|好像，它又要断了。|头像=阿蝉}}\n{{对话|我|哈哈……怎么可能，不是刚刚让小鸦修好吗？|头像=世子常服-微笑}}\n{{对话|阿蝉|她好像，只是拿浆糊，粘起来。}}\n{{对话|我|哎？|头像=世子常服-惊讶}}\n{{旁白|轰隆隆隆隆——}}\n\n{{旁白|会客室塌了。}}\n\n{{旁白|朝廷使者司马朗在视察广陵时重伤，回老家休养。}}\n{{旁白|由于广陵招待不周、轻慢天子使者，遭到了内廷的严厉问责。你没能继王位，只是封了爵。}}\n{{旁白|人生郁闷不得志。徐庶和史子眇索性带你抛下公务，满天下的游山玩水。畅怀山水间，你忽然有些感悟。}}\n{{旁白|你回到隐鸢阁，抛下俗务，过上了仙门隐居的无忧生活。在前辈们的照顾下，山间无岁月，你再度听到山外的消息，已是数年之后了……}}\n{{旁白|局势混乱，军阀四起，董卓篡权……隐鸢阁不久后放下山门，不再过问乱世。}}\n{{旁白|你随左慈修行仙法，又过数十载，得受仙人抚顶，长生无尽……}}\n{{旁白|……}}\n{{旁白|数百年后，你再度出山。你的名字，已位列仙门众仙。经过某处供奉自己的仙观时，还忍不住进去看了看。}}\n{{旁白|你在山外熟知的一切都已消逝，沧海桑田。许多的遗憾，甚至来不及记起，便已忘却。}}\n{{旁白|触发结局【长生无尽】}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''傅融·线索4'''</font>=\n{{旁白|【寝室】}}\n{{对话|周群|礼服、礼器、白马都筹备好了……}}\n{{对话|周群|今日试穿礼服，还有不合身的地方吗？}}\n{{对话|女官|袖口、衣摆还有些小改动。刺绣的修葺需要三日……|头像=宫女}}\n{{对话|周群|时间来得及，应该都妥当了。}}\n{{旁白|我看了眼内室的衣架，上面挂着继位大典的广陵王袍，十分完美。}}\n{{旁白|心理|试穿的时候，感觉它可真沉……}}\n{{对话|女官|世子，既然试穿完了，我们就先将它收入库房了。}}\n{{对话|我|好。礼服的禁布有些松了，收拾的时候小心些。|头像=世子常服-点头}}\n{{对话|女官|是……}}\n{{旁白|她转身带侍女进了内室；紧接着，我听见了女人们的惊叫声——}}\n{{对话|女官|哪来的野猫？！礼服！礼服——}}\n{{旁白|我看向内室——不知哪来的三只花猫扑在衣架上，无声无息间，已将礼服挠得惨不忍睹。}}\n\n{{旁白|【书房】}}\n{{对话|陈登|绣房的绣娘们看了，就算全力修补，至少也需要半个月才行。}}\n{{对话|陈登|底布、垂饰全都坏了，几乎等于重做。}}\n{{对话|我|到底是哪来的猫……|头像=世子常服-无语}}\n{{对话|傅融|……永远都搞不懂猫在想什么。这种礼服，有办法借到吗？|头像=傅融}}\n{{对话|我|亲王的王袍，怎么可能能借到……别的亲王肯不肯借都不一定。|头像=世子常服-摇头}}\n{{对话|史子眇|我和浮丘想办法去幽州借吧，刘虞一定愿意的。}}\n{{对话|我|那也太远了，就算有浮丘，也不一定能在日程中归来……再说，万一刘虞不愿意呢？|头像=世子常服-难过}}\n{{旁白|礼服出借是大事，何况还不一定合身，需要裁剪修改……}}\n{{对话|阿蝉|看着不算很难……}}\n{{对话|傅融|你会修？|头像=傅融}}\n{{对话|阿蝉|……没试过，只看过。}}\n{{对话|阿蝉|我来试试。}}\n{{旁白|她抱起残破的礼服，思索着离开了书房……}}\n\n{{旁白|【三日后】}}\n{{旁白|阿蝉不见了。}}\n{{对话|傅融|小蝉早上带着一个包袱，策马出门了。}}\n{{对话|傅融|说实话，我有不祥的预感……因为你的礼服也不见了。}}\n{{对话|我|………………该不会是……|头像=世子常服-惊讶}}\n{{对话|傅融|……嗯，可能发现实在修不好，或者修的时候出了大问题……结果就跑了。}}\n{{旁白|心理|有点头晕……}}\n{{嵌套分歧|头}}\n{{嵌套分歧|去找阿蝉|1}}\n{{嵌套分歧|等待阿蝉|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|必须找到她……|头像=世子常服-严肃}}\n{{对话|傅融|她日出时走的，现在可能都已经出界碑了，没人知道她在哪。|头像=傅融}}\n{{对话|我|……让小鸦带着绣云鸢去找。哪怕只有蛛丝马迹都可能是转机。|头像=世子常服-严肃}}\n\n{{旁白|【城郊】}}\n{{对话|我|西北那边的军阀？|头像=世子常服-严肃}}\n{{对话|傅融|嗯。有几队西北边陲的军阀来了关中，目的不明。}}\n{{对话|傅融|不知道是单纯的贸易，还是想投奔关中的士族。有一支人马已经去找了陶谦。}}\n{{对话|傅融|小蝉最后的踪迹和他们重叠了。我有点担心她的安危……}}\n{{对话|我|……边陲的军阀和部队……太危险了，她孤身一人！|头像=世子常服-生气}}\n{{旁白|我们策马疾奔，赶往小鸦说的方位。}}\n{{旁白|沿途，的确有重骑兵经过的痕迹。足迹都是西凉大马蹄印，比寻常马匹大两倍有余。}}\n{{旁白|心理|阿蝉——}}\n{{旁白|我们又行了十余里，从夜入明。}}\n\n{{对话|傅融|你看前面——|头像=傅融}}\n{{对话|我|！！！|头像=世子常服-生气}}\n{{旁白|前面，有一队西凉军士缓缓前行。在他们的马队中间，阿蝉正低着头，默默跟着他们行动。}}\n{{对话|我|阿蝉！|头像=世子常服-生气}}\n{{旁白|她猛地转过头看向我们，脸上浮起笑意。那些人见她脱队，纷纷强行阻拦。}}\n{{旁白|双方用羌语激烈争执起来，我起初想动手，但被傅融拦住了。}}\n{{对话|傅融|他们好像没有动兵器。也许有谈的余地。|头像=傅融}}\n{{对话|傅融|小蝉离他们太近，贸然动手，可能会有危险！|头像=傅融}}\n{{对话|我|你说得对……你们听得懂关中话吗？我们可以谈谈！|头像=世子常服-严肃}}\n{{对话|我|你们想要什么，我们都可以谈！不要伤害她！|头像=世子常服-严肃}}\n{{对话|西凉军|……？|头像=西凉军乙}}\n{{旁白|对面仍然没有动兵器。就在这时，阿蝉打开左边阻拦的骑兵，策马冲向了我们。}}\n{{对话|我|你没事就好！|头像=世子常服-微笑}}\n{{对话|阿蝉|礼服……礼服……}}\n{{对话|我|别管礼服了，我们先撤！|头像=世子常服-生气}}\n{{对话|阿蝉|礼服还在中军……}}\n{{旁白|那些西涼军策马追赶我们，但马速不算太快，看样子似乎不打算近身马战冲杀。我们遁入林中，松了口气。}}\n{{对话|傅融|中军？你是说，你带着礼服出来找能修礼服的人，结果礼服被弄丟了，被西凉军抢了？}}\n{{旁白|阿蝉皱着眉头，摇头又点头。没人懂她意思。但因为是阿蝉，所以大家也不是很执著于弄懂。}}\n{{对话|傅融|去硬抢回来，是不是太冒险了？}}\n{{对话|傅融|而且被西凉军抢走，礼服指不定变成什么无可挽回的样子了……|头像=傅融}}\n{{对话|我|……不管怎样，都先去周边看看吧。毕竟是广陵王一脉历代相传的礼服。|头像=世子常服-微笑}}\n{{旁白|心理|虽然这样说，但心里也并不抱什么希望……}}\n\n{{旁白|【曲阳】}}\n{{旁白|我们前往阿蝉所说的临时营地，心情忐忑。然而抵达的时候，营地的状況却出乎意料。}}\n{{旁白|这支西涼军已经拔营了。原地是各种扎营痕迹，还有没冷却的火烟。}}\n{{对话|阿蝉|这个！这个！}}\n{{对话|我|他们没带走礼服？！|头像=世子常服-惊讶}}\n{{旁白|在一处帐篷的痕迹中，一个檀木衣箱静静被放在那。}}\n{{旁白|看帐篷痕迹，这似乎原本是军队大将的中帐。}}\n{{对话|阿蝉|修好了……！}}\n{{对话|我|？！！|头像=世子常服-惊讶}}\n{{对话|阿蝉|真的！修好了！真的！}}\n{{旁白|我目瞪口呆，接过她递来的亲王礼服——它被修葺一新，完全看不出任何破损痕迹。}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|再等等吧，也许她去想办法了，会尽快回来的。|头像=世子常服-微笑}}\n{{对话|傅融|你也太相信她了，她连关中话都说不利落！}}\n{{对话|我|不相信也没有别的办法，你知道她去哪了吗？|头像=世子常服-微笑}}\n{{对话|傅融|……她马速极快，日出时走的，没人知道她去了哪。}}\n{{对话|我|……所以，除了等，没有别的办法了……|头像=世子常服-微笑}}\n{{旁白|于是，我别无选择，只能等了下去……}}\n{{旁白|阿蝉一去不返，不知缘由。}}\n{{旁白|你的礼服也从此人间蒸发。由于没有符合规制的礼服，你没能赶上继位大典。}}\n{{旁白|靠着祖产，你转而经商，凭借官方许可的盐业富甲一方。在获得隐鸢阁助力之后，你迅速成为关中巨商。}}\n{{旁白|作为你的副手，傅融很快实现了财富自由。但他似乎并不满足，在某一日忽然离去。}}\n{{旁白|天有不测风云。又过几年后，徐州陷入二袁混战之中。广陵在战火中被夷为平地，你失去了所有财富……}}\n{{旁白|徐庶从战火中将你救回隐鸢阁。可是，此时的隐鸢阁深陷无尽的内斗，左慈失踪，音讯全无，葛洪一脉主持大局。}}\n{{旁白|某日，你在午膳后突然头晕目眩。徐庶、史子眇都被人支走，无力行动的你，只能眼睁睁看着葛洪来到身边……}}\n{{旁白|再然后，在他的轻笑声中，你陷入了长眠。仍有感知、仍有思绪，但是，一切都不由自主。}}\n{{旁白|触发结局【长眠】}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n\n{{对话-头}}\n\n=<font color=#BB996F>'''傅融·线索5'''</font>=\n{{旁白|【雒阳】}}\n{{旁白|心理|……到了。雒阳。}}\n{{旁白|心理|七日后，便是我的继位大典。}}\n{{对话|我|好像做梦一样……|头像=世子常服-惊讶}}\n{{对话|徐庶|是啊。中间好几次以为要搞砸了呢。}}\n{{对话|礼官|请广陵世子仪仗入城——|头像=文官}}\n{{旁白|城门隆隆而开，我镇定心神，看向身边众人。}}\n{{旁白|所有人之中，傅融是最平静的，平静得有些反常。}}\n{{对话|我|怎么了，傅融？|头像=世子常服-微笑}}\n{{对话|傅融|……没什么。昨夜没休息好。}}\n{{对话|我|你们可以先去谒舍休息。今日晚了，内廷应该不会召见。|头像=世子常服-点头}}\n{{对话|傅融|那你呢？}}\n{{对话|我|我还是要换上常服，去待漏室等候召见。等内廷传话出来，今日天子明确不召见，才能回谒舍。|头像=世子常服-摇头}}\n{{对话|傅融|要等多久？}}\n{{对话|我|不知道。可能一两个时辰，可能一整夜。|头像=世子常服-摇头}}\n{{旁白|他沉默了。在谒舍外，我和众人分道而行，前往待漏室……}}\n\n{{旁白|【待漏室】}}\n{{旁白|心理|好困……果然等到深夜都没有准信。}}\n{{旁白|心理|估计是常侍根本没有把我的事上报吧，看这情况，也许要等通宵了……}}\n{{旁白|我见四下无人，偷偷从旁边的坐席上拖来靠垫，勉强躺了一会。}}\n{{旁白|被丢在空寂的待漏室里，不知过了多久……}}\n{{对话|傅融|醒醒……|头像=傅融}}\n{{对话|我|唔……傅融？|头像=世子常服-挑眉}}\n{{对话|我|你怎么进来的？|头像=世子常服-惊讶}}\n{{对话|傅融|外面侍卫放我进来的，你又不是坐牢。我说自己是世子随行人员，来送个东西。}}\n{{对话|傅融|要等多久啊？干脆别等了吧。|头像=傅融}}\n{{对话|我|不行。私自离开，不等传召，被报上去就是大不敬。|头像=世子常服-摇头}}\n{{对话|傅融|……}}\n{{对话|傅融|要不然……}}\n{{旁白|他看了眼门外。空旷的待漏室外，侍卫们离我们有一段距离。}}\n{{对话|傅融|……我们交换。}}\n{{对话|傅融|换一件外套就行。反正天晚了，他们也不认识我们的脸。你回去休息，等白天了再来换我。}}\n{{对话|傅融|到时候就假称更衣，无人时再换回来。}}\n{{对话|我|……你怎么了？|头像=世子常服-惊讶}}\n{{对话|傅融|我没怎么。徐庶心疼你，催着我来跟你商量。}}\n{{对话|我|…………不至于吧？一夜而已，大不了抱个软垫应付着睡一觉，又不是吃酷刑。|头像=世子常服-摇头}}\n{{对话|我|为了这一夜横生枝节……若出了意外，岂不是麻烦？|头像=世子常服-严肃}}\n{{对话|傅融|……我也这么跟徐庶说。但你也知道她性子，想法天马行空的，劝不住。}}\n{{对话|我|哈……习惯就好。等回去了，我再劝劝她。|头像=世子常服-微笑}}\n{{对话|傅融|你不要跟她提。免得人家多心，以为我告黑状。}}\n{{对话|我|徐庶前辈才不会多心呢。你今夜怎么了？说话奇奇怪怪的。|头像=世子常服-微笑}}\n{{旁白|我抱着垫子坐起身，又拖过一个垫子塞给他。}}\n{{对话|我|靠着，一起说说话吧。一个人待着，太无聊了。|头像=世子常服-微笑}}\n{{对话|傅融|……好，说说话吧。}}\n{{旁白|我们靠着垫子，有一搭没一搭地聊着。我问他老家种什么粮食和菜，他说记不太清了，好像家里的地很早就没了。}}\n{{对话|我|难怪那天陈登笑你……|头像=世子常服-微笑}}\n{{对话|傅融|笑我？}}\n{{对话|我|他说陈氏的庄园今年要换苗，种青麦。他带着麦苗给我看，你在旁边……|头像=世子常服-微笑}}\n{{对话|我|你说，这韭菜长得真矮。扑哧……哈哈……哈哈哈哈……|头像=世子常服-微笑}}\n{{对话|傅融|哈……原来不是韭菜？}}\n{{对话|我|长得很像吧？陈登回头说起这事，说，幸好傅融没留在老家种地，不然连种什么都不知道。|头像=世子常服-微笑}}\n{{旁白|我们的笑声在空旷的待漏室里回荡。室内昏暗，有几盏灯灭了。他侧过脸，没有看我。}}\n{{对话|我|呼……你是不是困了？|头像=世子常服-微笑}}\n{{对话|傅融|不困。就是有点紧张。}}\n{{对话|我|你紧张什么？|头像=世子常服-挑眉}}\n{{对话|傅融|……紧张你的事，怕你出岔子。要不要喝酒定定神？}}\n{{对话|我|……真是奇了，你居然主动提议喝酒？|头像=世子常服-惊讶}}\n{{对话|傅融|徐庶的主意，怕你太紧张了，让我带了一壶酒来。}}\n{{旁白|他不知从哪取出一个小酒壶，在我面前晃了晃。等了几个时辰，我也确实口渴了。}}\n{{旁白|心理|……但明日一定会朝见天子。如果今夜饮酒，明日可能殿上失仪……}}\n{{旁白|心理|兹事体大，还是谨慎些吧。}}\n{{嵌套分歧|头}}\n{{嵌套分歧|喝|1}}\n{{嵌套分歧|不喝|2}}\n{{嵌套分歧|尾}}\n{{嵌套分歧|内容头|显示=1}}\n{{对话|我|不能多喝，万一明天醉酒失仪就糟糕了。|头像=世子常服-微笑}}\n{{对话|傅融|闻味道，应该不是很烈的酒。|头像=傅融}}\n{{对话|我|那就一人一半！|头像=世子常服-微笑}}\n{{旁白|我拿起酒壶，饮下一半的淡酒，将剩下的半壶酒递给他。}}\n{{对话|我|不喝吗？自己带来的酒。|头像=世子常服-惊讶}}\n{{对话|傅融|……好。我分一半。|头像=傅融}}\n{{旁白|他也仰头，喝下了那半壶酒……}}\n\n{{对话|我|………………|头像=世子常服-疲惫}}\n{{对话|我|……………………………………？！！！！！！|头像=世子常服-惊讶}}\n{{对话|我|傅融！傅融！醒醒！傅融！！！|头像=世子常服-生气}}\n{{对话|傅融|……唔……|头像=傅融}}\n{{旁白|心理|为什么会一觉睡到现在？！！}}\n{{旁白|我手忙脚乱披上外套、戴正发冠，冲出待漏室。室外气氛一片肃杀，常待张让正带着文官与内侍，眼神森冷地看着我。}}\n{{对话|我|……我……臣有罪，臣贪眠误时，望请恕罪！|头像=世子常服-严肃}}\n{{对话|文官|世子，不必惊慌。虽然误时，但陛下仁德，没有怪罪。|头像=男文人}}\n{{对话|文官|陛下念在世子年少、舟车劳顿，又在待漏室等候一夜，允世子稍作休整，午后觐见。|头像=男文人}}\n{{对话|我|万谢……|头像=世子常服-微笑}}\n{{旁白|我松了口气，擦掉掌心沁出的冷汗；傅融摇摇晃晃走到我身后，神色也惊疑未定。}}\n{{对话|我|居然没有被重罚，真是意外……|头像=世子常服-微笑}}\n{{对话|文官|昨日是皇子协的生辰宴，陛下心情愉悦。|头像=男文人}}\n{{对话|文官|世子之后可要谨言慎行，端正礼数。下一次，可就没有这样的好日子了。|头像=男文人}}\n\n{{旁白|【谒舍】}}\n{{对话|徐庶|又延了三日？}}\n{{对话|我|嗯，好像张让跟天子说我神色疲惫，内廷来传了话，让我在谒舍多歇息三日，典礼延后。|头像=世子常服-点头}}\n{{对话|史子眇|但是三日后……三日后是大雨啊！|头像=史子眇}}\n{{对话|徐庶|你确定吗？你测算天气一向不太准的。}}\n{{对话|傅融|……大雨……|头像=傅融}}\n{{对话|史子眇|这么大的雨，还是算得准的。|头像=史子眇}}\n{{对话|徐庶|好可惜……一生一次的大典，居然要撞上雨天了。}}\n{{对话|史子眇|哈……别这样说，其实雨天未必是坏事呢。|头像=史子眇}}\n{{旁白|就这样，我的继位大典被延后了三日。等到大典当日……}}\n\n{{旁白|【大典现场】}}\n{{旁白|心理|……果然，瓢泼大雨。}}\n{{旁白|雨水倾盆而下，几乎在宫内积起了浅浅的积水。因为暴雨，正道上临时搭起雨棚，但地上还是一步一泥泞。}}\n{{对话|文官|世子小心脚下，前面有几块地砖松动了。|头像=男文人}}\n{{对话|我|多谢。|头像=世子常服-微笑}}\n{{旁白|我放慢脚步。那几块地砖不知怎么松动了，下面翘了起来，被雨水一泡，走起来一晃一晃的。}}\n{{对话|文官|真是的……明明是要举办大典的正道，怎么还会有这样不得体的地方？|头像=男文人}}\n{{旁白|我继续走向正殿。就在我走出雨棚的瞬间，一阵清风淅沥……}}\n{{旁白|雨停了。}}\n{{对话|我|……好漂亮。|头像=世子常服-微笑}}\n{{旁白|——头顶的天空霎时晴朗。一道云彩汇聚，聚于正殿之顶。}}\n{{旁白|云霞光彩明灭，或紫或青，片刻后云散，白虹弥天。}}\n{{旁白|这天，我继位为广陵王。}}\n{{旁白|之后，又是数日宫宴、应酬，得承绣衣校尉之职……一个月后，所有事务终于完毕，我们回转广陵。}}\n{{旁白|触发结局【广陵王】}}\n{{嵌套分歧|内容尾}}\n{{嵌套分歧|内容头}}\n{{对话|我|我不能喝。万一明日殿前失仪，所有的努力就都白费了。|头像=世子常服-摇头}}\n{{对话|傅融|……}}\n{{对话|傅融|是吗。也好。}}\n{{旁白|他收起了酒壶，把软垫放了回去。然后，他让我早些休息，离开了待漏室。}}\n\n{{旁白|【大典现场】}}\n{{旁白|面见天子、朝臣，敬承庭训之后，很快到了大典之日。}}\n{{旁白|正如占卜吉日，今日天气晴朗，无风无雨。我身穿广陵王的正装礼服，缓缓走过正道……}}\n\n{{旁白|……}}\n{{旁白|…………}}\n{{旁白|………………一切都发生在转瞬之间。脚下剧烈的爆炸，终结了一切。}}\n{{旁白|触发结局【爆炸】}}\n{{嵌套分歧|内容尾}}\n{{对话-尾}}\n</div>\n</div></div></div></div></div><center>'''[[#top|<span style=\"font-size:17px;color:#1E8EEE\">回到顶部</span>]]</center>'''</div>"
+}
