@@ -2405,24 +2405,40 @@
     "dimension": [
       "S8"
     ],
-    "question": "他受了烧伤，痛得厉害，喝下止痛汤药后昏睡不醒。有人急匆匆赶来询问情况。",
     "quote": "进来坐下说话吧。他没事的，只是烧伤太痛了，喝了止痛的汤药，药效会让人长日昏睡。",
     "options": [
       {
         "text": "「先别急，他只是药效上来了，让他好好睡一觉。」",
-        "score": 5
+        "reasoning": "选择「先别急，他只是药效上来了，让他好好睡一觉。」...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「坐下再说，急也急不来，伤得重得很。」",
-        "score": 3
+        "reasoning": "选择「坐下再说，急也急不来，伤得重得很。」...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「人没事，喝药睡着的，你不必留在这里守着。」",
-        "score": 1
+        "reasoning": "选择「人没事，喝药睡着的，你不必留在这里守着。」...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
     "reasoning": "温和安抚来人情绪，让人坐下慢慢说，体谅伤者痛苦，体现出医者特有的耐心与温柔。",
-    "source_file": "dongfeng.json"
+    "source_file": "dongfeng.json",
+    "reveal": "(需补充reveal - dongfeng_补16)",
+    "text": "他受了烧伤，痛得厉害，喝下止痛汤药后昏睡不醒。有人急匆匆赶来询问情况。"
   },
   {
     "id": "dongfeng_补17",
@@ -2430,24 +2446,40 @@
     "dimension": [
       "S8"
     ],
-    "question": "得知自己必须离开徐州，众人纷纷各自奔走。他站在原地，只问了一句话。",
     "quote": "是只有我回去吗？殿下呢？元龙问起来，我要怎么说？",
     "options": [
       {
         "text": "「你放心，我一个人也能走，别为我的事担心。」",
-        "score": 5
+        "reasoning": "选择「你放心，我一个人也能走，别为我的事担心。」...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「行，我自己走就是了。元龙那边……随你怎么说。」",
-        "score": 3
+        "reasoning": "选择「行，我自己走就是了。元龙那边……随你怎么说。」...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「不必多言，走就是了，问那么多做什么。」",
-        "score": 1
+        "reasoning": "选择「不必多言，走就是了，问那么多做什么。」...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
     "reasoning": "不愿独自离去，牵挂广陵王安危，也担心无法向故人交代，语气中满是难舍与担忧。",
-    "source_file": "dongfeng.json"
+    "source_file": "dongfeng.json",
+    "reveal": "(需补充reveal - dongfeng_补17)",
+    "text": "得知自己必须离开徐州，众人纷纷各自奔走。他站在原地，只问了一句话。"
   },
   {
     "id": "dongfeng_补18",
@@ -2455,24 +2487,40 @@
     "dimension": [
       "S9"
     ],
-    "question": "席间暗流涌动，有人提出一个看似可行的合作方案，在场众人纷纷点头。他却在散席后立刻否决了。",
     "quote": "我不能赌。方才宴上，你看清他是什么样的人了。",
     "options": [
       {
         "text": "「这个人不可信，赌注太大，我不能拿所有人去冒险。」",
-        "score": 5
+        "reasoning": "选择「这个人不可信，赌注太大，我不能拿所有人去冒险。」...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「我没把握，与其冒这个险，不如再等等看。」",
-        "score": 3
+        "reasoning": "选择「我没把握，与其冒这个险，不如再等等看。」...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「算了，赌一把也没什么大不了的，最坏不过如此。」",
-        "score": 1
+        "reasoning": "选择「算了，赌一把也没什么大不了的，最坏不过如此。」...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       }
     ],
     "reasoning": "一眼看穿对方为人，果断拒绝合作方案，以自身判断力掌控局面，不容旁人置喙。",
-    "source_file": "dongfeng.json"
+    "source_file": "dongfeng.json",
+    "reveal": "(需补充reveal - dongfeng_补18)",
+    "text": "席间暗流涌动，有人提出一个看似可行的合作方案，在场众人纷纷点头。他却在散席后立刻否决了。"
   },
   {
     "id": "dongfeng_补19",
@@ -2480,24 +2528,40 @@
     "dimension": [
       "S9"
     ],
-    "question": "有人提议借助士氏的死士之力来达成目的，在场的人并不了解这个组织的真正底细。",
     "quote": "士氏的死士组织，能做到哪一步，我比谁都清楚。",
     "options": [
       {
         "text": "「别拿他们当棋子，我知道他们的底线在哪，用不好反噬的是我们自己。」",
-        "score": 5
+        "reasoning": "选择「别拿他们当棋子，我知道他们的底线在哪，用不好反噬的是我们自...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「这个组织没那么简单，你们不了解内情，别轻举妄动。」",
-        "score": 3
+        "reasoning": "选择「这个组织没那么简单，你们不了解内情，别轻举妄动。」...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「无妨，死士而已，用完丢掉就是，有什么好担心的。」",
-        "score": 1
+        "reasoning": "选择「无妨，死士而已，用完丢掉就是，有什么好担心的。」...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       }
     ],
     "reasoning": "凭借对士氏死士组织的深入了解掌握话语权，以知情者的姿态压制轻率提议，展现出不容置疑的权威。",
-    "source_file": "dongfeng.json"
+    "source_file": "dongfeng.json",
+    "reveal": "(需补充reveal - dongfeng_补19)",
+    "text": "有人提议借助士氏的死士之力来达成目的，在场的人并不了解这个组织的真正底细。"
   },
   {
     "id": "dongfeng_补20",
@@ -2505,24 +2569,40 @@
     "dimension": [
       "S10"
     ],
-    "question": "交州局势危急，有人已经得知了消息，蠢蠢欲动。他必须赶回去收拾残局，临行前交代了最后一件事。",
     "quote": "……防住消息，别让那两人知道。等我回到交州，一切就结束了。",
     "options": [
       {
         "text": "「消息必须封死，在我回来之前，谁都不许走漏半个字。」",
-        "score": 5
+        "reasoning": "选择「消息必须封死，在我回来之前，谁都不许走漏半个字。」...→S10:3 中等S10",
+        "label": "A",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「先尽量别让他们知道吧，拖到我回来再说。」",
-        "score": 3
+        "reasoning": "选择「先尽量别让他们知道吧，拖到我回来再说。」...→S10:3 中等S10",
+        "label": "B",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「知道就知道吧，也瞒不住多久，走就是了。」",
-        "score": 1
+        "reasoning": "选择「知道就知道吧，也瞒不住多久，走就是了。」...→S10:3 中等S10",
+        "label": "C",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       }
     ],
     "reasoning": "严格控制信息流通，明确指令封锁消息，以秩序手段确保局面不失控，等待自己回来处理一切。",
-    "source_file": "dongfeng.json"
+    "source_file": "dongfeng.json",
+    "reveal": "(需补充reveal - dongfeng_补20)",
+    "text": "交州局势危急，有人已经得知了消息，蠢蠢欲动。他必须赶回去收拾残局，临行前交代了最后一件事。"
   },
   {
     "id": "法正_s1_01",
@@ -3570,27 +3650,43 @@
     "dimension": [
       "S8"
     ],
-    "question": "天色渐暗，他收起算筹，抬头时目光不经意掠过广陵王的侧脸，随即别开。",
     "options": [
       {
         "key": "A",
         "text": "「回去吧，夜里露重。」——他替你拢了拢衣领，手指微凉",
-        "score": "H5"
+        "reasoning": "选择「回去吧，夜里露重。」——他替你拢了拢衣领，手指微凉...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「……没什么，灯笼该换了。」——他低头摆弄烛芯，耳尖有点红",
-        "score": "M3"
+        "reasoning": "选择「……没什么，灯笼该换了。」——他低头摆弄烛芯，耳尖有点红...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「烟花快开始了，一起看？」——他没有看你，但肩膀悄悄靠了过来",
-        "score": "L1"
+        "reasoning": "选择「烟花快开始了，一起看？」——他没有看你，但肩膀悄悄靠了过来...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "天暗了……我、我不是那个意思，我是说烟花要开始了。",
     "reasoning": "傅融笨拙地掩饰关心，用烟花做借口掩饰害羞，反差感十足。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补1)",
+    "text": "天色渐暗，他收起算筹，抬头时目光不经意掠过广陵王的侧脸，随即别开。"
   },
   {
     "id": "furong_补2",
@@ -3598,27 +3694,43 @@
     "dimension": [
       "S8"
     ],
-    "question": "门窗已全部合上，烛火昏黄。他从袖中掏出一把小剪，认真修剪灯笼上的烛芯。",
     "options": [
       {
         "key": "A",
         "text": "「别动，头发沾上蜡了。」——他伸手替你拨开发丝，动作很轻",
-        "score": "L1"
+        "reasoning": "选择「别动，头发沾上蜡了。」——他伸手替你拨开发丝，动作很轻...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「……好了，亮一些了。」——他吹了吹指尖的烛花，没敢对上你的目光",
-        "score": "H5"
+        "reasoning": "选择「……好了，亮一些了。」——他吹了吹指尖的烛花，没敢对上你的...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「以后这种事叫我，别自己剪，当心烫着手。」——声音压得很低，像只说给你一个人听",
-        "score": "M3"
+        "reasoning": "选择「以后这种事叫我，别自己剪，当心烫着手。」——声音压得很低，...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "门窗都合上了，呼，等我把灯笼剪亮些。",
     "reasoning": "他不说关心，只做实事——剪灯笼是小事，但替人留一盏灯是大事。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补2)",
+    "text": "门窗已全部合上，烛火昏黄。他从袖中掏出一把小剪，认真修剪灯笼上的烛芯。"
   },
   {
     "id": "furong_补3",
@@ -3626,27 +3738,43 @@
     "dimension": [
       "S8"
     ],
-    "question": "案头积了一摞文书，他整理到最后一卷时抬头，发现广陵王还坐在对面没走。",
     "options": [
       {
         "key": "A",
         "text": "「……今天没什么要帮忙的了？」——顿了顿，「那我早些收工，送你回去」",
-        "score": "M3"
+        "reasoning": "选择「……今天没什么要帮忙的了？」——顿了顿，「那我早些收工，送...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「还不走？等我请你吃饭？」——嘴角微扬，难得露出笑意",
-        "score": "L1"
+        "reasoning": "选择「还不走？等我请你吃饭？」——嘴角微扬，难得露出笑意...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「困了就靠这边。」——他把案卷往自己那边挪了挪，腾出半张桌子",
-        "score": "H5"
+        "reasoning": "选择「困了就靠这边。」——他把案卷往自己那边挪了挪，腾出半张桌子...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "今天没什么需要我帮忙的了？那我放值下班……",
     "reasoning": "傅融的温柔藏在公事之后，用'收工'包装'我想多陪你一会儿'。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补3)",
+    "text": "案头积了一摞文书，他整理到最后一卷时抬头，发现广陵王还坐在对面没走。"
   },
   {
     "id": "furong_补4",
@@ -3654,27 +3782,43 @@
     "dimension": [
       "S9"
     ],
-    "question": "城门大开，他站在府库前，身后是封存的仓廪和整装待发的士兵。",
     "options": [
       {
         "key": "A",
         "text": "「所有府库已封，谁要取一钱一粮，先过我这关。」——目光扫过在场每一个人",
-        "score": "H5"
+        "reasoning": "选择「所有府库已封，谁要取一钱一粮，先过我这关。」——目光扫过在...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「战事中毁坏的仓廪暂时无法清点，但现有的，一文都不会少。」",
-        "score": "M3"
+        "reasoning": "选择「战事中毁坏的仓廪暂时无法清点，但现有的，一文都不会少。」...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「这些归广陵王调配，我只是替人看门罢了。」——语气平淡，但手已按上刀柄",
-        "score": "L1"
+        "reasoning": "选择「这些归广陵王调配，我只是替人看门罢了。」——语气平淡，但手...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "入城后，大部分府库都已派兵封存，还有一些在战事中毁坏的，现在还分不出人手清点。",
     "reasoning": "封存府库是实权，他嘴上谦虚，身体却寸步不让。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补4)",
+    "text": "城门大开，他站在府库前，身后是封存的仓廪和整装待发的士兵。"
   },
   {
     "id": "furong_补5",
@@ -3682,27 +3826,43 @@
     "dimension": [
       "S9"
     ],
-    "question": "他站在暗处听完全盘计划后走出阴影，所有人的目光都汇聚过来。",
     "options": [
       {
         "key": "A",
         "text": "「计划漏洞太多，照这样去闯死牢，九死无生。」——他翻开案卷，逐条指出破绽",
-        "score": "M3"
+        "reasoning": "选择「计划漏洞太多，照这样去闯死牢，九死无生。」——他翻开案卷，...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「谁同意这个方案的？」——环顾四周，没人敢接话",
-        "score": "H5"
+        "reasoning": "选择「谁同意这个方案的？」——环顾四周，没人敢接话...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「要救人，先听我的。不是商量。」——他把地图拉到自己面前",
-        "score": "L1"
+        "reasoning": "选择「要救人，先听我的。不是商量。」——他把地图拉到自己面前...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "我一直在暗处听。计划漏洞太多，她不能这样冒险。",
     "reasoning": "暗处观察、公开质疑——傅融的权力来自比所有人看得更深。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补5)",
+    "text": "他站在暗处听完全盘计划后走出阴影，所有人的目光都汇聚过来。"
   },
   {
     "id": "furong_补6",
@@ -3710,27 +3870,43 @@
     "dimension": [
       "S9"
     ],
-    "question": "刀斧手分列两侧，他站在大堂正中，语气平静得像在念账目。",
     "options": [
       {
         "key": "A",
         "text": "「人前给你面子，是给广陵王的面子。若再犯，便不是面子的事了。」",
-        "score": "M3"
+        "reasoning": "选择「人前给你面子，是给广陵王的面子。若再犯，便不是面子的事了。...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「被乱刀砍死算不上善终。你确定要试试？」——他甚至没有抬眼",
-        "score": "H5"
+        "reasoning": "选择「被乱刀砍死算不上善终。你确定要试试？」——他甚至没有抬眼...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「退下吧。」——只两个字，刀斧手齐齐后撤一步",
-        "score": "L1"
+        "reasoning": "选择「退下吧。」——只两个字，刀斧手齐齐后撤一步...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "人前给你面子。被这么多刀斧手乱刀砍死，实在不算善终。",
     "reasoning": "用最平淡的语气说最狠的话，傅融的威压感不需要提高音量。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补6)",
+    "text": "刀斧手分列两侧，他站在大堂正中，语气平静得像在念账目。"
   },
   {
     "id": "furong_补7",
@@ -3738,27 +3914,43 @@
     "dimension": [
       "S10"
     ],
-    "question": "他翻开积案卷宗，上面密密麻麻标注着数字，每一个都对应一条人命或一笔钱粮。",
     "options": [
       {
         "key": "A",
         "text": "「上月积案三十一，清二十九。剩这两件，需要广陵王定夺。」——他把卷宗摆得整整齐齐",
-        "score": "H5"
+        "reasoning": "选择「上月积案三十一，清二十九。剩这两件，需要广陵王定夺。」——...→S10:3 中等S10",
+        "label": "A",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「数字不会说谎。每一笔对不上，背后就是一个烂摊子。」",
-        "score": "M3"
+        "reasoning": "选择「数字不会说谎。每一笔对不上，背后就是一个烂摊子。」...→S10:3 中等S10",
+        "label": "B",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「清案不是快的事，是准的事。错一笔，后面全乱。」",
-        "score": "L1"
+        "reasoning": "选择「清案不是快的事，是准的事。错一笔，后面全乱。」...→S10:3 中等S10",
+        "label": "C",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "上月积案三十一，清案二十九，尚余两案，今日请裁。",
     "reasoning": "三十一清二十九，近乎完美的执行率——秩序是傅融的信仰。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补7)",
+    "text": "他翻开积案卷宗，上面密密麻麻标注着数字，每一个都对应一条人命或一笔钱粮。"
   },
   {
     "id": "furong_补8",
@@ -3766,27 +3958,43 @@
     "dimension": [
       "S10"
     ],
-    "question": "他盯着账簿上两处空白，手指在甲卯年的格子里敲了三下。",
     "options": [
       {
         "key": "A",
         "text": "「甲卯年少了七十五万的单据税款。不是丢了，是被抹了。」",
-        "score": "H5"
+        "reasoning": "选择「甲卯年少了七十五万的单据税款。不是丢了，是被抹了。」...→S10:3 中等S10",
+        "label": "A",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「数字差得太多了，这笔账走不下去。得从头查。」",
-        "score": "M3"
+        "reasoning": "选择「数字差得太多了，这笔账走不下去。得从头查。」...→S10:3 中等S10",
+        "label": "B",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「一钱一粮都得有去处，没有'差不多'这回事。」",
-        "score": "L1"
+        "reasoning": "选择「一钱一粮都得有去处，没有'差不多'这回事。」...→S10:3 中等S10",
+        "label": "C",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "甲卯、甲子年份，少了七十五万和五十九万的单据、税款。",
     "reasoning": "对傅融来说，账目不清不是小事，而是秩序崩塌的第一道裂缝。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补8)",
+    "text": "他盯着账簿上两处空白，手指在甲卯年的格子里敲了三下。"
   },
   {
     "id": "furong_补9",
@@ -3794,27 +4002,43 @@
     "dimension": [
       "S10"
     ],
-    "question": "他蹲在井边，指着记录册上的数字，眉头拧成一团。",
     "options": [
       {
         "key": "A",
         "text": "「五十七人喝过这口井的水。不对，应该更多——有人没被记上。」——他重新翻开名册",
-        "score": "H5"
+        "reasoning": "选择「五十七人喝过这口井的水。不对，应该更多——有人没被记上。」...→S10:3 中等S10",
+        "label": "A",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「记录和实际对不上，就说明有人在藏东西。」",
-        "score": "M3"
+        "reasoning": "选择「记录和实际对不上，就说明有人在藏东西。」...→S10:3 中等S10",
+        "label": "B",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「每一条记录都要核实，漏一个，线索就断了。」",
-        "score": "L1"
+        "reasoning": "选择「每一条记录都要核实，漏一个，线索就断了。」...→S10:3 中等S10",
+        "label": "C",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
     "dialogue": "一共有五十七人喝过荀府的井水？不对，应该更多。",
     "reasoning": "记录偏差在他眼里就是潜在危险，秩序容不下任何一个'差不多'。",
-    "source_file": "furong.json"
+    "source_file": "furong.json",
+    "reveal": "(需补充reveal - furong_补9)",
+    "text": "他蹲在井边，指着记录册上的数字，眉头拧成一团。"
   },
   {
     "id": "甘宁_batch_1",
@@ -4141,7 +4365,6 @@
     "character": "ganning",
     "speaker": "甘宁",
     "dialogue": "我知道错啦，老妈，饶了我吧？我回去，一定做牛做马一样的孝敬你……",
-    "question": "甘宁用撒娇的语气求饶，提到要孝敬母亲。他对广陵王展示这种私人化的情感时，内心处于什么状态？",
     "dimension": [
       "S8"
     ],
@@ -4149,29 +4372,42 @@
       {
         "label": "A",
         "text": "纯粹在演戏，用撒娇来降低对方的戒心",
-        "score": 1
+        "reasoning": "选择纯粹在演戏，用撒娇来降低对方的戒心...→S8:3 中等S8",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "半真半假，母亲确实是他少有的软肋，但表演成分更多",
-        "score": 3
+        "reasoning": "选择半真半假，母亲确实是他少有的软肋，但表演成分更多...→S8:3 中等S8",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "在广陵王面前卸下了水贼的壳，像个做了错事怕被罚的孩子",
-        "score": 5
+        "reasoning": "选择在广陵王面前卸下了水贼的壳，像个做了错事怕被罚的孩子...→S8:3 中等S8",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "甘宁对人展示「做错事求饶」的姿态极为罕见，这是他少有的不带攻击性的时刻，说明广陵王让他感到安全到可以示弱。",
     "source_character": "ganning",
-    "source_file": "ganning.json"
+    "source_file": "ganning.json",
+    "reveal": "(需补充reveal - ganning_s8_1)",
+    "text": "甘宁用撒娇的语气求饶，提到要孝敬母亲。他对广陵王展示这种私人化的情感时，内心处于什么状态？"
   },
   {
     "id": "ganning_s10_1",
     "character": "ganning",
     "speaker": "甘宁",
     "dialogue": "我才不想像他们一样，被世道驯化成一条家犬。",
-    "question": "甘宁拒绝被驯化，宁可做水贼也不做家犬。这种对规则的蔑视，反映出他怎样的秩序观？",
     "dimension": [
       "S10"
     ],
@@ -4179,22 +4415,36 @@
       {
         "label": "A",
         "text": "完全无序，只凭本能行事，规则对他毫无意义",
-        "score": 1
+        "reasoning": "选择完全无序，只凭本能行事，规则对他毫无意义...→S10:3 中等S10",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "有自己的江湖规矩，只是不认同主流的等级秩序",
-        "score": 3
+        "reasoning": "选择有自己的江湖规矩，只是不认同主流的等级秩序...→S10:3 中等S10",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "对「被驯化」有着近乎偏执的恐惧，任何秩序在他看来都是枷锁",
-        "score": 5
+        "reasoning": "选择对「被驯化」有着近乎偏执的恐惧，任何秩序在他看来都是枷锁...→S10:3 中等S10",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "甘宁从饥荒流民爬上来，他不是不懂规则，而是看透了规则本质是强者对弱者的驯化。他对秩序的拒绝源于深层的不信任。",
     "source_character": "ganning",
-    "source_file": "ganning.json"
+    "source_file": "ganning.json",
+    "reveal": "(需补充reveal - ganning_s10_1)",
+    "text": "甘宁拒绝被驯化，宁可做水贼也不做家犬。这种对规则的蔑视，反映出他怎样的秩序观？"
   },
   {
     "id": "guojia_sweet_01",
@@ -4643,25 +4893,38 @@
       "S8"
     ],
     "type": "sweet",
-    "question": "郭嘉病中低烧未退，见你守在榻边，拉住你的袖口说：「北方风大，殿下跑来做什么，我又不是养不活。」",
     "options": [
       {
         "text": "「我不放心你一个人，过来看看。」",
-        "score": "M",
-        "reasoning": "坦诚的关心，郭嘉会挑眉说殿下什么时候学会说好听话了，但眼里带着笑意。"
+        "reasoning": "坦诚的关心，郭嘉会挑眉说殿下什么时候学会说好听话了，但眼里带着笑意。",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「既然养得活，那就让我养。」",
-        "score": "H",
-        "reasoning": "霸道又温柔的回应，郭嘉会笑着叹气，说殿下越来越不像正经人了，但不会松开你的手。"
+        "reasoning": "霸道又温柔的回应，郭嘉会笑着叹气，说殿下越来越不像正经人了，但不会松开你的手。",
+        "label": "B",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「那你自己注意身体，我先走了。」",
-        "score": "L",
-        "reasoning": "太冷淡了，郭嘉会眨眨眼说你真走了？然后翻个身不再理你。"
+        "reasoning": "太冷淡了，郭嘉会眨眨眼说你真走了？然后翻个身不再理你。",
+        "label": "C",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
-    "source_file": "guojia.json"
+    "source_file": "guojia.json",
+    "reveal": "(需补充reveal - guojia_s8_01)",
+    "text": "郭嘉病中低烧未退，见你守在榻边，拉住你的袖口说：「北方风大，殿下跑来做什么，我又不是养不活。」"
   },
   {
     "id": "guojia_s8_02",
@@ -4670,25 +4933,38 @@
       "S8"
     ],
     "type": "daily",
-    "question": "深夜军帐外，郭嘉裹着毯子咳了两声，转头看你：「殿下不困吗？再不睡，明天又要顶着黑眼圈去见袁绍了。」",
     "options": [
       {
         "text": "「你不睡我也不困，再聊会儿。」",
-        "score": "M",
-        "reasoning": "陪伴本身就是一种温柔，郭嘉会靠过来，低声给你讲北方的趣事。"
+        "reasoning": "陪伴本身就是一种温柔，郭嘉会靠过来，低声给你讲北方的趣事。",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「你先把药喝了再说。」",
-        "score": "M",
-        "reasoning": "关心但带着命令语气，郭嘉会无奈地笑着把药喝了，说殿下比他师父还啰嗦。"
+        "reasoning": "关心但带着命令语气，郭嘉会无奈地笑着把药喝了，说殿下比他师父还啰嗦。",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「给你披件外衣再睡。」",
-        "score": "H",
-        "reasoning": "实际行动的温柔，郭嘉会安静地让你披上，然后小声说句谢谢。"
+        "reasoning": "实际行动的温柔，郭嘉会安静地让你披上，然后小声说句谢谢。",
+        "label": "C",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "guojia.json"
+    "source_file": "guojia.json",
+    "reveal": "(需补充reveal - guojia_s8_02)",
+    "text": "深夜军帐外，郭嘉裹着毯子咳了两声，转头看你：「殿下不困吗？再不睡，明天又要顶着黑眼圈去见袁绍了。」"
   },
   {
     "id": "guojia_s9_01",
@@ -4697,25 +4973,38 @@
       "S9"
     ],
     "type": "scheme",
-    "question": "郭嘉铺开舆图，指尖点在宛城的位置：「殿下，绣衣楼的手伸到荆北来了。若不斩断，将来你坐不稳这把椅子。」",
     "options": [
       {
         "text": "「这件事你全权处理，我不插手。」",
-        "score": "M",
-        "reasoning": "放权但不失主君姿态，郭嘉会接下，但心里会记下你的信任。"
+        "reasoning": "放权但不失主君姿态，郭嘉会接下，但心里会记下你的信任。",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「绣衣楼的事，让贾诩去处理吧。」",
-        "score": "L",
-        "reasoning": "将权力推给别人，郭嘉会意味深长地看你一眼，说殿下真是大方。"
+        "reasoning": "将权力推给别人，郭嘉会意味深长地看你一眼，说殿下真是大方。",
+        "label": "B",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「说说你的计划，我来拍板。」",
-        "score": "H",
-        "reasoning": "明确掌握决策权同时信任郭嘉的谋略，他会赞赏地笑，说你越来越像个主君了。"
+        "reasoning": "明确掌握决策权同时信任郭嘉的谋略，他会赞赏地笑，说你越来越像个主君了。",
+        "label": "C",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "guojia.json"
+    "source_file": "guojia.json",
+    "reveal": "(需补充reveal - guojia_s9_01)",
+    "text": "郭嘉铺开舆图，指尖点在宛城的位置：「殿下，绣衣楼的手伸到荆北来了。若不斩断，将来你坐不稳这把椅子。」"
   },
   {
     "id": "guojia_s10_01",
@@ -4724,25 +5013,38 @@
       "S10"
     ],
     "type": "angst",
-    "question": "郭嘉从郿坞回来，浑身是伤，却笑着对你说：「规矩嘛，就是用来打破的。殿下不觉得这样才有趣吗？」",
     "options": [
       {
         "text": "「下次再这样，我先把你关起来。」",
-        "score": "M",
-        "reasoning": "用秩序手段保护人，郭嘉会笑着说殿下要关我？那我可要逃了。"
+        "reasoning": "用秩序手段保护人，郭嘉会笑着说殿下要关我？那我可要逃了。",
+        "label": "A",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「只要结果是对的，过程无所谓。」",
-        "score": "L",
-        "reasoning": "完全认同打破规则，郭嘉会满意地点头，说你终于开窍了。但他心里会觉得你不够在意他。"
+        "reasoning": "完全认同打破规则，郭嘉会满意地点头，说你终于开窍了。但他心里会觉得你不够在意他。",
+        "label": "B",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「有趣是有趣，但别拿自己的命去破。」",
-        "score": "H",
-        "reasoning": "在秩序与感情之间选择了他的安危，郭嘉会愣一下，然后移开视线说殿下真没意思。"
+        "reasoning": "在秩序与感情之间选择了他的安危，郭嘉会愣一下，然后移开视线说殿下真没意思。",
+        "label": "C",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "guojia.json"
+    "source_file": "guojia.json",
+    "reveal": "(需补充reveal - guojia_s10_01)",
+    "text": "郭嘉从郿坞回来，浑身是伤，却笑着对你说：「规矩嘛，就是用来打破的。殿下不觉得这样才有趣吗？」"
   },
   {
     "id": "简雍_s7_01",
@@ -5189,62 +5491,84 @@
     "character": "jiaxu",
     "name": "贾诩",
     "line": "他供奉的太少，想要的却太多。彼此终是要分道扬镳的，宛城是座不错的坟。",
-    "question": "贾诩将宛城比作「坟」，这句话中对权力关系的理解是？",
     "options": [
       {
         "label": "A",
         "text": "权力关系本质上都是利用与被利用",
-        "score": 5
+        "reasoning": "选择权力关系本质上都是利用与被利用...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "对即将到来的战争感到恐惧",
-        "score": 1
+        "reasoning": "选择对即将到来的战争感到恐惧...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "为张绣的处境感到惋惜",
-        "score": 3
+        "reasoning": "选择为张绣的处境感到惋惜...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S9权力": "H",
-      "S1权谋": "H",
-      "S2情感": "L"
-    },
     "reasoning": "贾诩用冰冷的交易逻辑解构权力同盟——供奉与索取不对等则必散，宛城不过是这场交易的坟场。",
-    "source_file": "jiaxu.json"
+    "source_file": "jiaxu.json",
+    "reveal": "(需补充reveal - jiaxu_07)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "贾诩将宛城比作「坟」，这句话中对权力关系的理解是？"
   },
   {
     "id": "jiaxu_08",
     "character": "jiaxu",
     "name": "贾诩",
     "line": "拿曹操去喂狼，这就是全部的计划。",
-    "question": "贾诩用「喂狼」来形容对曹操的算计，这反映他怎样的权力观？",
     "options": [
       {
         "label": "A",
         "text": "所有人都只是棋盘上的消耗品",
-        "score": 5
+        "reasoning": "选择所有人都只是棋盘上的消耗品...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "对曹操有特别的仇恨",
-        "score": 1
+        "reasoning": "选择对曹操有特别的仇恨...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "这是唯一能赢曹操的方法",
-        "score": 3
+        "reasoning": "选择这是唯一能赢曹操的方法...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S9权力": "H",
-      "S1权谋": "H",
-      "S6底线": "M"
-    },
     "reasoning": "贾诩把天下枭雄曹操轻描淡写地当作狼的食物，说明在他眼中没有不可牺牲的权力者。",
-    "source_file": "jiaxu.json"
+    "source_file": "jiaxu.json",
+    "reveal": "(需补充reveal - jiaxu_08)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "贾诩用「喂狼」来形容对曹操的算计，这反映他怎样的权力观？"
   },
   {
     "id": "孔融_bt1_06",
@@ -5331,186 +5655,252 @@
     "character": "kongrong",
     "name": "孔融",
     "line": "就像当年的天人感应，在他们心中扎根一套规则，将混沌和无序收束，每个人都有自己的活路。",
-    "question": "孔融描述「天人感应」的理想秩序时，他最看重的是？",
     "options": [
       {
         "label": "A",
         "text": "每个人在规则中都有生存空间",
-        "score": 5
+        "reasoning": "选择每个人在规则中都有生存空间...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "天子拥有至高无上的权威",
-        "score": 1
+        "reasoning": "选择天子拥有至高无上的权威...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "儒家教化的普及程度",
-        "score": 3
+        "reasoning": "选择儒家教化的普及程度...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S8温柔": "H",
-      "S9权力": "M"
-    },
     "reasoning": "孔融的理想秩序不是等级森严，而是「每个人都有自己的活路」，这是他最温柔的政治愿景。",
-    "source_file": "kongrong.json"
+    "source_file": "kongrong.json",
+    "reveal": "(需补充reveal - kongrong_03)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "孔融描述「天人感应」的理想秩序时，他最看重的是？"
   },
   {
     "id": "kongrong_04",
     "character": "kongrong",
     "name": "孔融",
     "line": "我到底……我从前到底在效忠什么人……我不可能效忠一个妖孽！",
-    "question": "孔融崩溃喊出「不可能效忠一个妖孽」时，他的信仰体系正在经历什么？",
     "options": [
       {
         "label": "A",
         "text": "毕生坚守的忠义秩序彻底崩塌",
-        "score": 5
+        "reasoning": "选择毕生坚守的忠义秩序彻底崩塌...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "只是暂时的情绪失控",
-        "score": 1
+        "reasoning": "选择只是暂时的情绪失控...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "在试探殿下的真实身份",
-        "score": 3
+        "reasoning": "选择在试探殿下的真实身份...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S2情感": "H",
-      "S6底线": "M"
-    },
     "reasoning": "孔融一生以忠义为信仰，当效忠对象被证明是「妖孽」时，他的整个秩序观被连根拔起。",
-    "source_file": "kongrong.json"
+    "source_file": "kongrong.json",
+    "reveal": "(需补充reveal - kongrong_04)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "孔融崩溃喊出「不可能效忠一个妖孽」时，他的信仰体系正在经历什么？"
   },
   {
     "id": "kongrong_05",
     "character": "kongrong",
     "name": "孔融",
     "line": "……朱虚根本没有粮，官仓里的粮早就被士族分完了……我去求粮，跪在雪里，跪了很久……为何，我没有死在那天？",
-    "question": "孔融反问「为何没有死在那天」时，这句话背后最深的情绪是？",
     "options": [
       {
         "label": "A",
         "text": "对无力保护百姓的深切愧疚",
-        "score": 5
+        "reasoning": "选择对无力保护百姓的深切愧疚...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "真的希望自己当时死了",
-        "score": 1
+        "reasoning": "选择真的希望自己当时死了...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "对士族贪婪的愤怒",
-        "score": 3
+        "reasoning": "选择对士族贪婪的愤怒...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S8温柔": "H",
-      "S10秩序": "M",
-      "S2情感": "H"
-    },
     "reasoning": "孔融宁愿自己死在雪里，因为活着意味着继续面对无力救民的痛苦，这是极致的温柔与愧疚。",
-    "source_file": "kongrong.json"
+    "source_file": "kongrong.json",
+    "reveal": "(需补充reveal - kongrong_05)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "孔融反问「为何没有死在那天」时，这句话背后最深的情绪是？"
   },
   {
     "id": "kongrong_06",
     "character": "kongrong",
     "name": "孔融",
     "line": "明天日出时，我就会去廷议定你的罪。我会杀你……但是，你走吧……",
-    "question": "孔融说「我会杀你……但是，你走吧」时，他在秩序与情感间选择了什么？",
     "options": [
       {
         "label": "A",
         "text": "情感战胜了制度义务",
-        "score": 5
+        "reasoning": "选择情感战胜了制度义务...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "在给自己留后路",
-        "score": 1
+        "reasoning": "选择在给自己留后路...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "相信殿下能自己证明清白",
-        "score": 3
+        "reasoning": "选择相信殿下能自己证明清白...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S8温柔": "H",
-      "S6底线": "M"
-    },
     "reasoning": "孔融身为御史有定罪之责，但他选择放人，说明在他心中人的生命高于制度——秩序在他心中有人性温度。",
-    "source_file": "kongrong.json"
+    "source_file": "kongrong.json",
+    "reveal": "(需补充reveal - kongrong_06)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "孔融说「我会杀你……但是，你走吧」时，他在秩序与情感间选择了什么？"
   },
   {
     "id": "kongrong_07",
     "character": "kongrong",
     "name": "孔融",
     "line": "如果真的被抓回来，请你留下一封书信，就说，是我杀了你，希望朝廷也处我的死罪。",
-    "question": "孔融请求「说是我杀了你」并求朝廷处死自己，这展现了他怎样的底线？",
     "options": [
       {
         "label": "A",
         "text": "愿意以死来承担放人的后果",
-        "score": 5
+        "reasoning": "选择愿意以死来承担放人的后果...→?:3 中等?",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "在做最后的政治表演",
-        "score": 1
+        "reasoning": "选择在做最后的政治表演...→?:3 中等?",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "对朝廷已经彻底绝望",
-        "score": 3
+        "reasoning": "选择对朝廷已经彻底绝望...→?:3 中等?",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S6底线": "H",
-      "S10秩序": "H",
-      "S8温柔": "H"
-    },
     "reasoning": "孔融放人后主动要求以命相抵，将责任完全揽在自己身上，体现了他对秩序的尊重和对生命的温柔。",
-    "source_file": "kongrong.json"
+    "source_file": "kongrong.json",
+    "reveal": "(需补充reveal - kongrong_07)",
+    "dimension": [
+      "S6"
+    ],
+    "text": "孔融请求「说是我杀了你」并求朝廷处死自己，这展现了他怎样的底线？"
   },
   {
     "id": "kongrong_08",
     "character": "kongrong",
     "name": "孔融",
     "line": "这样一来，君要臣死，我既可以随北海王而去，也不会背上自尽之名。",
-    "question": "孔融计划借朝廷之手了结自己，这反映出他怎样的权力观？",
     "options": [
       {
         "label": "A",
         "text": "连死都要符合礼法秩序",
-        "score": 5
+        "reasoning": "选择连死都要符合礼法秩序...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "对生已经没有留恋",
-        "score": 3
+        "reasoning": "选择对生已经没有留恋...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "在用最后的行动抗议朝廷",
-        "score": 1
+        "reasoning": "选择在用最后的行动抗议朝廷...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S9权力": "M",
-      "S2情感": "H"
-    },
     "reasoning": "孔融连自杀都要设计成符合「君要臣死」的礼法框架，秩序在他心中已经内化为呼吸般的存在。",
-    "source_file": "kongrong.json"
+    "source_file": "kongrong.json",
+    "reveal": "(需补充reveal - kongrong_08)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "孔融计划借朝廷之手了结自己，这反映出他怎样的权力观？"
   },
   {
     "id": "戏学_s1_01",
@@ -5757,62 +6147,84 @@
     "character": "kuaiyue",
     "name": "蒯越",
     "line": "你说我骗了殿下，证据呢！而且……而且殿下不是很开心嘛！汪！",
-    "question": "蒯越被质疑欺骗殿下时「殿下不是很开心嘛」的辩解，反映了他怎样的秩序观？",
     "options": [
       {
         "label": "A",
         "text": "结果好就是好，过程不重要",
-        "score": 5
+        "reasoning": "选择结果好就是好，过程不重要...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "真心觉得让殿下开心就是最大的功劳",
-        "score": 3
+        "reasoning": "选择真心觉得让殿下开心就是最大的功劳...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "在用撒娇逃避责任追究",
-        "score": 1
+        "reasoning": "选择在用撒娇逃避责任追究...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S10秩序": "M",
-      "S8温柔": "H",
-      "S4面具": "M"
-    },
     "reasoning": "蒯越用结果导向的逻辑为自己的手段辩护，同时用「汪」的语气软化了对抗性，兼具务实和温柔。",
-    "source_file": "kuaiyue.json"
+    "source_file": "kuaiyue.json",
+    "reveal": "(需补充reveal - kuaiyue_07)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "蒯越被质疑欺骗殿下时「殿下不是很开心嘛」的辩解，反映了他怎样的秩序观？"
   },
   {
     "id": "kuaiyue_08",
     "character": "kuaiyue",
     "name": "蒯越",
     "line": "旧缘难断，你之前让人勒断我脖子的时候，似乎也并未觉得我的脖子有什么难断的。",
-    "question": "蒯越提起被勒脖子时用「旧缘难断」开头，这说明他对此事的感受是？",
     "options": [
       {
         "label": "A",
         "text": "以苦涩幽默消化被伤害的记忆",
-        "score": 5
+        "reasoning": "选择以苦涩幽默消化被伤害的记忆...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "至今仍怀恨在心",
-        "score": 1
+        "reasoning": "选择至今仍怀恨在心...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "已经完全释怀不当回事",
-        "score": 3
+        "reasoning": "选择已经完全释怀不当回事...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S8温柔": "H",
-      "S2情感": "M",
-      "S6底线": "M"
-    },
     "reasoning": "蒯越把生死经历包装成一句玩笑话，用温柔的自嘲来处理最残酷的回忆，是典型的情感防御。",
-    "source_file": "kuaiyue.json"
+    "source_file": "kuaiyue.json",
+    "reveal": "(需补充reveal - kuaiyue_08)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "蒯越提起被勒脖子时用「旧缘难断」开头，这说明他对此事的感受是？"
   },
   {
     "id": "linghumao_daily_1",
@@ -6259,62 +6671,82 @@
     "character_id": "liubei",
     "group": 3,
     "quote": "教主，过来吧。再不过来，你就要为广陵王殉道了。",
-    "question": "他以保全百姓为信条，却对眼前的教主发出死亡威胁。这番话暴露了他怎样的权力观？",
     "options": [
       {
         "label": "A",
         "text": "「道德是用来审判敌人的，不是约束自己的」",
-        "score": 5
+        "reasoning": "选择「道德是用来审判敌人的，不是约束自己的」...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「权力应当服务于多数人的福祉」",
-        "score": 3
+        "reasoning": "选择「权力应当服务于多数人的福祉」...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "「仁慈是弱者的借口，我选择做必要之事」",
-        "score": 1
+        "reasoning": "选择「仁慈是弱者的借口，我选择做必要之事」...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S9权力": {
-        "score": "H",
-        "reasoning": "以广陵王的性命为筹码威胁教主，展示了他为达成目标不惜动用一切力量的权力掌控欲"
-      }
-    },
-    "source_file": "liubei.json"
+    "source_file": "liubei.json",
+    "reveal": "(需补充reveal - liubei_3)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "他以保全百姓为信条，却对眼前的教主发出死亡威胁。这番话暴露了他怎样的权力观？"
   },
   {
     "id": "liubei_4",
     "character_id": "liubei",
     "group": 3,
     "quote": "使君想要的，不也是我的兵马、公孙瓒的兵马吗？你们要的东西没有差别。而我只在乎，谁能用我的兵马，让百姓休养生息。",
-    "question": "面对各方势力的拉拢，他将兵马的去向与百姓福祉直接挂钩。这体现了他怎样的秩序观？",
     "options": [
       {
         "label": "A",
         "text": "「秩序的基石是民生，而非谁的旗号」",
-        "score": 5
+        "reasoning": "选择「秩序的基石是民生，而非谁的旗号」...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「谁的拳头大，秩序就归谁说了算」",
-        "score": 1
+        "reasoning": "选择「谁的拳头大，秩序就归谁说了算」...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「天下大乱之际，先求生存再谈秩序」",
-        "score": 3
+        "reasoning": "选择「天下大乱之际，先求生存再谈秩序」...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": {
-        "score": "H",
-        "reasoning": "他不以阵营归属衡量秩序，而是以百姓休养生息为唯一标准，体现出超越门阀的秩序理念"
-      }
-    },
-    "source_file": "liubei.json"
+    "source_file": "liubei.json",
+    "reveal": "(需补充reveal - liubei_4)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "面对各方势力的拉拢，他将兵马的去向与百姓福祉直接挂钩。这体现了他怎样的秩序观？"
   },
   {
     "id": "liubian_sweet_01",
@@ -7801,7 +8233,6 @@
     "character": "lvbu",
     "speaker": "吕布",
     "dialogue": "不，不是这个读音。普、日、玛、艾。日麦，「阳光下的一切」。",
-    "question": "吕布耐心教广陵王一个草原语言的发音，还解释了含义。他愿意做这种事，说明了什么？",
     "dimension": [
       "S8"
     ],
@@ -7809,29 +8240,42 @@
       {
         "label": "A",
         "text": "只是随口教一下，反正闲着也是闲着",
-        "score": 1
+        "reasoning": "选择只是随口教一下，反正闲着也是闲着...→S8:3 中等S8",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "草原语言对他有特殊意义，他愿意分享说明对广陵王不排斥",
-        "score": 3
+        "reasoning": "选择草原语言对他有特殊意义，他愿意分享说明对广陵王不排斥...→S8:3 中等S8",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "纠正发音、逐字解释——这是吕布式的温柔，笨拙但认真",
-        "score": 5
+        "reasoning": "选择纠正发音、逐字解释——这是吕布式的温柔，笨拙但认真...→S8:3 中等S8",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "吕布不善表达，纠正读音这种细节恰恰是他最真诚的温柔方式。他不敷衍、不嫌麻烦，一字一字地教。",
     "source_character": "lvbu",
-    "source_file": "lvbu.json"
+    "source_file": "lvbu.json",
+    "reveal": "(需补充reveal - lvbu_s8_1)",
+    "text": "吕布耐心教广陵王一个草原语言的发音，还解释了含义。他愿意做这种事，说明了什么？"
   },
   {
     "id": "lvbu_s9_1",
     "character": "lvbu",
     "speaker": "吕布",
     "dialogue": "等征讨黑山归来再放人。冀州地界上若是断粮，广陵王就是军粮。",
-    "question": "吕布直截了当地把广陵王当成了备用粮草。他怎么看待自己和广陵王之间的权力关系？",
     "dimension": [
       "S9"
     ],
@@ -7839,29 +8283,42 @@
       {
         "label": "A",
         "text": "把广陵王当工具人，随时可以牺牲",
-        "score": 1
+        "reasoning": "选择把广陵王当工具人，随时可以牺牲...→S9:3 中等S9",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "他认为力量决定一切，自己有兵权就有话语权，不需要虚的",
-        "score": 3
+        "reasoning": "选择他认为力量决定一切，自己有兵权就有话语权，不需要虚的...→S9:3 中等S9",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "用最极端的威胁来确立绝对主导权——「军粮」不是真要吃，是让你知道谁说了算",
-        "score": 5
+        "reasoning": "选择用最极端的威胁来确立绝对主导权——「军粮」不是真要吃，是让你...→S9:3 中等S9",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "吕布的权力表达方式非常原始直接——不玩权谋，直接亮刀。把人比作军粮是一种冷酷的权力宣示。",
     "source_character": "lvbu",
-    "source_file": "lvbu.json"
+    "source_file": "lvbu.json",
+    "reveal": "(需补充reveal - lvbu_s9_1)",
+    "text": "吕布直截了当地把广陵王当成了备用粮草。他怎么看待自己和广陵王之间的权力关系？"
   },
   {
     "id": "lvbu_s10_1",
     "character": "lvbu",
     "speaker": "吕布",
     "dialogue": "很多个词如果都是一个意思，说话就不会那么麻烦。就算不说话也可以。",
-    "question": "吕布感慨语言太复杂，觉得不说话也行。他对人与人之间需要沟通这件事持什么态度？",
     "dimension": [
       "S10"
     ],
@@ -7869,22 +8326,36 @@
       {
         "label": "A",
         "text": "单纯觉得语言麻烦，不是什么深刻思考",
-        "score": 1
+        "reasoning": "选择单纯觉得语言麻烦，不是什么深刻思考...→S10:3 中等S10",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "草原长大的他更信奉行动而非言语，觉得语言是多余的秩序",
-        "score": 3
+        "reasoning": "选择草原长大的他更信奉行动而非言语，觉得语言是多余的秩序...→S10:3 中等S10",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "他向往一种无需言语的默契，说明他对人类复杂的社交规则感到疲惫",
-        "score": 5
+        "reasoning": "选择他向往一种无需言语的默契，说明他对人类复杂的社交规则感到疲惫...→S10:3 中等S10",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "吕布在中原的语言体系中水土不服，他怀念草原上简单直接的交流方式。这不是反智，而是对过度复杂化的秩序的本能抗拒。",
     "source_character": "lvbu",
-    "source_file": "lvbu.json"
+    "source_file": "lvbu.json",
+    "reveal": "(需补充reveal - lvbu_s10_1)",
+    "text": "吕布感慨语言太复杂，觉得不说话也行。他对人与人之间需要沟通这件事持什么态度？"
   },
   {
     "id": "马超_batch_1",
@@ -8211,7 +8682,6 @@
     "character": "machao",
     "speaker": "马超",
     "dialogue": "神算呀，你怎么知道风雪只刮半日？",
-    "question": "马超得知广陵王精准预判了风雪时长后，语气里的急躁消失了大半。他对广陵王的判断力表现出怎样的态度？",
     "dimension": [
       "S8"
     ],
@@ -8219,29 +8689,42 @@
       {
         "label": "A",
         "text": "立刻追问广陵王学了什么术数，想偷师",
-        "score": 1
+        "reasoning": "选择立刻追问广陵王学了什么术数，想偷师...→S8:3 中等S8",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "嘴上夸「神算」，但眼神里全是打量，在掂量这人的利用价值",
-        "score": 3
+        "reasoning": "选择嘴上夸「神算」，但眼神里全是打量，在掂量这人的利用价值...→S8:3 中等S8",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "难得放软声调说「早说嘛」，像是被安抚的烈马，承认自己差点冲动了",
-        "score": 5
+        "reasoning": "选择难得放软声调说「早说嘛」，像是被安抚的烈马，承认自己差点冲动...→S8:3 中等S8",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "马超性情暴躁直率，但在被点醒后说「早说嘛」并自我调侃「脾气急」，这是他对信任之人罕见的柔软时刻——承认自己的不完美。",
     "source_character": "machao",
-    "source_file": "machao.json"
+    "source_file": "machao.json",
+    "reveal": "(需补充reveal - machao_s8_1)",
+    "text": "马超得知广陵王精准预判了风雪时长后，语气里的急躁消失了大半。他对广陵王的判断力表现出怎样的态度？"
   },
   {
     "id": "machao_s9_1",
     "character": "machao",
     "speaker": "马超",
     "dialogue": "如果只刮半日……哈哈哈早说嘛，瞧，我脾气急，差点动手了。",
-    "question": "马超差点因误判风雪而动手，事后却一笑带过。面对广陵王，他对「谁说了算」这件事怎么看？",
     "dimension": [
       "S9"
     ],
@@ -8249,22 +8732,36 @@
       {
         "label": "A",
         "text": "毫不在意，反正打架和笑一下对他来说没区别",
-        "score": 1
+        "reasoning": "选择毫不在意，反正打架和笑一下对他来说没区别...→S9:3 中等S9",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "默认广陵王的判断比自己准，但不会明说，用笑声掩饰",
-        "score": 3
+        "reasoning": "选择默认广陵王的判断比自己准，但不会明说，用笑声掩饰...→S9:3 中等S9",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "主动把决策权交给广陵王——「早说嘛」暗示以后这类事听广陵王的",
-        "score": 5
+        "reasoning": "选择主动把决策权交给广陵王——「早说嘛」暗示以后这类事听广陵王的...→S9:3 中等S9",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "马超承认自己差点犯错并把正确判断归功于广陵王，实际上是在让渡决策权威。这对一个心高气傲的西凉将领来说非常难得。",
     "source_character": "machao",
-    "source_file": "machao.json"
+    "source_file": "machao.json",
+    "reveal": "(需补充reveal - machao_s9_1)",
+    "text": "马超差点因误判风雪而动手，事后却一笑带过。面对广陵王，他对「谁说了算」这件事怎么看？"
   },
   {
     "id": "满宠_s6_02",
@@ -8511,62 +9008,82 @@
     "character_id": "mateng",
     "group": 3,
     "quote": "物资和兵力都够吗？路途很长，我担心你没有亲兵随行，会遇到风险。",
-    "question": "这位沙场宿将对广陵王说出的第一句话不是权谋算计，而是关切旅途安全。这份温柔意味着什么？",
     "options": [
       {
         "label": "A",
         "text": "「他不过是想用善意换取广陵王的信任罢了」",
-        "score": 1
+        "reasoning": "选择「他不过是想用善意换取广陵王的信任罢了」...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "「铁血将军也有柔软的一面，他真心把对方当作需要保护的人」",
-        "score": 5
+        "reasoning": "选择「铁血将军也有柔软的一面，他真心把对方当作需要保护的人」...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "C",
         "text": "「他习惯了照顾年轻后辈，这是长辈的自然反应」",
-        "score": 3
+        "reasoning": "选择「他习惯了照顾年轻后辈，这是长辈的自然反应」...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S8温柔": {
-        "score": "H",
-        "reasoning": "刚见面便关心物资兵力和亲兵护卫，展现了他作为老将骨子里对后辈的天然保护欲"
-      }
-    },
-    "source_file": "mateng.json"
+    "source_file": "mateng.json",
+    "reveal": "(需补充reveal - mateng_3)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "这位沙场宿将对广陵王说出的第一句话不是权谋算计，而是关切旅途安全。这份温柔意味着什么？"
   },
   {
     "id": "mateng_4",
     "character_id": "mateng",
     "group": 3,
     "quote": "夜深了，你先去歇息。我有些话，要和殿下说。",
-    "question": "他主动支走旁人，只留下殿下密谈。这一举动透露出他怎样的权力姿态？",
     "options": [
       {
         "label": "A",
         "text": "「这是老江湖的惯用手段，先掌控谈话的主动权」",
-        "score": 3
+        "reasoning": "选择「这是老江湖的惯用手段，先掌控谈话的主动权」...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "B",
         "text": "「他习惯主导局势，不容他人插手自己的安排」",
-        "score": 5
+        "reasoning": "选择「他习惯主导局势，不容他人插手自己的安排」...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "C",
         "text": "「有些话确实不宜外传，他只是考虑周全」",
-        "score": 1
+        "reasoning": "选择「有些话确实不宜外传，他只是考虑周全」...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S9权力": {
-        "score": "H",
-        "reasoning": "一句话便决定在场所有人的去留，毫不商量，是典型的上位者气度与权力惯性"
-      }
-    },
-    "source_file": "mateng.json"
+    "source_file": "mateng.json",
+    "reveal": "(需补充reveal - mateng_4)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "他主动支走旁人，只留下殿下密谈。这一举动透露出他怎样的权力姿态？"
   },
   {
     "id": "祢衡_sweet_01",
@@ -8975,25 +9492,38 @@
       "S8"
     ],
     "type": "sweet",
-    "question": "祢衡难得安静地在你身边坐下，声音放得很低：「你每天这样，不冷清吗？住在这多吓人，晚风一起，河水被风吹得呜呜响，和哭一样。」",
     "options": [
       {
         "text": "「你是在担心我？」",
-        "score": "M",
-        "reasoning": "察觉到他的关心，祢衡会否认说谁担心你了，但会默默往你身边挪近一点。"
+        "reasoning": "察觉到他的关心，祢衡会否认说谁担心你了，但会默默往你身边挪近一点。",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「有你在就不冷清了。」",
-        "score": "H",
-        "reasoning": "直球温柔，祢衡会瞬间红了耳朵，别扭地说我才不是来陪你的，但不会走开。"
+        "reasoning": "直球温柔，祢衡会瞬间红了耳朵，别扭地说我才不是来陪你的，但不会走开。",
+        "label": "B",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「我习惯了，你不用管我。」",
-        "score": "L",
-        "reasoning": "推开了他的善意，祢衡会沉默一会儿，然后站起来说那你自己小心。"
+        "reasoning": "推开了他的善意，祢衡会沉默一会儿，然后站起来说那你自己小心。",
+        "label": "C",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
-    "source_file": "niheng.json"
+    "source_file": "niheng.json",
+    "reveal": "(需补充reveal - niheng_s8_01)",
+    "text": "祢衡难得安静地在你身边坐下，声音放得很低：「你每天这样，不冷清吗？住在这多吓人，晚风一起，河水被风吹得呜呜响，和哭一样。」"
   },
   {
     "id": "niheng_s8_02",
@@ -9002,25 +9532,38 @@
       "S8"
     ],
     "type": "daily",
-    "question": "你和祢衡在雪地里走，他突然把你的手拉进自己袖子里：「师弟，你手怎么这么凉？你是不是从来不照顾自己？」",
     "options": [
       {
         "text": "「谢谢，暖和多了。」",
-        "score": "M",
-        "reasoning": "坦率接受好意，祢衡会哼一声说知道就好，别再逞强了。"
+        "reasoning": "坦率接受好意，祢衡会哼一声说知道就好，别再逞强了。",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「不用，我自己揣兜里就行。」抽回手。",
-        "score": "L",
-        "reasoning": "拒绝了他的温柔，祢衡会讪讪收回手，之后再也不会主动了。"
+        "reasoning": "拒绝了他的温柔，祢衡会讪讪收回手，之后再也不会主动了。",
+        "label": "B",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「你手也不热啊，互相取暖吧。」",
-        "score": "H",
-        "reasoning": "俏皮又亲近的回应，祢衡会心跳加速，嘴硬说谁要跟你互相取暖，但手握得更紧了。"
+        "reasoning": "俏皮又亲近的回应，祢衡会心跳加速，嘴硬说谁要跟你互相取暖，但手握得更紧了。",
+        "label": "C",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "niheng.json"
+    "source_file": "niheng.json",
+    "reveal": "(需补充reveal - niheng_s8_02)",
+    "text": "你和祢衡在雪地里走，他突然把你的手拉进自己袖子里：「师弟，你手怎么这么凉？你是不是从来不照顾自己？」"
   },
   {
     "id": "niheng_s9_01",
@@ -9029,25 +9572,38 @@
       "S9"
     ],
     "type": "angst",
-    "question": "祢衡跪下，语气急切：「阁主，投名状我交了，衷心也表了——能留我了吗？！」",
     "options": [
       {
         "text": "「你的衷心我看到了。起来吧。」",
-        "score": "M",
-        "reasoning": "认可了他的付出，祢衡会站起来，但心里还是忐忑，不确定自己在什么位置。"
+        "reasoning": "认可了他的付出，祢衡会站起来，但心里还是忐忑，不确定自己在什么位置。",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「投名状是规矩，不能废。先去领罚吧。」",
-        "score": "L",
-        "reasoning": "冷冰冰按规矩办，祢衡会苦笑一下，说也是，然后默默离开。"
+        "reasoning": "冷冰冰按规矩办，祢衡会苦笑一下，说也是，然后默默离开。",
+        "label": "B",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「起来说话。你从不需要投名状，我信你。」",
-        "score": "H",
-        "reasoning": "给他尊严和信任，比任何权力都让他动容。祢衡会抬头看你，眼眶发红，半天说不出话。"
+        "reasoning": "给他尊严和信任，比任何权力都让他动容。祢衡会抬头看你，眼眶发红，半天说不出话。",
+        "label": "C",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "niheng.json"
+    "source_file": "niheng.json",
+    "reveal": "(需补充reveal - niheng_s9_01)",
+    "text": "祢衡跪下，语气急切：「阁主，投名状我交了，衷心也表了——能留我了吗？！」"
   },
   {
     "id": "niheng_s10_01",
@@ -9056,25 +9612,38 @@
       "S10"
     ],
     "type": "daily",
-    "question": "祢衡嘀咕着隐鸢阁的规矩：「隐鸢阁规矩也多，隐鸢阁规矩就是你师尊。但左慈至少不算个狗屁不通的人。」",
     "options": [
       {
         "text": "「规矩是死的，人是活的。该守的守，不该守的就别委屈自己。」",
-        "score": "H",
-        "reasoning": "理解他的叛逆并给予自由，祢衡会眼睛亮起来，说师弟你真是说到了我心坎上。"
+        "reasoning": "理解他的叛逆并给予自由，祢衡会眼睛亮起来，说师弟你真是说到了我心坎上。",
+        "label": "A",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「你这话要是让师父听到，又得挨罚。」",
-        "score": "L",
-        "reasoning": "用规矩压他，祢衡会哼一声，说怕什么，她还能把我怎么样。"
+        "reasoning": "用规矩压他，祢衡会哼一声，说怕什么，她还能把我怎么样。",
+        "label": "B",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「师父定规矩有她的道理，别太抵触。」",
-        "score": "M",
-        "reasoning": "温和地劝他遵守，祢衡会翻个白眼说知道了知道了，但不会真的听。"
+        "reasoning": "温和地劝他遵守，祢衡会翻个白眼说知道了知道了，但不会真的听。",
+        "label": "C",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "source_file": "niheng.json"
+    "source_file": "niheng.json",
+    "reveal": "(需补充reveal - niheng_s10_01)",
+    "text": "祢衡嘀咕着隐鸢阁的规矩：「隐鸢阁规矩也多，隐鸢阁规矩就是你师尊。但左慈至少不算个狗屁不通的人。」"
   },
   {
     "id": "niheng_s6_01",
@@ -9083,25 +9652,38 @@
       "S6"
     ],
     "type": "angst",
-    "question": "祢衡说到心口旧伤，声音忽然轻了：「但是，心口旧伤的地方有个声音，一直在说让我成仙。没了牵挂，人成仙就飘荡走了，就是孤寂一人了。」",
     "options": [
       {
         "text": "「那就别成仙。留下来，我当你的牵挂。」",
-        "score": "H",
-        "reasoning": "给了他留下的理由，祢衡会怔住，然后低声说你怎么老说这种话，但嘴角会翘起来。"
+        "reasoning": "给了他留下的理由，祢衡会怔住，然后低声说你怎么老说这种话，但嘴角会翘起来。",
+        "label": "A",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「成仙不好吗？长生不老，无忧无虑。」",
-        "score": "L",
-        "reasoning": "完全没有理解他的恐惧，祢衡会沉默很久，说……你不懂。"
+        "reasoning": "完全没有理解他的恐惧，祢衡会沉默很久，说……你不懂。",
+        "label": "B",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「成仙的事以后再说，现在先养好伤。」",
-        "score": "M",
-        "reasoning": "务实但回避了核心问题，祢衡会说嗯，但那道声音他还是会听见。"
+        "reasoning": "务实但回避了核心问题，祢衡会说嗯，但那道声音他还是会听见。",
+        "label": "C",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
       }
     ],
-    "source_file": "niheng.json"
+    "source_file": "niheng.json",
+    "reveal": "(需补充reveal - niheng_s6_01)",
+    "text": "祢衡说到心口旧伤，声音忽然轻了：「但是，心口旧伤的地方有个声音，一直在说让我成仙。没了牵挂，人成仙就飘荡走了，就是孤寂一人了。」"
   },
   {
     "id": "庞德_s6_01",
@@ -9428,155 +10010,210 @@
     "character": "shixie",
     "name": "士燮",
     "line": "不算迥然吧，挖个大坑把对手活埋之类的，从前算家常便饭。",
-    "question": "士燮把活埋对手称为「家常便饭」时，他对这种秩序的态度是？",
     "options": [
       {
         "label": "A",
         "text": "早已习以为常，不觉得有什么不妥",
-        "score": 5
+        "reasoning": "选择早已习以为常，不觉得有什么不妥...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "用轻描淡写来掩饰内心的恐惧",
-        "score": 3
+        "reasoning": "选择用轻描淡写来掩饰内心的恐惧...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "试图用幽默化解殿下的不安",
-        "score": 1
+        "reasoning": "选择试图用幽默化解殿下的不安...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S6底线": "H",
-      "S4面具": "M"
-    },
     "reasoning": "士燮生长于交州四大家族混战环境，活埋确实是他的日常秩序，他对此毫无道德动摇。",
-    "source_file": "shixie.json"
+    "source_file": "shixie.json",
+    "reveal": "(需补充reveal - shixie_04)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "士燮把活埋对手称为「家常便饭」时，他对这种秩序的态度是？"
   },
   {
     "id": "shixie_05",
     "character": "shixie",
     "name": "士燮",
     "line": "广陵多是石造室，烧起来肯定没有木头屋子那样声势浩大。不过，偶尔烧个新鲜嘛。",
-    "question": "士燮评价烧广陵城「偶尔烧个新鲜嘛」，这句话暴露了他怎样的权力观？",
     "options": [
       {
         "label": "A",
         "text": "毁灭对他来说只是一种娱乐消遣",
-        "score": 5
+        "reasoning": "选择毁灭对他来说只是一种娱乐消遣...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "其实并不想真烧，只是吓唬人",
-        "score": 1
+        "reasoning": "选择其实并不想真烧，只是吓唬人...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "在用极端言论试探殿下的反应",
-        "score": 3
+        "reasoning": "选择在用极端言论试探殿下的反应...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S9权力": "H",
-      "S6底线": "H",
-      "S7锋芒": "M"
-    },
     "reasoning": "士燮把烧城当成新鲜事来讨论，权力在他手中如同玩物，毁灭与创造之间没有界限。",
-    "source_file": "shixie.json"
+    "source_file": "shixie.json",
+    "reveal": "(需补充reveal - shixie_05)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "士燮评价烧广陵城「偶尔烧个新鲜嘛」，这句话暴露了他怎样的权力观？"
   },
   {
     "id": "shixie_06",
     "character": "shixie",
     "name": "士燮",
     "line": "说起来……啊，趁着他们核查符牒，殿下何不坐下喝一盏交州龙眼蜜？",
-    "question": "在紧张的对峙中士燮邀请殿下喝龙眼蜜，这体现了他什么特质？",
     "options": [
       {
         "label": "A",
         "text": "在任何场合都保持优雅从容",
-        "score": 5
+        "reasoning": "选择在任何场合都保持优雅从容...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "用闲聊来分散殿下的注意力",
-        "score": 3
+        "reasoning": "选择用闲聊来分散殿下的注意力...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "真的只是在关心殿下渴不渴",
-        "score": 1
+        "reasoning": "选择真的只是在关心殿下渴不渴...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S8温柔": "H",
-      "S4面具": "H",
-      "S9权力": "M"
-    },
     "reasoning": "刀光剑影中请人喝蜜茶，是士燮独有的温柔面具——既展示了教养，也暗含掌控局面的自信。",
-    "source_file": "shixie.json"
+    "source_file": "shixie.json",
+    "reveal": "(需补充reveal - shixie_06)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "在紧张的对峙中士燮邀请殿下喝龙眼蜜，这体现了他什么特质？"
   },
   {
     "id": "shixie_07",
     "character": "shixie",
     "name": "士燮",
     "line": "人啊，就是不该离乡。没有先祖庇佑，出来旅居数年，便落下这么重的残疾呢……",
-    "question": "士燮说「不该离乡」时，对故乡秩序的依赖感有多深？",
     "options": [
       {
         "label": "A",
         "text": "故乡的秩序和庇佑是他安身立命的根本",
-        "score": 5
+        "reasoning": "选择故乡的秩序和庇佑是他安身立命的根本...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "只是随口感慨，不代表真实想法",
-        "score": 1
+        "reasoning": "选择只是随口感慨，不代表真实想法...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "在暗示殿下也应该回到广陵",
-        "score": 3
+        "reasoning": "选择在暗示殿下也应该回到广陵...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S8温柔": "M",
-      "S2情感": "M"
-    },
     "reasoning": "士燮将残疾归因于离乡失庇，说明他深层信仰乡土秩序的力量，即使他本人早已离开交州。",
-    "source_file": "shixie.json"
+    "source_file": "shixie.json",
+    "reveal": "(需补充reveal - shixie_07)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "士燮说「不该离乡」时，对故乡秩序的依赖感有多深？"
   },
   {
     "id": "shixie_08",
     "character": "shixie",
     "name": "士燮",
     "line": "广陵王刚要自领徐州牧，就要变反贼了，对朝廷特使动手？",
-    "question": "士燮用「反贼」一词点破殿下处境时，他的真实意图更接近？",
     "options": [
       {
         "label": "A",
         "text": "提醒殿下认清局势的严峻",
-        "score": 5
+        "reasoning": "选择提醒殿下认清局势的严峻...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "威胁殿下不要轻举妄动",
-        "score": 3
+        "reasoning": "选择威胁殿下不要轻举妄动...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "替朝廷传话施压",
-        "score": 1
+        "reasoning": "选择替朝廷传话施压...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S9权力": "M",
-      "S1权谋": "M"
-    },
     "reasoning": "士燮以朝廷特使身份提醒殿下，用最尖锐的词汇点明政治现实，是冷静的秩序维护者姿态。",
-    "source_file": "shixie.json"
+    "source_file": "shixie.json",
+    "reveal": "(需补充reveal - shixie_08)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "士燮用「反贼」一词点破殿下处境时，他的真实意图更接近？"
   },
   {
     "id": "史子眇_s2_01",
@@ -10584,32 +11221,43 @@
     "dimension": [
       "S8"
     ],
-    "question": "你在练武场上投壶连进二十支，正得意时，广陵王从旁经过，脚步放得很轻。",
     "quote": "我我我，头发没乱吧？穿的也还行吧？嘿嘿……当然想讨你开心了！",
     "options": [
       {
         "key": "A",
         "text": "「头发没乱，穿得也好看，不过你投壶的样子更好看。」",
-        "score": 1
+        "reasoning": "选择「头发没乱，穿得也好看，不过你投壶的样子更好看。」...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "B",
         "text": "「别紧张，我又不是来检查仪容的。」",
-        "score": 3
+        "reasoning": "选择「别紧张，我又不是来检查仪容的。」...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「衣服好看不好看不重要，反正等会儿都会脱。」",
-        "score": 5
-      },
-      {
-        "key": "D",
-        "text": "「嗯，今天确实精神，比平时顺眼。」",
-        "score": 1
+        "reasoning": "选择「衣服好看不好看不重要，反正等会儿都会脱。」...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "孙策在意的不是投壶成绩而是自己在广陵王面前的形象，这种少年式的在意本身就是一种笨拙的温柔。选C的回应直接拆穿他的紧张，反而让他心跳加速。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补21)",
+    "text": "你在练武场上投壶连进二十支，正得意时，广陵王从旁经过，脚步放得很轻。"
   },
   {
     "id": "sunce_补22",
@@ -10617,32 +11265,43 @@
     "dimension": [
       "S8"
     ],
-    "question": "广陵王大病初愈，孙策从城外猎了几只野兔回来，说是给补身体的。",
     "quote": "我不远万里来前线找我，是遇到急事了？",
     "options": [
       {
         "key": "A",
         "text": "「急事倒没有，就是想看看你在不在。」",
-        "score": 3
+        "reasoning": "选择「急事倒没有，就是想看看你在不在。」...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「你跑前线去了？下次跟我说一声。」",
-        "score": 1
+        "reasoning": "选择「你跑前线去了？下次跟我说一声。」...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "C",
         "text": "「我病了你就跑那么远，是怕我死在你地盘上不好交代？」",
-        "score": 5
-      },
-      {
-        "key": "D",
-        "text": "「谢谢，兔子我收下了，你自己也累了先休息。」",
-        "score": 1
+        "reasoning": "选择「我病了你就跑那么远，是怕我死在你地盘上不好交代？」...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "孙策嘴上问急事，其实是担心广陵王特意跑来。用挑衅的语气说出关心的本质，是典型的孙策式温柔。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补22)",
+    "text": "广陵王大病初愈，孙策从城外猎了几只野兔回来，说是给补身体的。"
   },
   {
     "id": "sunce_补23",
@@ -10650,32 +11309,43 @@
     "dimension": [
       "S8"
     ],
-    "question": "深夜，孙策在院子里绕圈跑步定心，被出来散步的广陵王撞见。",
     "quote": "呼、呼……不紧张不紧张，再跑三圈定定心……呼……",
     "options": [
       {
         "key": "A",
         "text": "「这么晚还在跑？明天不是有大事？」",
-        "score": 3
+        "reasoning": "选择「这么晚还在跑？明天不是有大事？」...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「你紧张什么？江东小霸王也会怕？」",
-        "score": 5
+        "reasoning": "选择「你紧张什么？江东小霸王也会怕？」...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "key": "C",
         "text": "「别跑了，过来坐，月色这么好。」",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "「我也陪你跑两圈？正好睡不着。」",
-        "score": 3
+        "reasoning": "选择「别跑了，过来坐，月色这么好。」...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
     "reasoning": "孙策很少在人前示弱，深夜独自跑步泄压被撞见时最脆弱。温柔的回应是看见他的紧张但不嘲笑，或者用陪伴化解焦虑。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补23)",
+    "text": "深夜，孙策在院子里绕圈跑步定心，被出来散步的广陵王撞见。"
   },
   {
     "id": "sunce_补24",
@@ -10683,32 +11353,43 @@
     "dimension": [
       "S8"
     ],
-    "question": "新船造好了，孙策兴冲冲拉着广陵王去看，非要亲自划船过江。",
     "quote": "今天天气好，江面也平稳。这艘就是我跟你说的新造好的艨艟。",
     "options": [
       {
         "key": "A",
         "text": "「好大，比我想象的还气派。你亲自监造的？」",
-        "score": 1
+        "reasoning": "选择「好大，比我想象的还气派。你亲自监造的？」...→S8:3 中等S8",
+        "label": "A",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "B",
         "text": "「行，你划船，我在旁边看你。」",
-        "score": 3
+        "reasoning": "选择「行，你划船，我在旁边看你。」...→S8:3 中等S8",
+        "label": "B",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「就我们两个人？这江上也没什么人……」",
-        "score": 5
-      },
-      {
-        "key": "D",
-        "text": "「船是好船，不过下次别半夜偷偷跑来造船，身体要紧。」",
-        "score": 3
+        "reasoning": "选择「就我们两个人？这江上也没什么人……」...→S8:3 中等S8",
+        "label": "C",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "孙策分享新船就像小孩炫耀玩具，希望广陵王夸他也希望和他独处。选C的暗示把这种独处感推向暧昧，正中他下怀。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补24)",
+    "text": "新船造好了，孙策兴冲冲拉着广陵王去看，非要亲自划船过江。"
   },
   {
     "id": "sunce_补25",
@@ -10716,32 +11397,43 @@
     "dimension": [
       "S9"
     ],
-    "question": "世家大族在背后议论孙策处事粗鲁，消息传到他耳朵里，他正在和广陵王商议政务。",
     "quote": "早就料到了。我还是太给那些世家大族脸面了，打得不够狠。",
     "options": [
       {
         "key": "A",
         "text": "「打狠了他们跑，打轻了他们闹，得有个度。」",
-        "score": 3
+        "reasoning": "选择「打狠了他们跑，打轻了他们闹，得有个度。」...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "B",
         "text": "「你打算怎么做？直接抄家还是逐个击破？」",
-        "score": 1
+        "reasoning": "选择「你打算怎么做？直接抄家还是逐个击破？」...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "C",
         "text": "「别冲动，先让我去探探他们到底串了哪些人。」",
-        "score": 5
-      },
-      {
-        "key": "D",
-        "text": "「你打得够狠了，他们只是嘴硬而已。」",
-        "score": 3
+        "reasoning": "选择「别冲动，先让我去探探他们到底串了哪些人。」...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "孙策对世家既恨又需要，他的权力焦虑源于出身被轻视。高分的回应不是鼓励暴力，而是帮他看清局势、用更精准的方式巩固权力。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补25)",
+    "text": "世家大族在背后议论孙策处事粗鲁，消息传到他耳朵里，他正在和广陵王商议政务。"
   },
   {
     "id": "sunce_补26",
@@ -10749,32 +11441,43 @@
     "dimension": [
       "S9"
     ],
-    "question": "有人提议让孙策称帝，他沉默了很久，只问广陵王一句。",
     "quote": "天下之主……呼，从前想都没敢想……",
     "options": [
       {
         "key": "A",
         "text": "「想不想是一回事，敢不敢是另一回事。」",
-        "score": 1
+        "reasoning": "选择「想不想是一回事，敢不敢是另一回事。」...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "B",
         "text": "「你现在有江东就够了，称帝反而招祸。」",
-        "score": 3
+        "reasoning": "选择「你现在有江东就够了，称帝反而招祸。」...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "key": "C",
         "text": "「你若真想做，我帮你铺路。但你想清楚，代价是什么。」",
-        "score": 5
-      },
-      {
-        "key": "D",
-        "text": "「孙家的人，什么时候怕过？想做就做。」",
-        "score": 3
+        "reasoning": "选择「你若真想做，我帮你铺路。但你想清楚，代价是什么。」...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "权力面前孙策罕见地犹豫，说明他清楚称帝的风险。高分回应既尊重他的野心，又逼他正视代价，这种坦率比盲目鼓励更有价值。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补26)",
+    "text": "有人提议让孙策称帝，他沉默了很久，只问广陵王一句。"
   },
   {
     "id": "sunce_补27",
@@ -10782,32 +11485,43 @@
     "dimension": [
       "S9"
     ],
-    "question": "孙策打赢了一场硬仗，城中百姓夹道欢呼，他却先问广陵王战损如何。",
     "quote": "我们赢了……你们看到了吗？我们赢了！",
     "options": [
       {
         "key": "A",
         "text": "「赢了当然高兴，但伤亡名单你看了吗？」",
-        "score": 5
+        "reasoning": "选择「赢了当然高兴，但伤亡名单你看了吗？」...→S9:3 中等S9",
+        "label": "A",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "key": "B",
         "text": "「看到了，小霸王名不虚传。」",
-        "score": 1
+        "reasoning": "选择「看到了，小霸王名不虚传。」...→S9:3 中等S9",
+        "label": "B",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "C",
         "text": "「别光顾着高兴，袁术那边不会善罢甘休。」",
-        "score": 3
-      },
-      {
-        "key": "D",
-        "text": "「你先去休息，庆功宴的事我来安排。」",
-        "score": 3
+        "reasoning": "选择「别光顾着高兴，袁术那边不会善罢甘休。」...→S9:3 中等S9",
+        "label": "C",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
     "reasoning": "真正的权力不只是赢得欢呼，而是赢得之后能稳住局面。提醒他关注伤亡和后续，是帮他从猛将成长为真正的领袖。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补27)",
+    "text": "孙策打赢了一场硬仗，城中百姓夹道欢呼，他却先问广陵王战损如何。"
   },
   {
     "id": "sunce_补28",
@@ -10815,32 +11529,43 @@
     "dimension": [
       "S10"
     ],
-    "question": "城中发生凶案，孙策下令彻查，所有在场之人不得离开。广陵王正好在案发现场附近。",
     "quote": "……彻查凶案，揪出凶手。在场之人都有嫌疑，不能离开。",
     "options": [
       {
         "key": "A",
         "text": "「我理解，我配合调查，但别把所有人都当凶手审。」",
-        "score": 5
+        "reasoning": "选择「我理解，我配合调查，但别把所有人都当凶手审。」...→S10:3 中等S10",
+        "label": "A",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "key": "B",
         "text": "「好，我等着。你查吧。」",
-        "score": 1
+        "reasoning": "选择「好，我等着。你查吧。」...→S10:3 中等S10",
+        "label": "B",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "C",
         "text": "「你确定不是有人故意栽赃？这案子没那么简单。」",
-        "score": 3
-      },
-      {
-        "key": "D",
-        "text": "「孙策，连我你也怀疑？」",
-        "score": 3
+        "reasoning": "选择「你确定不是有人故意栽赃？这案子没那么简单。」...→S10:3 中等S10",
+        "label": "C",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
     "reasoning": "秩序的维护需要铁腕但也需要智慧。高分回应既配合他的权威，又提醒他别让恐惧替代判断，避免冤案动摇治下人心。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补28)",
+    "text": "城中发生凶案，孙策下令彻查，所有在场之人不得离开。广陵王正好在案发现场附近。"
   },
   {
     "id": "sunce_补29",
@@ -10848,32 +11573,43 @@
     "dimension": [
       "S10"
     ],
-    "question": "孙策颁布新政，田契不夺、谱牒不易，广陵王作为见证在场。",
     "quote": "广陵王殿下为汉室宗亲，今日可于此见证，凡我治下，田契不夺，谱牒不易，清名不污。",
     "options": [
       {
         "key": "A",
         "text": "「我见证了。但条文容易写，执行才是难事。」",
-        "score": 5
+        "reasoning": "选择「我见证了。但条文容易写，执行才是难事。」...→S10:3 中等S10",
+        "label": "A",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "key": "B",
         "text": "「好，江东百姓有福了。」",
-        "score": 1
+        "reasoning": "选择「好，江东百姓有福了。」...→S10:3 中等S10",
+        "label": "B",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "C",
         "text": "「你做得很对。这才是王道。」",
-        "score": 3
-      },
-      {
-        "key": "D",
-        "text": "「这些世家能服？他们会阳奉阴违的。」",
-        "score": 3
+        "reasoning": "选择「你做得很对。这才是王道。」...→S10:3 中等S10",
+        "label": "C",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
     "reasoning": "秩序的建立不在于颁布条文，而在于持续执行。高分回应肯定政策方向但直指执行难题，帮他提前预判阻力。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补29)",
+    "text": "孙策颁布新政，田契不夺、谱牒不易，广陵王作为见证在场。"
   },
   {
     "id": "sunce_补30",
@@ -10881,32 +11617,43 @@
     "dimension": [
       "S10"
     ],
-    "question": "孙策发现堂兄对自己死而复生一点也不高兴，私下跟广陵王提起这件事。",
     "quote": "尤其是堂兄，你见我没死，为什么一点不高兴啊？",
     "options": [
       {
         "key": "A",
         "text": "「因为你活着，他就没机会了。亲情在权力面前不值钱。」",
-        "score": 5
+        "reasoning": "选择「因为你活着，他就没机会了。亲情在权力面前不值钱。」...→S10:3 中等S10",
+        "label": "A",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "key": "B",
         "text": "「也许他只是吓到了，别多想。」",
-        "score": 1
+        "reasoning": "选择「也许他只是吓到了，别多想。」...→S10:3 中等S10",
+        "label": "B",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "key": "C",
         "text": "「盯紧他，但别先动手。让他自己露马脚。」",
-        "score": 3
-      },
-      {
-        "key": "D",
-        "text": "「你堂兄的心思，你其实早就猜到了吧。」",
-        "score": 3
+        "reasoning": "选择「盯紧他，但别先动手。让他自己露马脚。」...→S10:3 中等S10",
+        "label": "C",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
     "reasoning": "家族内部的秩序崩塌往往从亲情裂痕开始。高分回应帮孙策认清政治与亲情的残酷关系，引导他用理性而非情绪处理。",
-    "source_file": "sunce.json"
+    "source_file": "sunce.json",
+    "reveal": "(需补充reveal - sunce_补30)",
+    "text": "孙策发现堂兄对自己死而复生一点也不高兴，私下跟广陵王提起这件事。"
   },
   {
     "id": "孙权_s2_01",
@@ -11393,31 +12140,41 @@
     "character_id": "xiaoqiao",
     "group": 3,
     "quote": "……真的吗……你……会好好送走他？",
-    "question": "她小心翼翼地向广陵王确认，语气中满是脆弱与依赖。这份温柔的背后藏着什么？",
     "options": [
       {
         "label": "A",
         "text": "「她对离别早已麻木，只是例行确认」",
-        "score": 1
+        "reasoning": "选择「她对离别早已麻木，只是例行确认」...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "「她习惯了被人安排命运，连道别都要恳求别人代劳」",
-        "score": 3
+        "reasoning": "选择「她习惯了被人安排命运，连道别都要恳求别人代劳」...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "「她把最柔软的部分交给了信任的人，因为自己的世界容不下太多不舍」",
-        "score": 5
+        "reasoning": "选择「她把最柔软的部分交给了信任的人，因为自己的世界容不下太多不...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
-    "dimensions": {
-      "S8温柔": {
-        "score": "H",
-        "reasoning": "断断续续的语气和省略号暴露了她强撑的脆弱，她不是软弱，而是把温柔给了最信任的人"
-      }
-    },
-    "source_file": "xiaoqiao.json"
+    "source_file": "xiaoqiao.json",
+    "reveal": "(需补充reveal - xiaoqiao_3)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "她小心翼翼地向广陵王确认，语气中满是脆弱与依赖。这份温柔的背后藏着什么？"
   },
   {
     "id": "xiuqiu_funny_1",
@@ -11864,93 +12621,126 @@
     "character": "xunyou",
     "name": "荀攸",
     "line": "先王纵有失德，殿下何辜？！就算今日不是殿下，任饥寒之人活活冻死在屋外，简直是耸人听闻！",
-    "question": "荀攸为殿下鸣不平时「简直是耸人听闻」的愤怒，指向的是什么秩序问题？",
     "options": [
       {
         "label": "A",
         "text": "弱者不该因上位者的过错而受难",
-        "score": 5
+        "reasoning": "选择弱者不该因上位者的过错而受难...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "殿下的身份不该被如此对待",
-        "score": 1
+        "reasoning": "选择殿下的身份不该被如此对待...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "朝廷的决策程序出了严重问题",
-        "score": 3
+        "reasoning": "选择朝廷的决策程序出了严重问题...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S8温柔": "H",
-      "S6底线": "M"
-    },
     "reasoning": "荀攸愤怒的核心不是身份贵贱，而是最基本的秩序——无辜者不该为上位者的罪过承受苦难。",
-    "source_file": "xunyou.json"
+    "source_file": "xunyou.json",
+    "reveal": "(需补充reveal - xunyou_06)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "荀攸为殿下鸣不平时「简直是耸人听闻」的愤怒，指向的是什么秩序问题？"
   },
   {
     "id": "xunyou_07",
     "character": "xunyou",
     "name": "荀攸",
     "line": "因为那件事，年终本该发的腊赐也被扣除了……差点没法置办过年。",
-    "question": "荀攸提起「差点没法置办过年」时，语气中最真实的感受是？",
     "options": [
       {
         "label": "A",
         "text": "对制度不公的无奈接受",
-        "score": 3
+        "reasoning": "选择对制度不公的无奈接受...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "B",
         "text": "为生活困窘感到委屈",
-        "score": 5
+        "reasoning": "选择为生活困窘感到委屈...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "C",
         "text": "借机向殿下示弱博同情",
-        "score": 1
+        "reasoning": "选择借机向殿下示弱博同情...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S10秩序": "M",
-      "S8温柔": "H",
-      "S3金钱": "M"
-    },
     "reasoning": "荀攸是高官却因连坐被扣腊赐，用极平淡的语气说出生活困境，反而显得格外心酸。",
-    "source_file": "xunyou.json"
+    "source_file": "xunyou.json",
+    "reveal": "(需补充reveal - xunyou_07)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "荀攸提起「差点没法置办过年」时，语气中最真实的感受是？"
   },
   {
     "id": "xunyou_08",
     "character": "xunyou",
     "name": "荀攸",
     "line": "文若是个很通达的孩子。我让他好好照顾这个来自边城的学弟，他就真的尽心照应着。",
-    "question": "荀攸回忆让荀彧照顾边城学弟这件事，流露出的温柔体现在？",
     "options": [
       {
         "label": "A",
         "text": "对弱者天然的关照本能",
-        "score": 5
+        "reasoning": "选择对弱者天然的关照本能...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "对荀彧品格的骄傲",
-        "score": 3
+        "reasoning": "选择对荀彧品格的骄傲...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "对自己当年善举的自得",
-        "score": 1
+        "reasoning": "选择对自己当年善举的自得...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S8温柔": "H",
-      "S10秩序": "M",
-      "S2情感": "M"
-    },
     "reasoning": "荀攸特意叮嘱荀彧照顾边城来的学弟，说明他对出身不公有敏锐的感知并主动弥补。",
-    "source_file": "xunyou.json"
+    "source_file": "xunyou.json",
+    "reveal": "(需补充reveal - xunyou_08)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "荀攸回忆让荀彧照顾边城学弟这件事，流露出的温柔体现在？"
   },
   {
     "id": "荀彧_s1_02",
@@ -12479,25 +13269,38 @@
       "S8"
     ],
     "type": "sweet",
-    "question": "徐庶从山上回来，怀里抱着一大包堂邑的点心，递给你：「嘿嘿，么得事情么得事情，就是路过买了点东西。」",
     "options": [
       {
         "text": "「谢谢，放这儿吧。」",
-        "score": "M",
-        "reasoning": "收下了心意但不够热情，徐庶会有点失落，但还是笑着说好吃就多吃点。"
+        "reasoning": "收下了心意但不够热情，徐庶会有点失落，但还是笑着说好吃就多吃点。",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「大老远带回来，辛苦了。」接过点心打开看。",
-        "score": "H",
-        "reasoning": "看到你的笑容他会特别满足，嘴上说着不辛苦不辛苦，但眼睛一直盯着你的反应。"
+        "reasoning": "看到你的笑容他会特别满足，嘴上说着不辛苦不辛苦，但眼睛一直盯着你的反应。",
+        "label": "B",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「以后别专门跑一趟了，我这边有吃的。」",
-        "score": "L",
-        "reasoning": "虽然出发点是心疼他，但否定了他的心意，徐庶会沉默一下，说哦好。"
+        "reasoning": "虽然出发点是心疼他，但否定了他的心意，徐庶会沉默一下，说哦好。",
+        "label": "C",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
-    "source_file": "xushu.json"
+    "source_file": "xushu.json",
+    "reveal": "(需补充reveal - xushu_s8_01)",
+    "text": "徐庶从山上回来，怀里抱着一大包堂邑的点心，递给你：「嘿嘿，么得事情么得事情，就是路过买了点东西。」"
   },
   {
     "id": "xushu_s8_02",
@@ -12506,25 +13309,38 @@
       "S8"
     ],
     "type": "daily",
-    "question": "夜里起风了，徐庶把外衣披到你肩上：「怎么还没睡啊？后面几天要起早，别熬坏了身子。」",
     "options": [
       {
         "text": "「你也别逞强，一起睡吧。」拉他坐下。",
-        "score": "H",
-        "reasoning": "回赠同样的关心和亲近，徐庶会耳朵发红，小声说那、那我陪你一会儿。"
+        "reasoning": "回赠同样的关心和亲近，徐庶会耳朵发红，小声说那、那我陪你一会儿。",
+        "label": "A",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「知道了知道了，你比我妈还啰嗦。」",
-        "score": "L",
-        "reasoning": "嘴上嫌弃，徐庶会叹气说好好好不说了，但心里是担心你的。"
+        "reasoning": "嘴上嫌弃，徐庶会叹气说好好好不说了，但心里是担心你的。",
+        "label": "B",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「好，这就去睡。你也早点休息。」",
-        "score": "M",
-        "reasoning": "乖巧听话，徐庶会满意地点点头，但会在门外多站一会儿确认你真的睡了。"
+        "reasoning": "乖巧听话，徐庶会满意地点点头，但会在门外多站一会儿确认你真的睡了。",
+        "label": "C",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
-    "source_file": "xushu.json"
+    "source_file": "xushu.json",
+    "reveal": "(需补充reveal - xushu_s8_02)",
+    "text": "夜里起风了，徐庶把外衣披到你肩上：「怎么还没睡啊？后面几天要起早，别熬坏了身子。」"
   },
   {
     "id": "xushu_s9_01",
@@ -12533,25 +13349,38 @@
       "S9"
     ],
     "type": "classic",
-    "question": "朝廷诏令送到山上，命广陵世子半年后前往雒阳受命。徐庶把诏书拍在桌上：「朝廷都愿意让步了，你凭什么阻拦？」",
     "options": [
       {
         "text": "「你觉得我应该去吗？我想听你的看法。」",
-        "score": "M",
-        "reasoning": "征求他的意见，徐庶会认真分析利弊，但也会觉得你作为主君应该更有决断。"
+        "reasoning": "征求他的意见，徐庶会认真分析利弊，但也会觉得你作为主君应该更有决断。",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「让隐鸢阁去和朝廷谈，我不亲自去。」",
-        "score": "L",
-        "reasoning": "回避问题，徐庶会皱眉说这不是逃避的时候，有些事你必须亲自面对。"
+        "reasoning": "回避问题，徐庶会皱眉说这不是逃避的时候，有些事你必须亲自面对。",
+        "label": "B",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「去雒阳是迟早的事，但我要做好万全准备。」",
-        "score": "H",
-        "reasoning": "展现主君的远见与魄力，徐庶会沉默片刻，然后说好，我帮你准备。"
+        "reasoning": "展现主君的远见与魄力，徐庶会沉默片刻，然后说好，我帮你准备。",
+        "label": "C",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "xushu.json"
+    "source_file": "xushu.json",
+    "reveal": "(需补充reveal - xushu_s9_01)",
+    "text": "朝廷诏令送到山上，命广陵世子半年后前往雒阳受命。徐庶把诏书拍在桌上：「朝廷都愿意让步了，你凭什么阻拦？」"
   },
   {
     "id": "xushu_s10_01",
@@ -12560,25 +13389,38 @@
       "S10"
     ],
     "type": "angst",
-    "question": "徐庶看着被救出来的母女，沉声说：「就事论事，能心安理得把她们交还给虐待她们的士族？你晚上摸着良心睡得着觉？」",
     "options": [
       {
         "text": "「我想个折中的办法，既不撕破脸又能保护她们。」",
-        "score": "M",
-        "reasoning": "试图平衡规则与正义，徐庶会说你别想太多，有些事做了就是做了。"
+        "reasoning": "试图平衡规则与正义，徐庶会说你别想太多，有些事做了就是做了。",
+        "label": "A",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「按照律法，她们确实是士族的奴婢……」",
-        "score": "L",
-        "reasoning": "选择维护秩序而牺牲弱者，徐庶会失望地看着你，一句话不说就转身走了。"
+        "reasoning": "选择维护秩序而牺牲弱者，徐庶会失望地看着你，一句话不说就转身走了。",
+        "label": "B",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「我不管什么规矩，人不能交回去。」",
-        "score": "H",
-        "reasoning": "在秩序面前选择良知，徐庶会用力点头，说老子就知道殿下不是那种人。"
+        "reasoning": "在秩序面前选择良知，徐庶会用力点头，说老子就知道殿下不是那种人。",
+        "label": "C",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "xushu.json"
+    "source_file": "xushu.json",
+    "reveal": "(需补充reveal - xushu_s10_01)",
+    "text": "徐庶看着被救出来的母女，沉声说：「就事论事，能心安理得把她们交还给虐待她们的士族？你晚上摸着良心睡得着觉？」"
   },
   {
     "id": "xushu_s1_01",
@@ -12587,25 +13429,38 @@
       "S1"
     ],
     "type": "scheme",
-    "question": "徐庶分析完局势后说：「士族豪强盘根错节，贱价强买民田、逼民为奴。世子立场鲜明与这些人割席，你们站哪一队？」",
     "options": [
       {
         "text": "「先稳住士族，再慢慢削弱他们。」",
-        "score": "M",
-        "reasoning": "稳健的策略，徐庶会说可以，但动作要快，夜长梦多。"
+        "reasoning": "稳健的策略，徐庶会说可以，但动作要快，夜长梦多。",
+        "label": "A",
+        "scores": {
+          "S1": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「两边都不得罪，走中间路线。」",
-        "score": "L",
-        "reasoning": "太圆滑了没有立场，徐庶会皱眉说殿下，你这样谁都保护不了。"
+        "reasoning": "太圆滑了没有立场，徐庶会皱眉说殿下，你这样谁都保护不了。",
+        "label": "B",
+        "scores": {
+          "S1": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「我站百姓那边。士族要跟，就按我的规矩来。」",
-        "score": "H",
-        "reasoning": "果断站队并展现政治手腕，徐庶会咧嘴一笑，说这才是我们要追随的人。"
+        "reasoning": "果断站队并展现政治手腕，徐庶会咧嘴一笑，说这才是我们要追随的人。",
+        "label": "C",
+        "scores": {
+          "S1": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "xushu.json"
+    "source_file": "xushu.json",
+    "reveal": "(需补充reveal - xushu_s1_01)",
+    "text": "徐庶分析完局势后说：「士族豪强盘根错节，贱价强买民田、逼民为奴。世子立场鲜明与这些人割席，你们站哪一队？」"
   },
   {
     "id": "xushu_s2_01",
@@ -12614,25 +13469,38 @@
       "S2"
     ],
     "type": "angst",
-    "question": "徐庶难得安静地坐在你身边，低声说：「这么多年，我都在隐鸢阁长大。我没有家人了，师父就是我的家人。」他顿了顿，看向远方。",
     "options": [
       {
         "text": "「隐鸢阁的人都很在乎你。」",
-        "score": "M",
-        "reasoning": "强调他已有的羁绊，徐庶会笑了笑，说嗯，我知道。但眼神里还是有些落寞。"
+        "reasoning": "强调他已有的羁绊，徐庶会笑了笑，说嗯，我知道。但眼神里还是有些落寞。",
+        "label": "A",
+        "scores": {
+          "S2": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「从现在起，你不止有师父，还有我。」",
-        "score": "H",
-        "reasoning": "直接给予归属感，徐庶会别过脸去，说殿下你别……但声音会微微发颤。"
+        "reasoning": "直接给予归属感，徐庶会别过脸去，说殿下你别……但声音会微微发颤。",
+        "label": "B",
+        "scores": {
+          "S2": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「别想这些了，明天还有很多事要做。」",
-        "score": "L",
-        "reasoning": "回避了他的情感表达，徐庶会沉默很久，然后说也是，早点休息吧。"
+        "reasoning": "回避了他的情感表达，徐庶会沉默很久，然后说也是，早点休息吧。",
+        "label": "C",
+        "scores": {
+          "S2": 1
+        },
+        "tendency": "L"
       }
     ],
-    "source_file": "xushu.json"
+    "source_file": "xushu.json",
+    "reveal": "(需补充reveal - xushu_s2_01)",
+    "text": "徐庶难得安静地坐在你身边，低声说：「这么多年，我都在隐鸢阁长大。我没有家人了，师父就是我的家人。」他顿了顿，看向远方。"
   },
   {
     "id": "xushu_s7_01",
@@ -12641,25 +13509,38 @@
       "S7"
     ],
     "type": "angst",
-    "question": "面对质疑广陵王身份的人，徐庶横在前面：「格杀？老子当年闯法场，全长安的侍卫都没能把老子格杀！」",
     "options": [
       {
         "text": "「够了，徐庶，退下。」",
-        "score": "M",
-        "reasoning": "及时制止事态升级，徐庶会不情不愿地退后，嘴里还在嘟囔。"
+        "reasoning": "及时制止事态升级，徐庶会不情不愿地退后，嘴里还在嘟囔。",
+        "label": "A",
+        "scores": {
+          "S7": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「别冲动，我们走就是了。」",
-        "score": "L",
-        "reasoning": "退缩会让徐庶寒心，他会瞪你一眼说走什么走？然后自己继续对峙。"
+        "reasoning": "退缩会让徐庶寒心，他会瞪你一眼说走什么走？然后自己继续对峙。",
+        "label": "B",
+        "scores": {
+          "S7": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「让他把话说完，我亲自回答。」",
-        "score": "H",
-        "reasoning": "既不阻拦他的锋芒又展现自己的气度，徐庶会退后一步，但眼神依然凶狠地盯着对方。"
+        "reasoning": "既不阻拦他的锋芒又展现自己的气度，徐庶会退后一步，但眼神依然凶狠地盯着对方。",
+        "label": "C",
+        "scores": {
+          "S7": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "xushu.json"
+    "source_file": "xushu.json",
+    "reveal": "(需补充reveal - xushu_s7_01)",
+    "text": "面对质疑广陵王身份的人，徐庶横在前面：「格杀？老子当年闯法场，全长安的侍卫都没能把老子格杀！」"
   },
   {
     "id": "杨修_s7_01",
@@ -13906,297 +14787,387 @@
     "source_character": "yuanji",
     "type": "sweet",
     "dialogue": "殿下，坐。无论什么事，本初都不会因此牵连殿下的。",
-    "question": "他说此话时，目光并未看你。你却在他袍袖下发现一只手，正缓缓覆上你的手背。",
     "options": [
       {
         "text": "「任由那只手扣紧十指」，不动声色",
         "scores": {
-          "S8": 5,
-          "S4": 3
-        }
+          "S8": 5
+        },
+        "reasoning": "选择「任由那只手扣紧十指」，不动声色...→?:5 高?",
+        "label": "A",
+        "tendency": "H"
       },
       {
         "text": "「轻抽出手，将茶盏递过去」，公事公办",
         "scores": {
-          "S8": 1,
           "S10": 5
-        }
+        },
+        "reasoning": "选择「轻抽出手，将茶盏递过去」，公事公办...→?:1 低?",
+        "label": "B",
+        "tendency": "H"
       },
       {
         "text": "「反过来握住他的手」，在桌案下摩挲指节",
         "scores": {
-          "S8": 3,
-          "S6": 3
-        }
+          "S8": 3
+        },
+        "reasoning": "选择「反过来握住他的手」，在桌案下摩挲指节...→?:3 中等?",
+        "label": "C",
+        "tendency": "M"
       }
     ],
     "answer_index": 0,
     "reasoning": "袁基在旁人面前维持端庄，桌案下的触碰是他仅有的私心。不戳破、不回应，只是安静承受——这便是对他最大的温柔。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补1)",
+    "text": "他说此话时，目光并未看你。你却在他袍袖下发现一只手，正缓缓覆上你的手背。",
+    "dimension": [
+      "S10"
+    ]
   },
   {
     "id": "yuanji_补2",
     "source_character": "yuanji",
     "type": "daily",
     "dialogue": "想用些茶吗？喝些热茶暖身，人会觉得好些。",
-    "question": "他将茶盏递到你手中，指尖在交接处停留了一瞬。茶水微烫，他的指尖更烫。",
     "options": [
       {
         "text": "「低头吹了吹茶面」，并不看他",
         "scores": {
-          "S8": 5,
           "S4": 3
-        }
+        },
+        "reasoning": "选择「低头吹了吹茶面」，并不看他...→?:5 高?",
+        "label": "A",
+        "tendency": "M"
       },
       {
         "text": "「直接饮尽」，说还要一杯",
         "scores": {
-          "S5": 5,
-          "S8": 1
-        }
+          "S5": 5
+        },
+        "reasoning": "选择「直接饮尽」，说还要一杯...→?:5 高?",
+        "label": "B",
+        "tendency": "H"
       },
       {
         "text": "「握着茶盏不松手」，连他的指尖一起握住",
         "scores": {
-          "S8": 3,
-          "S6": 5
-        }
+          "S8": 3
+        },
+        "reasoning": "选择「握着茶盏不松手」，连他的指尖一起握住...→?:3 中等?",
+        "label": "C",
+        "tendency": "M"
       }
     ],
     "answer_index": 0,
     "reasoning": "袁基的温柔藏在细枝末节里——他不会大张旗鼓地关心，只会多备一杯茶。最好的回应不是感激涕零，而是自然地接下，让他觉得自己被需要。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补2)",
+    "text": "他将茶盏递到你手中，指尖在交接处停留了一瞬。茶水微烫，他的指尖更烫。",
+    "dimension": [
+      "S4"
+    ]
   },
   {
     "id": "yuanji_补3",
     "source_character": "yuanji",
     "type": "sweet",
     "dialogue": "殿下可替我找一下，我的发簪，是不是被压在枕下了？",
-    "question": "他的枕榻上有一根玉簪。你伸手去拿时，触到了枕上残留的温度——还是暖的。",
     "options": [
       {
         "text": "「将发簪拿起来，在指间转了转」，还给他",
         "scores": {
-          "S8": 3,
-          "S4": 5
-        }
+          "S8": 3
+        },
+        "reasoning": "选择「将发簪拿起来，在指间转了转」，还给他...→?:3 中等?",
+        "label": "A",
+        "tendency": "M"
       },
       {
         "text": "「坐到枕边，把发簪递过去」，说你头发散了，我帮你",
         "scores": {
-          "S8": 5,
           "S2": 3
-        }
+        },
+        "reasoning": "选择「坐到枕边，把发簪递过去」，说你头发散了，我帮你...→?:5 高?",
+        "label": "B",
+        "tendency": "M"
       },
       {
         "text": "「把发簪丢到床上」，说自己找",
         "scores": {
-          "S8": 1,
-          "S5": 3
-        }
+          "S8": 1
+        },
+        "reasoning": "选择「把发簪丢到床上」，说自己找...→?:1 低?",
+        "label": "C",
+        "tendency": "L"
       }
     ],
     "answer_index": 1,
     "reasoning": "枕榻是极为私密的领地，他让你去找发簪本身就是一种信任的邀请。坐下来替他整理仪容，便是袁基最渴望的那种——有人替他卸下门面的温柔。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补3)",
+    "text": "他的枕榻上有一根玉簪。你伸手去拿时，触到了枕上残留的温度——还是暖的。",
+    "dimension": [
+      "S2"
+    ]
   },
   {
     "id": "yuanji_补4",
     "source_character": "yuanji",
     "type": "scheme",
     "dialogue": "殿下心里的想法，便是我心里的想法。",
-    "question": "他说这话时正在写一封信。你瞥了一眼——信上的字迹端庄工整，但在落款处，他的笔锋微微颤抖了一下。",
     "options": [
       {
         "text": "「不拆穿，也不追问」，只是安静等他写完",
         "scores": {
-          "S9": 3,
-          "S8": 5
-        }
+          "S9": 3
+        },
+        "reasoning": "选择「不拆穿，也不追问」，只是安静等他写完...→?:3 中等?",
+        "label": "A",
+        "tendency": "M"
       },
       {
         "text": "「问他写给谁的」，语气平常",
         "scores": {
-          "S9": 5,
-          "S7": 3
-        }
+          "S9": 5
+        },
+        "reasoning": "选择「问他写给谁的」，语气平常...→?:5 高?",
+        "label": "B",
+        "tendency": "H"
       },
       {
         "text": "「拿起笔帮他磨墨」，说你写太慢了",
         "scores": {
-          "S9": 1,
           "S5": 3
-        }
+        },
+        "reasoning": "选择「拿起笔帮他磨墨」，说你写太慢了...→?:1 低?",
+        "label": "C",
+        "tendency": "M"
       }
     ],
     "answer_index": 0,
     "reasoning": "袁基的权力表达从不强硬，而是以'顺从'来掌控——你的想法就是我的想法，所以我的行动就是你的意志。他不需你追问，他需要你信任这份'默契'。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补4)",
+    "text": "他说这话时正在写一封信。你瞥了一眼——信上的字迹端庄工整，但在落款处，他的笔锋微微颤抖了一下。",
+    "dimension": [
+      "S5"
+    ]
   },
   {
     "id": "yuanji_补5",
     "source_character": "yuanji",
     "type": "angst",
     "dialogue": "没有什么不可舍弃的本营。哪怕是氏的邺城，亦可作为诱敌之地。",
-    "question": "他说这话时的语气，像是在谈论一件无关紧要的器物。可你注意到，他说话时始终没有看邺城的方向。",
     "options": [
       {
         "text": "「握住他的手腕」，什么也不说",
         "scores": {
-          "S9": 5,
-          "S2": 3
-        }
+          "S9": 5
+        },
+        "reasoning": "选择「握住他的手腕」，什么也不说...→?:5 高?",
+        "label": "A",
+        "tendency": "H"
       },
       {
         "text": "「问他袁氏的老人怎么安排」，回到正题",
         "scores": {
-          "S9": 3,
           "S10": 5
-        }
+        },
+        "reasoning": "选择「问他袁氏的老人怎么安排」，回到正题...→?:3 中等?",
+        "label": "B",
+        "tendency": "H"
       },
       {
         "text": "「说你来做诱饵吧」，替他承担",
         "scores": {
-          "S9": 1,
-          "S6": 5
-        }
+          "S9": 1
+        },
+        "reasoning": "选择「说你来做诱饵吧」，替他承担...→?:1 低?",
+        "label": "C",
+        "tendency": "L"
       }
     ],
     "answer_index": 0,
     "reasoning": "袁基对权力的态度是清醒而残酷的——他可以为了更大的棋局舍弃一切，包括自己的根基。他不需要你替他做决定，他需要有人在他亲手割舍时，握住他的手。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补5)",
+    "text": "他说这话时的语气，像是在谈论一件无关紧要的器物。可你注意到，他说话时始终没有看邺城的方向。",
+    "dimension": [
+      "S10"
+    ]
   },
   {
     "id": "yuanji_补6",
     "source_character": "yuanji",
     "type": "scheme",
     "dialogue": "至少……在眼前这一世，我们能如愿。",
-    "question": "他站在窗边说这话，月光将他的影子拉得很长。你注意到他的影子，和你的影子，恰好重叠在一起。",
     "options": [
       {
         "text": "「向他的影子迈一步」，让它完全覆盖你的",
         "scores": {
-          "S9": 5,
-          "S8": 3
-        }
+          "S9": 5
+        },
+        "reasoning": "选择「向他的影子迈一步」，让它完全覆盖你的...→?:5 高?",
+        "label": "A",
+        "tendency": "H"
       },
       {
         "text": "「走到他身边并肩站着」，各自望着月亮",
         "scores": {
-          "S9": 3,
           "S10": 5
-        }
+        },
+        "reasoning": "选择「走到他身边并肩站着」，各自望着月亮...→?:3 中等?",
+        "label": "B",
+        "tendency": "H"
       },
       {
         "text": "「拉开窗帘让更多光照进来」，驱散阴影",
         "scores": {
-          "S9": 1,
-          "S5": 3
-        }
+          "S9": 1
+        },
+        "reasoning": "选择「拉开窗帘让更多光照进来」，驱散阴影...→?:1 低?",
+        "label": "C",
+        "tendency": "L"
       }
     ],
     "answer_index": 0,
     "reasoning": "袁基要的天下不是一个人的天下，是与你共享的天下。他对权力的渴望与对广陵王的执念是同一件事——他所有筹谋的终极目的，不过是让那道影子能永远覆盖你。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补6)",
+    "text": "他站在窗边说这话，月光将他的影子拉得很长。你注意到他的影子，和你的影子，恰好重叠在一起。",
+    "dimension": [
+      "S10"
+    ]
   },
   {
     "id": "yuanji_补7",
     "source_character": "yuanji",
     "type": "classic",
     "dialogue": "既然殿下开口了……去吧，不可在淑女面前骄横。",
-    "question": "他替你整了整衣领，手指在你颈侧多停留了两息。然后他退后一步，恢复了那副端正到近乎刻板的仪态。",
     "options": [
       {
         "text": "「任他整理」，出门前回头看他一眼",
         "scores": {
-          "S10": 5,
-          "S8": 3
-        }
+          "S10": 5
+        },
+        "reasoning": "选择「任他整理」，出门前回头看他一眼...→?:5 高?",
+        "label": "A",
+        "tendency": "H"
       },
       {
         "text": "「按住他的手」，说再等一下",
         "scores": {
-          "S10": 3,
-          "S6": 5
-        }
+          "S10": 3
+        },
+        "reasoning": "选择「按住他的手」，说再等一下...→?:3 中等?",
+        "label": "B",
+        "tendency": "M"
       },
       {
         "text": "「推开他的手」，说我自己来",
         "scores": {
-          "S10": 1,
-          "S5": 5
-        }
+          "S10": 1
+        },
+        "reasoning": "选择「推开他的手」，说我自己来...→?:1 低?",
+        "label": "C",
+        "tendency": "L"
       }
     ],
     "answer_index": 0,
     "reasoning": "袁基的秩序感体现在他对'场合'的精确把控——什么时候该端庄，什么时候该放手。他替你整衣领，是在履行一个'恰当'的角色。你回头那一眼，便是承认他这分寸拿捏得刚好。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补7)",
+    "text": "他替你整了整衣领，手指在你颈侧多停留了两息。然后他退后一步，恢复了那副端正到近乎刻板的仪态。",
+    "dimension": [
+      "S10"
+    ]
   },
   {
     "id": "yuanji_补8",
     "source_character": "yuanji",
     "type": "daily",
     "dialogue": "既要拜访昔日王府，请允在下整顿衣裳，敛容正色。",
-    "question": "他正对着铜镜整理衣冠。你坐在屏风后面，看着他一丝不苟地将每一缕散发都归位。他的手很稳，像是在做某种仪式。",
     "options": [
       {
         "text": "「安静地看」，等他整理完",
         "scores": {
-          "S10": 5,
-          "S4": 3
-        }
+          "S10": 5
+        },
+        "reasoning": "选择「安静地看」，等他整理完...→?:5 高?",
+        "label": "A",
+        "tendency": "H"
       },
       {
         "text": "「走过去，从背后替他理了理后领」，他够不到的地方",
         "scores": {
-          "S10": 3,
-          "S8": 5
-        }
+          "S10": 3
+        },
+        "reasoning": "选择「走过去，从背后替他理了理后领」，他够不到的地方...→?:3 中等?",
+        "label": "B",
+        "tendency": "M"
       },
       {
         "text": "「说不用那么隆重」，这里又没有外人",
         "scores": {
-          "S10": 1,
-          "S5": 3
-        }
+          "S10": 1
+        },
+        "reasoning": "选择「说不用那么隆重」，这里又没有外人...→?:1 低?",
+        "label": "C",
+        "tendency": "L"
       }
     ],
     "answer_index": 0,
     "reasoning": "袁基的'整顿衣裳、敛容正色'不是虚荣，是他维持秩序感的方式。面具戴好，世界就不会乱。你安静地看，便是在尊重他构筑的秩序——而他知道你在看，这让他安心。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补8)",
+    "text": "他正对着铜镜整理衣冠。你坐在屏风后面，看着他一丝不苟地将每一缕散发都归位。他的手很稳，像是在做某种仪式。",
+    "dimension": [
+      "S10"
+    ]
   },
   {
     "id": "yuanji_补9",
     "source_character": "yuanji",
     "type": "angst",
     "dialogue": "……就算到手也不是一个人的，底下还有几个弟弟嗷嗷待哺，总得先幼吾幼。",
-    "question": "他苦笑着说完，端起茶盏。茶已经凉了，他还是喝了一口。你看到他喉结微微滚动，像是在吞咽什么比凉茶更苦的东西。",
     "options": [
       {
         "text": "「把他的茶换成热茶」，什么也不说",
         "scores": {
-          "S10": 3,
-          "S8": 5
-        }
+          "S10": 3
+        },
+        "reasoning": "选择「把他的茶换成热茶」，什么也不说...→?:3 中等?",
+        "label": "A",
+        "tendency": "M"
       },
       {
         "text": "「说袁氏的事他自己看着办」，点到即止",
         "scores": {
-          "S10": 5,
-          "S7": 3
-        }
+          "S10": 5
+        },
+        "reasoning": "选择「说袁氏的事他自己看着办」，点到即止...→?:5 高?",
+        "label": "B",
+        "tendency": "H"
       },
       {
         "text": "「说几个弟弟可以送到广陵来养」，打断他的苦笑",
         "scores": {
-          "S10": 1,
-          "S3": 5
-        }
+          "S10": 1
+        },
+        "reasoning": "选择「说几个弟弟可以送到广陵来养」，打断他的苦笑...→?:1 低?",
+        "label": "C",
+        "tendency": "L"
       }
     ],
     "answer_index": 1,
     "reasoning": "袁基用家族责任来解释自己的每一个决定——这不是借口，是他给自己建立的秩序。长兄如父、幼吾幼，这些规矩框住了他。你点到即止，不打破他的秩序框架，才是理解他的人。",
-    "source_file": "yuanji.json"
+    "source_file": "yuanji.json",
+    "reveal": "(需补充reveal - yuanji_补9)",
+    "text": "他苦笑着说完，端起茶盏。茶已经凉了，他还是喝了一口。你看到他喉结微微滚动，像是在吞咽什么比凉茶更苦的东西。",
+    "dimension": [
+      "S10"
+    ]
   },
   {
     "id": "张飞_batch_1",
@@ -14483,7 +15454,6 @@
     "character": "zhangfei",
     "speaker": "张飞",
     "dialogue": "这是《夫妇宴饮图》。画的是一对夫妇家的庭院。",
-    "question": "张飞主动给广陵王介绍一幅画的内容，语气平和。他愿意分享这些，意味着什么？",
     "dimension": [
       "S8"
     ],
@@ -14491,29 +15461,42 @@
       {
         "label": "A",
         "text": "职业习惯，刺客需要掌握所有环境细节",
-        "score": 1
+        "reasoning": "选择职业习惯，刺客需要掌握所有环境细节...→S8:3 中等S8",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "画是他难得的精神寄托，让广陵王看画是一种示好",
-        "score": 3
+        "reasoning": "选择画是他难得的精神寄托，让广陵王看画是一种示好...→S8:3 中等S8",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "在满身杀气的日常里，他小心翼翼地向广陵王展示了一个普通人的自己",
-        "score": 5
+        "reasoning": "选择在满身杀气的日常里，他小心翼翼地向广陵王展示了一个普通人的自...→S8:3 中等S8",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "张飞的生活被刺杀和命令填满，画画是他唯一的柔软出口。把画介绍给广陵王，等同于把真实的自己敞开。",
     "source_character": "zhangfei",
-    "source_file": "zhangfei.json"
+    "source_file": "zhangfei.json",
+    "reveal": "(需补充reveal - zhangfei_s8_1)",
+    "text": "张飞主动给广陵王介绍一幅画的内容，语气平和。他愿意分享这些，意味着什么？"
   },
   {
     "id": "zhangfei_s9_1",
     "character": "zhangfei",
     "speaker": "张飞",
     "dialogue": "大哥有令，凡有流民投奔，不得驱逐。",
-    "question": "张飞严格执行大哥刘备的命令收容流民。他对「上级指令」的态度是怎样的？",
     "dimension": [
       "S9"
     ],
@@ -14521,29 +15504,42 @@
       {
         "label": "A",
         "text": "军令如山，不管对错都照做",
-        "score": 1
+        "reasoning": "选择军令如山，不管对错都照做...→S9:3 中等S9",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "认同大哥的仁义理念，但执行时会加上自己的判断",
-        "score": 3
+        "reasoning": "选择认同大哥的仁义理念，但执行时会加上自己的判断...→S9:3 中等S9",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "刘备是他唯一认可的权威，他用自己的武力为这份权力背书",
-        "score": 5
+        "reasoning": "选择刘备是他唯一认可的权威，他用自己的武力为这份权力背书...→S9:3 中等S9",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "张飞不是盲目服从型，他对刘备的忠诚建立在价值观认同上。他用最硬的手段守护最软的仁义，这是他对权力最深的理解。",
     "source_character": "zhangfei",
-    "source_file": "zhangfei.json"
+    "source_file": "zhangfei.json",
+    "reveal": "(需补充reveal - zhangfei_s9_1)",
+    "text": "张飞严格执行大哥刘备的命令收容流民。他对「上级指令」的态度是怎样的？"
   },
   {
     "id": "zhangfei_s10_1",
     "character": "zhangfei",
     "speaker": "张飞",
     "dialogue": "大哥入主小沛，发现百姓沉迷天符道，散尽家财买仙药。于是彻查。",
-    "question": "张飞提到大哥为百姓彻查邪教。面对扰乱社会秩序的事物，他会怎么做？",
     "dimension": [
       "S10"
     ],
@@ -14551,22 +15547,36 @@
       {
         "label": "A",
         "text": "不关心百姓信什么，他只管杀人的事",
-        "score": 1
+        "reasoning": "选择不关心百姓信什么，他只管杀人的事...→S10:3 中等S10",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "支持大哥整顿秩序，但更关心的是有没有人借机作乱",
-        "score": 3
+        "reasoning": "选择支持大哥整顿秩序，但更关心的是有没有人借机作乱...→S10:3 中等S10",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "邪教坑害百姓=该杀。他的秩序观很简单：害人的东西，灭掉就是了",
-        "score": 5
+        "reasoning": "选择邪教坑害百姓=该杀。他的秩序观很简单：害人的东西，灭掉就是了...→S10:3 中等S10",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       }
     ],
     "reasoning": "张飞的秩序观极为朴素——保护弱者、消灭祸害。没有复杂的法律条文，只有一条铁律：不许欺负老百姓。",
     "source_character": "zhangfei",
-    "source_file": "zhangfei.json"
+    "source_file": "zhangfei.json",
+    "reveal": "(需补充reveal - zhangfei_s10_1)",
+    "text": "张飞提到大哥为百姓彻查邪教。面对扰乱社会秩序的事物，他会怎么做？"
   },
   {
     "id": "张郃_sweet_01",
@@ -15015,25 +16025,38 @@
       "S8"
     ],
     "type": "sweet",
-    "question": "张郃蹲在花圃前，小心翼翼地给花浇水。见你来了，轻声说：「花草很安静的，没什么事也不会惹麻烦。可能在这个世上，自己和花草的地位没有差别吧。」",
     "options": [
       {
         "text": "「你照顾花的样子很温柔，花一定很幸福。」",
-        "score": "M",
-        "reasoning": "温柔的肯定，张郃会低头微微笑一下，小声说……它只是没人要而已。"
+        "reasoning": "温柔的肯定，张郃会低头微微笑一下，小声说……它只是没人要而已。",
+        "label": "A",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「别想那么多，花养得好就行。」",
-        "score": "L",
-        "reasoning": "忽略了他的情感表达，张郃会安静地点点头，继续浇花，不再说话。"
+        "reasoning": "忽略了他的情感表达，张郃会安静地点点头，继续浇花，不再说话。",
+        "label": "B",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "蹲下来，轻声说：「你在我心里，比所有花都珍贵。」",
-        "score": "H",
-        "reasoning": "直击他最脆弱的自卑，张郃会猛地抬头看你，眼眶泛红，半天才能说出一声殿下。"
+        "reasoning": "直击他最脆弱的自卑，张郃会猛地抬头看你，眼眶泛红，半天才能说出一声殿下。",
+        "label": "C",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "zhanghe.json"
+    "source_file": "zhanghe.json",
+    "reveal": "(需补充reveal - zhanghe_s8_01)",
+    "text": "张郃蹲在花圃前，小心翼翼地给花浇水。见你来了，轻声说：「花草很安静的，没什么事也不会惹麻烦。可能在这个世上，自己和花草的地位没有差别吧。」"
   },
   {
     "id": "zhanghe_s8_02",
@@ -15042,25 +16065,38 @@
       "S8"
     ],
     "type": "daily",
-    "question": "张郃端来刚煎好的药，站在门口不敢进来：「殿下……我来送药材，送到了、问候一声就走。」",
     "options": [
       {
         "text": "「放桌上就行，你可以走了。」",
-        "score": "L",
-        "reasoning": "太冷淡了，张郃会迅速放下药低头退出去，脚步声很轻，像怕打扰到你。"
+        "reasoning": "太冷淡了，张郃会迅速放下药低头退出去，脚步声很轻，像怕打扰到你。",
+        "label": "A",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「进来坐会儿吧，陪我喝杯茶再走。」",
-        "score": "H",
-        "reasoning": "主动挽留，张郃会犹豫很久，然后小心翼翼地走进来，不敢坐太近。"
+        "reasoning": "主动挽留，张郃会犹豫很久，然后小心翼翼地走进来，不敢坐太近。",
+        "label": "B",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "text": "「药放这里吧，谢谢。」",
-        "score": "M",
-        "reasoning": "收下了好意，张郃会点头，在门口站一会儿确认你没事了才离开。"
+        "reasoning": "收下了好意，张郃会点头，在门口站一会儿确认你没事了才离开。",
+        "label": "C",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
-    "source_file": "zhanghe.json"
+    "source_file": "zhanghe.json",
+    "reveal": "(需补充reveal - zhanghe_s8_02)",
+    "text": "张郃端来刚煎好的药，站在门口不敢进来：「殿下……我来送药材，送到了、问候一声就走。」"
   },
   {
     "id": "zhanghe_s9_01",
@@ -15069,25 +16105,38 @@
       "S9"
     ],
     "type": "classic",
-    "question": "张郃低头说：「只要是殿下的命令，我都可以去做。」他的语气很平静，像是已经习惯了服从。",
     "options": [
       {
         "text": "「你愿意跟着我，我很高兴。」",
-        "score": "M",
-        "reasoning": "温和地认可他的忠诚，张郃会微微弯腰说这是我的荣幸，但眼神依然没有光。"
+        "reasoning": "温和地认可他的忠诚，张郃会微微弯腰说这是我的荣幸，但眼神依然没有光。",
+        "label": "A",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「很好，记住这句话。」",
-        "score": "L",
-        "reasoning": "强化了主从关系，张郃会机械地点头，像一件称手的兵器被确认了锋利度。"
+        "reasoning": "强化了主从关系，张郃会机械地点头，像一件称手的兵器被确认了锋利度。",
+        "label": "B",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「我不需要你什么都做。我需要你说出你真正想做的事。」",
-        "score": "H",
-        "reasoning": "打破他工具人的自我认知，张郃会不知所措地抬头，从没被人问过这个问题。"
+        "reasoning": "打破他工具人的自我认知，张郃会不知所措地抬头，从没被人问过这个问题。",
+        "label": "C",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "zhanghe.json"
+    "source_file": "zhanghe.json",
+    "reveal": "(需补充reveal - zhanghe_s9_01)",
+    "text": "张郃低头说：「只要是殿下的命令，我都可以去做。」他的语气很平静，像是已经习惯了服从。"
   },
   {
     "id": "zhanghe_s10_01",
@@ -15096,25 +16145,38 @@
       "S10"
     ],
     "type": "angst",
-    "question": "食堂里人满为患，张郃端着碗站在角落等了很久。你说刚好有空位让他过来坐，他却退后一步：「殿下很少说刚好……我、我站着吃就好。」",
     "options": [
       {
         "text": "「那你慢慢吃，我先走了。」",
-        "score": "L",
-        "reasoning": "顺从了他的自我贬低离开，张郃会松口气，然后默默吃完，觉得这样才是对的。"
+        "reasoning": "顺从了他的自我贬低离开，张郃会松口气，然后默默吃完，觉得这样才是对的。",
+        "label": "A",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "text": "「随你吧，不过旁边确实没人。」",
-        "score": "M",
-        "reasoning": "给他选择权但留了台阶，张郃会站着吃完，但心里会暖一点点。"
+        "reasoning": "给他选择权但留了台阶，张郃会站着吃完，但心里会暖一点点。",
+        "label": "B",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "text": "「坐下。这是命令，不是恩赐。」",
-        "score": "H",
-        "reasoning": "用命令打破他的阶级自卑，张郃会犹豫片刻，然后小心地坐下，但不敢夹菜。"
+        "reasoning": "用命令打破他的阶级自卑，张郃会犹豫片刻，然后小心地坐下，但不敢夹菜。",
+        "label": "C",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       }
     ],
-    "source_file": "zhanghe.json"
+    "source_file": "zhanghe.json",
+    "reveal": "(需补充reveal - zhanghe_s10_01)",
+    "text": "食堂里人满为患，张郃端着碗站在角落等了很久。你说刚好有空位让他过来坐，他却退后一步：「殿下很少说刚好……我、我站着吃就好。」"
   },
   {
     "id": "张角_s2_01",
@@ -16041,224 +17103,294 @@
     "character_id": "zhangliao",
     "group": 8,
     "quote": "从广陵千里迢迢赶来，饿了吧？先吃口饭吧。",
-    "question": "战场刚结束，血腥未散，他开口第一句话却让广陵王先吃饭。这番话藏着他怎样的情感？",
     "options": [
       {
         "label": "A",
         "text": "「战利品清点完毕，顺嘴客套一句罢了」",
-        "score": 1
+        "reasoning": "选择「战利品清点完毕，顺嘴客套一句罢了」...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "「他根本不关心广陵王，只是在敷衍了事」",
-        "score": 3
+        "reasoning": "选择「他根本不关心广陵王，只是在敷衍了事」...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "「粗犷外表下，他把广陵王的温饱放在了所有军务之前」",
-        "score": 5
+        "reasoning": "选择「粗犷外表下，他把广陵王的温饱放在了所有军务之前」...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       }
     ],
-    "dimensions": {
-      "S8温柔": {
-        "score": "H",
-        "reasoning": "刀兵刚收就让广陵王吃饭，不谈战功不谈条件，只有最朴素的关心，这是张辽独有的温柔表达方式"
-      }
-    },
     "source_character": "zhangliao",
-    "source_file": "zhangliao.json"
+    "source_file": "zhangliao.json",
+    "reveal": "(需补充reveal - zhangliao_补1)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "战场刚结束，血腥未散，他开口第一句话却让广陵王先吃饭。这番话藏着他怎样的情感？"
   },
   {
     "id": "zhangliao_补2",
     "character_id": "zhangliao",
     "group": 8,
     "quote": "这道凉拌十分爽口，尝尝？小孩子吃饭别挑食。",
-    "question": "他对广陵王说「小孩子吃饭别挑食」，语气像极了训斥自家孩子。这种粗鲁的温柔说明了什么？",
     "options": [
       {
         "label": "A",
         "text": "「他只是习惯性地对所有人指手画脚」",
-        "score": 1
+        "reasoning": "选择「他只是习惯性地对所有人指手画脚」...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "「把广陵王当自家小孩管，是最笨拙也最真诚的在乎」",
-        "score": 5
+        "reasoning": "选择「把广陵王当自家小孩管，是最笨拙也最真诚的在乎」...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "C",
         "text": "「长辈式的关心带着不容拒绝的霸道」",
-        "score": 3
+        "reasoning": "选择「长辈式的关心带着不容拒绝的霸道」...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S8温柔": {
-        "score": "H",
-        "reasoning": "用训斥的语气递菜，把广陵王当孩子一样操心饮食，这种笨拙的关怀比甜言蜜语更有分量"
-      }
-    },
     "source_character": "zhangliao",
-    "source_file": "zhangliao.json"
+    "source_file": "zhangliao.json",
+    "reveal": "(需补充reveal - zhangliao_补2)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "他对广陵王说「小孩子吃饭别挑食」，语气像极了训斥自家孩子。这种粗鲁的温柔说明了什么？"
   },
   {
     "id": "zhangliao_补3",
     "character_id": "zhangliao",
     "group": 8,
     "quote": "吃饭时候不能说话，大人没教过你吗？没教养。",
-    "question": "嘴上骂着「没教养」，手却让广陵王安安心心吃完一顿饭。这种口是心非揭示了他怎样的内心？",
     "options": [
       {
         "label": "A",
         "text": "「他骨子里是个嘴硬心软的人，骂人就是他表达关心的方式」",
-        "score": 5
+        "reasoning": "选择「他骨子里是个嘴硬心软的人，骂人就是他表达关心的方式」...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「他真的嫌弃广陵王的教养，只是碍于身份不便发作」",
-        "score": 1
+        "reasoning": "选择「他真的嫌弃广陵王的教养，只是碍于身份不便发作」...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「军人出身的他受不了餐桌上的散漫，与温柔无关」",
-        "score": 3
+        "reasoning": "选择「军人出身的他受不了餐桌上的散漫，与温柔无关」...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S8温柔": {
-        "score": "M",
-        "reasoning": "用最粗鲁的话维护最日常的餐桌规矩，骂的是教养，护的是这顿安稳饭，口是心非正是他的温柔底色"
-      }
-    },
     "source_character": "zhangliao",
-    "source_file": "zhangliao.json"
+    "source_file": "zhangliao.json",
+    "reveal": "(需补充reveal - zhangliao_补3)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "嘴上骂着「没教养」，手却让广陵王安安心心吃完一顿饭。这种口是心非揭示了他怎样的内心？"
   },
   {
     "id": "zhangliao_补4",
     "character_id": "zhangliao",
     "group": 9,
     "quote": "你把粮交给曹操的人，他不批粮草，我和马腾怎么办？学孙策去扬州孤注一掷吗？",
-    "question": "他质问广陵王把粮草交给曹操的决定，语气中既有愤怒也有算计。这反映出他怎样的权力立场？",
     "options": [
       {
         "label": "A",
         "text": "「他清楚军粮就是兵权，绝不允许广陵王将筹码交给外人」",
-        "score": 5
+        "reasoning": "选择「他清楚军粮就是兵权，绝不允许广陵王将筹码交给外人」...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「他只是在抱怨曹操不讲信用，并无深层考量」",
-        "score": 1
+        "reasoning": "选择「他只是在抱怨曹操不讲信用，并无深层考量」...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「他对广陵王的决策能力失去信心，准备另谋出路」",
-        "score": 3
+        "reasoning": "选择「他对广陵王的决策能力失去信心，准备另谋出路」...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S9权力": {
-        "score": "H",
-        "reasoning": "直接质问粮草归属问题，本质上是在争夺军事资源的控制权，他深知没有粮草就没有发言权"
-      }
-    },
     "source_character": "zhangliao",
-    "source_file": "zhangliao.json"
+    "source_file": "zhangliao.json",
+    "reveal": "(需补充reveal - zhangliao_补4)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "他质问广陵王把粮草交给曹操的决定，语气中既有愤怒也有算计。这反映出他怎样的权力立场？"
   },
   {
     "id": "zhangliao_补5",
     "character_id": "zhangliao",
     "group": 9,
     "quote": "拿去让军需官清点一下。数目对的话，把严舆的布局图给他们。",
-    "question": "他对广陵王简短下令，清点数目、交换情报，每一步都精准掌控。这份从容说明他处于怎样的权力位置？",
     "options": [
       {
         "label": "A",
         "text": "「他只是个传话的中间人，真正的决定权在别人手里」",
-        "score": 1
+        "reasoning": "选择「他只是个传话的中间人，真正的决定权在别人手里」...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "「他在用情报和物资做杠杆，稳稳捏着谈判的主动权」",
-        "score": 5
+        "reasoning": "选择「他在用情报和物资做杠杆，稳稳捏着谈判的主动权」...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "C",
         "text": "「军人的本能反应，按照流程办事而已」",
-        "score": 3
+        "reasoning": "选择「军人的本能反应，按照流程办事而已」...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S9权力": {
-        "score": "M",
-        "reasoning": "一句「数目对的话」就把情报当成了交易筹码，不卑不亢地掌握着交换节奏，是商人型权力的体现"
-      }
-    },
     "source_character": "zhangliao",
-    "source_file": "zhangliao.json"
+    "source_file": "zhangliao.json",
+    "reveal": "(需补充reveal - zhangliao_补5)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "他对广陵王简短下令，清点数目、交换情报，每一步都精准掌控。这份从容说明他处于怎样的权力位置？"
   },
   {
     "id": "zhangliao_补6",
     "character_id": "zhangliao",
     "group": 10,
     "quote": "再过一刻，两方就会同时发兵进攻。郿县外的守军大约三千人，县内祭祀时的守军应该不超过两千人。",
-    "question": "他对广陵王精确报出敌军兵力与进攻时辰，如数家珍。这份缜密体现了他怎样的秩序观？",
     "options": [
       {
         "label": "A",
         "text": "「战场上容不得半点含糊，精确情报是存活的前提」",
-        "score": 5
+        "reasoning": "选择「战场上容不得半点含糊，精确情报是存活的前提」...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「他喜欢在广陵王面前炫耀自己的情报能力」",
-        "score": 1
+        "reasoning": "选择「他喜欢在广陵王面前炫耀自己的情报能力」...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「这些数字只是估算，实际战况远比他说的复杂」",
-        "score": 3
+        "reasoning": "选择「这些数字只是估算，实际战况远比他说的复杂」...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": {
-        "score": "H",
-        "reasoning": "将敌军数量精确到个位、进攻时间精确到刻，用数字建立战场的秩序感，这是军人骨子里的纪律性"
-      }
-    },
     "source_character": "zhangliao",
-    "source_file": "zhangliao.json"
+    "source_file": "zhangliao.json",
+    "reveal": "(需补充reveal - zhangliao_补6)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "他对广陵王精确报出敌军兵力与进攻时辰，如数家珍。这份缜密体现了他怎样的秩序观？"
   },
   {
     "id": "zhangliao_补7",
     "character_id": "zhangliao",
     "group": 10,
     "quote": "你也许会遇到其他疯子军阀，也许他们会同意你把他们的命放上赌桌，但我做不到。所以，分道扬镳吧。",
-    "question": "当所有军阀都在豪赌时，他选择退出。这份「不赌」的执念透露了他怎样的秩序底线？",
     "options": [
       {
         "label": "A",
         "text": "「他胆小怕事，不敢押注高风险的博弈」",
-        "score": 1
+        "reasoning": "选择「他胆小怕事，不敢押注高风险的博弈」...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "B",
         "text": "「他把士兵的命当作筹码的行为视为对秩序的践踏」",
-        "score": 5
+        "reasoning": "选择「他把士兵的命当作筹码的行为视为对秩序的践踏」...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "C",
         "text": "「他只是和广陵王理念不合，换个人也许就赌了」",
-        "score": 3
+        "reasoning": "选择「他只是和广陵王理念不合，换个人也许就赌了」...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": {
-        "score": "H",
-        "reasoning": "在人人豪赌的乱世坚持「不赌」，不是怯懦而是对军人本分的坚守——命是用来战的，不是用来赌的"
-      }
-    },
     "source_character": "zhangliao",
-    "source_file": "zhangliao.json"
+    "source_file": "zhangliao.json",
+    "reveal": "(需补充reveal - zhangliao_补7)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "当所有军阀都在豪赌时，他选择退出。这份「不赌」的执念透露了他怎样的秩序底线？"
   },
   {
     "id": "张邈_sweet_3",
@@ -16844,16 +17976,16 @@
         "scores": {
           "S8": 1
         },
-        "tendency": "E",
+        "tendency": "L",
         "reasoning": "转移话题到身体，虽有关心但回避了对张邈性格的正面回应"
       },
       {
         "label": "C",
         "text": "祸害遗千年这话倒是说得坦诚",
         "scores": {
-          "S8": 2
+          "S8": 1
         },
-        "tendency": "T",
+        "tendency": "L",
         "reasoning": "用调侃回应调侃，轻松但不失分寸"
       }
     ],
@@ -16873,7 +18005,7 @@
         "label": "A",
         "text": "那就好，先别操心旁的事了",
         "scores": {
-          "S8": 2
+          "S8": 1
         },
         "tendency": "M",
         "reasoning": "语气平和，传达了让他安心休养的意愿"
@@ -16893,7 +18025,7 @@
         "scores": {
           "S8": 1
         },
-        "tendency": "T",
+        "tendency": "L",
         "reasoning": "急于追问细节，在对方刚说完伤情时显得不够体贴"
       }
     ],
@@ -16913,9 +18045,9 @@
         "label": "A",
         "text": "袁氏的条件倒是有吸引力，只是这筹码够不够分量",
         "scores": {
-          "S9": 2
+          "S9": 1
         },
-        "tendency": "N",
+        "tendency": "L",
         "reasoning": "对条件表示兴趣，但保持审慎，未完全暴露立场"
       },
       {
@@ -16924,7 +18056,7 @@
         "scores": {
           "S9": 3
         },
-        "tendency": "N",
+        "tendency": "M",
         "reasoning": "洞察到交易背后的隐含成本，展现了政治上的清醒与手腕"
       },
       {
@@ -16953,9 +18085,9 @@
         "label": "A",
         "text": "消息倒是灵通，既然摸清了底细，想必也备好了后手",
         "scores": {
-          "S9": 2
+          "S9": 1
         },
-        "tendency": "N",
+        "tendency": "L",
         "reasoning": "承认对方掌握情报，同时暗示自己也有准备，暗中较劲"
       },
       {
@@ -16964,7 +18096,7 @@
         "scores": {
           "S9": 3
         },
-        "tendency": "N",
+        "tendency": "M",
         "reasoning": "轻描淡写化解威胁，展现了对权力的深层理解——真正的根基不在纸面上"
       },
       {
@@ -17004,14 +18136,14 @@
         "scores": {
           "S10": 1
         },
-        "tendency": "C",
+        "tendency": "L",
         "reasoning": "暗示愿意冒险，对既定方案持质疑态度"
       },
       {
         "label": "C",
         "text": "濯龙池确实更安全，但也要留人盯着南宫方向",
         "scores": {
-          "S10": 2
+          "S10": 1
         },
         "tendency": "L",
         "reasoning": "在稳妥基础上提出补充方案，兼顾秩序与周全"
@@ -17044,14 +18176,14 @@
         "scores": {
           "S10": 1
         },
-        "tendency": "C",
+        "tendency": "L",
         "reasoning": "认为程序只是形式，实质结果更重要，轻视规则"
       },
       {
         "label": "C",
         "text": "先把文书内容确认清楚，盖印的事走完流程也不急",
         "scores": {
-          "S10": 2
+          "S10": 1
         },
         "tendency": "L",
         "reasoning": "务实且守规矩，先确认实质内容再推进程序"
@@ -17265,93 +18397,126 @@
     "character": "zhangxiu",
     "name": "张绣",
     "line": "我的古格和诸位贵客远道而来，在宛城随意便是",
-    "question": "张绣以宛城之主身份招待贵客时「随意便是」，这句话的潜台词最可能是？",
     "options": [
       {
         "label": "A",
         "text": "此地是我的地盘，规则由我定",
-        "score": 5
+        "reasoning": "选择此地是我的地盘，规则由我定...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "真的不在乎礼数，随意就好",
-        "score": 1
+        "reasoning": "选择真的不在乎礼数，随意就好...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "表面客气实则暗中观察来者",
-        "score": 3
+        "reasoning": "选择表面客气实则暗中观察来者...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S9权力": "H",
-      "S8温柔": "M",
-      "S10秩序": "L"
-    },
     "reasoning": "张绣用最随意的语气宣示对宛城的绝对掌控，温柔的外壳下包裹着不容置疑的权力宣示。",
-    "source_file": "zhangxiu.json"
+    "source_file": "zhangxiu.json",
+    "reveal": "(需补充reveal - zhangxiu_06)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "张绣以宛城之主身份招待贵客时「随意便是」，这句话的潜台词最可能是？"
   },
   {
     "id": "zhangxiu_07",
     "character": "zhangxiu",
     "name": "张绣",
     "line": "这群人还能开垦田地，充实人丁……实在不行也能抓来当军粮。跟宛城一起烧了实在浪费。",
-    "question": "张绣谈论降民时「当军粮」和「烧了浪费」并存，这展现了他怎样的底线？",
     "options": [
       {
         "label": "A",
         "text": "底线是实用性优先，没有道德束缚",
-        "score": 5
+        "reasoning": "选择底线是实用性优先，没有道德束缚...→?:3 中等?",
+        "scores": {
+          "S6": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "内心仍有不忍，只是习惯用冷酷掩饰",
-        "score": 3
+        "reasoning": "选择内心仍有不忍，只是习惯用冷酷掩饰...→?:3 中等?",
+        "scores": {
+          "S6": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "完全是随口说说，不会真这么做",
-        "score": 1
+        "reasoning": "选择完全是随口说说，不会真这么做...→?:3 中等?",
+        "scores": {
+          "S6": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S6底线": "H",
-      "S9权力": "H",
-      "S10秩序": "L"
-    },
     "reasoning": "张绣把人的生命价值与资源利用等价讨论，实用主义到了极致，几乎没有道德底线。",
-    "source_file": "zhangxiu.json"
+    "source_file": "zhangxiu.json",
+    "reveal": "(需补充reveal - zhangxiu_07)",
+    "dimension": [
+      "S6"
+    ],
+    "text": "张绣谈论降民时「当军粮」和「烧了浪费」并存，这展现了他怎样的底线？"
   },
   {
     "id": "zhangxiu_08",
     "character": "zhangxiu",
     "name": "张绣",
     "line": "跟姊姊去玩吧——及时赶回来了，没被马超截住？",
-    "question": "张绣用「跟姊姊去玩吧」这种轻快语气说话时，他在殿下面前展现的是？",
     "options": [
       {
         "label": "A",
         "text": "一种毫无防备的亲近感",
-        "score": 5
+        "reasoning": "选择一种毫无防备的亲近感...→?:3 中等?",
+        "scores": {
+          "S8": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "刻意拉近关系的社交策略",
-        "score": 3
+        "reasoning": "选择刻意拉近关系的社交策略...→?:3 中等?",
+        "scores": {
+          "S8": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "对殿下实力的完全信任",
-        "score": 1
+        "reasoning": "选择对殿下实力的完全信任...→?:3 中等?",
+        "scores": {
+          "S8": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S8温柔": "H",
-      "S4面具": "M",
-      "S2情感": "M"
-    },
     "reasoning": "张绣在刀光剑影中突然切换成家常口吻，这种反差恰恰展现了他真实的一面——在信任的人面前卸下武装。",
-    "source_file": "zhangxiu.json"
+    "source_file": "zhangxiu.json",
+    "reveal": "(需补充reveal - zhangxiu_08)",
+    "dimension": [
+      "S8"
+    ],
+    "text": "张绣用「跟姊姊去玩吧」这种轻快语气说话时，他在殿下面前展现的是？"
   },
   {
     "id": "zhongzhong_sweet_01",
@@ -17984,7 +19149,7 @@
         "label": "C",
         "text": "梦境不过是自欺欺人，清醒才是常态",
         "scores": {
-          "S8": 2
+          "S8": 1
         },
         "tendency": "M",
         "reasoning": "理性看待情感，不完全否定也不沉迷"
@@ -18024,7 +19189,7 @@
         "label": "C",
         "text": "既然无法改变结果，至少让过程体面些",
         "scores": {
-          "S8": 2
+          "S8": 1
         },
         "tendency": "M",
         "reasoning": "有限度地温柔，在框架内给予最后的尊严"
@@ -18064,7 +19229,7 @@
         "label": "C",
         "text": "暗中积累人脉和情报，做双面棋子",
         "scores": {
-          "S9": 2
+          "S9": 1
         },
         "tendency": "M",
         "reasoning": "有策略但不激进，在夹缝中谋取隐性权力"
@@ -18095,7 +19260,7 @@
         "label": "C",
         "text": "看似安全，实则随时可能被当作弃子",
         "scores": {
-          "S9": 2
+          "S9": 1
         },
         "tendency": "M",
         "reasoning": "有清醒判断但不够积极，停留在观望层面"
@@ -18144,7 +19309,7 @@
         "label": "A",
         "text": "先确立新的效忠对象，再谈其余",
         "scores": {
-          "S10": 2
+          "S10": 1
         },
         "tendency": "M",
         "reasoning": "有秩序意识但偏被动，习惯依附既定框架"
@@ -19198,62 +20363,84 @@
     "character": "zhugegy",
     "name": "诸葛诞",
     "line": "繇哥待我们不薄。我是「阿休」时，他也不曾高高在上，视我们为下流。我是诸葛诞时，他也不曾计较。",
-    "question": "诸葛诞评价刘繇「不曾计较」身份变化，这体现了怎样的秩序观？",
     "options": [
       {
         "label": "A",
         "text": "认为身份标签不应定义人的价值",
-        "score": 5
+        "reasoning": "选择认为身份标签不应定义人的价值...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "感激刘繇的知遇之恩",
-        "score": 1
+        "reasoning": "选择感激刘繇的知遇之恩...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "暗示自己早已不在乎名分归属",
-        "score": 3
+        "reasoning": "选择暗示自己早已不在乎名分归属...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S2情感": "M",
-      "S4面具": "M"
-    },
     "reasoning": "诸葛诞特意对比阿休与诸葛诞两个身份，强调刘繇平等对待，反映出他内心对身份秩序的反思和质疑。",
-    "source_file": "zhugegy.json"
+    "source_file": "zhugegy.json",
+    "reveal": "(需补充reveal - zhugegy_07)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "诸葛诞评价刘繇「不曾计较」身份变化，这体现了怎样的秩序观？"
   },
   {
     "id": "zhugegy_08",
     "character": "zhugegy",
     "name": "诸葛诞",
     "line": "我呀，还在演狐妖报恩呢。士为知己者死。这次若死，落得清净。若不死，深恩报尽，相忘江湖。",
-    "question": "「深恩报尽，相忘江湖」——诸葛诞对「报恩」这件事的态度更接近哪种？",
     "options": [
       {
         "label": "A",
         "text": "报完恩就两清，绝不拖泥带水",
-        "score": 5
+        "reasoning": "选择报完恩就两清，绝不拖泥带水...→?:3 中等?",
+        "scores": {
+          "S10": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "报恩只是活下去的借口",
-        "score": 3
+        "reasoning": "选择报恩只是活下去的借口...→?:3 中等?",
+        "scores": {
+          "S10": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "其实不想死但不得不演",
-        "score": 1
+        "reasoning": "选择其实不想死但不得不演...→?:3 中等?",
+        "scores": {
+          "S10": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S10秩序": "H",
-      "S2情感": "H",
-      "S5行动": "M"
-    },
     "reasoning": "诸葛诞将报恩视为一场有始有终的契约，报完即解脱，体现了极强的秩序感和对人际规则的执着。",
-    "source_file": "zhugegy.json"
+    "source_file": "zhugegy.json",
+    "reveal": "(需补充reveal - zhugegy_08)",
+    "dimension": [
+      "S10"
+    ],
+    "text": "「深恩报尽，相忘江湖」——诸葛诞对「报恩」这件事的态度更接近哪种？"
   },
   {
     "id": "诸葛瑾_bt1_02",
@@ -19500,62 +20687,84 @@
     "character": "zhugejin",
     "name": "诸葛瑾",
     "line": "殿下既然回来了，听我一言，早日归隐山林……袁氏已经式微，就算是当年不可一世的弓骑兵，如今也只剩……不到三千骑。",
-    "question": "「袁氏已经式微，就算是当年不可一世的弓骑兵，如今也只剩不到三千骑。」诸葛瑾劝殿下归隐时，语气中最明显的情绪是？",
     "options": [
       {
         "label": "A",
         "text": "对权力更迭的冷漠旁观",
-        "score": 5
+        "reasoning": "选择对权力更迭的冷漠旁观...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "替殿下前途担忧的殷切",
-        "score": 1
+        "reasoning": "选择替殿下前途担忧的殷切...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "回忆旧事时难以抑制的悲伤",
-        "score": 3
+        "reasoning": "选择回忆旧事时难以抑制的悲伤...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       }
     ],
-    "dimensions": {
-      "S9权力": "H",
-      "S2情感": "H",
-      "S1权谋": "L"
-    },
     "reasoning": "诸葛瑾列举袁氏弓骑兵从盛到衰的具体数字，语气沉重，核心是对乱世权力消亡的感伤而非单纯劝退。",
-    "source_file": "zhugejin.json"
+    "source_file": "zhugejin.json",
+    "reveal": "(需补充reveal - zhugejin_07)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "「袁氏已经式微，就算是当年不可一世的弓骑兵，如今也只剩不到三千骑。」诸葛瑾劝殿下归隐时，语气中最明显的情绪是？"
   },
   {
     "id": "zhugejin_08",
     "character": "zhugejin",
     "name": "诸葛瑾",
     "line": "阿诞不在了……我必须自己来……已经到了这一步……愿望……我的愿望……",
-    "question": "诸葛瑾独自承担夜间任务时反复念叨「愿望」，这反映出他怎样的权力观？",
     "options": [
       {
         "label": "A",
         "text": "愿望是驱动行动的唯一锚点",
-        "score": 5
+        "reasoning": "选择愿望是驱动行动的唯一锚点...→?:3 中等?",
+        "scores": {
+          "S9": 5
+        },
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "权力是实现愿望的工具而已",
-        "score": 3
+        "reasoning": "选择权力是实现愿望的工具而已...→?:3 中等?",
+        "scores": {
+          "S9": 3
+        },
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "没有同伴就丧失了行动的意义",
-        "score": 1
+        "reasoning": "选择没有同伴就丧失了行动的意义...→?:3 中等?",
+        "scores": {
+          "S9": 1
+        },
+        "tendency": "L"
       }
     ],
-    "dimensions": {
-      "S9权力": "M",
-      "S2情感": "H",
-      "S8温柔": "M"
-    },
     "reasoning": "诸葛瑾在失去诸葛诞后仍坚持行动，靠的正是愿望支撑，说明愿望对他而言比权力更根本。",
-    "source_file": "zhugejin.json"
+    "source_file": "zhugejin.json",
+    "reveal": "(需补充reveal - zhugejin_08)",
+    "dimension": [
+      "S9"
+    ],
+    "text": "诸葛瑾独自承担夜间任务时反复念叨「愿望」，这反映出他怎样的权力观？"
   },
   {
     "id": "zuoci_1_1",
@@ -20483,32 +21692,39 @@
     "dimension": [
       "S8"
     ],
-    "question": "晨间露水会打湿爪垫，踩在吾背上走吧。",
     "options": [
       {
         "label": "A",
         "text": "「那吾就恭敬不如从命了。」起身轻踏而上",
         "scores": {
           "S8温柔": 5
-        }
+        },
+        "reasoning": "选择「那吾就恭敬不如从命了。」起身轻踏而上...→S8:5 高S8",
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「不必了，吾自己走便是。」婉言谢绝",
         "scores": {
           "S8温柔": 1
-        }
+        },
+        "reasoning": "选择「不必了，吾自己走便是。」婉言谢绝...→S8:1 低S8",
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「既然如此……吾赖在你背上不走，行不行？」顺势靠紧",
         "scores": {
           "S8温柔": 3
-        }
+        },
+        "reasoning": "选择「既然如此……吾赖在你背上不走，行不行？」顺势靠紧...→S8:3 中等S8",
+        "tendency": "M"
       }
     ],
     "reasoning": "广陵王接受了左慈体贴的提议，展现出对他的信任与依赖，是温柔维度的最高分表现。",
-    "source_file": "zuoci.json"
+    "source_file": "zuoci.json",
+    "reveal": "(需补充reveal - zuoci_补24)",
+    "text": "晨间露水会打湿爪垫，踩在吾背上走吧。"
   },
   {
     "id": "zuoci_补25",
@@ -20516,32 +21732,39 @@
     "dimension": [
       "S8"
     ],
-    "question": "晨雾会把绒绒沾湿的，在廊下坐一会，一起等太阳升起再动身吧。",
     "options": [
       {
         "label": "A",
         "text": "「嗯，陪你等。」安静坐下，将衣袖分半给他挡风",
         "scores": {
           "S8温柔": 5
-        }
+        },
+        "reasoning": "选择「嗯，陪你等。」安静坐下，将衣袖分半给他挡风...→S8:5 高S8",
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「时间不早了，先走吧。」起身催促",
         "scores": {
           "S8温柔": 1
-        }
+        },
+        "reasoning": "选择「时间不早了，先走吧。」起身催促...→S8:1 低S8",
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「等你？不如趁雾没散，把你也沾湿了。」笑着凑近他的脸",
         "scores": {
           "S8温柔": 3
-        }
+        },
+        "reasoning": "选择「等你？不如趁雾没散，把你也沾湿了。」笑着凑近他的脸...→S8:3 中等S8",
+        "tendency": "M"
       }
     ],
     "reasoning": "广陵王愿意放慢脚步陪伴左慈等待日出，并以衣袖挡风，这种无声的体贴是温柔的最高表达。",
-    "source_file": "zuoci.json"
+    "source_file": "zuoci.json",
+    "reveal": "(需补充reveal - zuoci_补25)",
+    "text": "晨雾会把绒绒沾湿的，在廊下坐一会，一起等太阳升起再动身吧。"
   },
   {
     "id": "zuoci_补26",
@@ -20549,32 +21772,39 @@
     "dimension": [
       "S8"
     ],
-    "question": "呼……呼……唔……吾，刚才睡着了么？",
     "options": [
       {
         "label": "A",
         "text": "「睡着了。睡颜倒是很安详。」轻声回答，没有叫醒他",
         "scores": {
           "S8温柔": 5
-        }
+        },
+        "reasoning": "选择「睡着了。睡颜倒是很安详。」轻声回答，没有叫醒他...→S8:5 高S8",
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「嗯，睡了有一会儿了。」如实告知",
         "scores": {
           "S8温柔": 3
-        }
+        },
+        "reasoning": "选择「嗯，睡了有一会儿了。」如实告知...→S8:3 中等S8",
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "「没有，就是盯着你看了很久而已。」移开视线",
         "scores": {
           "S8温柔": 1
-        }
+        },
+        "reasoning": "选择「没有，就是盯着你看了很久而已。」移开视线...→S8:1 低S8",
+        "tendency": "L"
       }
     ],
     "reasoning": "广陵王没有打扰左慈的休息，还以轻声回应守护他的安宁，体现了温柔中克制而深沉的关怀。",
-    "source_file": "zuoci.json"
+    "source_file": "zuoci.json",
+    "reveal": "(需补充reveal - zuoci_补26)",
+    "text": "呼……呼……唔……吾，刚才睡着了么？"
   },
   {
     "id": "zuoci_补27",
@@ -20582,32 +21812,39 @@
     "dimension": [
       "S9"
     ],
-    "question": "天下善恶，存其一念之间。为修罗鬼神，为白衣菩萨……一念之间，而已。",
     "options": [
       {
         "label": "A",
         "text": "「那一念之间，吾希望你来替吾定。」将抉择之权交予他",
         "scores": {
           "S9权力": 5
-        }
+        },
+        "reasoning": "选择「那一念之间，吾希望你来替吾定。」将抉择之权交予他...→S9:5 高S9",
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「善恶自有定论，不由一念决定。」反驳他的观点",
         "scores": {
           "S9权力": 1
-        }
+        },
+        "reasoning": "选择「善恶自有定论，不由一念决定。」反驳他的观点...→S9:1 低S9",
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「那吾这一念，便是让你替吾拿主意。」握住他的手",
         "scores": {
           "S9权力": 3
-        }
+        },
+        "reasoning": "选择「那吾这一念，便是让你替吾拿主意。」握住他的手...→S9:3 中等S9",
+        "tendency": "M"
       }
     ],
     "reasoning": "广陵王主动将善恶的裁决权让渡给左慈，意味着对他判断力的绝对信任和权力的拱手相让。",
-    "source_file": "zuoci.json"
+    "source_file": "zuoci.json",
+    "reveal": "(需补充reveal - zuoci_补27)",
+    "text": "天下善恶，存其一念之间。为修罗鬼神，为白衣菩萨……一念之间，而已。"
   },
   {
     "id": "zuoci_补28",
@@ -20615,32 +21852,39 @@
     "dimension": [
       "S9"
     ],
-    "question": "「可靠的人」，这世上，没这种东西。",
     "options": [
       {
         "label": "A",
         "text": "「那就让吾成为第一个。吾以广陵之名起誓。」目光坚定",
         "scores": {
           "S9权力": 3
-        }
+        },
+        "reasoning": "选择「那就让吾成为第一个。吾以广陵之名起誓。」目光坚定...→S9:3 中等S9",
+        "tendency": "M"
       },
       {
         "label": "B",
         "text": "「或许吧。但吾愿意赌你是例外。」笑着不以为意",
         "scores": {
           "S9权力": 1
-        }
+        },
+        "reasoning": "选择「或许吧。但吾愿意赌你是例外。」笑着不以为意...→S9:1 低S9",
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「好，那吾不求可靠，只求你信吾一人。」将佩剑置于他面前",
         "scores": {
           "S9权力": 5
-        }
+        },
+        "reasoning": "选择「好，那吾不求可靠，只求你信吾一人。」将佩剑置于他面前...→S9:5 高S9",
+        "tendency": "H"
       }
     ],
     "reasoning": "广陵王以佩剑为信物，将自己的身家性命托付，是对权力与信任关系的极致表态。",
-    "source_file": "zuoci.json"
+    "source_file": "zuoci.json",
+    "reveal": "(需补充reveal - zuoci_补28)",
+    "text": "「可靠的人」，这世上，没这种东西。"
   },
   {
     "id": "zuoci_补29",
@@ -20648,32 +21892,39 @@
     "dimension": [
       "S10"
     ],
-    "question": "太微垣东移三度，帝星晦。青龙七宿角木蛟，隐……",
     "options": [
       {
         "label": "A",
         "text": "「天象有变，当速禀主公，调兵遣将。」立即建议行动",
         "scores": {
           "S10秩序": 5
-        }
+        },
+        "reasoning": "选择「天象有变，当速禀主公，调兵遣将。」立即建议行动...→S10:5 高S10",
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「星象之说，未必可信。」不以为然",
         "scores": {
           "S10秩序": 1
-        }
+        },
+        "reasoning": "选择「星象之说，未必可信。」不以为然...→S10:1 低S10",
+        "tendency": "L"
       },
       {
         "label": "C",
         "text": "「你既看出了端倪，想必已有对策吧？」反问他的判断",
         "scores": {
           "S10秩序": 3
-        }
+        },
+        "reasoning": "选择「你既看出了端倪，想必已有对策吧？」反问他的判断...→S10:3 中等S10",
+        "tendency": "M"
       }
     ],
     "reasoning": "广陵王听到天象异动后第一反应是禀报主公、调兵遣将，展现出对既有秩序和权力体系的维护本能。",
-    "source_file": "zuoci.json"
+    "source_file": "zuoci.json",
+    "reveal": "(需补充reveal - zuoci_补29)",
+    "text": "太微垣东移三度，帝星晦。青龙七宿角木蛟，隐……"
   },
   {
     "id": "zuoci_补30",
@@ -20681,31 +21932,38 @@
     "dimension": [
       "S10"
     ],
-    "question": "里八华，那是一个企图颠覆汉室的组织。存世数千年，甚至比王朝存在得更久。",
     "options": [
       {
         "label": "A",
         "text": "「存世千年的祸患，必须铲除。」语气坚决",
         "scores": {
           "S10秩序": 5
-        }
+        },
+        "reasoning": "选择「存世千年的祸患，必须铲除。」语气坚决...→S10:5 高S10",
+        "tendency": "H"
       },
       {
         "label": "B",
         "text": "「千年组织必有千年存在的理由，不可轻举妄动。」谨慎回应",
         "scores": {
           "S10秩序": 3
-        }
+        },
+        "reasoning": "选择「千年组织必有千年存在的理由，不可轻举妄动。」谨慎回应...→S10:3 中等S10",
+        "tendency": "M"
       },
       {
         "label": "C",
         "text": "「颠覆汉室？听起来倒是有些意思。」语带玩味",
         "scores": {
           "S10秩序": 1
-        }
+        },
+        "reasoning": "选择「颠覆汉室？听起来倒是有些意思。」语带玩味...→S10:1 低S10",
+        "tendency": "L"
       }
     ],
     "reasoning": "广陵王面对威胁王朝根基的势力，毫不犹豫主张铲除，体现出强烈的秩序维护意识和立场。",
-    "source_file": "zuoci.json"
+    "source_file": "zuoci.json",
+    "reveal": "(需补充reveal - zuoci_补30)",
+    "text": "里八华，那是一个企图颠覆汉室的组织。存世数千年，甚至比王朝存在得更久。"
   }
 ]

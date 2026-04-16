@@ -1,95 +1,388 @@
-import json
-import copy
+#!/usr/bin/env python3
+"""Rewrite option texts for all 27 question files."""
+import json, os, copy
 
-# Load existing questions
-with open('/Users/sunwenyong/.openclaw/agents/learn/workspace/yuanbti/questions/liubian.json', 'r', encoding='utf-8') as f:
-    old = json.load(f)
+SRC = "/Users/sunwenyong/.openclaw/agents/learn/workspace/yuanbti/questions"
+DST = "/Users/sunwenyong/.openclaw/agents/learn/workspace/yuanbti/questions_v2"
 
-# Map old question indices to batch types
-# We'll assign based on our classification
-batch_assign = {
-    0: 'angst',   # 我一直想和你死在一起
-    1: 'scheme',  # 徐州会议
-    2: 'funny',   # 别抖我钱
-    3: 'funny',   # 装天师算命
-    4: 'angst',   # 爱轻飘飘
-    5: 'scheme',  # 红蜡百姓
-    6: 'scheme',  # 徐州拍案
-    7: 'sweet',   # 存钱罐
-    8: 'scheme',  # 涪陵城下架子
-    9: 'scheme',  # 完美天下
-    10: 'sweet',  # 骗了十几年
-    11: 'scheme', # 益州打赌
-    12: 'funny',  # 便宜首饰
-    13: 'sweet',  # 规行矩步
-    14: 'angst',  # 我恨你
-    15: 'scheme', # 地宫质问
-    16: 'daily',  # 牵牛花虫子
-    17: 'scheme', # 后将军狂喜
-    18: 'angst',  # 不在意你喜欢我
-    19: 'angst',  # 也许我死了更好
-    20: 'sweet',  # 我病了听不见
-    21: 'classic',# 火烧芍药院
-    22: 'scheme', # 陶谦拥立
-    23: 'sweet',  # 管他天崩地裂
-    24: 'funny',  # 七夕鱼刺
-    25: 'angst',  # 疯子藏兰花
-    26: 'funny',  # 淡季不景气
-    27: 'angst',  # 你起初每天进宫
-    28: 'scheme', # 那种东西想要多少有多少
-    29: 'sweet',  # 欲取欲求
+os.makedirs(DST, exist_ok=True)
+
+# All rewritten data: filename -> list of questions with new option texts
+REWRITES = {
+    # ===== 第一组（5个）=====
+    "yanbaihu.json": [
+        {  # Q0: funny S7
+            "A": "笑到岔气，拍着大腿说「这损招也就你想得出来」",
+            "B": "嘴角疯狂上扬但硬压住，一脸「让我算算这方案的ROI」",
+            "C": "面无表情掏出竹简，开始认真做辈分笔记"
+        },
+        {  # Q1: daily S5
+            "A": "摆手说「先苟着，让他们把蓝打完了咱们再上」",
+            "B": "当场拍桌子「走！现在就去！兄弟们跟我冲！」",
+            "C": "说「有活了叫你们，先挂着等我信号」"
+        }
+    ],
+    "zhangzhongjing.json": [
+        {  # Q0: funny S7
+            "A": "溜了溜了，乖乖关门排队去",
+            "B": "「张大夫，你这病人看到下个世纪也看不完，先办正事」",
+            "C": "探头进去：「那请问我挂专家号排第几？」"
+        },
+        {  # Q1: daily S6
+            "A": "「善恶有报？现实哪有这么讲究」",
+            "B": "「道理是好的，但世事比这复杂得多——不过你的坚持值得敬酒一杯」",
+            "C": "安静点头：「一辈子没做过恶……真挺不容易的」"
+        }
+    ],
+    "zhangxiu.json": [
+        {  # Q0: daily S8
+            "A": "「没看啥，就是脑子放空了」",
+            "B": "「想点事……你怎么来了？」",
+            "C": "一把拽他在台阶坐下：「别走了，陪我坐会儿」"
+        },
+        {  # Q1: daily S2
+            "A": "接过来一仰脖干了，亮杯底：「再来一杯」",
+            "B": "「不喝了，没事」",
+            "C": "小口抿着，笑了一下：「你怎么老是在我不太体面的时候出现」"
+        }
+    ],
+    "zhangzhao.json": [
+        {  # Q0: daily S10
+            "A": "「年轻人嘛，有自己的主意，别往自己身上揽」",
+            "B": "拍拍他肩膀：「没事没事，不过以后盯着点仲翔，有苗头咱们提前摁住」",
+            "C": "「决裂就决裂了，走流程上报吧，公事公办」"
+        },
+        {  # Q1: daily S8
+            "A": "「先别急，坐下慢慢说」",
+            "B": "把水杯塞他手里，按着肩膀让他坐下：「先喝口水压压惊」",
+            "C": "「别绕弯子，你到底听见了什么，直说」"
+        }
+    ],
+    "zhanglu.json": [
+        {  # Q0: daily S5
+            "A": "「带路带路！跟上跟上！」",
+            "B": "一把薅住他：「等等！先说清楚那是啥再冲！」",
+            "C": "两眼放光比他还激动：「冲！我跑得比你还快！」"
+        },
+        {  # Q1: daily S2
+            "A": "蹲下来平视他：「一定想办法把爹爹带回来，我保证」",
+            "B": "「大人的事会处理好的，别瞎操心」",
+            "C": "揉揉他脑袋：「在想办法呢，先别急啊」"
+        }
+    ],
+    # ===== 第二组（22个）=====
+    "zhuran.json": [
+        {  # Q0: sweet S5
+            "A": "伸手帮他拍掉灰：「闹什么笑话，第一次出门干成这样已经开挂了好吗」",
+            "B": "「确实挺乱的……不过没关系啦」笑着安慰",
+            "C": "「下次注意，别给江东丢脸啊」板着脸说"
+        },
+        {  # Q1: sweet S8
+            "A": "一把按住他：「别动！都伤成这样了还笑，坐下我给你处理」",
+            "B": "「你没事吧？先坐下歇歇」",
+            "C": "「任务完成了吗？」"
+        }
+    ],
+    "wangcan.json": [
+        {  # Q0: funny S7
+            "A": "笑得直拍桌子：「总结到位，精准概括绣衣楼生态」",
+            "B": "「那你呢王粲——头疼型还是哮喘型？」",
+            "C": "「别瞎说，哪有这么夸张」"
+        },
+        {  # Q1: funny S8
+            "A": "「保不保平安另说，但能让你开心就值了——走，帮你淘一个去」",
+            "B": "「迷信！别信这些有的没的」",
+            "C": "「要不还是求个正经平安符吧，比立牌靠谱」"
+        }
+    ],
+    "zhenmi.json": [
+        {  # Q0: funny S2
+            "A": "蹲她旁边一起崩溃：「确实倒霉！凭什么每次都是你啊！」",
+            "B": "递手帕过去，默默看着",
+            "C": "憋着笑帮她拍灰：「没事没事，拍拍就干净了」"
+        },
+        {  # Q1: daily S3
+            "A": "「放心，来绣衣楼绝不会亏待你，待遇面谈」",
+            "B": "当场掏算盘：「来，帮你算算你该拿多少俸禄，精确到月」",
+            "C": "「这些都是历练，以后会好的」"
+        }
+    ],
+    "chengpu.json": [
+        {  # Q0: funny S10
+            "A": "「规矩是死的，人是活的嘛」",
+            "B": "跟着一起骂：「就是！坏了规矩还能叫江湖吗！」",
+            "C": "「等等，先说说什么规矩，我再跟你一起骂」"
+        },
+        {  # Q1: daily S8
+            "A": "拽住他：「别一个人跑！一起找！」",
+            "B": "「辛苦了，注意安全啊」",
+            "C": "接过干粮趁热吃，等他顶着风雪回来"
+        }
+    ],
+    "gehong.json": [
+        {  # Q0: sweet S10
+            "A": "握住他的手：「我知道。我不会让他死的，也不会让你有事」",
+            "B": "「……你在威胁我？」微微皱眉",
+            "C": "「你的事跟我无关」转身走人"
+        },
+        {  # Q1: sweet S8
+            "A": "蹲到他旁边，轻轻摸了摸小兽：「你呀，嘴硬心软」",
+            "B": "「巫血饲喂？它以后会变成啥？」",
+            "C": "「别管它了，走吧」"
+        }
+    ],
+    "dongbai.json": [
+        {  # Q0: sweet S1
+            "A": "拿起棋子稳稳落下一子：「来，陪你下」",
+            "B": "「不太会这个……」犹豫着放了一子",
+            "C": "推开盘面：「对棋没兴趣」"
+        },
+        {  # Q1: scheme S6
+            "A": "「先别急着下结论，看看再说」",
+            "B": "沉默不接话",
+            "C": "「有别的路，不走这条」"
+        }
+    ],
+    "kuailiang.json": [
+        {  # Q0: daily S10
+            "A": "提笔就写，还添油加醋补了几条罪状",
+            "B": "把笔塞回蒯良手里：「你自己写，我泡茶去」",
+            "C": "按住他：「满宠是绣衣楼的人，别写了」"
+        },
+        {  # Q1: funny S7
+            "A": "「还有比这更差的吗？快说快说！」",
+            "B": "「说人话，到底啥意思？」",
+            "C": "「别看了别看了，怪瘆人的」"
+        }
+    ],
+    "caiyan.json": [
+        {  # Q0: funny S7
+            "A": "「效率确实高——我支持这个方案」",
+            "B": "「你冷静一下」",
+            "C": "「等等，你这安眠粉哪来的？随身带的？」"
+        },
+        {  # Q1: daily S5
+            "A": "「辛苦了，下次多叫几个人分担一下」",
+            "B": "「下次算我一个，人多好干活」",
+            "C": "「翻出什么猛料了没？」"
+        }
+    ],
+    "yufan.json": [
+        {  # Q0: scheme S6
+            "A": "「钜子的事先放一边——我就是想跟你好好聊聊」",
+            "B": "「那你倒是可以帮着劝劝钜子，两边都好看」",
+            "C": "「你不配合的话，别怪我拿钜子施压」"
+        },
+        {  # Q1: daily S5
+            "A": "「在这等着，我先联系墨山的人一起行动」",
+            "B": "直接跟上去：「想都别想一个人去，我跟着你」",
+            "C": "「别冲动！死了啥都改变不了」"
+        }
+    ],
+    "yuanshao.json": [
+        {  # Q0: funny S7
+            "A": "面无表情：「将军您走错了，出门左拐请回」",
+            "B": "递杯水解酒：「喝了就知道这是谁的帐了」",
+            "C": "忍着笑：「那个眼熟的侍卫……不会是你随便指了个路人吧？」"
+        },
+        {  # Q1: scheme S1
+            "A": "暗中派人去查酒源，面上不动声色",
+            "B": "「既然有人疑心，不如换一壶，大家喝着安心」",
+            "C": "「袁公说得有道理，别疑神疑鬼了」"
+        }
+    ],
+    "luxun.json": [
+        {  # Q0: funny S10
+            "A": "赶紧正衣冠，恭敬道歉",
+            "B": "故意又扯开一点：「这样凉快，通风」",
+            "C": "「密探们都这么穿嘛，入乡随俗啦」"
+        },
+        {  # Q1: daily S10
+            "A": "拍拍他：「习惯就好，绣衣楼就这德性」",
+            "B": "「要不哪天开个会，大家商量几条楼规出来？」",
+            "C": "「那就从今天开始，咱们一起定套楼规，马上执行」"
+        }
+    ],
+    "wufuren.json": [
+        {  # Q0: daily S8
+            "A": "沉默着给她续了杯茶，什么也没说",
+            "B": "「下次我帮您种一棵，说好了只看不砍的那种」",
+            "C": "「砍了也好，至少冬天暖和」笑着说"
+        }
+    ],
+    "wangyi.json": [
+        {  # Q0: funny S3
+            "A": "「这批点心可是进口货，扫码还是现金？」",
+            "B": "「刚练完就吃？白练了啊姐妹，忍忍吧」",
+            "C": "递过去：「就剩这些了，凑合吃吧」"
+        }
+    ],
+    "yuanshu.json": [
+        {  # Q0: scheme S5
+            "A": "按兵不动，看他射箭到底要搞什么名堂",
+            "B": "趁所有人盯着袁术，低声跟孙策对暗号确认计划",
+            "C": "站起来：「我也来一箭！不能让你一个人帅」"
+        }
+    ],
+    "zhugeliang.json": [
+        {  # Q0: daily S8
+            "A": "「不用了不饿」头也不抬继续忙",
+            "B": "嘴上说「幼稚」，趁没人溜去断墙边找了",
+            "C": "「为啥藏那么远？直接给我不就好了」"
+        },
+        {  # Q1: scheme S5
+            "A": "立刻爬起来冲向异响方向",
+            "B": "听他的先缓着，让诸葛亮去查看",
+            "C": "扶着墙慢慢站起，示意诸葛亮一起去看"
+        },
+        {  # Q2: scheme S10
+            "A": "「诸葛先生说撤就撤！所有人立刻动！」",
+            "B": "「再等等呗，万一水不涨了呢」",
+            "C": "「分两路：一路撤离，一路继续盯着水位」"
+        }
+    ],
+    "chengyu.json": [
+        {  # Q0: funny S7
+            "A": "假装没听懂，把笑憋成内伤",
+            "B": "扯着嗓子满楼广播：「做人的厨子不能打——！」",
+            "C": "「那做鬼的厨子可以打吗？」"
+        },
+        {  # Q1: scheme S1
+            "A": "「你打算跑哪条路？说来听听」",
+            "B": "「你先研究着」，暗中盯着他有没有偷偷复印一份",
+            "C": "凑过去一起看，顺便把每条路线记进自己脑子里"
+        },
+        {  # Q2: sweet S3
+            "A": "「你怎么知道这些？背地查我呢？」忍不住笑了",
+            "B": "「很久以前的事了」淡淡带过",
+            "C": "「我的过去跟你没关系」冷冷回绝"
+        }
+    ],
+    "jianyong.json": [
+        {  # Q0: daily S7
+            "A": "既然问了——一口气把积攒的问题全倒出来",
+            "B": "「跟屁虫？我这叫关心你好吧」",
+            "C": "默默缩到后面不说话了"
+        },
+        {  # Q1: daily S10
+            "A": "立正敬礼：「遵命！」严格执行每条路线",
+            "B": "嘴上好好好，路上该怎么绕还怎么绕",
+            "C": "「邬堡具体在哪？我研究下备选路线」"
+        },
+        {  # Q2: scheme S1
+            "A": "「公孙瓒能怎么阻挠？说来听听」",
+            "B": "「知道了」——心里已经开始盘算先发制人的方案",
+            "C": "「这么危险？那就不去见刘虞了」"
+        }
+    ],
+    "shizimiao.json": [
+        {  # Q0: angst S6
+            "A": "毫不犹豫冲上去挡在他身前",
+            "B": "大喊「住手」！同时飞速环顾四周找转机",
+            "C": "愣在原地，腿像灌了铅"
+        },
+        {  # Q1: daily S8
+            "A": "蹲下来一起哄：「来来来，咱们一起做好不好？」",
+            "B": "站旁边看着：「你还挺会哄孩子的」",
+            "C": "默默跑去旁边找能吃的东西拿来"
+        },
+        {  # Q2: daily S2
+            "A": "「走吧，我陪你在这坐一会」",
+            "B": "「你说的对，不急」，然后岔开话题",
+            "C": "「要不我偷偷去看看辩儿在干嘛？」"
+        }
+    ],
+    "xunyu.json": [
+        {  # Q0: sweet S10
+            "A": "直视他的眼睛：「你在拿广陵当诱饵……但我信你」",
+            "B": "「这也太冒险了吧，你确定？」",
+            "C": "「你疯了，广陵不是你的棋子」严词拒绝"
+        },
+        {  # Q1: scheme S1
+            "A": "「那你想看到什么样的乱？」",
+            "B": "心里已经猜到他在下一盘更大的棋，沉住气等他自己亮底牌",
+            "C": "「乱有什么好的，赶紧平息才对」"
+        },
+        {  # Q2: sweet S7
+            "A": "走到他身边轻声说：「想什么呢？跟我说说」",
+            "B": "「你指什么？」一脸困惑",
+            "C": "「那是我自己的事」不以为意"
+        }
+    ],
+    "fazheng.json": [
+        {  # Q0: funny S3
+            "A": "笑到打嗝：「你刚才的中二气势呢？碎了一地啊」",
+            "B": "「嫌少？那你觉得多少合适？」",
+            "C": "「三百也不少了，省着花够用」"
+        },
+        {  # Q1: sweet S9
+            "A": "「侠卿是谁？你在查谁？说来听听」",
+            "B": "「听着挺危险的，你自己小心」",
+            "C": "「别在楼里乱翻东西」"
+        },
+        {  # Q2: scheme S6
+            "A": "「既然没用，处理掉吧」",
+            "B": "「留着也行，但得看牢了」",
+            "C": "「人命不是拿来消遣的，要留就得有正经理由」"
+        }
+    ],
+    "zhangjiao.json": [
+        {  # Q0: daily S8
+            "A": "接过来就往嘴里塞，含含糊糊说「你吃了没？」",
+            "B": "推回去「这是你的，我不饿」——肚子很诚实地叫了",
+            "C": "掰一半递给他，另一半自己吃"
+        },
+        {  # Q1: scheme S6
+            "A": "「无关紧要的人……能救就救吧」",
+            "B": "「看是什么血肉了，掉根头发可以」",
+            "C": "「只救值得救的人」"
+        },
+        {  # Q2: angst S2
+            "A": "闭上眼，安静地坐在他身边，什么都不说",
+            "B": "「我陪你听」——然后真的没再出声",
+            "C": "站起来：「我去看看能不能帮上忙」"
+        }
+    ],
+    "manchong.json": [
+        {  # Q0: angst S2
+            "A": "「一定还你，下次再来看你」",
+            "B": "「我每天都来」",
+            "C": "「钱肯定还你，你坚持住」"
+        },
+        {  # Q1: classic S10
+            "A": "「满大人说得对，按律当审再判」",
+            "B": "「这种祸害，杀了就杀了呗」",
+            "C": "「先绑起来审审再说」"
+        },
+        {  # Q2: scheme S1
+            "A": "立刻认罪：「是我逼满大人带我出去的！」",
+            "B": "闭嘴，看他把戏演完",
+            "C": "「大人确实忘了通报，我可以作证」"
+        }
+    ],
 }
 
-# Ensure each batch has exactly 5 questions
-batch_counts = {}
-for i, q in enumerate(old):
-    b = batch_assign[i]
-    batch_counts[b] = batch_counts.get(b, 0) + 1
+ALL_FILES = list(REWRITES.keys())
 
-print('Batch counts:', batch_counts)
-# We need 5 each, adjust if needed
+for fname in ALL_FILES:
+    src_path = os.path.join(SRC, fname)
+    dst_path = os.path.join(DST, fname)
+    
+    with open(src_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    
+    rewrites = REWRITES[fname]
+    
+    for i, q in enumerate(data):
+        rw = rewrites[i]
+        for opt in q["options"]:
+            label = opt["label"]
+            if label in rw:
+                opt["text"] = rw[label]
+    
+    with open(dst_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ {fname} ({len(data)} questions)")
 
-new_questions = []
-
-for idx, q in enumerate(old):
-    new = copy.deepcopy(q)
-    # Fix type
-    new['type'] = batch_assign[idx]
-    # Fix dimension to array
-    if isinstance(new['dimension'], str):
-        new['dimension'] = [new['dimension']]
-    # Fix tendency: ensure L/M/H (already)
-    # Fix options: ensure they don't start with '你' (subject)
-    for opt in new['options']:
-        text = opt['text'].strip()
-        # Remove leading punctuation if needed
-        if text.startswith('「'):
-            text = text[1:]
-        if text.startswith('“'):
-            text = text[1:]
-        # Check if starts with '你' and remove
-        if text.startswith('你'):
-            # Replace with action without subject
-            # Simple fix: remove '你' if it's the first character
-            opt['text'] = text[1:].strip()
-        # Also ensure no sexual innuendo in C options (rough fix)
-        if opt['label'] == 'C':
-            txt = opt['text']
-            if '拆吃入腹' in txt:
-                opt['text'] = txt.replace('拆吃入腹', '好好珍惜')
-            if '吃我' in txt:
-                opt['text'] = txt.replace('吃我', '陪着我')
-            if '床' in txt:
-                opt['text'] = txt.replace('床', '身边')
-            if '吻' in txt or '亲' in txt:
-                # Replace with less explicit
-                opt['text'] = txt.replace('吻', '拥抱').replace('亲', '靠近')
-    # Fix reveal: ensure it references real lines (keep as is)
-    new_questions.append(new)
-
-# Write new file
-output_path = '/Users/sunwenyong/.openclaw/agents/learn/workspace/yuanbti/questions/liubian_new.json'
-with open(output_path, 'w', encoding='utf-8') as f:
-    json.dump(new_questions, f, ensure_ascii=False, indent=2)
-
-print(f'Written {len(new_questions)} questions to {output_path}')
+print(f"\nDone! {len(ALL_FILES)} files rewritten to {DST}")

@@ -19,6 +19,7 @@
 - **系统默认 java 命令可能是 Java 24/25**（brew 安装的），不要用
 - **Java 21 路径：** `/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home`
 - **如果遇到 Byte Buddy/Mockito 不兼容错误** → 说明用了错误的 JDK，不要升级 byte-buddy
+- **分数步长：0.1**（不是0.5，已从0.5升级到0.1精度）
 - **向量维度：1024**（不是1536）
 
 ### 基本纪律（所有开发 agent 必须遵守）

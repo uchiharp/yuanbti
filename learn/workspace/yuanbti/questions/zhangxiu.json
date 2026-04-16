@@ -2,79 +2,105 @@
   {
     "id": "张修_S8_01",
     "type": "daily",
-    "dimension": [
-      "S8"
-    ],
+    "dimension": ["S8"],
     "source_character": "张修",
     "text": "张修注意到你出神发呆，走过来轻声问：「在看什么呢，已经盯着台阶，怔怔看了很久了。」",
     "options": [
-      {
-        "label": "A",
-        "text": "说什么也没看，就是发呆",
-        "scores": {
-          "S8": 1
-        },
-        "tendency": "L",
-        "reasoning": "对「已经盯着台阶怔怔看了很久了」说什么也没看就是发呆，冷淡回应他的关心→S8:1"
-      },
-      {
-        "label": "B",
-        "text": "说在想一些事，然后问他你怎么来了",
-        "scores": {
-          "S8": 3
-        },
-        "tendency": "M",
-        "reasoning": "对「在看什么呢」说在想一些事然后问他你怎么来了，部分回应并反问→S8:3"
-      },
-      {
-        "label": "C",
-        "text": "拉他在台阶旁边坐下，说陪我看一会儿",
-        "scores": {
-          "S8": 5
-        },
-        "tendency": "H",
-        "reasoning": "「拉他在台阶旁边坐下说陪我看一会儿」对「怔怔看了很久了」主动亲近邀请陪伴→S8:5"
-      }
+      { "label": "A", "text": "说什么也没看，就是发呆", "scores": {"S8": 1}, "tendency": "L", "reasoning": "冷淡回应他的关心→S8:1" },
+      { "label": "B", "text": "说在想一些事，然后问他你怎么来了", "scores": {"S8": 3}, "tendency": "M", "reasoning": "部分回应并反问→S8:3" },
+      { "label": "C", "text": "拉他在台阶旁边坐下，说陪我看一会儿", "scores": {"S8": 5}, "tendency": "H", "reasoning": "主动亲近邀请陪伴→S8:5" }
     ],
-    "reveal": "「在看什么呢，已经盯着台阶，怔怔看了很久了。」——张修对广陵王的状态很敏锐，第一时间走过来关心。"
+    "reveal": "张修对广陵王的状态很敏锐，第一时间走过来关心。"
   },
   {
     "id": "张修_S2_01",
     "type": "daily",
-    "dimension": [
-      "S2"
-    ],
+    "dimension": ["S2"],
     "source_character": "张修",
     "text": "张修看到你神色不好，温和地递上一杯酒：「使君失魂落魄的，可否要尝尝村民自酿的桃园桑落酒。」",
     "options": [
-      {
-        "label": "A",
-        "text": "接过酒一口喝完，说再来一杯",
-        "scores": {
-          "S2": 3
-        },
-        "tendency": "M",
-        "reasoning": "接过「桃园桑落酒」一口喝完说再来一杯，接受好意但不表达内心→S2:3"
-      },
-      {
-        "label": "B",
-        "text": "说不喝了，没事",
-        "scores": {
-          "S2": 1
-        },
-        "tendency": "L",
-        "reasoning": "对「使君失魂落魄的」说不喝了没事，直接拒绝关心的递酒→S2:1"
-      },
-      {
-        "label": "C",
-        "text": "接过来小口抿着，说你怎么总在我不太好的时候出现",
-        "scores": {
-          "S2": 5
-        },
-        "tendency": "H",
-        "reasoning": "接过来小口抿着说「你怎么总在我不太好的时候出现」，接纳他递上的「桃园桑落酒」同时表达对他在意的感知→S2:5"
-      }
+      { "label": "A", "text": "接过酒一口喝完，说再来一杯", "scores": {"S2": 3}, "tendency": "M", "reasoning": "接受好意但不表达内心→S2:3" },
+      { "label": "B", "text": "说不喝了，没事", "scores": {"S2": 1}, "tendency": "L", "reasoning": "直接拒绝关心→S2:1" },
+      { "label": "C", "text": "接过来小口抿着，说你怎么总在我不太好的时候出现", "scores": {"S2": 5}, "tendency": "H", "reasoning": "接纳好意同时表达对他在意的感知→S2:5" }
     ],
-    "reveal": "「使君失魂落魄的，可否要尝尝村民自酿的桃园桑落酒。」——张修用一杯村酿温柔地接住了失落的广陵王。"
+    "reveal": "张修用一杯村酿温柔地接住了失落的广陵王。"
+  },
+  {
+    "id": "zhangxiu_funny_01",
+    "type": "funny",
+    "dimension": ["S6"],
+    "source_character": "张绣",
+    "text": "张绣在风雪里把披风脱下来递给你们，说「那你们把我的披风带走吧，穿着你们这身衣服，没办法穿过这场风雪的。」",
+    "options": [
+      { "label": "A", "text": "接过披风说那你呢，你穿什么", "scores": {"S6": 5}, "tendency": "H", "reasoning": "接受帮助但立刻关心对方安危，不愿他独自受冻→S6:5" },
+      { "label": "B", "text": "说不用了大家一起走", "scores": {"S6": 3}, "tendency": "M", "reasoning": "想拒绝但理由不够坚定→S6:3" },
+      { "label": "C", "text": "接过来穿上，说真暖和", "scores": {"S6": 1}, "tendency": "L", "reasoning": "直接享受温暖没想他会不会冻死→S6:1" }
+    ],
+    "reveal": "寒夜厄境中张绣把自己的披风给了别人。"
+  },
+  {
+    "id": "zhangxiu_funny_02",
+    "type": "funny",
+    "dimension": ["S7"],
+    "source_character": "张绣",
+    "text": "张绣面无表情地说「人你随便吃，不许动狗。」",
+    "options": [
+      { "label": "A", "text": "问人可以随便吃是什么意思", "scores": {"S7": 5}, "tendency": "H", "reasoning": "用反问直接戳穿他的荒谬逻辑，锋芒全开→S7:5" },
+      { "label": "B", "text": "默默把飞云往身后藏了藏", "scores": {"S7": 3}, "tendency": "M", "reasoning": "用行动回应但没开口→S7:3" },
+      { "label": "C", "text": "说好的听你的", "scores": {"S7": 1}, "tendency": "L", "reasoning": "完全顺从没反应过来槽点→S7:1" }
+    ],
+    "reveal": "寒夜厄境中张绣冷静地说人可以随便吃但不许动狗。"
+  },
+  {
+    "id": "zhangxiu_daily_01",
+    "type": "daily",
+    "dimension": ["S5"],
+    "source_character": "张绣",
+    "text": "张绣说「很快就会有人来找我们的，何必现在就撕破脸呢？」他语气平静，但手已经握上了武器。",
+    "options": [
+      { "label": "A", "text": "说那我们先找地方躲起来等", "scores": {"S5": 1}, "tendency": "L", "reasoning": "被动等待不主动行动→S5:1" },
+      { "label": "B", "text": "说要不要主动去找人接应", "scores": {"S5": 5}, "tendency": "H", "reasoning": "不等救援主动出击找人→S5:5" },
+      { "label": "C", "text": "说那先观察一下周围情况", "scores": {"S5": 3}, "tendency": "M", "reasoning": "折中处理先观察→S5:3" }
+    ],
+    "reveal": "寒夜厄境中张绣冷静地评估局势，嘴上说不急手上已经准备好了。"
+  },
+  {
+    "id": "zhangxiu_daily_02",
+    "type": "daily",
+    "dimension": ["S8"],
+    "source_character": "张绣",
+    "text": "张绣对飞云说「放心，你们是飞云家长，飞云家长一定是好人，是好古格，对不对呀，飞云？」",
+    "options": [
+      { "label": "A", "text": "蹲下来摸摸飞云说当然啦", "scores": {"S8": 5}, "tendency": "H", "reasoning": "配合他的温柔一起哄飞云→S8:5" },
+      { "label": "B", "text": "说张绣你居然也会说软话", "scores": {"S8": 3}, "tendency": "M", "reasoning": "用调侃回应但没直接参与→S8:3" },
+      { "label": "C", "text": "说走吧别跟狗说话了", "scores": {"S8": 1}, "tendency": "L", "reasoning": "不耐烦打断他的温柔时刻→S8:1" }
+    ],
+    "reveal": "寒夜厄境中张绣对飞云说着最温柔的话。"
+  },
+  {
+    "id": "zhangxiu_scheme_01",
+    "type": "scheme",
+    "dimension": ["S1"],
+    "source_character": "张绣",
+    "text": "张绣说「我觉得，马超不会报复我。」他语气很确定，像已经算好了。",
+    "options": [
+      { "label": "A", "text": "说你怎么这么确定", "scores": {"S1": 3}, "tendency": "M", "reasoning": "好奇但没有独立判断→S1:3" },
+      { "label": "B", "text": "说你是不是跟他有什么交易", "scores": {"S1": 5}, "tendency": "H", "reasoning": "直接猜到背后可能有条件交换，权谋直觉敏锐→S1:5" },
+      { "label": "C", "text": "说那他心真大", "scores": {"S1": 1}, "tendency": "L", "reasoning": "只看到表面没想背后逻辑→S1:1" }
+    ],
+    "reveal": "朝歌之战中张绣判断马超不会报复——狼与狼之间有自己的默契。"
+  },
+  {
+    "id": "zhangxiu_daily_03",
+    "type": "daily",
+    "dimension": ["S10"],
+    "source_character": "张绣",
+    "text": "张绣说「做人。狼想变成人，还是有些难的。」然后看着你说「我错过了学做人的机会，需要补课。」",
+    "options": [
+      { "label": "A", "text": "说那我教你，先从笑开始", "scores": {"S10": 1}, "tendency": "L", "reasoning": "想教他打破野兽本能，不尊重他自己摸索的秩序→S10:1" },
+      { "label": "B", "text": "说你想学什么", "scores": {"S10": 3}, "tendency": "M", "reasoning": "问他需求但没给方向→S10:3" },
+      { "label": "C", "text": "说你不用变成人，你做自己就行", "scores": {"S10": 5}, "tendency": "H", "reasoning": "尊重他现有的生存秩序，不强加人类的标准→S10:5" }
+    ],
+    "reveal": "朝歌之战中张绣坦言学做人很难——他知道自己与人的距离，但愿意试着靠近。"
   }
 ]
