@@ -98,7 +98,7 @@
 
 - [ ] 全量评分变更（所有题scores全部重算，以选项文本为唯一依据）
 - [ ] 一致性验证（逐题验证scores/tendency/reasoning一致性）
-- [ ] 更新QUESTION_GUIDE.md：把上下文验证、选项有趣、reasoning质量加为硬性要求
+- [x] 合并QUESTION_GUIDE.md到RULES.md v5（已完成）
 
 ---
 
@@ -112,7 +112,7 @@
 - [x] 陈登拥立题已删除（引申含义理解错误）
 - [x] 陈登cd_funny_04维度修正（S4→S7，选项重写）
 - [x] 阿蝉"分头砍人"题改为搞笑版
-- [x] QUESTION_GUIDE.md更新v4.2
+- [x] RULES.md v5 合并完成（含出题+质心分析+红线）
 - [x] GitHub仓库创建 → https://github.com/uchiharp/yuanbti
 - [x] .gitignore恢复learn/忽略规则
 - [x] 规则扫描（23题有格式/维度问题，已发飞书）
