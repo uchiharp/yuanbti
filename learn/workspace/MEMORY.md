@@ -161,3 +161,18 @@
 - 审核agent严重幻觉，引用的题目ID和选项内容均与实际不符
 - 报告作废，需重新审核
 
+
+### 阿里云服务器（2026-04-19 从创业助手同步）
+- **公网IP：** 8.147.115.189
+- **私网IP：** 192.168.1.30
+- **配置：** 2核 2G，3Mbps 带宽
+- **系统：** Alibaba Cloud Linux 3.2104 LTS 64位
+- **地域：** 华北2（北京）可用区 I
+- **SSH：** root@8.147.115.189（密码见用户）
+- **实例ID：** i-2ze4e3ag2dlgc2mcnw88
+- **已安装：** Docker 26.1.3 + Docker Compose v2.27.0
+- **PostgreSQL 16 + pgvector 0.8.2**（端口5432，库: finder，用户: finder）
+- **Redis 7 Alpine**（端口6379）
+- **用途：** Finder App 部署、yuanbti 等项目部署
+
+
