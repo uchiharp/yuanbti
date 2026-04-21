@@ -1,0 +1,314 @@
+[
+  {
+    "id": "孔融_S2_1",
+    "type": "sweet",
+    "dimension": [
+      "情感态度"
+    ],
+    "source_character": "孔融",
+    "text": "孔融看到有人因为感情问题影响公务。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "先处理公务，情感私事以后再说",
+        "scores": {
+          "情感态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「先处理公务」 → 极度轻视情感  → 情感态度消极:1"
+      },
+      {
+        "label": "B",
+        "text": "理解情感，但需要先完成职责",
+        "scores": {
+          "情感态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「理解但先完成职责」 → 理性对待情感  → 情感态度中立:3"
+      },
+      {
+        "label": "C",
+        "text": "先安抚情绪，再处理公务",
+        "scores": {
+          "情感态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「先安抚情绪」 → 重视情感需求  → 情感态度积极:5"
+      }
+    ],
+    "reveal": "基于孔融正直理性的性格，测试其对情感的态度"
+  },
+  {
+    "id": "孔融_S3_1",
+    "type": "scheme",
+    "dimension": [
+      "金钱观念"
+    ],
+    "source_character": "孔融",
+    "text": "孔融需要资金救灾，但资源有限。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "精打细算，公平分配有限资源",
+        "scores": {
+          "金钱观念": 3
+        },
+        "tendency": "M",
+        "reasoning": "「精打细算公平分配」 → 适度重视金钱  → 金钱观念中等:3"
+      },
+      {
+        "label": "B",
+        "text": "先救人要紧，钱不够再想办法",
+        "scores": {
+          "金钱观念": 1
+        },
+        "tendency": "L",
+        "reasoning": "「先救人要紧」 → 轻视金钱  → 金钱观念弱:1"
+      },
+      {
+        "label": "C",
+        "text": "想尽办法筹集更多资金",
+        "scores": {
+          "金钱观念": 5
+        },
+        "tendency": "H",
+        "reasoning": "「想尽办法筹集资金」 → 极度重视金钱  → 金钱观念强:5"
+      }
+    ],
+    "reveal": "测试孔融的金钱观念"
+  },
+  {
+    "id": "孔融_S5_1",
+    "type": "daily",
+    "dimension": [
+      "行动风格"
+    ],
+    "source_character": "孔融",
+    "text": "孔融遇到紧急灾情需要立即行动。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "立即组织救援，亲自指挥",
+        "scores": {
+          "行动风格": 5
+        },
+        "tendency": "H",
+        "reasoning": "「立即组织救援」 → 果断行动  → 行动冲动:5"
+      },
+      {
+        "label": "B",
+        "text": "先制定详细计划，再有序行动",
+        "scores": {
+          "行动风格": 1
+        },
+        "tendency": "L",
+        "reasoning": "「先制定详细计划」 → 谨慎保守  → 行动保守:1"
+      },
+      {
+        "label": "C",
+        "text": "先采取必要措施，同时完善计划",
+        "scores": {
+          "行动风格": 3
+        },
+        "tendency": "M",
+        "reasoning": "「先采取必要措施」 → 适度果断  → 行动中等:3"
+      }
+    ],
+    "reveal": "测试孔融的行动风格"
+  },
+  {
+    "id": "孔融_S4_1",
+    "type": "angst",
+    "dimension": [
+      "面具深度"
+    ],
+    "source_character": "孔融",
+    "text": "孔融内心担忧百姓，但作为师者需要保持镇定。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全隐藏担忧，展现师者风范",
+        "scores": {
+          "面具深度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「完全隐藏担忧」 → 深度伪装  → 面具深:5"
+      },
+      {
+        "label": "B",
+        "text": "略微流露真实想法，但很快控制",
+        "scores": {
+          "面具深度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「略微流露但控制」 → 适度伪装  → 面具中等:3"
+      },
+      {
+        "label": "C",
+        "text": "坦诚担忧，相信广陵王理解",
+        "scores": {
+          "面具深度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「坦诚担忧」，面具浅:1"
+      }
+    ],
+    "reveal": "测试孔融的面具深度"
+  },
+  {
+    "id": "孔融_S6_1",
+    "type": "angst",
+    "dimension": [
+      "底线弹性"
+    ],
+    "source_character": "孔融",
+    "text": "孔融为救百姓需要突破原则。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "百姓生命高于一切，可以变通",
+        "scores": {
+          "底线弹性": 5
+        },
+        "tendency": "H",
+        "reasoning": "「百姓生命高于一切」，底线弹性高:5"
+      },
+      {
+        "label": "B",
+        "text": "尽量不突破原则，寻找其他方法",
+        "scores": {
+          "底线弹性": 3
+        },
+        "tendency": "M",
+        "reasoning": "「尽量不突破原则」，底线弹性中等:3"
+      },
+      {
+        "label": "C",
+        "text": "宁可失败也不违背原则",
+        "scores": {
+          "底线弹性": 1
+        },
+        "tendency": "L",
+        "reasoning": "「宁可失败也不违背」，底线弹性低:1"
+      }
+    ],
+    "reveal": "基于孔融正直理想主义的性格，测试其底线弹性"
+  },
+  {
+    "id": "孔融_S7_1",
+    "type": "angst",
+    "dimension": [
+      "表达锋芒"
+    ],
+    "source_character": "孔融",
+    "text": "有人质疑孔融的做法不切实际。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "用经典道理反驳，展现师者风范",
+        "scores": {
+          "表达锋芒": 3
+        },
+        "tendency": "M",
+        "reasoning": "「用经典道理反驳」 → 理性表达  → 表达锋芒中等:3"
+      },
+      {
+        "label": "B",
+        "text": "不直接反驳，用行动证明",
+        "scores": {
+          "表达锋芒": 1
+        },
+        "tendency": "L",
+        "reasoning": "「不直接反驳」 → 温和表达  → 表达锋芒弱:1"
+      },
+      {
+        "label": "C",
+        "text": "直接指出对方的错误",
+        "scores": {
+          "表达锋芒": 5
+        },
+        "tendency": "H",
+        "reasoning": "「直接指出错误」，表达锋芒强:5"
+      }
+    ],
+    "reveal": "测试孔融的表达锋芒"
+  },
+  {
+    "id": "孔融_S9_1",
+    "type": "scheme",
+    "dimension": [
+      "权力态度"
+    ],
+    "source_character": "孔融",
+    "text": "孔融面临权力选择，需要决定立场。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "选择对百姓最有利的立场",
+        "scores": {
+          "权力态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「选择对百姓有利」 → 理性追求权力  → 权力态度中立:3"
+      },
+      {
+        "label": "B",
+        "text": "保持中立，不参与权力斗争",
+        "scores": {
+          "权力态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「保持中立」 → 回避权力  → 权力态度消极:1"
+      },
+      {
+        "label": "C",
+        "text": "选择对自己最有利的立场",
+        "scores": {
+          "权力态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「选择对自己有利」 → 积极追求权力  → 权力态度积极:5"
+      }
+    ],
+    "reveal": "测试孔融的权力态度"
+  },
+  {
+    "id": "孔融_S10_1",
+    "type": "classic",
+    "dimension": [
+      "秩序感"
+    ],
+    "source_character": "孔融",
+    "text": "有人想破坏秩序以求快速解决问题。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "秩序是根本，不能破坏",
+        "scores": {
+          "秩序感": 5
+        },
+        "tendency": "H",
+        "reasoning": "「秩序是根本不能破坏」 → 极度重视秩序  → 秩序感强:5"
+      },
+      {
+        "label": "B",
+        "text": "在秩序范围内寻找变通方法",
+        "scores": {
+          "秩序感": 3
+        },
+        "tendency": "M",
+        "reasoning": "「在秩序范围内变通」 → 适度灵活  → 秩序感中等:3"
+      },
+      {
+        "label": "C",
+        "text": "解决问题要紧，秩序可以暂时放一边",
+        "scores": {
+          "秩序感": 1
+        },
+        "tendency": "L",
+        "reasoning": "「秩序可以暂时放一边」 → 轻视秩序  → 秩序感弱:1"
+      }
+    ],
+    "reveal": "基于孔融正直重视秩序的性格，测试其秩序感"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "贾诩_S2_1",
+    "type": "sweet",
+    "dimension": [
+      "情感态度"
+    ],
+    "source_character": "贾诩",
+    "text": "贾诩看到有人为情所困，向他倾诉。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "感情是最无用的东西，只会让人软弱",
+        "scores": {
+          "情感态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「感情是最无用的」 → 极度轻视情感  → 情感态度消极:1"
+      },
+      {
+        "label": "B",
+        "text": "冷静分析利弊，给出理性建议",
+        "scores": {
+          "情感态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「冷静分析」 → 理性处理情感问题  → 情感态度中立:3"
+      },
+      {
+        "label": "C",
+        "text": "虽然理解，但建议放下执念",
+        "scores": {
+          "情感态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「理解但建议放下」 → 适度重视情感  → 情感态度积极:5"
+      }
+    ],
+    "reveal": "基于贾诩深沉冷酷的性格，测试其对情感的态度"
+  },
+  {
+    "id": "贾诩_S5_1",
+    "type": "daily",
+    "dimension": [
+      "行动风格"
+    ],
+    "source_character": "贾诩",
+    "text": "贾诩发现有人陷入危险，需要立即行动。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "冷静分析局势，等待最佳时机",
+        "scores": {
+          "行动风格": 1
+        },
+        "tendency": "L",
+        "reasoning": "「冷静分析等待时机」 → 谨慎保守  → 行动保守:1"
+      },
+      {
+        "label": "B",
+        "text": "先观察，看对方是否真的需要帮助",
+        "scores": {
+          "行动风格": 3
+        },
+        "tendency": "M",
+        "reasoning": "「先观察」 → 适度考虑  → 行动中等:3"
+      },
+      {
+        "label": "C",
+        "text": "立即制定计划，迅速行动",
+        "scores": {
+          "行动风格": 5
+        },
+        "tendency": "H",
+        "reasoning": "「立即制定计划迅速行动」 → 果断行动  → 行动冲动:5"
+      }
+    ],
+    "reveal": "测试贾诩的行动风格"
+  },
+  {
+    "id": "贾诩_S8_1",
+    "type": "angst",
+    "dimension": [
+      "温柔底色"
+    ],
+    "source_character": "贾诩",
+    "text": "贾诩看到有人受伤哭泣，但对方不想被发现。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "假装没看见，冷漠离开",
+        "scores": {
+          "温柔底色": 1
+        },
+        "tendency": "L",
+        "reasoning": "「假装没看见冷漠离开」 → 极度冷漠  → 温柔底色浅:1"
+      },
+      {
+        "label": "B",
+        "text": "让广陵王去安慰，自己回避",
+        "scores": {
+          "温柔底色": 3
+        },
+        "tendency": "M",
+        "reasoning": "「让广陵王去安慰」 → 间接关心  → 温柔适中:3"
+      },
+      {
+        "label": "C",
+        "text": "用毒舌的话安慰，说哭也没用不如想办法",
+        "scores": {
+          "温柔底色": 5
+        },
+        "tendency": "H",
+        "reasoning": "「用毒舌的话安慰」 → 用尖锐方式表达关心  → 温柔底色深:5"
+      }
+    ],
+    "reveal": "测试贾诩冷酷外表下的温柔程度"
+  },
+  {
+    "id": "贾诩_S3_1",
+    "type": "scheme",
+    "dimension": [
+      "金钱观念"
+    ],
+    "source_character": "贾诩",
+    "text": "贾诩需要钱办重要的事，但钱不够。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "钱不重要，重要的是计划能否成功",
+        "scores": {
+          "金钱观念": 1
+        },
+        "tendency": "L",
+        "reasoning": "「钱不重要」 → 轻视金钱  → 金钱观念弱:1"
+      },
+      {
+        "label": "B",
+        "text": "想办法筹钱，但不会不择手段",
+        "scores": {
+          "金钱观念": 3
+        },
+        "tendency": "M",
+        "reasoning": "「想办法筹钱」 → 适度重视  → 金钱观念中等:3"
+      },
+      {
+        "label": "C",
+        "text": "不惜一切代价弄到钱，钱是达成目的的工具",
+        "scores": {
+          "金钱观念": 5
+        },
+        "tendency": "H",
+        "reasoning": "「不惜一切代价弄到钱」 → 极度重视金钱  → 金钱观念强:5"
+      }
+    ],
+    "reveal": "测试贾诩的金钱观念"
+  },
+  {
+    "id": "贾诩_S6_1",
+    "type": "angst",
+    "dimension": [
+      "底线弹性"
+    ],
+    "source_character": "贾诩",
+    "text": "贾诩为达目的需要突破道德底线。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "目的最重要，道德可以暂时放一边",
+        "scores": {
+          "底线弹性": 5
+        },
+        "tendency": "H",
+        "reasoning": "「道德可以暂时放一边」，底线弹性高:5"
+      },
+      {
+        "label": "B",
+        "text": "寻找既能达到目的又不突破底线的方法",
+        "scores": {
+          "底线弹性": 3
+        },
+        "tendency": "M",
+        "reasoning": "「寻找不突破底线的方法」，底线弹性中等:3"
+      },
+      {
+        "label": "C",
+        "text": "宁可失败也不突破道德底线",
+        "scores": {
+          "底线弹性": 1
+        },
+        "tendency": "L",
+        "reasoning": "「宁可失败也不突破底线」，底线弹性低:1"
+      }
+    ],
+    "reveal": "基于贾诩深沉通透的性格，测试其底线弹性"
+  },
+  {
+    "id": "贾诩_S4_1",
+    "type": "daily",
+    "dimension": [
+      "面具深度"
+    ],
+    "source_character": "贾诩",
+    "text": "贾诩内心有波动，但不想让别人看出来。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全隐藏情绪，表现得和平时一样冷静",
+        "scores": {
+          "面具深度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「完全隐藏情绪」 → 深度伪装  → 面具深:5"
+      },
+      {
+        "label": "B",
+        "text": "稍微流露一点，但很快掩饰",
+        "scores": {
+          "面具深度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「稍微流露但掩饰」 → 适度伪装  → 面具中等:3"
+      },
+      {
+        "label": "C",
+        "text": "不刻意隐藏，顺其自然",
+        "scores": {
+          "面具深度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「不刻意隐藏」，面具浅:1"
+      }
+    ],
+    "reveal": "测试贾诩的面具深度"
+  },
+  {
+    "id": "贾诩_S7_1",
+    "type": "angst",
+    "dimension": [
+      "表达锋芒"
+    ],
+    "source_character": "贾诩",
+    "text": "有人质疑贾诩的决定，认为他太冷酷。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "用尖锐的话反驳，让对方无话可说",
+        "scores": {
+          "表达锋芒": 5
+        },
+        "tendency": "H",
+        "reasoning": "「用尖锐的话反驳」，表达锋芒强:5"
+      },
+      {
+        "label": "B",
+        "text": "冷静解释自己的理由",
+        "scores": {
+          "表达锋芒": 3
+        },
+        "tendency": "M",
+        "reasoning": "「冷静解释」，表达锋芒中等:3"
+      },
+      {
+        "label": "C",
+        "text": "不解释，让结果说话",
+        "scores": {
+          "表达锋芒": 1
+        },
+        "tendency": "L",
+        "reasoning": "「不解释」，表达锋芒弱:1"
+      }
+    ],
+    "reveal": "测试贾诩的表达锋芒"
+  },
+  {
+    "id": "贾诩_S1_1",
+    "type": "scheme",
+    "dimension": [
+      "权谋城府"
+    ],
+    "source_character": "贾诩",
+    "text": "贾诩发现有人想算计他，但对方以为他不知道。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "将计就计，设下更深的陷阱",
+        "scores": {
+          "权谋城府": 5
+        },
+        "tendency": "H",
+        "reasoning": "「将计就计设陷阱」 → 深度谋略  → 权谋深:5"
+      },
+      {
+        "label": "B",
+        "text": "暗中防备，等待对方出手",
+        "scores": {
+          "权谋城府": 3
+        },
+        "tendency": "M",
+        "reasoning": "「暗中防备」 → 适度权谋  → 权谋中等:3"
+      },
+      {
+        "label": "C",
+        "text": "直接警告对方别耍花样",
+        "scores": {
+          "权谋城府": 1
+        },
+        "tendency": "L",
+        "reasoning": "「直接警告」 → 坦率不隐藏  → 权谋低:1"
+      }
+    ],
+    "reveal": "基于贾诩深沉通透的性格，测试其权谋城府"
+  }
+]

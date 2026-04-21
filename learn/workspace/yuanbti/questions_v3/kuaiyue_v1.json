@@ -1,0 +1,314 @@
+[
+  {
+    "id": "蒯越_S3_1",
+    "type": "scheme",
+    "dimension": [
+      "金钱观念"
+    ],
+    "source_character": "蒯越",
+    "text": "蒯越需要资金办事，但对方开价过高。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "钱不重要，重要的是事情能办成",
+        "scores": {
+          "金钱观念": 1
+        },
+        "tendency": "L",
+        "reasoning": "「钱不重要」 → 轻视金钱  → 金钱观念弱:1"
+      },
+      {
+        "label": "B",
+        "text": "讨价还价，争取合理价格",
+        "scores": {
+          "金钱观念": 3
+        },
+        "tendency": "M",
+        "reasoning": "「讨价还价」 → 适度重视金钱  → 金钱观念中等:3"
+      },
+      {
+        "label": "C",
+        "text": "不惜代价，钱是达成目的的工具",
+        "scores": {
+          "金钱观念": 5
+        },
+        "tendency": "H",
+        "reasoning": "「不惜代价」 → 极度重视金钱  → 金钱观念强:5"
+      }
+    ],
+    "reveal": "测试蒯越的金钱观念"
+  },
+  {
+    "id": "蒯越_S6_1",
+    "type": "angst",
+    "dimension": [
+      "底线弹性"
+    ],
+    "source_character": "蒯越",
+    "text": "蒯越为达目的需要突破原则。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "目的最重要，原则可以变通",
+        "scores": {
+          "底线弹性": 5
+        },
+        "tendency": "H",
+        "reasoning": "「手段可以变通」，底线弹性高:5"
+      },
+      {
+        "label": "B",
+        "text": "寻找既能达到目的又不突破原则的方法",
+        "scores": {
+          "底线弹性": 3
+        },
+        "tendency": "M",
+        "reasoning": "「寻找不突破原则的方法」，底线弹性中等:3"
+      },
+      {
+        "label": "C",
+        "text": "宁可失败也不违背原则",
+        "scores": {
+          "底线弹性": 1
+        },
+        "tendency": "L",
+        "reasoning": "「宁可失败也不违背」，底线弹性低:1"
+      }
+    ],
+    "reveal": "基于蒯越狡黠从容的性格，测试其底线弹性"
+  },
+  {
+    "id": "蒯越_S8_1",
+    "type": "sweet",
+    "dimension": [
+      "温柔底色"
+    ],
+    "source_character": "蒯越",
+    "text": "蒯越看到有人为旧情所困。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "旧情难忘是人之常情，但要看开",
+        "scores": {
+          "温柔底色": 5
+        },
+        "tendency": "H",
+        "reasoning": "「旧情难忘是人之常情」 → 温柔理解  → 温柔底色深:5"
+      },
+      {
+        "label": "B",
+        "text": "冷静分析，给出理性建议",
+        "scores": {
+          "温柔底色": 3
+        },
+        "tendency": "M",
+        "reasoning": "「冷静分析」 → 适度关心  → 温柔适中:3"
+      },
+      {
+        "label": "C",
+        "text": "旧情没有意义，不如向前看",
+        "scores": {
+          "温柔底色": 1
+        },
+        "tendency": "L",
+        "reasoning": "「旧情没有意义」 → 冷漠  → 温柔底色浅:1"
+      }
+    ],
+    "reveal": "基于蒯越旧情难忘的性格，测试其温柔底色"
+  },
+  {
+    "id": "蒯越_S2_1",
+    "type": "angst",
+    "dimension": [
+      "情感态度"
+    ],
+    "source_character": "蒯越",
+    "text": "蒯越看到有人因为感情影响判断。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "感情是弱点，需要克服",
+        "scores": {
+          "情感态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「感情是弱点」 → 极度轻视情感  → 情感态度消极:1"
+      },
+      {
+        "label": "B",
+        "text": "理性分析，平衡情感和理智",
+        "scores": {
+          "情感态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「平衡情感和理智」 → 理性对待情感  → 情感态度中立:3"
+      },
+      {
+        "label": "C",
+        "text": "理解情感的重要性，但不能被其控制",
+        "scores": {
+          "情感态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「理解情感重要性」 → 适度重视情感  → 情感态度积极:5"
+      }
+    ],
+    "reveal": "测试蒯越对情感的态度"
+  },
+  {
+    "id": "蒯越_S1_1",
+    "type": "scheme",
+    "dimension": [
+      "权谋城府"
+    ],
+    "source_character": "蒯越",
+    "text": "蒯越发现有人想算计他。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "将计就计，设下更精妙的局",
+        "scores": {
+          "权谋城府": 5
+        },
+        "tendency": "H",
+        "reasoning": "「将计就计设局」 → 深度谋略  → 权谋深:5"
+      },
+      {
+        "label": "B",
+        "text": "小心防备，避免落入陷阱",
+        "scores": {
+          "权谋城府": 3
+        },
+        "tendency": "M",
+        "reasoning": "「小心防备」 → 适度权谋  → 权谋中等:3"
+      },
+      {
+        "label": "C",
+        "text": "直接警告对方别耍花样",
+        "scores": {
+          "权谋城府": 1
+        },
+        "tendency": "L",
+        "reasoning": "「直接警告」 → 坦率不隐藏  → 权谋低:1"
+      }
+    ],
+    "reveal": "基于蒯越狡黠从容的性格，测试其权谋城府"
+  },
+  {
+    "id": "蒯越_S4_1",
+    "type": "daily",
+    "dimension": [
+      "面具深度"
+    ],
+    "source_character": "蒯越",
+    "text": "蒯越内心有波动，但需要保持从容形象。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全隐藏情绪，展现从容不迫",
+        "scores": {
+          "面具深度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「完全隐藏情绪」 → 深度伪装  → 面具深:5"
+      },
+      {
+        "label": "B",
+        "text": "略微流露真实感受，但很快恢复",
+        "scores": {
+          "面具深度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「略微流露但恢复」 → 适度伪装  → 面具中等:3"
+      },
+      {
+        "label": "C",
+        "text": "真实表达情绪，相信对方理解",
+        "scores": {
+          "面具深度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「真实表达情绪」，面具浅:1"
+      }
+    ],
+    "reveal": "测试蒯越的面具深度"
+  },
+  {
+    "id": "蒯越_S7_1",
+    "type": "angst",
+    "dimension": [
+      "表达锋芒"
+    ],
+    "source_character": "蒯越",
+    "text": "有人质疑蒯越的决策。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "用从容的语气反驳，展现自信",
+        "scores": {
+          "表达锋芒": 3
+        },
+        "tendency": "M",
+        "reasoning": "「从容反驳」，表达锋芒中等:3"
+      },
+      {
+        "label": "B",
+        "text": "不直接反驳，用事实让对方信服",
+        "scores": {
+          "表达锋芒": 1
+        },
+        "tendency": "L",
+        "reasoning": "「不直接反驳」 → 温和表达  → 表达锋芒弱:1"
+      },
+      {
+        "label": "C",
+        "text": "直接指出对方的错误",
+        "scores": {
+          "表达锋芒": 5
+        },
+        "tendency": "H",
+        "reasoning": "「直接指出错误」，表达锋芒强:5"
+      }
+    ],
+    "reveal": "测试蒯越的表达锋芒"
+  },
+  {
+    "id": "蒯越_S9_1",
+    "type": "scheme",
+    "dimension": [
+      "权力态度"
+    ],
+    "source_character": "蒯越",
+    "text": "蒯越面临权力选择。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "选择最有利的权力位置",
+        "scores": {
+          "权力态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「选择最有利位置」 → 积极追求权力  → 权力态度积极:5"
+      },
+      {
+        "label": "B",
+        "text": "保持中立，不参与权力斗争",
+        "scores": {
+          "权力态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「保持中立」 → 回避权力  → 权力态度消极:1"
+      },
+      {
+        "label": "C",
+        "text": "平衡各方，维持稳定",
+        "scores": {
+          "权力态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「平衡各方」 → 适度追求权力  → 权力态度中立:3"
+      }
+    ],
+    "reveal": "测试蒯越的权力态度"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "荀攸_S2_1",
+    "type": "sweet",
+    "dimension": [
+      "情感态度"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸看到有人情绪失控，向他求助。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "冷静分析，帮助对方理清思路",
+        "scores": {
+          "情感态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「冷静分析」 → 理性处理情感问题  → 情感态度中立:3"
+      },
+      {
+        "label": "B",
+        "text": "先安抚情绪，再解决问题",
+        "scores": {
+          "情感态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「先安抚情绪」 → 重视情感需求  → 情感态度积极:5"
+      },
+      {
+        "label": "C",
+        "text": "告诉对方情绪解决不了问题",
+        "scores": {
+          "情感态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「情绪解决不了问题」 → 轻视情感  → 情感态度消极:1"
+      }
+    ],
+    "reveal": "基于荀攸冷静理性的性格，测试其对情感的态度"
+  },
+  {
+    "id": "荀攸_S5_1",
+    "type": "daily",
+    "dimension": [
+      "行动风格"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸遇到紧急情况需要立即决策。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "立即冷静分析，制定详细计划再行动",
+        "scores": {
+          "行动风格": 1
+        },
+        "tendency": "L",
+        "reasoning": "「制定详细计划再行动」 → 谨慎保守  → 行动保守:1"
+      },
+      {
+        "label": "B",
+        "text": "先采取必要措施，再完善计划",
+        "scores": {
+          "行动风格": 3
+        },
+        "tendency": "M",
+        "reasoning": "「先采取必要措施」 → 适度果断  → 行动中等:3"
+      },
+      {
+        "label": "C",
+        "text": "立即行动，解决问题后总结",
+        "scores": {
+          "行动风格": 5
+        },
+        "tendency": "H",
+        "reasoning": "「立即行动」 → 果断冲动  → 行动冲动:5"
+      }
+    ],
+    "reveal": "测试荀攸的行动风格"
+  },
+  {
+    "id": "荀攸_S7_1",
+    "type": "angst",
+    "dimension": [
+      "表达锋芒"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸的意见被质疑，需要为自己辩护。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "冷静列出事实和依据，理性反驳",
+        "scores": {
+          "表达锋芒": 3
+        },
+        "tendency": "M",
+        "reasoning": "「冷静列出事实」 → 理性表达  → 表达锋芒中等:3"
+      },
+      {
+        "label": "B",
+        "text": "不直接反驳，用逻辑让质疑不攻自破",
+        "scores": {
+          "表达锋芒": 1
+        },
+        "tendency": "L",
+        "reasoning": "「不直接反驳」 → 温和回避  → 表达锋芒弱:1"
+      },
+      {
+        "label": "C",
+        "text": "直接指出对方的逻辑漏洞",
+        "scores": {
+          "表达锋芒": 5
+        },
+        "tendency": "H",
+        "reasoning": "「直接指出漏洞」 → 尖锐表达  → 表达锋芒强:5"
+      }
+    ],
+    "reveal": "测试荀攸的表达锋芒"
+  },
+  {
+    "id": "荀攸_S9_1",
+    "type": "scheme",
+    "dimension": [
+      "权力态度"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸面临权力斗争，需要选择立场。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "选择对大局最有利的立场，不论个人得失",
+        "scores": {
+          "权力态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「选择对大局有利」 → 理性追求权力  → 权力态度中立:3"
+      },
+      {
+        "label": "B",
+        "text": "保持中立，不参与权力斗争",
+        "scores": {
+          "权力态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「保持中立」 → 回避权力  → 权力态度消极:1"
+      },
+      {
+        "label": "C",
+        "text": "选择对自己最有利的立场",
+        "scores": {
+          "权力态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「选择对自己有利」 → 积极追求权力  → 权力态度积极:5"
+      }
+    ],
+    "reveal": "测试荀攸的权力态度"
+  },
+  {
+    "id": "荀攸_S6_1",
+    "type": "angst",
+    "dimension": [
+      "底线弹性"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸为达成重要目标需要突破原则。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "坚守原则，宁可失败也不违背",
+        "scores": {
+          "底线弹性": 1
+        },
+        "tendency": "L",
+        "reasoning": "「宁可失败也不违背」，底线弹性低:1"
+      },
+      {
+        "label": "B",
+        "text": "在原则允许范围内寻找其他方法",
+        "scores": {
+          "底线弹性": 3
+        },
+        "tendency": "M",
+        "reasoning": "「寻找其他方法」，底线弹性中等:3"
+      },
+      {
+        "label": "C",
+        "text": "适当变通，以达成目标为重",
+        "scores": {
+          "底线弹性": 5
+        },
+        "tendency": "H",
+        "reasoning": "「适当变通」，底线弹性高:5"
+      }
+    ],
+    "reveal": "基于荀攸克制深情的性格，测试其底线弹性"
+  },
+  {
+    "id": "荀攸_S4_1",
+    "type": "daily",
+    "dimension": [
+      "面具深度"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸内心有强烈情绪，但需要保持专业。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全隐藏情绪，保持冷静专业",
+        "scores": {
+          "面具深度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「完全隐藏情绪」 → 深度伪装  → 面具深:5"
+      },
+      {
+        "label": "B",
+        "text": "略微流露真实感受，但及时控制",
+        "scores": {
+          "面具深度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「略微流露但控制」 → 适度伪装  → 面具中等:3"
+      },
+      {
+        "label": "C",
+        "text": "真实表达情绪，相信对方理解",
+        "scores": {
+          "面具深度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「真实表达情绪」，面具浅:1"
+      }
+    ],
+    "reveal": "测试荀攸的面具深度"
+  },
+  {
+    "id": "荀攸_S1_1",
+    "type": "scheme",
+    "dimension": [
+      "权谋城府"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸发现有人设局想陷害他。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "冷静收集证据，设下反制之局",
+        "scores": {
+          "权谋城府": 5
+        },
+        "tendency": "H",
+        "reasoning": "「设下反制之局」 → 深度谋略  → 权谋深:5"
+      },
+      {
+        "label": "B",
+        "text": "小心应对，避免落入陷阱",
+        "scores": {
+          "权谋城府": 3
+        },
+        "tendency": "M",
+        "reasoning": "「小心应对」 → 适度权谋  → 权谋中等:3"
+      },
+      {
+        "label": "C",
+        "text": "直接警告对方，表明自己知道",
+        "scores": {
+          "权谋城府": 1
+        },
+        "tendency": "L",
+        "reasoning": "「直接警告」 → 坦率不隐藏  → 权谋低:1"
+      }
+    ],
+    "reveal": "基于荀攸冷静理性的性格，测试其权谋城府"
+  },
+  {
+    "id": "荀攸_S3_1",
+    "type": "scheme",
+    "dimension": [
+      "金钱观念"
+    ],
+    "source_character": "荀攸",
+    "text": "荀攸需要资金办重要的事，但资源有限。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "精打细算，最大化利用有限资源",
+        "scores": {
+          "金钱观念": 3
+        },
+        "tendency": "M",
+        "reasoning": "「精打细算」 → 适度重视金钱  → 金钱观念中等:3"
+      },
+      {
+        "label": "B",
+        "text": "寻求其他解决方案，不依赖金钱",
+        "scores": {
+          "金钱观念": 1
+        },
+        "tendency": "L",
+        "reasoning": "「不依赖金钱」 → 轻视金钱  → 金钱观念弱:1"
+      },
+      {
+        "label": "C",
+        "text": "想尽办法获取更多资金",
+        "scores": {
+          "金钱观念": 5
+        },
+        "tendency": "H",
+        "reasoning": "「想尽办法获取资金」 → 极度重视金钱  → 金钱观念强:5"
+      }
+    ],
+    "reveal": "测试荀攸的金钱观念"
+  }
+]

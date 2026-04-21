@@ -1,0 +1,314 @@
+[
+  {
+    "id": "士燮_S2_1",
+    "type": "sweet",
+    "dimension": [
+      "情感态度"
+    ],
+    "source_character": "士燮",
+    "text": "士燮看到有人因为感情问题影响判断。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "感情是弱点，士氏不需要这种软肋",
+        "scores": {
+          "情感态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「感情是弱点」 → 极度轻视情感  → 情感态度消极:1"
+      },
+      {
+        "label": "B",
+        "text": "先处理实际问题，感情以后再说",
+        "scores": {
+          "情感态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「先处理实际问题」 → 理性对待情感  → 情感态度中立:3"
+      },
+      {
+        "label": "C",
+        "text": "作为家主，既要理性也要体谅情感",
+        "scores": {
+          "情感态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「既要理性也要体谅情感」 → 适度重视情感  → 情感态度积极:5"
+      }
+    ],
+    "reveal": "基于士燮霸道毒舌的性格，测试其对情感的态度"
+  },
+  {
+    "id": "士燮_S8_1",
+    "type": "angst",
+    "dimension": [
+      "温柔底色"
+    ],
+    "source_character": "士燮",
+    "text": "士燮在意的人生病，但对方不想麻烦他。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "直接命令医师来治，不听话就惩罚",
+        "scores": {
+          "温柔底色": 1
+        },
+        "tendency": "L",
+        "reasoning": "「命令惩罚」 → 霸道冷漠  → 温柔底色浅:1"
+      },
+      {
+        "label": "B",
+        "text": "用毒舌的话关心，表面骂实际在意",
+        "scores": {
+          "温柔底色": 5
+        },
+        "tendency": "H",
+        "reasoning": "「毒舌关心」 → 用霸道方式表达温柔  → 温柔底色深:5"
+      },
+      {
+        "label": "C",
+        "text": "让广陵王去照顾，自己保持距离",
+        "scores": {
+          "温柔底色": 3
+        },
+        "tendency": "M",
+        "reasoning": "「让广陵王去照顾」 → 间接关心  → 温柔适中:3"
+      }
+    ],
+    "reveal": "测试士燮霸道外表下的温柔程度"
+  },
+  {
+    "id": "士燮_S10_1",
+    "type": "classic",
+    "dimension": [
+      "秩序感"
+    ],
+    "source_character": "士燮",
+    "text": "有人质疑士燮的统治方式太霸道。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "士氏就是规矩，质疑者死",
+        "scores": {
+          "秩序感": 5
+        },
+        "tendency": "H",
+        "reasoning": "「士氏就是规矩」 → 极度重视自身秩序  → 秩序感强:5"
+      },
+      {
+        "label": "B",
+        "text": "规矩要立，但也要让人心服",
+        "scores": {
+          "秩序感": 3
+        },
+        "tendency": "M",
+        "reasoning": "「规矩要让人心服」 → 适度灵活  → 秩序感中等:3"
+      },
+      {
+        "label": "C",
+        "text": "规矩不重要，重要的是听我的话",
+        "scores": {
+          "秩序感": 1
+        },
+        "tendency": "L",
+        "reasoning": "「规矩不重要」 → 轻视秩序  → 秩序感弱:1"
+      }
+    ],
+    "reveal": "基于士燮世家傲气的性格，测试其秩序感"
+  },
+  {
+    "id": "士燮_S1_1",
+    "type": "scheme",
+    "dimension": [
+      "权谋城府"
+    ],
+    "source_character": "士燮",
+    "text": "士燮发现有人想挑战士氏权威。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "立即打压，以儆效尤",
+        "scores": {
+          "权谋城府": 1
+        },
+        "tendency": "L",
+        "reasoning": "「立即打压」 → 坦率不隐藏  → 权谋低:1"
+      },
+      {
+        "label": "B",
+        "text": "设局让对方自己暴露问题",
+        "scores": {
+          "权谋城府": 5
+        },
+        "tendency": "H",
+        "reasoning": "「设局让对方暴露」 → 深度谋略  → 权谋深:5"
+      },
+      {
+        "label": "C",
+        "text": "先观察，看对方具体想做什么",
+        "scores": {
+          "权谋城府": 3
+        },
+        "tendency": "M",
+        "reasoning": "「先观察」 → 适度权谋  → 权谋中等:3"
+      }
+    ],
+    "reveal": "测试士燮的权谋城府"
+  },
+  {
+    "id": "士燮_S9_1",
+    "type": "scheme",
+    "dimension": [
+      "权力态度"
+    ],
+    "source_character": "士燮",
+    "text": "有人想和士燮分享权力。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "士氏权力不可分享，要么臣服要么死",
+        "scores": {
+          "权力态度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「不可分享」 → 极度重视权力掌控  → 权力态度积极:5"
+      },
+      {
+        "label": "B",
+        "text": "可以分享一部分，但必须听我的",
+        "scores": {
+          "权力态度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「可以分享但听我的」 → 适度分享  → 权力态度中立:3"
+      },
+      {
+        "label": "C",
+        "text": "谁有能力谁掌权，胜者为王",
+        "scores": {
+          "权力态度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「胜者为王」，权力态度消极:1"
+      }
+    ],
+    "reveal": "基于士燮世家傲气，测试其对权力的态度"
+  },
+  {
+    "id": "士燮_S4_1",
+    "type": "daily",
+    "dimension": [
+      "面具深度"
+    ],
+    "source_character": "士燮",
+    "text": "士燮内心担忧家族未来，但作为家主不能表露。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全隐藏担忧，展现霸气和自信",
+        "scores": {
+          "面具深度": 5
+        },
+        "tendency": "H",
+        "reasoning": "「完全隐藏担忧」 → 深度伪装  → 面具深:5"
+      },
+      {
+        "label": "B",
+        "text": "略微流露真实想法，但很快掩饰",
+        "scores": {
+          "面具深度": 3
+        },
+        "tendency": "M",
+        "reasoning": "「略微流露但掩饰」 → 适度伪装  → 面具中等:3"
+      },
+      {
+        "label": "C",
+        "text": "坦诚担忧，相信广陵王理解",
+        "scores": {
+          "面具深度": 1
+        },
+        "tendency": "L",
+        "reasoning": "「坦诚担忧」，面具浅:1"
+      }
+    ],
+    "reveal": "测试士燮作为家主的面具深度"
+  },
+  {
+    "id": "士燮_S6_1",
+    "type": "angst",
+    "dimension": [
+      "底线弹性"
+    ],
+    "source_character": "士燮",
+    "text": "士燮为保护家族需要突破道德底线。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "家族利益高于一切，不择手段",
+        "scores": {
+          "底线弹性": 5
+        },
+        "tendency": "H",
+        "reasoning": "「家族利益高于一切」，底线弹性高:5"
+      },
+      {
+        "label": "B",
+        "text": "尽量不突破底线，寻找其他方法",
+        "scores": {
+          "底线弹性": 3
+        },
+        "tendency": "M",
+        "reasoning": "「尽量不突破底线」，底线弹性中等:3"
+      },
+      {
+        "label": "C",
+        "text": "宁可家族受损也不违背原则",
+        "scores": {
+          "底线弹性": 1
+        },
+        "tendency": "L",
+        "reasoning": "「宁可受损也不违背」，底线弹性低:1"
+      }
+    ],
+    "reveal": "基于士燮护短霸道的性格，测试其底线弹性"
+  },
+  {
+    "id": "士燮_S7_1",
+    "type": "angst",
+    "dimension": [
+      "表达锋芒"
+    ],
+    "source_character": "士燮",
+    "text": "有人质疑士燮的统治过于强势。广陵王在场。",
+    "options": [
+      {
+        "label": "A",
+        "text": "用毒舌的话反驳，展现世家傲气",
+        "scores": {
+          "表达锋芒": 5
+        },
+        "tendency": "H",
+        "reasoning": "「毒舌反驳」，表达锋芒强:5"
+      },
+      {
+        "label": "B",
+        "text": "冷静解释统治的必要性",
+        "scores": {
+          "表达锋芒": 3
+        },
+        "tendency": "M",
+        "reasoning": "「冷静解释」，表达锋芒中等:3"
+      },
+      {
+        "label": "C",
+        "text": "不解释，直接惩罚质疑者",
+        "scores": {
+          "表达锋芒": 1
+        },
+        "tendency": "L",
+        "reasoning": "「不解释直接惩罚」，表达锋芒弱:1"
+      }
+    ],
+    "reveal": "测试士燮的表达锋芒"
+  }
+]
