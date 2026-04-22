@@ -2,28 +2,36 @@
   {
     "id": "孔融_S10_01",
     "type": "scheme",
-    "dimension": ["S10"],
+    "dimension": [
+      "S10"
+    ],
     "source_character": "孔融",
     "text": "孔融审案时，有个为父母报仇的孝子杀了仇人徐蜓。孔融说按律法，徐蜓的子女也可要求一命偿一命。他问你如何判决。",
     "options": [
       {
         "label": "A",
         "text": "法理之外尚有人情，从轻发落遣回原籍",
-        "scores": {"S10": 1},
+        "scores": {
+          "S10": 1
+        },
         "tendency": "L",
         "reasoning": "无视法律程序直接以人情宽赦→S10:1"
       },
       {
         "label": "B",
         "text": "召徐蜓子女来问，若他们愿宽恕就减刑",
-        "scores": {"S10": 3},
+        "scores": {
+          "S10": 3
+        },
         "tendency": "M",
         "reasoning": "兼顾法律程序和当事人意愿→S10:3"
       },
       {
         "label": "C",
         "text": "按律死罪，念是为亲报仇改判绞刑留全尸",
-        "scores": {"S10": 5},
+        "scores": {
+          "S10": 5
+        },
         "tendency": "H",
         "reasoning": "严格执行法律只在量刑上体现人情→S10:5"
       }
@@ -33,28 +41,36 @@
   {
     "id": "孔融_S7_01",
     "type": "classic",
-    "dimension": ["S7"],
+    "dimension": [
+      "S7"
+    ],
     "source_character": "孔融",
     "text": "孔融见你中止服丧，直接质问：'广陵王殿下是先帝近臣，汉室宗亲，为何中止服丧？'你如何回应他的锋芒？",
     "options": [
       {
         "label": "A",
         "text": "低头认错说确实不该，马上继续服丧",
-        "scores": {"S7": 1},
+        "scores": {
+          "S7": 1
+        },
         "tendency": "L",
         "reasoning": "立即退缩回避锋芒→S7:1"
       },
       {
         "label": "B",
         "text": "解释局势紧迫，但承认他说的有道理",
-        "scores": {"S7": 3},
+        "scores": {
+          "S7": 3
+        },
         "tendency": "M",
         "reasoning": "温和解释但不完全退让→S7:3"
       },
       {
         "label": "C",
         "text": "直视他反问：'国丧重要还是数万百姓的性命重要？'",
-        "scores": {"S7": 5},
+        "scores": {
+          "S7": 5
+        },
         "tendency": "H",
         "reasoning": "正面回击同等锋芒→S7:5"
       }
@@ -64,28 +80,36 @@
   {
     "id": "孔融_S6_01",
     "type": "angst",
-    "dimension": ["S6"],
+    "dimension": [
+      "S6"
+    ],
     "source_character": "孔融",
     "text": "孔融的堂弟勾结士族，以他名义许诺郡守之位换粮草，却高价倒卖。孔融问你该不该判他死罪。",
     "options": [
       {
         "label": "A",
         "text": "毕竟是亲人，让他退赃闭门思过就算了",
-        "scores": {"S6": 1},
+        "scores": {
+          "S6": 1
+        },
         "tendency": "L",
         "reasoning": "因亲情放弃原则→S6:1"
       },
       {
         "label": "B",
         "text": "撤职查办，但留他一命关押起来",
-        "scores": {"S6": 3},
+        "scores": {
+          "S6": 3
+        },
         "tendency": "M",
         "reasoning": "折中处理不完全放弃底线→S6:3"
       },
       {
         "label": "C",
         "text": "按律判死罪，亲人也必须伏法",
-        "scores": {"S6": 5},
+        "scores": {
+          "S6": 5
+        },
         "tendency": "H",
         "reasoning": "坚守法律和道德底线不徇私→S6:5"
       }
@@ -95,28 +119,36 @@
   {
     "id": "孔融_S1_01",
     "type": "scheme",
-    "dimension": ["S1"],
+    "dimension": [
+      "S1"
+    ],
     "source_character": "孔融",
     "text": "孔融说士族不肯给粮，死的人越来越多。黄巾来了，剧县外有四万名俘虏。有人说让他们自生自灭。孔融问你该怎么办。",
     "options": [
       {
         "label": "A",
         "text": "按你说的办，推广礼教给他们希望",
-        "scores": {"S1": 1},
+        "scores": {
+          "S1": 1
+        },
         "tendency": "L",
         "reasoning": "单纯依赖理想化方案无实际权谋→S1:1"
       },
       {
         "label": "B",
         "text": "分而治之，选可用者编入军伍换粮食",
-        "scores": {"S1": 3},
+        "scores": {
+          "S1": 3
+        },
         "tendency": "M",
         "reasoning": "实用主义策略但不够深谋远虑→S1:3"
       },
       {
         "label": "C",
         "text": "与士族谈判，用俘虏劳力换粮食和土地",
-        "scores": {"S1": 5},
+        "scores": {
+          "S1": 5
+        },
         "tendency": "H",
         "reasoning": "深谋远虑的多方利益交换→S1:5"
       }
@@ -126,28 +158,36 @@
   {
     "id": "孔融_S10_02",
     "type": "daily",
-    "dimension": ["S10"],
+    "dimension": [
+      "S10"
+    ],
     "source_character": "孔融",
     "text": "孔融坚持绣衣楼是天子直属，只能由天子调遣。他说除非手持天子谕令，否则严禁私自动用。你想调动绣衣楼的人手，如何说服他？",
     "options": [
       {
         "label": "A",
         "text": "直接调用，事后补个手续就行",
-        "scores": {"S10": 1},
+        "scores": {
+          "S10": 1
+        },
         "tendency": "L",
         "reasoning": "完全无视程序规则→S10:1"
       },
       {
         "label": "B",
         "text": "说现在紧急，可以写个临时文书",
-        "scores": {"S10": 3},
+        "scores": {
+          "S10": 3
+        },
         "tendency": "M",
         "reasoning": "试图在规则框架内找变通→S10:3"
       },
       {
         "label": "C",
         "text": "按他的要求先取得正式授权",
-        "scores": {"S10": 5},
+        "scores": {
+          "S10": 5
+        },
         "tendency": "H",
         "reasoning": "严格遵守法律程序和秩序→S10:5"
       }
@@ -157,28 +197,36 @@
   {
     "id": "孔融_S7_02",
     "type": "funny",
-    "dimension": ["S7"],
+    "dimension": [
+      "S7"
+    ],
     "source_character": "孔融",
     "text": "在辟雍学宫当讲师时，袁基和戏志才打架，孔融怒斥：'成何体统！谁的手巾和玉佩？这是能随便离身的东西吗？！'你作为旁观者怎么劝架？",
     "options": [
       {
         "label": "A",
         "text": "默默退开假装没看见",
-        "scores": {"S7": 1},
+        "scores": {
+          "S7": 1
+        },
         "tendency": "L",
         "reasoning": "完全回避冲突和锋芒→S7:1"
       },
       {
         "label": "B",
         "text": "小声说'两位学长，孔师生气了'",
-        "scores": {"S7": 3},
+        "scores": {
+          "S7": 3
+        },
         "tendency": "M",
         "reasoning": "温和提醒但不过度介入→S7:3"
       },
       {
         "label": "C",
         "text": "大声说'孔师说得对！学长带头打架像话吗？'",
-        "scores": {"S7": 5},
+        "scores": {
+          "S7": 5
+        },
         "tendency": "H",
         "reasoning": "公开支持孔融的批评展现锋芒→S7:5"
       }
@@ -188,28 +236,36 @@
   {
     "id": "孔融_S6_02",
     "type": "angst",
-    "dimension": ["S6"],
+    "dimension": [
+      "S6"
+    ],
     "source_character": "孔融",
     "text": "孔融的堂弟用他名义许诺郡守之位换粮，却高价倒卖。有人劝他：'毕竟是亲人，退赃罚钱算了。'孔融问你的意见。",
     "options": [
       {
         "label": "A",
         "text": "确实，亲人之间何必如此绝情",
-        "scores": {"S6": 1},
+        "scores": {
+          "S6": 1
+        },
         "tendency": "L",
         "reasoning": "因亲情完全放弃原则→S6:1"
       },
       {
         "label": "B",
         "text": "撤职查办，但免死罪以观后效",
-        "scores": {"S6": 3},
+        "scores": {
+          "S6": 3
+        },
         "tendency": "M",
         "reasoning": "部分妥协但保留基本底线→S6:3"
       },
       {
         "label": "C",
         "text": "他说得对，必须按律判死以儆效尤",
-        "scores": {"S6": 5},
+        "scores": {
+          "S6": 5
+        },
         "tendency": "H",
         "reasoning": "坚持原则不因亲情动摇底线→S6:5"
       }
@@ -219,28 +275,36 @@
   {
     "id": "孔融_S1_02",
     "type": "daily",
-    "dimension": ["S1"],
+    "dimension": [
+      "S1"
+    ],
     "source_character": "孔融",
     "text": "孔融说：'北海郡没有陈登，没有张邈。有的只是一群半门阀半军阀的士族。'他问你该如何与这些士族打交道。",
     "options": [
       {
         "label": "A",
         "text": "用圣贤之道感化他们",
-        "scores": {"S1": 1},
+        "scores": {
+          "S1": 1
+        },
         "tendency": "L",
         "reasoning": "理想化方案缺乏实际权谋→S1:1"
       },
       {
         "label": "B",
         "text": "分化拉拢，给些好处换支持",
-        "scores": {"S1": 3},
+        "scores": {
+          "S1": 3
+        },
         "tendency": "M",
         "reasoning": "基本政治手段但不够深谋→S1:3"
       },
       {
         "label": "C",
         "text": "收集罪证，联合其他势力制衡",
-        "scores": {"S1": 5},
+        "scores": {
+          "S1": 5
+        },
         "tendency": "H",
         "reasoning": "深谋远虑的多方制衡策略→S1:5"
       }
