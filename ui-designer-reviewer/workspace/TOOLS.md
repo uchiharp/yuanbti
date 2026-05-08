@@ -53,3 +53,25 @@ curl -s -o /dev/null -w "%{http_code}" http://localhost:3000
 
 详见：`~/.openclaw/workspace/skills/karpathy-engineering-guidelines/SKILL.md`
 
+
+## 手机（Termux）
+
+- **ADB 序列号:** ffba2240
+- **IP:** 192.168.31.9（局域网）
+- **SSH:** `ssh u0_a247@192.168.31.9 -p 8022`，密码 `Feichang@4zz`
+- **系统:** Android (ARM64), Termux, Python 3.13.13
+
+### 手机上运行的服务
+- **LiteLLM Proxy 1.83.14** → `http://192.168.31.9:4000`（局域网可访问）
+  - 可用模型: `glm-4-flash`（智谱 Coding Plan）, `deepseek-v3.2`（火山 Coding Plan）
+  - API 格式: OpenAI 兼容，`/v1/chat/completions`
+
+### 远程操作手机
+```bash
+# SSH 方式
+sshpass -p 'Feichang@4zz' ssh -o StrictHostKeyChecking=no u0_a247@192.168.31.9 -p 8022 'command'
+
+# ADB 方式（需 USB 连接）
+adb -s ffba2240 shell "run-as com.termux /data/data/com.termux/files/usr/bin/python3 -c '...'"
+```
+

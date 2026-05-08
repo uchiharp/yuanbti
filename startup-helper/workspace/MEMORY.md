@@ -1,379 +1,278 @@
 # MEMORY.md - 长期记忆
 
-## 创业助手启动记录
+## 用户偏好
 
-- **创建日期:** 2026-04-02
-- **App ID:** cli_a944cc3f77b89bd2
-- **用途:** 创业助手，对接飞书机器人
+- **模型选择（2026-04-07）：**
+  - 日常非编码对话 → GLM-5（轻量快速）
+  - startup-helper agent → GLM-5.1（需要深度推理）
+  - 编码/复杂分析 → GLM-5.1
+  - cron任务 → GLM-5.1（深度推理）
+
+## 🏗️ 四层架构系统（2026-04-22）
+
+### 系统架构
+| 组件 | 状态 | 连接方式 | 位置 |
+|------|------|---------|------|
+| OpenClaw（编排层） | ✅ 2026.4.2 | - | Mac 本地 |
+| Claude Code（编码层） | ✅ 2.1.109 | ACP + tmux | Mac 本地 |
+| ~~Codex CLI~~ | ❌ 已卸载 2026-05-07 | - | - |
+| Hermes（规划层） | ✅ v0.9.0 | localhost:8642 | 1060服务器 SSH隧道 |
+
+### 模型配置
+- **Claude Code：** Ark GLM-5.1（主）+ DeepSeek V3.2（轻量）
+- ~~Codex CLI：~~ ❌ 2026-05-07 已卸载
+- **Hermes：** GLM-5.1（智谱直连）
+- **OpenClaw：** GLM-5-turbo（日常对话）
+- **全部通过火山方舟 Ark Coding Plan 调用**（并发20+无压力，智谱直连并发3就限流）
+
+### Runner 脚本（tmux 模式，实时查看执行过程）
+- **claude-code-runner.sh** — tmux + 日志 + 飞书通知（深度编码，推理不打折）
+
+### 调度规则（见 SOUL.md）
+- 轻量编码 → Claude Code（ACP）
+- 深度编码 → Claude Code（tmux，推理不打折）
+- 想实时看执行过程 → tmux 模式
+- 记忆查询/存储 → Hermes API
+- 任务分解 → Hermes delegate_task
+
+### 服务器配置
+- **1060 GPU服务器：** nyaruko@192.168.31.18（内网）/ 81.70.189.52:6000（外网）
+- **Hermes Gateway：** 端口8642，本地8642（SSH隧道）
+- **llama-server：** 端口8088（GPU加速embedding）
 
 ---
 
-## 开发 Agent 规则
+## 硬件资源
 
-**优先使用固定 agent，没有的才创建临时 agent。**
+### 阿里云服务器（2026-04-19 从创业助手同步）
+- **公网IP：** 8.147.115.189
+- **私网IP：** 192.168.1.30
+- **配置：** 2核 2G，3Mbps 带宽
+- **系统：** Alibaba Cloud Linux 3.2104 LTS 64位
+- **地域：** 华北2（北京）可用区 I
+- **SSH：** root@8.147.115.189（密码见用户）
+- **实例ID：** i-2ze4e3ag2dlgc2mcnw88
+- **已安装：** Docker 26.1.3 + Docker Compose v2.27.0
+- **PostgreSQL 16 + pgvector 0.8.2**（端口5432，库: finder，用户: finder）
+- **Redis 7 Alpine**（端口6379）
+- **用途：** Finder App 部署、yuanbti 等项目部署
 
-### 重要环境信息
+### Windows 台式机（2026-05-08 确认）
+- **内网IP：** `192.168.31.134`
+- **用户名：** `Administrator`
+- **密码：** `Feichang@4zz`
+- **系统：** Windows 10 专业版 Build 19045
+- **主机名：** DESKTOP-UVFIB3N
+- **硬件：** 20核CPU，16G 内存
+- **GPU：** NVIDIA GeForce RTX 4070 **12GB 显存**（Driver 560.94，CUDA 12.6）
+- **SSH：** 已开启 OpenSSH Server（密码认证）
+- **已安装：** 飞书、Steam、Razer Synapse、罗技 G Hub、MuMu 模拟器、OneDrive、WPS
+- **用途潜力：** AI绘图(ComfyUI)、本地大模型(Ollama)、游戏服务器、NAS、代理网关
 
-- **项目 JDK 版本：Java 21**（pom.xml + IntelliJ）
-- **Maven 编译/测试必须用 Java 21**（已在 pom.xml maven-compiler-plugin 和 surefire-plugin 硬编码）
-- **系统默认 java 命令可能是 Java 24/25**（brew 安装的），不要用
-- **Java 21 路径：** `/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home`
-- **如果遇到 Byte Buddy/Mockito 不兼容错误** → 说明用了错误的 JDK，不要升级 byte-buddy
-- **分数步长：0.1**（不是0.5，已从0.5升级到0.1精度）
-- **向量维度：1024**（不是1536）
+### 1060 GPU 服务器（2026-04-13 确认）
+- **内网IP：** `192.168.31.18`（端口22，局域网直连）
+- **外网IP：** `81.70.189.52`（端口6000，不在家时用）
+- **SSH账号：** `nyaruko`
+- **系统：** Ubuntu 24.04.2 LTS (x86_64)
+- **硬件：** GPU（型号待确认，可能是GTX 1060），97.87GB磁盘
+- **已装软件：**
+  - Ollama（qwen2.5:3b、minicpm-v）
+  - yolo-env 虚拟环境（Python 3.12.3，ultralytics待安装）
+  - Java服务部署目录：`/opt/java-services/`
+- **注意：** nyaruko用户无sudo免密权限，nvidia-smi需要密码
+- **SSH连接：** 两台地址用的是同一个ed25519密钥，是同一台机器
 
-### 基本纪律（所有开发 agent 必须遵守）
+---
 
-1. **写完必须自己跑一遍** — 编译、接口调用、页面打开，没跑过的不算完成
-2. **改动要检查上下游** — 改了后端字段检查前端，改了组件检查所有引用的地方
-3. **拿不准就问** — 不要自己猜着加功能，特别是用户没要求的
+## 地点
 
-### 模型和超时规则
+- **常驻地区：** 北京天通苑（2026-03-24 更新）
 
-- **默认模型：** zai/GLM-5.1
-- **429 限流 fallback：** zai/GLM-5（不是 kimi！）
-- **超时时间：** runTimeoutSeconds: 6000（100分钟）
-- **不要用 kimi-k2.5** — 太贵
+---
 
-### 大任务拆分规则
+## 用户纠正（2026-04-02）
 
-所有 agent **必须**将大任务拆成小步骤执行：
-1. 先读必要的文件（只读需要的部分，不要读整个文件）
-2. 修改代码
-3. 验证编译
-4. 产出报告
+### 1. "老张"称呼的真相
+- ❌ 错误理解：刘繇友好地叫张邈"老张"
+- ✅ 正确理解：刘繇以为张邈姓"老"（文化水平不高，误解姓氏）
+- 🎭 张邈调侃刘繇"不太有学识，只喜欢酒肉美人"
+- 体现了两人的文化差距和张邈的毒舌
 
-**禁止**：一次性读完所有代码再开始工作
+### 2. "愚弟"的正确理解
+- ❌ 错误理解：张邈自称"愚弟"
+- ✅ 正确理解：张邈称呼弟弟张超为"愚弟"
+- 原文："这是愚弟，张超。愚蠢的弟弟，给殿下打招呼。"
+- 体现了张邈对弟弟的毒舌调侃
 
-固定开发流程 agent：
-- 📋 pm — 需求分析、PRD
-- 🏗️ architect — 技术方案、API设计
-- 🎨 ui-designer — 视觉设计、CSS
-- 🖥️ frontend — Vue/uni-app 开发
-- ⚙️ backend — Java/Spring Boot 开发
-- 🔍 code-review — 代码质量审查（Veto Power + Quality Gate）
-- 🧪 qa — E2E测试（每次必须回归测试所有受影响功能，不能只测新增的）
-- 👤 ux-tester — 用户体验评测
+---
 
-### 开发流程（v4 — agent-pipeline 骨架）
+## 🖥️ Windows 台式机 - AI 绘图工作站（2026-05-08）
 
+### 硬件信息
+- **IP：** 192.168.31.134（局域网直连）
+- **SSH：** `Administrator@192.168.31.134`，密码 `Feichang@4zz`
+- **主机名：** DESKTOP-UVFIB3N
+- **系统：** Windows 10 专业版 Build 19045
+- **CPU：** 20 核
+- **内存：** 16GB
+- **GPU：** NVIDIA GeForce RTX 4070，12GB 显存（Driver 560.94，CUDA 12.6）
+
+### 网络限制（⚠️ 重要）
+- **无代理**，无法直接访问 GitHub、HuggingFace、CivitAI 等国外网站
+- **GitHub 镜像：** ghfast.top（已配置 git 全局 insteadOf）
+- **HuggingFace 镜像：** hf-mirror.com（已配置 HF_ENDPOINT 环境变量）
+- **pip 镜像：** 清华 pypi.tuna.tsinghua.edu.cn（已配置）
+- **所有依赖下载必须走国内镜像**，否则必定超时失败
+
+### 已安装软件
+- **Python 3.10.11** — `C:\Users\Administrator\AppData\Local\Programs\Python\Python310`
+- **Git 2.47.1** — `C:\Program Files\Git\cmd`
+- **PyTorch 2.11.0+cu126** + torchvision 0.26.0+cu126 + torchaudio 2.11.0+cu126
+- **Node.js 22** — `C:\Program Files\nodejs`
+- **FFmpeg 8.1.1** — `C:\ffmpeg\ffmpeg-8.1.1-essentials_build\bin`
+- 其他：飞书、Steam、Razer Synapse、罗技 G Hub、MuMu 模拟器、OneDrive、WPS、GameViewer Virtual Display Adapter
+
+### ComfyUI（AI 绘图 - 节点式）
+- **路径：** `C:\ComfyUI`（版本 0.20.1）
+- **访问：** http://192.168.31.134:8188
+- **启动方式：** `cmd /c C:\ComfyUI\start_comfyui.bat`（WMI 后台进程，SSH 断了不中断）
+- **防火墙：** 已放行 8188 端口（规则名 ComfyUI）
+- **模型：**
+  - Checkpoint: `Illustrious-XL-v2.0.safetensors`（6.6GB）— NoobAI 底模，动漫二次元
+  - CLIP L: `sd_xl_clip_l.safetensors`（470MB）
+  - CLIP G: `sd_xl_clip_g.safetensors`（2.7GB）
+  - VAE: `sdxl_vae.safetensors`（319MB，fp16-fix）
+- **默认工作流：** `C:\ComfyUI\user\default_workflow.json`（CheckpointLoaderSimple 格式）
+- **当前问题：** ComfyUI 新版默认工作流用分拆节点（diffusion_models/text_encoders），需要 Load Default 加载自定义工作流
+
+### SD Forge（AI 绘图 - 传统 WebUI）
+- **路径：** `C:\sd-forge`（版本 f2.0.1v1.10.1，commit dfdcbab6）
+- **访问：** http://192.168.31.134:7860
+- **状态：** ✅ 可用（2026-05-08 验证通过）
+- **启动方式：** schtasks 计划任务 `StartForge`（WMI 启动失败，schtasks 成功持久化）
+- **防火墙：** 已放行 7860 端口（规则名 Forge）
+- **模型：** 通过符号链接共用 ComfyUI 的 `Illustrious-XL-v2.0.safetensors`
+- **启动环境变量：** `CLIP_PACKAGE=openai-clip`, `OPENCLIP_PACKAGE=open-clip-torch`, `HF_ENDPOINT=https://hf-mirror.com`
+- **已装依赖：** openai-clip（二进制安装）、scikit-image 0.25.2、setuptools<82
+- **限制：** ❌ xformers 在 Windows 上编译失败，启动不加 --xformers
+
+### ⚠️ GPU 资源冲突
+- **ComfyUI 和 Forge 不能同时运行**（12GB 显存不够两个同时加载模型）
+- 需要先关一个再启动另一个
+- 切换方式：`taskkill /F /IM python.exe` → 启动另一个
+- **推荐：** 日常用 Forge（WebUI 更友好），批量/自动化用 ComfyUI（API 接口）
+
+### SSH 远程操作注意事项
+- 路径含空格需反斜杠转义引号
+- `$env:PATH` 会被本地 shell 展开
+- PowerShell `-File` 在 SSH 中有路径解析问题，用 `-Command "& script"` 替代
+- `start /b` 和 `Start-Process cmd /c` 在 SSH 断开后进程会终止
+- **永久后台进程：** WMI 或 schtasks 计划任务（Forge 用 schtasks，ComfyUI 用 WMI）
+- **WMI 有时返回 ReturnValue=9（权限不足），备用 schtasks：** `schtasks /create /tn StartForge /tr "cmd /c C:\sd-forge\webui-user.bat" /sc once /st 00:00 /ru SYSTEM /f && schtasks /run /tn StartForge`
+- Windows 无 base64 命令，用 PowerShell `[Convert]::FromBase64String` + certutil -decode
+- PowerShell Expand-Archive 不支持 .tgz，用 `cmd /c tar -xzf`
+- 上传 Python 脚本方式：本地 base64 → PowerShell 写入远程
+- SSH 密码认证频繁调用会被限制（Too many authentication failures），需间隔 10 秒
+
+---
+
+## 互动记录
+
+### 2026-04-23
+- **Agent健康检查脚本创建**
+  - 原脚本不存在，已创建完整健康检查脚本，包含6个检查项目
+  - 检查结果：发现3个Git仓库有未提交更改
+  - 系统健康度：🟢健康(95/100)
+- **自动记忆整理任务执行**
+  - 健康检查：发现3个Git仓库有未提交更改
+  - 记忆蒸馏：昨日记忆已处理，无新文件需要蒸馏
+  - MemPalace清理：session-memory相关wing状态正常
+  - Git备份：需要推送3个仓库
+
+### 2026-04-12
+- **Agent配置健康检查问题**
+  - 发现4个问题：文件过长、截图文件过多、skill数量较多
+  - 系统整体健康度：🟢健康(90/100)，Git远程备份未配置
+- **上架达人spawn白名单问题**
+  - 缺失3个reviewer：backend-reviewer、frontend-reviewer、dev3-reviewer
+  - 需修改白名单配置
+
+### 2026-04-11
+- **agent-pipeline skill 完善**
+  - 迭代合同核心规则写入SKILL.md
+  - 通用交付规则写入SKILL.md
+- **OpenClaw 多Agent研究**
+  - 确认sessions_spawn支持agentId参数
+  - 子agent模型限制：只能用glm-5-turbo
+- **飞书机器人批量创建与绑定**
+  - 9个评审官飞书机器人创建成功
+  - 绑定问题修复，6个评审官完成配对批准
+
+### 2026-04-09
+- **每日记忆整理完成**
+  - Agent文件：183行，MemPalace：49个drawers，状态健康
+  - 知识图谱：88个entities，61个triples，无过期事实
+- **定时任务监控机制建立**
+  - 设置监控cron任务：cron-health-check（每天10:00）
+  - 修复配置，更新HEARTBEAT.md
+
+### 2026-04-08
+- Agent文件大规模重构（1078→510行）
+- 创建共享规则wing：wing_agent_style_guide/room_shared_rules
+- 建立定期整理计划
+
+### 2026-04-07
+- 科技简报升级为"新闻+大佬观点"双拼版
+- BWiki全量爬取完成，新增44KB内容
+- 小红书/B站cookie过期，待办cookie自动续期脚本
+
+### 2026-04-06
+- 科技简报系统升级（v1→v2）
+- 建立AI资讯分析框架
+- 追踪安全事件，建立三级优先级信息分类
+
+### 2026-03-24
+- 解决Mac合盖断网问题
+- 解决Kimi API 401问题
+- 卸载Amphetamine，改用系统原生方案## 📈 TradingAgents 金融分析服务（2026-04-28）
+
+### 部署信息
+- **位置：** 1060 GPU 服务器 `nyaruko@192.168.31.18:~/TradingAgents`
+- **环境：** `~/miniconda3/envs/tradingagents`（Python 3.13）
+- **模型：** GLM-5-turbo（智谱 Coding Plan 通道）
+- **API：** `https://open.bigmodel.cn/api/coding/paas/v4`
+- **代理：** mihomo `127.0.0.1:29538`（LA 节点）
+- **Mac 本地已清理**，金融分析只在 1060 上跑
+
+### 三条硬规则
+1. **金融分析走 1060** — 所有金融相关任务（TradingAgents、量化分析等）都在 1060 服务器上执行，不在 Mac 本地跑
+2. **mihomo GLOBAL 保持 Proxy** — 1060 的 mihomo 代理必须保持 GLOBAL=Proxy 模式，切 DIRECT 会导致外网不通
+3. **中文金融内容触发敏感词** — 智谱 Coding Plan 对中文金融讨论（买入/卖出/股价等）容易触发 1301 敏感词过滤，建议 output_language 用 English
+
+### 运行命令
+```bash
+ssh nyaruko@192.168.31.18
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate tradingagents
+cd ~/TradingAgents
+OPENAI_API_KEY=xxx \
+  NO_PROXY=localhost,127.0.0.1,open.bigmodel.cn,*.bigmodel.cn \
+  HTTPS_PROXY=http://127.0.0.1:29538 \
+  HTTP_PROXY=http://127.0.0.1:29538 \
+  python3 -u run_test2.py
 ```
-阶段1-4: 需求→PRD→架构→UX/UI
-阶段5: 创业助手整合PRD+架构+UX+UI → tasks.md
-阶段6: dev3代码集成+编译 → 创业助手P0冒烟验证 → 代码质量审查
-阶段7: 业务与架构验证（阶段6.5修复1轮不通过则升级到此）
-阶段8: QA测试
-阶段9: 交付 + 项目复盘（从changes/和communications/提取教训→MemPalace）
-```
-
-**骨架文件：** `~/.agents/skills/agent-pipeline/SKILL.md`（~930行）
-**创业助手专属skill：** `task-decomposition`（已补强防偷懒规则）
-
-### 创业助手在pipeline中的职责
-
-1. **阶段5（任务分解）：** 整合PRD+架构+UX+UI产出tasks.md；QA·评审官审查test-plan
-2. **阶段6.3后（P0冒烟验证）：** dev3做完代码集成+编译通过后，创业助手执行P0冒烟验证
-   - 冒烟不通过 → 打回开发者修复，不进入6.5
-   - 冒烟通过 → 进入6.5代码质量审查
-3. **不再负责代码集成（阶段6.3的合并由dev3做）**
-
-### 关键规则
-- 阶段6合同类型：🔴高风险完整合同
-- 轮次计算：第1次提交不算轮次，每次打回后重提交算1轮
-- 阶段6.5代码质量审查：1轮修复不通过 → 升级到阶段7（业务与架构验证）
-- 阶段9项目复盘：交付后从changes/和communications/提取教训，存入MemPalace（wing=agent-pipeline, room=project-lessons）
-- 发生过回退或≥2轮迭代的阶段，必须提取一条教训
-
-### Agent 职责速查
-
-| Agent | 核心产出 | 注意 |
-|-------|----------|------|
-| PM | PRD | 验收标准必须可测试 |
-| Architect | API 设计 + 字段对照表 | 前后端字段名必须一致 |
-| Frontend | 前端代码 | 只写代码，不说"自测通过" |
-| Backend | 后端代码 | 只写代码，不说"自测通过" |
-| 创业助手 | 验证管道 | 自己跑命令，不信任任何 Agent 报告 |
-| Code Review | 审查报告 | 创业助手验证后，查代码质量和安全 |
-| QA | 测试报告 | 创业助手验证后，测业务逻辑和边界 |
-| UX Tester | 体验报告 | 像真实用户一样用 |
-
-### 创业助手职责（startup-helper / 我）
-
-我是**唯一的测试执行者**：
-- **任务分发**：接收需求，分配给各 Agent
-- **验证管道**：收到代码后自己跑命令验证，不信任任何 Agent 的自测报告
-- **异常响应**：验证失败时把真实错误日志打回开发
-- **流程推进**：验证通过才推进到下一步
-
-**不做**：信任其他 Agent 的"测试通过"报告
-
-日常 agent：main, learn, fit-buddy, startup-helper, chendeng, zhangmiao
-
-### 固化Agent（必须用，不要临时spawn）
-
-**开发Agent：**
-- `pm` — PM写PRD
-- `architect` — 架构设计
-- `frontend` — 前端开发
-- `backend` — 后端开发
-- `qa` — QA测试
-- `ux-tester` — UX评测
-- `ui-designer` — UI设计
-- `dev3` — 备用开发
-
-**挑刺官（Reviewer）：**
-- `pm-reviewer` — PM挑刺
-- `architect-reviewer` — 架构挑刺
-- `frontend-reviewer` — 前端挑刺
-- `backend-reviewer` — 后端挑刺
-- `qa-reviewer` — QA挑刺
-- `ux-tester-reviewer` — UX挑刺
-- `ui-designer-reviewer` — UI挑刺
-- `startup-helper-reviewer` — 创业助手挑刺
-
-**规则：优先使用已固化的agent执行任务。**
-
-### 如何使用固化Agent
-
-固化agent是独立对话型agent（有各自飞书bot），**可以通过 `sessions_send` 调度**：
-- `sessions_send(sessionKey: "agent:qa:feishu:direct:用户ID", message: "任务内容", timeoutSeconds: 600)`
-- **能收到回复**（已验证2026-04-11）
-- sessionKey格式：`agent:{agent名}:feishu:direct:{ou_xxx}`
-
-**通过 `sessions_spawn` + `agentId` 调度固化agent（已开通权限）。**
-- `sessions_spawn(agentId: "qa", task: "...", mode: "run")` ✅
-- `sessions_send(sessionKey: "agent:qa:feishu:direct:用户ID", message: "...")` ✅（也能通）
-- 两种方式都可以，spawn更适合任务型工作，send更适合对话型
-
-`sessions_spawn` + `agentId` 需要在 `openclaw.json` 中配置 `subagents.allowAgents` 列表（已配置2026-04-11）。
-
-**优先用固化agent的spawn，不行才用临时spawn。**
-
-### 当前可用固化Agent
-- `pm` — PM写PRD
-- `architect` — 架构设计
-- `frontend` — 前端开发
-- `backend` — 后端开发
-- `qa` — QA测试
-- `ux-tester` — UX评测
-- `ui-designer` — UI设计
-- `dev3` — 备用开发
-
-### 当前可用固化挑刺官
-- `pm-reviewer` / `architect-reviewer` / `frontend-reviewer` / `backend-reviewer`
-- `qa-reviewer` / `ux-tester-reviewer` / `ui-designer-reviewer` / `startup-helper-reviewer`
 
 ---
 
-## 项目记忆
+## 2026-04-29 记录
+- 记忆蒸馏任务执行完成：健康检查发现2个警告（workspace未提交、agents未提交），MemPalace新增7个drawer和7个fact
+- 微店抢票失败教训总结，建立时间敏感任务提前准备规则
+- Cron任务修复：三个任务统一用cron-reporter agent，GLM-5.1模型，600s超时
+- TradingAgents在1060服务器部署完成，建立金融任务三大硬规则
+- 微店抢票任务准备：夏夜叹天津场半自动ADB方案确定
+- Playwright电脑端抢票方案失败，确认ADB手机端方案可行
+- Cron任务深度分析：发现feishu_doc工具未调用、模型配置错误等共同问题
 
-### 寻物App (Finder App) 项目记录
-
-#### 2026-04-10 - TODO: 增加降级大模型配置
-
-**需求背景**: 当前AI服务依赖智谱API和DeepSeek API，当这些API出现问题时（限流、服务不可用、费用超支等），需要降级到备用模型。
-
-**目标**:
-1. 主模型失败时自动降级到备用模型
-2. 支持多级降级策略（智谱 → DeepSeek → 本地模型 → 规则引擎）
-3. 成本控制 - 优先使用低成本模型
-4. 服务质量保证 - 降级时保持基本功能
-
-**实施步骤**:
-1. **配置层增强** - 更新application.yml，添加多级降级配置
-2. **服务层实现** - 创建AIProviderSelector智能提供者选择器
-3. **本地模型集成** - 集成Qwen2.5-VL等本地模型
-4. **规则引擎降级** - 实现基础分类规则引擎
-5. **监控和告警** - 添加成本监控和性能监控
-
-**预期效果**:
-- ✅ 可用性提升：主模型不可用时自动切换，服务不中断
-- ✅ 成本控制：防止API费用超支，自动降级到免费方案
-- ✅ 用户体验：无感知降级，快速响应，功能完整
-
-**详细方案**: 见 `/Users/sunwenyong/.openclaw/agents/startup-helper/workspace/todo-ai-fallback-config.md`
-
-**状态**: 🔄 待实施  
-**优先级**: P1 (高)  
-**预计工时**: 5-7天  
-**负责人**: 后端开发团队  
-**关联任务**: AI服务优化、成本控制、高可用性
-
-#### 2026-04-09 - 流式识别功能验证通过
-
-**问题**: 用户报告在"查物品ai识别中"界面一直转圈，无法完成
-
-**诊断结果**:
-1. **后端API Key未加载**: 之前的后端进程没有正确加载`.env`文件中的环境变量
-2. **智谱API返回401**: 导致流式识别失败
-3. **前端无限转圈**: 收到错误但可能未正确处理
-
-**解决方案**:
-1. **重新启动后端**并正确加载环境变量
-2. **验证API Key有效性** - 确认API Key是有效的
-3. **测试流式接口** - 确认功能正常
-
-**验证结果**:
-✅ 普通识别接口: 正常返回结果  
-✅ 流式SSE接口: 正常建立连接，按事件推送  
-✅ 前端代码: 正确处理SSE事件流  
-✅ 后端配置: API Key正确加载
-
-**结论**: 流式查询功能已上线且正常工作！
-
-#### 2026-04-07 - 全面代码审查 + P0/P1修复
-
-#### 2026-04-07 - 全面代码审查 + P0/P1修复
-
-**审查结果:** 90/100分 (P2修复后提升)
-
-**P2修复 (8个):**
-- ✅ ImageValidator增加文件头magic bytes验证
-- ✅ SearchFilter.vue 巻加watch同步props
-- ✅ pom.xml 注释清理
-- ✅ category.vue 分页逻辑简化
-- ✅ I18nService 改用Spring MessageSource + ✅ 创建messages_zh.properties/messages_en.properties
-- ✅ 增加基础单元测试 ItemServiceTest.java
-- ✅ 前端类型严格性（stores/user.ts, api/config.ts)
-
-**修改文件:** 27个文件 (后端12个 + 前端15个)
-
-**待处理 (需要更多时间):**
-- 採入实际AI的embedding生成
-- 更多单元测试覆盖
-
-**P0修复 (3个):**
-- ✅ 向量搜索恢复：引入hibernate-vector，Item.embedding改为float[]，V4迁移修复
-- ✅ 中文全文搜索：所有tsvector从'english'改为'simple'
-- ✅ Flyway迁移权限：V2去掉extensions schema迁移，改为容错处理
-
-**P1修复 (7个):**
-- ✅ 快速添加丢数据：DTO增加name/location/category覆盖字段
-- ✅ 前端工具函数去重：抽到utils/common.ts
-- ✅ Redis限流降级：checkAndRecord加try-catch
-- ✅ 401重定向锁超时：2秒自动释放
-- ✅ 生产环境禁Swagger：SecurityConfig区分环境
-- ✅ SQL日志级别：BasicBinder从TRACE改为WARN
-- ✅ SecurityConfig生产环境保护Swagger/Actuator
-
-**修改文件:** 20个 (9个Java后端 + 8个前端 + 3个SQL)
-
-**待处理 (P2):**
-- 缺少单元测试
-- embedding存了但未接入实际AI
-- TypeScript类型不够严格
-- category.vue分页是假分页
-
-详细报告: `memory/2026-04-07-code-review.md`
-
-#### 2026-04-05 - P0+P1 级问题全面修复 🎉
-
-**成就:**
-- ✅ P0 级严重问题: 7个 → 0个 (100%修复)
-- ✅ P1 级重要问题: 9个 → 0个 (100%修复)
-- ✅ 代码质量: 85/100 → 95/100 (+10分)
-- ✅ 项目完成度: 92% → 97% (+5%)
-
-**核心修复:**
-1. **搜索功能重新设计** ⭐⭐⭐⭐⭐
-   - 从简单关键词搜索升级为生产级高级搜索
-   - 支持: 语义搜索、高级筛选、分页、排序
-   - 新增: `ItemSpecifications.java` 搜索规格类
-   - 文档: `memory/2026-04-05-p1-fix-report.md`
-
-2. **并发安全问题** ⭐⭐⭐⭐⭐
-   - AI限流: 使用Redis Lua脚本实现原子操作
-   - 批量删除: 两阶段策略，确保数据一致性
-   - 文档: `memory/2026-04-05-fix-report.md`
-
-3. **安全性提升** ⭐⭐⭐⭐⭐
-   - 图片验证: MIME类型白名单 + 安全性检查
-   - 异常处理: 信息脱敏 + 环境区分
-   - Token管理: 避免循环调用 + 自动验证
-
-4. **用户体验优化** ⭐⭐⭐⭐⭐
-   - 统一错误处理: 友好提示 + 错误上报
-   - 图片压缩: 自动优化，节省83%带宽
-   - 登录管理: 智能Token验证
-
-**新增文件 (5个):**
-- 后端: `ItemSpecifications.java`
-- 前端: `errorHandler.ts`, `imageCompress.ts`
-- 文档: `2026-04-05-fix-report.md`, `2026-04-05-p1-fix-report.md`
-
-**状态:** 
-- ✅ 可以开始Beta测试
-- ✅ 代码质量达到生产标准
-- 🟢 P2 级问题持续改进中
-
-**项目位置:** `/Users/sunwenyong/projects/deer-flow/output/finder-app`
-
-#### 2026-04-10 - 代码分析TODO创建
-
-**任务:** 手动代码审查与分析
-**优先级:** 🔴 高 - 理解现有代码是后续开发的基础
-
-**背景:** 用户要求分析Finder App的现有代码，因为代码不是用户自己写的，需要理解代码结构和功能。
-
-**已创建文档:**
-1. `TODO-code-analysis.md` - 详细的代码分析任务清单
-2. 包含：架构理解、核心代码审查、问题识别、文档创建
-
-**分析重点:**
-1. **后端核心:** AIService、ItemService、SecurityConfig
-2. **前端核心:** add.vue、ai.ts、usePhotoRecognize.ts
-3. **已知问题:** API Key管理、错误处理、类型定义
-
-**计划执行时间:** 2026-04-10 早上
-
-#### 2026-04-04 - 代码审查和uni-app重写
-
-- ✅ P0核心问题修复完成
-- ✅ uni-app前端重写（70%完成）
-- ✅ 代码质量显著提升
-- 文档: `memory/2026-04-04.md`
-
-#### 2026-04-03 - 功能完善
-
-- ✅ 本地数据库集成
-- ✅ 相机功能集成
-- ✅ 项目完成度提升至92%
-- 文档: `FEATURE_COMPLETION_REPORT.md`
-
-#### 2026-04-02 - 项目创建
-
-- ✅ 项目初始化
-- ✅ 架构设计
-- ✅ 核心功能开发
-
----
-
-## 阿里云服务器（Finder App 部署用）
-
-- **创建日期:** 2026-04-13
-- **公网IP:** 8.147.115.189
-- **私网IP:** 192.168.1.30
-- **配置:** 2核 2G，3Mbps 带宽
-- **系统:** Alibaba Cloud Linux 3.2104 LTS 64位
-- **地域:** 华北2（北京）可用区 I
-- **付费:** 包年包月
-- **SSH:** root@8.147.115.189（密码见用户）
-- **实例ID:** i-2ze4e3ag2dlgc2mcnw88
-
-### 已安装服务
-- **Docker 26.1.3** + Docker Compose v2.27.0
-- **PostgreSQL 16 + pgvector 0.8.2**
-  - 端口: 5432
-  - 数据库: finder
-  - 用户: finder
-  - 密码: Finder2026secure!
-- **Redis 7 Alpine**
-  - 端口: 6379
-  - 密码: Finder2026redis!
-
-### OSS（待配置）
-- 已开通，等待 AccessKey 信息
-
----
-
-此文件会持续更新，记录重要对话和项目进展。
+## 2026-04-27 记录
+- 记忆蒸馏任务执行完成：健康检查发现2个警告（workspace未提交、agents未提交），MemPalace新增2个drawer和2个fact
+- 中美AI技术差距缩小至2.7%，DeepSeek-V3在算力效率方面取得重大进展

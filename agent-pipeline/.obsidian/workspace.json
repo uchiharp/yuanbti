@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "786799660d5cdf36",
+    "type": "split",
+    "children": [
+      {
+        "id": "c01b8fc1ff51dd4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4da8810c84dff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCRIPT-SKILL-FLOW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCRIPT-SKILL-FLOW"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26bfba42b133c59c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0157ffa4e785efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188aef49376e285c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "17bc23c21be16086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "107b63c60119569b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "044f72b1f4ae3d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b33a6e1fa550d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a02b53a4c9ea630",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SCRIPT-SKILL-FLOW.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "SCRIPT-SKILL-FLOW 的反向链接列表"
+            }
+          },
+          {
+            "id": "a7423bed708e62d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SCRIPT-SKILL-FLOW.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "SCRIPT-SKILL-FLOW 的出链列表"
+            }
+          },
+          {
+            "id": "ef1e1f628ce5ee6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "230b470a761c3e55",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2ae8085dd895b10b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SCRIPT-SKILL-FLOW.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SCRIPT-SKILL-FLOW 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8e4da8810c84dff2",
+  "lastOpenFiles": [
+    "PRD.md",
+    "SCRIPT-SKILL-FLOW.md",
+    "SKILL-v4-full.md",
+    "templates/standards/ui-designer.md",
+    "SKILL-v4.md",
+    "templates/standards/ux-tester.md",
+    "templates/standards/startup-helper.md",
+    "templates/standards/README.md",
+    "templates/standards/pm.md",
+    "templates/standards/architect.md",
+    "templates/souls/ux-tester-reviewer.md",
+    "templates/souls/ui-designer-reviewer.md",
+    "templates/souls/qa-reviewer.md",
+    "templates/souls/startup-helper-reviewer.md",
+    "templates/souls/README.md",
+    "templates/souls/pm-reviewer.md",
+    "templates/souls/architect-reviewer.md",
+    "references/security-scan-templates.md",
+    "references/iterative-contract.md",
+    "SKILL.md",
+    "ARCHITECTURE.md"
+  ]
+}
