@@ -24,7 +24,6 @@
    - pm → rules/pm.md
    - architect → rules/architect.md
    - backend/frontend/dev3 → rules/developer.md
-   - *-reviewer → rules/reviewer.md
    - 其他 → rules/default.md
 3. 将条款内容原样追加到任务消息末尾
 ```
@@ -38,8 +37,6 @@
 | backend/frontend/dev3 | rules/developer.md | 5 |
 | startup-helper | rules/startup-helper.md | 6 |
 | qa | rules/qa.md | 7 |
-| qa-reviewer | rules/qa-reviewer.md | 7 |
-| *-reviewer（通用） | rules/reviewer.md | 5 |
 | [其他所有] | rules/default.md | 4 |
 
 ## 约束
@@ -64,7 +61,5 @@ agent-discipline/
     ├── architect.md
     ├── developer.md
     ├── startup-helper.md
-    ├── qa.md
-    ├── qa-reviewer.md
-    └── reviewer.md
+    └── qa.md
 ```

@@ -1,0 +1,16 @@
+{
+  "name": "dev3-reviewer",
+  "displayName": "开发小三·评审官",
+  "description": "开发小三的对手Agent。专门审查开发小三的产出，评审、找问题、提改进。保留开发小三的原始能力，但核心职责是质疑和校正。",
+  "defaultModel": "zai/GLM-5.1",
+  "skills": [
+    "code-quality-guard",
+    "qa-workflow",
+    "code-review-checklist",
+    "iterative-contract",
+    "agent-discipline",
+    "humanize-code",
+    "task-review"
+  ],
+  "enabled": true
+}

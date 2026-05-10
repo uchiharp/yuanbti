@@ -15,7 +15,7 @@
 ## 使用场景
 
 - 流水线中协调者向开发 agent 派发任务
-- reviewer 审查后签收或打回
+- 交叉审查后签收或打回
 - 跨 agent 协作的质量把关
 
 ## 执行流程
@@ -205,7 +205,7 @@
       "status": "completed",
       "rounds": 3,
       "finalScore": 7.8,
-      "agents": ["backend", "backend-reviewer", "qa"],
+      "agents": ["backend", "frontend", "qa"],
       "contracts": ["c01.md", "c02.md", "c03.md"],
       "createdAt": "2026-04-11T14:00:00+08:00",
       "completedAt": "2026-04-11T14:25:00+08:00"

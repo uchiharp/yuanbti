@@ -1,600 +1,664 @@
-# Agent Pipeline 脚本补全 — 技术方案
+# Agent Pipeline v4 — 技术架构方案
 
-## 1. 设计原则
+基于 PRD.md 设计的可实现技术方案。本文档是实现的唯一依据。
 
-- **配置驱动**：脚本读 `pipeline-config.yaml` 驱动执行，不硬编码规则。改规则=改配置，不碰脚本代码
-- **统一入口**：`pipeline-check.sh` 作为每阶段的主入口，其他脚本由它按阶段调度
-- **幂等执行**：同一阶段重复运行结果一致，不产生副作用
-- **macOS bash 3.x 兼容**：不使用关联数组、`mapfile`、`readarray` 等 bash 4+ 特性
-- **最小外部依赖**：bash + grep + sed + awk + find + wc + python3（macOS自带，用于解析YAML）
-- **统一输出格式**：和现有 `pipeline-check.sh` / `security-scan.sh` 保持一致
+---
 
-## 2. 文件清理
+## 1. 系统总览
 
-### 删除（已过时/已迁移）
+```
+用户需求
+  │
+  ▼
+┌─────────────────────────────────────────────────────┐
+│  Claude Code Session（协调者 agent）                   │
+│  ┌───────────────────────────────────────────────┐  │
+│  │ orchestrator.ts (MCP Plugin)                  │  │
+│  │  ├─ pipeline_init    → 初始化项目状态           │  │
+│  │  ├─ pipeline_advance → 推进到下一阶段           │  │
+│  │  ├─ pipeline_gate    → 门禁检查                │  │
+│  │  ├─ pipeline_status  → 查看状态                │  │
+│  │  ├─ pipeline_rollback→ 回退                    │  │
+│  │  ├─ pipeline_dispatch→ 解析 agent session 路由  │  │
+│  │  └─ pipeline_sessions→ 管理 agent sessions      │  │
+│  └───────────────────────────────────────────────┘  │
+│  ┌───────────────────────────────────────────────┐  │
+│  │ prompt-builder.ts                             │  │
+│  │  ├─ 读取 SOUL.md / ROLE_TEMPLATES              │  │
+│  │  ├─ 注入 skill（SKILL.md 摘要）                 │  │
+│  │  ├─ 注入 agent-discipline 条款                  │  │
+│  │  └─ 注入上下文（CONTEXT.md + 上游产出）          │  │
+│  └───────────────────────────────────────────────┘  │
+└─────────────┬───────────────────────────────────────┘
+              │ 调度
+              ▼
+┌─────────────────────────────────────────────────────┐
+│  Claude Code CLI                                     │
+│  ┌──────────┐ ┌──────────┐ ┌──────────┐            │
+│  │ PM agent │ │ 架构 agent│ │ 开发 agent│ ...        │
+│  │ glm-5.1  │ │mimo-v2.5 │ │mimo-v2.5 │            │
+│  └──────────┘ └──────────┘ └──────────┘            │
+│  --session-id / --resume 实现持久化 session          │
+│  --model 实现模型路由                                │
+└─────────────┬───────────────────────────────────────┘
+              │ 产出
+              ▼
+┌─────────────────────────────────────────────────────┐
+│  项目目录 ({project_path}/)                           │
+│  ├─ .contracts/{project}/                            │
+│  │   ├─ _config.json   ← 全局状态机                  │
+│  │   ├─ _index.json     ← 合同索引                   │
+│  │   ├─ phase-*/        ← 各阶段产出                 │
+│  │   ├─ changes/        ← 变更/回退记录              │
+│  │   └─ communications/ ← 沟通记录                   │
+│  ├─ CONTEXT.md          ← 项目知识摘要（≤200行）      │
+│  ├─ health-dashboard.md ← 健康度看板                  │
+│  └─ src/                ← 项目源码                    │
+└─────────────────────────────────────────────────────┘
+```
 
-| 文件 | 原因 |
+---
+
+## 2. 核心架构决策
+
+### AD-1：配置驱动，不硬编码规则
+
+**决策：** 所有阶段定义、门禁规则、模型路由、规模裁剪均在 `pipeline-config.json` 中声明。
+
+**理由：** PRD 明确"改规则=改配置，不碰脚本代码"。配置文件是整个 pipeline 的 source of truth。
+
+**现状：** `pipeline-config.json` 已存在，包含 17 个阶段定义、模型路由、回退限额。需补充：交叉评审参与者配置、上下文复用规则。
+
+### AD-2：TypeScript Plugin + Shell 脚本分层
+
+**决策：**
+- **orchestrator.ts**（MCP Plugin）：状态机、session 路由、模型路由、门禁检查、prompt 构建
+- **Shell 脚本**：文件级检查（行数、格式、内容模式匹配）
+
+**理由：** TypeScript 处理需要 JSON 解析和状态管理的逻辑；Shell 处理简单的文件存在/行数/模式检查。两者通过 MCP tool 调用桥接。
+
+**现状：** orchestrator.ts 已实现 init/start/gate/advance/rollback/status/recover + dispatch/sessions。Shell 脚本目录尚未创建。
+
+### AD-3：Session 持久化已实现
+
+**决策：** 用 Claude Code 的 `--session-id`（新建）和 `--resume`（恢复）实现 agent session 持久化。
+
+**现状：** orchestrator.ts 的 `resolveDispatch` 方法已实现：首次创建 UUID → 后续 resume。`agent_sessions` 存储在 `PipelineState` 中。
+
+### AD-4：交叉评审替代独立评审官
+
+**决策：** 删除所有 `*-reviewer` 专用 agent，改由相关角色交叉评审。
+
+**影响：**
+- pipeline-config.json 中 `review.roles` 字段仍引用 reviewer ID → 需清理
+- 交叉评审的参与者由阶段定义中的 `cross_review_roles` 字段指定
+- 各 agent 均可使用 `code-review-checklist`、`code-review-standard`、`iterative-contract` 通用 skill
+
+**现状：** 5 个 SKILL.md 已清理 reviewer 引用。pipeline-config.json 的 phases 中仍残留 reviewer 引用。
+
+### AD-5：模型异构性
+
+**决策：** 交叉评审参与者必须使用不同模型，避免共享盲点。
+
+**路由表：**
+| 角色 | 模型 |
 |------|------|
-| `SPLIT-PLAN.md` | 拆分计划已执行完毕 |
-| `SKILL-v4.md` | v4 完整版备份，骨架化后不再需要 |
-| `SKILL-v4-full.md` | 同上 |
-| `templates/standards/*` | README 已声明"已迁移为独立 skill，保留为历史副本" |
-| `templates/souls/*` | 同上 |
-| `references/unified-code-review-standards.md` | 已被 `code-review-checklist` skill 完整覆盖 |
+| architect, backend, frontend, dev3 | mimo-v2.5 |
+| pm, qa, ux-tester, ui-designer, startup-helper | glm-5.1 |
 
-### 保留
+**现状：** `model_routing` 已在 pipeline-config.json 和 orchestrator.ts 中实现。
 
-| 文件 | 原因 |
-|------|------|
-| `SKILL.md` | 当前在用的主文件 |
-| `references/iterative-contract.md` | 合同协议规范，脚本实现的依据 |
-| `references/security-scan-templates.md` | Playwright 动态扫描模板，和 sh 脚本互补 |
-| `scripts/pipeline-check.sh` | 在用，需增强 |
-| `scripts/security-scan.sh` | 在用，不变 |
+---
 
-### 新增
+## 3. 数据模型
 
-| 文件 | 用途 |
-|------|------|
-| `PRD.md` | 本 PRD |
-| `scripts/review-check.sh` | 评审/签收质量检查 |
-| `scripts/contract-check.sh` | 合同轮次+回退次数检查 |
-| `scripts/test-report-check.sh` | 测试报告格式检查 |
-| `scripts/acceptance-check.sh` | 阶段9验收检查 |
-| `scripts/lib.sh` | 共享函数库（输出格式、通用检查、CONTEXT.md 更新） |
+### 3.1 PipelineState（运行时状态）
 
-## 3. 共享函数库 lib.sh
+```typescript
+// 存储位置：.contracts/{project}/_config.json
+// 分两层：TypeScript 运行时字段（orchestrator.ts 直接操作）+ 持久化扩展字段（_config.json 独有）
+interface PipelineState {
+  // ---- TypeScript 运行时字段 ----
+  version: string;
+  project_name: string;
+  project_path: string;
+  scale: Scale;                    // "large" | "medium" | "small"
+  initialized_at: string;
+  current_phase: string | null;    // "0", "1", "1.5", "2", ...
+  phases: Record<string, PhaseState>;
+  rollback_log: RollbackEntry[];
+  gate_history: GateHistoryEntry[];
+  active_sequence: string[];       // 当前规模下的活跃阶段序列
+  skipped_phases: string[];        // 当前规模跳过的阶段
+  rollback_count: RollbackCount;
+  agent_sessions: Record<string, AgentSessionEntry>;
 
-所有脚本 source 同一个 lib.sh，避免重复代码。
-
-```bash
-#!/bin/bash
-# lib.sh — 脚本共享函数库
-# 用法：source "$(dirname "$0")/lib.sh"
-
-# 计数器
-LIB_ERRORS=0
-LIB_WARNINGS=0
-
-# 统一输出
-lib_error()   { echo "  ❌ $1"; LIB_ERRORS=$((LIB_ERRORS + 1)); }
-lib_warning() { echo "  🟡 $1"; LIB_WARNINGS=$((LIB_WARNINGS + 1)); }
-lib_ok()      { echo "  ✅ $1"; }
-
-# 检查文件存在且非空，返回行数
-lib_check_file() {
-  local FILE="$1" MIN_LINES="$2" LABEL="$3"
-  if [ ! -f "$FILE" ]; then
-    lib_error "$LABEL: 文件不存在 ($FILE)"
-    return 1
-  fi
-  if [ ! -s "$FILE" ]; then
-    lib_error "$LABEL: 文件为空 ($FILE)"
-    return 1
-  fi
-  local LINES=$(wc -l < "$FILE" | tr -d ' ')
-  if [ "$LINES" -lt "$MIN_LINES" ]; then
-    local DIFF=$((MIN_LINES - LINES))
-    local PCT=$((DIFF * 100 / MIN_LINES))
-    if [ "$PCT" -gt 20 ]; then
-      lib_error "$LABEL: ${LINES}行，不足${MIN_LINES}行（差${PCT}%）"
-    else
-      lib_warning "$LABEL: ${LINES}行，略不足${MIN_LINES}行（差${PCT}%）"
-    fi
-  else
-    lib_ok "$LABEL: ${LINES}行（≥${MIN_LINES}）"
-  fi
-  return 0
+  // ---- 持久化扩展字段（_config.json 独有，orchestrator 读写） ----
+  paused_at?: string;              // 暂停时间（用户打断/升级等待）
+  rollback_in_progress?: boolean;  // 回退执行中标记（防并发回退）
+  active_agents?: string[];        // 当前活跃的 agent ID 列表
+  escalations?: EscalationEntry[]; // 升级记录
+  first_escalation_at?: string;    // 首次升级时间（用于超时判定）
+  prd_version?: number;            // PRD 版本号（变更时递增）
+  config_checksum?: string;        // _config.json 内容 SHA256（防篡改）
 }
 
-# 检查文件中是否包含指定模式，返回匹配数
-lib_count_pattern() {
-  local FILE="$1" PATTERN="$2"
-  grep -cE "$PATTERN" "$FILE" 2>/dev/null || echo 0
-}
-
-# 汇总输出
-lib_summary() {
-  echo ""
-  echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-  echo "📊 检查结果"
-  echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-  echo "  ❌ 错误: $LIB_ERRORS"
-  echo "  🟡 警告: $LIB_WARNINGS"
-  if [ "$LIB_ERRORS" -gt 0 ]; then
-    echo ""
-    echo "  🔴 检查不通过！流程必须暂停。"
-    return 1
-  elif [ "$LIB_WARNINGS" -gt 0 ]; then
-    echo ""
-    echo "  🟡 有 $LIB_WARNINGS 个警告，建议修复但可继续。"
-    return 0
-  else
-    echo ""
-    echo "  ✅ 全部通过！"
-    return 0
-  fi
+interface EscalationEntry {
+  from_agent: string;
+  to: "user" | "coordinator";
+  reason: string;
+  phase: string;
+  timestamp: string;
+  resolved: boolean;
 }
 ```
 
-## 4. review-check.sh
+### 3.2 合同索引（.contracts/{project}/_index.json）
+
+```json
+{
+  "schema_version": "2.0",
+  "lastUpdated": "2026-05-10T14:30:00+08:00",
+  "checksum": "sha256:...",
+  "contracts": [
+    {
+      "id": "phase-1-prd",
+      "task": "PRD 编写",
+      "status": "signed",          // in-progress | revision-requested | signed | escalated | closed | reopened | paused
+      "risk": "medium",            // low | medium | high
+      "rounds": 2,
+      "finalScore": 7.8,
+      "agents": ["pm", "architect", "qa"],
+      "contracts": ["c01.md", "c02.md"],
+      "transitions": [
+        { "from": "in-progress", "to": "revision-requested", "at": "2026-05-10T14:10:00+08:00", "by": "architect" },
+        { "from": "revision-requested", "to": "in-progress", "at": "2026-05-10T14:15:00+08:00", "by": "pm" },
+        { "from": "in-progress", "to": "signed", "at": "2026-05-10T14:25:00+08:00", "by": "architect" }
+      ],
+      "createdAt": "...",
+      "completedAt": "..."
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "completed": 1,
+    "inProgress": 0,
+    "averageRounds": 2,
+    "averageScore": 7.8
+  }
+}
+```
+
+**状态流转矩阵（7 种状态）：**
+
+| 当前状态 | 可转到 | 触发条件 |
+|---------|--------|---------|
+| in-progress | revision-requested | 评审者打回 |
+| in-progress | signed | 评审者签收 |
+| in-progress | escalated | 超时/轮次超限 |
+| in-progress | paused | 用户打断 |
+| revision-requested | in-progress | 修订后重提 |
+| signed | reopened | 回退触发 |
+| escalated | closed | 用户决策完成 |
+| paused | in-progress | 用户恢复 |
+| reopened | in-progress | 重新执行 |
+
+### 3.3 阶段定义（pipeline-config.json phases[]）
+
+```jsonc
+{
+  "id": "1.5",
+  "name": "PRD交叉评审",
+  "mandatory": true,
+  "scales": ["large", "medium", "small"],
+  "artifacts": [
+    { "name": "cross-review-pm.md", "min_lines": 50, "required": true }
+  ],
+  "review": {
+    "min_roles": { "large": 4, "medium": 3, "small": 2 },
+    "min_count": { "large": 4, "medium": 3, "small": 2 }
+  },
+  // 新增字段（需补充到配置 schema）
+  "cross_review_roles": ["architect", "qa", "backend", "ux-tester"],
+  "executor": { "type": "acp", "role": "pm" },
+  "timeout_minutes": 60,
+  "skill": "prd-review"
+}
+```
+
+---
+
+## 4. 组件设计
+
+### 4.1 orchestrator.ts — 状态机 + 调度核心
+
+**已有功能：**
+- `handleInit` — 初始化项目状态
+- `handleStart` — 标记阶段开始
+- `handleGate` — 门禁检查（文件存在/行数/审查数）
+- `handleAdvance` — 推进到下一阶段（含 session 路由 + 模型解析）
+- `handleRollback` — 回退（记录日志、标记 stale）
+- `handleStatus` — 查看当前状态
+- `handleRecover` — 从异常恢复
+- `resolveDispatch` — 解析 agent session 路由（--session-id / --resume）
+- `listSessions` — 列出所有 agent sessions
+- `resetSession` — 重置某个 agent 的 session
+
+**需新增/增强：**
+
+| 功能 | 说明 | 优先级 |
+|------|------|--------|
+| 交叉评审调度 | 并发派发评审任务给多个角色，收集评审结果 | P0 |
+| 上下文注入 | prompt-builder 注入 CONTEXT.md + 上游产出 + 评审上下文 | P0 |
+| 合同状态机 | 管理 in-progress → signed/revision-requested/escalated 流转 | P1 |
+| 知识库更新 | 阶段完成后触发 CONTEXT.md 段落更新 | P1 |
+| Brainstorm 检查 | 验证 brainstorm-log.md 存在且包含 ≥3 个问答对 | P1 |
+
+### 4.2 Shell 脚本层
 
 ```
-输入：项目目录、阶段号
-输出：exit 0=通过 / exit 1=不通过
+{project_path}/scripts/        ← 项目级脚本（从 agent-pipeline/scripts/ 复制）
+├── lib.sh                     ← 共享函数库
+├── pipeline-check.sh          ← 主入口（配置驱动，从 pipeline-config.json 读取阶段规则）
+├── review-check.sh            ← 评审质量检查
+├── contract-check.sh          ← 合同轮次+回退次数+stale 文件检查
+├── test-report-check.sh       ← 测试报告格式检查
+├── acceptance-check.sh        ← 阶段9验收检查
+└── security-scan.sh           ← 安全扫描（已有）
 ```
 
-### 检查逻辑
+**lib.sh 核心函数：**
+- `lib_error / lib_warning / lib_ok` — 统一输出
+- `lib_check_file` — 文件存在+行数检查
+- `lib_count_pattern` — 模式匹配计数
+- `lib_summary` — 汇总输出
+- `lib_update_context` — 更新 CONTEXT.md 中指定阶段段落
+- `get_phase_config` — 从 pipeline-config.json 读取阶段配置（python3 解析 JSON）
+- `check_sanitize` — 扫描产出物中的 `javascript:` 链接、`<script>` 标签、路径遍历
 
+**pipeline-check.sh 配置驱动调度（非硬编码）：**
 ```bash
-#!/bin/bash
-set -eo pipefail
-source "$(dirname "$0")/lib.sh"
-
-PROJECT_DIR="$1"
-PHASE="$2"
-
-# 阶段号 → 对应评审报告文件名
-# 1 → PRD.md 由 PM 评审官审查
-# 1.5 → cross-review-pm.md
-# 2 → ARCHITECTURE.md 由架构师评审官审查
-# 2.5 → cross-review-arch.md
-# ...
-
-# 核心检查：
-# 1. 评审报告存在
-# 2. 包含 ≥3 个检查点（匹配 🔴/🟡/🟢 或编号列表）
-# 3. 包含 ≥1 个建议（🟢 或"建议"关键词）
-# 4. 包含评分（X/10 或 "评分:" 模式）
-# 5. 交叉评审文件：每个角色有独立段落（## 或 ### 分隔）
-#    每个段落包含 ≥3 个检查点
-```
-
-### 评审报告路径映射
-
-| 阶段 | 评审报告路径 | 说明 |
-|------|------------|------|
-| 1 | `phase-1-prd/review-report.md` 或 PRD.md 内嵌评审段落 | PM评审官 |
-| 1.5 | `phase-1.5-prd-cross-review/cross-review-pm.md` | 交叉评审 |
-| 2 | `phase-2-architecture/review-report.md` | 架构评审官 |
-| 2.5 | `phase-2.5-arch-cross-review/cross-review-arch.md` | 交叉评审 |
-| 4 | `phase-4-ui/review-report.md` | UI评审官 |
-| 5 | `phase-5-decomposition/review-report.md` | 创业助手评审官 |
-| 6.5 | `phase-6-dev/cross-review-dev.md` | 开发审查 |
-| 7 | `phase-7-review/review-report.md` | QA+架构评审官 |
-| 8 | `phase-8-test/review-report.md` | QA评审官 |
-
-### 检查点计数规则
-
-匹配以下模式计为一个检查点：
-- `🔴` / `🟡` / `🟢` 开头的行
-- `✅` / `❌` 开头的行
-- 编号列表 `1.` `2.` `3.` 且内容≥10字符
-- `- ` 开头且内容≥10字符的列表项
-
-## 5. contract-check.sh
-
-```
-输入：项目目录
-输出：exit 0=通过 / exit 1=不通过
-```
-
-### 检查逻辑
-
-```bash
-#!/bin/bash
-set -eo pipefail
-source "$(dirname "$0")/lib.sh"
-
-PROJECT_DIR="$1"
-CONTRACTS_DIR="$PROJECT_DIR/.contracts"
-
-# 1. 检查 _index.json 存在
-# 2. 读取 _index.json 中的 contracts 数组
-#    - 检查每个 status=in-progress 的合同：轮次是否超限
-#      - 🟢低风险 > 1轮 → error
-#      - 🟡中风险 > 2轮 → error
-#      - 🔴高风险 > 3轮 → error
-#    - 超限但 status != escalated → error（应标记未标记）
-# 3. 检查每个合同文件是否存在
-# 4. 检查合同文件包含必要字段：
-#    - 交付物路径 / 评审官 / 签收或打回结果
-# 5. 扫描 changes/ 目录统计回退：
-#    - 总回退次数 > 5 → error
-#    - 同阶段连续回退 > 2 → error
-```
-
-### JSON 解析
-
-macOS 无 `jq`，使用 python3（macOS 自带）：
-
-```bash
-parse_index_json() {
+# 从 pipeline-config.json 读取当前阶段的 artifacts 和 gate_rules
+# macOS 无 jq，用 python3 解析
+get_phase_config() {
   python3 -c "
 import json, sys
-with open('$CONTRACTS_DIR/_index.json') as f:
-    data = json.load(f)
-for c in data.get('contracts', []):
-    print(f\"{c.get('id','?')}|{c.get('status','?')}|{c.get('rounds',0)}|{c.get('risk','unknown')}\")
-" 2>/dev/null
+with open('$CONFIG_FILE') as f:
+    cfg = json.load(f)
+for p in cfg['phases']:
+    if p['id'] == '$PHASE':
+        for a in p.get('artifacts', []):
+            print(f\"artifact|{a['name']}|{a['min_lines']}|{a['required']}\")
+        for r in p.get('gate_rules', []):
+            print(f\"rule|{r}\")
+        break
+"
 }
-```
 
-## 6. test-report-check.sh
-
-```
-输入：项目目录
-输出：exit 0=通过 / exit 1=不通过
-```
-
-### 检查逻辑
-
-```bash
-#!/bin/bash
-set -eo pipefail
-source "$(dirname "$0")/lib.sh"
-
-PROJECT_DIR="$1"
-
-# 定位 test-report.md（可能在 phase-8-test/ 或项目根）
-TEST_REPORT=$(find "$PROJECT_DIR" -name "test-report.md" -type f | head -1)
-
-# 1. 文件存在且行数 ≥ 50
-# 2. 截图数量 ≥ 3
-#    - 查找 qa-reports/*.png, 8/screenshots/*.png, screenshots/*.png
-# 3. 逐项结果 ≥ 3
-#    - 匹配 ^[✅🔴🟡] 或 "✅" / "🔴" 开头的行
-# 4. 包含通过率（"通过率" 或 "X/Y" 模式）
-# 5. 包含问题清单（"P0" / "🔴 P0" 模式）
-# 6. 包含前置条件/执行步骤/预期结果/实际结果格式
-#    - 匹配 "前置条件" / "执行步骤" / "预期结果" / "实际结果" 关键词
-```
-
-## 7. acceptance-check.sh
-
-```
-输入：项目目录
-输出：exit 0=通过 / exit 1=不通过
-```
-
-### 检查逻辑
-
-```bash
-#!/bin/bash
-set -eo pipefail
-source "$(dirname "$0")/lib.sh"
-
-PROJECT_DIR="$1"
-
-# 定位 ACCEPTANCE-REPORT.md
-ACCEPTANCE=$(find "$PROJECT_DIR" -name "ACCEPTANCE-REPORT.md" -type f | head -1)
-
-# 1. 文件存在
-# 2. 包含7项验收 checklist（匹配 "- [ ]" 或 "- [x]" 模式 ≥ 7个）
-# 3. 所有 checklist 项标记为 ✅ 或 [x]
-# 4. 自动验证可脚本化的项：
-#    a. 调用 contract-check.sh 确认无 escalated 合同
-#    b. 调用 security-scan.sh 确认 0 严重问题
-#    c. 读取 test-report.md 确认无 P0 遗留
-```
-
-## 8. 项目知识库：CONTEXT.md + MemPalace
-
-### 8.1 CONTEXT.md 文件格式
-
-```markdown
-# {项目名} 项目上下文
-
-## 阶段0：项目概览 | 更新于 YYYY-MM-DD
-- 项目规模：🟡中型
-- 参与角色：PM、架构师、开发×2、QA
-- 关键约束：必须在微信小程序内运行
-
-## 阶段1：需求 | 更新于 YYYY-MM-DD
-- 目标用户：中小企业HR
-- P0功能：简历解析、职位发布、候选人匹配
-- 砍掉的功能：薪资测算（P1）、背调集成（P2）
-- 验收标准：简历解析准确率≥95%
-
-## 阶段2：架构 | 更新于 YYYY-MM-DD
-- 技术栈：Vue3 + Spring Boot + PostgreSQL
-- 核心决策：单体架构（中型项目，暂不分微服务）
-- API约定：RESTful + JWT认证
-
-...后续阶段...
-
-## 回退/变更记录
-| 时间 | 回退/变更 | 原因 | 影响的段落 | 已更新 |
-|------|----------|------|-----------|-------|
-```
-
-**段落覆盖规则：**
-- 每个阶段的段落用 `## 阶段N：{标题}` 唯一定位
-- 执行者交付时，用 sed 替换该段落内容（从 `## 阶段N` 到下一个 `##` 之间）
-- 新项目首次创建时，由协调者在阶段0写入骨架（所有阶段段落预留标题行）
-
-### 8.2 段落更新脚本实现
-
-```bash
-# lib.sh 新增函数
-
-# 更新 CONTEXT.md 中指定阶段的段落
-# 用法：lib_update_context <项目目录> <阶段号> <阶段标题> <内容文件>
-lib_update_context() {
-  local PROJECT_DIR="$1" PHASE="$2" TITLE="$3" CONTENT_FILE="$4"
-  local CTX="$PROJECT_DIR/CONTEXT.md"
-
-  # 如果文件不存在，创建骨架
-  if [ ! -f "$CTX" ]; then
-    cat > "$CTX" << 'SKEL'
-# 项目上下文
-
-## 阶段0：项目概览 | 更新于
-
-## 阶段1：需求 | 更新于
-
-## 阶段2：架构 | 更新于
-
-## 阶段2.8：技术Spike | 更新于
-
-## 阶段3：UX设计 | 更新于
-
-## 阶段4：UI设计 | 更新于
-
-## 阶段5：任务分解 | 更新于
-
-## 阶段6：开发 | 更新于
-
-## 阶段8：测试 | 更新于
-
-## 回退/变更记录
-| 时间 | 回退/变更 | 原因 | 影响的段落 | 已更新 |
-|------|----------|------|-----------|-------|
-SKEL
-  fi
-
-  # 用 sed 替换指定阶段段落
-  # 匹配 "## 阶段N" 到下一个 "##" 之间的内容
-  local DATE=$(date '+%Y-%m-%d')
-  local HEADER="## 阶段${PHASE}：${TITLE} | 更新于 ${DATE}"
-
-  # macOS sed: 用换行符分割替换内容
-  local NEW_CONTENT="${HEADER}"$'\n'"$(cat "$CONTENT_FILE")"
-
-  # 使用 awk 替换（比 sed 更可靠处理多段落）
-  awk -v phase="阶段${PHASE}" -v content="$NEW_CONTENT" '
-    /^## 阶段[0-9]/ && $0 ~ phase { found=1; print content; next }
-    /^## / && found { found=0 }
-    !found { print }
-  ' "$CTX" > "$CTX.tmp" && mv "$CTX.tmp" "$CTX"
-}
-```
-
-### 8.3 pipeline-check.sh 知识库检查
-
-```bash
-check_knowledge() {
-  echo ""
-  echo "📚 检查项目知识库"
-
-  local CTX="$PROJECT_DIR/CONTEXT.md"
-
-  # 强制检查1：CONTEXT.md 存在
-  if [ ! -f "$CTX" ]; then
-    lib_error "CONTEXT.md 不存在（协调者应在阶段0创建）"
-    return
-  fi
-  lib_ok "CONTEXT.md 存在"
-
-  # 强制检查2：包含当前阶段段落
-  if ! grep -q "## 阶段${PHASE}" "$CTX"; then
-    lib_error "CONTEXT.md 未包含阶段${PHASE}段落"
-  else
-    lib_ok "CONTEXT.md 包含阶段${PHASE}段落"
-  fi
-
-  # 强制检查3：总行数 ≤200
-  local LINES=$(wc -l < "$CTX" | tr -d ' ')
-  if [ "$LINES" -gt 200 ]; then
-    lib_error "CONTEXT.md ${LINES}行，超过200行限制"
-  else
-    lib_ok "CONTEXT.md ${LINES}行（≤200）"
-  fi
-
-  # 回退一致性检查：changes/ 目录有新记录时，对应段落必须已更新
-  local CHANGES_DIR="$PROJECT_DIR/changes"
-  if [ -d "$CHANGES_DIR" ]; then
-    local CHANGES_DIR="$PROJECT_DIR/changes"
-    local LATEST_CHANGE=$(find "$CHANGES_DIR" -name "*.md" -type f -newer "$CTX" 2>/dev/null | head -1)
-    if [ -n "$LATEST_CHANGE" ]; then
-      # 有比 CONTEXT.md 更新的 change 记录，检查是否已更新对应段落
-      local AFFECTED_PHASE=$(grep -oE '阶段[0-9.]+', "$LATEST_CHANGE" 2>/dev/null | head -1 | tr -d ',')
-      if [ -n "$AFFECTED_PHASE" ]; then
-        # 检查该段落更新时间是否晚于 change 记录
-        local PHASE_HEADER=$(grep -n "## ${AFFECTED_PHASE}" "$CTX" | head -1 | cut -d: -f1)
-        if [ -n "$PHASE_HEADER" ]; then
-          # 简化检查：段落中的日期是否晚于 change 记录日期
-          local PHASE_DATE=$(sed -n "${PHASE_HEADER}p" "$CTX" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1)
-          local CHANGE_DATE=$(grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' "$LATEST_CHANGE" | head -1)
-          if [ "$PHASE_DATE" '<' "$CHANGE_DATE" ] 2>/dev/null; then
-            lib_error "回退后知识库未更新：${AFFECTED_PHASE}段落日期(${PHASE_DATE})早于回退记录(${CHANGE_DATE})"
-          fi
-        fi
-      fi
-    fi
-  fi
-
-  # 可选检查：MemPalace（依赖 MCP，失败只 warning）
-  # 此项检查由协调者通过 MCP 工具在 agent 层面执行
-  # 脚本层面无法直接调用 MCP，因此只在健康度看板中标记
-  lib_warning "MemPalace 知识库存入需协调者通过 MCP 验证（脚本无法自动检查）"
-}
-```
-
-### 8.4 MemPalace 版本机制
-
-存入时带 YAML 元数据：
-
-```markdown
----
-version: 2
-updated_at: 2026-05-10
-replaces: version-1
-trigger: 阶段6回退→阶段2，JWT改OAuth
----
-
-# 架构决策（v2）
-
-认证方案：OAuth2.0 + PKCE
-...
-```
-
-检索时协调者过滤最新版本：
-```
-mempalace_search(wing="finder-app", room="arch-decisions")
-→ 返回所有版本，协调者取 version 最大且 replaces 链完整的记录
-```
-
-**废弃规则：**
-
-| 事件 | 触发者 | 知识库操作 |
-|------|--------|-----------|
-| 回退到阶段N | 协调者 | CONTEXT.md 更新阶段N段落 + MemPalace 存入新版本 |
-| 需求变更 | 变更发起者 | CONTEXT.md 更新受影响段落 + MemPalace 存入新版本 |
-| 迭代修复 | 修复者 | CONTEXT.md 更新阶段6段落 + MemPalace 更新 dev-notes room |
-
-### 8.5 各阶段知识库存入规则
-
-| 阶段 | CONTEXT.md 段落（≤30行） | MemPalace room | 存入者 |
-|------|--------------------------|----------------|--------|
-| 0 | 项目规模、角色、约束 | `project-overview` | 协调者 |
-| 1 | 目标用户、MVP功能、验收标准 | `prd-decisions` | PM |
-| 2 | 技术栈、架构决策、API约定 | `arch-decisions` | 架构师 |
-| 2.8 | Spike结论 | `spike-reports` | 架构师/开发 |
-| 3 | 用户流程要点、交互规范摘要 | 无（UX完整文档在文件里） | UX测试 |
-| 4 | 设计系统要点、组件规范摘要 | 无 | UI设计师 |
-| 5 | 任务批次、分工 | `task-breakdown` | 创业助手 |
-| 6 | 各开发者负责内容、代码入口 | `dev-notes` | 各开发 |
-| 8 | 覆盖率、已知问题 | `test-results` | QA |
-| 9 | 交付状态、遗留问题、教训 | `project-lessons` | 协调者 |
-
-**阶段3/4不存 MemPalace**：UX/UI 设计文档本身就在项目目录文件里，不需要重复存。CONTEXT.md 只写摘要要点。
-
----
-
-## 9. pipeline-check.sh 增强
-
-在现有脚本基础上新增：
-
-### 9.1 补全缺失阶段的行数检查
-
-```bash
-# 新增到 get_phase_file()
-3) echo "UX-DESIGN.md:80" ;;
-3.5) echo "cross-review-ux-to-ui.md:20" ;;
-4) echo "UI-DESIGN.md:80" ;;
-4.5) echo "cross-review-ui-to-ux.md:20" ;;
-5.5) echo "confirm-tasks.md:20" ;;
-6.5) echo "cross-review-dev.md:30" ;;
-7) echo "review-report.md:30" ;;
-```
-
-### 9.2 沟通记录内容检查
-
-```bash
-check_communications() {
-  # 现有：只检查目录是否存在
-  # 新增：检查 comm-*.md 文件内容
-  local COMM_DIR="$PROJECT_DIR/communications"
-  # 遍历 comm-*.md，检查是否包含：
-  # - "发送方" 或 "from:" 模式
-  # - "接收方" 或 "to:" 模式
-  # - 类型标记（签收/打回/评审/回退）
-}
-```
-
-### 9.3 健康度看板更新检查
-
-```bash
-check_health_dashboard() {
-  local HD="$PROJECT_DIR/health-dashboard.md"
-  if [ ! -f "$HD" ]; then
-    lib_error "health-dashboard.md 不存在"
-    return
-  fi
-  # 检查最后修改时间是否在最近 N 分钟内
-  # macOS: stat -f %m 获取修改时间戳
-  local MTIME=$(stat -f %m "$HD" 2>/dev/null || echo 0)
-  local NOW=$(date +%s)
-  local AGE=$(( NOW - MTIME ))
-  # 假设阶段间隔不超过 2 小时
-  if [ "$AGE" -gt 7200 ]; then
-    lib_warning "health-dashboard.md 超过2小时未更新"
-  fi
-}
-```
-
-### 9.4 按阶段调用子脚本
-
-```bash
-# 在主逻辑的 case 语句中新增
-6.5|7)
-  check_file "review-report.md" "$MIN_L"
-  "$(dirname "$0")/review-check.sh" "$PROJECT_DIR" "$PHASE"
-  ;;
-8)
-  check_file "test-report.md" "$MIN_L"
-  "$(dirname "$0")/test-report-check.sh" "$PROJECT_DIR"
-  ;;
-9)
-  check_file "ACCEPTANCE-REPORT.md" "$MIN_L"
-  "$(dirname "$0")/acceptance-check.sh" "$PROJECT_DIR"
-  ;;
-```
-
-### 9.5 每阶段调用知识库检查
-
-```bash
-# 在每个阶段的检查末尾，加入知识库检查
+# 主循环：遍历配置中的 artifacts 做文件检查
+while IFS='|' read -r TYPE ARG1 ARG2 ARG3; do
+  case "$TYPE" in
+    artifact) lib_check_file "$PROJECT_DIR/$ARG1" "$ARG2" "$ARG1" ;;
+    rule)     eval_gate_rule "$ARG1" ;;  # 解析 "file_exists:X" / "file_lines:X:N" / "review_count:N" 等
+  esac
+done < <(get_phase_config)
+
+# 按需调用子脚本（配置中无硬编码，由 gate_rules 触发）
 check_knowledge
-
-# 阶段0额外：检查 CONTEXT.md 骨架是否创建
-# 阶段9额外：检查 MemPalace project-lessons 是否存入
+check_sanitize
 ```
 
-## 10. 实现顺序
+### 4.3 prompt-builder.ts — 提示词构建
 
-| 步骤 | 内容 | 依赖 |
+**已有功能：**
+- 读取 SOUL.md（agent 身份定义）
+- 读取 SKILL.md（技能说明，截取前 N 节）
+- ROLE_TEMPLATES fallback（SOUL.md 不存在时）
+- agent-discipline 条款注入
+
+**需增强：**
+
+| 功能 | 说明 | 优先级 |
+|------|------|--------|
+| CONTEXT.md 注入 | 读取项目 CONTEXT.md，注入当前阶段相关段落 | P0 |
+| 上游产出摘要注入 | 注入当前阶段依赖的上游产出摘要 | P0 |
+| 评审上下文注入 | 交叉评审阶段注入被评审物 + 相关评审 skill | P0 |
+| 纪律条款注入 | 从 agent-discipline skill 读取对应角色条款 | P0 |
+| Anti-Rationalization 注入 | 注入反借口规则表（PRD 652-665 行） | P1 |
+| Brainstorm 检查 | brainstorm 阶段验证 brainstorm-log.md 存在且 ≥3 个 QA 对 | P1 |
+
+**CONTEXT.md 段落选择逻辑：**
+```
+输入：当前 phase_id（如 "6" 或 "6.3"）
+规则：
+  1. 子阶段合并到父阶段段落（"6.3" → 读 "## 阶段6" 段落）
+  2. 跨阶段引用（如阶段6需要阶段2的架构决策）→ 从 phase definition 的 dependencies 字段推导
+  3. 注入格式：截取匹配段落，超过 50 行时截取首尾各 25 行 + 中间 "...省略 N 行..."
+```
+
+**prompt 结构：**
+```
+[1. SOUL.md / ROLE_TEMPLATES]     ← 身份定义
+[2. SKILL.md 摘要]                 ← 技能说明（≤4K chars）
+[3. agent-discipline 条款]         ← 执行纪律
+[4. Anti-Rationalization 规则]     ← 反借口表（仅执行阶段注入）
+[5. CONTEXT.md 相关段落]            ← 项目上下文（按段落选择逻辑）
+[6. 上游产出摘要]                   ← 当前阶段的输入
+[7. 阶段任务说明]                   ← 从 phase definition 生成
+```
+
+### 4.4 合同状态机（7 种状态）
+
+```
+                    ┌──────────────┐
+         ┌─────────│  in-progress │─────────┐
+         │         └──────┬───────┘         │
+         │                │                 │
+         │    ┌───────────┼───────────┐     │
+         │    ▼           ▼           ▼     │
+         │ ┌────────┐ ┌──────────┐ ┌───────┤
+         │ │ signed │ │ revision-│ │escal- │
+         │ │ (签收) │ │ requested│ │ated   │
+         │ └────┬───┘ │ (打回)   │ │(升级) │
+         │      │     └─────┬────┘ └───┬───┘
+         │      │           │          │
+         │      │     修订后重提     用户决策
+         │      │           │          │
+         │      │           ▼          ▼
+         │      │     ┌──────────┐ ┌────────┐
+         │      │     │in-progress│ │ closed │
+         │      │     └──────────┘ └────────┘
+         │      │
+   回退触发│      │
+         │      ▼
+         │ ┌──────────┐      用户打断
+         │ │ reopened ├───────────→ ┌────────┐
+         │ └────┬─────┘            │ paused │
+         │      │                  └───┬────┘
+         └──────┤                      │
+                │                用户恢复│
+                ▼                      │
+          ┌──────────────┐             │
+          │  in-progress │←────────────┘
+          └──────────────┘
+```
+
+**完整状态流转矩阵：**
+
+| 当前状态 | 可转到 | 触发条件 |
+|---------|--------|---------|
+| in-progress | revision-requested | 评审者打回 |
+| in-progress | signed | 评审者签收 |
+| in-progress | escalated | 超时/轮次超限 |
+| in-progress | paused | 用户打断 |
+| revision-requested | in-progress | 修订后重提 |
+| signed | reopened | 回退触发 |
+| escalated | closed | 用户决策完成 |
+| paused | in-progress | 用户恢复 |
+| reopened | in-progress | 重新执行 |
+
+**轮次限制：**
+- 🟢低风险：最多 1 轮
+- 🟡中风险：最多 2 轮
+- 🔴高风险：最多 3 轮
+
+**非法转转拒绝：** 任何不在上表中的转转，contract-check.sh 报错并拒绝。
+
+### 4.5 Stale 文件生命周期管理
+
+**问题：** 回退后，下游阶段产出物可能已过时，但不能直接删除（可能需要恢复）。
+
+**生命周期：**
+```
+回退触发
+  │
+  ├─ 发现者写 changes/rollback-{id}.md（含根因、影响范围、目标阶段）
+  ├─ orchestrator 标记受影响阶段的产出为 stale（_index.json status=reopened）
+  │
+  ▼
+阶段重执行
+  │
+  ├─ 执行者开工前检查：读 _index.json，找 status=reopened 的产出
+  ├─ 将 stale 文件移到 _rollback-backup/phase-N-{timestamp}/
+  ├─ 创建空目录，开始重执行
+  │
+  ▼
+重执行成功 → 正常推进
+重执行失败 → 从 _rollback-backup/ 恢复最近备份 → 状态恢复为 rolled-back → 升级用户
+```
+
+**实现：** orchestrator.ts 的 `handleRollback` 方法扩展：
+1. 计算影响范围（直接下游 / 全量重走）
+2. 标记受影响阶段产出为 stale
+3. 创建 `_rollback-backup/phase-N-{timestamp}/` 目录
+4. 记录到 rollback_log
+
+### 4.6 变更管理（3 级）
+
+| 变更类型 | 前缀 | 计入额度 | 处理方式 |
+|---------|------|---------|---------|
+| 🟢 小调整 | `minor-` | 不计入 | 当前阶段内部消化 |
+| 🟡 功能调整 | `change-` | 单独计（≤3次） | PM 更新 PRD → 受影响角色修改 → 交叉评审 1 轮 |
+| 🔴 需求变更 | `rollback-` | 计入回退额度 | 回退阶段 1 重走流程 |
+
+**实现：** `changes/` 目录下按前缀区分文件。contract-check.sh 统计各类型额度。
+
+### 4.7 调度决策日志
+
+**必须记录的 5 个决策点：**
+
+| 决策点 | 决策者 | 记录位置 |
+|--------|--------|---------|
+| 规模判定（🟢/🟡/🔴） | 协调者 | changes/decision-log.md |
+| 回退目标选择 | 发现者 | changes/rollback-{id}.md |
+| 冒烟失败回退目标 | 创业助手 | changes/rollback-{id}.md |
+| 🟡部分成功处理 | 协调者 | changes/decision-log.md |
+| 并发冲突裁决 | 架构师 | changes/decision-log.md |
+
+**格式：** `[时间] [阶段] [决策者] [决策内容] [理由]`
+
+**实现：** contract-check.sh 验证每个决策点是否有对应日志条目。
+
+### 4.8 知识库：CONTEXT.md
+
+**格式：** 每阶段一个 `## 阶段N：{标题}` 段落，总行数 ≤200。
+
+**更新时机：** 每个阶段执行者交付时，更新自己的段落。
+
+**更新方式：** `lib_update_context` 函数用 awk 替换指定段落。
+
+**回退一致性：** 回退后，受影响阶段的 CONTEXT.md 段落必须同步更新。`check_knowledge` 函数检查时间戳一致性。
+
+---
+
+## 5. 上下文复用机制
+
+PRD 核心原则：**"评审即上下文建设，分配即上下文复用，派发只补变更"。**
+
+### 5.1 交叉评审 → 上下文建设
+
+阶段 1.5（PRD 交叉评审）中，架构师/QA/开发各自审阅 PRD 并产出评审意见。这些评审意见就是各角色对需求的理解。
+
+### 5.2 任务分配 → 上下文复用
+
+阶段 6 分配开发任务时：
+- 审查过 PRD 的开发 → 优先分配其审查过的模块
+- 审查过架构的 QA → 优先分配相关测试任务
+- 不需要重新注入完整 PRD/架构，只需注入"你审查过的 X 模块分配给你，补充变更：Y"
+
+### 5.3 实现方式
+
+在 `pipeline-config.json` 的阶段定义中增加 `context_reuse` 字段：
+
+```jsonc
+{
+  "id": "6",
+  "name": "开发执行",
+  "context_reuse": {
+    "from_phase": "1.5",           // 从哪个阶段复用上下文
+    "match_by": "reviewer_role",   // 按角色匹配
+    "inject": "review_summary"     // 注入评审摘要而非完整产出
+  }
+}
+```
+
+prompt-builder 读取此配置，在构建 prompt 时自动注入对应评审摘要。
+
+---
+
+## 6. 交叉评审调度流程
+
+以阶段 1.5（PRD 交叉评审）为例：
+
+```
+协调者                        多个评审 agent
+  │                              │
+  ├─ pipeline_advance(1.5)       │
+  │  → 解析 cross_review_roles   │
+  │  → 为每个角色 resolveDispatch │
+  │  → 生成 prompt（含 PRD 摘要） │
+  │                              │
+  ├──→ dispatch to architect ────┤
+  ├──→ dispatch to qa ───────────┤
+  ├──→ dispatch to backend ──────┤
+  ├──→ dispatch to ux-tester ────┤
+  │                              │
+  │   （并发评审，各自产出意见）    │
+  │                              │
+  │←── architect 评审意见 ────────┤
+  │←── qa 评审意见 ───────────────┤
+  │←── backend 评审意见 ──────────┤
+  │←── ux-tester 评审意见 ────────┤
+  │                              │
+  ├─ 汇总评审意见                 │
+  ├─ dispatch to pm（修订）       │
+  │←── pm 修订后 PRD             │
+  ├─ pipeline_gate(1.5)          │
+  │  → 检查 cross-review-pm.md   │
+  │  → 检查评审角色数 ≥ 阈值      │
+  │→ pass → advance to 2         │
+```
+
+**并发控制：** 同一阶段最多 3 个 agent 并发。超过 3 个评审角色时分批派发。
+
+---
+
+## 7. 实现计划（MVP 14 步）
+
+| # | 任务 | 依赖 | 产出 |
+|---|------|------|------|
+| M1 | 清理 pipeline-config.json 残留 reviewer 引用 | 无 | 配置文件更新 |
+| M2 | 新增 `cross_review_roles` / `context_reuse` 字段到 PhaseDefinition 类型 | M1 | types.ts, schema.ts |
+| M2b | 扩展 _index.json schema（transitions、7 种状态、checksum） | M1 | types.ts, state-manager.ts |
+| M3 | 实现交叉评审调度逻辑（handleAdvance 并发派发） | M2 | orchestrator.ts |
+| M4 | prompt-builder 增加 CONTEXT.md 注入（含段落选择逻辑） | 无 | prompt-builder.ts |
+| M5 | prompt-builder 增加上游产出摘要注入 | M4 | prompt-builder.ts |
+| M6 | prompt-builder 增加 agent-discipline 条款 + anti-rationalization 注入 | 无 | prompt-builder.ts |
+| M7 | 创建 scripts/lib.sh 共享函数库（含 get_phase_config、check_sanitize） | 无 | lib.sh |
+| M7b | 实现 stale 文件生命周期管理（_rollback-backup/ 目录结构） | M7 | orchestrator.ts |
+| M8 | 创建 scripts/pipeline-check.sh 主入口（配置驱动） | M7 | pipeline-check.sh |
+| M9 | 创建 scripts/review-check.sh 评审检查 | M7 | review-check.sh |
+| M10 | 创建 scripts/contract-check.sh 合同检查（含 transitions 校验） | M7+M2b | contract-check.sh |
+| M11 | 创建 scripts/test-report-check.sh 测试报告检查 | M7 | test-report-check.sh |
+| M12 | 创建 scripts/acceptance-check.sh 验收检查 | M7+M10 | acceptance-check.sh |
+| M13 | 合同状态机实现（7 种状态完整流转） | M2+M2b | orchestrator.ts |
+| M14 | 上下文复用机制（context_reuse 配置 + prompt-builder 读取） | M4+M5 | prompt-builder.ts |
+| M15 | Brainstorm 检查（brainstorm-log.md ≥3 QA 对） | M8 | gate-checker.ts |
+
+**执行顺序：**
+- 第一批（无依赖）：M1, M4, M6, M7
+- 第二批（依赖第一批）：M2, M2b, M5, M7b, M8-M12
+- 第三批（依赖第二批）：M3, M13, M14, M15
+
+---
+
+## 8. 关键接口
+
+### 8.1 orchestrator.sh 输出格式（协调者调用）
+
+```json
+{
+  "action": "dispatch",
+  "phase": "1.5",
+  "agents": [
+    {
+      "agent_id": "architect",
+      "mode": "new",
+      "model": "mimo-v2.5",
+      "claude_session_id": "uuid-1",
+      "cli_args": ["--session-id", "uuid-1", "-n", "pipeline:architect", "--model", "mimo-v2.5"]
+    },
+    {
+      "agent_id": "qa",
+      "mode": "resume",
+      "model": "glm-5.1",
+      "claude_session_id": "uuid-2",
+      "cli_args": ["--resume", "uuid-2", "--model", "glm-5.1"]
+    }
+  ],
+  "timeout_minutes": 60,
+  "collect_strategy": "wait_all"
+}
+```
+
+### 8.2 门禁检查结果
+
+```json
+{
+  "status": "pass",
+  "checks": [
+    { "type": "file_exists", "artifact": "PRD.md", "result": "pass", "detail": "文件存在" },
+    { "type": "file_lines", "artifact": "PRD.md", "result": "pass", "detail": "250行 ≥ 200行" },
+    { "type": "review_count", "result": "warn", "detail": "3/4 评审角色完成" }
+  ],
+  "warnings": ["评审角色数不足：期望4，实际3"],
+  "failures": []
+}
+```
+
+### 8.3 合同签收/打回
+
+```markdown
+📋 合同 #c01 | architect → pm | 🟡中风险
+━━━━━━━━━━━━━━━━━━━
+交付：PRD.md
+路径：.contracts/finder-app/phase-1-prd/PRD.md
+验证：≥200行，包含假设清单、功能清单、验收标准
+━━━━━━━━━━━━━━━━━━━
+状态：✅ 签收 | 评分: 7.5 | 🟡1项: 假设清单缺少降级方案
+```
+
+---
+
+## 9. 风险与缓解
+
+| 风险 | 影响 | 缓解 |
 |------|------|------|
-| 1 | 创建 `scripts/lib.sh` 共享函数库（含 CONTEXT.md 更新函数） | 无 |
-| 2 | 重构 `scripts/pipeline-check.sh`，source lib.sh + 补全行数检查 + 知识库检查 | 步骤1 |
-| 3 | 创建 `scripts/review-check.sh` | 步骤1 |
-| 4 | 创建 `scripts/contract-check.sh` | 步骤1 |
-| 5 | 创建 `scripts/test-report-check.sh` | 步骤1 |
-| 6 | 创建 `scripts/acceptance-check.sh` | 步骤1+4+security-scan.sh |
-| 7 | 在 pipeline-check.sh 中集成子脚本调用 + 知识库检查 | 步骤2-6 |
-| 8 | 删除过时文件 | 无 |
-| 9 | 更新 SKILL.md 引用 + 各阶段交付规则增加 CONTEXT.md 更新义务 | 步骤7 |
+| Claude Code session 过期 | agent 丢失上下文 | orchestrator 检测 session 无效时自动创建新 session |
+| 并发 agent 文件冲突 | 代码合并失败 | 阶段 5 任务分解强制文件级独立 |
+| 交叉评审超时 | 流水线阻塞 | 24h 时限 + 超时自动 escalation |
+| CONTEXT.md 超 200 行 | token 浪费 | check_knowledge 强制检查行数 |
+| 模型不可用 | 调度失败 | model_routing fallback 到默认模型 |
 
-## 11. 测试方案
+---
 
-每个脚本创建对应的测试目录结构：
+## 10. 与现有代码的映射
 
-```bash
-# tests/
-# ├── test-lib.sh              — lib.sh 单元测试（含 lib_update_context）
-# ├── test-review-check.sh     — 构造合法/非法评审报告
-# ├── test-contract-check.sh   — 构造合法/超限合同
-# ├── test-test-report.sh      — 构造合格/不合格测试报告
-# ├── test-acceptance.sh       — 构造通过/未通过验收
-# ├── test-knowledge.sh        — 构造合法/过时/缺失 CONTEXT.md
-# └── fixtures/                — 测试用例文件
-#     ├── valid-review.md
-#     ├── empty-review.md
-#     ├── valid-contract-index.json
-#     ├── valid-context.md     — 包含所有阶段段落的合法 CONTEXT.md
-#     ├── stale-context.md     — 回退后未更新的过时 CONTEXT.md
-#     └── ...
-```
-
-运行：`bash tests/test-all.sh`，全部 exit 0 即通过。
+| 本文档组件 | 现有代码 | 状态 |
+|-----------|---------|------|
+| orchestrator.ts 状态机 | src/orchestrator.ts | ✅ 已实现（init/start/gate/advance/rollback/status/recover） |
+| session 路由 | src/orchestrator.ts resolveDispatch | ✅ 已实现 |
+| 模型路由 | pipeline-config.json model_routing | ✅ 已实现 |
+| prompt-builder | src/prompt-builder.ts | 🟡 已有基础，需增强上下文注入 |
+| gate-checker | src/gate-checker.ts | ✅ 已实现 |
+| phase-resolver | src/phase-resolver.ts | ✅ 已实现 |
+| state-manager | src/state-manager.ts | ✅ 已实现 |
+| schema 校验 | src/schema.ts | ✅ 已实现（M2/M2b 需扩展） |
+| 错误处理 | src/errors.ts + src/fs-port.ts | ✅ 已实现 |
+| Shell 脚本层 | 不存在 | ❌ 待创建 |
+| 合同状态机（7 种状态） | 不存在 | ❌ 待实现 |
+| 交叉评审调度 | 不存在 | ❌ 待实现 |
+| 上下文复用 | 不存在 | ❌ 待实现 |
+| Stale 文件管理 | 不存在 | ❌ 待实现 |
+| 变更管理（3 级） | 不存在 | ❌ 待实现 |
+| 决策日志 | 不存在 | ❌ 待实现 |
