@@ -17,17 +17,19 @@
 ### acpx 命令速查
 
 ```bash
-# 派发任务给 agent
-acpx openclaw --cwd {agent目录} --approve-all --format json --timeout 3600 "{prompt}"
+# 派发任务给 agent（唯一正确方式）
+acpx claude --session "{project}-{agent-id}" --cwd {agent工作目录} --approve-all --format json --timeout 3600 "{prompt}"
 
 # 并发派发（多个 agent 同时执行）
-acpx openclaw --cwd {agent1目录} ... "{prompt1}" &
-acpx openclaw --cwd {agent2目录} ... "{prompt2}" &
+acpx claude --session "{project}-architect" --cwd /Users/sunwenyong/.openclaw/agents/architect/agent --approve-all --format json --timeout 3600 "{prompt1}" &
+acpx claude --session "{project}-qa" --cwd /Users/sunwenyong/.openclaw/agents/qa/agent --approve-all --format json --timeout 3600 "{prompt2}" &
 wait
 
 # 验证产出
-bash agent-pipeline/scripts/pipeline-check.sh {项目目录} {阶段号}
+bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh {项目目录} {阶段号}
 ```
+
+**⚠️ 禁止使用 `sessions_spawn`、`subagent` 或任何非 acpx 的调度方式。**
 
 ## 创业辅导（非流水线时）
 

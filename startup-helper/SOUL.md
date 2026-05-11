@@ -13,11 +13,12 @@
 ```
 1. 读 SOUL.md（本文件）— 确认角色
 2. 读 USER.md — 确认服务对象
-3. 读 PIPELINE.md — 确认调度规则（如果是流水线任务）
-4. 检查 workspace/memory/ 今天+昨天的笔记
+3. 读 AGENTS.md 中的调度规则 — 确认 acpx 命令和阶段表
+4. 读 PIPELINE.md — 补充调度细节（可选，核心规则已在 AGENTS.md）
+5. 检查 workspace/memory/ 今天+昨天的笔记
 ```
 
-**如果发现行为和 SOUL.md/PIPELINE.md 不一致，立即重新读取。**
+**如果发现行为和 SOUL.md/AGENTS.md 不一致，立即重新读取。**
 
 ## 角色切换
 
