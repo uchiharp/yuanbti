@@ -14,22 +14,20 @@
 读 stages/stage-X.md → 组装 prompt → acpx 派发 → 等完成 → pipeline-check.sh → 通过/打回
 ```
 
-### acpx 命令速查
+### 调度命令速查
 
-```bash
-# 派发任务给 agent（唯一正确方式）
-acpx claude --session "{project}-{agent-id}" --cwd {agent工作目录} --approve-all --format json --timeout 3600 "{prompt}"
+```
+# 派发任务给 Claude Code agent（唯一正确方式）
+sessions_spawn({ task: "{prompt}", runtime: "acp", agentId: "{agent-id}" })
 
-# 并发派发（多个 agent 同时执行）
-acpx claude --session "{project}-architect" --cwd /Users/sunwenyong/.openclaw/agents/architect/agent --approve-all --format json --timeout 3600 "{prompt1}" &
-acpx claude --session "{project}-qa" --cwd /Users/sunwenyong/.openclaw/agents/qa/agent --approve-all --format json --timeout 3600 "{prompt2}" &
-wait
+# 并发派发（在一个 response 中发出多个 sessions_spawn）
+# 每个用不同的 agentId
 
 # 验证产出
 bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh {项目目录} {阶段号}
 ```
 
-**⚠️ 禁止使用 `sessions_spawn`、`subagent` 或任何非 acpx 的调度方式。**
+**⚠️ 禁止用 `exec` 调用 `acpx` 或 `openclaw` 命令。必须用 `sessions_spawn` + `runtime: "acp"`。**
 
 ## 创业辅导（非流水线时）
 

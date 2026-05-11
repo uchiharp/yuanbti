@@ -22,46 +22,47 @@
 
 ## 调度方式（唯一正确方式）
 
-**必须使用 acpx 调度 Claude Code agent：**
+**必须使用 `sessions_spawn` + `runtime: "acp"` 调度 Claude Code agent：**
 
-```bash
-acpx claude --session "{project}-{agent-id}" --cwd {agent工作目录} --approve-all --format json --timeout 3600 "{任务prompt}"
+```
+sessions_spawn({
+  task: "你是{角色}，执行阶段{X}：{名称}。\n\n## 必读文件\n{文件列表}\n\n## 加载 Skill\n{skill列表}\n\n## 任务\n{从 stages/stage-X.md 复制}\n\n## 产出物\n{产出要求}\n\n## 约束\n{合同轮次等}",
+  runtime: "acp",
+  agentId: "{agent-id}"
+})
 ```
 
-**acpx 路径：** `/Users/sunwenyong/.npm-global/bin/acpx`
+**可用 agentId（必须来自 subagents.allowAgents）：**
+`pm`, `pm-reviewer`, `architect`, `architect-reviewer`, `backend`, `backend-reviewer`, `frontend`, `frontend-reviewer`, `qa`, `qa-reviewer`, `ux-tester`, `ui-designer`
 
 **并发调度（多个 agent 同时执行）：**
-```bash
-acpx claude --session "{project}-architect" --cwd /Users/sunwenyong/.openclaw/agents/architect/agent --approve-all --format json --timeout 3600 "{架构师任务}" &
-acpx claude --session "{project}-qa" --cwd /Users/sunwenyong/.openclaw/agents/qa/agent --approve-all --format json --timeout 3600 "{QA任务}" &
-wait
-```
+在一个 response 中发出多个 `sessions_spawn` 调用，每个用不同的 agentId。
 
-**调度后验证：**
+**调度后验证（等 agent 完成后）：**
 ```bash
 bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh {项目目录} {阶段号}
 ```
 
 ## 阶段 → Agent 调度表
 
-| 阶段 | 派给谁 | Agent 目录 |
-|------|--------|-----------|
+| 阶段 | 派给谁 | agentId |
+|------|--------|---------|
 | 0 | 自己做 | — |
-| 1 | PM | `agents/pm/agent` |
-| 1.5 | 架构师 + QA + 开发 | `agents/architect/agent` + `agents/qa/agent` + `agents/backend/agent` |
-| 2 | 架构师 | `agents/architect/agent` |
-| 2.5 | 开发 + QA | `agents/backend/agent` + `agents/qa/agent` |
-| 3 | UX | `agents/ux-tester/agent` |
-| 3.5 | UI | `agents/ui-designer/agent` |
-| 4 | UI | `agents/ui-designer/agent` |
-| 4.5 | UX | `agents/ux-tester/agent` |
-| 5 | 创业助手 + QA | 自己做 + `agents/qa/agent` |
-| 5.5 | 开发 | `agents/backend/agent` |
-| 6 | 开发 + QA | `agents/backend/agent` + `agents/qa/agent` |
-| 6.3 | 开发 | `agents/backend/agent` |
-| 6.5 | reviewer | `agents/backend-reviewer` |
-| 7 | QA评审官 + 架构评审官 | `agents/qa-reviewer` + `agents/architect-reviewer` |
-| 8 | QA | `agents/qa/agent` |
+| 1 | PM | `pm` |
+| 1.5 | 架构师 + QA + 开发 | `architect` + `qa` + `backend` |
+| 2 | 架构师 | `architect` |
+| 2.5 | 开发 + QA | `backend` + `qa` |
+| 3 | UX | `ux-tester` |
+| 3.5 | UI | `ui-designer` |
+| 4 | UI | `ui-designer` |
+| 4.5 | UX | `ux-tester` |
+| 5 | 创业助手 + QA | 自己做 + `qa` |
+| 5.5 | 开发 | `backend` |
+| 6 | 开发 + QA | `backend` + `qa` |
+| 6.3 | 开发 | `backend` |
+| 6.5 | reviewer | `backend-reviewer` |
+| 7 | QA评审官 + 架构评审官 | `qa-reviewer` + `architect-reviewer` |
+| 8 | QA | `qa` |
 | 9 | 自己做 | — |
 
 ## 调度流程（每阶段重复）
@@ -69,28 +70,18 @@ bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh
 ```
 1. 读 /Users/sunwenyong/.openclaw/agents/agent-pipeline/stages/stage-X.md → 知道这阶段要做什么
 2. 读 /Users/sunwenyong/.openclaw/agents/agent-pipeline/skill-registry.md → 知道要加载哪些 Skill
-3. 用 acpx 派发任务给对应 agent（附带：必读文件列表 + Skill + 产出要求）
-4. 等待 agent 完成
+3. 用 sessions_spawn({ runtime: "acp", agentId, task }) 派发任务
+4. 等待 agent 完成（结果会自动回传）
 5. 运行 bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh <项目目录> <阶段号>
 6. 通过 → 推进下一阶段
 7. 不通过 → 把缺失项发给 agent，要求补全
 8. 超过合同轮次 → 升级给用户
 ```
 
-## Session 规则
-
-每个 agent 绑定一个持久 session，命名：`{project}-{agent-id}`
-
-项目开始时批量创建 session：
-```bash
-for AGENT in pm architect backend frontend qa ux-tester ui-designer backend-reviewer architect-reviewer qa-reviewer pm-reviewer; do
-  acpx claude --session "{project}-${AGENT}" sessions new
-done
-```
-
 ## Red Lines（绝对禁止）
 
-- ❌ **绝对不用 `sessions_spawn` 或任何 subagent 机制** — 只用 `acpx claude --session`
+- ❌ **绝对不用 `exec` 调用 `acpx` 或 `openclaw` 命令** — 用 `sessions_spawn` 原生工具
+- ❌ **绝对不用 `sessions_spawn` + `runtime: "subagent"` 调度开发任务** — 必须用 `runtime: "acp"`
 - ❌ **绝对不自己写 PRD / 架构文档 / 代码 / 测试** — 你是协调者
 - ❌ **绝对不跳过阶段** — 阶段必须按顺序
 - ❌ **绝对不信任 agent 说"完成了"** — 必须验证文件存在且通过 pipeline-check.sh
