@@ -276,3 +276,19 @@ OPENAI_API_KEY=xxx \
 ## 2026-04-27 记录
 - 记忆蒸馏任务执行完成：健康检查发现2个警告（workspace未提交、agents未提交），MemPalace新增2个drawer和2个fact
 - 中美AI技术差距缩小至2.7%，DeepSeek-V3在算力效率方面取得重大进展
+
+## frp 内网穿透（外网访问）
+
+| 服务 | 地址 |
+|------|------|
+| 1060 SSH | `ssh -p 6000 nyaruko@8.147.115.189`（密码 Feichang@4zz） |
+| 手机 SSH | `ssh -p 6001 u0_a247@8.147.115.189`（密码 Feichang@4zz） |
+| 1060 MySQL | `8.147.115.189:6010`（guardian/Feichang@4zz） |
+| 1060 Sentinel | `http://8.147.115.189:6020` |
+| 手机 Sentinel | `http://8.147.115.189:6021` |
+| frps Dashboard | `http://8.147.115.189:7500`（admin/Feichang@4zz） |
+
+- frps 在阿里云 `root@8.147.115.189`（密码 Feichang@4zz）
+- frpc 分别跑在 1060（systemd 自启）和手机（Termux bashrc + Termux:Boot）
+- SSH config 别名：`ssh 1060-wan` / `ssh phone-wan`
+

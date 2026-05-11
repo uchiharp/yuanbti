@@ -1,61 +1,70 @@
-# SKILLS.md - 创业助手技能
+# SKILLS.md — 协调者技能
 
-## 可用技能
+## 流水线调度（核心技能）
 
 | 技能 | 用途 | 触发场景 |
 |------|------|----------|
-| **feishu-doc** | 飞书文档读写 | 需要读取/编辑飞书文档时 |
-| **feishu-drive** | 飞书云盘管理 | 需要上传/下载文件时 |
-| **feishu-wiki** | 飞书知识库 | 需要查询知识库内容时 |
+| **agent-pipeline** | 流水线全流程定义 | 收到"开始开发"/"做项目"任务时 |
+| **acpx** | 调度其他 agent | 每个阶段需要派发任务时 |
+| **pipeline-check.sh** | 验证产出物 | 每阶段 agent 完成后 |
+
+### 调度流程
+
+```
+读 stages/stage-X.md → 组装 prompt → acpx 派发 → 等完成 → pipeline-check.sh → 通过/打回
+```
+
+### acpx 命令速查
+
+```bash
+# 派发任务给 agent
+acpx openclaw --cwd {agent目录} --approve-all --format json --timeout 3600 "{prompt}"
+
+# 并发派发（多个 agent 同时执行）
+acpx openclaw --cwd {agent1目录} ... "{prompt1}" &
+acpx openclaw --cwd {agent2目录} ... "{prompt2}" &
+wait
+
+# 验证产出
+bash agent-pipeline/scripts/pipeline-check.sh {项目目录} {阶段号}
+```
+
+## 创业辅导（非流水线时）
+
+| 技能 | 用途 | 触发场景 |
+|------|------|----------|
+| **task-decomposition** | 任务拆分 | 阶段5任务分解 |
 | **web_search** | 网络搜索 | 市场调研、竞品分析 |
 
----
+## 飞书集成
 
-## 飞书集成配置
+| 技能 | 用途 |
+|------|------|
+| **feishu-doc** | 飞书文档读写 |
+| **feishu-drive** | 飞书云盘管理 |
+| **feishu-wiki** | 飞书知识库 |
+| **feishu-media** | 下载飞书消息中的图片/视频/文件 |
 
-**App ID:** `cli_a944cc3f77b89bd2`
-**App Secret:** 已保存在 `auth-profiles.json`
+飞书 App ID: `cli_a944cc3f77b89bd2`
 
-**权限范围：**
-- 文档读写
-- 消息接收
-- 机器人对话
+## 可调度的 Agent 列表
 
----
+| Agent ID | 目录 | 用途 |
+|----------|------|------|
+| `pm` | `agents/pm/agent` | 需求分析、PRD |
+| `architect` | `agents/architect/agent` | 架构设计 |
+| `backend` | `agents/backend/agent` | 后端开发 |
+| `frontend` | `agents/frontend/agent` | 前端开发 |
+| `qa` | `agents/qa/agent` | 测试 |
+| `ux-tester` | `agents/ux-tester/agent` | UX 设计 |
+| `ui-designer` | `agents/ui-designer/agent` | UI 设计 |
+| `backend-reviewer` | `agents/backend-reviewer` | 代码审查 |
+| `architect-reviewer` | `agents/architect-reviewer` | 架构审查 |
+| `qa-reviewer` | `agents/qa-reviewer` | QA 审查 |
+| `pm-reviewer` | `agents/pm-reviewer` | PRD 审查 |
 
-## 使用说明
+## Skill 加载规则
 
-1. 用户通过飞书机器人发送消息
-2. Agent 接收消息并处理
-3. 根据需要调用飞书 API（文档/云盘/知识库）
-4. 返回处理结果
+协调者**不加载**业务 Skill（如 `tech-architecture`、`code-quality-guard`）。这些 Skill 由对应 agent 在被调度时加载。
 
----
-
-*技能配置会根据实际使用逐步完善 🚀*
-
-
----
-
-## 📥 **feishu-media** - 下载飞书消息中的图片/视频/文件
-**触发场景：**
-- 用户发送图片、视频或文件
-- 需要在本地处理媒体文件（如图片识别、视频分析）
-
-**使用方式：**
-```
-读取：/Users/sunwenyong/.openclaw/workspace/skills/feishu-media/SKILL.md
-```
-
-**下载命令：**
-```bash
-python3 ~/.openclaw/workspace/skills/feishu-media/scripts/download_media.py \
-  --message-id "om_xxxxx" --file-key "file_v3_xxxxx" \
-  --file-name "output.mp4" --type video --account-id <当前bot的account_id>
-```
-
-**用完后清理：**
-```bash
-python3 ~/.openclaw/workspace/skills/feishu-media/scripts/download_media.py --cleanup
-```
-
+协调者只用：`agent-pipeline`（流程定义）+ `acpx`（调度工具）+ `pipeline-check.sh`（验证脚本）
