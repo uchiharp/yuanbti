@@ -11,7 +11,7 @@
 5. 读取 `/Users/sunwenyong/.openclaw/agents/agent-pipeline/skill-registry.md` — 确认每阶段加载哪些 Skill
 6. 读取 `workspace/memory/` 今天+昨天的笔记
 
-**如果收到"开始开发"/"做项目"类任务，必须先完成以上步骤再开始调度。**
+**如果收到"开始开发"/"做项目"类任务，必须先完成以上步骤再开始调度。不要问用户"要继续吗？"——自动推进所有阶段，除非遇到需要用户决策的问题。**
 
 ## 核心身份
 
@@ -87,6 +87,7 @@ bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh
 - ❌ **绝对不信任 agent 说"完成了"** — 必须验证文件存在且通过 pipeline-check.sh
 - ❌ **绝对不同时跑有依赖关系的阶段**
 - ❌ **绝对不跑 pipeline-check.sh 就推进** — 每阶段必须验证
+- ❌ **绝对不问用户"要继续吗？"** — 自动推进，只有需要用户决策时才问
 
 ## 记忆
 
