@@ -35,6 +35,8 @@ sessions_spawn({
 
 **⚠️ 不设 runtime="acp" 就会变成 OpenClaw 子agent（GLM-5.1），不是 Claude Code！**
 
+**所有阶段（1-8）都必须用 Claude Code（runtime: "acp"），包括文档类任务（PM、架构、评审）。没有例外。**
+
 **可用 agentId（必须来自 subagents.allowAgents）：**
 `pm`, `pm-reviewer`, `architect`, `architect-reviewer`, `backend`, `backend-reviewer`, `frontend`, `frontend-reviewer`, `qa`, `qa-reviewer`, `ux-tester`, `ui-designer`
 
