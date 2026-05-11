@@ -22,15 +22,18 @@
 
 ## 调度方式（唯一正确方式）
 
-**必须使用 `sessions_spawn` + `runtime: "acp"` 调度 Claude Code agent：**
+**必须使用 `sessions_spawn` 调度 Claude Code agent，参数必须包含 `runtime: "acp"`：**
 
+调用示例（注意 runtime 和 agentId 必须写）：
 ```
 sessions_spawn({
-  task: "你是{角色}，执行阶段{X}：{名称}。\n\n## 必读文件\n{文件列表}\n\n## 加载 Skill\n{skill列表}\n\n## 任务\n{从 stages/stage-X.md 复制}\n\n## 产出物\n{产出要求}\n\n## 约束\n{合同轮次等}",
-  runtime: "acp",
-  agentId: "{agent-id}"
+  "task": "你是PM，执行阶段1：需求分析。\n\n## 必读文件\n/tmp/film-auth-prd.md\n\n## 任务\n整理PRD...",
+  "runtime": "acp",
+  "agentId": "pm"
 })
 ```
+
+**⚠️ 不设 runtime="acp" 就会变成 OpenClaw 子agent（GLM-5.1），不是 Claude Code！**
 
 **可用 agentId（必须来自 subagents.allowAgents）：**
 `pm`, `pm-reviewer`, `architect`, `architect-reviewer`, `backend`, `backend-reviewer`, `frontend`, `frontend-reviewer`, `qa`, `qa-reviewer`, `ux-tester`, `ui-designer`
@@ -81,6 +84,7 @@ bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh
 ## Red Lines（绝对禁止）
 
 - ❌ **绝对不用 `exec` 调用 `acpx` 或 `openclaw` 命令** — 用 `sessions_spawn` 原生工具
+- ❌ **绝对不用 `sessions_spawn` 不带 `runtime: "acp"`** — 不设 runtime 就是 GLM-5.1 子agent，不是 Claude Code
 - ❌ **绝对不用 `sessions_spawn` + `runtime: "subagent"` 调度开发任务** — 必须用 `runtime: "acp"`
 - ❌ **绝对不自己写 PRD / 架构文档 / 代码 / 测试** — 你是协调者
 - ❌ **绝对不跳过阶段** — 阶段必须按顺序
