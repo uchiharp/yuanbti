@@ -132,12 +132,169 @@ PRD（已签收）
 
 ---
 
-## 架构方案验收标准
+## 代码架构规范（阶段2必须产出）
+
+架构方案必须包含「代码架构」章节，定义项目的代码组织规范。以下为通用模板，架构师根据技术栈调整。
+
+### 1. 分层架构（职责边界）
+
+```
+Controller → Service → Repository
+   ↓           ↓          ↓
+ 接收请求    业务逻辑    数据访问
+ 参数校验    事务管理    SQL/ORM
+ 返回响应    权限检查    数据转换
+```
+
+**强制规则：**
+- Controller 不得直接调用 Repository，必须经过 Service
+- Service 不得依赖 HttpServletRequest/Response（框架对象）
+- Repository 不得包含业务逻辑，只做 CRUD
+- 各层之间通过 DTO/VO 传递数据，不直接暴露实体
+
+**检查方法：** 搜索 Controller 类中是否 import 了 Repository/Mapper 类
+
+### 2. 模块解耦策略
+
+每个业务模块独立目录，模块间通过接口（Interface）通信，不直接引用实现类。
+
+```
+模块A                    模块B
+├── XxxController        ├── YyyController
+├── XxxService           ├── YyyService
+├── XxxServiceImpl       ├── YyyServiceImpl
+├── XxxRepository        ├── YyyRepository
+└── dto/                 └── dto/
+```
+
+**模块间通信方式：**
+| 场景 | 方式 | 示例 |
+|------|------|------|
+| 同步调用 | 注入接口（Interface） | `AuthService.validate(token)` |
+| 异步通知 | 事件机制 | `UserCreatedEvent → 发送欢迎邮件` |
+| 共享数据 | 公共 DTO | `UserDTO` 在 auth 和 permission 模块间传递 |
+
+**禁止：** 模块A直接 import 模块B的 ServiceImpl 类
+
+### 3. 可复用组件清单
+
+架构方案必须识别以下通用组件，并定义其接口：
+
+| 组件 | 职责 | 接口示例 |
+|------|------|---------|
+| 认证过滤器 | 拦截请求、验证 Token、注入用户上下文 | `JwtAuthFilter extends OncePerRequestFilter` |
+| 权限注解 | 声明式权限检查 | `@RequirePermission("user:manage")` |
+| 统一响应 | 标准化 API 返回格式 | `Result<T> { code, message, data }` |
+| 全局异常处理 | 统一异常捕获和错误码映射 | `@RestControllerAdvice GlobalExceptionHandler` |
+| 审计日志切面 | 自动记录操作日志 | `@AuditLog(action="create", resource="user")` |
+| 用户上下文 | 线程级用户信息持有 | `SecurityContextHolder / ThreadLocal<UserContext>` |
+
+**架构师必须定义这些组件的接口签名和所在包路径。**
+
+### 4. 目录结构规范
+
+架构方案必须产出完整的目录结构树，格式：
+
+```
+{project}/
+├── src/main/java/com/{company}/{project}/
+│   ├── config/              # 配置类（Security、JWT、MyBatis 等）
+│   ├── common/              # 公共组件（Result、异常、工具类）
+│   │   ├── Result.java
+│   │   ├── GlobalExceptionHandler.java
+│   │   └── UserContext.java
+│   ├── auth/                # 认证模块
+│   │   ├── AuthController.java
+│   │   ├── AuthService.java
+│   │   └── JwtAuthFilter.java
+│   ├── {module}/            # 业务模块（每个模块独立目录）
+│   │   ├── {Module}Controller.java
+│   │   ├── {Module}Service.java
+│   │   ├── {Module}ServiceImpl.java
+│   │   ├── {Module}Repository.java
+│   │   ├── entity/          # 数据库实体
+│   │   └── dto/             # 请求/响应 DTO
+│   └── ...
+├── src/main/resources/
+│   ├── application.yml
+│   └── db/migration/        # 数据库迁移脚本
+└── src/test/
+```
+
+**命名规范：**
+| 类型 | 命名规则 | 示例 |
+|------|---------|------|
+| Controller | `{Module}Controller` | `UserController` |
+| Service 接口 | `{Module}Service` | `UserService` |
+| Service 实现 | `{Module}ServiceImpl` | `UserServiceImpl` |
+| Repository | `{Module}Repository` 或 `{Module}Mapper` | `UserMapper` |
+| DTO | `{Action}{Module}Request/Response` | `CreateUserRequest` |
+| 实体 | `{Module}` | `User` |
+
+### 5. 扩展点设计
+
+架构方案必须定义「新增业务系统接入」的扩展接口：
+
+| 扩展点 | 接口 | 新增时做什么 |
+|--------|------|------------|
+| 新增权限 | `PermissionRegistry.register(code, name)` | 注册新权限编码 |
+| 新增角色 | 直接在管理后台创建 | 无需改代码 |
+| 新增业务系统 | `AppRegistry.register(clientId, redirectUri)` | 注册应用 + 配置回调 |
+| 新增审计事件 | `@AuditLog(action="new-action")` | 加注解即可 |
+| 新增数据范围 | `DataScopeEvaluator` 接口 | 实现新范围的过滤逻辑 |
+
+**原则：** 新增业务系统接入时，只改配置不改代码（或只加注解）。
+
+### 6. 设计模式选型
+
+架构方案必须说明各模块使用的设计模式，格式：
+
+| 模块/场景 | 选用模式 | 原因 |
+|----------|---------|------|
+| 认证方式切换（JWT/OAuth/SAML） | Strategy | 多种认证算法可互换 |
+| 消息通知（邮件/短信/站内信） | Strategy | 通知渠道可扩展 |
+| 权限校验链（Token→角色→策略→数据范围） | Chain of Responsibility | 多级校验逐层传递 |
+| 用户创建后的副作用（发邮件+初始化+日志） | Observer | 解耦核心逻辑和副作用 |
+| API 日志/限流/权限 注入 Controller | Decorator / AOP | 不侵入业务代码 |
+| 各模块统一 CRUD 骨架 | Template Method | 只覆写差异部分 |
+| 创建不同类型实体（普通/VIP/管理员） | Factory | 封装创建逻辑 |
+| 跨模块状态变更通知 | Domain Event + Observer | 模块解耦 |
+
+**要求：** 不需要解释模式是什么，但必须说清楚「为什么这里用这个模式」。如果某个模块不需要特殊模式，写「标准 CRUD，无特殊模式」即可。
+
+### 7. DDD 模块划分（可选，复杂业务推荐）
+
+对于业务复杂的项目，架构方案可采用 DDD 思维划分模块：
+
+| 概念 | 作用 | 示例 |
+|------|------|------|
+| Bounded Context | 模块边界，各管各的数据模型 | 认证上下文 vs 权限上下文 vs 项目上下文 |
+| Aggregate | 事务一致性边界 | `User`（聚合根）+ `UserRole`（子实体） |
+| Domain Event | 模块间松耦合通信 | `UserCreatedEvent` → 发欢迎邮件 |
+| Value Object | 不可变的业务描述 | `Email`、`Permission`（资源:操作编码） |
+| Application Service | 编排业务流程 | `AuthService.login()` 调用多个领域服务 |
+| Domain Service | 纯业务逻辑 | `PolicyEngine.evaluate()` 策略评估 |
+
+**要求：** 简单项目用标准三层架构即可，不必强行 DDD。只有当模块间关系复杂、数据一致性要求高时才用。
+
+### 8. 日志/异常/错误处理架构
+
+架构方案必须定义统一的日志和异常处理策略（详见 `logging-exception` skill）：
+
+| 维度 | 必须定义 |
+|------|---------|
+| 错误码体系 | 分层编码规则（如 `AUTH_001`、`PERM_002`） |
+| 异常传播策略 | 哪些层捕获、哪些层抛出、全局异常处理器 |
+| 日志规范 | 结构化字段（traceId/userId/action）、日志级别使用场景 |
+| 敏感数据脱敏 | 哪些字段脱敏、脱敏方式 |
+
+### 架构方案验收标准
 
 - [ ] 技术选型有理由（为什么选A不选B）
 - [ ] 接口定义完整（请求/响应/错误码）
 - [ ] 数据模型清晰（实体关系、字段说明）
 - [ ] 已识别技术风险（至少列出3个潜在风险）
+- [ ] 代码架构章节完整（分层+模块+组件+目录+扩展点+模式选型+日志异常）
 - [ ] 行数 ≥ 80行
 
 ---
