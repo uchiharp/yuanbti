@@ -8,27 +8,30 @@
 |------|------|-------------|-----------|
 | 0 | 协调者 | — | — |
 | 1 | PM | `requirements-analysis` | — |
-| 1 | PM·评审官 | — | — |
-| 1.5 | 各角色 | — | — |
+| 1.6 | PM | — | — |
+| 1.5 | QA + 开发 + 架构师 | — | — |
 | 2 | 架构师 | `tech-architecture`, `logging-exception` | — |
-| 2 | 架构评审官 | — | — |
-| 2.5 | 各角色 | — | — |
+| 2.5 | 开发 + QA + PM | — | — |
+| 2.6 | 架构师 | — | — |
 | 2.8 | Spike agent | `tech-spike` | — |
 | 3 | UX 设计师 | — | — |
-| 3 | UX·评审官 | — | — |
+| 3 | PM | — | — |
 | 3.5 | UI 设计师 | — | — |
 | 4 | UI 设计师 | — | — |
-| 4 | UI·评审官 | — | — |
+| 4 | PM + 开发 | — | — |
 | 4.5 | UX | — | — |
-| 5 | 创业助手 | `task-decomposition` | — |
+| 5 | 协调者 | `task-decomposition` | — |
 | 5 | QA | `qa-workflow` | — |
 | 5.5 | 开发 | — | — |
 | 6 | 开发 | `code-quality-guard`, `logging-exception` | — |
 | 6 | QA（并行） | `qa-workflow` | — |
-| 6.5 | reviewer | `code-review-checklist` | — |
-| 7 | QA评审官 | `qa-workflow`, `humanize-code`, `logging-exception` | — |
-| 7 | 架构评审官 | `code-review-checklist`, `logging-exception` | — |
+| 6.5 | 架构师 | `code-review-checklist` | — |
+| 7 | 架构师 | `code-review-checklist`, `logging-exception` | — |
+| 7 | QA | `qa-workflow`, `humanize-code`, `logging-exception` | — |
+| 7 | PM | — | — |
 | 8 | QA | `qa-workflow` | — |
+| 8 | PM | — | — |
+| 8.5 | PM | — | — |
 | 9 | 协调者 | — | — |
 
 ## Skill 用途速查

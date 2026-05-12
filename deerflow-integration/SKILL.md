@@ -17,7 +17,7 @@ metadata: {"api_base":"http://localhost:8001","langgraph":"http://localhost:2024
 
 # DeerFlow Integration
 
-与本地 DeerFlow 服务集成的技能，让你可以通过 OpenClaw 调用 DeerFlow 的强大能力。
+与本地 DeerFlow 服务集成的技能，让你可以通过 Claude Code 调用 DeerFlow 的强大能力。
 
 ## 触发条件
 

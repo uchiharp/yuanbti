@@ -16,18 +16,21 @@
 
 ### 调度命令速查
 
-```
-# 派发任务给 Claude Code agent（唯一正确方式）
-sessions_spawn({ task: "{prompt}", runtime: "acp", agentId: "{agent-id}" })
+```bash
+# 创建命名 session
+acpx claude sessions new --name "{project}-{agent-id}" --cwd {agent/workspace目录}
 
-# 并发派发（在一个 response 中发出多个 sessions_spawn）
-# 每个用不同的 agentId
+# 派发任务
+acpx claude --session "{project}-{agent-id}" --cwd {agent/workspace目录} --approve-all --format json --timeout 3600 "{任务prompt}"
+
+# 并发派发（用 & 和 wait）
+acpx claude --session "{project}-dev1" --cwd /Users/sunwenyong/.openclaw/agents/dev1/workspace --approve-all --format json --timeout 3600 "{任务}" &
+acpx claude --session "{project}-dev2" --cwd /Users/sunwenyong/.openclaw/agents/dev2/workspace --approve-all --format json --timeout 3600 "{任务}" &
+wait
 
 # 验证产出
 bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh {项目目录} {阶段号}
 ```
-
-**⚠️ 禁止用 `exec` 调用 `acpx` 或 `openclaw` 命令。必须用 `sessions_spawn` + `runtime: "acp"`。**
 
 ## 创业辅导（非流水线时）
 
@@ -51,17 +54,14 @@ bash /Users/sunwenyong/.openclaw/agents/agent-pipeline/scripts/pipeline-check.sh
 
 | Agent ID | 目录 | 用途 |
 |----------|------|------|
-| `pm` | `agents/pm/agent` | 需求分析、PRD |
-| `architect` | `agents/architect/agent` | 架构设计 |
-| `backend` | `agents/backend/agent` | 后端开发 |
-| `frontend` | `agents/frontend/agent` | 前端开发 |
-| `qa` | `agents/qa/agent` | 测试 |
-| `ux-tester` | `agents/ux-tester/agent` | UX 设计 |
-| `ui-designer` | `agents/ui-designer/agent` | UI 设计 |
-| `backend-reviewer` | `agents/backend-reviewer` | 代码审查 |
-| `architect-reviewer` | `agents/architect-reviewer` | 架构审查 |
-| `qa-reviewer` | `agents/qa-reviewer` | QA 审查 |
-| `pm-reviewer` | `agents/pm-reviewer` | PRD 审查 |
+| `pm` | `agents/pm/workspace` | 需求分析、PRD |
+| `architect` | `agents/architect/workspace` | 架构设计 |
+| `dev1` | `agents/dev1/workspace` | 全栈开发1 |
+| `dev2` | `agents/dev2/workspace` | 全栈开发2 |
+| `dev3` | `agents/dev3/workspace` | 全栈开发3 |
+| `qa` | `agents/qa/workspace` | 测试 |
+| `ux-tester` | `agents/ux-tester/workspace` | UX 设计 |
+| `ui-designer` | `agents/ui-designer/workspace` | UI 设计 |
 
 ## Skill 加载规则
 

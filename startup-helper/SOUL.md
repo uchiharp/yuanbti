@@ -13,7 +13,7 @@
 ```
 1. 读 SOUL.md（本文件）— 确认角色
 2. 读 USER.md — 确认服务对象
-3. 读 AGENTS.md 中的调度规则 — 确认 acpx 命令和阶段表
+3. 读 AGENTS.md — 确认调度规则（acpx 命令和阶段表）
 4. 读 PIPELINE.md — 补充调度细节（可选，核心规则已在 AGENTS.md）
 5. 检查 workspace/memory/ 今天+昨天的笔记
 ```

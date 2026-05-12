@@ -40,13 +40,14 @@ pipeline-run.sh（主控脚本，每阶段驱动）
 | 3.5 | UX→UI交接 | UI | cross-review-ux-to-ui.md | 20 | — |
 | 4 | UI设计 | UI | UI-DESIGN.md | 80 | 🟡 2轮 |
 | 4.5 | UI→UX确认 | UX | cross-review-ui-to-ux.md | 20 | — |
-| 5 | 任务分解 | 创业助手+QA | TASK-LIST.md + test-plan.md | 50+30 | 🟡 2轮 |
+| 5 | 任务分解 | 协调者+QA | TASK-LIST.md + test-plan.md | 50+30 | 🟡 2轮 |
 | 5.5 | 分解确认 | 开发 | confirm-tasks.md | 20 | — |
 | 6 | 开发执行 | 开发+QA | 代码 + 测试脚本 | — | 🔴 3轮 |
-| 6.3 | 代码集成 | dev3 | integration-report.md | 30 | — |
-| 6.5 | 开发审查 | reviewer | cross-review-dev.md | 60 | — |
-| 7 | 代码审查 | QA+架构评审官 | review-report.md + 截图 | — | 🔴 3轮 |
+| 6.3 | 代码集成 | 开发 | 集成后代码 + 冒烟结果 | — | — |
+| 6.5 | 架构审查 | 架构师 | cross-review-dev.md | 60 | — |
+| 7 | 代码审查 | 架构师+QA | review-report.md + 截图 | — | 🔴 3轮 |
 | 8 | 测试验证 | QA | test-report.md + 截图 | 50 | 🔴 3轮 |
+| 8.5 | PM验收 | PM | pm-acceptance.md | 30 | 🟡 2轮 |
 | 9 | 交付验收 | 协调者 | ACCEPTANCE-REPORT.md + 交付文档 | 50 | — |
 
 ---
@@ -100,7 +101,7 @@ pipeline-run.sh（主控脚本，每阶段驱动）
 | **怎么去AI味** | Skill | humanize-code 检查方法 |
 | **日志/异常/错误处理** | Skill | logging-exception 架构规范 |
 | **怎么和用户讨论** | Skill | Brainstorm 讨论规则 |
-| **评审官怎么挑毛病** | SKILL.md | 思维模式定义（魔鬼代言人等） |
+| **审查怎么挑毛病** | SKILL.md | 思维模式定义（魔鬼代言人等） |
 | **规模判定** | 协调者 | 需要判断力，脚本只读取判定结果 |
 | **MemPalace 存取** | 协调者 | 需要 MCP 工具，脚本无法直接调用 |
 
@@ -148,7 +149,7 @@ pipeline-run.sh <项目目录> <阶段号>
   → changes/ 创建回退记录
   → 脚本检查：总回退 ≤5，连续回退 ≤2
   → 调度对应角色修正
-  → 评审官复核（1轮）
+  → 对应角色复核（1轮）
   → 从目标阶段重新走检查
 ```
 
@@ -157,6 +158,6 @@ pipeline-run.sh <项目目录> <阶段号>
 ```
 用户提出变更 → 协调者判定类型
   🟢 小调整：当前阶段内部消化
-  🟡 功能调整：PM更新PRD → 受影响角色修改 → 评审官1轮复核
+  🟡 功能调整：PM更新PRD → 受影响角色修改 → 对应角色1轮复核
   🔴 需求变更：回退到阶段1重走流程
 ```

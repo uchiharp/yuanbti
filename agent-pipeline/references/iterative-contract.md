@@ -162,7 +162,7 @@
       "status": "completed",
       "rounds": 3,
       "finalScore": 7.8,
-      "agents": ["backend", "backend-reviewer", "qa"],
+      "agents": ["dev1", "architect", "qa"],
       "contracts": ["c01.md", "c02.md", "c03.md"],
       "createdAt": "2026-04-11T14:00:00+08:00",
       "completedAt": "2026-04-11T14:25:00+08:00"

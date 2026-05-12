@@ -1,7 +1,7 @@
-# 安全扫描脚本模板（破坏者评审官 Playwright 实操时使用）
+# 安全扫描脚本模板（QA Playwright 实操时使用）
 
 > 这些脚本嵌入在 Playwright 审查流程中，不是单独运行。
-> 评审官在 Playwright 实操时，按需调用这些扫描。
+> QA 在阶段7 Playwright 实操时，按需调用这些扫描。
 
 ---
 
@@ -365,7 +365,7 @@ async function checkSecurityHeaders(page, baseUrl) {
 
 ## 使用方式
 
-在破坏者评审官的 Playwright 审查流程中，在"页面加载→截图"之后、"写出审查报告"之前，插入以下步骤：
+在 QA 的 Playwright 审查流程中，在"页面加载→截图"之后、"写出审查报告"之前，插入以下步骤：
 
 ```
 标准 Playwright 实操流程：

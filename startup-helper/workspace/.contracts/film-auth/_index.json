@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "project_name": "film-auth",
+  "contracts": {},
+  "phase_contracts": {
+    "0": null,
+    "1": null,
+    "1.5": null,
+    "2": null,
+    "2.5": null,
+    "2.8": null,
+    "3": null,
+    "3.5": null,
+    "4": null,
+    "4.5": null,
+    "5": null,
+    "5.5": null,
+    "6": null,
+    "6.3": null,
+    "6.5": null,
+    "7": null,
+    "8": null,
+    "9": null
+  }
+}

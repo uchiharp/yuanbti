@@ -11,6 +11,7 @@ set -eo pipefail
 
 PROJECT="${1:-}"
 ACTION="${2:-status}"
+AGENTS_ROOT="${AGENTS_ROOT:-/Users/sunwenyong/.openclaw/agents}"
 
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "📡 Pipeline Session Monitor"
@@ -21,33 +22,25 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 AGENTS=(
   "pm"
   "architect"
-  "backend"
-  "frontend"
+  "dev1"
+  "dev2"
+  "dev3"
   "qa"
   "ux-tester"
   "ui-designer"
-  "backend-reviewer"
-  "architect-reviewer"
-  "qa-reviewer"
-  "pm-reviewer"
-  "startup-helper"
 )
 
 # Agent 目录映射
 get_agent_cwd() {
   case "$1" in
-    pm) echo "/Users/sunwenyong/.openclaw/agents/pm/agent" ;;
-    architect) echo "/Users/sunwenyong/.openclaw/agents/architect/agent" ;;
-    backend) echo "/Users/sunwenyong/.openclaw/agents/backend/agent" ;;
-    frontend) echo "/Users/sunwenyong/.openclaw/agents/frontend/agent" ;;
-    qa) echo "/Users/sunwenyong/.openclaw/agents/qa/agent" ;;
-    ux-tester) echo "/Users/sunwenyong/.openclaw/agents/ux-tester/agent" ;;
-    ui-designer) echo "/Users/sunwenyong/.openclaw/agents/ui-designer/agent" ;;
-    backend-reviewer) echo "/Users/sunwenyong/.openclaw/agents/backend-reviewer" ;;
-    architect-reviewer) echo "/Users/sunwenyong/.openclaw/agents/architect-reviewer" ;;
-    qa-reviewer) echo "/Users/sunwenyong/.openclaw/agents/qa-reviewer" ;;
-    pm-reviewer) echo "/Users/sunwenyong/.openclaw/agents/pm-reviewer" ;;
-    startup-helper) echo "/Users/sunwenyong/.openclaw/agents/startup-helper" ;;
+    pm) echo "$AGENTS_ROOT/pm/workspace" ;;
+    architect) echo "$AGENTS_ROOT/architect/workspace" ;;
+    dev1) echo "$AGENTS_ROOT/dev1/workspace" ;;
+    dev2) echo "$AGENTS_ROOT/dev2/workspace" ;;
+    dev3) echo "$AGENTS_ROOT/dev3/workspace" ;;
+    qa) echo "$AGENTS_ROOT/qa/workspace" ;;
+    ux-tester) echo "$AGENTS_ROOT/ux-tester/workspace" ;;
+    ui-designer) echo "$AGENTS_ROOT/ui-designer/workspace" ;;
     *) echo "" ;;
   esac
 }
@@ -130,8 +123,7 @@ if [ "$ACTION" = "close-all" ] && [ -n "$PROJECT" ]; then
 
   for AGENT in "${AGENTS[@]}"; do
     SESSION_NAME="${PROJECT}-${AGENT}"
-    # 先关闭再删除
-    acpx claude --session "$SESSION_NAME" sessions close 2>/dev/null || true
+    # 关闭 session
     RESULT=$(acpx claude --session "$SESSION_NAME" sessions close 2>&1 || true)
     if echo "$RESULT" | grep -qi "closed\|success\|deleted"; then
       echo "  🗑️  $AGENT — session 已删除: $SESSION_NAME"

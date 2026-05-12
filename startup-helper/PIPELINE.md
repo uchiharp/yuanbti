@@ -19,22 +19,23 @@
 |------|--------|-----------|------|
 | 0 | 自己做 | — | 启动阶段，协调者自己评估规模 |
 | 1 | PM | `pm/` | 产出 PRD |
-| 1.5 | 架构师 + QA + 开发 | `architect/` + `qa/` + `backend/` | 并发评审 PRD |
+| 1.5 | QA + 开发 + 架构师 | `qa/` + `dev1/` + `architect/` | 并发评审 PRD |
 | 2 | 架构师 | `architect/` | 产出架构方案 |
-| 2.5 | 开发 + QA | `backend/` + `qa/` | 并发评审架构 |
+| 2.5 | 开发 + QA | `dev1/` + `qa/` | 并发评审架构 |
 | 2.8 | Spike agent | — | 技术验证（条件执行） |
 | 3 | UX | `ux-tester/` | 产出 UX 设计 |
 | 3.5 | UI | `ui-designer/` | UX→UI 交接确认 |
 | 4 | UI | `ui-designer/` | 产出 UI 设计 |
 | 4.5 | UX | `ux-tester/` | UI→UX 反向确认 |
-| 5 | 创业助手 + QA | 自己做 + `qa/` | 任务分解 + 测试计划（并发） |
-| 5.5 | 开发 | `backend/` | 确认任务分配 |
-| 6 | 开发 + QA | `backend/` + `qa/` | 编码 + E2E 测试（并发） |
-| 6.3 | dev3 | `backend/` | 代码集成 + 冒烟 |
-| 6.5 | reviewer | `backend-reviewer/` | 开发互审 |
-| 7 | QA评审官 + 架构评审官 | `qa-reviewer/` + `architect-reviewer/` | 代码审查 |
+| 5 | 协调者 + QA | 自己做 + `qa/` | 任务分解 + 测试计划（并发） |
+| 5.5 | 开发 | `dev1/` | 确认任务分配 |
+| 6 | 开发×3 + QA | `dev1/` + `dev2/` + `dev3/` + `qa/` | 编码 + E2E 测试（并发） |
+| 6.3 | 开发 | `dev1/` | 代码集成 + 冒烟 |
+| 6.5 | 架构师 | `architect/` | 架构审查 |
+| 7 | 架构师 + QA | `architect/` + `qa/` | 代码审查 |
 | 8 | QA | `qa/` | 测试验证 |
-| 9 | 自己做 | — | 交付验收 |
+| 8.5 | PM | `pm/` | PM 验收（对照 PRD 验证测试报告） |
+| 9 | 自己做 | — | 交付验收 + HTML 转换 |
 
 ## 调度方式：acpx 命令
 
@@ -42,7 +43,7 @@
 
 ### Session 规则（强制）
 
-**每个 OpenClaw agent 绑定一个持久 Claude Code session，直到项目切换。**
+**每个 agent 绑定一个持久 Claude Code session，直到项目切换。**
 
 Session 命名格式：`{project}-{agent-id}`
 
@@ -50,24 +51,21 @@ Session 命名格式：`{project}-{agent-id}`
 |----------|-----------|------|
 | `pm` | `{project}-pm` | PM agent |
 | `architect` | `{project}-architect` | 架构师 |
-| `backend` | `{project}-backend` | 后端开发 |
-| `frontend` | `{project}-frontend` | 前端开发 |
+| `dev1` | `{project}-dev1` | 全栈开发1 |
+| `dev2` | `{project}-dev2` | 全栈开发2 |
+| `dev3` | `{project}-dev3` | 全栈开发3 |
 | `qa` | `{project}-qa` | QA |
 | `ux-tester` | `{project}-ux` | UX 设计 |
 | `ui-designer` | `{project}-ui` | UI 设计 |
-| `backend-reviewer` | `{project}-backend-reviewer` | 代码审查 |
-| `architect-reviewer` | `{project}-arch-reviewer` | 架构审查 |
-| `qa-reviewer` | `{project}-qa-reviewer` | QA 审查 |
-| `pm-reviewer` | `{project}-pm-reviewer` | PRD 审查 |
 
 ### 项目开始：创建所有 Session
 
 ```bash
 PROJECT="film-auth"  # 项目名
 
-# 为每个 agent 创建持久 session
-for AGENT in pm architect backend frontend qa ux-tester ui-designer backend-reviewer architect-reviewer qa-reviewer pm-reviewer; do
-  acpx claude --session "${PROJECT}-${AGENT}" sessions new
+# 为每个 agent 创建命名 session
+for AGENT in pm architect dev1 dev2 dev3 qa ux-tester ui-designer; do
+  acpx claude sessions new --name "${PROJECT}-${AGENT}" --cwd /Users/sunwenyong/.openclaw/agents/${AGENT}/workspace
 done
 ```
 
@@ -78,8 +76,8 @@ done
 acpx claude sessions list | grep "old-project-" | xargs -I{} acpx claude --session {} sessions close
 
 # 创建新项目的 session
-for AGENT in pm architect backend frontend qa ux-tester ui-designer backend-reviewer architect-reviewer qa-reviewer pm-reviewer; do
-  acpx claude --session "new-project-${AGENT}" sessions new
+for AGENT in pm architect dev1 dev2 dev3 qa ux-tester ui-designer; do
+  acpx claude sessions new --name "new-project-${AGENT}" --cwd /Users/sunwenyong/.openclaw/agents/${AGENT}/workspace
 done
 ```
 
@@ -113,8 +111,8 @@ acpx claude --session "film-auth-architect" \
    产出路径：/path/to/project/2/ARCHITECTURE.md"
 
 # 阶段6：派给开发（复用 session，保留之前的代码上下文）
-acpx claude --session "film-auth-backend" \
-  --cwd /Users/sunwenyong/.openclaw/agents/backend/agent \
+acpx claude --session "film-auth-dev1" \
+  --cwd /Users/sunwenyong/.openclaw/agents/dev1/workspace \
   --approve-all --format json --timeout 3600 \
   "你是开发，执行阶段6：开发执行。
    必读文件：docs/ARCHITECTURE.md, docs/CODE-MAP.md, TASK-LIST.md
@@ -128,8 +126,10 @@ acpx claude --session "film-auth-backend" \
 多个 agent 可以同时派发（不同 session 互不干扰）：
 
 ```bash
-# 阶段5：创业助手（任务分解）+ QA（测试计划）并发
-acpx claude --session "film-auth-startup-helper" ... "任务分解..." &
+# 阶段5：协调者（任务分解）+ QA（测试计划）并发
+# 协调者自己做任务分解，同时派 QA 写测试计划
+acpx claude --session "film-auth-qa" ... "测试计划..." &
+# 协调者自己执行 task-decomposition Skill...
 acpx claude --session "film-auth-qa" ... "测试计划..." &
 wait  # 等待两个都完成
 ```
@@ -145,15 +145,19 @@ bash /path/to/agent-pipeline/scripts/pipeline-check.sh {项目目录} {阶段号
 ### 任务 Prompt 模板
 
 ```
-你是 {角色}，执行阶段 {X}：{名称}。
+你是 {角色}，执行阶段 {X}：{名称}。不要问"要继续吗"，收到任务直接执行。
+
+## 启动自检（先做）
+1. 读取 SOUL.md — 确认你的角色和性格
+2. 读取 AGENTS.md — 确认你的工作规范和约束
 
 ## 必读文件（按顺序）
 1. {文件1}
 2. {文件2}
 
 ## 加载 Skill
-- {skill1} — 读取 agents/{skill1}/SKILL.md
-- {skill2} — 读取 agents/{skill2}/SKILL.md
+- {skill1} — 读取 /Users/sunwenyong/.openclaw/agents/{skill1}/SKILL.md
+- {skill2} — 读取 /Users/sunwenyong/.openclaw/agents/{skill2}/SKILL.md
 
 ## 任务
 {从 stages/stage-X.md 复制任务描述}
@@ -231,9 +235,9 @@ bash agent-pipeline/scripts/pipeline-check.sh <项目目录> <阶段号>
 
 - 1.5：架构师 + QA + 开发（并发评审）
 - 2.5：开发 + QA（并发评审）
-- 5：创业助手（任务分解）+ QA（测试计划）
+- 5：协调者（任务分解）+ QA（测试计划）
 - 6：开发（编码）+ QA（E2E测试）
-- 7：QA评审官 + 架构评审官（并发审查）
+- 7：架构师 + QA（并发审查）
 
 ### 可跳过的阶段（🟢 小型项目）
 
