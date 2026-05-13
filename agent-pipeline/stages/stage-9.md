@@ -42,26 +42,28 @@
 在产出验收报告前，协调者必须亲自跑以下命令确认系统可用：
 
 ```bash
-# 1. 编译通过
-cd {项目目录}/6 && mvn compile -q 2>&1
-# 或 Node.js：npm run build 2>&1
+# 1. 使用阶段2产出的 docker-compose.test.yml 启动完整环境
+cd {项目目录}
+docker-compose -f docker-compose.test.yml up -d
+# 等待服务就绪（healthcheck 自动判断）
+sleep 10
 
-# 2. 应用启动（后台运行，检查启动日志）
-cd {项目目录}/6 && mvn spring-boot:run > /tmp/app-startup.log 2>&1 &
-sleep 15
-# 检查启动是否成功
-grep -E "Started|ERROR|Exception" /tmp/app-startup.log | tail -5
-# 检查端口是否监听
-curl -s http://localhost:8080/actuator/health 2>/dev/null || echo "健康检查失败"
-kill %1 2>/dev/null
+# 2. 健康检查
+curl -sf http://localhost:8080/actuator/health || echo "❌ 健康检查失败"
 
 # 3. 核心接口冒烟（至少3个接口）
 curl -s http://localhost:8080/api/xxx | head -5
 curl -s http://localhost:8080/api/yyy | head -5
 curl -s http://localhost:8080/api/zzz | head -5
 
-# 4. 检查测试报告真实性（截图时间戳）
-find {项目目录}/8/qa-reports -name "*.png" -mtime -1 | wc -l
+# 4. 安全扫描（确认阶段7修复后无遗留）
+bash agent-pipeline/scripts/security-scan.sh {项目目录}
+
+# 5. 检查测试报告真实性（截图时间戳）
+find {项目目录}/pipeline/8/qa-reports -name "*.png" -mtime -1 | wc -l
+
+# 6. 清理
+docker-compose -f docker-compose.test.yml down
 ```
 
 **冒烟失败处理：**

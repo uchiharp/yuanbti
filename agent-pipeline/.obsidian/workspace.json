@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECT-TEMPLATE.md",
+                "file": "stages/stage-7-test-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROJECT-TEMPLATE"
+              "title": "stage-7-test-review"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECT-TEMPLATE.md",
+                "file": "stages/stage-7-test-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "PROJECT-TEMPLATE 的反向链接列表"
+              "title": "stage-7-test-review 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECT-TEMPLATE.md",
+                "file": "stages/stage-7-test-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PROJECT-TEMPLATE 的出链列表"
+              "title": "stage-7-test-review 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT-TEMPLATE.md",
+                "file": "stages/stage-7-test-review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PROJECT-TEMPLATE 的大纲"
+              "title": "stage-7-test-review 的大纲"
             }
           }
         ]
@@ -185,8 +185,20 @@
   },
   "active": "8e4da8810c84dff2",
   "lastOpenFiles": [
-    "PRD.md",
+    "config/stage-skills.conf",
+    "skills/engineering-robustness/SKILL.md",
+    "skills/engineering-robustness",
+    "config/pipeline-stages.conf",
+    "config",
+    "skills/interactive-html/SKILL.md",
+    "skills/interactive-html",
+    "skills",
+    "stages/stage-10.md",
+    "stages/stage-8.md",
+    "stages/stage-5.md",
     "PROJECT-TEMPLATE.md",
+    "PIPELINE-FULL.html",
+    "PRD.md",
     "ARCHITECTURE.md",
     "stages/stage-9.md",
     "scripts/session-health.sh",
@@ -202,23 +214,12 @@
     "references/security-scan-templates.md",
     "references/iterative-contract.md",
     "scripts/show-progress.sh",
-    "scripts/run-review.sh",
-    "scripts/run-stage-6.sh",
-    "scripts/dispatch-task.sh",
     "stages/stage-1.6.md",
     "SCRIPT-SKILL-FLOW.md",
-    "scripts/dispatch.sh",
     "stages/stage-8.5.md",
     "stages/stage-6.3.md",
-    "PIPELINE-GUIDE.html",
-    "scripts/session-monitor.sh",
     "skill-registry.md",
-    "stages/stage-8.md",
     "stages/stage-7.md",
-    "stages/stage-6.md",
-    "stages/stage-5.5.md",
-    "stages/stage-5.md",
-    "stages/stage-4.md",
-    "stages/stage-3.md"
+    "stages/stage-6.md"
   ]
 }

@@ -28,7 +28,10 @@
 - [ ] 包含每个开发者的确认段落
 - [ ] api-schema.md 存在且 ≥30行
 - [ ] api-schema.md 包含 API 路径定义（至少3个接口）
+- [ ] 追溯完整性：PRD 的每个 REQ 都有任务覆盖（pipeline-check.sh 自动检查）
+- [ ] 追溯完整性：PRD 的每个 REQ 都有测试用例覆盖（pipeline-check.sh 自动检查）
 
 ## 约束
 - 无合同限制
 - 此阶段通过后，QA-TEST-STRATEGY.md 应归档到 docs/
+- 如果发现 REQ 未被任务或测试覆盖，必须补充后才能通过

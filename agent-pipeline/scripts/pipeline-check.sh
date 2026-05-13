@@ -8,42 +8,66 @@ set -eo pipefail
 
 PROJECT_DIR="$1"
 PHASE="$2"
+SIZE="${3:-}"
 
 if [ -z "$PROJECT_DIR" ] || [ -z "$PHASE" ]; then
-  echo "用法: $0 <项目目录> <阶段编号>"
-  echo "示例: $0 .contracts/my-app 1"
+  echo "用法: $0 <项目目录> <阶段编号> [--size small|medium|large]"
+  echo "示例: $0 .contracts/my-app 1 --size small"
+  exit 1
+fi
+
+# 解析 --size 参数
+if [ "$SIZE" = "--size" ]; then
+  echo "用法: $0 <项目目录> <阶段编号> [--size small|medium|large]"
   exit 1
 fi
 
 ERRORS=0
 WARNINGS=0
 
+# ─── 加载共享配置 ───
+CONF_FILE="$PIPELINE_ROOT/config/pipeline-stages.conf"
+load_conf() {
+  local key="$1"
+  local default="${2:-}"
+  if [ -f "$CONF_FILE" ]; then
+    grep "^${key}=" "$CONF_FILE" 2>/dev/null | head -1 | cut -d= -f2- || echo "$default"
+  else
+    echo "$default"
+  fi
+}
+
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "📋 流水线检查 | 阶段 $PHASE"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
-# 获取阶段对应的文件名和最小行数
+# 获取阶段对应的文件名和最小行数（从配置文件读取）
 get_phase_file() {
-  case "$1" in
-    0) echo "PROJECT-PLAN.md:30" ;;
-    1) echo "PRD.md:200" ;;
-    1.6) echo "prd-feedback.md:10" ;;
-    1.5) echo "cross-review-pm.md:50" ;;
-    2) echo "ARCHITECTURE.md:100" ;;
-    2.5) echo "cross-review-arch.md:40" ;;
-    2.6) echo "architecture-feedback.md:10" ;;
-    3) echo "UX-DESIGN.md:80" ;;
-    3.5) echo "cross-review-ux-to-ui.md:20" ;;
-    4) echo "UI-DESIGN.md:80" ;;
-    4.5) echo "cross-review-ui-to-ux.md:20" ;;
-    5) echo "TASK-LIST.md:50" ;;
-    # test-plan.md 由 QA 产出，单独检查
-    # TEST-PLAN.md 在 TASK-LIST.md 同目录，最小30行
-    5.5) echo "confirm-tasks.md:20" ;;
-    8.5) echo "pm-acceptance.md:30" ;;
-    9) echo "ACCEPTANCE-REPORT.md:50" ;;
-    # health-dashboard.md 由协调者维护，单独检查
-    *) echo "" ;;
+  load_conf "PHASE_${1}_FILE" ""
+}
+
+# 统计有效行数（排除空行）
+count_lines() {
+  local file="$1"
+  grep -cve '^\s*$' "$file" 2>/dev/null || echo 0
+}
+
+# 从配置读取角色列表（逗号分隔 → 数组）
+load_roles() {
+  local key="$1"
+  local csv=$(load_conf "$key" "")
+  if [ -n "$csv" ]; then
+    echo "$csv" | tr ',' '\n'
+  fi
+}
+
+# 规模系数（--size 参数影响行数门槛）
+get_size_multiplier() {
+  case "$SIZE" in
+    small)  echo "50" ;;   # 小项目门槛减半
+    medium) echo "75" ;;   # 中项目门槛 75%
+    large)  echo "100" ;;  # 大项目原样
+    *)      echo "100" ;;
   esac
 }
 
@@ -51,7 +75,7 @@ get_phase_file() {
 check_file() {
   local FILE="$1"
   local MIN_LINES="$2"
-  local FULL_PATH="$PROJECT_DIR/$PHASE/$FILE"
+  local FULL_PATH="$PROJECT_DIR/pipeline/$PHASE/$FILE"
 
   echo ""
   echo "📄 检查文件: $FILE"
@@ -68,9 +92,14 @@ check_file() {
     return
   fi
 
-  LINES=$(wc -l < "$FULL_PATH" | tr -d ' ')
+  # 应用规模系数
+  local MULTIPLIER=$(get_size_multiplier)
+  MIN_LINES=$((MIN_LINES * MULTIPLIER / 100))
+  [ "$MIN_LINES" -lt 1 ] && MIN_LINES=1
+
+  LINES=$(count_lines "$FULL_PATH")
   echo "  ✅ 文件存在"
-  echo "  📏 行数: $LINES (最低要求: $MIN_LINES)"
+  echo "  📏 有效行数: $LINES (最低要求: $MIN_LINES)"
 
   if [ "$LINES" -lt "$MIN_LINES" ]; then
     DIFF=$((MIN_LINES - LINES))
@@ -96,14 +125,14 @@ check_code() {
   echo ""
   echo "📁 检查代码产出"
 
-  local CODE_DIR="$PROJECT_DIR/6"
+  local CODE_DIR="$PROJECT_DIR"
   if [ ! -d "$CODE_DIR" ]; then
-    echo "  ❌ 阶段6目录不存在: $CODE_DIR"
+    echo "  ❌ 项目目录不存在: $CODE_DIR"
     ERRORS=$((ERRORS + 1))
     return
   fi
 
-  local CODE_FILES=$(find "$CODE_DIR" \( -name "*.ts" -o -name "*.java" -o -name "*.vue" -o -name "*.js" -o -name "*.py" -o -name "*.sql" -o -name "*.xml" \) -type f 2>/dev/null | wc -l | tr -d ' ')
+  local CODE_FILES=$(find "$CODE_DIR" -not -path "*/pipeline/*" -not -path "*/node_modules/*" -not -path "*/.git/*" \( -name "*.ts" -o -name "*.java" -o -name "*.vue" -o -name "*.js" -o -name "*.py" -o -name "*.sql" -o -name "*.xml" \) -type f 2>/dev/null | wc -l | tr -d ' ')
 
   echo "  代码文件数: $CODE_FILES"
 
@@ -115,7 +144,7 @@ check_code() {
   fi
 
   # 检查进度文件（逐任务调度产出）
-  local PROGRESS_FILE="$PROJECT_DIR/6/progress.json"
+  local PROGRESS_FILE="$PROJECT_DIR/pipeline/6/progress.json"
   if [ -f "$PROGRESS_FILE" ]; then
     local COMPLETED=$(python3 -c "import json; d=json.load(open('$PROGRESS_FILE')); print(sum(1 for v in d.values() if isinstance(v,dict) and v.get('status')=='completed'))" 2>/dev/null || echo 0)
     local FAILED=$(python3 -c "import json; d=json.load(open('$PROGRESS_FILE')); print(sum(1 for v in d.values() if isinstance(v,dict) and v.get('status')=='failed'))" 2>/dev/null || echo 0)
@@ -134,7 +163,7 @@ check_code() {
   fi
 
   # 检查任务产出摘要（逐任务调度产出）
-  local TASK_REPORTS_DIR="$PROJECT_DIR/6/task-reports"
+  local TASK_REPORTS_DIR="$PROJECT_DIR/pipeline/6/task-reports"
   if [ -d "$TASK_REPORTS_DIR" ]; then
     local REPORT_COUNT=$(find "$TASK_REPORTS_DIR" -name "T-*.md" -type f | wc -l | tr -d ' ')
     echo "  📋 task-reports/ 产出摘要数: $REPORT_COUNT"
@@ -227,7 +256,7 @@ check_cross_review_pm() {
   echo ""
   echo "📊 检查 PRD 交叉评审"
 
-  local REVIEW_FILE="$PROJECT_DIR/1.5/cross-review-pm.md"
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/1.5/cross-review-pm.md"
 
   if [ ! -f "$REVIEW_FILE" ] || [ ! -s "$REVIEW_FILE" ]; then
     echo "  ❌ cross-review-pm.md 不存在或为空"
@@ -242,9 +271,9 @@ check_cross_review_pm() {
     ERRORS=$((ERRORS + 1))
   fi
 
-  # 检查四个角色的段落
-  local ROLES=("架构师" "QA" "开发1" "开发2")
-  for role in "${ROLES[@]}"; do
+  # 检查角色段落（从配置读取）
+  while IFS= read -r role; do
+    [ -z "$role" ] && continue
     if grep -qE "^##.*${role}" "$REVIEW_FILE" 2>/dev/null; then
       echo "  ✅ ${role} 评审段落存在"
       local SECTION=$(awk "/^##.*${role}/,/^##/" "$REVIEW_FILE" 2>/dev/null)
@@ -259,7 +288,7 @@ check_cross_review_pm() {
       echo "  ❌ 缺少 ${role} 评审段落"
       ERRORS=$((ERRORS + 1))
     fi
-  done
+  done <<< "$(load_roles "REVIEW_1.5_ROLES")"
 }
 
 # 架构交叉评审检查（阶段 2.5）
@@ -267,7 +296,7 @@ check_cross_review_arch() {
   echo ""
   echo "📊 检查架构交叉评审"
 
-  local REVIEW_FILE="$PROJECT_DIR/2.5/cross-review-arch.md"
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/2.5/cross-review-arch.md"
 
   if [ ! -f "$REVIEW_FILE" ] || [ ! -s "$REVIEW_FILE" ]; then
     echo "  ❌ cross-review-arch.md 不存在或为空"
@@ -282,12 +311,11 @@ check_cross_review_arch() {
     ERRORS=$((ERRORS + 1))
   fi
 
-  # 检查四个角色的段落
-  local ROLES=("开发1" "开发2" "QA" "PM")
-  for role in "${ROLES[@]}"; do
+  # 检查角色段落（从配置读取）
+  while IFS= read -r role; do
+    [ -z "$role" ] && continue
     if grep -qE "^##.*${role}" "$REVIEW_FILE" 2>/dev/null; then
       echo "  ✅ ${role} 评审段落存在"
-      # 检查该段落的检查点数量（## 到下一个 ## 之间）
       local SECTION=$(awk "/^##.*${role}/,/^##/" "$REVIEW_FILE" 2>/dev/null)
       local CHECKS=$(echo "$SECTION" | grep -cE '^\s*[0-9]+\.|^-\s*\*\*|检查点|问题|建议' 2>/dev/null || echo 0)
       if [ "$CHECKS" -lt 3 ]; then
@@ -300,16 +328,16 @@ check_cross_review_arch() {
       echo "  ❌ 缺少 ${role} 评审段落"
       ERRORS=$((ERRORS + 1))
     fi
-  done
+  done <<< "$(load_roles "REVIEW_2.5_ROLES")"
 }
 
 check_review() {
   echo ""
   echo "📊 检查审查报告"
 
-  local REVIEW_FILE="$PROJECT_DIR/7/review-report.md"
-  local SCREENSHOTS_DIR="$PROJECT_DIR/7/screenshots"
-  local TASK_REVIEWS_DIR="$PROJECT_DIR/7/task-reviews"
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/7/review-report.md"
+  local SCREENSHOTS_DIR="$PROJECT_DIR/pipeline/7/screenshots"
+  local TASK_REVIEWS_DIR="$PROJECT_DIR/pipeline/7/task-reviews"
 
   # 检查逐任务审查产出
   if [ -d "$TASK_REVIEWS_DIR" ]; then
@@ -371,7 +399,7 @@ check_test_case_review() {
   echo ""
   echo "📋 检查 PM 测试用例评审"
 
-  local REVIEW_FILE="$PROJECT_DIR/8/test-case-review.md"
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/8/test-case-review.md"
 
   if [ ! -f "$REVIEW_FILE" ] || [ ! -s "$REVIEW_FILE" ]; then
     echo "  ❌ test-case-review.md 不存在或为空"
@@ -408,7 +436,7 @@ check_ux_review() {
   echo ""
   echo "📋 检查 UX 审查"
 
-  local REVIEW_FILE="$PROJECT_DIR/3/ux-review.md"
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/3/ux-review.md"
 
   if [ ! -f "$REVIEW_FILE" ] || [ ! -s "$REVIEW_FILE" ]; then
     echo "  ❌ ux-review.md 不存在或为空"
@@ -443,7 +471,7 @@ check_ui_review() {
   echo ""
   echo "📋 检查 UI 审查"
 
-  local REVIEW_FILE="$PROJECT_DIR/4/ui-review.md"
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/4/ui-review.md"
 
   if [ ! -f "$REVIEW_FILE" ] || [ ! -s "$REVIEW_FILE" ]; then
     echo "  ❌ ui-review.md 不存在或为空"
@@ -480,7 +508,7 @@ check_test() {
   echo ""
   echo "🧪 检查测试报告"
 
-  local TEST_FILE="$PROJECT_DIR/8/test-report.md"
+  local TEST_FILE="$PROJECT_DIR/pipeline/8/test-report.md"
 
   if [ ! -f "$TEST_FILE" ] || [ ! -s "$TEST_FILE" ]; then
     echo "  ❌ 测试报告不存在或为空"
@@ -491,6 +519,44 @@ check_test() {
     if [ "$LINES" -lt 20 ]; then
       echo "  ❌ 测试报告过短"
       ERRORS=$((ERRORS + 1))
+    fi
+
+    # 检查是否包含 REQ 覆盖情况
+    local REQ_MENTIONS=$(grep -cE 'REQ-[0-9]+' "$TEST_FILE" 2>/dev/null || echo 0)
+    if [ "$REQ_MENTIONS" -gt 0 ]; then
+      echo "  ✅ 测试报告提及了 $REQ_MENTIONS 处 REQ-xxx"
+    else
+      echo "  🟡 测试报告未提及任何 REQ-xxx（建议逐 REQ 报告覆盖情况）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  fi
+
+  # E2E 执行验证（关键：防止"写了没跑"）
+  local E2E_DIR="$PROJECT_DIR/tests/e2e"
+  if [ -d "$E2E_DIR" ]; then
+    local E2E_FILES=$(find "$E2E_DIR" -name "*.spec.*" -o -name "*.test.*" 2>/dev/null | wc -l | tr -d ' ')
+    if [ "$E2E_FILES" -gt 0 ]; then
+      # 有 E2E 脚本 → 检查是否真的执行了
+      local QA_REPORTS="$PROJECT_DIR/pipeline/8/qa-reports"
+      local E2E_SCREENSHOTS=0
+      if [ -d "$QA_REPORTS" ]; then
+        E2E_SCREENSHOTS=$(find "$QA_REPORTS" -name "*.png" 2>/dev/null | wc -l | tr -d ' ')
+      fi
+
+      if [ "$E2E_SCREENSHOTS" -eq 0 ]; then
+        echo "  ❌ 有 $E2E_FILES 个 E2E 脚本，但 qa-reports/ 无截图 — E2E 可能未执行"
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ E2E 截图 $E2E_SCREENSHOTS 张（证明已执行）"
+      fi
+
+      # 检查 test-report.md 是否提及 E2E 结果
+      if grep -qiE 'e2e|playwright|端到端' "$TEST_FILE" 2>/dev/null; then
+        echo "  ✅ 测试报告包含 E2E 执行结果"
+      else
+        echo "  🟡 测试报告未提及 E2E 结果（建议补充 E2E 执行情况）"
+        WARNINGS=$((WARNINGS + 1))
+      fi
     fi
   fi
 }
@@ -608,6 +674,161 @@ check_deliverable_docs() {
   ERRORS=$((ERRORS + DELIVERABLE_ERRORS))
 }
 
+# 需求追溯检查（阶段5/5.5/8）
+check_traceability() {
+  local CHECK_STAGE="$1"
+
+  echo ""
+  echo "🔗 检查需求追溯完整性（阶段 $CHECK_STAGE）"
+
+  local PRD_FILE="$PROJECT_DIR/docs/PRD.md"
+  if [ ! -f "$PRD_FILE" ]; then
+    # 尝试阶段1产出
+    PRD_FILE="$PROJECT_DIR/pipeline/1/PRD.md"
+  fi
+
+  if [ ! -f "$PRD_FILE" ]; then
+    echo "  ❌ PRD.md 不存在（docs/ 或 1/ 目录）"
+    ERRORS=$((ERRORS + 1))
+    return
+  fi
+
+  # 提取 PRD 中的 REQ-xxx
+  local PRD_REQS=$(grep -oE 'REQ-[0-9]+' "$PRD_FILE" 2>/dev/null | sort -u)
+  local PRD_REQ_COUNT=$(echo "$PRD_REQS" | grep -c 'REQ-' 2>/dev/null || echo 0)
+
+  if [ "$PRD_REQ_COUNT" -eq 0 ]; then
+    echo "  ❌ PRD.md 中未找到 REQ-xxx 编号（功能清单必须用 REQ-xxx 编号）"
+    ERRORS=$((ERRORS + 1))
+    return
+  fi
+
+  echo "  📋 PRD 中的 REQ 数量: $PRD_REQ_COUNT"
+
+  # 阶段5：检查 TASK-LIST.md 的需求覆盖
+  if [ "$CHECK_STAGE" = "5" ] || [ "$CHECK_STAGE" = "5.5" ] || [ "$CHECK_STAGE" = "8" ]; then
+    local TASK_FILE="$PROJECT_DIR/pipeline/5/TASK-LIST.md"
+    if [ -f "$TASK_FILE" ]; then
+      local TASK_REQS=$(grep -oE 'REQ-[0-9]+' "$TASK_FILE" 2>/dev/null | sort -u)
+      local TASK_REQ_COUNT=$(echo "$TASK_REQS" | grep -c 'REQ-' 2>/dev/null || echo 0)
+
+      echo "  📋 任务覆盖的 REQ 数量: $TASK_REQ_COUNT"
+
+      # 找出未被任务覆盖的 REQ
+      local UNCOVERED_TASK_REQS=$(comm -23 <(echo "$PRD_REQS") <(echo "$TASK_REQS") 2>/dev/null)
+      if [ -n "$UNCOVERED_TASK_REQS" ]; then
+        echo "  ❌ 以下 REQ 未被任何任务覆盖:"
+        echo "$UNCOVERED_TASK_REQS" | while read -r req; do
+          [ -n "$req" ] && echo "     - $req"
+        done
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ 所有 REQ 都有任务覆盖"
+      fi
+    else
+      echo "  ⚠️ TASK-LIST.md 不存在，跳过任务覆盖检查"
+    fi
+  fi
+
+  # 阶段5.5/8：检查 test-plan.md 的测试覆盖
+  if [ "$CHECK_STAGE" = "5.5" ] || [ "$CHECK_STAGE" = "8" ]; then
+    local TESTPLAN_FILE="$PROJECT_DIR/pipeline/5/test-plan.md"
+    if [ -f "$TESTPLAN_FILE" ]; then
+      local TEST_REQS=$(grep -oE 'REQ-[0-9]+' "$TESTPLAN_FILE" 2>/dev/null | sort -u)
+      local TEST_REQ_COUNT=$(echo "$TEST_REQS" | grep -c 'REQ-' 2>/dev/null || echo 0)
+
+      echo "  📋 测试覆盖的 REQ 数量: $TEST_REQ_COUNT"
+
+      # 找出未被测试覆盖的 REQ
+      local UNCOVERED_TEST_REQS=$(comm -23 <(echo "$PRD_REQS") <(echo "$TEST_REQS") 2>/dev/null)
+      if [ -n "$UNCOVERED_TEST_REQS" ]; then
+        echo "  ❌ 以下 REQ 未被测试用例覆盖:"
+        echo "$UNCOVERED_TEST_REQS" | while read -r req; do
+          [ -n "$req" ] && echo "     - $req"
+        done
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ 所有 REQ 都有测试用例覆盖"
+      fi
+    else
+      echo "  ⚠️ test-plan.md 不存在，跳过测试覆盖检查"
+    fi
+  fi
+
+  # 阶段8：检查测试报告是否逐 REQ 报告
+  if [ "$CHECK_STAGE" = "8" ]; then
+    local TEST_REPORT="$PROJECT_DIR/pipeline/8/test-report.md"
+    if [ -f "$TEST_REPORT" ]; then
+      local REPORT_REQS=$(grep -oE 'REQ-[0-9]+' "$TEST_REPORT" 2>/dev/null | sort -u)
+      local REPORT_REQ_COUNT=$(echo "$REPORT_REQS" | grep -c 'REQ-' 2>/dev/null || echo 0)
+
+      echo "  📋 测试报告提及的 REQ 数量: $REPORT_REQ_COUNT"
+
+      if [ "$REPORT_REQ_COUNT" -lt "$PRD_REQ_COUNT" ]; then
+        local MISSING_REPORT_REQS=$(comm -23 <(echo "$PRD_REQS") <(echo "$REPORT_REQS") 2>/dev/null)
+        if [ -n "$MISSING_REPORT_REQS" ]; then
+          echo "  🟡 测试报告未提及以下 REQ:"
+          echo "$MISSING_REPORT_REQS" | while read -r req; do
+            [ -n "$req" ] && echo "     - $req"
+          done
+          WARNINGS=$((WARNINGS + 1))
+        fi
+      else
+        echo "  ✅ 测试报告覆盖了所有 REQ"
+      fi
+    fi
+  fi
+}
+
+# 技术方案实现检查（阶段7/8）
+check_architecture_implementation() {
+  echo ""
+  echo "🏗️ 检查技术方案实现情况"
+
+  local ARCH_FILE="$PROJECT_DIR/docs/ARCHITECTURE.md"
+  if [ ! -f "$ARCH_FILE" ]; then
+    ARCH_FILE="$PROJECT_DIR/pipeline/2/ARCHITECTURE.md"
+  fi
+
+  if [ ! -f "$ARCH_FILE" ]; then
+    echo "  ⚠️ ARCHITECTURE.md 不存在，跳过"
+    return
+  fi
+
+  # 提取架构中的关键设计点（模块、接口、模式）
+  local ARCH_SECTIONS=$(grep -cE '^##' "$ARCH_FILE" 2>/dev/null || echo 0)
+  echo "  📋 架构文档章节数: $ARCH_SECTIONS"
+
+  # 检查代码中是否实现了架构提到的关键模块
+  local CODE_DIR="$PROJECT_DIR"
+  if [ ! -d "$CODE_DIR" ]; then
+    echo "  ⚠️ 项目目录不存在，跳过"
+    return
+  fi
+
+  # 提取架构中提到的类名/模块名（驼峰命名）
+  local ARCH_NAMES=$(grep -oE '[A-Z][a-z]+([A-Z][a-z]+)+[A-Za-z]*' "$ARCH_FILE" 2>/dev/null | sort -u | head -20)
+  local MISSING_IMPL=0
+
+  if [ -n "$ARCH_NAMES" ]; then
+    while IFS= read -r name; do
+      [ -z "$name" ] && continue
+      # 在代码中搜索该类名
+      if ! grep -r "$name" "$CODE_DIR" --exclude-dir=pipeline --exclude-dir=node_modules --exclude-dir=.git --include="*.java" --include="*.ts" --include="*.py" --include="*.vue" -l 2>/dev/null | head -1 > /dev/null; then
+        echo "  🟡 架构中提到的 '$name' 在代码中未找到实现"
+        MISSING_IMPL=$((MISSING_IMPL + 1))
+      fi
+    done <<< "$ARCH_NAMES"
+  fi
+
+  if [ "$MISSING_IMPL" -gt 0 ]; then
+    echo "  🟡 有 $MISSING_IMPL 个架构设计点未在代码中找到对应实现"
+    WARNINGS=$((WARNINGS + 1))
+  else
+    echo "  ✅ 架构设计点在代码中都有对应实现"
+  fi
+}
+
 # 通用检查：沟通记录
 check_communications() {
   echo ""
@@ -635,8 +856,8 @@ check_test_review() {
   echo ""
   echo "🧪 检查测试交叉审查"
 
-  local TEST_REVIEW_DIR="$PROJECT_DIR/7/test-reviews"
-  local TEST_REVIEW_FILE="$PROJECT_DIR/7/test-review.md"
+  local TEST_REVIEW_DIR="$PROJECT_DIR/pipeline/7/test-reviews"
+  local TEST_REVIEW_FILE="$PROJECT_DIR/pipeline/7/test-review.md"
 
   # 检查 test-reviews 目录
   if [ ! -d "$TEST_REVIEW_DIR" ]; then
@@ -706,7 +927,7 @@ check_architecture_reference() {
   echo ""
   echo "🏗️ 检查架构引用（阶段7）"
 
-  local REVIEW_FILE="$PROJECT_DIR/7/review-report.md"
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/7/review-report.md"
   if [ ! -f "$REVIEW_FILE" ]; then
     echo "  ⚠️ 审查报告不存在，跳过架构引用检查"
     return
@@ -722,21 +943,100 @@ check_architecture_reference() {
   fi
 }
 
+# 覆盖率检查（阶段6/8）
+check_coverage() {
+  echo ""
+  echo "📊 检查测试覆盖率（阈值 95%）"
+
+  local CODE_DIR="$PROJECT_DIR"
+
+  # JaCoCo 报告（Java）
+  local JACOCO_HTML="$CODE_DIR/target/site/jacoco/index.html"
+  if [ -f "$JACOCO_HTML" ]; then
+    # 从 JaCoCo HTML 提取总行覆盖率
+    local JACOCO_COV=$(grep -oE 'Total[^<]*' "$JACOCO_HTML" 2>/dev/null | grep -oE '[0-9]+%' | head -1)
+    if [ -n "$JACOCO_COV" ]; then
+      local COV_NUM=$(echo "$JACOCO_COV" | tr -d '%')
+      if [ "$COV_NUM" -ge 95 ]; then
+        echo "  ✅ JaCoCo 行覆盖率: $JACOCO_COV"
+      else
+        echo "  ❌ JaCoCo 行覆盖率: $JACOCO_COV（低于 95%）"
+        ERRORS=$((ERRORS + 1))
+      fi
+    else
+      echo "  🟡 JaCoCo 报告存在但无法解析覆盖率"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  fi
+
+  # c8 报告（Node.js）
+  local C8_REPORT="$PROJECT_DIR/coverage/index.html"
+  if [ -f "$C8_REPORT" ]; then
+    local C8_COV=$(grep -oE 'Lines[^<]*[0-9]+%' "$C8_REPORT" 2>/dev/null | grep -oE '[0-9]+%' | head -1)
+    if [ -n "$C8_COV" ]; then
+      local COV_NUM=$(echo "$C8_COV" | tr -d '%')
+      if [ "$COV_NUM" -ge 95 ]; then
+        echo "  ✅ c8 行覆盖率: $C8_COV"
+      else
+        echo "  ❌ c8 行覆盖率: $C8_COV（低于 95%）"
+        ERRORS=$((ERRORS + 1))
+      fi
+    fi
+  fi
+
+  # pytest-cov 报告（Python）
+  local PYCOV_HTML="$PROJECT_DIR/htmlcov/index.html"
+  if [ -f "$PYCOV_HTML" ]; then
+    local PY_COV=$(grep -oE 'total[^<]*[0-9]+%' "$PYCOV_HTML" 2>/dev/null | grep -oE '[0-9]+%' | head -1)
+    if [ -n "$PY_COV" ]; then
+      local COV_NUM=$(echo "$PY_COV" | tr -d '%')
+      if [ "$COV_NUM" -ge 95 ]; then
+        echo "  ✅ pytest-cov 行覆盖率: $PY_COV"
+      else
+        echo "  ❌ pytest-cov 行覆盖率: $PY_COV（低于 95%）"
+        ERRORS=$((ERRORS + 1))
+      fi
+    fi
+  fi
+
+  # 没有找到任何覆盖率报告
+  if [ ! -f "$JACOCO_HTML" ] && [ ! -f "$C8_REPORT" ] && [ ! -f "$PYCOV_HTML" ]; then
+    echo "  ❌ 未找到覆盖率报告（JaCoCo/c8/pytest-cov）"
+    echo "     阶段2架构师应已配置覆盖率工具（阈值 95%）"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  # 检查集成测试是否连接真实 DB（非 mock）
+  local INT_DIR="$PROJECT_DIR/tests/integration"
+  if [ -d "$INT_DIR" ]; then
+    local MOCK_COUNT=$(grep -rl "mock\|Mock\|@Mock\|jest.mock\|unittest.mock" "$INT_DIR" 2>/dev/null | wc -l | tr -d ' ')
+    local TOTAL_INT=$(find "$INT_DIR" -name "*.test.*" -o -name "*Test.*" -o -name "test_*" 2>/dev/null | wc -l | tr -d ' ')
+    if [ "$TOTAL_INT" -gt 0 ]; then
+      if [ "$MOCK_COUNT" -gt 0 ]; then
+        echo "  🟡 集成测试中 $MOCK_COUNT 个文件使用了 mock（应连接真实 DB）"
+        WARNINGS=$((WARNINGS + 1))
+      else
+        echo "  ✅ 集成测试未使用 mock"
+      fi
+    fi
+  fi
+}
+
 # 开发产出分层架构检查（阶段6）
 check_layered_architecture() {
   echo ""
   echo "🏗️ 检查分层架构（阶段6）"
 
-  local CODE_DIR="$PROJECT_DIR/6"
+  local CODE_DIR="$PROJECT_DIR"
   if [ ! -d "$CODE_DIR" ]; then
-    echo "  ⚠️ 代码目录不存在，跳过分层检查"
+    echo "  ⚠️ 项目目录不存在，跳过分层检查"
     return
   fi
 
   local VIOLATIONS=0
 
   # Controller 是否直接 import Repository/Mapper
-  local CONTROLLER_FILES=$(find "$CODE_DIR" -name "*Controller*" -type f 2>/dev/null)
+  local CONTROLLER_FILES=$(find "$CODE_DIR" -not -path "*/pipeline/*" -not -path "*/node_modules/*" -name "*Controller*" -type f 2>/dev/null)
   if [ -n "$CONTROLLER_FILES" ]; then
     local REPO_IMPORTS=$(echo "$CONTROLLER_FILES" | xargs grep -l "import.*Repository\|import.*Mapper" 2>/dev/null | wc -l | tr -d ' ')
     if [ "$REPO_IMPORTS" -gt 0 ]; then
@@ -748,7 +1048,7 @@ check_layered_architecture() {
   fi
 
   # Service 是否 import HttpServletRequest
-  local SERVICE_FILES=$(find "$CODE_DIR" -name "*Service*" -type f 2>/dev/null)
+  local SERVICE_FILES=$(find "$CODE_DIR" -not -path "*/pipeline/*" -not -path "*/node_modules/*" -name "*Service*" -type f 2>/dev/null)
   if [ -n "$SERVICE_FILES" ]; then
     local HTTP_IMPORTS=$(echo "$SERVICE_FILES" | xargs grep -l "import.*HttpServletRequest\|import.*HttpServletResponse" 2>/dev/null | wc -l | tr -d ' ')
     if [ "$HTTP_IMPORTS" -gt 0 ]; then
@@ -792,7 +1092,7 @@ check_pm_acceptance() {
   echo ""
   echo "📋 检查 PM 验收报告"
 
-  local ACCEPTANCE_FILE="$PROJECT_DIR/8.5/pm-acceptance.md"
+  local ACCEPTANCE_FILE="$PROJECT_DIR/pipeline/8.5/pm-acceptance.md"
   if [ ! -f "$ACCEPTANCE_FILE" ] || [ ! -s "$ACCEPTANCE_FILE" ]; then
     echo "  ❌ pm-acceptance.md 不存在或为空"
     ERRORS=$((ERRORS + 1))
@@ -829,7 +1129,7 @@ check_api_schema() {
   echo ""
   echo "📋 检查接口文档"
 
-  local API_FILE="$PROJECT_DIR/5.5/api-schema.md"
+  local API_FILE="$PROJECT_DIR/pipeline/5.5/api-schema.md"
   if [ ! -f "$API_FILE" ] || [ ! -s "$API_FILE" ]; then
     echo "  ❌ api-schema.md 不存在或为空"
     ERRORS=$((ERRORS + 1))
@@ -933,21 +1233,590 @@ check_html_draft() {
   fi
 }
 
+# ─── 阶段0：项目初始化检查 ───
+check_project_init() {
+  echo ""
+  echo "🚀 检查项目初始化"
+
+  # health-dashboard.md
+  local HD_FILE="$PROJECT_DIR/pipeline/0/health-dashboard.md"
+  if [ -f "$HD_FILE" ] && [ -s "$HD_FILE" ]; then
+    echo "  ✅ health-dashboard.md 存在"
+  else
+    echo "  ❌ health-dashboard.md 不存在或为空"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  # _index.json 合法 JSON
+  local INDEX_FILE="$PROJECT_DIR/pipeline/0/_index.json"
+  if [ -f "$INDEX_FILE" ]; then
+    if python3 -c "import json; json.load(open('$INDEX_FILE'))" 2>/dev/null; then
+      echo "  ✅ _index.json 合法 JSON"
+    else
+      echo "  ❌ _index.json 不是合法 JSON"
+      ERRORS=$((ERRORS + 1))
+    fi
+  else
+    echo "  ❌ _index.json 不存在"
+    ERRORS=$((ERRORS + 1))
+  fi
+}
+
+# ─── 阶段1：PRD 深度检查 ───
+check_prd_quality() {
+  echo ""
+  echo "📝 检查 PRD 质量"
+
+  local PRD_FILE="$PROJECT_DIR/pipeline/1/PRD.md"
+  if [ ! -f "$PRD_FILE" ]; then
+    return
+  fi
+
+  # REQ 数量 ≥3
+  local REQ_COUNT=$(grep -cE '### REQ-[0-9]+' "$PRD_FILE" 2>/dev/null || echo 0)
+  if [ "$REQ_COUNT" -lt 3 ]; then
+    echo "  ❌ REQ 数量不足（$REQ_COUNT 个，最低 3 个）"
+    ERRORS=$((ERRORS + 1))
+  else
+    echo "  ✅ REQ 数量: $REQ_COUNT"
+  fi
+
+  # 每个 REQ 包含验收标准
+  local REQ_WITHOUT_AC=0
+  while IFS= read -r req_line; do
+    local req_id=$(echo "$req_line" | grep -oE 'REQ-[0-9]+')
+    [ -z "$req_id" ] && continue
+    # 检查该 REQ 到下一个 REQ 之间是否有验收标准
+    local req_block=$(awk "/### $req_id/{found=1;next} /### REQ-/{found=0} found" "$PRD_FILE")
+    if ! echo "$req_block" | grep -qE '验收标准|验收条件|Acceptance'; then
+      echo "  🟡 $req_id 缺少验收标准"
+      REQ_WITHOUT_AC=$((REQ_WITHOUT_AC + 1))
+    fi
+  done < <(grep -E '### REQ-[0-9]+' "$PRD_FILE" 2>/dev/null)
+  if [ "$REQ_WITHOUT_AC" -gt 0 ]; then
+    echo "  🟡 $REQ_WITHOUT_AC 个 REQ 缺少验收标准"
+    WARNINGS=$((WARNINGS + 1))
+  else
+    echo "  ✅ 每个 REQ 都有验收标准"
+  fi
+
+  # _config.json size 字段
+  local CONFIG_FILE="$PROJECT_DIR/_config.json"
+  if [ -f "$CONFIG_FILE" ]; then
+    local SIZE=$(python3 -c "import json; d=json.load(open('$CONFIG_FILE')); print(d.get('size',''))" 2>/dev/null)
+    case "$SIZE" in
+      large|medium|small)
+        echo "  ✅ _config.json size = $SIZE"
+        ;;
+      *)
+        echo "  ❌ _config.json size 字段缺失或无效（应为 large/medium/small）"
+        ERRORS=$((ERRORS + 1))
+        ;;
+    esac
+  else
+    echo "  ❌ _config.json 不存在（阶段1 PRD 签收后应创建）"
+    ERRORS=$((ERRORS + 1))
+  fi
+}
+
+# ─── 阶段2：架构产出物检查 ───
+check_architecture_outputs() {
+  echo ""
+  echo "🏗️ 检查架构产出物"
+
+  # docker-compose.test.yml
+  local DC_FILE="$PROJECT_DIR/docker-compose.test.yml"
+  if [ -f "$DC_FILE" ] && [ -s "$DC_FILE" ]; then
+    echo "  ✅ docker-compose.test.yml 存在"
+    # 检查是否有 healthcheck
+    if grep -q "healthcheck" "$DC_FILE" 2>/dev/null; then
+      echo "  ✅ 包含 healthcheck 配置"
+    else
+      echo "  🟡 docker-compose.test.yml 缺少 healthcheck（建议添加）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  else
+    echo "  ❌ docker-compose.test.yml 不存在（架构师应产出测试环境定义）"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  # 覆盖率工具配置
+  local POM_FILE="$PROJECT_DIR/pom.xml"
+  local PACKAGE_FILE="$PROJECT_DIR/package.json"
+  local PYPROJECT_FILE="$PROJECT_DIR/pyproject.toml"
+  local COVERAGE_FOUND=false
+
+  if [ -f "$POM_FILE" ]; then
+    if grep -q "jacoco" "$POM_FILE" 2>/dev/null; then
+      echo "  ✅ pom.xml 包含 JaCoCo 配置"
+      COVERAGE_FOUND=true
+      # 检查阈值是否为 95%
+      if grep -q "0.95" "$POM_FILE" 2>/dev/null; then
+        echo "  ✅ JaCoCo 阈值 ≥ 95%"
+      else
+        echo "  🟡 JaCoCo 阈值未设为 95%（请确认）"
+        WARNINGS=$((WARNINGS + 1))
+      fi
+    fi
+  fi
+  if [ -f "$PACKAGE_FILE" ]; then
+    if grep -qE "c8|nyc|coverage" "$PACKAGE_FILE" 2>/dev/null; then
+      echo "  ✅ package.json 包含覆盖率工具配置"
+      COVERAGE_FOUND=true
+    fi
+  fi
+  if [ -f "$PYPROJECT_FILE" ]; then
+    if grep -q "cov" "$PYPROJECT_FILE" 2>/dev/null; then
+      echo "  ✅ pyproject.toml 包含 pytest-cov 配置"
+      COVERAGE_FOUND=true
+    fi
+  fi
+  if [ "$COVERAGE_FOUND" = false ]; then
+    echo "  ❌ 未找到覆盖率工具配置（JaCoCo/c8/pytest-cov）"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  # ARCHITECTURE.md 结构要求
+  local ARCH_FILE="$PROJECT_DIR/pipeline/2/ARCHITECTURE.md"
+  if [ -f "$ARCH_FILE" ]; then
+    # 风险识别 ≥3
+    local RISK_COUNT=$(grep -ciE '风险|Risk|⚠️' "$ARCH_FILE" 2>/dev/null || echo 0)
+    if [ "$RISK_COUNT" -lt 3 ]; then
+      echo "  🟡 ARCHITECTURE.md 风险识别偏少（$RISK_COUNT 处，建议 ≥3）"
+      WARNINGS=$((WARNINGS + 1))
+    else
+      echo "  ✅ 风险识别: $RISK_COUNT 处"
+    fi
+  fi
+}
+
+# ─── 阶段5：任务分解深度检查 ───
+check_task_list_quality() {
+  echo ""
+  echo "📋 检查任务分解质量"
+
+  local TASK_FILE="$PROJECT_DIR/pipeline/5/TASK-LIST.md"
+  local TEST_PLAN="$PROJECT_DIR/pipeline/5/test-plan.md"
+
+  # test-plan.md 存在且 ≥30 行
+  if [ -f "$TEST_PLAN" ] && [ -s "$TEST_PLAN" ]; then
+    local TP_LINES=$(wc -l < "$TEST_PLAN" | tr -d ' ')
+    if [ "$TP_LINES" -lt 30 ]; then
+      echo "  ❌ test-plan.md 过短（${TP_LINES}行，最低30行）"
+      ERRORS=$((ERRORS + 1))
+    else
+      echo "  ✅ test-plan.md 存在（${TP_LINES}行）"
+    fi
+  else
+    echo "  ❌ test-plan.md 不存在或为空（QA 应在阶段5同步产出）"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  [ ! -f "$TASK_FILE" ] && return
+
+  # 每个任务必须有 **需求** 字段
+  local TASK_COUNT=$(grep -cE '### T-[0-9]+' "$TASK_FILE" 2>/dev/null || echo 0)
+  local TASKS_WITH_REQ=$(grep -cE '\*\*需求\*\*:' "$TASK_FILE" 2>/dev/null || echo 0)
+  if [ "$TASK_COUNT" -gt 0 ]; then
+    if [ "$TASKS_WITH_REQ" -lt "$TASK_COUNT" ]; then
+      echo "  ❌ $TASK_COUNT 个任务中只有 $TASKS_WITH_REQ 个有 **需求** 字段（每个任务必须关联 REQ-xxx）"
+      ERRORS=$((ERRORS + 1))
+    else
+      echo "  ✅ 每个任务都有 **需求** 字段"
+    fi
+  fi
+
+  # 每个任务必须有 **并发组** 字段
+  local TASKS_WITH_GROUP=$(grep -cE '\*\*并发组\*\*:' "$TASK_FILE" 2>/dev/null || echo 0)
+  if [ "$TASK_COUNT" -gt 0 ] && [ "$TASKS_WITH_GROUP" -lt "$TASK_COUNT" ]; then
+    echo "  🟡 $TASK_COUNT 个任务中只有 $TASKS_WITH_GROUP 个有 **并发组** 字段"
+    WARNINGS=$((WARNINGS + 1))
+  fi
+
+  # 开发者任务均衡（差异 ≤2）
+  local DEV1=$(grep -c "\*\*开发者\*\*:\s*dev1" "$TASK_FILE" 2>/dev/null || echo 0)
+  local DEV2=$(grep -c "\*\*开发者\*\*:\s*dev2" "$TASK_FILE" 2>/dev/null || echo 0)
+  local DEV3=$(grep -c "\*\*开发者\*\*:\s*dev3" "$TASK_FILE" 2>/dev/null || echo 0)
+  local MAX=$DEV1; local MIN=$DEV1
+  [ "$DEV2" -gt "$MAX" ] && MAX=$DEV2; [ "$DEV3" -gt "$MAX" ] && MAX=$DEV3
+  [ "$DEV2" -lt "$MIN" ] && MIN=$DEV2; [ "$DEV3" -lt "$MIN" ] && MIN=$DEV3
+  local DIFF=$((MAX - MIN))
+  if [ "$DIFF" -gt 2 ]; then
+    echo "  ❌ 开发者任务分配不均衡（dev1=$DEV1, dev2=$DEV2, dev3=$DEV3, 差异=$DIFF, 应≤2）"
+    ERRORS=$((ERRORS + 1))
+  else
+    echo "  ✅ 开发者任务均衡（dev1=$DEV1, dev2=$DEV2, dev3=$DEV3）"
+  fi
+
+  # 禁止优先级字段
+  if grep -qE '\*\*优先级\*\*|P0|P1|P2' "$TASK_FILE" 2>/dev/null; then
+    echo "  🟡 TASK-LIST.md 包含优先级字段（不做的一律不拆，不应有优先级）"
+    WARNINGS=$((WARNINGS + 1))
+  fi
+
+  # test-plan.md 每个用例有 **覆盖** 字段
+  if [ -f "$TEST_PLAN" ]; then
+    local TC_COUNT=$(grep -cE '### TC-' "$TEST_PLAN" 2>/dev/null || echo 0)
+    local TC_WITH_COVER=$(grep -cE '\*\*覆盖\*\*:' "$TEST_PLAN" 2>/dev/null || echo 0)
+    if [ "$TC_COUNT" -gt 0 ]; then
+      if [ "$TC_WITH_COVER" -lt "$TC_COUNT" ]; then
+        echo "  ❌ $TC_COUNT 个用例中只有 $TC_WITH_COVER 个有 **覆盖** 字段（每个用例必须关联 REQ-xxx）"
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ 每个测试用例都有 **覆盖** 字段"
+      fi
+    fi
+  fi
+}
+
+# ─── 阶段6.3：代码集成检查 ───
+check_code_integration() {
+  echo ""
+  echo "🔗 检查代码集成"
+
+  local INT_DIR="$PROJECT_DIR/pipeline/6.3"
+  if [ ! -d "$INT_DIR" ]; then
+    echo "  ❌ 6.3/ 目录不存在"
+    ERRORS=$((ERRORS + 1))
+    return
+  fi
+
+  # 集成后代码存在
+  local MERGE_REPORT="$INT_DIR/merge-report.md"
+  if [ -f "$MERGE_REPORT" ] && [ -s "$MERGE_REPORT" ]; then
+    echo "  ✅ merge-report.md 存在"
+  else
+    echo "  ❌ merge-report.md 不存在（代码集成报告）"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  # 冒烟测试
+  local SMOKE_REPORT="$INT_DIR/smoke-test.md"
+  if [ -f "$SMOKE_REPORT" ] && [ -s "$SMOKE_REPORT" ]; then
+    echo "  ✅ smoke-test.md 存在"
+    if grep -qiE '通过|pass|✅' "$SMOKE_REPORT" 2>/dev/null; then
+      echo "  ✅ 冒烟测试通过"
+    else
+      echo "  🟡 冒烟测试报告未明确标注通过"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  else
+    echo "  ❌ smoke-test.md 不存在（集成后必须冒烟测试）"
+    ERRORS=$((ERRORS + 1))
+  fi
+}
+
+# ─── 阶段6.5：开发审查检查 ───
+check_dev_review() {
+  echo ""
+  echo "🔍 检查开发审查（阶段6.5）"
+
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/6.5/cross-review-dev.md"
+  if [ ! -f "$REVIEW_FILE" ] || [ ! -s "$REVIEW_FILE" ]; then
+    echo "  ❌ cross-review-dev.md 不存在或为空"
+    ERRORS=$((ERRORS + 1))
+    return
+  fi
+
+  local LINES=$(wc -l < "$REVIEW_FILE" | tr -d ' ')
+  echo "  ✅ cross-review-dev.md 存在 (${LINES}行)"
+
+  # 架构师有独立段落
+  if grep -qE '架构师|Architect' "$REVIEW_FILE" 2>/dev/null; then
+    echo "  ✅ 包含架构师审查段落"
+  else
+    echo "  ❌ 缺少架构师审查段落"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  # 每段 ≥3 检查点
+  local CHECKPOINT_COUNT=$(grep -cE '检查|check|验证|确认|问题|建议|✅|❌|🟡' "$REVIEW_FILE" 2>/dev/null || echo 0)
+  if [ "$CHECKPOINT_COUNT" -lt 3 ]; then
+    echo "  ❌ 检查点不足（$CHECKPOINT_COUNT 个，最低 3 个）"
+    ERRORS=$((ERRORS + 1))
+  else
+    echo "  ✅ 检查点: $CHECKPOINT_COUNT 个"
+  fi
+
+  # 引用架构相关内容
+  if grep -qiE '架构|ARCHITECTURE|分层|模块|接口|设计' "$REVIEW_FILE" 2>/dev/null; then
+    echo "  ✅ 引用了架构相关内容"
+  else
+    echo "  🟡 未引用架构相关内容（建议关联架构设计）"
+    WARNINGS=$((WARNINGS + 1))
+  fi
+}
+
+# ─── 阶段7：安全扫描检查 ───
+check_security_scan() {
+  echo ""
+  echo "🔒 检查安全扫描"
+
+  # 检查 review-report.md 中是否包含安全扫描结果
+  local REVIEW_FILE="$PROJECT_DIR/pipeline/7/review-report.md"
+  if [ -f "$REVIEW_FILE" ]; then
+    if grep -qiE '安全扫描|security.scan|严重问题.*0|无安全问题' "$REVIEW_FILE" 2>/dev/null; then
+      echo "  ✅ review-report.md 包含安全扫描结果"
+      # 检查是否有严重问题
+      if grep -qiE '严重问题.*[1-9]|🔴.*问题|SQL注入|XSS|硬编码.*密钥|路径穿越' "$REVIEW_FILE" 2>/dev/null; then
+        echo "  ❌ 发现严重安全问题未修复"
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ 无严重安全问题"
+      fi
+    else
+      echo "  🟡 review-report.md 未包含安全扫描结果（架构师应先跑 security-scan.sh）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  else
+    echo "  🟡 review-report.md 不存在，跳过安全扫描检查"
+  fi
+
+  # 检查 security-scan.sh 是否可执行
+  local SCAN_SCRIPT="$PIPELINE_ROOT/scripts/security-scan.sh"
+  if [ -f "$SCAN_SCRIPT" ]; then
+    echo "  ✅ security-scan.sh 脚本存在"
+  else
+    echo "  ❌ security-scan.sh 脚本不存在"
+    ERRORS=$((ERRORS + 1))
+  fi
+}
+
+# ─── 阶段8：E2E 深度检查 ───
+check_e2e_execution() {
+  echo ""
+  echo "🎭 检查 E2E 测试执行"
+
+  local QA_REPORTS="$PROJECT_DIR/pipeline/8/qa-reports"
+  local E2E_DIR="$PROJECT_DIR/tests/e2e"
+
+  # 有 E2E 脚本才检查
+  if [ ! -d "$E2E_DIR" ]; then
+    echo "  🟡 tests/e2e/ 目录不存在（无 E2E 测试）"
+    WARNINGS=$((WARNINGS + 1))
+    return
+  fi
+  local E2E_FILES=$(find "$E2E_DIR" -name "*.spec.*" -o -name "*.test.*" 2>/dev/null | wc -l | tr -d ' ')
+  if [ "$E2E_FILES" -eq 0 ]; then
+    echo "  🟡 tests/e2e/ 无测试文件"
+    return
+  fi
+  echo "  📊 E2E 测试文件: $E2E_FILES 个"
+
+  # 截图 ≥3 张
+  local SCREENSHOT_COUNT=0
+  if [ -d "$QA_REPORTS" ]; then
+    SCREENSHOT_COUNT=$(find "$QA_REPORTS" -name "*.png" 2>/dev/null | wc -l | tr -d ' ')
+  fi
+  if [ "$SCREENSHOT_COUNT" -lt 3 ]; then
+    echo "  ❌ E2E 截图不足（$SCREENSHOT_COUNT 张，最低 3 张）— E2E 可能未完整执行"
+    ERRORS=$((ERRORS + 1))
+  else
+    echo "  ✅ E2E 截图: $SCREENSHOT_COUNT 张"
+  fi
+
+  # 截图时间戳晚于 test-report.md
+  local TEST_REPORT="$PROJECT_DIR/pipeline/8/test-report.md"
+  if [ -f "$TEST_REPORT" ] && [ -d "$QA_REPORTS" ]; then
+    local NEWER_COUNT=$(find "$QA_REPORTS" -name "*.png" -newer "$TEST_REPORT" 2>/dev/null | wc -l | tr -d ' ')
+    if [ "$NEWER_COUNT" -gt 0 ]; then
+      echo "  ✅ 截图时间戳晚于 test-report.md（证明是本次执行）"
+    else
+      echo "  🟡 截图时间戳不晚于 test-report.md（可能是旧截图）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  fi
+
+  # test-report.md 提及 E2E 结果
+  if [ -f "$TEST_REPORT" ]; then
+    if grep -qiE 'e2e|playwright|端到端' "$TEST_REPORT" 2>/dev/null; then
+      echo "  ✅ 测试报告包含 E2E 执行结果"
+    else
+      echo "  ❌ 测试报告未提及 E2E 结果"
+      ERRORS=$((ERRORS + 1))
+    fi
+  fi
+
+  # 集成测试连接真实 DB（阶段8 也要检查）
+  local INT_DIR="$PROJECT_DIR/tests/integration"
+  if [ -d "$INT_DIR" ]; then
+    local MOCK_COUNT=$(grep -rl "mock\|Mock\|@Mock\|jest.mock\|unittest.mock" "$INT_DIR" 2>/dev/null | wc -l | tr -d ' ')
+    if [ "$MOCK_COUNT" -gt 0 ]; then
+      echo "  ❌ 集成测试中 $MOCK_COUNT 个文件使用了 mock（必须连接真实 DB）"
+      ERRORS=$((ERRORS + 1))
+    fi
+  fi
+}
+
+# ─── 阶段9：交付验收深度检查 ───
+check_acceptance_quality() {
+  echo ""
+  echo "🎯 检查交付验收质量"
+
+  local REPORT="$PROJECT_DIR/pipeline/9/ACCEPTANCE-REPORT.md"
+  if [ ! -f "$REPORT" ]; then
+    return
+  fi
+
+  # 7项 checklist 全部勾选
+  local CHECK_ITEMS=$(grep -cE '\[x\]|\[X\]|✅' "$REPORT" 2>/dev/null || echo 0)
+  if [ "$CHECK_ITEMS" -lt 7 ]; then
+    echo "  ❌ 验收 checklist 勾选不足（$CHECK_ITEMS 项，应全部 7 项）"
+    ERRORS=$((ERRORS + 1))
+  else
+    echo "  ✅ 验收 checklist: $CHECK_ITEMS 项已勾选"
+  fi
+
+  # 安全扫描
+  local SEC_SCAN="$PROJECT_DIR/pipeline/9/security-scan.md"
+  if [ -f "$SEC_SCAN" ] && [ -s "$SEC_SCAN" ]; then
+    if grep -qiE '严重|critical|高危' "$SEC_SCAN" 2>/dev/null; then
+      echo "  ❌ 安全扫描发现严重问题"
+      ERRORS=$((ERRORS + 1))
+    else
+      echo "  ✅ 安全扫描无严重问题"
+    fi
+  else
+    echo "  🟡 security-scan.md 不存在（建议执行安全扫描）"
+    WARNINGS=$((WARNINGS + 1))
+  fi
+
+  # 测试报告无 P0 遗留
+  local TEST_REPORT="$PROJECT_DIR/pipeline/8/test-report.md"
+  if [ -f "$TEST_REPORT" ]; then
+    if grep -qiE 'P0.*未修复|P0.*失败|P0.*遗留' "$TEST_REPORT" 2>/dev/null; then
+      echo "  ❌ 测试报告有 P0 遗留问题"
+      ERRORS=$((ERRORS + 1))
+    else
+      echo "  ✅ 测试报告无 P0 遗留"
+    fi
+  fi
+
+  # docs/ 归档完整（5 个过程文档）
+  local DOCS_DIR="$PROJECT_DIR/docs"
+  local REQUIRED_DOCS=("PRD.md" "CODE-MAP.md" "ARCHITECTURE.md" "QA-TEST-STRATEGY.md" "dev-log.md")
+  local MISSING_DOCS=0
+  for doc in "${REQUIRED_DOCS[@]}"; do
+    if [ ! -f "$DOCS_DIR/$doc" ]; then
+      echo "  🟡 docs/$doc 不存在"
+      MISSING_DOCS=$((MISSING_DOCS + 1))
+    fi
+  done
+  if [ "$MISSING_DOCS" -eq 0 ]; then
+    echo "  ✅ docs/ 归档完整（5 个过程文档）"
+  else
+    echo "  🟡 docs/ 缺少 $MISSING_DOCS 个过程文档"
+    WARNINGS=$((WARNINGS + 1))
+  fi
+}
+
+# ─── 阶段10：交互式文档检查 ───
+check_interactive_docs() {
+  echo ""
+  echo "📚 检查交互式文档（阶段10）"
+
+  local DOCS_DIR="$PROJECT_DIR/docs"
+  local REQUIRED_HTML=(
+    "README.html:80"
+    "USER-GUIDE.html:120"
+    "ARCHITECTURE.html:100"
+    "DEPLOYMENT.html:80"
+    "CONFIG-GUIDE.html:60"
+  )
+  local HTML_ERRORS=0
+
+  for entry in "${REQUIRED_HTML[@]}"; do
+    local FNAME=$(echo "$entry" | cut -d: -f1)
+    local MIN_LINES=$(echo "$entry" | cut -d: -f2)
+    local FPATH="$DOCS_DIR/$FNAME"
+
+    if [ ! -f "$FPATH" ] || [ ! -s "$FPATH" ]; then
+      echo "  ❌ docs/$FNAME 不存在"
+      HTML_ERRORS=$((HTML_ERRORS + 1))
+      continue
+    fi
+
+    local LINES=$(wc -l < "$FPATH" | tr -d ' ')
+    if [ "$LINES" -lt "$MIN_LINES" ]; then
+      echo "  ❌ docs/$FNAME 过短（${LINES}行，最低${MIN_LINES}行）"
+      HTML_ERRORS=$((HTML_ERRORS + 1))
+    else
+      echo "  ✅ docs/$FNAME (${LINES}行)"
+    fi
+
+    # 包含交互式模态框
+    local MODAL_COUNT=$(grep -c "modal-overlay\|modal" "$FPATH" 2>/dev/null || echo 0)
+    if [ "$MODAL_COUNT" -lt 3 ]; then
+      echo "  🟡 docs/$FNAME 交互式模态框不足（$MODAL_COUNT 个，建议 ≥3）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+
+    # 包含 Mermaid 图表
+    if ! grep -q "mermaid" "$FPATH" 2>/dev/null; then
+      echo "  🟡 docs/$FNAME 缺少 Mermaid 图表"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+
+    # 包含锚点目录
+    if ! grep -qE 'toc|目录|nav' "$FPATH" 2>/dev/null; then
+      echo "  🟡 docs/$FNAME 缺少锚点目录"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+
+    # 禁止"详见xxx"跳转
+    if grep -qE '详见|参见|见下方|见上文' "$FPATH" 2>/dev/null; then
+      echo "  🟡 docs/$FNAME 包含跳转式写法（应直接放内容）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  done
+
+  ERRORS=$((ERRORS + HTML_ERRORS))
+}
+
+# ─── 阶段7：测试审查前置检查 ───
+check_test_review_prerequisite() {
+  echo ""
+  echo "🔒 检查测试审查前置条件"
+
+  local TEST_REVIEW="$PROJECT_DIR/pipeline/7-test-review/test-review.md"
+  if [ -f "$TEST_REVIEW" ] && [ -s "$TEST_REVIEW" ]; then
+    echo "  ✅ test-review.md 存在（阶段7-test-review 已完成）"
+  else
+    echo "  ❌ test-review.md 不存在（必须先完成测试审查才能进入阶段7）"
+    ERRORS=$((ERRORS + 1))
+  fi
+}
+
 # 主逻辑：根据阶段号执行对应检查
 case "$PHASE" in
-  6)
-    check_code
-    check_layered_architecture
-    check_input_references "6" "$PROJECT_DIR/6" "ARCHITECTURE" "CODE-MAP" "TASK-LIST"
-    ;;
-  5.5)
+  0)
     PHASE_SPEC=$(get_phase_file "$PHASE")
     if [ -n "$PHASE_SPEC" ]; then
       FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
       MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
       check_file "$FILE_NAME" "$MIN_L"
     fi
-    check_api_schema
+    check_project_init
+    ;;
+  1)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    # 检查 PRD 是否使用 REQ-xxx 编号
+    PRD_FILE="$PROJECT_DIR/pipeline/1/PRD.md"
+    if [ -f "$PRD_FILE" ]; then
+      REQ_COUNT=$(grep -cE 'REQ-[0-9]+' "$PRD_FILE" 2>/dev/null || echo 0)
+      if [ "$REQ_COUNT" -eq 0 ]; then
+        echo "  ❌ PRD.md 中未找到 REQ-xxx 编号（功能清单必须用 REQ-xxx 编号）"
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ PRD.md 包含 $REQ_COUNT 处 REQ-xxx 编号"
+      fi
+    fi
+    check_prd_quality
     ;;
   1.5)
     PHASE_SPEC=$(get_phase_file "$PHASE")
@@ -957,7 +1826,25 @@ case "$PHASE" in
       check_file "$FILE_NAME" "$MIN_L"
     fi
     check_cross_review_pm
-    check_re_review "$PROJECT_DIR/1.5/re-review-pm.md" "PRD复审" "架构师" "QA" "开发1" "开发2"
+    check_re_review "$PROJECT_DIR/pipeline/1.5/re-review-pm.md" "PRD复审" $(load_roles "REREVIEW_PM_ROLES" | tr '\n' ' ')
+    ;;
+  1.6)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    check_html_draft "$PROJECT_DIR/docs/prd-draft.html" "$PROJECT_DIR/pipeline/1.6/prd-feedback.md" "PRD"
+    ;;
+  2)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    check_architecture_outputs
     ;;
   2.5)
     PHASE_SPEC=$(get_phase_file "$PHASE")
@@ -967,7 +1854,16 @@ case "$PHASE" in
       check_file "$FILE_NAME" "$MIN_L"
     fi
     check_cross_review_arch
-    check_re_review "$PROJECT_DIR/2.5/re-review-arch.md" "架构复审" "开发1" "开发2" "QA" "PM"
+    check_re_review "$PROJECT_DIR/pipeline/2.5/re-review-arch.md" "架构复审" $(load_roles "REREVIEW_ARCH_ROLES" | tr '\n' ' ')
+    ;;
+  2.6)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    check_html_draft "$PROJECT_DIR/docs/architecture-draft.html" "$PROJECT_DIR/pipeline/2.6/architecture-feedback.md" "架构"
     ;;
   3)
     PHASE_SPEC=$(get_phase_file "$PHASE")
@@ -977,7 +1873,15 @@ case "$PHASE" in
       check_file "$FILE_NAME" "$MIN_L"
     fi
     check_ux_review
-    check_re_review "$PROJECT_DIR/3/re-review-ux.md" "UX复审" "PM"
+    check_re_review "$PROJECT_DIR/pipeline/3/re-review-ux.md" "UX复审" $(load_roles "REREVIEW_UX_ROLES" | tr '\n' ' ')
+    ;;
+  3.5)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
     ;;
   4)
     PHASE_SPEC=$(get_phase_file "$PHASE")
@@ -987,40 +1891,103 @@ case "$PHASE" in
       check_file "$FILE_NAME" "$MIN_L"
     fi
     check_ui_review
-    check_re_review "$PROJECT_DIR/4/re-review-ui.md" "UI复审" "PM" "开发"
+    check_re_review "$PROJECT_DIR/pipeline/4/re-review-ui.md" "UI复审" $(load_roles "REREVIEW_UI_ROLES" | tr '\n' ' ')
+    ;;
+  4.5)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    ;;
+  5)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    check_traceability "5"
+    check_task_list_quality
+    # 检查 TASK-LIST.md 中的开发者字段使用合法 agent-id
+    TASK_FILE="$PROJECT_DIR/pipeline/5/TASK-LIST.md"
+    if [ -f "$TASK_FILE" ]; then
+      echo ""
+      echo "👤 检查任务分配（agent-id 合法性）"
+      DEV_VALUES=$(grep -oE '\*\*开发者\*\*:\s*\S+' "$TASK_FILE" 2>/dev/null | sed 's/\*\*开发者\*\*:\s*//' | sort -u)
+      INVALID_DEVS=""
+      while IFS= read -r dv; do
+        [ -z "$dv" ] && continue
+        case "$dv" in
+          dev1|dev2|dev3) ;;
+          *) INVALID_DEVS="$INVALID_DEVS $dv" ;;
+        esac
+      done <<< "$DEV_VALUES"
+      if [ -n "$INVALID_DEVS" ]; then
+        echo "  ❌ 发现非法开发者标识:$INVALID_DEVS（应使用 dev1/dev2/dev3）"
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ 开发者字段全部使用合法 agent-id"
+      fi
+    fi
+    ;;
+  5.5)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    check_api_schema
+    check_traceability "5.5"
+    ;;
+  6)
+    check_code
+    check_layered_architecture
+    check_coverage
+    check_input_references "6" "$PROJECT_DIR" "ARCHITECTURE" "CODE-MAP" "TASK-LIST"
+    # 集成测试目录检查
+    INT_DIR="$PROJECT_DIR/tests/integration"
+    if [ -d "$INT_DIR" ]; then
+      INT_FILES=$(find "$INT_DIR" -name "*.test.*" -o -name "*Test.*" -o -name "test_*" 2>/dev/null | wc -l | tr -d ' ')
+      if [ "$INT_FILES" -gt 0 ]; then
+        echo "  ✅ tests/integration/ 存在（$INT_FILES 个测试文件）"
+      else
+        echo "  ❌ tests/integration/ 存在但无测试文件"
+        ERRORS=$((ERRORS + 1))
+      fi
+    else
+      echo "  ❌ tests/integration/ 不存在（必须有集成测试）"
+      ERRORS=$((ERRORS + 1))
+    fi
+    ;;
+  6.3)
+    check_code_integration
+    ;;
+  6.5)
+    check_dev_review
     ;;
   7)
+    check_test_review_prerequisite
+    check_security_scan
     check_review
     check_architecture_reference
-    check_input_references "7" "$PROJECT_DIR/7/review-report.md" "ARCHITECTURE"
-    check_re_review "$PROJECT_DIR/7/re-review-code.md" "代码复审" "架构师" "QA" "PM" "开发2"
+    check_architecture_implementation
+    check_input_references "7" "$PROJECT_DIR/pipeline/7/review-report.md" "ARCHITECTURE"
+    check_re_review "$PROJECT_DIR/pipeline/7/re-review-code.md" "代码复审" $(load_roles "REREVIEW_CODE_ROLES" | tr '\n' ' ')
     ;;
   7-test-review)
     check_test_review
     ;;
-  1.6)
-    PHASE_SPEC=$(get_phase_file "$PHASE")
-    if [ -n "$PHASE_SPEC" ]; then
-      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
-      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
-      check_file "$FILE_NAME" "$MIN_L"
-    fi
-    check_html_draft "$PROJECT_DIR/docs/prd-draft.html" "$PROJECT_DIR/1.6/prd-feedback.md" "PRD"
-    ;;
-  2.6)
-    PHASE_SPEC=$(get_phase_file "$PHASE")
-    if [ -n "$PHASE_SPEC" ]; then
-      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
-      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
-      check_file "$FILE_NAME" "$MIN_L"
-    fi
-    check_html_draft "$PROJECT_DIR/docs/architecture-draft.html" "$PROJECT_DIR/2.6/architecture-feedback.md" "架构"
-    ;;
   8)
     check_test
+    check_coverage
+    check_e2e_execution
     check_test_case_review
-    # 检查测试工具是否已检查
-    if [ -f "$PROJECT_DIR/8/tool-check.log" ]; then
+    check_traceability "8"
+    check_architecture_implementation
+    if [ -f "$PROJECT_DIR/pipeline/8/tool-check.log" ]; then
       echo "  ✅ 测试工具检查日志存在"
     else
       echo "  🟡 测试工具检查日志不存在（建议运行 check-test-tools.sh）"
@@ -1045,6 +2012,10 @@ case "$PHASE" in
     fi
     check_deliverable_docs
     check_html_docs
+    check_acceptance_quality
+    ;;
+  10)
+    check_interactive_docs
     ;;
   *)
     PHASE_SPEC=$(get_phase_file "$PHASE")
