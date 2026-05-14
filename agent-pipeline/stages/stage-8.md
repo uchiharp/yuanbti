@@ -27,9 +27,10 @@ bash agent-pipeline/scripts/check-test-tools.sh {项目目录}
 ## 产出物
 | 文件 | 说明 |
 |------|------|
-| test-report.md | 测试报告（含逐项结果、通过率、问题清单） |
+| test-report.md | 测试报告（含逐项结果、通过率、问题清单、REQ 追溯矩阵） |
 | qa-reports/*.png | 测试截图 ≥3张 |
 | test-case-review.md | PM 测试用例评审意见 |
+| error-monitor/error-report.md | 错误监控报告（前后端隐含错误） |
 
 ## 执行流程
 
@@ -37,6 +38,13 @@ bash agent-pipeline/scripts/check-test-tools.sh {项目目录}
 ```bash
 bash agent-pipeline/scripts/check-test-tools.sh {项目目录}
 ```
+
+### Step 0.5: 启动错误监控
+```bash
+# 启动后台错误监控（持续收集前后端日志中的 ERROR/Exception）
+bash agent-pipeline/scripts/test-monitor.sh {项目目录} start
+```
+**整个测试执行期间监控持续运行，Step 5 之后停止并生成报告。**
 
 ### Step 1: 执行单元测试（不需要环境）
 ```bash
@@ -136,13 +144,22 @@ if [ $E2E_EXIT -ne 0 ]; then
 fi
 ```
 
-### Step 5: 清理环境
+### Step 5: 停止错误监控 + 清理环境
 ```bash
+# 停止错误监控，生成错误报告
+bash agent-pipeline/scripts/test-monitor.sh {项目目录} stop
+
 # 停止后端
 kill $BACKEND_PID 2>/dev/null
 # 停止 Docker 容器（如使用）
 docker-compose -f {项目目录}/docker-compose.yml down 2>/dev/null
 ```
+
+**如果 error-monitor/error-report.md 显示有隐含错误，QA 必须逐条排查：**
+- 后端 ERROR/Exception → 判断是测试触发的 bug 还是预期行为
+- 前端 console.error → 判断是否影响用户体验
+- 网络 4xx/5xx → 判断接口是否正常
+- 非预期错误必须记录到 test-report.md
 
 ### Step 6: QA 自审（测试艺术家思维）
 - 检查测试结果是否有遗漏
@@ -151,7 +168,9 @@ docker-compose -f {项目目录}/docker-compose.yml down 2>/dev/null
 - **确认 E2E 测试是在真实环境上跑的（不是 mock）**
 
 ### Step 7: PM 对照 PRD 审查
-- 验证所有 P0/P1 功能有测试覆盖
+- **逐 REQ 核对**：每个 REQ-xxx 是否有对应测试用例且通过
+- 验证测试报告中的 REQ 追溯矩阵完整性
+- 检查错误监控报告中的隐含错误是否已处理
 - 产出 test-case-review.md
 
 ### Step 8: 协调者独立验证
@@ -188,7 +207,7 @@ find {项目目录}/pipeline/8/qa-reports -name "*.png" -newer {项目目录}/pi
 - `tests/e2e/` — QA写，阶段7开发确认，阶段8执行
 
 ## 检查项（脚本强制）
-- [ ] test-report.md 存在
+- [ ] test-report.md 存在且包含 REQ 追溯矩阵（每个 TC-xxx 对应 REQ-xxx）
 - [ ] 覆盖率报告存在（JaCoCo: target/site/jacoco/index.html / c8: coverage/index.html）
 - [ ] 行覆盖率 ≥95%（低于阈值则构建失败，阶段2架构师配置）
 - [ ] 集成测试连接真实 DB（非 mock）
@@ -200,6 +219,9 @@ find {项目目录}/pipeline/8/qa-reports -name "*.png" -newer {项目目录}/pi
 - [ ] 集成测试通过率 100%
 - [ ] 测试日志存在于 logs/ 目录（logs/unit/、logs/integration/、logs/e2e/）
 - [ ] 失败用例有对应日志，日志中包含错误堆栈
+- [ ] error-monitor/error-report.md 存在（错误监控已执行）
+- [ ] 错误监控报告中无未排查的隐含错误
+- [ ] 测试用例可随机顺序执行（无链式依赖）
 
 ## 约束
 - 覆盖率 <95% → 打回开发，回退阶段6
@@ -207,6 +229,9 @@ find {项目目录}/pipeline/8/qa-reports -name "*.png" -newer {项目目录}/pi
 - E2E 必须在完整环境上运行（后端+前端+DB），禁止 mock
 - E2E 用例数为 0 → 打回，检查环境是否启动
 - 测试有失败 → 打回开发，回退阶段6
+- test-report.md 无 REQ 追溯矩阵 → 打回 QA
+- 错误监控有未排查的隐含错误 → QA 排查后再推进
+- 测试用例有链式依赖 → 打回开发补充 fixture
 - 通过 → 推进阶段9
 
 ## 前置方案审查（强制）

@@ -451,7 +451,7 @@ check_sanitize
 |--------|--------|---------|
 | 规模判定（🟢/🟡/🔴） | 协调者 | changes/decision-log.md |
 | 回退目标选择 | 发现者 | changes/rollback-{id}.md |
-| 冒烟失败回退目标 | 创业助手 | changes/rollback-{id}.md |
+| 冒烟失败回退目标 | 协调者 | changes/rollback-{id}.md |
 | 🟡部分成功处理 | 协调者 | changes/decision-log.md |
 | 并发冲突裁决 | 架构师 | changes/decision-log.md |
 

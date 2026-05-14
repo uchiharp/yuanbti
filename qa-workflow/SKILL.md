@@ -38,23 +38,48 @@ NO FIXES WITHOUT ROOT CAUSE INVESTIGATION FIRST
 ## Part A：测试编写流程
 
 ```
-源码分析 → 功能清单 → 用例设计 → 脚本编写 → 独立验证 → 测试报告
+PRD/接口清单 → 测试场景推导 → 源码验证 → 脚本编写 → 独立验证 → 测试报告
 ```
 
-### A1. 功能分析
+### A0. PRD 驱动测试设计（必须先于源码分析）
 
-1. 读前端页面文件 → 提取交互事件（click/tap/input/confirm等）
-2. 读后端 Controller → 提取 API 端点
-3. 读状态管理（store/state） → 提取状态流转
-4. 读 API 封装层 → 提取前端调用的接口
+**测试用例必须从 PRD/接口清单反向推导，不能只看代码逻辑写测试。**
+
+1. **读 PRD.md** → 提取每个 REQ-xxx 的验收标准
+2. **读 test-plan.md** → 获取已定义的 TC-xxx 测试场景
+3. **读 api-schema.md** → 获取接口定义（路径、请求/响应格式、错误码）
+4. **对每个 REQ 推导测试场景**：
+   - 正常流程（验收标准中的"成功"路径）
+   - 异常流程（验收标准中的"失败"路径）
+   - 边界条件（空值、极大值、并发）
+   - 对应的接口：成功返回、错误码、超时
+5. **输出追溯矩阵**：每个 TC-xxx 对应哪个 REQ-xxx，测试代码中注释标注
+
+**追溯矩阵格式（写入 test-report.md）：**
+```markdown
+| TC-xxx | REQ-xxx | 测试方法名 | 测试类型 | 结果 |
+|--------|---------|-----------|---------|------|
+| TC-001 | REQ-001 | testLoginSuccess | 正向 | ✅ |
+| TC-002 | REQ-001 | testLoginWrongPassword | 逆向 | ✅ |
+```
+
+**禁止：** 不读 PRD/test-plan 就写测试。测试只验证代码能跑 ≠ 验证需求被满足。
+
+### A1. 功能分析（源码验证阶段）
+
+在 A0 推导出测试场景后，用源码验证场景的可行性：
+1. 读前端页面文件 → 确认选择器、路由、交互事件
+2. 读后端 Controller → 确认 API 端点、参数、返回值
+3. 读状态管理（store/state） → 确认状态流转
+4. **对比 A0 的推导结果**：PRD 要求的但代码未实现的 → 标记为 BLOCKER
 
 **输出格式：**
 ```markdown
 ### 模块: xxx
 
-| # | 用例ID | 功能点 | 测试类型 | 前置条件 |
-|---|--------|--------|---------|---------|
-| 1 | XX-01 | 描述 | 正向/逆向/边界/安全/界面/数据流转/跨模块 | xxx |
+| # | 用例ID | REQ | 功能点 | 测试类型 | 前置条件 |
+|---|--------|-----|--------|---------|---------|
+| 1 | XX-01 | REQ-001 | 描述 | 正向/逆向/边界/安全/界面/数据流转/跨模块 | xxx |
 ```
 
 **测试类型：**
@@ -121,6 +146,37 @@ NO FIXES WITHOUT ROOT CAUSE INVESTIGATION FIRST
 
 **截图规范：** `{功能}-{序号}-{状态}.png`
 
+### A3.5 测试独立性（强制）
+
+每个测试用例必须自包含，不依赖其他测试的执行顺序或数据：
+
+| 规则 | 说明 | ❌ 错误做法 | ✅ 正确做法 |
+|------|------|-----------|-----------|
+| 自己创建数据 | 每个用例通过 setUp/fixture 创建所需数据 | Test B 用 Test A 创建的用户 | 每个测试各自创建用户 |
+| 自己清理数据 | tearDown/fixture 自动清理 | 测试留下脏数据影响后续 | yield fixture 自动删除 |
+| 唯一标识 | UUID/时间戳避免并行冲突 | 硬编码 email="test@test.com" | `f"test-{uuid4()}@test.com"` |
+| 无顺序依赖 | 结果不依赖执行顺序 | 必须先跑 create 再跑 update | 每个测试独立 create+update |
+| 失败隔离 | 前一个失败不影响后续 | Test A 失败 → Test B SKIP | Test B 独立运行仍 PASS |
+
+**E2E 测试独立性实现模式：**
+```javascript
+// ✅ 正确：自包含 fixture
+test('update pipeline', async ({ page }) => {
+  // 自己创建前置数据
+  const pipeline = await api.createPipeline({ name: `test-${Date.now()}` });
+  await page.goto(`/pipeline/${pipeline.id}`);
+  // ... 测试逻辑 ...
+  // fixture teardown 自动清理
+});
+
+// ❌ 错误：依赖其他测试的数据
+let pipelineId;
+test('create pipeline', async ({ page }) => { pipelineId = /* ... */; });
+test('update pipeline', async ({ page }) => { await page.goto(`/pipeline/${pipelineId}`); });
+```
+
+**验证方式：** 运行 `npx playwright test --random-order` 或 `pytest --random-order`，确保随机顺序下全部通过。
+
 ### A4. 执行策略
 
 ```
@@ -132,6 +188,29 @@ NO FIXES WITHOUT ROOT CAUSE INVESTIGATION FIRST
 
 **只跑受影响的用例：**
 修改后不全量跑，只跑：直接修改的模块 + 依赖该模块的下游 + 涉及该模块的用户旅程。
+
+### A4.5 错误监控（每次测试执行必须开启）
+
+测试执行期间必须同时监控前后端错误日志，捕获隐含错误：
+
+1. **后端日志监控**：tail 后端日志，捕获 ERROR/Exception/5xx
+2. **前端错误监控**：注册 `console.error`、`pageerror`、网络 4xx/5xx 监听
+3. **每个测试用例结束**：检查该用例执行期间是否有隐含错误
+4. **有隐含错误 → 标记 WARNING 或 FAIL**（即使接口返回正确）
+
+**E2E 前端错误监控（Playwright）：**
+```javascript
+// 在 test fixture 或 global setup 中注册
+page.on('console', msg => {
+  if (msg.type() === 'error') frontendErrors.push(msg.text());
+});
+page.on('pageerror', err => frontendErrors.push(err.message));
+page.on('response', resp => {
+  if (resp.status() >= 400) networkErrors.push(`${resp.status()} ${resp.url()}`);
+});
+```
+
+**后端错误监控：** 使用 `test-monitor.sh` 脚本（agent-pipeline/scripts/test-monitor.sh）在测试期间持续收集后端日志。
 
 ### A5. 测试报告
 
@@ -238,6 +317,8 @@ npx playwright test --reporter=list --timeout=30000 2>&1
 ```
 === [功能模块] ===
 ✅/🔴 [测试项名称]
+- REQ: REQ-xxx
+- TC: TC-xxx
 - 前置条件：[环境/数据准备]
 - 执行步骤：[具体操作]
 - 预期结果：[应该发生什么]
@@ -251,6 +332,27 @@ npx playwright test --reporter=list --timeout=30000 2>&1
 - 🔵 P2: [描述]
 ```
 
+### REQ 追溯矩阵（报告必须包含）
+
+```markdown
+## REQ 追溯矩阵
+| REQ-xxx | 功能点 | TC 列表 | 测试类型 | 结果 |
+|---------|--------|---------|---------|------|
+| REQ-001 | {功能} | TC-001, TC-002 | 单元+集成+E2E | ✅ |
+| REQ-002 | {功能} | TC-003 | 单元+E2E | ❌ |
+```
+
+### 隐含错误报告（来自错误监控）
+
+```markdown
+## 隐含错误（error-monitor 报告摘要）
+| 来源 | 数量 | 是否已排查 | 说明 |
+|------|------|----------|------|
+| 后端 ERROR | 2 | ✅ 已排查 | 均为测试触发的预期 400 |
+| 前端 console.error | 0 | — | — |
+| 网络 4xx/5xx | 1 | ⚠️ 待排查 | 非预期 500 |
+```
+
 ### 报告质量红线
 
 | 条件 | 结果 |
@@ -259,6 +361,8 @@ npx playwright test --reporter=list --timeout=30000 2>&1
 | 截图 < 3 张 | 自动打回 |
 | 无逐项结果 | 自动打回 |
 | 只写"全部通过"无具体项 | 自动打回 |
+| **无 REQ 追溯矩阵** | **自动打回** |
+| **隐含错误未排查** | **自动打回** |
 
 ---
 

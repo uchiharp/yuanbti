@@ -526,9 +526,33 @@ check_test() {
     if [ "$REQ_MENTIONS" -gt 0 ]; then
       echo "  ✅ 测试报告提及了 $REQ_MENTIONS 处 REQ-xxx"
     else
-      echo "  🟡 测试报告未提及任何 REQ-xxx（建议逐 REQ 报告覆盖情况）"
-      WARNINGS=$((WARNINGS + 1))
+      echo "  ❌ 测试报告未提及任何 REQ-xxx（必须有 REQ 追溯矩阵）"
+      ERRORS=$((ERRORS + 1))
     fi
+
+    # 检查是否有 TC → REQ 追溯矩阵
+    if grep -qE 'TC-[0-9]+.*REQ-[0-9]+|追溯矩阵|追溯|traceability' "$TEST_FILE" 2>/dev/null; then
+      echo "  ✅ 测试报告包含 TC → REQ 追溯"
+    else
+      echo "  ❌ 测试报告缺少 TC → REQ 追溯矩阵（每个 TC-xxx 应对应 REQ-xxx）"
+      ERRORS=$((ERRORS + 1))
+    fi
+  fi
+
+  # 检查错误监控报告
+  local ERROR_REPORT="$PROJECT_DIR/pipeline/8/error-monitor/error-report.md"
+  if [ -f "$ERROR_REPORT" ]; then
+    echo "  ✅ 错误监控报告存在"
+    local ERROR_COUNT=$(grep -cE '🔴|ERROR|Exception' "$ERROR_REPORT" 2>/dev/null || echo 0)
+    if [ "$ERROR_COUNT" -gt 0 ]; then
+      echo "  🟡 错误监控报告中有 $ERROR_COUNT 处错误记录，需排查"
+      WARNINGS=$((WARNINGS + 1))
+    else
+      echo "  ✅ 错误监控报告无未排查错误"
+    fi
+  else
+    echo "  ❌ 错误监控报告不存在（test-monitor.sh 应在测试执行前启动）"
+    ERRORS=$((ERRORS + 1))
   fi
 
   # E2E 执行验证（关键：防止"写了没跑"）

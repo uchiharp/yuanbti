@@ -1,7 +1,7 @@
 # 阶段6：开发执行
 
 ## 任务
-协调者按任务清单逐个 dispatch 开发 agent，每个任务一次 acpx 调用。QA 同步写 E2E 测试脚本。
+协调者按任务清单逐个 dispatch 开发 agent，每个任务一次调度。QA 同步写 E2E 测试脚本。
 
 ## 必读文件（协调者）
 1. docs/ARCHITECTURE.md
