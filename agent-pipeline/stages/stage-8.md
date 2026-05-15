@@ -7,12 +7,17 @@
 ## 任务
 QA 执行所有测试脚本，PM 验证测试覆盖 PRD 需求。
 
+**测试用例必须基于细化后的 PRD 和 UI 原型编写**，覆盖交互流程和异常场景。
+
 ## 必读文件
 1. tests/unit/ 开发写的单元测试（阶段6产出，阶段7 QA已验收）
 2. tests/integration/ 开发写的集成测试（阶段6产出，阶段7 QA已验收）
 3. tests/e2e/ QA 写的 E2E 测试（阶段6产出，阶段7已确认）
 4. test-plan.md（阶段5产出）
-5. PRD.md（验证业务逻辑）
+5. PRD.md（🟡/🔴项目为细化后的 PRD，含交互细节/边界/异常处理描述）
+6. PRD-REFINED.md（🟡/🔴项目，阶段1.8产出的细化 PRD，测试用例需覆盖细化内容）
+7. UI-UX-DESIGN.md（🟡/🔴项目，阶段1.7产出，测试交互行为需与设计一致）
+8. docs/ui-prototype.html（🟡/🔴项目，阶段1.7产出的 HTML 原型，验证 UI 行为）
 
 ## 加载 Skill
 - `qa-workflow`
@@ -39,203 +44,63 @@ bash agent-pipeline/scripts/check-test-tools.sh {项目目录}
 bash agent-pipeline/scripts/check-test-tools.sh {项目目录}
 ```
 
-### Step 0.5: 启动错误监控
-```bash
-# 启动后台错误监控（持续收集前后端日志中的 ERROR/Exception）
-bash agent-pipeline/scripts/test-monitor.sh {项目目录} start
-```
-**整个测试执行期间监控持续运行，Step 5 之后停止并生成报告。**
+### Step 1: 测试用例对照（基于细化 PRD 和 UI 原型）
 
-### Step 1: 执行单元测试（不需要环境）
-```bash
-# 逐任务执行单元测试，捕获日志
-mkdir -p {项目目录}/logs/unit
-for dir in {项目目录}/tests/unit/T-*/; do
-  task_id=$(basename "$dir")
-  echo "=== $task_id ==="
-  # 根据项目类型执行，日志写入文件：
-  # Java: cd $dir && mvn test 2>&1 | tee {项目目录}/logs/unit/${task_id}.log
-  # Node: cd $dir && npx jest 2>&1 | tee {项目目录}/logs/unit/${task_id}.log
-  # Python: cd $dir && pytest 2>&1 | tee {项目目录}/logs/unit/${task_id}.log
+QA 必须基于以下基准验证测试覆盖：
 
-  # 检查结果
-  if [ ${PIPESTATUS[0]} -eq 0 ]; then
-    echo "PASS" >> {项目目录}/logs/unit/${task_id}.log
-  else
-    echo "FAIL" >> {项目目录}/logs/unit/${task_id}.log
-    echo "❌ $task_id 测试失败，查看日志: {项目目录}/logs/unit/${task_id}.log"
-  fi
-done
-```
+**细化 PRD（🟡/🔴项目）**：
+- 交互细节测试：验证每个 REQ 的操作路径、交互方式、反馈时机
+- 边界情况测试：验证每个 REQ 标注的边界场景
+- 文案规范测试：验证页面标题、按钮、提示文案符合规范
+- 异常处理测试：验证输入校验、网络异常、权限异常等路径
 
-### Step 2: 执行集成测试（不需要环境或使用测试容器）
-```bash
-mkdir -p {项目目录}/logs/integration
-cd {项目目录}/tests/integration && mvn test 2>&1 | tee {项目目录}/logs/integration/integration.log
-# 检查失败用例
-grep -E "Tests run:.*Failures: [1-9]|ERROR" {项目目录}/logs/integration/integration.log || true
+**UI 原型（🟡/🔴项目）**：
+- 交互一致性：实际 UI 行为与 HTML 原型一致
+- 组件状态：正常/空/加载/错误状态切换正确
+- 响应式：至少验证 Desktop + Mobile 两种布局
+
+**🟢小型项目**：基于原始 PRD 验收标准测试即可。
+
+### Step 2: 测试执行
+按 test-plan.md 顺序执行：
+1. 单元测试 → `mvn test` / `npm test`
+2. 集成测试 → `mvn verify` / `npm run test:integration`
+3. E2E 测试 → `npx playwright test`
+4. 记录每个测试结果
+
+### Step 3: REQ 追溯矩阵
+生成测试报告时，必须包含 REQ 追溯矩阵：
+
+```markdown
+## REQ 追溯矩阵
+| REQ | 功能 | TC 数 | 通过 | 失败 | 覆盖率 |
+|-----|------|-------|------|------|--------|
+| REQ-001 | 用户登录 | 5 | 5 | 0 | 100% |
+| REQ-002 | 数据导出 | 8 | 7 | 1 | 87.5% |
 ```
 
-### Step 3: 启动完整环境（E2E 前置，必须）
+### Step 4: 功能点标签更新
+- 测试通过的 REQ → `测试-通过`
+- 测试失败的 REQ → `测试-失败`（回退到开发-进行中）
 
-E2E 测试必须连接真实环境。在跑 E2E 之前，协调者必须启动完整环境并确认就绪：
-
-```bash
-# 3.1 使用阶段2产出的 docker-compose.test.yml 启动完整环境
-cd {项目目录}
-docker-compose -f docker-compose.test.yml up -d
-
-# 3.2 等待所有服务就绪（依赖 healthcheck，不是 sleep）
-echo "⏳ 等待服务就绪..."
-for i in $(seq 1 60); do
-  HEALTHY=$(docker-compose -f docker-compose.test.yml ps --format json 2>/dev/null | python3 -c "
-import json, sys
-count = 0
-for line in sys.stdin:
-    try:
-        svc = json.loads(line)
-        if 'healthy' in str(svc.get('Health', '')):
-            count += 1
-    except: pass
-print(count)
-" 2>/dev/null || echo 0)
-  if [ "$HEALTHY" -gt 0 ]; then
-    echo "✅ 服务就绪"
-    break
-  fi
-  if [ $i -eq 60 ]; then
-    echo "❌ 服务启动超时"
-    docker-compose -f docker-compose.test.yml logs --tail=20
-    exit 1
-  fi
-  sleep 2
-done
-
-# 3.3 验证后端健康接口
-for i in $(seq 1 30); do
-  if curl -sf http://localhost:8080/actuator/health > /dev/null 2>&1; then
-    echo "✅ 后端就绪"
-    break
-  fi
-  if [ $i -eq 30 ]; then
-    echo "❌ 后端健康检查失败"
-    docker-compose -f docker-compose.test.yml logs backend --tail=20
-    exit 1
-  fi
-  sleep 2
-done
-
-echo "✅ 环境就绪，开始 E2E 测试"
-```
-
-**⚠️ 禁止：不启动环境直接跑 E2E。** E2E 连不上服务会静默跳过或报错，不报错 ≠ 测试通过。
-
-### Step 4: 执行 E2E 测试（必须在 Step 3 之后）
-```bash
-mkdir -p {项目目录}/logs/e2e
-cd {项目目录} && npx playwright test --reporter=list 2>&1 | tee logs/e2e/e2e.log
-# 检查退出码：0=全部通过，非0=有失败
-E2E_EXIT=${PIPESTATUS[0]}
-if [ $E2E_EXIT -ne 0 ]; then
-  echo "❌ E2E 测试有失败（exit code: $E2E_EXIT）"
-  echo "📋 失败用例详情："
-  grep -E "✘|FAIL|Error|Timeout" logs/e2e/e2e.log || true
-  # 不要静默忽略
-fi
-```
-
-### Step 5: 停止错误监控 + 清理环境
-```bash
-# 停止错误监控，生成错误报告
-bash agent-pipeline/scripts/test-monitor.sh {项目目录} stop
-
-# 停止后端
-kill $BACKEND_PID 2>/dev/null
-# 停止 Docker 容器（如使用）
-docker-compose -f {项目目录}/docker-compose.yml down 2>/dev/null
-```
-
-**如果 error-monitor/error-report.md 显示有隐含错误，QA 必须逐条排查：**
-- 后端 ERROR/Exception → 判断是测试触发的 bug 还是预期行为
-- 前端 console.error → 判断是否影响用户体验
-- 网络 4xx/5xx → 判断接口是否正常
-- 非预期错误必须记录到 test-report.md
-
-### Step 6: QA 自审（测试艺术家思维）
-- 检查测试结果是否有遗漏
-- 分析失败用例的根因
-- 补充截图证据
-- **确认 E2E 测试是在真实环境上跑的（不是 mock）**
-
-### Step 7: PM 对照 PRD 审查
-- **逐 REQ 核对**：每个 REQ-xxx 是否有对应测试用例且通过
-- 验证测试报告中的 REQ 追溯矩阵完整性
-- 检查错误监控报告中的隐含错误是否已处理
-- 产出 test-case-review.md
-
-### Step 8: 协调者独立验证
-
-```bash
-# 1. 单元测试
-cd {项目目录}/6 && mvn test -q 2>&1 | tail -20
-
-# 2. 重新启动环境 + E2E（协调者独立验证，不信任 QA 的报告）
-# 重复 Step 3 的环境启动流程
-# ...
-cd {项目目录} && npx playwright test --reporter=list 2>&1 | tail -30
-
-# 3. 检查 E2E 测试输出（关键：确认测试真的跑了，不是 0 个用例）
-E2E_COUNT=$(cd {项目目录} && npx playwright test --reporter=json 2>/dev/null | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('stats',{}).get('expected',0))" 2>/dev/null || echo "0")
-if [ "$E2E_COUNT" -eq 0 ]; then
-  echo "❌ E2E 测试用例数为 0 — 测试可能未执行"
-  exit 1
-fi
-echo "✅ E2E 执行了 $E2E_COUNT 个用例"
-
-# 4. 检查测试输出文件
-ls -la {项目目录}/pipeline/8/test-report.md
-ls -la {项目目录}/pipeline/8/qa-reports/*.png 2>/dev/null | wc -l
-
-# 5. 检查截图时间戳
-find {项目目录}/pipeline/8/qa-reports -name "*.png" -newer {项目目录}/pipeline/8/test-report.md 2>/dev/null
-```
-
-## 测试脚本复用说明
-阶段8 直接复用阶段6产出的测试脚本，不需要重新编写：
-- `tests/unit/{task_id}/` — 开发写，阶段7 QA验收，阶段8执行
-- `tests/integration/` — 开发写，阶段7 QA验收，阶段8执行
-- `tests/e2e/` — QA写，阶段7开发确认，阶段8执行
+### Step 5: PM 测试用例评审
+PM 对照 PRD 验证：
+- 每个 REQ 至少有 1 个正向 TC + 1 个逆向 TC
+- 边界场景已覆盖（🟡/🔴项目参考细化 PRD 的边界情况章节）
+- 异常路径已覆盖（🟡/🔴项目参考细化 PRD 的异常处理章节）
+- 交互行为与 UI 设计一致（🟡/🔴项目）
 
 ## 检查项（脚本强制）
-- [ ] test-report.md 存在且包含 REQ 追溯矩阵（每个 TC-xxx 对应 REQ-xxx）
-- [ ] 覆盖率报告存在（JaCoCo: target/site/jacoco/index.html / c8: coverage/index.html）
-- [ ] 行覆盖率 ≥95%（低于阈值则构建失败，阶段2架构师配置）
-- [ ] 集成测试连接真实 DB（非 mock）
-- [ ] E2E 测试用例数 > 0（防止环境未启动导致 0 用例）
-- [ ] E2E 测试截图 ≥3 张（证明真的跑了）
-- [ ] qa-reports/ 截图时间戳晚于 test-report.md（证明是本次执行的）
-- [ ] E2E 测试退出码 = 0（有失败用例则不通过）
-- [ ] 单元测试通过率 ≥95%
-- [ ] 集成测试通过率 100%
-- [ ] 测试日志存在于 logs/ 目录（logs/unit/、logs/integration/、logs/e2e/）
-- [ ] 失败用例有对应日志，日志中包含错误堆栈
-- [ ] error-monitor/error-report.md 存在（错误监控已执行）
-- [ ] 错误监控报告中无未排查的隐含错误
-- [ ] 测试用例可随机顺序执行（无链式依赖）
+- [ ] test-report.md 存在且 ≥50行
+- [ ] qa-reports/ 存在且含截图 ≥3张
+- [ ] REQ 追溯矩阵完整（每个 REQ 至少 1 个 TC）
+- [ ] 每个 REQ 至少 1 正向 + 1 逆向 TC
+- [ ] 覆盖率 ≥95%
+- [ ] 集成测试连接真实 DB
+- [ ] 功能点标签已更新
 
 ## 约束
-- 覆盖率 <95% → 打回开发，回退阶段6
-- 集成测试 mock DB → 打回开发，回退阶段6
-- E2E 必须在完整环境上运行（后端+前端+DB），禁止 mock
-- E2E 用例数为 0 → 打回，检查环境是否启动
-- 测试有失败 → 打回开发，回退阶段6
-- test-report.md 无 REQ 追溯矩阵 → 打回 QA
-- 错误监控有未排查的隐含错误 → QA 排查后再推进
-- 测试用例有链式依赖 → 打回开发补充 fixture
-- 通过 → 推进阶段9
-
-## 前置方案审查（强制）
-测试过程中如果发现前面阶段的方案有问题、有 bug、有遗漏：
-1. **能自行判断的** → 直接记录到 qa-issues.md，标注优先级
-2. **无法判断如何处理的** → 立即中断，询问用户
-3. **发现实现与文档不一致的** → 通知对应文档的负责人，按实际实现逻辑重新修改文档
+- 合同：🔴高风险 最多3轮
+- 测试失败 → 开发修复 → QA 回归验证
+- 修复后仅重跑失败用例（非全量重跑）
+- 单次回归超时：1小时

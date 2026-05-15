@@ -1811,6 +1811,140 @@ check_test_review_prerequisite() {
   fi
 }
 
+
+# ─── 新增阶段检查函数 ───
+
+# 检查 UI/UX 设计产出（阶段1.7）
+check_uiux_design() {
+  echo ""
+  echo "🎨 检查 UI/UX 设计产出"
+
+  local DESIGN_FILE="$PROJECT_DIR/pipeline/1.7/UI-UX-DESIGN.md"
+  if [ -f "$DESIGN_FILE" ]; then
+    # 检查 8 个技术特性维度覆盖
+    local DIMENSIONS=("技术栈适配" "设计系统" "组件设计" "响应式" "暗黑模式" "动效" "可访问性" "异常")
+    for dim in "${DIMENSIONS[@]}"; do
+      if grep -q "$dim" "$DESIGN_FILE" 2>/dev/null; then
+        echo "  ✅ 技术特性维度已覆盖: $dim"
+      else
+        echo "  🟡 技术特性维度未明确提及: $dim"
+        WARNINGS=$((WARNINGS + 1))
+      fi
+    done
+  else
+    echo "  🟡 UI-UX-DESIGN.md 不在 pipeline/1.7/ 目录（可能在 docs/）"
+  fi
+}
+
+# 检查 HTML 原型交互性（阶段1.7）
+check_html_prototype() {
+  echo ""
+  echo "🌐 检查 HTML 原型"
+
+  local PROTO_FILE="$PROJECT_DIR/docs/ui-prototype.html"
+  if [ ! -f "$PROTO_FILE" ]; then
+    PROTO_FILE="$PROJECT_DIR/pipeline/1.7/ui-prototype.html"
+  fi
+
+  if [ -f "$PROTO_FILE" ]; then
+    echo "  ✅ HTML 原型文件存在"
+
+    # 检查非纯静态（有 script 标签）
+    if grep -q '<script>' "$PROTO_FILE" 2>/dev/null || grep -q '<script ' "$PROTO_FILE" 2>/dev/null; then
+      echo "  ✅ HTML 包含交互脚本"
+    else
+      echo "  ❌ HTML 为纯静态，缺少 <script> 交互"
+      ERRORS=$((ERRORS + 1))
+    fi
+
+    # 检查响应式
+    if grep -q 'viewport' "$PROTO_FILE" 2>/dev/null; then
+      echo "  ✅ HTML 包含响应式 viewport"
+    else
+      echo "  ❌ HTML 缺少 viewport meta 标签"
+      ERRORS=$((ERRORS + 1))
+    fi
+
+    # 检查 style 标签
+    if grep -q '<style>' "$PROTO_FILE" 2>/dev/null || grep -q '<style ' "$PROTO_FILE" 2>/dev/null; then
+      echo "  ✅ HTML 包含内联样式"
+    else
+      echo "  ❌ HTML 缺少内联样式"
+      ERRORS=$((ERRORS + 1))
+    fi
+  else
+    echo "  ❌ HTML 原型文件不存在"
+    ERRORS=$((ERRORS + 1))
+  fi
+}
+
+# 检查 PRD 反向细化质量（阶段1.8）
+check_prd_refinement() {
+  echo ""
+  echo "📝 检查 PRD 反向细化质量"
+
+  local REFINED_FILE="$PROJECT_DIR/pipeline/1.8/PRD-REFINED.md"
+  if [ ! -f "$REFINED_FILE" ]; then
+    REFINED_FILE="$PROJECT_DIR/PRD-REFINED.md"
+  fi
+
+  if [ -f "$REFINED_FILE" ]; then
+    # 检查 4 个细化维度
+    local DIMENSIONS=("交互细节" "边界情况" "文案规范" "异常处理")
+    for dim in "${DIMENSIONS[@]}"; do
+      if grep -q "\[UI/UX细化\].*$dim\|$dim" "$REFINED_FILE" 2>/dev/null; then
+        echo "  ✅ 细化维度已覆盖: $dim"
+      else
+        echo "  ❌ 细化维度缺失: $dim"
+        ERRORS=$((ERRORS + 1))
+      fi
+    done
+
+    # 检查 [UI/UX细化] 标记
+    local REFINEMENT_COUNT=$(grep -c '\[UI/UX细化\]' "$REFINED_FILE" 2>/dev/null || echo 0)
+    if [ "$REFINEMENT_COUNT" -gt 0 ]; then
+      echo "  ✅ 发现 $REFINEMENT_COUNT 处 [UI/UX细化] 标记"
+    else
+      echo "  ❌ 未发现 [UI/UX细化] 标记（细化内容未标记）"
+      ERRORS=$((ERRORS + 1))
+    fi
+
+    # 检查 [待确认] 残留（阶段1.9应处理完毕）
+    local PENDING_COUNT=$(grep -c '\[待确认\]' "$REFINED_FILE" 2>/dev/null || echo 0)
+    if [ "$PENDING_COUNT" -gt 0 ]; then
+      echo "  🟡 发现 $PENDING_COUNT 处 [待确认] 残留（需人工确认）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+  else
+    echo "  🟡 PRD-REFINED.md 不存在（可能在非中型/大型项目）"
+  fi
+}
+
+# 检查功能点标签一致性
+check_feature_tags() {
+  echo ""
+  echo "🏷️ 检查功能点标签"
+
+  local TAGS_FILE="$PROJECT_DIR/pipeline/feature-tags.json"
+  if [ -f "$TAGS_FILE" ]; then
+    echo "  ✅ feature-tags.json 存在"
+
+    # 检查 JSON 合法性
+    if python3 -c "import json; json.load(open('$TAGS_FILE'))" 2>/dev/null; then
+      echo "  ✅ JSON 格式合法"
+
+      # 统计各状态数量
+      local TOTAL=$(python3 -c "import json; d=json.load(open('$TAGS_FILE')); print(len(d.get('features',{})))" 2>/dev/null || echo 0)
+      echo "  📊 功能点总数: $TOTAL"
+    else
+      echo "  ❌ JSON 格式不合法"
+      ERRORS=$((ERRORS + 1))
+    fi
+  else
+    echo "  🟡 feature-tags.json 不存在（首次运行阶段1.7后会自动创建）"
+  fi
+}
+
 # 主逻辑：根据阶段号执行对应检查
 case "$PHASE" in
   0)
@@ -1861,6 +1995,88 @@ case "$PHASE" in
     fi
     check_html_draft "$PROJECT_DIR/docs/prd-draft.html" "$PROJECT_DIR/pipeline/1.6/prd-feedback.md" "PRD"
     ;;
+  1.7)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    # HTML 原型额外检查
+    PROTO_SPEC=$(load_conf "PHASE_1.75_FILE" "")
+    if [ -n "$PROTO_SPEC" ]; then
+      PROTO_FILE_NAME=$(echo "$PROTO_SPEC" | cut -d: -f1)
+      PROTO_MIN_L=$(echo "$PROTO_SPEC" | cut -d: -f2)
+      # HTML 原型在 docs/ 目录
+      local OLD_PROJECT_DIR="$PROJECT_DIR"
+      PROTO_PATH="$PROJECT_DIR/docs/$PROTO_FILE_NAME"
+      if [ -f "$PROTO_PATH" ]; then
+        LINES_PROTO=$(count_lines "$PROTO_PATH")
+        echo "  📏 HTML原型有效行数: $LINES_PROTO (最低要求: $PROTO_MIN_L)"
+        if [ "$LINES_PROTO" -lt "$PROTO_MIN_L" ]; then
+          echo "  ❌ HTML原型行数不足"
+          ERRORS=$((ERRORS + 1))
+        else
+          echo "  ✅ HTML原型行数达标"
+        fi
+      else
+        echo "  ❌ HTML原型不存在: $PROTO_PATH"
+        ERRORS=$((ERRORS + 1))
+      fi
+    fi
+    check_uiux_design
+    check_html_prototype
+    check_feature_tags
+    ;;
+  1.8)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    # prd-diff.md 额外检查
+    local DIFF_FILE="$PROJECT_DIR/pipeline/1.8/prd-diff.md"
+    if [ ! -f "$DIFF_FILE" ]; then
+      DIFF_FILE="$PROJECT_DIR/prd-diff.md"
+    fi
+    if [ -f "$DIFF_FILE" ]; then
+      echo "  ✅ prd-diff.md 存在"
+    else
+      echo "  ❌ prd-diff.md 不存在"
+      ERRORS=$((ERRORS + 1))
+    fi
+    check_prd_refinement
+    check_feature_tags
+    ;;
+  1.9)
+    PHASE_SPEC=$(get_phase_file "$PHASE")
+    if [ -n "$PHASE_SPEC" ]; then
+      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
+      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
+      check_file "$FILE_NAME" "$MIN_L"
+    fi
+    # 检查原始 PRD 备份
+    local BACKUP_FILE="$PROJECT_DIR/docs/PRD-original-backup.md"
+    if [ -f "$BACKUP_FILE" ]; then
+      echo "  ✅ 原始 PRD 备份存在"
+    else
+      echo "  🟡 原始 PRD 备份不存在（建议保留）"
+      WARNINGS=$((WARNINGS + 1))
+    fi
+    # 检查 [待确认] 残留
+    local FINAL_PRD="$PROJECT_DIR/PRD.md"
+    if [ -f "$FINAL_PRD" ]; then
+      local PENDING=$(grep -c '\[待确认\]' "$FINAL_PRD" 2>/dev/null || echo 0)
+      if [ "$PENDING" -gt 0 ]; then
+        echo "  ❌ 最终 PRD 仍有 $PENDING 处 [待确认] 残留"
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ 最终 PRD 无 [待确认] 残留"
+      fi
+    fi
+    check_feature_tags
+    ;;
   2)
     PHASE_SPEC=$(get_phase_file "$PHASE")
     if [ -n "$PHASE_SPEC" ]; then
@@ -1869,6 +2085,7 @@ case "$PHASE" in
       check_file "$FILE_NAME" "$MIN_L"
     fi
     check_architecture_outputs
+    check_feature_tags
     ;;
   2.5)
     PHASE_SPEC=$(get_phase_file "$PHASE")
@@ -1971,6 +2188,7 @@ case "$PHASE" in
     check_layered_architecture
     check_coverage
     check_input_references "6" "$PROJECT_DIR" "ARCHITECTURE" "CODE-MAP" "TASK-LIST"
+    check_feature_tags
     # 集成测试目录检查
     INT_DIR="$PROJECT_DIR/tests/integration"
     if [ -d "$INT_DIR" ]; then
@@ -2010,6 +2228,7 @@ case "$PHASE" in
     check_e2e_execution
     check_test_case_review
     check_traceability "8"
+    check_feature_tags
     check_architecture_implementation
     if [ -f "$PROJECT_DIR/pipeline/8/tool-check.log" ]; then
       echo "  ✅ 测试工具检查日志存在"
@@ -2030,6 +2249,7 @@ case "$PHASE" in
   9)
     PHASE_SPEC=$(get_phase_file "$PHASE")
     if [ -n "$PHASE_SPEC" ]; then
+    check_feature_tags
       FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
       MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
       check_file "$FILE_NAME" "$MIN_L"
