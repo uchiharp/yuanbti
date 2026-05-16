@@ -182,6 +182,7 @@
   },
   "active": "df1b934b5c006215",
   "lastOpenFiles": [
+    "pipeline",
     "stages/stage-1.9.md",
     "stages/stage-1.8.md",
     "stages/stage-1.7.md",
@@ -216,7 +217,6 @@
     "stages/stage-5.md",
     "PRD.md",
     "stages/stage-9.md",
-    "stages/stage-6.5.md",
-    "stages/stage-3.5.md"
+    "stages/stage-6.5.md"
   ]
 }
