@@ -180,8 +180,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "df1b934b5c006215",
+  "active": "188aef49376e285c",
   "lastOpenFiles": [
+    "pipeline/PIPELINE-V2-OPTIMIZATION.md",
     "pipeline",
     "stages/stage-1.9.md",
     "stages/stage-1.8.md",
@@ -203,7 +204,6 @@
     "PROJECT-TEMPLATE.md",
     "Users/sunwenyong/projects",
     "Users/sunwenyong",
-    "Users",
     "skills/engineering-robustness/SKILL.md",
     "stages/stage-1.6.md",
     "stages/stage-3.md",

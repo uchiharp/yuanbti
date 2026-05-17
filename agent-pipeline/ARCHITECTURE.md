@@ -104,7 +104,7 @@
 | 角色 | 模型 |
 |------|------|
 | architect, qa, dev2 | mimo-v2.5-pro |
-| pm, dev1, dev3, ux-tester, ui-designer | glm5.1 | |
+| pm, dev1, dev3, ui-ux-designer | glm5.1 | |
 
 **现状：** `model_routing` 已在 pipeline-config.json 和 orchestrator.ts 中实现。
 
@@ -219,7 +219,7 @@ interface EscalationEntry {
     "min_count": { "large": 4, "medium": 3, "small": 2 }
   },
   // 新增字段（需补充到配置 schema）
-  "cross_review_roles": ["architect", "qa", "dev1", "ux-tester"],
+  "cross_review_roles": ["architect", "qa", "dev1"],
   "executor": { "type": "acp", "role": "pm" },
   "timeout_minutes": 60,
   "skill": "prd-review"
@@ -559,14 +559,12 @@ prompt-builder 读取此配置，在构建 prompt 时自动注入对应评审摘
   ├──→ dispatch to architect ────┤
   ├──→ dispatch to qa ───────────┤
   ├──→ dispatch to dev1 ─────────┤
-  ├──→ dispatch to ux-tester ────┤
   │                              │
   │   （并发评审，各自产出意见）    │
   │                              │
   │←── architect 评审意见 ────────┤
   │←── qa 评审意见 ───────────────┤
   │←── dev1 评审意见 ─────────────┤
-  │←── ux-tester 评审意见 ────────┤
   │                              │
   ├─ 汇总评审意见                 │
   ├─ dispatch to pm（修订）       │
