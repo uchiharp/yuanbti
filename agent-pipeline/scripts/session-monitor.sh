@@ -11,8 +11,9 @@ set -eo pipefail
 
 PROJECT="${1:-}"
 ACTION="${2:-status}"
-AGENTS_ROOT="${AGENTS_ROOT:-/Users/sunwenyong/.openclaw/agents}"
-PIPELINE_ROOT="$AGENTS_ROOT/agent-pipeline"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PIPELINE_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+AGENTS_ROOT="$(cd "$PIPELINE_ROOT/.." && pwd)"
 
 # ─── 加载调度适配层 ───
 source "$PIPELINE_ROOT/scripts/dispatch-adapter.sh"

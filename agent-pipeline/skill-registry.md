@@ -13,29 +13,26 @@
 | **1.7** | **UI/UX 设计师** | **`ui-ux-design`, `feature-tagging`** | **—** |
 | **1.8** | **PM** | **`prd-refinement`, `feature-tagging`** | **—** |
 | **1.9** | **协调者** | **`feature-tagging`** | **—** |
-| 2 | 架构师 | `tech-architecture`, `logging-exception` | — |
-| 2.5 | 开发 + QA + PM | `architecture-review` | — |
+| 2 | 架构师 | `tech-architecture`, `logging-exception`, `engineering-robustness` | — |
+| 2.5 | 开发 + QA + PM | `engineering-robustness`, `architecture-review` | — |
 | 2.6 | 架构师 | — | — |
 | 2.8 | Spike agent | `tech-spike` | — |
-| 3 | UX 设计师 | — | — |
-| 3 | PM | — | — |
-| 3.5 | UI 设计师 | — | — |
-| 4 | UI 设计师 | — | — |
-| 4 | PM + 开发 | — | — |
-| 4.5 | UX | — | — |
 | 5 | 协调者 | `task-decomposition` | — |
 | 5 | QA | `qa-workflow` | — |
-| 5.5 | 开发 | — | — |
-| 6 | 开发 | `code-quality-guard`, `logging-exception` | `humanize-code` |
+| 5.5 | 开发 | `qa-workflow` | — |
+| 6 | 开发 | `code-quality-guard`, `logging-exception`, `engineering-robustness` | `humanize-code` |
 | 6 | QA（并行） | `qa-workflow` | — |
+| 6.3 | 协调者 | `engineering-robustness` | — |
 | 6.5 | 架构师 | `code-review-checklist` | — |
+| 7-test-review | QA | `qa-workflow` | — |
 | 7 | 架构师 | `code-review-checklist`, `logging-exception` | — |
 | 7 | QA | `qa-workflow`, `humanize-code`, `logging-exception` | — |
-| 7 | PM | — | — |
-| 8 | QA | `qa-workflow` | — |
+| 7 | PM | `engineering-robustness` | — |
+| 8 | QA | `qa-workflow`, `engineering-robustness` | — |
 | 8 | PM | — | — |
 | 8.5 | PM | — | — |
 | 9 | 协调者 | — | — |
+| 10 | 协调者 | `interactive-html` | — |
 
 > **加粗行**为本次新增阶段
 
@@ -56,7 +53,7 @@
 | `code-review-checklist` | 代码审查维度（含SOLID、设计模式检查） | 6.5, 7 |
 | `humanize-code` | 去AI味检查 | 7 |
 | `logging-exception` | 日志/异常/错误处理架构 | 2, 6, 7 |
-| `engineering-robustness` | 工程健壮性规范 | 2, 6, 6.3, 7 |
+| `engineering-robustness` | 工程健壮性规范 | 2, 2.5, 6, 6.3, 7, 8 |
 | `interactive-html` | 交互式 HTML 文档生成 | 10 |
 
 ## 强制规则

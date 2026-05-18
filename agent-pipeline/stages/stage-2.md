@@ -84,8 +84,10 @@
 ## 检查项（脚本强制）
 - [ ] ARCHITECTURE.md ≥100行
 - [ ] docker-compose.test.yml 存在（E2E 测试环境定义）
-- [ ] 覆盖率工具已配置（pom.xml 含 JaCoCo / package.json 含 c8）
+- [ ] 覆盖率工具已配置（pom.xml 含 JaCoCo / package.json 含 c8 / pyproject.toml 含 pytest-cov / Makefile 含 go test / cargo tarpaulin）
 - [ ] 覆盖率阈值设为 95%（低于则构建失败）
+- [ ] 覆盖率报告输出到统一路径（coverage/unit/ + coverage/integration/）
+- [ ] 单元测试和集成测试覆盖率分开收集（ut/it 独立报告）
 - [ ] 评审报告 ≥3检查点 + ≥1建议 + 评分
 - [ ] 合同轮次 ≤2
 - [ ] 如含"高风险"/"Spike"标记 → 触发阶段2.8
@@ -138,22 +140,66 @@ services:
 ## 覆盖率工具配置要求
 架构师必须在阶段2配置好覆盖率工具，嵌入项目构建配置中。**阈值 95%，低于则 `mvn test` / `npm test` 直接失败。**
 
+### 统一路径约定（所有语言强制）
+
+所有语言覆盖率报告必须输出到统一路径，`pipeline-check.sh` 只认路径不认语言：
+
+```
+{项目目录}/
+  coverage/
+    unit/index.html          ← 单元测试覆盖率
+    integration/index.html   ← 集成测试覆盖率
+```
+
+各语言通过构建工具或脚本将报告输出/软链到此路径。
+
 ### Java（JaCoCo，嵌入 pom.xml）
+
+拆分 ut/it 两个 execution，产出两份独立覆盖率报告：
+
 ```xml
 <plugin>
   <groupId>org.jacoco</groupId>
   <artifactId>jacoco-maven-plugin</artifactId>
   <version>0.8.12</version>
   <executions>
+    <!-- 单元测试 -->
     <execution>
-      <id>prepare-agent</id>
+      <id>jacoco-ut</id>
       <goals><goal>prepare-agent</goal></goals>
+      <configuration>
+        <destFile>${project.build.directory}/jacoco-ut.exec</destFile>
+        <propertyName>surefireArgLine</propertyName>
+      </configuration>
     </execution>
     <execution>
-      <id>report</id>
+      <id>jacoco-ut-report</id>
       <phase>test</phase>
       <goals><goal>report</goal></goals>
+      <configuration>
+        <dataFile>${project.build.directory}/jacoco-ut.exec</dataFile>
+        <outputDirectory>${project.build.directory}/site/jacoco-ut</outputDirectory>
+      </configuration>
     </execution>
+    <!-- 集成测试 -->
+    <execution>
+      <id>jacoco-it</id>
+      <goals><goal>prepare-agent-integration</goal></goals>
+      <configuration>
+        <destFile>${project.build.directory}/jacoco-it.exec</destFile>
+        <propertyName>failsafeArgLine</propertyName>
+      </configuration>
+    </execution>
+    <execution>
+      <id>jacoco-it-report</id>
+      <phase>verify</phase>
+      <goals><goal>report-integration</goal></goals>
+      <configuration>
+        <dataFile>${project.build.directory}/jacoco-it.exec</dataFile>
+        <outputDirectory>${project.build.directory}/site/jacoco-it</outputDirectory>
+      </configuration>
+    </execution>
+    <!-- 覆盖率门禁 -->
     <execution>
       <id>check</id>
       <goals><goal>check</goal></goals>
@@ -162,11 +208,7 @@ services:
           <rule>
             <element>BUNDLE</element>
             <limits>
-              <limit>
-                <counter>LINE</counter>
-                <value>COVEREDRATIO</value>
-                <minimum>0.95</minimum>
-              </limit>
+              <limit><counter>LINE</counter><value>COVEREDRATIO</value><minimum>0.95</minimum></limit>
             </limits>
           </rule>
         </rules>
@@ -174,28 +216,101 @@ services:
     </execution>
   </executions>
 </plugin>
+
+<!-- surefire 用 ut agent -->
+<plugin>
+  <artifactId>maven-surefire-plugin</artifactId>
+  <configuration><argLine>${surefireArgLine}</argLine></configuration>
+</plugin>
+<!-- failsafe 用 it agent -->
+<plugin>
+  <artifactId>maven-failsafe-plugin</artifactId>
+  <configuration><argLine>${failsafeArgLine}</argLine></configuration>
+  <executions>
+    <execution><goals><goal>integration-test</goal><goal>verify</goal></goals></execution>
+  </executions>
+</plugin>
 ```
 
-### Node.js（c8，嵌入 package.json）
+构建完成后软链到统一路径：
+```bash
+mkdir -p coverage/unit coverage/integration
+ln -sf $PWD/target/site/jacoco-ut coverage/unit
+ln -sf $PWD/target/site/jacoco-it coverage/integration
+```
+
+### Node.js / TypeScript（c8，嵌入 package.json）
+
+c8 天然支持 `--reports-dir`，直接输出到统一路径：
+
 ```json
 {
   "scripts": {
-    "test": "c8 --lines 95 --branches 95 jest"
-  },
-  "c8": {
-    "reporter": ["text", "html"],
-    "report-dir": "coverage"
+    "test:unit": "c8 --reports-dir=coverage/unit --reporter=html --lines 95 vitest run --dir tests/unit",
+    "test:integration": "c8 --reports-dir=coverage/integration --reporter=html --lines 95 vitest run --dir tests/integration",
+    "test": "npm run test:unit && npm run test:integration"
   }
 }
 ```
 
-### Python（pytest-cov，嵌入 pyproject.toml）
+### Python（pytest-cov，嵌入 pyproject.toml + CLI）
+
 ```toml
 [tool.pytest.ini_options]
-addopts = "--cov=src --cov-report=html --cov-fail-under=95"
+testpaths = ["tests"]
 ```
 
-**效果**：`mvn test` / `npm test` / `pytest` 时自动收集覆盖率，低于 95% 直接失败。开发者本地就能看到哪些行没覆盖。
+执行命令（写入 Makefile 或 scripts）：
+```bash
+# 单元测试覆盖率
+pytest tests/unit --cov=src --cov-report=html:coverage/unit --cov-report=term --cov-fail-under=95
+
+# 集成测试覆盖率
+pytest tests/integration --cov=src --cov-report=html:coverage/integration --cov-report=term --cov-fail-under=95
+```
+
+### Go（go test -coverprofile + build tag）
+
+测试文件用 build tag 区分层级：
+```go
+//go:build unit
+// user_service_test.go — 单元测试
+
+//go:build integration
+// user_service_integration_test.go — 集成测试
+```
+
+Makefile 配置：
+```makefile
+test-unit:
+	mkdir -p coverage/unit
+	go test -tags=unit -coverprofile=coverage/unit.out ./...
+	go tool cover -html=coverage/unit.out -o coverage/unit/index.html
+
+test-integration:
+	mkdir -p coverage/integration
+	go test -tags=integration -coverprofile=coverage/integration.out ./...
+	go tool cover -html=coverage/integration.out -o coverage/integration/index.html
+
+test: test-unit test-integration
+```
+
+### Rust（cargo-tarpaulin）
+
+Makefile 配置：
+```makefile
+test-unit:
+	mkdir -p coverage/unit
+	cargo tarpaulin --lib --skip-tests --out Html --output-dir coverage/unit
+
+test-integration:
+	mkdir -p coverage/integration
+	cargo tarpaulin --tests --out Html --output-dir coverage/integration
+
+test: test-unit test-integration
+```
+
+**效果**：不管什么语言，`pipeline-check.sh` 统一检查 `coverage/unit/index.html` 和 `coverage/integration/index.html`，各自≥95% 才通过。开发者本地就能看到分层覆盖率。
 
 ## 工程健壮性设计（必须在 ARCHITECTURE.md 中体现）
 

@@ -20,7 +20,7 @@
 | docs/*.html | — | 关键文档的 HTML 版本（结构清晰、便于阅读） |
 
 ## 交付文档写作规则
-- **必须在阶段7签收后才能写**（基于最终代码）
+- **必须在阶段8完成后才能写**（基于测试通过的最终代码）
 - 写完后开发确认准确性 + QA 验证可操作性
 - 时限：4小时
 
@@ -57,7 +57,7 @@ curl -s http://localhost:8080/api/yyy | head -5
 curl -s http://localhost:8080/api/zzz | head -5
 
 # 4. 安全扫描（确认阶段7修复后无遗留）
-bash agent-pipeline/scripts/security-scan.sh {项目目录}
+bash $PIPELINE_ROOT/scripts/security-scan.sh {项目目录}
 
 # 5. 检查测试报告真实性（截图时间戳）
 find {项目目录}/pipeline/8/qa-reports -name "*.png" -mtime -1 | wc -l

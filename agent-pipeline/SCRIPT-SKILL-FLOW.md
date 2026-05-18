@@ -6,20 +6,21 @@
 ## 执行模型
 
 ```
-pipeline-run.sh（主控脚本，每阶段驱动）
+协调者（主控，每阶段驱动）
   │
   ├── 1. 读取 stages/stage-X.md → 输出任务指令给 agent
-  ├── 2. 按 skill-registry.md 加载对应 Skill
+  ├── 2. 按 skill-registry.md + stage-skills.conf 加载对应 Skill
   ├── 3. 等待 agent 完成（协调者轮询产出物）
   ├── 4. 执行 pipeline-check.sh（验证产出物合规）
   │     ├── 通过 → 推进下一阶段
   │     └── 不通过 → 输出缺失项 → 打回重做（轮次+1）
-  ├── 5. 执行 feature-tags.sh（更新功能点标签状态）
+  ├── 5. 功能点标签由 agent 自动更新（feature-tags.json）
   └── 6. 调度子脚本（按阶段）
-      ├── review-check.sh（阶段6.5/7）
-      ├── contract-check.sh（阶段7/9）
-      ├── test-report-check.sh（阶段8）
-      └── acceptance-check.sh（阶段9）
+      ├── dispatch.sh（单阶段调度）
+      ├── dispatch-task.sh（单任务粒度调度，阶段6）
+      ├── run-stage-6.sh（阶段6 并发调度）
+      ├── run-review.sh（阶段7 代码审查）
+      └── run-test-review.sh（阶段7 测试审查）
 ```
 
 **脚本管"做什么、做多少、做对了没"，skill 管"怎么做好"。**
@@ -31,7 +32,7 @@ pipeline-run.sh（主控脚本，每阶段驱动）
 
 | 阶段 | 名称 | 角色 | 产出物 | 最低行数 | 合同 | 功能点标签 |
 |------|------|------|--------|---------|------|-----------|
-| 0 | 启动 | 协调者 | PROJECT-PLAN.md | 30 | — | — |
+| 0 | 启动 | 协调者 | PROJECT-PLAN.md | 20 | — | — |
 | 1 | 需求分析 | PM | PRD.md | 200 | 🟡 2轮 | PRD-待确认 |
 | 1.5 | PRD交叉评审 | 各角色 | cross-review-pm.md | 50 | — | — |
 | 1.6 | PRD用户审阅 | PM+用户 | prd-feedback.md | 10 | — | PRD-已确认 |
@@ -42,10 +43,6 @@ pipeline-run.sh（主控脚本，每阶段驱动）
 | 2.5 | 架构交叉评审 | 各角色 | cross-review-arch.md | 40 | — | 技术方案-已确认 |
 | 2.6 | 架构用户确认 | 用户 | architecture-feedback.md | 10 | — | — |
 | 2.8 | 技术Spike | Spike | SPIKE-REPORT.md | 30 | 4h | — |
-| 3 | UX设计 | UX | UX-DESIGN.md | 80 | 🟡 2轮 | — |
-| 3.5 | UX→UI交接 | UI | cross-review-ux-to-ui.md | 20 | — | — |
-| 4 | UI设计 | UI | UI-DESIGN.md | 80 | 🟡 2轮 | — |
-| 4.5 | UI→UX确认 | UX | cross-review-ui-to-ux.md | 20 | — | — |
 | 5 | 任务分解 | 协调者+QA | TASK-LIST.md + test-plan.md | 50+30 | 🟡 2轮 | — |
 | 5.5 | 分解确认 | 开发 | confirm-tasks.md | 20 | — | — |
 | 6 | 开发执行 | 开发+QA | 代码 + 测试脚本 | — | 🔴 3轮 | 开发-进行中/完成 |
@@ -56,6 +53,7 @@ pipeline-run.sh（主控脚本，每阶段驱动）
 | 8 | 测试验证 | QA | test-report.md + 截图 | 50 | 🔴 3轮 | 测试-通过/失败 |
 | 8.5 | PM验收 | PM | pm-acceptance.md | 30 | 🟡 2轮 | 验收-通过 |
 | 9 | 交付验收 | 协调者 | ACCEPTANCE-REPORT.md + 交付文档 | 50 | — | 交付-完成 |
+| 10 | 交互式文档 | 协调者 | INTERACTIVE-DOC.html | 100 | — | — |
 
 > **加粗行**为本次新增阶段（1.7/1.8/1.9）
 
@@ -65,7 +63,7 @@ pipeline-run.sh（主控脚本，每阶段驱动）
 
 ```
 0 → 1 → 1.5(🟡/🔴) → 1.6 → 1.7(🟡/🔴) → 1.8(🟡/🔴) → 1.9(🟡/🔴)
-    → 2 → 2.5 → [2.8(有高风险)] → 3 → 3.5 → 4 → 4.5 → 5 → 5.5
+    → 2 → 2.5 → [2.8(有高风险)] → 5 → 5.5
     → 6 → 6.3 → 6.5 → 7-test-review → 7 → 8 → 8.5 → 9 → 10
 ```
 
@@ -75,7 +73,7 @@ pipeline-run.sh（主控脚本，每阶段驱动）
 - **阶段 1.9**（细化 PRD 确认）：人工确认细化 PRD 后，流入架构设计
 
 **规模裁剪：**
-- 🟢 小型：跳过 1.5, 1.7, 1.8, 1.9, 2.5, 3.5, 4.5, 5.5, 6.3, 6.5
+- 🟢 小型：跳过 1.5, 1.7, 1.8, 1.9, 2.5, 2.8, 5.5, 6.3, 6.5, 7-test-review
 - 🟡 中型：跳过 2.8（除非有高风险标记），**执行 1.7, 1.8, 1.9**
 - 🔴 大型：全阶段执行
 
@@ -96,7 +94,7 @@ PRD-待确认 → PRD-已确认 → UI/UX-设计中 → UI/UX-设计完成
     → 开发-进行中 → 开发-完成 → 测试-通过 → 验收-通过 → 交付-完成
 ```
 
-标签存储在 `pipeline/feature-tags.json`，由 `feature-tags.sh` 自动维护。
+标签存储在 `pipeline/feature-tags.json`，由 agent 在每个阶段结束时自动更新（dispatch.sh prompt 中包含更新指令）。
 
 ---
 
@@ -104,18 +102,14 @@ PRD-待确认 → PRD-已确认 → UI/UX-设计中 → UI/UX-设计完成
 
 | 管什么 | 谁管 | 怎么管 |
 |--------|------|--------|
-| 阶段顺序和跳转 | 脚本 | pipeline-run.sh case 语句 + 规模裁剪表 |
-| 产出物名称和路径 | 脚本 | stages/stage-X.md 中指定 |
-| 产出物最小行数 | 脚本 | wc -l 对比阈值 |
-| 评审检查点数量 | 脚本 | review-check.sh grep 计数 |
-| 合同轮次限制 | 脚本 | contract-check.sh 读 _index.json |
-| 回退次数限制 | 脚本 | contract-check.sh 统计 changes/ |
-| 24h时限 | 脚本 | 记录起始时间戳，对比当前时间 |
-| 知识库更新验证 | 脚本 | check_knowledge() 检查段落存在+日期+行数 |
+| 阶段顺序和跳转 | 协调者 | 按 SCRIPT-SKILL-FLOW.md 流程推进 |
+| 产出物名称和路径 | stage md | stages/stage-X.md 中指定 |
+| 产出物最小行数 | 脚本 | pipeline-check.sh wc -l 对比阈值 |
+| 评审检查点数量 | 脚本 | pipeline-check.sh grep 计数 |
+| 回退次数限制 | 协调者 | 记录到 changes/，人工控制 |
+| 24h时限 | 协调者 | 记录起始时间戳，对比当前时间 |
 | 目录结构初始化 | 脚本 | mkdir -p 创建标准目录 |
-| 安全扫描 | 脚本 | security-scan.sh 8类检查 |
-| 测试报告格式 | 脚本 | test-report-check.sh 6项检查 |
-| 验收7项标准 | 脚本 | acceptance-check.sh 自动验证 |
+| 安全扫描 | 脚本 | security-scan.sh 8类检查（如存在） |
 | docs/ 归档 | 脚本 | pipeline-check.sh 检查文件存在性 |
 | 交付文档齐全 | 脚本 | pipeline-check.sh 检查4文档+行数+关键词 |
 | 分层架构合规 | 脚本 | pipeline-check.sh 检查 Controller 不引用 Repository |
@@ -143,60 +137,35 @@ PRD-待确认 → PRD-已确认 → UI/UX-设计中 → UI/UX-设计完成
 ## 脚本调用链
 
 ```
-pipeline-run.sh <项目目录> <阶段号>
+协调者调度（手动或半自动）
 │
-├── lib.sh（共享函数库，所有脚本 source）
+├── dispatch.sh <项目名> <agent-id> <阶段号> <项目目录>
+│   ├── 加载 stage-skills.conf → 注入 Skill
+│   ├── 拼接 stage-X.md 内容 → 构建 prompt
+│   └── 调用 dispatch-adapter.sh → dispatch_agent()
 │
-├── 阶段0-1.6：直接检查（文件+行数+知识库+沟通记录）
+├── pipeline-check.sh <项目目录> <阶段编号> [--size small|medium|large]
+│   ├── 读取 pipeline-stages.conf → 阶段产出物阈值
+│   ├── check_file()（文件存在 + 行数达标）
+│   ├── 各阶段专用检查函数（check_review/check_code/check_test 等）
+│   └── 检查不通过 → 流程暂停
 │
-├── 阶段1.7：UI/UX 设计检查
-│   ├── check_file（UI-UX-DESIGN.md ≥120行）
-│   ├── check_file（docs/ui-prototype.html ≥200行）
-│   ├── check_html_interactive（HTML 非纯静态）
-│   └── feature-tags.sh update（标签 → UI/UX-设计完成）
+├── 阶段6 专用：
+│   ├── run-stage-6.sh（并发调度 dev1/dev2/dev3）
+│   │   ├── 解析 TASK-LIST.md → 依赖图
+│   │   ├── 按依赖顺序 dispatch-task.sh
+│   │   └── 进度追踪 → progress.json
+│   └── dispatch-task.sh（单任务粒度，增量上下文）
 │
-├── 阶段1.8：PRD 反向细化检查
-│   ├── check_file（PRD-REFINED.md ≥300行）
-│   ├── check_file（prd-diff.md ≥50行）
-│   ├── check_prd_refinement_quality（4维度覆盖检查）
-│   └── feature-tags.sh update（标签 → PRD-已细化）
+├── 阶段7 专用：
+│   ├── run-review.sh（逐任务代码审查）
+│   └── run-test-review.sh（测试交叉审查）
 │
-├── 阶段1.9：细化 PRD 确认检查
-│   ├── check_file（prd-refinement-feedback.md）
-│   ├── check_no_pending_items（无残留 [待确认]）
-│   └── feature-tags.sh confirm（标签 → PRD-细化确认）
-│
-├── 阶段2-5.5：同原有逻辑
-│
-├── 阶段6：
-│   ├── check_code（代码文件+测试文件存在）
-│   ├── check_layered_architecture（分层架构合规）
-│   ├── check_input_references（必读文件引用）
-│   └── feature-tags.sh update（按任务更新 开发-进行中/完成）
-│
-├── 阶段6.5/7：
-│   ├── review-check.sh（评审报告格式）
-│   ├── check_architecture_reference（架构引用检查）
-│   └── check_input_references（必读文件引用）
-│
-├── 阶段7/9：
-│   └── contract-check.sh（合同+回退次数）
-│
-├── 阶段8：
-│   ├── test-report-check.sh（测试报告格式）
-│   └── feature-tags.sh update（按 REQ 更新 测试-通过/失败）
-│
-├── 阶段8.5：
-│   └── feature-tags.sh confirm（标签 → 验收-通过）
-│
-├── 阶段9：
-│   ├── acceptance-check.sh + pipeline-check.sh（交付文档）
-│   └── feature-tags.sh update（标签 → 交付-完成）
-│
-└── 每阶段：
-    ├── check_knowledge()（CONTEXT.md 更新）
-    ├── check_docs_archive()（阶段2起，docs/ 归档）
-    └── feature-tags.sh summary（生成进度看板）
+└── 辅助脚本：
+    ├── dispatch-adapter.sh（后端适配：claude/codex/openclaw）
+    ├── session-health.sh（session 健康检查+恢复）
+    ├── session-monitor.sh（session 状态面板）
+    └── test-monitor.sh（测试期间错误监控）
 ```
 
 ---
@@ -206,11 +175,11 @@ pipeline-run.sh <项目目录> <阶段号>
 ```
 发现上游问题 → 协调者决定回退
   → changes/ 创建回退记录
-  → 脚本检查：总回退 ≤5，连续回退 ≤2
+  → 协调者检查：总回退 ≤5，连续回退 ≤2
   → 调度对应角色修正
   → 对应角色复核（1轮）
-  → 从目标阶段重新走检查
-  → feature-tags.sh 回退对应 REQ 的标签
+  → 从目标阶段重新走 pipeline-check.sh
+  → agent 更新 feature-tags.json 回退对应 REQ 的标签
 ```
 
 ## 需求变更流程
@@ -218,6 +187,6 @@ pipeline-run.sh <项目目录> <阶段号>
 ```
 用户提出变更 → 协调者判定类型
   🟢 小调整：当前阶段内部消化
-  🟡 功能调整：PM更新PRD → 受影响角色修改 → 对应角色1轮复核 → 更新标签
-  🔴 需求变更：回退到阶段1重走流程 → 重置标签
+  🟡 功能调整：PM更新PRD → 受影响角色修改 → 对应角色1轮复核 → 更新 feature-tags.json
+  🔴 需求变更：回退到阶段1重走流程 → 重置 feature-tags.json
 ```

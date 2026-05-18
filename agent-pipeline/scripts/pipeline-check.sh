@@ -6,9 +6,11 @@
 
 set -eo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PIPELINE_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+
 PROJECT_DIR="$1"
 PHASE="$2"
-SIZE="${3:-}"
 
 if [ -z "$PROJECT_DIR" ] || [ -z "$PHASE" ]; then
   echo "用法: $0 <项目目录> <阶段编号> [--size small|medium|large]"
@@ -16,10 +18,12 @@ if [ -z "$PROJECT_DIR" ] || [ -z "$PHASE" ]; then
   exit 1
 fi
 
-# 解析 --size 参数
-if [ "$SIZE" = "--size" ]; then
-  echo "用法: $0 <项目目录> <阶段编号> [--size small|medium|large]"
-  exit 1
+# 解析 --size 参数（支持 --size small / --size=small 两种格式）
+SIZE=""
+if [ "$3" = "--size" ] && [ -n "$4" ]; then
+  SIZE="$4"
+elif [ "${3#--size=}" != "$3" ]; then
+  SIZE="${3#--size=}"
 fi
 
 ERRORS=0
@@ -146,7 +150,7 @@ check_code() {
   # 检查进度文件（逐任务调度产出）
   local PROGRESS_FILE="$PROJECT_DIR/pipeline/6/progress.json"
   if [ -f "$PROGRESS_FILE" ]; then
-    local COMPLETED=$(python3 -c "import json; d=json.load(open('$PROGRESS_FILE')); print(sum(1 for v in d.values() if isinstance(v,dict) and v.get('status')=='completed'))" 2>/dev/null || echo 0)
+    local COMPLETED=$(python3 -c "import json; d=json.load(open('$PROGRESS_FILE')); print(sum(1 for v in d.values() if isinstance(v,dict) and v.get('status')=='completed' and v.get('agent')!='skipped'))" 2>/dev/null || echo 0)
     local FAILED=$(python3 -c "import json; d=json.load(open('$PROGRESS_FILE')); print(sum(1 for v in d.values() if isinstance(v,dict) and v.get('status')=='failed'))" 2>/dev/null || echo 0)
     echo "  ✅ progress.json 存在（完成: $COMPLETED, 失败: $FAILED）"
     if [ "$COMPLETED" -eq 0 ]; then
@@ -615,7 +619,7 @@ check_docs_archive() {
   fi
 
   # CODE-MAP.md（阶段2.5起）
-  case "$PHASE" in 2.5|2.8|3|3.5|4|4.5|5|5.5|6|6.3|6.5|7|8|8.5|9)
+  case "$PHASE" in 2.5|2.8|5|5.5|6|6.3|6.5|7|8|8.5|9)
     if [ ! -f "$DOCS_DIR/CODE-MAP.md" ]; then
       echo "  ❌ docs/CODE-MAP.md 不存在（阶段2开始前应归档）"
       ERRORS=$((ERRORS + 1))
@@ -625,7 +629,7 @@ check_docs_archive() {
   esac
 
   # ARCHITECTURE.md（阶段2.8起）
-  case "$PHASE" in 2.8|3|3.5|4|4.5|5|5.5|6|6.3|6.5|7|8|8.5|9)
+  case "$PHASE" in 2.8|5|5.5|6|6.3|6.5|7|8|8.5|9)
     if [ ! -f "$DOCS_DIR/ARCHITECTURE.md" ]; then
       echo "  ❌ docs/ARCHITECTURE.md 不存在（阶段2签收后应归档）"
       ERRORS=$((ERRORS + 1))
@@ -967,70 +971,78 @@ check_architecture_reference() {
   fi
 }
 
-# 覆盖率检查（阶段6/8）
+# 覆盖率检查（阶段6/8）— 分层校验
 check_coverage() {
   echo ""
-  echo "📊 检查测试覆盖率（阈值 95%）"
+  echo "📊 检查测试覆盖率（阈值 95%）— 分层校验"
 
-  local CODE_DIR="$PROJECT_DIR"
+  local UNIT_REPORT="$PROJECT_DIR/coverage/unit/index.html"
+  local INT_REPORT="$PROJECT_DIR/coverage/integration/index.html"
+  local PASS=true
+  local FOUND_ANY=false
 
-  # JaCoCo 报告（Java）
-  local JACOCO_HTML="$CODE_DIR/target/site/jacoco/index.html"
-  if [ -f "$JACOCO_HTML" ]; then
-    # 从 JaCoCo HTML 提取总行覆盖率
-    local JACOCO_COV=$(grep -oE 'Total[^<]*' "$JACOCO_HTML" 2>/dev/null | grep -oE '[0-9]+%' | head -1)
-    if [ -n "$JACOCO_COV" ]; then
-      local COV_NUM=$(echo "$JACOCO_COV" | tr -d '%')
-      if [ "$COV_NUM" -ge 95 ]; then
-        echo "  ✅ JaCoCo 行覆盖率: $JACOCO_COV"
-      else
-        echo "  ❌ JaCoCo 行覆盖率: $JACOCO_COV（低于 95%）"
-        ERRORS=$((ERRORS + 1))
-      fi
+  # ── 单元测试覆盖率 ──
+  if [ -f "$UNIT_REPORT" ]; then
+    FOUND_ANY=true
+    local UNIT_COV=$(grep -oP '(?:Lines|Total).*?(\d+)%' "$UNIT_REPORT" 2>/dev/null | grep -oP '\d+' | head -1)
+    if [ -z "$UNIT_COV" ]; then
+      # fallback: 尝试其他常见 HTML 格式
+      UNIT_COV=$(grep -oE '[0-9]+%' "$UNIT_REPORT" 2>/dev/null | head -1 | tr -d '%')
+    fi
+    if [ -n "$UNIT_COV" ] && [ "$UNIT_COV" -ge 95 ]; then
+      echo "  ✅ 单元测试覆盖率: ${UNIT_COV}%"
+    elif [ -n "$UNIT_COV" ]; then
+      echo "  ❌ 单元测试覆盖率: ${UNIT_COV}%（低于 95%）"
+      PASS=false
+      ERRORS=$((ERRORS + 1))
     else
-      echo "  🟡 JaCoCo 报告存在但无法解析覆盖率"
+      echo "  🟡 单元测试覆盖率报告存在但无法解析"
       WARNINGS=$((WARNINGS + 1))
     fi
+  else
+    echo "  ❌ 未找到单元测试覆盖率报告 (coverage/unit/index.html)"
+    echo "     阶段2架构师应已配置覆盖率工具，输出到统一路径"
+    PASS=false
   fi
 
-  # c8 报告（Node.js）
-  local C8_REPORT="$PROJECT_DIR/coverage/index.html"
-  if [ -f "$C8_REPORT" ]; then
-    local C8_COV=$(grep -oE 'Lines[^<]*[0-9]+%' "$C8_REPORT" 2>/dev/null | grep -oE '[0-9]+%' | head -1)
-    if [ -n "$C8_COV" ]; then
-      local COV_NUM=$(echo "$C8_COV" | tr -d '%')
-      if [ "$COV_NUM" -ge 95 ]; then
-        echo "  ✅ c8 行覆盖率: $C8_COV"
-      else
-        echo "  ❌ c8 行覆盖率: $C8_COV（低于 95%）"
-        ERRORS=$((ERRORS + 1))
-      fi
+  # ── 集成测试覆盖率 ──
+  if [ -f "$INT_REPORT" ]; then
+    FOUND_ANY=true
+    local INT_COV=$(grep -oP '(?:Lines|Total).*?(\d+)%' "$INT_REPORT" 2>/dev/null | grep -oP '\d+' | head -1)
+    if [ -z "$INT_COV" ]; then
+      INT_COV=$(grep -oE '[0-9]+%' "$INT_REPORT" 2>/dev/null | head -1 | tr -d '%')
     fi
-  fi
-
-  # pytest-cov 报告（Python）
-  local PYCOV_HTML="$PROJECT_DIR/htmlcov/index.html"
-  if [ -f "$PYCOV_HTML" ]; then
-    local PY_COV=$(grep -oE 'total[^<]*[0-9]+%' "$PYCOV_HTML" 2>/dev/null | grep -oE '[0-9]+%' | head -1)
-    if [ -n "$PY_COV" ]; then
-      local COV_NUM=$(echo "$PY_COV" | tr -d '%')
-      if [ "$COV_NUM" -ge 95 ]; then
-        echo "  ✅ pytest-cov 行覆盖率: $PY_COV"
-      else
-        echo "  ❌ pytest-cov 行覆盖率: $PY_COV（低于 95%）"
-        ERRORS=$((ERRORS + 1))
-      fi
+    if [ -n "$INT_COV" ] && [ "$INT_COV" -ge 95 ]; then
+      echo "  ✅ 集成测试覆盖率: ${INT_COV}%"
+    elif [ -n "$INT_COV" ]; then
+      echo "  ❌ 集成测试覆盖率: ${INT_COV}%（低于 95%）"
+      PASS=false
+      ERRORS=$((ERRORS + 1))
+    else
+      echo "  🟡 集成测试覆盖率报告存在但无法解析"
+      WARNINGS=$((WARNINGS + 1))
     fi
+  else
+    echo "  ❌ 未找到集成测试覆盖率报告 (coverage/integration/index.html)"
+    echo "     阶段2架构师应已配置覆盖率工具，输出到统一路径"
+    PASS=false
   fi
 
-  # 没有找到任何覆盖率报告
-  if [ ! -f "$JACOCO_HTML" ] && [ ! -f "$C8_REPORT" ] && [ ! -f "$PYCOV_HTML" ]; then
-    echo "  ❌ 未找到覆盖率报告（JaCoCo/c8/pytest-cov）"
-    echo "     阶段2架构师应已配置覆盖率工具（阈值 95%）"
+  if [ "$FOUND_ANY" = false ]; then
     ERRORS=$((ERRORS + 1))
   fi
 
-  # 检查集成测试是否连接真实 DB（非 mock）
+  # ── 兼容旧路径：如存在 target/site/jacoco 但无统一路径，提示迁移 ──
+  local LEGACY_JACOCO="$PROJECT_DIR/target/site/jacoco/index.html"
+  if [ -f "$LEGACY_JACOCO" ] && [ ! -f "$UNIT_REPORT" ]; then
+    echo "  ⚠️ 发现旧路径 JaCoCo 报告 (target/site/jacoco/)，请按统一路径约定迁移"
+    echo "     mkdir -p coverage/unit coverage/integration"
+    echo "     ln -sf $PWD/target/site/jacoco-ut coverage/unit"
+    echo "     ln -sf $PWD/target/site/jacoco-it coverage/integration"
+    WARNINGS=$((WARNINGS + 1))
+  fi
+
+  # ── 集成测试 mock 检查 ──
   local INT_DIR="$PROJECT_DIR/tests/integration"
   if [ -d "$INT_DIR" ]; then
     local MOCK_COUNT=$(grep -rl "mock\|Mock\|@Mock\|jest.mock\|unittest.mock" "$INT_DIR" 2>/dev/null | wc -l | tr -d ' ')
@@ -1043,6 +1055,75 @@ check_coverage() {
         echo "  ✅ 集成测试未使用 mock"
       fi
     fi
+  fi
+}
+
+# TC 追溯校验（阶段6/7/8）
+# 扫描测试代码中的 TC-xxx 标注，对比 test-plan.md 中的 TC 列表
+check_tc_traceability() {
+  echo ""
+  echo "🔗 检查 TC 追溯（测试代码 → test-plan.md）"
+
+  local TEST_PLAN="$PROJECT_DIR/test-plan.md"
+  if [ ! -f "$TEST_PLAN" ]; then
+    echo "  ⚠️ test-plan.md 不存在，跳过 TC 追溯检查"
+    return
+  fi
+
+  # 提取 test-plan.md 中的所有 TC-xxx
+  local PLAN_TCS=$(grep -oE 'TC-[0-9]+' "$TEST_PLAN" 2>/dev/null | sort -u)
+  if [ -z "$PLAN_TCS" ]; then
+    echo "  ⚠️ test-plan.md 中未找到 TC-xxx 编号"
+    WARNINGS=$((WARNINGS + 1))
+    return
+  fi
+
+  local PLAN_TC_COUNT=$(echo "$PLAN_TCS" | wc -l | tr -d ' ')
+  echo "  📋 test-plan.md 中定义了 ${PLAN_TC_COUNT} 个 TC"
+
+  # 扫描测试代码中的 TC-xxx 标注
+  local TESTS_DIR="$PROJECT_DIR/tests"
+  if [ ! -d "$TESTS_DIR" ]; then
+    echo "  ❌ tests/ 目录不存在"
+    ERRORS=$((ERRORS + 1))
+    return
+  fi
+
+  # 支持 Java (@DisplayName, 注释), JS/TS (注释, describe/it), Python (注释, docstring)
+  local CODE_TCS=$(grep -roE 'TC-[0-9]+' "$TESTS_DIR" 2>/dev/null | sed 's/.*:\(TC-[0-9]*\).*/\1/' | sort -u)
+  local CODE_TC_COUNT=$(echo "$CODE_TCS" | grep -c 'TC-' 2>/dev/null || echo 0)
+  echo "  📝 测试代码中标注了 ${CODE_TC_COUNT} 个 TC"
+
+  # 找出 test-plan 中有但测试代码中没标注的 TC
+  local MISSING_TCS=""
+  for tc in $PLAN_TCS; do
+    if ! echo "$CODE_TCS" | grep -q "$tc"; then
+      MISSING_TCS="$MISSING_TCS $tc"
+    fi
+  done
+
+  if [ -z "$MISSING_TCS" ]; then
+    echo "  ✅ test-plan.md 中所有 TC 均在测试代码中有标注"
+  else
+    local MISSING_COUNT=$(echo "$MISSING_TCS" | wc -w | tr -d ' ')
+    echo "  ❌ ${MISSING_COUNT} 个 TC 在测试代码中未标注:$(echo $MISSING_TCS | tr '\n' ' ')"
+    echo "     开发必须在测试方法名或注释中标注 TC-xxx（如 @DisplayName(\"TC-001: ...\") 或 // TC-001）"
+    ERRORS=$((ERRORS + 1))
+  fi
+
+  # 找出测试代码中有但 test-plan 中没有的 TC（可能是遗漏或拼写错误）
+  local EXTRA_TCS=""
+  for tc in $CODE_TCS; do
+    if ! echo "$PLAN_TCS" | grep -q "$tc"; then
+      EXTRA_TCS="$EXTRA_TCS $tc"
+    fi
+  done
+
+  if [ -n "$EXTRA_TCS" ]; then
+    local EXTRA_COUNT=$(echo "$EXTRA_TCS" | wc -w | tr -d ' ')
+    echo "  🟡 ${EXTRA_COUNT} 个 TC 仅在测试代码中存在，test-plan.md 未定义:$(echo $EXTRA_TCS | tr '\n' ' ')"
+    echo "     请确认这些 TC 是否需要补充到 test-plan.md"
+    WARNINGS=$((WARNINGS + 1))
   fi
 }
 
@@ -2008,7 +2089,7 @@ case "$PHASE" in
       PROTO_FILE_NAME=$(echo "$PROTO_SPEC" | cut -d: -f1)
       PROTO_MIN_L=$(echo "$PROTO_SPEC" | cut -d: -f2)
       # HTML 原型在 docs/ 目录
-      local OLD_PROJECT_DIR="$PROJECT_DIR"
+      OLD_PROJECT_DIR="$PROJECT_DIR"
       PROTO_PATH="$PROJECT_DIR/docs/$PROTO_FILE_NAME"
       if [ -f "$PROTO_PATH" ]; then
         LINES_PROTO=$(count_lines "$PROTO_PATH")
@@ -2036,7 +2117,7 @@ case "$PHASE" in
       check_file "$FILE_NAME" "$MIN_L"
     fi
     # prd-diff.md 额外检查
-    local DIFF_FILE="$PROJECT_DIR/pipeline/1.8/prd-diff.md"
+    DIFF_FILE="$PROJECT_DIR/pipeline/1.8/prd-diff.md"
     if [ ! -f "$DIFF_FILE" ]; then
       DIFF_FILE="$PROJECT_DIR/prd-diff.md"
     fi
@@ -2057,7 +2138,7 @@ case "$PHASE" in
       check_file "$FILE_NAME" "$MIN_L"
     fi
     # 检查原始 PRD 备份
-    local BACKUP_FILE="$PROJECT_DIR/docs/PRD-original-backup.md"
+    BACKUP_FILE="$PROJECT_DIR/docs/PRD-original-backup.md"
     if [ -f "$BACKUP_FILE" ]; then
       echo "  ✅ 原始 PRD 备份存在"
     else
@@ -2065,9 +2146,9 @@ case "$PHASE" in
       WARNINGS=$((WARNINGS + 1))
     fi
     # 检查 [待确认] 残留
-    local FINAL_PRD="$PROJECT_DIR/PRD.md"
+    FINAL_PRD="$PROJECT_DIR/PRD.md"
     if [ -f "$FINAL_PRD" ]; then
-      local PENDING=$(grep -c '\[待确认\]' "$FINAL_PRD" 2>/dev/null || echo 0)
+      PENDING=$(grep -c '\[待确认\]' "$FINAL_PRD" 2>/dev/null || echo 0)
       if [ "$PENDING" -gt 0 ]; then
         echo "  ❌ 最终 PRD 仍有 $PENDING 处 [待确认] 残留"
         ERRORS=$((ERRORS + 1))
@@ -2106,40 +2187,33 @@ case "$PHASE" in
     fi
     check_html_draft "$PROJECT_DIR/docs/architecture-draft.html" "$PROJECT_DIR/pipeline/2.6/architecture-feedback.md" "架构"
     ;;
-  3)
+  2.8)
     PHASE_SPEC=$(get_phase_file "$PHASE")
     if [ -n "$PHASE_SPEC" ]; then
       FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
       MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
       check_file "$FILE_NAME" "$MIN_L"
     fi
-    check_ux_review
-    check_re_review "$PROJECT_DIR/pipeline/3/re-review-ux.md" "UX复审" $(load_roles "REREVIEW_UX_ROLES" | tr '\n' ' ')
-    ;;
-  3.5)
-    PHASE_SPEC=$(get_phase_file "$PHASE")
-    if [ -n "$PHASE_SPEC" ]; then
-      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
-      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
-      check_file "$FILE_NAME" "$MIN_L"
-    fi
-    ;;
-  4)
-    PHASE_SPEC=$(get_phase_file "$PHASE")
-    if [ -n "$PHASE_SPEC" ]; then
-      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
-      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
-      check_file "$FILE_NAME" "$MIN_L"
-    fi
-    check_ui_review
-    check_re_review "$PROJECT_DIR/pipeline/4/re-review-ui.md" "UI复审" $(load_roles "REREVIEW_UI_ROLES" | tr '\n' ' ')
-    ;;
-  4.5)
-    PHASE_SPEC=$(get_phase_file "$PHASE")
-    if [ -n "$PHASE_SPEC" ]; then
-      FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
-      MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
-      check_file "$FILE_NAME" "$MIN_L"
+    # 检查 SPIKE-REPORT.md 存在且有结论
+    SPIKE_REPORT="$PROJECT_DIR/pipeline/2.8/SPIKE-REPORT.md"
+    if [ -f "$SPIKE_REPORT" ]; then
+      SPIKE_LINES=$(count_lines "$SPIKE_REPORT")
+      if [ "$SPIKE_LINES" -lt 10 ]; then
+        echo "  ❌ SPIKE-REPORT.md 内容不足（$SPIKE_LINES 行）"
+        ERRORS=$((ERRORS + 1))
+      else
+        echo "  ✅ SPIKE-REPORT.md 存在（$SPIKE_LINES 行）"
+      fi
+      # 检查是否有明确结论
+      if grep -qiE '结论|通过|不通过|有条件' "$SPIKE_REPORT" 2>/dev/null; then
+        echo "  ✅ SPIKE-REPORT.md 包含明确结论"
+      else
+        echo "  ❌ SPIKE-REPORT.md 缺少明确结论"
+        ERRORS=$((ERRORS + 1))
+      fi
+    else
+      echo "  ❌ SPIKE-REPORT.md 不存在: $SPIKE_REPORT"
+      ERRORS=$((ERRORS + 1))
     fi
     ;;
   5)
@@ -2187,6 +2261,7 @@ case "$PHASE" in
     check_code
     check_layered_architecture
     check_coverage
+    check_tc_traceability
     check_input_references "6" "$PROJECT_DIR" "ARCHITECTURE" "CODE-MAP" "TASK-LIST"
     check_feature_tags
     # 集成测试目录检查
@@ -2221,10 +2296,12 @@ case "$PHASE" in
     ;;
   7-test-review)
     check_test_review
+    check_tc_traceability
     ;;
   8)
     check_test
     check_coverage
+    check_tc_traceability
     check_e2e_execution
     check_test_case_review
     check_traceability "8"
@@ -2249,11 +2326,11 @@ case "$PHASE" in
   9)
     PHASE_SPEC=$(get_phase_file "$PHASE")
     if [ -n "$PHASE_SPEC" ]; then
-    check_feature_tags
       FILE_NAME=$(echo "$PHASE_SPEC" | cut -d: -f1)
       MIN_L=$(echo "$PHASE_SPEC" | cut -d: -f2)
       check_file "$FILE_NAME" "$MIN_L"
     fi
+    check_feature_tags
     check_deliverable_docs
     check_html_docs
     check_acceptance_quality

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5a7922769a64a98",
+        "id": "2df7668783e38f43",
         "type": "tabs",
         "children": [
           {
-            "id": "df1b934b5c006215",
+            "id": "690389647333b2db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skills/ui-ux-design/SKILL.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,43 +176,78 @@
       "bases:新建数据库": false
     }
   },
-  "active": "188aef49376e285c",
+  "floating": {
+    "id": "e7d66a6540eeedbb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f2f4b5757c76c70",
+        "type": "window",
+        "children": [
+          {
+            "id": "27d0d6f30326181f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d0e786b5c3409183",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 37,
+        "width": 1512,
+        "height": 945,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d0e786b5c3409183",
   "lastOpenFiles": [
+    "phases/requirements/stages/02-prd-writing.md",
+    "phases/requirements/stages/01-discovery.md",
+    "phases/requirements/references/anti-patterns.md",
+    "phases/requirements/references/quality-checklist.md",
+    "phases/requirements/references/discovery-questions.md",
+    "phases/requirements/templates/prd-minimal.md",
+    "phases/requirements/templates/prd-comprehensive.md",
+    "phases/requirements/pipeline-requirements.sh",
+    "PROJECT-TEMPLATE.md",
+    "Users/sunwenyong",
+    "Users",
+    "phases/requirements/lib/prd-parser.sh",
+    "scripts/pipeline-db.sh",
+    "config/schema.sql",
+    "phases/requirements/templates",
+    "phases/requirements/stages",
+    "phases/requirements/references",
+    "phases/requirements/lib",
+    "skill-registry.md",
+    "SCRIPT-SKILL-FLOW.md",
+    "PRD.md",
+    "stages/stage-1.md",
+    "stages/stage-0.md",
+    "skills/engineering-robustness/SKILL.md",
+    "references/security-scan-templates.md",
+    "references/iterative-contract.md",
+    "pipeline/PIPELINE-V2-OPTIMIZATION.md",
+    "skills/ui-ux-design/SKILL.md",
+    "stages/stage-2.8.md",
     "skills/interactive-html/SKILL.md",
     "skills/feature-tagging/SKILL.md",
-    "skills/engineering-robustness/SKILL.md",
-    "PROJECT-TEMPLATE.md",
-    "pipeline/PIPELINE-V2-OPTIMIZATION.md",
-    "pipeline",
     "stages/stage-1.9.md",
     "stages/stage-1.8.md",
     "stages/stage-1.7.md",
     "skills/prd-refinement/SKILL.md",
-    "skills/ui-ux-design/SKILL.md",
-    "skills/feature-tagging",
-    "skills/prd-refinement",
-    "skills/ui-ux-design",
-    "scripts/run-stage-6.sh.backup",
-    "ARCHITECTURE.md",
-    "skill-registry.md",
-    "未命名",
-    "Users/sunwenyong/projects/film-auth/PRD-system-permission-link.md",
-    "未命名.base",
-    "Users/sunwenyong/projects/film-auth",
-    "Users/sunwenyong/projects/film-auth.md",
-    "Users/sunwenyong/projects",
-    "Users/sunwenyong",
-    "stages/stage-1.6.md",
-    "stages/stage-3.md",
-    "stages/stage-5.5.md",
-    "stages/stage-7.md",
-    "stages/stage-8.5.md",
-    "stages/stage-7-test-review.md",
-    "stages/stage-10.md",
-    "stages/stage-8.md",
-    "stages/stage-5.md",
-    "PRD.md",
-    "stages/stage-9.md",
-    "stages/stage-6.5.md"
+    "ARCHITECTURE.md"
   ]
 }
