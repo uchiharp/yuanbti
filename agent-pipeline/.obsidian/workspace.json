@@ -176,43 +176,11 @@
       "bases:新建数据库": false
     }
   },
-  "floating": {
-    "id": "e7d66a6540eeedbb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2f2f4b5757c76c70",
-        "type": "window",
-        "children": [
-          {
-            "id": "27d0d6f30326181f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d0e786b5c3409183",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新标签页"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 37,
-        "width": 1512,
-        "height": 945,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d0e786b5c3409183",
+  "active": "690389647333b2db",
   "lastOpenFiles": [
+    "Users/sunwenyong/projects/filmProjects/ESTIMATION.md",
+    "Users/sunwenyong/projects/filmProjects",
+    "Users/sunwenyong/projects",
     "phases/requirements/stages/02-prd-writing.md",
     "phases/requirements/stages/01-discovery.md",
     "phases/requirements/references/anti-patterns.md",
@@ -229,8 +197,6 @@
     "config/schema.sql",
     "phases/requirements/templates",
     "phases/requirements/stages",
-    "phases/requirements/references",
-    "phases/requirements/lib",
     "skill-registry.md",
     "SCRIPT-SKILL-FLOW.md",
     "PRD.md",
@@ -247,7 +213,6 @@
     "stages/stage-1.9.md",
     "stages/stage-1.8.md",
     "stages/stage-1.7.md",
-    "skills/prd-refinement/SKILL.md",
-    "ARCHITECTURE.md"
+    "skills/prd-refinement/SKILL.md"
   ]
 }
