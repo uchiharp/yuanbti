@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2df7668783e38f43",
+        "id": "9aec7315e232f9fc",
         "type": "tabs",
         "children": [
           {
-            "id": "690389647333b2db",
+            "id": "4642bffe5507b9c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "690389647333b2db",
+  "active": "188aef49376e285c",
   "lastOpenFiles": [
     "Users/sunwenyong/projects/filmProjects/ESTIMATION.md",
     "Users/sunwenyong/projects/filmProjects",
