@@ -11,10 +11,14 @@
             "id": "4642bffe5507b9c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "references/security-scan-templates.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "security-scan-templates"
             }
           }
         ]
@@ -176,8 +180,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "188aef49376e285c",
+  "floating": {
+    "id": "f58efe192da02719",
+    "type": "floating",
+    "children": [
+      {
+        "id": "227bb644cd60036e",
+        "type": "window",
+        "children": [
+          {
+            "id": "794ecc3f659730b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d2c0c624233fde9c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 37,
+        "width": 1512,
+        "height": 945,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d2c0c624233fde9c",
   "lastOpenFiles": [
+    "references/security-scan-templates.md",
     "Users/sunwenyong/projects/filmProjects/ESTIMATION.md",
     "Users/sunwenyong/projects/filmProjects",
     "Users/sunwenyong/projects",
@@ -203,7 +243,6 @@
     "stages/stage-1.md",
     "stages/stage-0.md",
     "skills/engineering-robustness/SKILL.md",
-    "references/security-scan-templates.md",
     "references/iterative-contract.md",
     "pipeline/PIPELINE-V2-OPTIMIZATION.md",
     "skills/ui-ux-design/SKILL.md",
