@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCRIPT-SKILL-FLOW.md",
+                "file": "PROJECT-TEMPLATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCRIPT-SKILL-FLOW"
+              "title": "PROJECT-TEMPLATE"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "4642bffe5507b9c2",
   "lastOpenFiles": [
+    "SCRIPT-SKILL-FLOW.md",
     "skill-registry.md",
     "PROJECT-TEMPLATE.md",
-    "SCRIPT-SKILL-FLOW.md",
     "references/security-scan-templates.md",
     "Users/sunwenyong/projects/filmProjects/ESTIMATION.md",
     "Users/sunwenyong/projects/filmProjects",
