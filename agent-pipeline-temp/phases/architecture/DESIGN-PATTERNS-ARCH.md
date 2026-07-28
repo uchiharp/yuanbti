@@ -1,185 +1,124 @@
-# 架构师 Pipeline 特有设计模式
+---
+name: architecture-pipeline-design-patterns
+description: 架构师 Pipeline 特有的设计模式补充，对通用 Pipeline 设计模式的架构师特定扩展
+metadata:
+  type: reference
+---
 
-> 从架构师 Pipeline 抽象出的、与需求 Pipeline 不同的设计逻辑。
-> 通用设计模式（断点续跑、前置条件、产出物校验等）参见 `~/tools/requirements-pipeline/DESIGN-PATTERNS.md`。
+# 架构师 Pipeline 设计模式补充
+
+本文档是通用 Pipeline 设计模式（见 requirements-pipeline/DESIGN-PATTERNS.md）的架构师特定补充。
 
 ---
 
-## 1. 共用数据库、Phase 隔离
+## 1. 六步流程编排
 
-**问题**：架构师 Pipeline 和需求 Pipeline 共用同一个 pipeline.db，如何避免数据冲突？
+**与需求 Pipeline 的区别：**
 
-**设计**：
-- `phase_log` 表的 `phase` 字段区分：`requirements` / `architecture` / `design`（兼容旧数据）
-- 每个 Pipeline 只查自己 phase 的记录
-- `features` 表是共享的，需求组写入，架构组读取并更新状态
-- `artifacts` 表按 phase 区分：`requirements` 产出 PRD.md，`architecture` 产出 ARCHITECTURE.md
+| 特性 | 需求 Pipeline | 架构 Pipeline |
+|------|-------------|-------------|
+| 步骤数 | 5 步 | 6 步 |
+| 自动步骤 | 评分 | 评分 |
+| 条件步骤 | 无 | Spike（高风险时触发） |
+| 前置依赖 | 无 | requirements_done |
+| phase 字段 | `requirements` | `architecture` |
 
-**复用要点**：
-- 所有 `get_step_status()` 查询都带 `phase='architecture'` 条件
-- `db_phase_log()` 调用时传入 `phase='architecture'`
-
----
-
-## 2. 前置条件链（Phase 级）
-
-**问题**：架构师 Pipeline 的前置条件不是单个文件，而是整个需求阶段的完成状态。
-
-**设计**：
-- `check_requirements_done()` 检查 `projects.current_phase = requirements_done`
-- 需求组完成后设置 `current_phase = requirements_done`
-- 架构组完成后设置 `current_phase = design_done`
-- 每个 Pipeline 启动时检查前置 Phase
-
+**流程：**
 ```
-requirements_done → design_done → (后续阶段)
+arch-design → arch-quality-score → arch-review → arch-user-review → tech-spike(条件) → arch-finalize
 ```
 
-**复用要点**：
-- 每个 Phase Pipeline 都有 `check_xxx_done()` 前置检查
-- `current_phase` 是阶段级的状态机
-
 ---
 
-## 3. 内联评分（无 AI）
+## 2. 条件触发（Conditional Trigger）
 
-**问题**：质量评分步骤不需要 AI 执行，应该由脚本自动完成。
+**问题：** Spike 步骤不是每次都执行，只在架构中有高风险标记时触发。
 
-**设计**：
-- `arch_score_inline()` 函数在 `arch-parser.sh` 中实现
-- 用 `grep` + 关键词检测替代 AI 理解
-- 检测覆盖度（6维度、11项健壮性）通过关键词匹配
-- 评分结果 JSON 存入 `phase_log.detail`
-
-**复用要点**：
-- 评分函数是纯 bash，不需要 AI 调用
-- 评分结果用于后续步骤的门控（NEEDS_WORK 跳过评审）
-
----
-
-## 4. 条件步骤（Tech Spike）
-
-**问题**：Tech Spike 不是每次都执行，只在架构有高风险标记时触发。
-
-**设计**：
-- `check_high_risk()` 检测 ARCHITECTURE.md 中的高风险关键词
-- 检测词：`HIGH-RISK`、`SPIKE`、`高风险`、`需验证`、`技术不确定性`
-- 无高风险标记 → `tech-spike` 步骤自动标记为 `skipped`
-- 有高风险标记 → 正常执行 Spike
+**设计：**
+- `run_tech_spike()` 函数开头检查 ARCHITECTURE.md 中是否有高风险标记
+- 有 → 执行 Spike 验证
+- 无 → 标记 skipped，直接跳过
+- 检测关键词：`高风险`、`🔴`、`Spike`、`需验证`
 
 ```
-arch-user-review → check_high_risk() → [有] → tech-spike
-                                       → [无] → skip → arch-finalize
+local risk_markers=$(grep -ciE '高风险|🔴|Spike|需验证' "$arch_file" || echo 0)
+if [ "$risk_markers" -eq 0 ]; then
+  echo "⏩ 无高风险标记，跳过 Spike"
+  db_phase_log ... "skipped"
+  return 0
+fi
 ```
 
-**复用要点**：
-- 条件步骤的 `require_step_done` 逻辑：skipped 也视为"完成"
-- 条件判断在步骤开头，不在主流程
+**复用要点：** 任何 Pipeline 都可以有条件步骤，用关键词检测 + skipped 状态。
 
 ---
 
-## 5. 产出物级联清理
+## 3. 多产出物校验
 
-**问题**：重跑某步骤时，下游产出物需要清理，但清理粒度因步骤而异。
+**问题：** 架构设计步骤产出多个文件（ARCHITECTURE.md + docker-compose.test.yml + 覆盖率配置），校验逻辑比需求 Pipeline 复杂。
 
-**设计**：
-- `cleanup_downstream(from_step)` 按步骤递增清理
-- 架构设计重跑 → 清理 ARCHITECTURE.md + docker-compose + artifacts
-- 评分重跑 → 清理评审报告
-- 评审重跑 → 清理 HTML + 反馈
-- 用户审阅重跑 → 清理 Spike 报告
+**设计：**
+- 主产出物（ARCHITECTURE.md）：行数 ≥100 + 结构校验
+- 辅助产出物（docker-compose.test.yml）：存在性校验
+- 嵌入产出物（覆盖率配置）：关键词检测
 
 ```
-arch-design → ALL (arch + dc + artifacts + review + html + spike)
-arch-quality-score → review + html + spike
-arch-review → html + spike
-arch-user-review → spike
+validate_artifact "$arch_file" "ARCHITECTURE.md" 100
+# docker-compose 可选但推荐
+# 覆盖率配置通过 arch_score_inline 自动检测
 ```
 
-**复用要点**：
-- 清理在步骤执行前调用
-- `rm -f` 幂等，不怕文件不存在
+---
+
+## 4. 评分维度差异
+
+**需求 Pipeline 评分：** 12 项 × 5 分 = 60 分
+- 聚焦 PRD 质量：摘要、问题、目标、REQ 编号...
+
+**架构 Pipeline 评分：** 12 项 × 5 分 = 60 分
+- 聚焦架构质量：架构图、技术选型、数据模型、API、安全、风险、6维度、健壮性...
+
+**共同模式：**
+- 评分函数纯 bash，不依赖外部工具
+- 评分结果存入 `phase_log.detail`（JSON 格式）
+- 评级阈值统一：EXCELLENT≥54, GOOD≥45, ACCEPTABLE≥36, NEEDS_WORK<36
 
 ---
 
-## 6. HTML 转换中间产物
+## 5. 评审角色扩展
 
-**问题**：用户审阅需要 HTML 格式，但源文件是 Markdown。
+**需求 Pipeline 评审：** 3 角色（RD + 架构师 + QA）
+**架构 Pipeline 评审：** 4 角色（开发1 + 开发2 + QA + PM）
 
-**设计**：
-- `arch-user-review` 步骤产出 `docs/architecture-draft.html`
-- HTML 是中间产物，源文件始终是 ARCHITECTURE.md
-- 用户反馈必须同步回 ARCHITECTURE.md
-- HTML 不作为最终交付物
-
-**复用要点**：
-- `docs/` 目录存放中间产物
-- 产出物校验检查 HTML 存在性，不检查内容质量
+**设计要点：**
+- 角色定义在 `references/arch-adversarial-review.md`
+- 评审 prompt 统一组装，不分角色拆分
+- 阻断项检测逻辑相同
 
 ---
 
-## 7. Spike 结论路由
+## 6. 前置依赖链
 
-**问题**：Spike 结论不只有"通过"，还有"不通过"和"有条件通过"，需要不同的后续流程。
-
-**设计**：
-- Spike 报告必须包含明确结论
-- 全部通过 → 推进
-- 部分不通过 → 回退架构设计（用户确认）
-- 全部不通过 → 回退架构设计（用户确认）
-- 有条件通过 → 记录条件，推进
-
-**复用要点**：
-- 脚本检测 `不通过` 关键词，提示用户确认
-- 用户可选择"带风险继续"
-
----
-
-## 8. 功能点标签流转
-
-**问题**：架构完成后，features 表中的功能点状态需要更新。
-
-**设计**：
-- 需求组完成后：`status = PRD-已确认`
-- 架构组完成后：`status = ARCH-已设计`
-- 标签更新在 `arch-finalize` 步骤中批量执行
-- 同时写入 `feature_history` 表
-
+**架构 Pipeline 的完整依赖链：**
 ```
-PRD-已确认 → ARCH-已设计 → (后续标签)
+requirements_done → arch-design → arch-quality-score → arch-review → arch-user-review → tech-spike(条件) → arch-finalize → development
 ```
 
-**复用要点**：
-- `db_feature_set_status()` 同时更新 features 和 feature_history
-- 批量更新用 `grep PRD` 提取 REQ 列表后循环
+**前置检查：**
+- `init_project()` 检查 `current_phase = requirements_done`
+- `run_arch_design()` 检查 features 表有 `PRD-已确认` 的 REQ
+- 后续步骤各自检查前置步骤完成状态
 
 ---
 
-## 9. 规模自适应模板
+## 7. 入库逻辑差异
 
-**问题**：不同规模的项目需要不同详细程度的架构方案。
+**需求 Pipeline 入库：**
+- 更新 projects.current_phase = requirements_done
+- 注册 features（REQ 列表）
+- 注册 artifacts（PRD.md）
 
-**设计**：
-- 规模从 DB 读取（需求组已判定）或从 PRD 推断
-- 大型/中型 → `architecture-comprehensive.md` 模板
-- 小型 → `architecture-minimal.md` 模板
-- 评分标准不变（60分制），但小型项目某些章节可简化
-
-**复用要点**：
-- `determine_size()` 函数优先读 DB，其次推断，最后默认 medium
-- 模板选择在 prompt 组装时决定
-
----
-
-## 10. 多 Skill 联合加载
-
-**问题**：架构设计需要同时加载多个 Skill（tech-architecture + engineering-robustness + logging-exception）。
-
-**设计**：
-- prompt 组装时拼接多个 Skill 文件内容
-- Skill 内容直接嵌入 prompt，不依赖运行时加载
-- 每个 Skill 文件独立，可单独更新
-
-**复用要点**：
-- `[ -f "$skill_file" ] && skill_content=$(cat "$skill_file")`
-- Skill 内容按优先级排列在 prompt 中
+**架构 Pipeline 入库：**
+- 更新 projects.current_phase = architecture_done
+- 更新 features 状态 → 技术方案-已确认
+- 注册 artifacts（ARCHITECTURE.md + docker-compose.test.yml）

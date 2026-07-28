@@ -1,82 +1,84 @@
-# 架构设计阶段指令
+# Stage 1: 架构设计
 
-你是架构师，基于已确认的 PRD 产出技术架构方案。不要问"要继续吗"，收到任务直接执行。
+## 任务
 
-## 前置条件
-- PRD.md 已存在且需求阶段已完成（current_phase = requirements_done）
-- 所有 REQ-xxx 已在 PRD 中确认
+基于已确认的 PRD，产出完整技术架构方案。不仅要满足需求，还需主动分析架构约束、性能指标、安全策略、扩展性、技术债务处理、可观测性等。
 
 ## 必读文件（按顺序）
-1. PRD.md（需求文档，包含所有 REQ-xxx）
-2. 本文件（阶段指令）
-3. skills/tech-architecture.md（架构设计方法论）
-4. skills/engineering-robustness.md（工程健壮性规范）
-5. skills/logging-exception.md（日志/异常/错误处理规范）
+
+1. PRD.md（已确认的需求文档）
+2. UI-UX-DESIGN.md（如有，阶段产出的设计文档）
+3. CONTEXT.md（项目上下文，如有）
+
+## 加载 Skill
+
+- `tech-architecture`（架构设计方法论）
+- `engineering-robustness`（工程健壮性设计规范）
+- `logging-exception`（日志/异常/错误处理规范）
 
 ## 产出物
+
 | 文件 | 最低行数 | 说明 |
 |------|---------|------|
 | ARCHITECTURE.md | 100 | 完整技术架构方案 |
 | docker-compose.test.yml | — | E2E 测试环境定义（DB + 后端 + 前端 + 依赖服务） |
+| 覆盖率工具配置 | — | JaCoCo/c8/coverage 配置（嵌入 pom.xml/package.json） |
 
 ## ARCHITECTURE.md 必须包含
 
-### 基础章节（必须）
-1. **系统架构图** — 整体架构，模块间关系
-2. **技术选型**（≥2个备选 + 选择理由 + trade-off）
-3. **数据模型**（实体关系 + 核心字段 + 索引策略）
-4. **API设计**（请求/响应格式 + 错误码 + 认证方式）
-5. **安全措施**
-6. **风险识别**（≥3个风险 + 应对方案）
+1. 系统架构图（含分层描述）
+2. 技术选型（≥2个备选 + 选择理由 + trade-off）
+3. 数据模型（实体关系 + 核心字段 + 索引策略）
+4. API设计（请求/响应格式 + 错误码 + 认证方式）
+5. 安全措施（认证/授权/加密）
+6. 风险识别（≥3个风险 + 应对方案）
+7. 代码架构（分层+模块+组件+目录+扩展点+模式选型+日志异常）
+8. 6维度技术特性深度分析（A-F全部）
+9. 11项工程健壮性设计
 
-### 代码架构章节（必须）
-7. **代码架构**（分层+模块+组件+目录+扩展点+模式选型+日志异常）
-
-### 6维度技术特性分析（必须）
+## 6维度技术特性深度分析（强制执行）
 
 架构方案不能只满足需求，必须主动分析以下 6 个维度：
 
-#### A. 架构约束分析
+### A. 架构约束分析
 - **技术栈限制**：选型框架的版本约束、兼容性、已知 issue
 - **基础设施约束**：部署环境（云/自建/混合）、资源限制、网络拓扑
 - **团队约束**：团队技术栈熟悉度、维护成本、招聘难度
 - **时间约束**：MVP 上线时间对架构决策的影响
 
-#### B. 性能指标设计
+### B. 性能指标设计
 - **响应时间**：P50/P95/P99 目标值，关键接口 SLA
 - **吞吐量**：QPS/TPS 预估值，峰值倍数
 - **数据量级**：初始数据量、增长速率、分库分表阈值
 - **缓存策略**：多级缓存设计、缓存命中率目标
 - **性能测试方案**：压测工具、基准数据、验收标准
 
-#### C. 安全策略设计
+### C. 安全策略设计
 - **认证授权**：OAuth2/JWT/Session 选型、RBAC/ABAC 模型
 - **数据安全**：加密传输(TLS)、加密存储、密钥管理
 - **API安全**：限流、防重放、签名验证、CORS策略
 - **依赖安全**：第三方依赖扫描、漏洞响应流程
 - **审计日志**：操作审计、数据变更审计、安全事件日志
 
-#### D. 扩展性设计
+### D. 扩展性设计
 - **水平扩展**：无状态设计、会话管理、负载均衡策略
 - **功能扩展**：插件机制、事件驱动、策略模式预留
 - **数据扩展**：分库分表方案、数据迁移策略、版本兼容
 - **接口版本化**：API 版本管理策略、向后兼容规则
 
-#### E. 技术债务管理
+### E. 技术债务管理
 - **已知债务识别**：哪些决策是短期妥协，为什么
 - **偿还计划**：每项债务的预期偿还时间和方式
 - **债务量化**：对开发效率/性能/维护成本的影响评估
 - **预防机制**：代码规范、架构守护测试、定期审视
 
-#### F. 可观测性设计
+### F. 可观测性设计
 - **日志规范**：结构化日志、日志级别策略、日志聚合方案
 - **指标监控**：应用指标（RED 方法）、基础设施指标（USE 方法）
 - **链路追踪**：分布式追踪方案、Trace ID 透传
 - **告警策略**：告警分级、响应流程、升级机制
 
-### 工程健壮性设计（必须）
-
-架构师必须在 ARCHITECTURE.md 中明确设计以下 11 项内容。详细规范见 `skills/engineering-robustness.md`。
+## 11项工程健壮性设计（必须在 ARCHITECTURE.md 中体现）
 
 1. 前端防抖/节流 — 列出所有需防抖/节流的接口和组件
 2. 分布式锁/并发控制 — 每个实体标注乐观锁字段或说明无并发风险
@@ -90,25 +92,17 @@
 10. 数据脱敏 — 所有敏感字段及脱敏规则
 11. 幂等性设计 — 每个写接口的幂等方案
 
-### 高风险标记（条件）
+## 执行流程
 
-如果存在以下情况，必须在 ARCHITECTURE.md 中用 HTML 注释标记：
-```markdown
-<!-- HIGH-RISK: 描述高风险技术点 -->
-<!-- SPIKE: 描述需要验证的技术点 -->
-<!-- RISK: 描述不确定的技术约束 -->
-```
-
-这些标记将触发 tech-spike 步骤。
-
-### 假设清单（必须）
-
-列出架构设计中做出的所有假设：
-```markdown
-## 假设清单
-1. [假设] 描述假设内容及依据
-2. [假设] ...
-```
+1. 加载 `tech-architecture` + `engineering-robustness` + `logging-exception` SKILL.md
+2. 读取 PRD.md（如有 UI-UX-DESIGN.md 也需读取）
+3. 讨论技术选型（Brainstorm）
+4. **执行 6 维度技术特性分析**（不是简单翻译需求）
+5. 产出 ARCHITECTURE.md
+6. 产出 docker-compose.test.yml
+7. 配置覆盖率工具
+8. 标注高风险技术点（触发 tech-spike 条件）
+9. 架构师自审（最多2轮）
 
 ## docker-compose.test.yml 要求
 
@@ -117,17 +111,47 @@
 ```yaml
 version: "3.8"
 services:
-  # 数据库 + 后端 + 前端 + 依赖服务
-  # 所有服务用 healthcheck 确认就绪
-  # 后端依赖 DB 就绪后才启动（condition: service_healthy）
-  # 端口映射明确
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: test123
+      MYSQL_DATABASE: app_test
+    ports: ["3306:3306"]
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    ports: ["6379:6379"]
+
+  backend:
+    build: ./backend
+    ports: ["8080:8080"]
+    depends_on:
+      mysql: { condition: service_healthy }
+      redis: { condition: service_started }
+    environment:
+      SPRING_PROFILES_ACTIVE: test
+
+  frontend:
+    build: ./frontend
+    ports: ["5173:80"]
+    depends_on: [backend]
 ```
+
+**要求**：
+- 所有服务用 healthcheck 确认就绪（不是 sleep 等待）
+- 后端依赖 DB 就绪后才启动（`condition: service_healthy`）
+- 端口映射明确，和 E2E 脚本中的 baseURL 一致
 
 ## 覆盖率工具配置要求
 
-架构师必须配置好覆盖率工具，嵌入项目构建配置中。阈值 95%。
+阈值 95%，低于则构建失败。
 
-### 统一路径约定
+### 统一路径约定（所有语言强制）
+
 ```
 {项目目录}/
   coverage/
@@ -135,43 +159,31 @@ services:
     integration/index.html   ← 集成测试覆盖率
 ```
 
-各语言通过构建工具或脚本将报告输出/软链到此路径。
+### 各语言配置
 
-## 执行流程
+- **Java**: JaCoCo（嵌入 pom.xml），拆分 ut/it 两个 execution
+- **Node.js/TypeScript**: c8（嵌入 package.json），`--reports-dir=coverage/unit`
+- **Python**: pytest-cov，`--cov-report=html:coverage/unit`
+- **Go**: go test -coverprofile + build tag 区分 unit/integration
+- **Rust**: cargo-tarpaulin
 
-1. 加载 `tech-architecture` + `logging-exception` + `engineering-robustness` Skill
-2. 读 PRD.md，理解所有 REQ-xxx
-3. 和用户讨论技术选型（Brainstorm）
-4. **执行 6 维度技术特性分析**（不是简单翻译需求）
-5. 产出 ARCHITECTURE.md
-6. 产出 docker-compose.test.yml
-7. 配置覆盖率工具
-8. 标注高风险技术点（触发 tech-spike 条件）
-9. 架构师自审（最多2轮）
+## 检查项（脚本强制）
 
-## 自审检查
-
-写完后对照以下要点自查：
 - [ ] ARCHITECTURE.md ≥100行
-- [ ] 技术选型有≥2个备选对比
-- [ ] 数据模型有字段定义（不只是表名）
-- [ ] API设计有请求/响应格式
-- [ ] 安全措施已覆盖
+- [ ] docker-compose.test.yml 存在
+- [ ] 覆盖率工具已配置，阈值 95%
+- [ ] 覆盖率报告输出到统一路径（coverage/unit/ + coverage/integration/）
+- [ ] ARCHITECTURE.md 包含 6 维度技术特性分析
+- [ ] ARCHITECTURE.md 包含全部 11 项工程健壮性设计
+- [ ] 技术选型有对比（≥2个备选）
+- [ ] 数据模型有字段定义
 - [ ] 风险识别≥3个
-- [ ] 6维度分析已覆盖
-- [ ] 11项工程健壮性已覆盖
-- [ ] docker-compose.test.yml 已产出
-- [ ] 高风险点已标记
 
-## 沟通规范
+## 约束
 
-| 必须做 | 不需要做 | 绝不应该做 |
-|--------|---------|-----------|
-| 讨论技术选型 | 写构建脚本 | 跳过 PRD 直接设计 |
-| 确认架构风格 | 配置 CI/CD | 编造不存在的技术需求 |
-| 确认数据模型 | 写部署文档 | 假设用户接受所有默认值 |
-| 标注高风险点 | — | 遗漏工程健壮性设计 |
-
-## 完成标志
-
-ARCHITECTURE.md 和 docker-compose.test.yml 写完后，通知用户确认。
+- 必须读取 PRD（不能靠记忆或概括）
+- 技术选型必须列出对比（≥2个备选）
+- 数据模型必须定义字段（不能只写表名）
+- 风险识别至少3个
+- 6 维度技术特性分析不能遗漏
+- 11 项工程健壮性设计不能遗漏
