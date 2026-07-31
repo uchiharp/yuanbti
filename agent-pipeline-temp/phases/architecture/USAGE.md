@@ -1,26 +1,26 @@
-# 架构师 Pipeline 使用指南
+# 架构组 Pipeline 使用指南
 
-在 Claude Code 中驱动架构师 Pipeline 的完整提示词集。
+在 Claude Code 中驱动架构组 Pipeline 的完整提示词集。
 
 ## 快速开始
 
 ```bash
-# 前提：需求阶段已完成（requirements_done）
-# 1. 初始化项目（只跑一次）
-./pipeline-architecture.sh --project my-project --dir /path/to/project
-
-# 2. 查看断点状态
+# 前置条件：需求阶段已完成（requirements_done）
+# 1. 查看断点状态
 ./pipeline-architecture.sh --project my-project --dir /path/to/project --status
 
-# 3. 跳过已有步骤继续
-./pipeline-architecture.sh --project my-project --dir /path/to/project --skip-arch-design
+# 2. 启动架构流水线
+./pipeline-architecture.sh --project my-project --dir /path/to/project
+
+# 3. 断点续跑（中断后直接重跑同命令）
+./pipeline-architecture.sh --project my-project --dir /path/to/project
 ```
 
 ## 提示词规则
 
 ### 核心原则
 
-1. **每个阶段一个提示词**，不要一次发多个阶段的指令
+1. **每个步骤一个提示词**，不要一次发多个步骤的指令
 2. **提示词里的路径必须和 `--dir` 一致**，否则产出文件找不到
 3. **脚本暂停时才用提示词**，脚本自动跑的步骤（评分）不需要
 4. **完成后重新运行脚本**，不要手动继续下一步
@@ -46,7 +46,9 @@
 项目名：{PROJECT}
 项目目录：{PROJECT_DIR}
 规模：{size}
-产出文件：{PROJECT_DIR}/ARCHITECTURE.md
+产出文件：
+- {PROJECT_DIR}/ARCHITECTURE.md（≥100行）
+- {PROJECT_DIR}/docker-compose.test.yml
 
 ## PRD 内容
 {PRD.md 的内容}
@@ -54,45 +56,37 @@
 ## 阶段指令
 {stages/01-arch-design.md 的内容}
 
-## 技术架构 Skill
-{skills/tech-architecture.md 的内容}
-
-## 工程健壮性 Skill
-{skills/engineering-robustness.md 的内容}
-
-## 日志异常 Skill
-{skills/logging-exception.md 的内容}
-
 ## 架构模板
 {templates/architecture-comprehensive.md 或 architecture-minimal.md 的内容}
 
-## 产出路径
-所有产出文件写入：{PROJECT_DIR}/
+## 工程健壮性规范（11项，必须覆盖）
+{skills/engineering-robustness.md 的内容}
 
-## 完成后
-产出 ARCHITECTURE.md + docker-compose.test.yml 后通知用户确认。
+## 日志/异常规范
+{skills/logging-exception.md 的内容}
 
 ## 约束
 - 不要问用户"要继续吗"，直接执行
-- 必须读取 PRD（不能靠记忆或概括）
-- 技术选型必须列出对比（≥2个备选）
+- 严格按照模板填写 ARCHITECTURE.md
+- 必须包含 6 维度技术特性分析
+- 必须包含 11 项工程健壮性设计
+- 技术选型必须列出 ≥2 个备选方案对比
 - 数据模型必须定义字段
-- 风险识别至少3个
-- 6维度技术特性分析不能遗漏
-- 11项工程健壮性设计不能遗漏
+- 风险识别至少 3 个
+- 覆盖 PRD 中的所有 REQ
+- ARCHITECTURE.md ≥100 行
+- 标注高风险技术点
 ```
-
-**执行方式**：直接在 Claude Code 会话中发送，Claude 会产出架构方案。确认后重跑脚本。
 
 ---
 
-## Step 2: 架构质量评分
+## Step 2: 质量评分
 
 **无需提示词**。脚本自动调用 `arch_score_inline` 执行评分，直接输出结果。
 
 ---
 
-## Step 3: 架构交叉评审 提示词
+## Step 3: 交叉评审 提示词
 
 评分通过后，脚本暂停时使用：
 
@@ -103,7 +97,7 @@
 项目名：{PROJECT}
 项目目录：{PROJECT_DIR}
 
-## ARCHITECTURE 内容
+## 架构方案
 {ARCHITECTURE.md 的内容}
 
 ## PRD 内容
@@ -118,8 +112,14 @@
 ## 产出
 将评审报告写入：{PROJECT_DIR}/cross-review-arch.md
 
+## 四个评审角色
+1. RD（开发视角）：技术可行性
+2. 架构师视角：架构一致性
+3. QA 视角：可测试性
+4. PM 视角：需求完整性
+
 ## 约束
-- 严格按输出格式写评审报告
+- 每个角色必须有独立评审段落和评分
 - 阻断项 = 0 时，结论为"评审通过"
 - 阻断项 > 0 时，结论为"评审未通过"
 - 不要修改 ARCHITECTURE.md，只发现问题
@@ -129,66 +129,81 @@
 
 ## Step 4: 用户审阅 提示词
 
+评审通过后，脚本暂停时使用：
+
 ```
-将 ARCHITECTURE.md 转成 HTML 格式，保存到 docs/architecture-draft.html。
-HTML 要求：保留标题层级、表格正常渲染、代码块语法高亮、浏览器可独立打开。
+将以下架构文档转换为 HTML。不要问"要继续吗"，收到任务直接执行。
+
+## 架构文档内容
+{ARCHITECTURE.md 的内容}
+
+## HTML 要求
+1. 响应式设计，支持桌面和移动端
+2. 暗色主题（技术文档风格）
+3. 代码块语法高亮
+4. 左侧目录导航
+5. 表格样式美观
+6. 内联 CSS/JS（独立可打开）
+
+## 产出
+将 HTML 文件保存到：{PROJECT_DIR}/architecture-draft.html
 ```
 
 ---
 
-## Step 5: 技术 Spike 提示词
+## Step 5: 技术 Spike 提示词（条件触发）
 
-当架构中有高风险标记时触发：
+只有 ARCHITECTURE.md 中有高风险标记时才触发：
 
 ```
-读取 ARCHITECTURE.md 中的高风险技术点，执行 Spike 验证。不要问"要继续吗"，收到任务直接执行。
+你是 Spike Agent，对架构方案中的高风险技术点进行快速原型验证。不要问"要继续吗"，收到任务直接执行。
 
 ## 项目
 项目名：{PROJECT}
 项目目录：{PROJECT_DIR}
+产出文件：{PROJECT_DIR}/SPIKE-REPORT.md
 
-## ARCHITECTURE 内容
-{ARCHITECTURE.md 中的风险相关章节}
+## 架构方案
+{ARCHITECTURE.md 的内容}
 
-## Spike 模板
-{references/spike-template.md 的内容}
-
-## 产出
-将 Spike 报告写入：{PROJECT_DIR}/SPIKE-REPORT.md
+## Spike 方法论
+{skills/tech-spike.md 的内容}
 
 ## 约束
-- 时间上限 4 小时
+- 时间盒限制：单个 Spike ≤ 2h，总时间 ≤ 4h
 - 只验证关键技术点，不做完整实现
-- 结论必须明确：✅/🟡/❌
+- 每个 Spike 必须有明确结论
+- 产出 SPIKE-REPORT.md
 ```
 
 ---
 
 ## 完整流程示例
 
-以项目 `task-app` 为例：
-
 ```bash
-# Step 0: 确保需求阶段已完成
-./pipeline-requirements.sh --project task-app --dir ~/projects/task-app --status
+# 前提：requirements pipeline 已完成
 
 # Step 1: 启动架构 Pipeline
 ./pipeline-architecture.sh --project task-app --dir ~/projects/task-app
 # → 脚本暂停，输出架构设计提示词
 
 # Step 2: 把架构设计提示词发给 Claude Code
-# → Claude 写出 ~/projects/task-app/ARCHITECTURE.md + docker-compose.test.yml
+# → Claude 写出 ARCHITECTURE.md + docker-compose.test.yml
 
-# Step 3: 重跑脚本（自动跳过架构设计）
+# Step 3: 重跑脚本（自动跳过已完成步骤）
 ./pipeline-architecture.sh --project task-app --dir ~/projects/task-app
 # → 自动评分，然后暂停输出交叉评审提示词
 
 # Step 4: 把交叉评审提示词发给 Claude Code
-# → Claude 写出 ~/projects/task-app/cross-review-arch.md
+# → Claude 写出 cross-review-arch.md
 
-# Step 5: 重跑脚本（自动跳过已完成步骤）
+# Step 5: 重跑脚本
 ./pipeline-architecture.sh --project task-app --dir ~/projects/task-app
-# → 用户审阅 → Spike（如有高风险）→ 入库
+# → 暂停输出用户审阅提示词
+
+# Step 6: 重跑脚本（用户确认后）
+./pipeline-architecture.sh --project task-app --dir ~/projects/task-app
+# → 条件触发 Spike → 入库
 
 # 随时查看状态
 ./pipeline-architecture.sh --project task-app --dir ~/projects/task-app --status
@@ -206,31 +221,40 @@ Pipeline 任何步骤中断后，直接重跑同命令：
 1. 检查 DB 中每个步骤的状态
 2. 已完成的步骤显示 ⏩ 跳过
 3. 从断点步骤继续执行
-4. `--status` 只看不动，不执行任何步骤
+
+## 指定步骤运行
+
+使用 `--step` 参数只执行某个步骤：
+
+```bash
+# 只执行架构设计
+./pipeline-architecture.sh --project task-app --dir ~/projects/task-app --step arch-design
+
+# 只执行质量评分
+./pipeline-architecture.sh --project task-app --dir ~/projects/task-app --step arch-quality-score
+```
 
 ## 常用场景
 
 | 场景 | 命令 |
 |------|------|
-| 已有架构方案，跳过设计 | `--skip-arch-design` |
 | 强制指定规模 | `--size large` |
 | CI 自动模式 | `--yes` |
 | 只看断点不执行 | `--status` |
+| 只跑某个步骤 | `--step arch-design` |
 | 修改架构后重评 | 正常重跑（会自动重跑评分+评审） |
 
 ## 文件结构
 
 ```
 project-dir/
-├── pipeline.db              # 状态数据库（与需求阶段共用）
-├── PRD.md                   # 需求阶段产出
-├── ARCHITECTURE.md          # 架构设计产出
-├── docker-compose.test.yml  # 测试环境定义
-├── cross-review-arch.md     # 交叉评审产出
-├── architecture-feedback.md # 用户反馈记录
-├── SPIKE-REPORT.md          # Spike 报告（如有）
-└── docs/
-    └── architecture-draft.html  # HTML 版本
+├── pipeline.db                 # 状态数据库（与需求组共用）
+├── PRD.md                      # 需求文档（需求组产出）
+├── ARCHITECTURE.md             # Step 1 产出
+├── docker-compose.test.yml     # Step 1 产出
+├── cross-review-arch.md        # Step 3 产出
+├── architecture-draft.html     # Step 4 产出
+└── SPIKE-REPORT.md             # Step 5 产出（条件触发）
 ```
 
 ## 自动调度模式
@@ -244,3 +268,14 @@ DISPATCH_CMD='claude --print' ./pipeline-architecture.sh --project task-app --di
 # 自定义调度
 DISPATCH_CMD='my-ai-client --input' ./pipeline-architecture.sh --project task-app --dir ~/projects/task-app --yes
 ```
+
+## 架构组与需求组的关系
+
+```
+requirements pipeline → requirements_done → architecture pipeline → architecture_done
+       ↓                                            ↓
+  PRD.md (12 REQ)                          ARCHITECTURE.md
+                                            features: PRD-已确认 → 技术方案-已确认
+```
+
+两个 pipeline 共用 `pipeline.db`，通过 `phase` 字段和 `current_phase` 区分阶段。

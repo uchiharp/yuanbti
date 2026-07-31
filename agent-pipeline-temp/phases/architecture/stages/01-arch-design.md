@@ -1,44 +1,39 @@
-# Stage 1: 架构设计
+# 阶段1: 架构设计（arch-design）
 
 ## 任务
+基于已确认的 PRD，产出完整技术架构方案。不仅要满足需求，还需主动分析架构约束、性能指标、安全策略、扩展性、技术债务处理、可观测性等 6 个维度，并包含 11 项工程健壮性设计。
 
-基于已确认的 PRD，产出完整技术架构方案。不仅要满足需求，还需主动分析架构约束、性能指标、安全策略、扩展性、技术债务处理、可观测性等。
+## 前置条件
+- `requirements_done`（需求阶段已完成）
+- PRD.md 存在且已确认
 
 ## 必读文件（按顺序）
-
-1. PRD.md（已确认的需求文档）
-2. UI-UX-DESIGN.md（如有，阶段产出的设计文档）
-3. CONTEXT.md（项目上下文，如有）
+1. PRD.md（需求文档，必须逐条读取）
+2. PROJECT-BRIEF.md（项目概要，如存在）
 
 ## 加载 Skill
-
 - `tech-architecture`（架构设计方法论）
-- `engineering-robustness`（工程健壮性设计规范）
 - `logging-exception`（日志/异常/错误处理规范）
+- `engineering-robustness`（工程健壮性规范）
 
 ## 产出物
-
 | 文件 | 最低行数 | 说明 |
 |------|---------|------|
 | ARCHITECTURE.md | 100 | 完整技术架构方案 |
 | docker-compose.test.yml | — | E2E 测试环境定义（DB + 后端 + 前端 + 依赖服务） |
-| 覆盖率工具配置 | — | JaCoCo/c8/coverage 配置（嵌入 pom.xml/package.json） |
 
 ## ARCHITECTURE.md 必须包含
+1. **系统架构图** — 整体系统拓扑，模块间关系
+2. **技术选型**（≥2个备选 + 选择理由 + trade-off）
+3. **数据模型**（实体关系 + 核心字段 + 索引策略）
+4. **API设计**（请求/响应格式 + 错误码 + 认证方式）
+5. **安全措施**（认证授权 + 数据安全 + API安全）
+6. **风险识别**（≥3个风险 + 应对方案）
+7. **代码架构**（分层+模块+组件+目录+扩展点+模式选型+日志异常）
+8. **并发与边界设计**（防抖/节流/并发控制/边界条件）
+9. **需求映射**（每个 REQ 对应的架构决策）
 
-1. 系统架构图（含分层描述）
-2. 技术选型（≥2个备选 + 选择理由 + trade-off）
-3. 数据模型（实体关系 + 核心字段 + 索引策略）
-4. API设计（请求/响应格式 + 错误码 + 认证方式）
-5. 安全措施（认证/授权/加密）
-6. 风险识别（≥3个风险 + 应对方案）
-7. 代码架构（分层+模块+组件+目录+扩展点+模式选型+日志异常）
-8. 6维度技术特性深度分析（A-F全部）
-9. 11项工程健壮性设计
-
-## 6维度技术特性深度分析（强制执行）
-
-架构方案不能只满足需求，必须主动分析以下 6 个维度：
+## 自身技术特性深度分析（6维度，强制执行）
 
 ### A. 架构约束分析
 - **技术栈限制**：选型框架的版本约束、兼容性、已知 issue
@@ -78,109 +73,51 @@
 - **链路追踪**：分布式追踪方案、Trace ID 透传
 - **告警策略**：告警分级、响应流程、升级机制
 
-## 11项工程健壮性设计（必须在 ARCHITECTURE.md 中体现）
+## 工程健壮性设计（11项，必须在 ARCHITECTURE.md 中体现）
 
-1. 前端防抖/节流 — 列出所有需防抖/节流的接口和组件
-2. 分布式锁/并发控制 — 每个实体标注乐观锁字段或说明无并发风险
-3. 边界条件清单 — 逐接口列出边界条件处理策略
-4. 超时设计 — 列出所有外部调用及超时配置
-5. 缓存策略 — 每个缓存的 key 设计、TTL、失效策略
-6. 限流 — 维度 + 阈值 + 超限响应
-7. 文件上传安全 — 类型/大小/路径/权限
-8. 连接池配置 — 所有连接池参数
-9. 优雅降级 — 每个非核心依赖的降级方案
-10. 数据脱敏 — 所有敏感字段及脱敏规则
-11. 幂等性设计 — 每个写接口的幂等方案
-
-## 执行流程
-
-1. 加载 `tech-architecture` + `engineering-robustness` + `logging-exception` SKILL.md
-2. 读取 PRD.md（如有 UI-UX-DESIGN.md 也需读取）
-3. 讨论技术选型（Brainstorm）
-4. **执行 6 维度技术特性分析**（不是简单翻译需求）
-5. 产出 ARCHITECTURE.md
-6. 产出 docker-compose.test.yml
-7. 配置覆盖率工具
-8. 标注高风险技术点（触发 tech-spike 条件）
-9. 架构师自审（最多2轮）
+1. **前端防抖/节流** — 列出所有需防抖/节流的接口和组件
+2. **分布式锁/并发控制** — 每个实体标注乐观锁字段或说明无并发风险
+3. **边界条件清单** — 逐接口列出边界条件处理策略
+4. **超时设计** — 列出所有外部调用及超时配置
+5. **缓存策略** — 每个缓存的 key 设计、TTL、失效策略
+6. **限流** — 维度 + 阈值 + 超限响应
+7. **文件上传安全** — 类型/大小/路径/权限
+8. **连接池配置** — 所有连接池参数
+9. **优雅降级** — 每个非核心依赖的降级方案
+10. **数据脱敏** — 所有敏感字段及脱敏规则
+11. **幂等性设计** — 每个写接口的幂等方案
 
 ## docker-compose.test.yml 要求
-
-架构师必须产出测试环境定义文件，确保后续阶段都能一键启动完整环境：
 
 ```yaml
 version: "3.8"
 services:
-  mysql:
-    image: mysql:8.0
-    environment:
-      MYSQL_ROOT_PASSWORD: test123
-      MYSQL_DATABASE: app_test
-    ports: ["3306:3306"]
-    healthcheck:
-      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
-      interval: 5s
-      retries: 10
-
-  redis:
-    image: redis:7-alpine
-    ports: ["6379:6379"]
-
-  backend:
-    build: ./backend
-    ports: ["8080:8080"]
-    depends_on:
-      mysql: { condition: service_healthy }
-      redis: { condition: service_started }
-    environment:
-      SPRING_PROFILES_ACTIVE: test
-
-  frontend:
-    build: ./frontend
-    ports: ["5173:80"]
-    depends_on: [backend]
+  # 所有服务用 healthcheck 确认就绪（不是 sleep 等待）
+  # 后端依赖 DB 就绪后才启动（condition: service_healthy）
+  # 端口映射明确
 ```
 
-**要求**：
-- 所有服务用 healthcheck 确认就绪（不是 sleep 等待）
-- 后端依赖 DB 就绪后才启动（`condition: service_healthy`）
-- 端口映射明确，和 E2E 脚本中的 baseURL 一致
-
-## 覆盖率工具配置要求
-
-阈值 95%，低于则构建失败。
-
-### 统一路径约定（所有语言强制）
-
-```
-{项目目录}/
-  coverage/
-    unit/index.html          ← 单元测试覆盖率
-    integration/index.html   ← 集成测试覆盖率
-```
-
-### 各语言配置
-
-- **Java**: JaCoCo（嵌入 pom.xml），拆分 ut/it 两个 execution
-- **Node.js/TypeScript**: c8（嵌入 package.json），`--reports-dir=coverage/unit`
-- **Python**: pytest-cov，`--cov-report=html:coverage/unit`
-- **Go**: go test -coverprofile + build tag 区分 unit/integration
-- **Rust**: cargo-tarpaulin
+## 执行流程
+1. 加载 `tech-architecture` + `logging-exception` + `engineering-robustness` SKILL
+2. 读取 PRD.md，逐条理解 REQ
+3. 和用户讨论技术选型（Brainstorm）
+4. **执行 6 维度技术特性深度分析**
+5. **执行 11 项工程健壮性设计**
+6. 产出 ARCHITECTURE.md + docker-compose.test.yml
+7. 标注高风险技术点（触发 tech-spike 条件）
+8. 架构师自审（最多2轮）
 
 ## 检查项（脚本强制）
-
 - [ ] ARCHITECTURE.md ≥100行
 - [ ] docker-compose.test.yml 存在
-- [ ] 覆盖率工具已配置，阈值 95%
-- [ ] 覆盖率报告输出到统一路径（coverage/unit/ + coverage/integration/）
 - [ ] ARCHITECTURE.md 包含 6 维度技术特性分析
 - [ ] ARCHITECTURE.md 包含全部 11 项工程健壮性设计
-- [ ] 技术选型有对比（≥2个备选）
-- [ ] 数据模型有字段定义
-- [ ] 风险识别≥3个
+- [ ] 技术选型有 ≥2 个备选方案对比
+- [ ] 数据模型定义了字段（不只是表名）
+- [ ] 风险识别 ≥3 个
+- [ ] 覆盖了 PRD 中的所有 REQ
 
 ## 约束
-
 - 必须读取 PRD（不能靠记忆或概括）
 - 技术选型必须列出对比（≥2个备选）
 - 数据模型必须定义字段（不能只写表名）
